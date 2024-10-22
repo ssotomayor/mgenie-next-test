@@ -1,0 +1,89 @@
+{
+    "ticker": "DRIO",
+    "name": "DarioHealth Corp.",
+    "description": "DarioHealth Corp. is a digital health company that specializes in providing innovative solutions for chronic disease management, particularly diabetes. Founded in 2011, DarioHealth has developed an integrated platform that combines mobile health applications, connected devices, and personalized data analytics to empower patients in managing their health. The company's flagship product is the Dario Blood Glucose Monitoring System, which offers real-time glucose monitoring and actionable insights for diabetes management. DarioHealth's approach is centered around patient engagement, offering tools that help users track their health metrics, receive tailored recommendations, and connect with healthcare professionals. In addition to diabetes, the company is expanding its offerings to include solutions for hypertension and weight management, positioning itself as a comprehensive health management platform. With a focus on improving patient outcomes and reducing healthcare costs, DarioHealth leverages technology to enhance the user experience in chronic disease care. The company's mission is to transform the way chronic illnesses are managed, making health data accessible and actionable for both patients and healthcare providers.",
+    "industry": [
+        "Healthcare",
+        "Digital Health"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2011",
+    "website": "https://www.dariohealth.com",
+    "ceo": "Erez Raphael",
+    "social_media": {
+        "twitter": "https://twitter.com/DarioHealth",
+        "linkedin": "https://www.linkedin.com/company/dariohealth/"
+    },
+    "investor_relations": "https://investors.dariohealth.com",
+    "key_executives": [
+        {
+            "name": "Erez Raphael",
+            "position": "CEO"
+        },
+        {
+            "name": "Oren Fuerst",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Diabetes Management",
+            "products": [
+                "Dario Blood Glucose Monitoring System",
+                "Dario App"
+            ]
+        },
+        {
+            "category": "Chronic Care Management",
+            "products": [
+                "Hypertension Management",
+                "Weight Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DarioHealth Corp. | Innovative Digital Health Solutions",
+        "meta_description": "Explore DarioHealth Corp., a leader in digital health solutions for chronic disease management, including diabetes. Discover innovative tools for better health.",
+        "keywords": [
+            "DarioHealth",
+            "Digital Health",
+            "Diabetes Management",
+            "Chronic Disease",
+            "Healthcare Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does DarioHealth specialize in?",
+            "answer": "DarioHealth specializes in digital health solutions for chronic disease management, particularly diabetes."
+        },
+        {
+            "question": "Who is the CEO of DarioHealth?",
+            "answer": "Erez Raphael is the CEO of DarioHealth Corp."
+        },
+        {
+            "question": "Where is DarioHealth headquartered?",
+            "answer": "DarioHealth is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are DarioHealth's main products?",
+            "answer": "DarioHealth's main products include the Dario Blood Glucose Monitoring System and its mobile application."
+        },
+        {
+            "question": "When was DarioHealth founded?",
+            "answer": "DarioHealth was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "MDGL",
+        "NVCR",
+        "HOLX",
+        "AMGN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

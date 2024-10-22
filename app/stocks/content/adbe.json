@@ -1,0 +1,99 @@
+{
+    "ticker": "ADBE",
+    "name": "Adobe Inc.",
+    "description": "Adobe Inc. is a multinational software company that has revolutionized the digital media and marketing landscape since its founding in 1982. Known for its innovative products, Adobe provides a comprehensive suite of tools for creative professionals, marketers, and enterprises. Its flagship product, Adobe Photoshop, is the industry standard for image editing, while Adobe Illustrator and Adobe Premiere Pro are essential for graphic design and video editing, respectively. Adobe also offers cloud-based solutions through Adobe Creative Cloud, which allows users to access a range of applications and services seamlessly. In addition to creative software, Adobe has made significant strides in digital marketing with Adobe Experience Cloud, which provides analytics, content management, and advertising tools to help businesses optimize their customer experiences. With a commitment to empowering creativity and driving digital transformation, Adobe continues to lead the way in software innovation, enabling users to create, collaborate, and engage in the digital world effectively. The company\u2019s mission is to change the world through digital experiences, making it easier for individuals and businesses to express their creativity and connect with their audiences.",
+    "industry": [
+        "Software",
+        "Digital Media"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1982",
+    "website": "https://www.adobe.com",
+    "ceo": "Shantanu Narayen",
+    "social_media": {
+        "twitter": "https://twitter.com/Adobe",
+        "linkedin": "https://www.linkedin.com/company/adobe/"
+    },
+    "investor_relations": "https://ir.adobe.com",
+    "key_executives": [
+        {
+            "name": "Shantanu Narayen",
+            "position": "CEO"
+        },
+        {
+            "name": "John Murphy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Creative Cloud",
+            "products": [
+                "Photoshop",
+                "Illustrator",
+                "Premiere Pro",
+                "After Effects"
+            ]
+        },
+        {
+            "category": "Document Cloud",
+            "products": [
+                "Adobe Acrobat",
+                "Adobe Sign"
+            ]
+        },
+        {
+            "category": "Experience Cloud",
+            "products": [
+                "Adobe Analytics",
+                "Adobe Experience Manager"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Adobe Inc. | Creative Software and Digital Marketing Solutions",
+        "meta_description": "Explore Adobe Inc., a leader in creative software and digital marketing. Discover Adobe's innovative products, mission, and impact on digital experiences.",
+        "keywords": [
+            "Adobe",
+            "Creative Cloud",
+            "Digital Marketing",
+            "Photoshop",
+            "Illustrator",
+            "Adobe Experience Cloud"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Adobe known for?",
+            "answer": "Adobe is known for its creative software products like Photoshop, Illustrator, and its digital marketing solutions."
+        },
+        {
+            "question": "Who is the CEO of Adobe?",
+            "answer": "Shantanu Narayen is the CEO of Adobe Inc."
+        },
+        {
+            "question": "Where is Adobe headquartered?",
+            "answer": "Adobe is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Adobe's main products?",
+            "answer": "Adobe's main products include Photoshop, Illustrator, Premiere Pro, Acrobat, and Experience Cloud solutions."
+        },
+        {
+            "question": "When was Adobe founded?",
+            "answer": "Adobe was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "AUTODESK",
+        "CRM",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

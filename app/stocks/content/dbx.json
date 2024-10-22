@@ -1,0 +1,96 @@
+{
+    "ticker": "DBX",
+    "name": "Dropbox, Inc.",
+    "description": "Dropbox, Inc. is a leading cloud-based file storage and collaboration platform founded in 2007 by Drew Houston and Arash Ferdowsi. The company provides a secure and user-friendly space for individuals and teams to store, share, and collaborate on files and projects from anywhere in the world. Dropbox's core offering includes its signature file hosting service, which allows users to synchronize files across devices and share them effortlessly with others. Over the years, Dropbox has expanded its services to include advanced collaboration tools such as Dropbox Paper, a document-editing tool that facilitates team workflows, and Dropbox Spaces, which integrates various file types and tools into one shared workspace. With a focus on enhancing productivity, Dropbox supports integrations with numerous third-party applications, making it a versatile solution for both personal and professional use. The company is committed to maintaining user privacy and security, employing robust encryption methods and compliance measures to protect data. As the digital landscape continues to evolve, Dropbox strives to empower users by providing innovative solutions that simplify the way people work together and manage their content. Its mission is to unleash the world's creative energy by transforming the way people work together.",
+    "industry": [
+        "Cloud Computing",
+        "File Storage",
+        "Collaboration Tools"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2007",
+    "website": "https://www.dropbox.com",
+    "ceo": "Drew Houston",
+    "social_media": {
+        "twitter": "https://twitter.com/dropbox",
+        "linkedin": "https://www.linkedin.com/company/dropbox",
+        "instagram": "https://www.instagram.com/dropbox",
+        "youtube": "https://www.youtube.com/user/dropbox"
+    },
+    "investor_relations": "https://investors.dropbox.com",
+    "key_executives": [
+        {
+            "name": "Drew Houston",
+            "position": "CEO"
+        },
+        {
+            "name": "Ajay Vashee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "File Storage",
+            "products": [
+                "Dropbox Basic",
+                "Dropbox Plus",
+                "Dropbox Family",
+                "Dropbox Professional",
+                "Dropbox Business"
+            ]
+        },
+        {
+            "category": "Collaboration Tools",
+            "products": [
+                "Dropbox Paper",
+                "Dropbox Spaces"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Dropbox, Inc. | Cloud Storage and Collaboration Tools",
+        "meta_description": "Explore Dropbox, Inc., a leader in cloud storage and collaboration solutions. Discover Dropbox's innovative products designed to help teams work better together.",
+        "keywords": [
+            "Dropbox",
+            "Cloud Storage",
+            "File Sharing",
+            "Collaboration Tools",
+            "Dropbox Paper",
+            "Dropbox Spaces"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Dropbox known for?",
+            "answer": "Dropbox is known for its cloud-based file storage and collaboration services."
+        },
+        {
+            "question": "Who is the CEO of Dropbox?",
+            "answer": "Drew Houston is the CEO of Dropbox, Inc."
+        },
+        {
+            "question": "Where is Dropbox headquartered?",
+            "answer": "Dropbox is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Dropbox's main products?",
+            "answer": "Dropbox's main products include Dropbox Basic, Plus, Family, Professional, Business, Dropbox Paper, and Dropbox Spaces."
+        },
+        {
+            "question": "When was Dropbox founded?",
+            "answer": "Dropbox was founded in 2007."
+        }
+    ],
+    "competitors": [
+        "GOOGL",
+        "MSFT",
+        "BOX",
+        "ZM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "FB",
+        "NFLX"
+    ]
+}

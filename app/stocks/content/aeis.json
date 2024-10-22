@@ -1,0 +1,99 @@
+{
+    "ticker": "AEIS",
+    "name": "Advanced Energy Industries, Inc.",
+    "description": "Advanced Energy Industries, Inc. is a global leader in precision power conversion solutions, specializing in the design and manufacturing of innovative technologies for the semiconductor, industrial, and telecommunications sectors. Founded in 1981 and headquartered in Fort Collins, Colorado, the company focuses on delivering high-performance power systems that enhance the efficiency and reliability of its customers' operations. Advanced Energy's product portfolio includes power supplies, thermal management solutions, and renewable energy products, serving a diverse range of applications including semiconductor manufacturing, industrial heating, and renewable energy generation. The company is committed to sustainability and innovation, striving to create energy-efficient solutions that reduce environmental impact. With a strong emphasis on research and development, Advanced Energy continuously invests in cutting-edge technologies to stay ahead in a competitive market. The company has a global footprint, with operations and support facilities strategically located worldwide to meet the needs of its customers. Advanced Energy aims to empower its clients with the tools and technologies necessary to thrive in an increasingly energy-conscious world.",
+    "industry": [
+        "Semiconductors",
+        "Renewable Energy",
+        "Industrial Equipment"
+    ],
+    "headquarters": "Fort Collins, Colorado, USA",
+    "founded": "1981",
+    "website": "https://www.advancedenergy.com",
+    "ceo": "Yuval Wasserman",
+    "social_media": {
+        "twitter": "https://twitter.com/AdvancedEnergy",
+        "linkedin": "https://www.linkedin.com/company/advanced-energy-industries/"
+    },
+    "investor_relations": "https://investors.advancedenergy.com",
+    "key_executives": [
+        {
+            "name": "Yuval Wasserman",
+            "position": "CEO"
+        },
+        {
+            "name": "Tom McMurray",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Power Supplies",
+            "products": [
+                "RF Power Supplies",
+                "DC Power Supplies",
+                "AC Power Supplies"
+            ]
+        },
+        {
+            "category": "Thermal Management",
+            "products": [
+                "Chillers",
+                "Heaters"
+            ]
+        },
+        {
+            "category": "Renewable Energy Solutions",
+            "products": [
+                "Inverters",
+                "Energy Storage Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Advanced Energy Industries, Inc. | Precision Power Conversion Solutions",
+        "meta_description": "Explore Advanced Energy Industries, Inc., a leader in precision power conversion solutions for semiconductor, industrial, and renewable energy applications. Discover our innovative technologies and commitment to sustainability.",
+        "keywords": [
+            "Advanced Energy",
+            "Power Supplies",
+            "RF Power",
+            "Renewable Energy",
+            "Energy Efficiency",
+            "Semiconductor Equipment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Advanced Energy specialize in?",
+            "answer": "Advanced Energy specializes in precision power conversion solutions for the semiconductor, industrial, and telecommunications sectors."
+        },
+        {
+            "question": "Who is the CEO of Advanced Energy?",
+            "answer": "Yuval Wasserman is the CEO of Advanced Energy Industries, Inc."
+        },
+        {
+            "question": "Where is Advanced Energy headquartered?",
+            "answer": "Advanced Energy is headquartered in Fort Collins, Colorado, USA."
+        },
+        {
+            "question": "What are Advanced Energy's main products?",
+            "answer": "The main products of Advanced Energy include RF power supplies, DC power supplies, chillers, and renewable energy inverters."
+        },
+        {
+            "question": "When was Advanced Energy founded?",
+            "answer": "Advanced Energy was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "VSH",
+        "LRCX",
+        "MCHP",
+        "AMAT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "GOOGL",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ticker": "MTEN",
+    "name": "Matson, Inc.",
+    "description": "Matson, Inc. is a leading provider of transportation and logistics services, primarily focused on the Pacific region. Founded in 1882, Matson has established itself as a vital link in the supply chain for the U.S. mainland and Hawaii, as well as other Pacific islands. The company operates a fleet of vessels and provides a variety of services including ocean transportation, logistics, and terminal operations. Matson's container shipping services are known for their reliability and efficiency, catering to a diverse range of customers from large retailers to small businesses. In addition to its transportation services, Matson offers logistics solutions that integrate trucking, warehousing, and freight forwarding, ensuring seamless delivery of goods. The company's commitment to sustainability is evident in its investments in modern, fuel-efficient vessels and environmentally friendly practices. Matson's mission is to provide superior service and value to its customers while contributing positively to the communities it serves. With a strong presence in the Pacific, Matson continues to innovate and adapt to the evolving needs of the shipping and logistics industry.",
+    "industry": [
+        "Transportation",
+        "Logistics"
+    ],
+    "headquarters": "Honolulu, Hawaii, USA",
+    "founded": "1882",
+    "website": "https://www.matson.com",
+    "ceo": "Matthew J. Cox",
+    "social_media": {
+        "twitter": "https://twitter.com/Matson_News",
+        "linkedin": "https://www.linkedin.com/company/matson-inc/"
+    },
+    "investor_relations": "https://investors.matson.com",
+    "key_executives": [
+        {
+            "name": "Matthew J. Cox",
+            "position": "CEO"
+        },
+        {
+            "name": "J. L. (Larry) Kauffman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Ocean Transportation",
+            "products": [
+                "Container Shipping",
+                "Bulk Shipping"
+            ]
+        },
+        {
+            "category": "Logistics Services",
+            "products": [
+                "Trucking",
+                "Warehousing",
+                "Freight Forwarding"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Matson, Inc. | Transportation and Logistics Services",
+        "meta_description": "Explore Matson, Inc., a leader in transportation and logistics services in the Pacific region. Learn about our services, sustainability efforts, and community impact.",
+        "keywords": [
+            "Matson",
+            "Transportation",
+            "Logistics",
+            "Container Shipping",
+            "Hawaii Shipping",
+            "Pacific Logistics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Matson provide?",
+            "answer": "Matson provides ocean transportation, logistics services, and terminal operations primarily in the Pacific region."
+        },
+        {
+            "question": "Where is Matson headquartered?",
+            "answer": "Matson is headquartered in Honolulu, Hawaii, USA."
+        },
+        {
+            "question": "When was Matson founded?",
+            "answer": "Matson was founded in 1882."
+        },
+        {
+            "question": "What is Matson's mission?",
+            "answer": "Matson's mission is to provide superior service and value to its customers while positively contributing to the communities it serves."
+        }
+    ],
+    "competitors": [
+        "UPS",
+        "FDX",
+        "CHRW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

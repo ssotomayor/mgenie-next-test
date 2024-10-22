@@ -1,0 +1,91 @@
+{
+    "ticker": "NTNX",
+    "name": "Nutanix, Inc.",
+    "description": "Nutanix, Inc. is a global leader in cloud software and hyper-converged infrastructure solutions. Founded in 2009, Nutanix revolutionized enterprise IT by enabling organizations to run their applications on a single platform that combines storage, computing, and virtualization. The company's flagship product, the Nutanix Enterprise Cloud platform, empowers businesses to seamlessly manage their on-premises and public cloud environments through a unified system. This approach simplifies IT operations, enhances efficiency, and reduces costs, allowing companies to innovate rapidly. Nutanix also provides a suite of solutions for various workloads, including virtualization, data protection, and disaster recovery. With a strong focus on customer success and a commitment to delivering high-performance solutions, Nutanix caters to a diverse range of industries including healthcare, finance, and education. The company aims to make cloud computing accessible and straightforward, driving the digital transformation of enterprises worldwide. By leveraging its expertise in cloud technologies, Nutanix continues to push the boundaries of what is possible in IT infrastructure, fostering a new era of enterprise computing.",
+    "industry": [
+        "Cloud Computing",
+        "Enterprise Software"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2009",
+    "website": "https://www.nutanix.com",
+    "ceo": "Rajiv Ramaswami",
+    "social_media": {
+        "twitter": "https://twitter.com/Nutanix",
+        "linkedin": "https://www.linkedin.com/company/nutanix/",
+        "youtube": "https://www.youtube.com/user/NutanixTV"
+    },
+    "investor_relations": "https://ir.nutanix.com",
+    "key_executives": [
+        {
+            "name": "Rajiv Ramaswami",
+            "position": "CEO"
+        },
+        {
+            "name": "Duston Williams",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Infrastructure",
+            "products": [
+                "Nutanix Enterprise Cloud",
+                "Nutanix AHV",
+                "Nutanix Prism"
+            ]
+        },
+        {
+            "category": "Data Protection",
+            "products": [
+                "Nutanix Backup and Recovery",
+                "Nutanix Objects"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nutanix, Inc. | Cloud Software and Hyper-Converged Infrastructure",
+        "meta_description": "Explore Nutanix, Inc., a leader in cloud computing and hyper-converged infrastructure solutions. Discover how Nutanix simplifies enterprise IT and drives digital transformation.",
+        "keywords": [
+            "Nutanix",
+            "Cloud Computing",
+            "Hyper-Converged Infrastructure",
+            "Enterprise Software",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nutanix specialize in?",
+            "answer": "Nutanix specializes in cloud software and hyper-converged infrastructure solutions."
+        },
+        {
+            "question": "Who is the CEO of Nutanix?",
+            "answer": "Rajiv Ramaswami is the CEO of Nutanix, Inc."
+        },
+        {
+            "question": "Where is Nutanix headquartered?",
+            "answer": "Nutanix is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Nutanix's main products?",
+            "answer": "Nutanix's main products include the Nutanix Enterprise Cloud platform, Nutanix AHV, and various data protection solutions."
+        },
+        {
+            "question": "When was Nutanix founded?",
+            "answer": "Nutanix was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "VMW",
+        "MSFT",
+        "ORCL",
+        "DLT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

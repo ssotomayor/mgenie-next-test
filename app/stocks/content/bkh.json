@@ -1,0 +1,86 @@
+{
+    "ticker": "BKH",
+    "name": "Black Hills Corporation",
+    "description": "Black Hills Corporation is a diversified energy company that provides essential utility and energy services to customers across the United States. Founded in 1941, the company is headquartered in Rapid City, South Dakota. Black Hills Corporation operates in two primary segments: Utility and Non-Utility. The Utility segment provides electric and natural gas services to residential, commercial, and industrial customers in several states, including South Dakota, Wyoming, Nebraska, Colorado, and Montana. The Non-Utility segment focuses on the production and marketing of natural gas and oil, as well as providing energy solutions to various industries. Black Hills is committed to sustainable practices and has made significant investments in renewable energy sources, aiming to reduce its carbon footprint and enhance energy efficiency. The company is also focused on infrastructure improvements and expanding its renewable portfolio to meet the growing demand for cleaner energy. Through its robust operational strategies and commitment to service excellence, Black Hills Corporation aims to deliver reliable and affordable energy while contributing positively to the communities it serves.",
+    "industry": [
+        "Energy",
+        "Utilities"
+    ],
+    "headquarters": "Rapid City, South Dakota, USA",
+    "founded": "1941",
+    "website": "https://www.blackhillscorp.com",
+    "ceo": "L. John H. W. Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/blackhillscorp",
+        "linkedin": "https://www.linkedin.com/company/black-hills-corporation/"
+    },
+    "investor_relations": "https://investors.blackhillscorp.com",
+    "key_executives": [
+        {
+            "name": "L. John H. W. Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Mario A. S. R. Rojas",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Utilities",
+            "products": [
+                "Electric Services",
+                "Natural Gas Services"
+            ]
+        },
+        {
+            "category": "Non-Utility Operations",
+            "products": [
+                "Oil Production",
+                "Natural Gas Marketing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Black Hills Corporation | Energy and Utility Services",
+        "meta_description": "Learn about Black Hills Corporation, a leading energy provider focused on sustainable practices and reliable utility services across the U.S.",
+        "keywords": [
+            "Black Hills Corporation",
+            "Energy",
+            "Utilities",
+            "Natural Gas",
+            "Electricity",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Black Hills Corporation provide?",
+            "answer": "Black Hills Corporation provides electric and natural gas utility services as well as oil and natural gas production."
+        },
+        {
+            "question": "Where is Black Hills Corporation headquartered?",
+            "answer": "Black Hills Corporation is headquartered in Rapid City, South Dakota."
+        },
+        {
+            "question": "When was Black Hills Corporation founded?",
+            "answer": "Black Hills Corporation was founded in 1941."
+        },
+        {
+            "question": "Who is the CEO of Black Hills Corporation?",
+            "answer": "L. John H. W. Smith is the CEO of Black Hills Corporation."
+        }
+    ],
+    "competitors": [
+        "XEL",
+        "DTE",
+        "SRE",
+        "CMS"
+    ],
+    "related_stocks": [
+        "ED",
+        "DUK",
+        "NEE",
+        "AEP"
+    ]
+}

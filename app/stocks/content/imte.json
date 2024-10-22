@@ -1,0 +1,89 @@
+{
+    "ticker": "IMTE",
+    "name": "Imagination Technologies Limited",
+    "description": "Imagination Technologies Limited is a leading technology company specializing in semiconductor and software solutions. Founded in 1985, the company is headquartered in Kings Langley, UK, and has established itself as a pioneer in the graphics and AI processing sectors. Imagination is best known for its PowerVR graphics processing units (GPUs), which are widely used in mobile devices, automotive applications, and consumer electronics. The company focuses on providing high-performance, low-power graphics and AI solutions, making it a critical player in the development of next-generation computing technologies. In addition to GPUs, Imagination offers a range of products including video processing, display processing, and neural network processing solutions. The company collaborates with various partners across industries, including mobile, automotive, and IoT, to drive innovation and enhance user experiences. With a commitment to research and development, Imagination continues to explore new horizons in machine learning, computer vision, and augmented reality. Its mission is to enable the most innovative devices and applications by delivering cutting-edge technology that meets the evolving needs of the market.",
+    "industry": [
+        "Semiconductors",
+        "Software"
+    ],
+    "headquarters": "Kings Langley, UK",
+    "founded": "1985",
+    "website": "https://www.imgtec.com",
+    "ceo": "Sandeep Chennakeshu",
+    "social_media": {
+        "twitter": "https://twitter.com/ImaginationTech",
+        "linkedin": "https://www.linkedin.com/company/imagination-technologies/"
+    },
+    "investor_relations": "https://www.imgtec.com/ir",
+    "key_executives": [
+        {
+            "name": "Sandeep Chennakeshu",
+            "position": "CEO"
+        },
+        {
+            "name": "John McCaffrey",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Graphics Processing",
+            "products": [
+                "PowerVR GPUs",
+                "PowerVR Video Processors"
+            ]
+        },
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Neural Network Processors",
+                "Machine Learning Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Imagination Technologies Limited | Semiconductor and Software Solutions",
+        "meta_description": "Explore Imagination Technologies Limited, a leader in semiconductor technology specializing in graphics and AI solutions for innovative applications.",
+        "keywords": [
+            "Imagination Technologies",
+            "Semiconductors",
+            "Graphics Processing",
+            "AI Solutions",
+            "PowerVR",
+            "Machine Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Imagination Technologies known for?",
+            "answer": "Imagination Technologies is known for its PowerVR graphics processing units and AI processing solutions."
+        },
+        {
+            "question": "Who is the CEO of Imagination Technologies?",
+            "answer": "Sandeep Chennakeshu is the CEO of Imagination Technologies Limited."
+        },
+        {
+            "question": "Where is Imagination Technologies headquartered?",
+            "answer": "Imagination Technologies is headquartered in Kings Langley, UK."
+        },
+        {
+            "question": "What are Imagination Technologies' main products?",
+            "answer": "Imagination's main products include PowerVR GPUs, video processors, and AI solutions."
+        },
+        {
+            "question": "When was Imagination Technologies founded?",
+            "answer": "Imagination Technologies was founded in 1985."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "AMD",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "QCOM"
+    ]
+}

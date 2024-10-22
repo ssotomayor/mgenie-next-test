@@ -1,0 +1,90 @@
+{
+    "ticker": "RPD",
+    "name": "Rapid7, Inc.",
+    "description": "Rapid7, Inc. is a prominent cybersecurity company that specializes in providing solutions for vulnerability management, application security, and incident detection and response. Founded in 2000 and headquartered in Boston, Massachusetts, Rapid7 aims to help organizations better secure their environments through innovative technologies and comprehensive services. The company's flagship product, InsightVM, offers real-time vulnerability management, allowing businesses to identify, prioritize, and remediate security risks across their networks. Additionally, Rapid7's InsightIDR provides incident detection and response capabilities by leveraging advanced analytics and automation to help security teams respond quickly to potential threats. With a focus on cloud-based solutions, Rapid7 provides tools designed to integrate seamlessly with existing IT workflows, enabling security teams to be more efficient and proactive. Rapid7 is committed to fostering a culture of security awareness and collaboration, empowering teams to take a more holistic approach to cybersecurity. The company's mission is to make the world a safer place by transforming how organizations approach security and vulnerability management.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "2000",
+    "website": "https://www.rapid7.com",
+    "ceo": "T. Christian Klein",
+    "social_media": {
+        "twitter": "https://twitter.com/rapid7",
+        "linkedin": "https://www.linkedin.com/company/rapid7",
+        "facebook": "https://www.facebook.com/rapid7"
+    },
+    "investor_relations": "https://investors.rapid7.com",
+    "key_executives": [
+        {
+            "name": "T. Christian Klein",
+            "position": "CEO"
+        },
+        {
+            "name": "Derek E. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vulnerability Management",
+            "products": [
+                "InsightVM",
+                "Nexpose"
+            ]
+        },
+        {
+            "category": "Incident Detection and Response",
+            "products": [
+                "InsightIDR",
+                "InsightOps"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rapid7, Inc. | Cybersecurity Solutions for Vulnerability Management",
+        "meta_description": "Explore Rapid7, Inc., a leader in cybersecurity solutions, specializing in vulnerability management, application security, and incident response.",
+        "keywords": [
+            "Rapid7",
+            "Cybersecurity",
+            "Vulnerability Management",
+            "Incident Detection",
+            "Security Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rapid7 do?",
+            "answer": "Rapid7 provides cybersecurity solutions focused on vulnerability management, incident detection, and response."
+        },
+        {
+            "question": "Who is the CEO of Rapid7?",
+            "answer": "T. Christian Klein is the CEO of Rapid7, Inc."
+        },
+        {
+            "question": "Where is Rapid7 headquartered?",
+            "answer": "Rapid7 is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "What are Rapid7's main products?",
+            "answer": "Rapid7's main products include InsightVM for vulnerability management and InsightIDR for incident detection."
+        },
+        {
+            "question": "When was Rapid7 founded?",
+            "answer": "Rapid7 was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "SABR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

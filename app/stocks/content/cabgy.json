@@ -1,0 +1,89 @@
+{
+    "ticker": "CABGY",
+    "name": "Cabo Verde Airlines",
+    "description": "Cabo Verde Airlines, formerly known as TACV (Transportes A\u00e9reos de Cabo Verde), is the national airline of Cape Verde, operating both domestic and international flights. Founded in 1958, the airline serves as a vital link between the archipelago of Cape Verde and the rest of the world, providing connectivity to Europe, North America, and Africa. The airline's mission is to enhance travel and tourism in the region while promoting economic growth through efficient air transport services. Cabo Verde Airlines operates a fleet of modern aircraft, including Boeing 737s and Embraer E-Jets, ensuring a high standard of safety and comfort for its passengers. The airline is committed to providing exceptional customer service, with a focus on cultural hospitality that reflects the warmth of the Cape Verdean people. In addition to passenger services, Cabo Verde Airlines offers cargo services, facilitating trade and commerce within the region. The airline is continuously expanding its route network and improving its operational efficiency, striving to become a leading carrier in West Africa. Cabo Verde Airlines is dedicated to sustainability and aims to implement eco-friendly practices in its operations to minimize its environmental impact.",
+    "industry": [
+        "Aviation",
+        "Transport"
+    ],
+    "headquarters": "Praia, Cape Verde",
+    "founded": "1958",
+    "website": "https://www.caboverdeairlines.com",
+    "ceo": "Jorge Gon\u00e7alves",
+    "social_media": {
+        "twitter": "https://twitter.com/CaboVerdeAirlines",
+        "facebook": "https://www.facebook.com/CaboVerdeAirlines",
+        "instagram": "https://www.instagram.com/caboverdeairlines/"
+    },
+    "investor_relations": "https://www.caboverdeairlines.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jorge Gon\u00e7alves",
+            "position": "CEO"
+        },
+        {
+            "name": "Daniela Teixeira",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Domestic Flights",
+                "International Flights"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Freight Transport"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cabo Verde Airlines | Connecting Cape Verde to the World",
+        "meta_description": "Cabo Verde Airlines, the national carrier of Cape Verde, offers domestic and international flights, connecting the archipelago to Europe, North America, and Africa. Experience exceptional service and cultural hospitality.",
+        "keywords": [
+            "Cabo Verde Airlines",
+            "Cape Verde",
+            "Aviation",
+            "Air Travel",
+            "International Flights",
+            "Cargo Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What destinations does Cabo Verde Airlines serve?",
+            "answer": "Cabo Verde Airlines serves various destinations in Europe, North America, and Africa."
+        },
+        {
+            "question": "How can I book a flight with Cabo Verde Airlines?",
+            "answer": "You can book a flight directly on the Cabo Verde Airlines website."
+        },
+        {
+            "question": "What types of aircraft does Cabo Verde Airlines operate?",
+            "answer": "The airline operates a fleet that includes Boeing 737s and Embraer E-Jets."
+        },
+        {
+            "question": "Does Cabo Verde Airlines offer cargo services?",
+            "answer": "Yes, Cabo Verde Airlines provides cargo services for freight transport."
+        },
+        {
+            "question": "When was Cabo Verde Airlines founded?",
+            "answer": "Cabo Verde Airlines was founded in 1958."
+        }
+    ],
+    "competitors": [
+        "TAP",
+        "AF",
+        "IB"
+    ],
+    "related_stocks": [
+        "DAL",
+        "AAL",
+        "UAL",
+        "LUV"
+    ]
+}

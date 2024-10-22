@@ -1,0 +1,86 @@
+{
+    "ticker": "ALUR.WS",
+    "name": "Aluratek, Inc.",
+    "description": "Aluratek, Inc. is a technology company specializing in innovative electronic products aimed at enhancing everyday life through smart technology. Founded in 2006, Aluratek focuses on developing and marketing a diverse range of consumer electronics that include digital photo frames, eBook readers, and wireless charging solutions. The company is committed to delivering high-quality products that seamlessly integrate into modern lifestyles, emphasizing user-friendly designs and advanced functionality. Aluratek's mission is to empower individuals and households to embrace technology that simplifies and enriches their daily experiences. The company continuously invests in research and development to stay at the forefront of technology trends, ensuring that their products meet the evolving needs of consumers. With a strong presence in both the retail and online markets, Aluratek aims to provide accessible technology solutions that enhance connectivity, entertainment, and productivity.",
+    "industry": [
+        "Consumer Electronics",
+        "Technology"
+    ],
+    "headquarters": "City of Industry, California, USA",
+    "founded": "2006",
+    "website": "https://www.aluratek.com",
+    "ceo": "John Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/aluratek",
+        "linkedin": "https://www.linkedin.com/company/aluratek/"
+    },
+    "investor_relations": "https://www.aluratek.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "John Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Frames",
+            "products": [
+                "Digital Photo Frames",
+                "Wi-Fi Digital Frames"
+            ]
+        },
+        {
+            "category": "eBooks",
+            "products": [
+                "eBook Readers",
+                "eBook Accessories"
+            ]
+        },
+        {
+            "category": "Charging Solutions",
+            "products": [
+                "Wireless Chargers",
+                "Power Banks"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aluratek, Inc. | Innovative Consumer Electronics",
+        "meta_description": "Explore Aluratek, Inc., a leader in consumer electronics offering innovative digital photo frames, eBook readers, and wireless charging solutions.",
+        "keywords": [
+            "Aluratek",
+            "Consumer Electronics",
+            "Digital Photo Frames",
+            "eBook Readers",
+            "Wireless Charging"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of products does Aluratek offer?",
+            "answer": "Aluratek offers digital photo frames, eBook readers, and wireless charging solutions."
+        },
+        {
+            "question": "Where is Aluratek headquartered?",
+            "answer": "Aluratek is headquartered in City of Industry, California, USA."
+        },
+        {
+            "question": "When was Aluratek founded?",
+            "answer": "Aluratek was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "AAPL",
+        "MSI"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "FB",
+        "NFLX"
+    ]
+}

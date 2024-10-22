@@ -1,0 +1,88 @@
+{
+    "ticker": "STT.PRG",
+    "name": "State Street Corporation",
+    "description": "State Street Corporation is a leading provider of financial services to institutional investors. Founded in 1792 and headquartered in Boston, Massachusetts, State Street has a long history of serving clients in the investment management industry. The firm specializes in providing investment servicing, investment management, and investment research and trading services. With a focus on institutional investors, including mutual funds, pension funds, and insurance companies, State Street offers a comprehensive suite of services that includes custody, fund administration, and tax services. The company is recognized for its innovative technology solutions that enhance operational efficiency and improve the client experience. In recent years, State Street has made significant investments in data analytics and digital solutions to better serve its clients in a rapidly evolving financial landscape. The firm is committed to responsible investing and has integrated environmental, social, and governance (ESG) criteria into its investment processes. State Street's mission is to help its clients achieve their investment goals while navigating the complexities of the financial markets.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "1792",
+    "website": "https://www.statestreet.com",
+    "ceo": "Ronald O'Hanley",
+    "social_media": {
+        "twitter": "https://twitter.com/StateStreet",
+        "linkedin": "https://www.linkedin.com/company/state-street",
+        "facebook": "https://www.facebook.com/StateStreet"
+    },
+    "investor_relations": "https://investors.statestreet.com",
+    "key_executives": [
+        {
+            "name": "Ronald O'Hanley",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric A. B. P. S. D. DeMarco",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Servicing",
+            "products": [
+                "Custody Services",
+                "Fund Administration",
+                "Tax Services"
+            ]
+        },
+        {
+            "category": "Investment Management",
+            "products": [
+                "Active Investment Strategies",
+                "Passive Investment Strategies",
+                "ESG Investing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "State Street Corporation | Financial Services and Investment Management",
+        "meta_description": "Explore State Street Corporation, a premier provider of financial services to institutional investors, offering innovative investment solutions and technology-driven services.",
+        "keywords": [
+            "State Street",
+            "Investment Management",
+            "Financial Services",
+            "Custody",
+            "ESG Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does State Street provide?",
+            "answer": "State Street provides investment servicing, investment management, and investment research services to institutional investors."
+        },
+        {
+            "question": "Who is the CEO of State Street?",
+            "answer": "Ronald O'Hanley is the CEO of State Street Corporation."
+        },
+        {
+            "question": "Where is State Street headquartered?",
+            "answer": "State Street is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "When was State Street founded?",
+            "answer": "State Street was founded in 1792."
+        }
+    ],
+    "competitors": [
+        "BK",
+        "NTRS",
+        "TROW",
+        "MS"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

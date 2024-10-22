@@ -1,0 +1,90 @@
+{
+    "ticker": "BRN",
+    "name": "Burns & McDonnell",
+    "description": "Burns & McDonnell is a full-service engineering, architecture, construction, environmental, and consulting solutions firm founded in 1898. Headquartered in Kansas City, Missouri, the company operates with a strong commitment to a client-first approach, offering integrated solutions across various sectors. Burns & McDonnell specializes in a diverse range of industries, including energy, water, environmental, and infrastructure, providing comprehensive services from initial planning and design through construction and operations. The firm is known for its innovative problem-solving capabilities, utilizing advanced technologies and methodologies to deliver high-quality projects that enhance the communities they serve. With a strong corporate culture focused on employee ownership and community involvement, Burns & McDonnell has been recognized as one of the best places to work in the engineering and architecture sector. The company is dedicated to sustainability and resilience, actively engaging in projects that promote environmental stewardship and social responsibility. Its mission is to make the world a better place through its projects and initiatives, continuously seeking to improve the infrastructure that supports society.",
+    "industry": [
+        "Engineering",
+        "Construction",
+        "Architecture"
+    ],
+    "headquarters": "Kansas City, Missouri, USA",
+    "founded": "1898",
+    "website": "https://www.burnsmcd.com",
+    "ceo": "Raymond Kowalik",
+    "social_media": {
+        "twitter": "https://twitter.com/BurnsandMcDonnell",
+        "linkedin": "https://www.linkedin.com/company/burns-&-mcdonnell",
+        "facebook": "https://www.facebook.com/burnsmcd"
+    },
+    "investor_relations": "https://www.burnsmcd.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Raymond Kowalik",
+            "position": "CEO"
+        },
+        {
+            "name": "Megan W. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Engineering Services",
+            "products": [
+                "Electrical Engineering",
+                "Civil Engineering",
+                "Mechanical Engineering"
+            ]
+        },
+        {
+            "category": "Construction Services",
+            "products": [
+                "Construction Management",
+                "Design-Build",
+                "Project Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Burns & McDonnell | Engineering and Construction Solutions",
+        "meta_description": "Explore Burns & McDonnell, a leading engineering and construction firm dedicated to making the world a better place through innovative solutions and sustainable practices.",
+        "keywords": [
+            "Burns & McDonnell",
+            "Engineering",
+            "Construction",
+            "Architecture",
+            "Sustainability",
+            "Environmental Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Burns & McDonnell offer?",
+            "answer": "Burns & McDonnell offers engineering, architecture, construction, environmental, and consulting services."
+        },
+        {
+            "question": "Who is the CEO of Burns & McDonnell?",
+            "answer": "Raymond Kowalik is the CEO of Burns & McDonnell."
+        },
+        {
+            "question": "Where is Burns & McDonnell headquartered?",
+            "answer": "Burns & McDonnell is headquartered in Kansas City, Missouri, USA."
+        },
+        {
+            "question": "When was Burns & McDonnell founded?",
+            "answer": "Burns & McDonnell was founded in 1898."
+        }
+    ],
+    "competitors": [
+        "AECOM",
+        "WSP",
+        "KBR",
+        "CH2M"
+    ],
+    "related_stocks": [
+        "FLR",
+        "MTZ",
+        "TTEK",
+        "JEC"
+    ]
+}

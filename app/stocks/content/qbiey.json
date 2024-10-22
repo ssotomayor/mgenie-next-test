@@ -1,0 +1,83 @@
+{
+    "ticker": "QBIEY",
+    "name": "Q Biomed Inc.",
+    "description": "Q Biomed Inc. is a biotechnology company focused on commercializing biomedical innovations to improve patient outcomes in a variety of therapeutic areas. Founded in 2015 and headquartered in New York, Q Biomed aims to develop and market unique and effective solutions for unmet medical needs. The company's portfolio includes a range of products at various stages of development, including treatments for serious diseases such as glaucoma, liver cancer, and neurodegenerative disorders. Q Biomed's flagship product, Strontium89, is a radiopharmaceutical for treating metastatic bone pain associated with cancer. Through strategic partnerships and collaborations with research institutions, Q Biomed is committed to advancing its innovative treatments to market, thereby improving the quality of life for patients. The company operates with a focus on ethical practices and strives to ensure that its products are accessible to those in need. With a dedicated management team and a robust pipeline, Q Biomed continues to explore new therapeutic areas and expand its reach in the biotechnology sector.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2015",
+    "website": "https://www.qbiomed.com",
+    "ceo": "David Platt",
+    "social_media": {
+        "twitter": "https://twitter.com/qbiomed",
+        "linkedin": "https://www.linkedin.com/company/qbiomed/"
+    },
+    "investor_relations": "https://www.qbiomed.com/investors",
+    "key_executives": [
+        {
+            "name": "David Platt",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Redman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Biopharmaceuticals",
+            "products": [
+                "Strontium89",
+                "QBM-001"
+            ]
+        },
+        {
+            "category": "Therapeutics",
+            "products": [
+                "QBM-101"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Q Biomed Inc. | Innovating Biotechnology for Patient Care",
+        "meta_description": "Explore Q Biomed Inc., a biotechnology company focused on developing innovative treatments for serious diseases. Discover our product pipeline and commitment to improving patient outcomes.",
+        "keywords": [
+            "Q Biomed",
+            "Biotechnology",
+            "Pharmaceuticals",
+            "Strontium89",
+            "Innovative Treatments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Q Biomed do?",
+            "answer": "Q Biomed is a biotechnology company that develops and commercializes biomedical innovations for various therapeutic areas."
+        },
+        {
+            "question": "Where is Q Biomed headquartered?",
+            "answer": "Q Biomed is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What is Q Biomed's flagship product?",
+            "answer": "Q Biomed's flagship product is Strontium89, a radiopharmaceutical for treating metastatic bone pain."
+        },
+        {
+            "question": "When was Q Biomed founded?",
+            "answer": "Q Biomed was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "GILD",
+        "REGN"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "PFE",
+        "MRK",
+        "ABBV"
+    ]
+}

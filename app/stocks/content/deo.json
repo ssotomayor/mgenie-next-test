@@ -1,0 +1,99 @@
+{
+    "ticker": "DEO",
+    "name": "Diageo plc",
+    "description": "Diageo plc is a global leader in the alcoholic beverages industry, renowned for its diverse portfolio of premium brands. Founded in 1997 and headquartered in London, England, Diageo operates in over 180 countries and boasts an extensive range of spirits, beers, and wines. The company\u2019s iconic brands include Johnnie Walker, Smirnoff, Guinness, Baileys, and Tanqueray, among others. Diageo is committed to sustainability and responsible drinking, implementing initiatives aimed at reducing its environmental impact and promoting responsible consumption. With a strong focus on innovation and consumer trends, Diageo continually develops new products and experiences to engage consumers. The company's strategy emphasizes premiumization, targeting growth in emerging markets and leveraging its brand strength to capture opportunities in the evolving beverage landscape. Diageo's mission is to celebrate life every day, everywhere, through its brands and to be the best performing, most trusted, and respected consumer products company in the world.",
+    "industry": [
+        "Beverages",
+        "Alcoholic Beverages"
+    ],
+    "headquarters": "London, England, UK",
+    "founded": "1997",
+    "website": "https://www.diageo.com",
+    "ceo": "Ivan Menezes",
+    "social_media": {
+        "twitter": "https://twitter.com/Diageo",
+        "linkedin": "https://www.linkedin.com/company/diageo/"
+    },
+    "investor_relations": "https://www.diageo.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Ivan Menezes",
+            "position": "CEO"
+        },
+        {
+            "name": "Lavanya Chandrashekar",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Spirits",
+            "products": [
+                "Johnnie Walker",
+                "Smirnoff",
+                "Tanqueray"
+            ]
+        },
+        {
+            "category": "Beer",
+            "products": [
+                "Guinness",
+                "Tusker"
+            ]
+        },
+        {
+            "category": "Liqueurs",
+            "products": [
+                "Baileys",
+                "Ciroc"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Diageo plc | Global Leader in Alcoholic Beverages",
+        "meta_description": "Explore Diageo plc, a leading global beverage company known for its iconic brands like Johnnie Walker and Guinness. Learn about our commitment to sustainability and innovation.",
+        "keywords": [
+            "Diageo",
+            "Alcoholic Beverages",
+            "Spirits",
+            "Beer",
+            "Sustainability",
+            "Johnnie Walker",
+            "Guinness"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Diageo produce?",
+            "answer": "Diageo produces a wide range of alcoholic beverages, including spirits, beer, and liqueurs."
+        },
+        {
+            "question": "Who is the CEO of Diageo?",
+            "answer": "Ivan Menezes is the CEO of Diageo plc."
+        },
+        {
+            "question": "Where is Diageo headquartered?",
+            "answer": "Diageo is headquartered in London, England, UK."
+        },
+        {
+            "question": "What are Diageo's main brands?",
+            "answer": "Diageo's main brands include Johnnie Walker, Smirnoff, Guinness, Baileys, and Tanqueray."
+        },
+        {
+            "question": "When was Diageo founded?",
+            "answer": "Diageo was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "BUD",
+        "STZ",
+        "PAB",
+        "KMB"
+    ],
+    "related_stocks": [
+        "MO",
+        "PEP",
+        "KO",
+        "WMT"
+    ]
+}

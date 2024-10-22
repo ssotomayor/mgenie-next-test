@@ -1,0 +1,101 @@
+{
+    "ticker": "DNPLY",
+    "name": "Danfoss A/S",
+    "description": "Danfoss A/S is a global leader in engineering solutions that enable a more sustainable future. Founded in 1933 in Denmark by Mads Clausen, the company specializes in products and services that address climate change and enhance energy efficiency across various sectors. Danfoss operates in multiple industries, including heating, cooling, drives, and power solutions. Its innovative technologies are designed to optimize energy consumption, reduce greenhouse gas emissions, and improve overall system performance. Danfoss is particularly noted for its contributions to renewable energy systems, such as wind and solar power. The company's diverse portfolio includes valves and sensors for heating and cooling systems, variable frequency drives for motor control, and advanced technologies for district energy systems. With a strong commitment to sustainability, Danfoss aims to create solutions that not only benefit its customers but also contribute positively to the environment and society at large. The company employs over 27,000 people in more than 100 countries, reflecting its global reach and influence in the market. Danfoss continues to innovate, focusing on digital transformation and smart technologies to enhance the efficiency and reliability of energy systems worldwide.",
+    "industry": [
+        "Engineering",
+        "Energy",
+        "Renewables"
+    ],
+    "headquarters": "Nordborg, Denmark",
+    "founded": "1933",
+    "website": "https://www.danfoss.com",
+    "ceo": "Kim Fausing",
+    "social_media": {
+        "twitter": "https://twitter.com/Danfoss",
+        "linkedin": "https://www.linkedin.com/company/danfoss",
+        "facebook": "https://www.facebook.com/Danfoss",
+        "youtube": "https://www.youtube.com/user/Danfoss"
+    },
+    "investor_relations": "https://www.danfoss.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Kim Fausing",
+            "position": "CEO"
+        },
+        {
+            "name": "J\u00fcrgen Fischer",
+            "position": "President of Danfoss Drives"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Heating Solutions",
+            "products": [
+                "Thermostatic Valves",
+                "Heat Exchangers"
+            ]
+        },
+        {
+            "category": "Cooling Solutions",
+            "products": [
+                "Compressors",
+                "Refrigeration Controls"
+            ]
+        },
+        {
+            "category": "Drives and Controls",
+            "products": [
+                "Variable Frequency Drives",
+                "Motor Controllers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Danfoss A/S | Engineering Solutions for a Sustainable Future",
+        "meta_description": "Discover Danfoss A/S, a leader in engineering solutions that enhance energy efficiency and sustainability across various sectors.",
+        "keywords": [
+            "Danfoss",
+            "Engineering",
+            "Energy Efficiency",
+            "Sustainability",
+            "Renewable Energy",
+            "Heating Solutions",
+            "Cooling Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Danfoss specialize in?",
+            "answer": "Danfoss specializes in engineering solutions for heating, cooling, drives, and renewable energy systems."
+        },
+        {
+            "question": "Who is the CEO of Danfoss?",
+            "answer": "Kim Fausing is the CEO of Danfoss A/S."
+        },
+        {
+            "question": "Where is Danfoss headquartered?",
+            "answer": "Danfoss is headquartered in Nordborg, Denmark."
+        },
+        {
+            "question": "What are Danfoss's main products?",
+            "answer": "Danfoss's main products include thermostatic valves, compressors, variable frequency drives, and heat exchangers."
+        },
+        {
+            "question": "When was Danfoss founded?",
+            "answer": "Danfoss was founded in 1933."
+        }
+    ],
+    "competitors": [
+        "GE",
+        "SI",
+        "ABB",
+        "EMR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

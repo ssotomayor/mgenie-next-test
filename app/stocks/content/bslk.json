@@ -1,0 +1,97 @@
+{
+    "ticker": "BSLK",
+    "name": "Bristol-Myers Squibb Company",
+    "description": "Bristol-Myers Squibb Company is a global biopharmaceutical company dedicated to discovering, developing, and delivering innovative medicines that help patients prevail over serious diseases. Founded in 1887, the company has a long-standing commitment to research and development, with a portfolio that includes therapies in oncology, cardiovascular disease, immunology, and fibrotic diseases. Bristol-Myers Squibb is known for its groundbreaking immuno-oncology treatments, particularly Opdivo and Yervoy, which have changed the landscape of cancer treatment. The company's mission is to provide patients with the medicines they need to live longer, healthier lives, and it invests heavily in clinical trials and research collaborations to achieve this goal. With a strong emphasis on scientific excellence and patient-centricity, Bristol-Myers Squibb continues to drive advancements in the biopharmaceutical sector, focusing on genetic research, precision medicine, and the development of new modalities such as cell therapy. The company's dedication to sustainability includes efforts to minimize its environmental impact and engage in responsible sourcing practices. Headquartered in New York City, Bristol-Myers Squibb operates globally, with a workforce committed to addressing the needs of patients and healthcare providers.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1887",
+    "website": "https://www.bms.com",
+    "ceo": "Giovanni Caforio",
+    "social_media": {
+        "twitter": "https://twitter.com/bmsnews",
+        "linkedin": "https://www.linkedin.com/company/bristol-myers-squibb/"
+    },
+    "investor_relations": "https://investors.bms.com",
+    "key_executives": [
+        {
+            "name": "Giovanni Caforio",
+            "position": "CEO"
+        },
+        {
+            "name": "Charles A. Bancroft",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "Opdivo",
+                "Yervoy"
+            ]
+        },
+        {
+            "category": "Cardiovascular",
+            "products": [
+                "Eliquis"
+            ]
+        },
+        {
+            "category": "Immunology",
+            "products": [
+                "Orencia",
+                "Nulojix"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bristol-Myers Squibb Company | Innovative Medicines for Serious Diseases",
+        "meta_description": "Explore Bristol-Myers Squibb Company, a global leader in biopharmaceuticals. Discover innovative therapies for cancer, cardiovascular diseases, and more.",
+        "keywords": [
+            "Bristol-Myers Squibb",
+            "Biopharmaceuticals",
+            "Oncology",
+            "Immunology",
+            "Eliquis",
+            "Opdivo",
+            "Yervoy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Bristol-Myers Squibb do?",
+            "answer": "Bristol-Myers Squibb discovers, develops, and delivers innovative medicines for serious diseases."
+        },
+        {
+            "question": "Who is the CEO of Bristol-Myers Squibb?",
+            "answer": "Giovanni Caforio is the CEO of Bristol-Myers Squibb."
+        },
+        {
+            "question": "Where is Bristol-Myers Squibb headquartered?",
+            "answer": "Bristol-Myers Squibb is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are some key products of Bristol-Myers Squibb?",
+            "answer": "Key products include Opdivo, Yervoy, and Eliquis."
+        },
+        {
+            "question": "When was Bristol-Myers Squibb founded?",
+            "answer": "Bristol-Myers Squibb was founded in 1887."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "MRK",
+        "AMGN"
+    ],
+    "related_stocks": [
+        "ABBV",
+        "GILD",
+        "VRTX",
+        "REGN"
+    ]
+}

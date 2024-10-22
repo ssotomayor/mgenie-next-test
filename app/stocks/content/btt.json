@@ -1,0 +1,88 @@
+{
+    "ticker": "BTT",
+    "name": "BitTorrent, Inc.",
+    "description": "BitTorrent, Inc. is a leading software company known for its pioneering peer-to-peer file sharing protocol and technology. Founded in 2004 by Bram Cohen, BitTorrent revolutionized how digital content is distributed and shared over the internet. The company's flagship product, the BitTorrent client, allows users to download large files quickly and efficiently by breaking them into smaller pieces and sharing them with others. BitTorrent, Inc. also offers a decentralized platform called BitTorrent Speed, which incentivizes users to share bandwidth and earn cryptocurrency tokens (BTT) in return, enhancing the overall file sharing experience. With a focus on decentralization, the company aims to give users more control over their content and data, aligning with the growing trends of blockchain technology and cryptocurrency. BitTorrent is committed to innovation in digital content distribution, empowering millions of users worldwide to access and share data seamlessly. With strategic partnerships and a growing ecosystem, BitTorrent is at the forefront of the digital media revolution, making it easier for creators and consumers to connect and share.",
+    "industry": [
+        "Technology",
+        "Software"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2004",
+    "website": "https://www.bittorrent.com",
+    "ceo": "Justin Sun",
+    "social_media": {
+        "twitter": "https://twitter.com/Bittorrent",
+        "linkedin": "https://www.linkedin.com/company/bittorrent/"
+    },
+    "investor_relations": "https://www.bittorrent.com/investors",
+    "key_executives": [
+        {
+            "name": "Justin Sun",
+            "position": "CEO"
+        },
+        {
+            "name": "Patrik Karlsson",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "File Sharing Software",
+            "products": [
+                "BitTorrent Client",
+                "\u00b5Torrent"
+            ]
+        },
+        {
+            "category": "Decentralized Platforms",
+            "products": [
+                "BitTorrent Speed",
+                "BitTorrent File System"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BitTorrent, Inc. | Pioneers in Peer-to-Peer File Sharing",
+        "meta_description": "Explore BitTorrent, Inc., the leader in peer-to-peer file sharing technology. Discover our innovative products and decentralized platforms that empower users in the digital age.",
+        "keywords": [
+            "BitTorrent",
+            "File Sharing",
+            "P2P Technology",
+            "Decentralization",
+            "Justin Sun",
+            "BTT"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is BitTorrent known for?",
+            "answer": "BitTorrent is known for its peer-to-peer file sharing protocol and software, allowing users to share large files efficiently."
+        },
+        {
+            "question": "Who is the CEO of BitTorrent?",
+            "answer": "Justin Sun is the CEO of BitTorrent, Inc."
+        },
+        {
+            "question": "Where is BitTorrent headquartered?",
+            "answer": "BitTorrent is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are BitTorrent's main products?",
+            "answer": "BitTorrent's main products include the BitTorrent Client, \u00b5Torrent, and BitTorrent Speed."
+        },
+        {
+            "question": "When was BitTorrent founded?",
+            "answer": "BitTorrent was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "GOOGL",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "NFLX",
+        "DIS"
+    ]
+}

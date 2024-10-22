@@ -1,0 +1,85 @@
+{
+    "ticker": "POAHY",
+    "name": "P&O Ferries",
+    "description": "P&O Ferries is a leading ferry operator in the United Kingdom and Europe, specializing in the transportation of passengers and freight across the English Channel, North Sea, and Irish Sea. Established in 1837, the company has a rich history of providing reliable maritime services and boasts a fleet of modern ferries equipped with state-of-the-art facilities to ensure a comfortable journey for travelers. P&O Ferries operates key routes linking the UK with continental Europe, including services from Dover to Calais and Hull to Rotterdam. The company is committed to enhancing the travel experience by offering amenities such as onboard dining, shopping, and entertainment options. In addition to passenger services, P&O Ferries provides essential freight transportation solutions for businesses, facilitating trade and logistics across its extensive network. With a focus on safety and sustainability, P&O Ferries is actively working to reduce its environmental impact while maintaining high standards of service quality. The company continues to adapt to changing market demands and consumer preferences, ensuring it remains a vital player in the maritime transport sector.",
+    "industry": [
+        "Transportation",
+        "Maritime"
+    ],
+    "headquarters": "London, England, UK",
+    "founded": "1837",
+    "website": "https://www.poferries.com",
+    "ceo": "Janette Bell",
+    "social_media": {
+        "twitter": "https://twitter.com/POFerries",
+        "facebook": "https://www.facebook.com/POFerries",
+        "instagram": "https://www.instagram.com/poferries/"
+    },
+    "investor_relations": "https://www.poferries.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Janette Bell",
+            "position": "CEO"
+        },
+        {
+            "name": "David Stretch",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Day Trips",
+                "Short Breaks",
+                "Holidays"
+            ]
+        },
+        {
+            "category": "Freight Services",
+            "products": [
+                "Roll-on/Roll-off Freight",
+                "Container Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "P&O Ferries | Leading Ferry Operator in the UK and Europe",
+        "meta_description": "Explore P&O Ferries, a premier ferry operator offering passenger and freight services across the UK and Europe. Discover routes, onboard amenities, and travel options.",
+        "keywords": [
+            "P&O Ferries",
+            "Ferry Services",
+            "Maritime Transport",
+            "Passenger Ferries",
+            "Freight Transportation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does P&O Ferries provide?",
+            "answer": "P&O Ferries provides passenger ferry services and freight transportation across the English Channel, North Sea, and Irish Sea."
+        },
+        {
+            "question": "Where is P&O Ferries headquartered?",
+            "answer": "P&O Ferries is headquartered in London, England, UK."
+        },
+        {
+            "question": "When was P&O Ferries founded?",
+            "answer": "P&O Ferries was founded in 1837."
+        },
+        {
+            "question": "What routes does P&O Ferries operate?",
+            "answer": "P&O Ferries operates key routes including Dover to Calais and Hull to Rotterdam."
+        }
+    ],
+    "competitors": [
+        "DFDS",
+        "Stena Line",
+        "Brittany Ferries"
+    ],
+    "related_stocks": [
+        "RCL",
+        "CCL",
+        "NCLH"
+    ]
+}

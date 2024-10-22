@@ -1,0 +1,98 @@
+{
+    "ticker": "DDD",
+    "name": "3D Systems Corporation",
+    "description": "3D Systems Corporation is a leading provider of 3D printing solutions, dedicated to advancing the field of additive manufacturing. Founded in 1986 by Chuck Hull, the inventor of stereolithography, the company has been at the forefront of the 3D printing revolution, offering a wide range of 3D printers, materials, and services. 3D Systems caters to a variety of industries, including aerospace, healthcare, automotive, and consumer products, enabling manufacturers to innovate and optimize their production processes. The company\u2019s portfolio includes advanced technologies like selective laser sintering (SLS), multi-jet printing (MJP), and metal 3D printing systems. 3D Systems also provides comprehensive software solutions for design and production, ensuring a seamless workflow from concept to final product. A strong emphasis on research and development allows 3D Systems to continually enhance its offerings, making it a trusted partner for businesses looking to harness the potential of 3D printing. With a commitment to sustainability, the company strives to reduce material waste and energy consumption in manufacturing processes, positioning itself as a forward-thinking leader in the industry. 3D Systems' mission is to transform industries and improve lives through innovative 3D solutions.",
+    "industry": [
+        "3D Printing",
+        "Manufacturing"
+    ],
+    "headquarters": "Rock Hill, South Carolina, USA",
+    "founded": "1986",
+    "website": "https://www.3dsystems.com",
+    "ceo": "Jeffrey A. Graves",
+    "social_media": {
+        "twitter": "https://twitter.com/3DSystems",
+        "linkedin": "https://www.linkedin.com/company/3d-systems/"
+    },
+    "investor_relations": "https://investor.3dsystems.com",
+    "key_executives": [
+        {
+            "name": "Jeffrey A. Graves",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Printers",
+            "products": [
+                "ProJet Series",
+                "Figure 4",
+                "DMP Series"
+            ]
+        },
+        {
+            "category": "3D Printing Materials",
+            "products": [
+                "Plastic Resins",
+                "Metal Powders",
+                "Biocompatible Materials"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "3D Sprint",
+                "Geomagic Design X"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "3D Systems Corporation | 3D Printing Solutions",
+        "meta_description": "Explore 3D Systems Corporation, a leader in 3D printing technology and solutions. Discover innovative printers, materials, and software for various industries.",
+        "keywords": [
+            "3D Systems",
+            "3D Printing",
+            "Additive Manufacturing",
+            "Stereolithography",
+            "3D Printers",
+            "3D Printing Materials"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does 3D Systems specialize in?",
+            "answer": "3D Systems specializes in 3D printing solutions and additive manufacturing technologies."
+        },
+        {
+            "question": "Who is the CEO of 3D Systems?",
+            "answer": "Jeffrey A. Graves is the CEO of 3D Systems Corporation."
+        },
+        {
+            "question": "Where is 3D Systems headquartered?",
+            "answer": "3D Systems is headquartered in Rock Hill, South Carolina, USA."
+        },
+        {
+            "question": "What are some of 3D Systems' main products?",
+            "answer": "3D Systems' main products include various 3D printers, printing materials, and software solutions."
+        },
+        {
+            "question": "When was 3D Systems founded?",
+            "answer": "3D Systems was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "SSYS",
+        "XONE",
+        "PRLB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "ticker": "AMZP",
+    "name": "Amazon Prime, Inc.",
+    "description": "Amazon Prime, Inc. is a leading subscription service offered by Amazon that provides members with a wide array of benefits and features, enhancing the shopping experience through convenience and value. Launched in 2005, Amazon Prime has grown exponentially, revolutionizing how consumers shop online. The service includes free two-day shipping on millions of items, access to a vast library of streaming content through Amazon Prime Video, and exclusive deals and discounts. Additionally, members enjoy access to Amazon Music, Prime Reading, and Amazon Photos, among other perks. Amazon Prime has established itself as a key component of Amazon's business model, driving customer loyalty and engagement. The company continuously innovates its offerings, exemplified by the introduction of Prime Wardrobe and Prime Pantry, which cater to personalized shopping experiences. With a mission to be Earth's most customer-centric company, Amazon Prime focuses on enhancing convenience, selection, and value for its members, while setting the standard for subscription services globally.",
+    "industry": [
+        "E-commerce",
+        "Subscription Services",
+        "Streaming Media"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "2005",
+    "website": "https://www.amazon.com/amazonprime",
+    "ceo": "Andy Jassy",
+    "social_media": {
+        "twitter": "https://twitter.com/amazon",
+        "linkedin": "https://www.linkedin.com/company/amazon/"
+    },
+    "investor_relations": "https://ir.aboutamazon.com",
+    "key_executives": [
+        {
+            "name": "Andy Jassy",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Olsavsky",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Subscription Services",
+            "products": [
+                "Amazon Prime Membership"
+            ]
+        },
+        {
+            "category": "Streaming Services",
+            "products": [
+                "Amazon Prime Video",
+                "Amazon Music"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Amazon Prime, Inc. | Subscription Service & Streaming",
+        "meta_description": "Join Amazon Prime for exclusive benefits, including free shipping, streaming video, music, and more. Discover the value of Amazon Prime today.",
+        "keywords": [
+            "Amazon Prime",
+            "Subscription Service",
+            "Streaming Video",
+            "Free Shipping",
+            "Amazon Music"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Amazon Prime?",
+            "answer": "Amazon Prime is a subscription service that offers free shipping, streaming video, music, and other benefits."
+        },
+        {
+            "question": "Who is the CEO of Amazon Prime?",
+            "answer": "Andy Jassy is the CEO of Amazon."
+        },
+        {
+            "question": "Where is Amazon Prime headquartered?",
+            "answer": "Amazon Prime is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What are the main benefits of Amazon Prime?",
+            "answer": "The main benefits include free shipping, access to Prime Video, Prime Music, and exclusive discounts."
+        },
+        {
+            "question": "When was Amazon Prime launched?",
+            "answer": "Amazon Prime was launched in 2005."
+        }
+    ],
+    "competitors": [
+        "NFLX",
+        "DIS",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "MSFT",
+        "FB"
+    ]
+}

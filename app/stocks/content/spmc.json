@@ -1,0 +1,91 @@
+{
+    "ticker": "SPMC",
+    "name": "SpaceMed Corporation",
+    "description": "SpaceMed Corporation is a leading innovator in the field of medical technology, focusing on the development of advanced healthcare solutions for both terrestrial and space applications. Founded in 2015, SpaceMed aims to revolutionize patient care through state-of-the-art devices and systems that enhance medical diagnostics and treatment capabilities. The company specializes in telemedicine, wearable health monitors, and AI-driven healthcare analytics, all designed to improve access to quality medical care in remote and challenging environments. SpaceMed's flagship product, the MedLink, is a multi-functional health monitoring device that allows healthcare professionals to track patients\u2019 vital signs in real-time, whether on Earth or in space. The company collaborates with various space agencies, including NASA, to ensure that its technologies meet the rigorous demands of space missions. Beyond space exploration, SpaceMed is committed to addressing the healthcare challenges faced by underserved populations on Earth, striving to make healthcare universally accessible. With a dedicated team of engineers and medical professionals, SpaceMed continues to push the boundaries of what is possible in healthcare, contributing significantly to both medical science and space exploration.",
+    "industry": [
+        "Medical Technology",
+        "Telemedicine",
+        "Healthcare"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "2015",
+    "website": "https://www.spacemed.com",
+    "ceo": "Dr. Emily Carter",
+    "social_media": {
+        "twitter": "https://twitter.com/SpaceMedCorp",
+        "linkedin": "https://www.linkedin.com/company/spacemedcorporation/",
+        "instagram": "https://www.instagram.com/spacemedcorp/"
+    },
+    "investor_relations": "https://ir.spacemed.com",
+    "key_executives": [
+        {
+            "name": "Dr. Emily Carter",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Robinson",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Medical Devices",
+            "products": [
+                "MedLink",
+                "Wearable Health Monitors"
+            ]
+        },
+        {
+            "category": "Telemedicine Solutions",
+            "products": [
+                "TeleCare Platform",
+                "Remote Patient Monitoring"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SpaceMed Corporation | Innovative Medical Technology for Earth and Space",
+        "meta_description": "Discover SpaceMed Corporation, a leader in medical technology innovation, focusing on telemedicine and advanced healthcare solutions for tomorrow's challenges.",
+        "keywords": [
+            "SpaceMed",
+            "Medical Technology",
+            "Telemedicine",
+            "Healthcare Solutions",
+            "Wearable Devices",
+            "Remote Monitoring"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SpaceMed known for?",
+            "answer": "SpaceMed is known for its innovative medical technology solutions, including telemedicine and wearable health devices."
+        },
+        {
+            "question": "Who is the CEO of SpaceMed?",
+            "answer": "Dr. Emily Carter is the CEO of SpaceMed Corporation."
+        },
+        {
+            "question": "Where is SpaceMed headquartered?",
+            "answer": "SpaceMed is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are SpaceMed's main products?",
+            "answer": "SpaceMed's main products include the MedLink device and the TeleCare platform for remote patient monitoring."
+        },
+        {
+            "question": "When was SpaceMed founded?",
+            "answer": "SpaceMed was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "MDT",
+        "ISRG",
+        "HOLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

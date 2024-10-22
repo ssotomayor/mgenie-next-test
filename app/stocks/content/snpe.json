@@ -1,0 +1,86 @@
+{
+    "ticker": "SNPE",
+    "name": "Snap, Inc.",
+    "description": "Snap, Inc. is a technology company specializing in camera and augmented reality (AR) products. Founded in 2011 by Evan Spiegel, Bobby Murphy, and Reggie Brown, Snap is best known for its flagship product, Snapchat, a multimedia messaging app that allows users to send photos and videos that disappear after being viewed. The company's innovative approach to social media has disrupted traditional communication methods and captured the attention of a younger demographic. Snap is at the forefront of AR technology, integrating it into its platform through filters, lenses, and interactive experiences that enhance user engagement. In addition to Snapchat, Snap has expanded its product offerings with Spectacles, smart glasses that incorporate AR features, and Snap Map, a location-based service allowing users to share their experiences with friends. The company's mission is to empower people to express themselves, live in the moment, learn about the world, and have fun together. Snap's commitment to innovation continues to shape the future of social media and digital communication, making it a leader in the evolving landscape of technology.",
+    "industry": [
+        "Technology",
+        "Social Media"
+    ],
+    "headquarters": "Santa Monica, California, USA",
+    "founded": "2011",
+    "website": "https://www.snap.com",
+    "ceo": "Evan Spiegel",
+    "social_media": {
+        "twitter": "https://twitter.com/snapchat",
+        "linkedin": "https://www.linkedin.com/company/snap-inc/"
+    },
+    "investor_relations": "https://investor.snap.com",
+    "key_executives": [
+        {
+            "name": "Evan Spiegel",
+            "position": "CEO"
+        },
+        {
+            "name": "Bobby Murphy",
+            "position": "Cofounder & CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Social Media",
+            "products": [
+                "Snapchat"
+            ]
+        },
+        {
+            "category": "Augmented Reality",
+            "products": [
+                "Spectacles"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Snap, Inc. | Innovating Social Media and Augmented Reality",
+        "meta_description": "Discover Snap, Inc., the parent company of Snapchat, leading the way in social media and augmented reality innovation. Explore our products and vision.",
+        "keywords": [
+            "Snap",
+            "Snapchat",
+            "Augmented Reality",
+            "Social Media",
+            "Evan Spiegel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Snap, Inc. known for?",
+            "answer": "Snap, Inc. is known for its social media platform Snapchat and its innovative augmented reality products."
+        },
+        {
+            "question": "Who is the CEO of Snap, Inc.?",
+            "answer": "Evan Spiegel is the CEO of Snap, Inc."
+        },
+        {
+            "question": "Where is Snap, Inc. headquartered?",
+            "answer": "Snap, Inc. is headquartered in Santa Monica, California, USA."
+        },
+        {
+            "question": "What are Snap's main products?",
+            "answer": "Snap's main products include Snapchat and Spectacles."
+        },
+        {
+            "question": "When was Snap, Inc. founded?",
+            "answer": "Snap, Inc. was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "META",
+        "TWTR",
+        "PINS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

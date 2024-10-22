@@ -1,0 +1,86 @@
+{
+    "ticker": "EFSC",
+    "name": "Enterprise Financial Services Corp",
+    "description": "Enterprise Financial Services Corp is a financial holding company based in the United States, primarily engaged in providing a comprehensive range of banking and financial services through its subsidiary, Enterprise Bank & Trust. The company was founded in 2002 and has since focused on serving the diverse needs of individuals, businesses, and institutions. With a strong emphasis on customer service, Enterprise Bank & Trust aims to create lasting relationships with its clients by offering personalized financial solutions. Its services include commercial banking, personal banking, investment management, and trust services. The bank is particularly known for its expertise in commercial real estate financing, small business lending, and wealth management services. Headquartered in St. Louis, Missouri, Enterprise Financial Services Corp operates branches across several states and continues to expand its footprint. The company has a commitment to the communities it serves, actively participating in local initiatives and supporting various charitable organizations. Its mission is to deliver financial solutions that empower its clients to achieve their goals while maintaining a strong focus on integrity, innovation, and excellence in service.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "St. Louis, Missouri, USA",
+    "founded": "2002",
+    "website": "https://www.enterprisebank.com",
+    "ceo": "James L. McGrath",
+    "social_media": {
+        "twitter": "https://twitter.com/EnterpriseBank",
+        "linkedin": "https://www.linkedin.com/company/enterprise-bank-and-trust/"
+    },
+    "investor_relations": "https://ir.enterprisebank.com",
+    "key_executives": [
+        {
+            "name": "James L. McGrath",
+            "position": "CEO"
+        },
+        {
+            "name": "Lance R. Hannan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Commercial Banking",
+                "Personal Banking",
+                "Small Business Lending"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Investment Management",
+                "Trust Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enterprise Financial Services Corp | Banking and Financial Services",
+        "meta_description": "Enterprise Financial Services Corp provides a range of banking and financial services, including commercial banking, personal banking, and investment management. Learn more about our commitment to client relationships and community support.",
+        "keywords": [
+            "Enterprise Financial Services",
+            "Banking",
+            "Commercial Banking",
+            "Investment Management",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Enterprise Financial Services Corp offer?",
+            "answer": "Enterprise Financial Services Corp offers commercial banking, personal banking, investment management, and trust services."
+        },
+        {
+            "question": "Who is the CEO of Enterprise Financial Services Corp?",
+            "answer": "James L. McGrath is the CEO of Enterprise Financial Services Corp."
+        },
+        {
+            "question": "Where is Enterprise Financial Services Corp headquartered?",
+            "answer": "Enterprise Financial Services Corp is headquartered in St. Louis, Missouri, USA."
+        },
+        {
+            "question": "When was Enterprise Financial Services Corp founded?",
+            "answer": "Enterprise Financial Services Corp was founded in 2002."
+        }
+    ],
+    "competitors": [
+        "ZION",
+        "STT",
+        "HBAN",
+        "KEY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JPM",
+        "WFC",
+        "C"
+    ]
+}

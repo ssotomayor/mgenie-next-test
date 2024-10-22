@@ -1,0 +1,86 @@
+{
+    "ticker": "MTBLY",
+    "name": "Mitsubishi Tanabe Pharma Corporation",
+    "description": "Mitsubishi Tanabe Pharma Corporation is a global biopharmaceutical company headquartered in Osaka, Japan, specializing in the research, development, manufacturing, and marketing of pharmaceutical products. Established in 1678, Mitsubishi Tanabe Pharma has a long history of innovation and commitment to improving health and quality of life. The company focuses on areas such as neurology, immunology, and infectious diseases, developing drugs that address unmet medical needs. Its flagship products include treatments for conditions like multiple sclerosis and diabetes. Mitsubishi Tanabe Pharma is also dedicated to advancing regenerative medicine and biotechnology, exploring novel therapies that can transform patient care. The company operates worldwide, with a significant presence in North America, Europe, and Asia, and collaborates with various research institutions and organizations to foster innovation in healthcare. With a mission to contribute to society through healthcare solutions, Mitsubishi Tanabe Pharma emphasizes sustainability and ethical practices in its operations, aligning its goals with global health initiatives.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Osaka, Japan",
+    "founded": "1678",
+    "website": "https://www.mt-pharma.co.jp/e/",
+    "ceo": "Masayuki Mitsumoto",
+    "social_media": {
+        "twitter": "https://twitter.com/mt_pharma",
+        "linkedin": "https://www.linkedin.com/company/mitsubishi-tanabe-pharma/"
+    },
+    "investor_relations": "https://www.mt-pharma.co.jp/e/ir/",
+    "key_executives": [
+        {
+            "name": "Masayuki Mitsumoto",
+            "position": "CEO"
+        },
+        {
+            "name": "Toshihiro Yamashita",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Neurology",
+            "products": [
+                "Ninlaro",
+                "Rebif"
+            ]
+        },
+        {
+            "category": "Diabetes",
+            "products": [
+                "Insulin Glargine",
+                "Metformin"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Mitsubishi Tanabe Pharma Corporation | Innovating Healthcare Solutions",
+        "meta_description": "Explore Mitsubishi Tanabe Pharma Corporation, a leader in biopharmaceuticals focused on neurology, immunology, and infectious diseases. Discover their innovative therapies and commitment to improving health.",
+        "keywords": [
+            "Mitsubishi Tanabe Pharma",
+            "Biopharmaceuticals",
+            "Healthcare",
+            "Neurology",
+            "Diabetes",
+            "Innovative Therapies"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Mitsubishi Tanabe Pharma specialize in?",
+            "answer": "Mitsubishi Tanabe Pharma specializes in biopharmaceuticals, focusing on neurology, immunology, and infectious diseases."
+        },
+        {
+            "question": "Where is Mitsubishi Tanabe Pharma headquartered?",
+            "answer": "Mitsubishi Tanabe Pharma is headquartered in Osaka, Japan."
+        },
+        {
+            "question": "What are some of Mitsubishi Tanabe Pharma's key products?",
+            "answer": "Key products include Ninlaro for multiple myeloma and Rebif for multiple sclerosis."
+        },
+        {
+            "question": "When was Mitsubishi Tanabe Pharma founded?",
+            "answer": "Mitsubishi Tanabe Pharma was founded in 1678."
+        }
+    ],
+    "competitors": [
+        "MRK",
+        "BMY",
+        "PFE",
+        "JNJ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

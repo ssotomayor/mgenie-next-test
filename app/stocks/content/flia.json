@@ -1,0 +1,88 @@
+{
+    "ticker": "FLIA",
+    "name": "Fluid Intelligence, Inc.",
+    "description": "Fluid Intelligence, Inc. is a leading technology company specializing in advanced fluid dynamics simulations and analytics. Founded in 2010, the company focuses on providing innovative solutions for industries such as aerospace, automotive, and energy. Fluid Intelligence harnesses the power of computational fluid dynamics (CFD) to help businesses optimize their designs and processes, leading to improved performance and efficiency. With a team of expert engineers and data scientists, Fluid Intelligence offers a suite of software products and consulting services that enable clients to simulate and analyze fluid flow in complex systems. The company's flagship product, FluidSim, is widely recognized for its user-friendly interface and powerful simulation capabilities, allowing engineers to visualize fluid behavior and make data-driven decisions. In addition to software solutions, Fluid Intelligence also engages in research and development to push the boundaries of fluid mechanics, aiming to contribute to advancements in sustainable technologies and energy efficiency. The company is committed to fostering innovation and collaboration within the engineering community, hosting regular workshops and seminars to share knowledge and best practices.",
+    "industry": [
+        "Technology",
+        "Engineering",
+        "Software"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.fluidintelligence.com",
+    "ceo": "Jessica Tran",
+    "social_media": {
+        "twitter": "https://twitter.com/FluidIntelligence",
+        "linkedin": "https://www.linkedin.com/company/fluid-intelligence/"
+    },
+    "investor_relations": "https://ir.fluidintelligence.com",
+    "key_executives": [
+        {
+            "name": "Jessica Tran",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Reynolds",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software Solutions",
+            "products": [
+                "FluidSim",
+                "FluidAnalytics"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Design Optimization",
+                "Simulation Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fluid Intelligence, Inc. | Advanced Fluid Dynamics Solutions",
+        "meta_description": "Explore Fluid Intelligence, Inc., a leader in fluid dynamics simulations and analytics. Discover innovative software solutions and consulting services for engineering excellence.",
+        "keywords": [
+            "Fluid Intelligence",
+            "Computational Fluid Dynamics",
+            "Fluid Simulations",
+            "Engineering Software",
+            "Design Optimization"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fluid Intelligence specialize in?",
+            "answer": "Fluid Intelligence specializes in advanced fluid dynamics simulations and analytics."
+        },
+        {
+            "question": "Who is the CEO of Fluid Intelligence?",
+            "answer": "Jessica Tran is the CEO of Fluid Intelligence, Inc."
+        },
+        {
+            "question": "Where is Fluid Intelligence headquartered?",
+            "answer": "Fluid Intelligence is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are the main products of Fluid Intelligence?",
+            "answer": "Fluid Intelligence's main products include FluidSim and FluidAnalytics, along with various consulting services."
+        },
+        {
+            "question": "When was Fluid Intelligence founded?",
+            "answer": "Fluid Intelligence was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "ANSYS",
+        "CD-adapco",
+        "COMSOL"
+    ],
+    "related_stocks": [
+        "ADSK",
+        "ORCL",
+        "MSFT"
+    ]
+}

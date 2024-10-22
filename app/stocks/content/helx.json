@@ -1,0 +1,96 @@
+{
+    "ticker": "HELX",
+    "name": "Helix Energy Solutions Group, Inc.",
+    "description": "Helix Energy Solutions Group, Inc. is a leading provider of specialized services to the offshore energy sector, primarily focusing on the oil and gas industry. Founded in 1979 and headquartered in Houston, Texas, Helix offers a diverse range of services including well intervention, robotics, and decommissioning. The company is recognized for its innovative approaches to complex offshore projects, utilizing advanced technologies and equipment to enhance operational efficiency and safety. Helix operates a fleet of specialized vessels, including dynamically positioned vessels and remotely operated vehicles (ROVs), which are integral to their service offerings. The company's well intervention services are pivotal in maintaining and enhancing the productivity of offshore wells, while their decommissioning services ensure environmentally responsible removal of obsolete offshore structures. With a commitment to safety and sustainability, Helix is dedicated to minimizing environmental impact and promoting best practices within the industry. The company continues to invest in new technologies and training to adapt to the evolving energy landscape, positioning itself as a crucial player in the transition towards more sustainable energy solutions.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1979",
+    "website": "https://www.helixesg.com",
+    "ceo": "Olivier V. de Margerie",
+    "social_media": {
+        "twitter": "https://twitter.com/HelixESG",
+        "linkedin": "https://www.linkedin.com/company/helix-energy-solutions-group/"
+    },
+    "investor_relations": "https://investor.helixesg.com",
+    "key_executives": [
+        {
+            "name": "Olivier V. de Margerie",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott Andrew",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/scott-andrew-123456/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Well Intervention",
+            "products": [
+                "Well Cleanup",
+                "Well Plugging and Abandonment"
+            ]
+        },
+        {
+            "category": "Robotics",
+            "products": [
+                "Remotely Operated Vehicles (ROVs)",
+                "Inspection Services"
+            ]
+        },
+        {
+            "category": "Decommissioning",
+            "products": [
+                "Platform Removal",
+                "Site Clearance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Helix Energy Solutions Group, Inc. | Offshore Energy Services",
+        "meta_description": "Explore Helix Energy Solutions Group, Inc., a leader in offshore energy services providing innovative solutions in well intervention, robotics, and decommissioning.",
+        "keywords": [
+            "Helix Energy Solutions",
+            "Offshore Services",
+            "Well Intervention",
+            "Robotics",
+            "Decommissioning",
+            "Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Helix provide?",
+            "answer": "Helix provides specialized services in well intervention, robotics, and decommissioning for the offshore energy sector."
+        },
+        {
+            "question": "Who is the CEO of Helix Energy Solutions?",
+            "answer": "Olivier V. de Margerie is the CEO of Helix Energy Solutions Group, Inc."
+        },
+        {
+            "question": "Where is Helix headquartered?",
+            "answer": "Helix is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Helix founded?",
+            "answer": "Helix was founded in 1979."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "HAL",
+        "BKR",
+        "NBR"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "COP"
+    ]
+}

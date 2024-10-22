@@ -1,0 +1,83 @@
+{
+    "ticker": "RAASY",
+    "name": "Rasa Technologies, Inc.",
+    "description": "Rasa Technologies, Inc. is an innovative leader in the artificial intelligence (AI) and natural language processing (NLP) sectors. Founded in 2016, Rasa focuses on providing advanced conversational AI solutions that empower businesses to create personalized customer interactions. The company's flagship product, Rasa Open Source, enables developers to build, improve, and deploy high-quality chatbots and virtual assistants with ease. Leveraging cutting-edge machine learning techniques, Rasa's technology allows for context-aware conversations and seamless integrations with various messaging platforms. The company is dedicated to fostering an open-source community, encouraging collaboration and knowledge sharing among AI practitioners. Rasa's mission is to make AI accessible and ethical, helping organizations enhance customer engagement while maintaining user privacy. With a growing portfolio of clients across multiple industries, Rasa is at the forefront of transforming how businesses communicate with their customers through AI-driven solutions.",
+    "industry": [
+        "Artificial Intelligence",
+        "Software",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2016",
+    "website": "https://rasa.com",
+    "ceo": "Alexander Karp",
+    "social_media": {
+        "twitter": "https://twitter.com/RasaHQ",
+        "linkedin": "https://www.linkedin.com/company/rasa-technologies/"
+    },
+    "investor_relations": "https://rasa.com/investors",
+    "key_executives": [
+        {
+            "name": "Alexander Karp",
+            "position": "CEO"
+        },
+        {
+            "name": "Mihai P\u0103un",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Rasa Open Source",
+                "Rasa X"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rasa Technologies, Inc. | Conversational AI and NLP Solutions",
+        "meta_description": "Explore Rasa Technologies, Inc., a leader in conversational AI. Discover how Rasa's innovative solutions enhance customer interactions with AI-powered chatbots.",
+        "keywords": [
+            "Rasa",
+            "Conversational AI",
+            "Chatbots",
+            "Natural Language Processing",
+            "AI Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rasa Technologies do?",
+            "answer": "Rasa Technologies specializes in conversational AI and natural language processing, providing tools for building chatbots and virtual assistants."
+        },
+        {
+            "question": "Who is the CEO of Rasa Technologies?",
+            "answer": "Alexander Karp is the CEO of Rasa Technologies, Inc."
+        },
+        {
+            "question": "Where is Rasa headquartered?",
+            "answer": "Rasa is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Rasa's main products?",
+            "answer": "Rasa's main products include Rasa Open Source and Rasa X."
+        },
+        {
+            "question": "When was Rasa founded?",
+            "answer": "Rasa was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "TWLO",
+        "CRM",
+        "MSFT",
+        "GOOGL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "FB",
+        "NFLX"
+    ]
+}

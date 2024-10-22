@@ -1,0 +1,95 @@
+{
+    "ticker": "KO",
+    "name": "The Coca-Cola Company",
+    "description": "The Coca-Cola Company is a global leader in the beverage industry, renowned for its iconic soft drink, Coca-Cola. Founded in 1886 by Dr. John Stith Pemberton in Atlanta, Georgia, the company has evolved into a diversified portfolio of beverages, including sparkling drinks, juices, teas, coffees, and plant-based drinks. With a mission to refresh the world and inspire moments of optimism and happiness, Coca-Cola is committed to sustainability and community well-being. The company operates in over 200 countries, offering more than 500 brands, including Diet Coke, Fanta, Sprite, Minute Maid, and Dasani. Coca-Cola emphasizes innovation, marketing, and distribution, ensuring that its products are accessible to consumers worldwide. The company has set ambitious goals to reduce its carbon footprint, promote recycling, and support water conservation initiatives. Coca-Cola's heritage of marketing excellence and community engagement has made it one of the most recognized brands in the world. As a pioneer in the beverage sector, Coca-Cola continues to adapt to changing consumer preferences, focusing on health-conscious options and sustainable practices while staying true to its roots of providing refreshing beverages.",
+    "industry": [
+        "Beverages",
+        "Food and Beverage"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1886",
+    "website": "https://www.coca-cola.com",
+    "ceo": "James Quincey",
+    "social_media": {
+        "twitter": "https://twitter.com/CocaCola",
+        "linkedin": "https://www.linkedin.com/company/the-coca-cola-company/",
+        "instagram": "https://www.instagram.com/cocacola/",
+        "youtube": "https://www.youtube.com/user/coketv"
+    },
+    "investor_relations": "https://investors.coca-cola.com",
+    "key_executives": [
+        {
+            "name": "James Quincey",
+            "position": "CEO"
+        },
+        {
+            "name": "John Murphy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Sparkling Beverages",
+            "products": [
+                "Coca-Cola",
+                "Diet Coke",
+                "Fanta",
+                "Sprite"
+            ]
+        },
+        {
+            "category": "Non-Sparkling Beverages",
+            "products": [
+                "Minute Maid",
+                "Dasani",
+                "Coca-Cola Zero Sugar"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Coca-Cola Company | Refreshing the World",
+        "meta_description": "Explore The Coca-Cola Company, a global leader in beverages, offering a diverse portfolio of drinks that inspire happiness. Discover Coca-Cola's commitment to sustainability and community.",
+        "keywords": [
+            "Coca-Cola",
+            "Beverages",
+            "Soft Drinks",
+            "Sustainability",
+            "Refreshment",
+            "Coca-Cola Zero",
+            "Diet Coke"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does The Coca-Cola Company produce?",
+            "answer": "The Coca-Cola Company produces a wide range of beverages, including soft drinks, juices, teas, and coffees."
+        },
+        {
+            "question": "Who is the CEO of The Coca-Cola Company?",
+            "answer": "James Quincey is the CEO of The Coca-Cola Company."
+        },
+        {
+            "question": "When was Coca-Cola founded?",
+            "answer": "Coca-Cola was founded in 1886."
+        },
+        {
+            "question": "Where is The Coca-Cola Company headquartered?",
+            "answer": "The Coca-Cola Company is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What are some popular Coca-Cola products?",
+            "answer": "Popular Coca-Cola products include Coca-Cola, Diet Coke, Sprite, Fanta, and Minute Maid."
+        }
+    ],
+    "competitors": [
+        "PEP",
+        "MNST",
+        "DAN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "PG",
+        "WMT"
+    ]
+}

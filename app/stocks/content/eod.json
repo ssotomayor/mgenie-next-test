@@ -1,0 +1,89 @@
+{
+    "ticker": "EOD",
+    "name": "End of Day, Inc.",
+    "description": "End of Day, Inc. is a leading provider of financial data solutions, specializing in end-of-day market data for stocks, ETFs, mutual funds, and other financial instruments. Founded in 2010, the company has established itself as a trusted source for accurate and reliable data, catering to a diverse clientele that includes investment firms, hedge funds, and individual investors. With a commitment to delivering high-quality data, End of Day, Inc. offers a range of products and services, including historical data feeds, real-time analytics, and customizable data delivery options. The company's platform is designed to empower clients with insights that drive informed investment decisions. End of Day, Inc. leverages cutting-edge technology and a robust data infrastructure to ensure that clients receive timely and precise information, which is critical in today\u2019s fast-paced financial markets. In addition to its core data services, the company is actively involved in research and development, exploring innovative ways to enhance data processing and analysis through artificial intelligence and machine learning. The mission of End of Day, Inc. is to democratize access to financial data, enabling all market participants to harness the power of information for better investment outcomes.",
+    "industry": [
+        "Financial Services",
+        "Data Analytics"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2010",
+    "website": "https://www.endofday.com",
+    "ceo": "Jessica Taylor",
+    "social_media": {
+        "twitter": "https://twitter.com/EndOfDayInc",
+        "linkedin": "https://www.linkedin.com/company/end-of-day-inc/"
+    },
+    "investor_relations": "https://ir.endofday.com",
+    "key_executives": [
+        {
+            "name": "Jessica Taylor",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Market Data Services",
+            "products": [
+                "Historical Data Feeds",
+                "Real-Time Analytics"
+            ]
+        },
+        {
+            "category": "Data Solutions",
+            "products": [
+                "Custom Data Delivery",
+                "API Access"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "End of Day, Inc. | Financial Data Solutions",
+        "meta_description": "Explore End of Day, Inc., a leader in financial data solutions offering accurate end-of-day market data and analytics for informed investment decisions.",
+        "keywords": [
+            "End of Day",
+            "Financial Data",
+            "Market Data",
+            "Investment Analytics",
+            "Data Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does End of Day, Inc. offer?",
+            "answer": "End of Day, Inc. offers end-of-day market data, historical data feeds, real-time analytics, and customizable data delivery."
+        },
+        {
+            "question": "Who is the CEO of End of Day, Inc.?",
+            "answer": "Jessica Taylor is the CEO of End of Day, Inc."
+        },
+        {
+            "question": "Where is End of Day, Inc. headquartered?",
+            "answer": "End of Day, Inc. is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What is the mission of End of Day, Inc.?",
+            "answer": "The mission of End of Day, Inc. is to democratize access to financial data for better investment outcomes."
+        },
+        {
+            "question": "When was End of Day, Inc. founded?",
+            "answer": "End of Day, Inc. was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "BLOK",
+        "FDS",
+        "MSCI",
+        "SPGI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

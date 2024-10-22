@@ -1,0 +1,89 @@
+{
+    "ticker": "EURKU",
+    "name": "EuroKube Technologies",
+    "description": "EuroKube Technologies is an innovative company specializing in advanced software solutions and cloud computing services. Founded in 2015, the company aims to leverage cutting-edge technology to provide scalable and secure digital solutions for businesses across Europe and beyond. EuroKube is recognized for its cloud infrastructure services, which include cloud migration, DevOps automation, and data analytics platforms that empower organizations to optimize their operations and maximize productivity. The company\u2019s flagship product, KubeSphere, is an open-source container management platform that simplifies Kubernetes operations, making it easier for developers to deploy and manage applications in the cloud. EuroKube is committed to fostering digital transformation by integrating AI and machine learning into its solutions, helping clients harness the power of data for better decision-making. The company prides itself on its customer-centric approach, working closely with clients to tailor solutions that meet their specific needs, thus driving efficiency and innovation in their business models. With a growing presence in the tech industry, EuroKube is positioned as a leader in the European cloud services market, aiming to transform the way organizations operate in a digital-first world.",
+    "industry": [
+        "Information Technology",
+        "Cloud Computing"
+    ],
+    "headquarters": "Berlin, Germany",
+    "founded": "2015",
+    "website": "https://www.eurokube.com",
+    "ceo": "Anna M\u00fcller",
+    "social_media": {
+        "twitter": "https://twitter.com/EuroKube",
+        "linkedin": "https://www.linkedin.com/company/eurokube/"
+    },
+    "investor_relations": "https://ir.eurokube.com",
+    "key_executives": [
+        {
+            "name": "Anna M\u00fcller",
+            "position": "CEO"
+        },
+        {
+            "name": "Tom Schmidt",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Cloud Migration",
+                "DevOps Automation",
+                "Data Analytics"
+            ]
+        },
+        {
+            "category": "Software Solutions",
+            "products": [
+                "KubeSphere"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "EuroKube Technologies | Cloud Computing and Software Solutions",
+        "meta_description": "Explore EuroKube Technologies, a leader in cloud computing and software solutions. Discover innovative products and services that drive digital transformation.",
+        "keywords": [
+            "EuroKube",
+            "Cloud Computing",
+            "Software Solutions",
+            "Kubernetes",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is EuroKube known for?",
+            "answer": "EuroKube is known for its advanced cloud computing services and software solutions, particularly in container management."
+        },
+        {
+            "question": "Who is the CEO of EuroKube?",
+            "answer": "Anna M\u00fcller is the CEO of EuroKube Technologies."
+        },
+        {
+            "question": "Where is EuroKube headquartered?",
+            "answer": "EuroKube is headquartered in Berlin, Germany."
+        },
+        {
+            "question": "What are EuroKube's main products?",
+            "answer": "EuroKube's main products include cloud migration services, DevOps automation, data analytics platforms, and the KubeSphere software."
+        },
+        {
+            "question": "When was EuroKube founded?",
+            "answer": "EuroKube was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "IBM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NFLX",
+        "CRM",
+        "ORCL"
+    ]
+}

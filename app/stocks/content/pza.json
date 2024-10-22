@@ -1,0 +1,87 @@
+{
+    "ticker": "PZA",
+    "name": "Pizza America, Inc.",
+    "description": "Pizza America, Inc. is a leading player in the fast-casual dining industry, specializing in gourmet pizza and innovative culinary experiences. Established in 2010, the company has rapidly grown its footprint across the United States, offering a diverse menu that caters to pizza lovers of all ages. With a commitment to using high-quality, locally sourced ingredients, Pizza America creates unique flavor profiles and offers an array of options, including gluten-free and vegan pizzas. The company is known for its inviting atmosphere and exceptional customer service, making it a popular choice for family outings and social gatherings. In addition to dine-in services, Pizza America has embraced technology, providing convenient online ordering and delivery options to meet the demands of today\u2019s consumers. With a vision to expand internationally and a mission to redefine the pizza dining experience, Pizza America is poised for significant growth in the coming years.",
+    "industry": [
+        "Food & Beverage",
+        "Restaurants"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "2010",
+    "website": "https://www.pizzaamerica.com",
+    "ceo": "Jessica Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/PizzaAmerica",
+        "facebook": "https://www.facebook.com/PizzaAmerica",
+        "instagram": "https://www.instagram.com/pizzaamerica"
+    },
+    "investor_relations": "https://ir.pizzaamerica.com",
+    "key_executives": [
+        {
+            "name": "Jessica Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pizzas",
+            "products": [
+                "Pepperoni Pizza",
+                "Vegetarian Pizza",
+                "BBQ Chicken Pizza",
+                "Cheese Pizza"
+            ]
+        },
+        {
+            "category": "Sides",
+            "products": [
+                "Garlic Knots",
+                "Mozzarella Sticks",
+                "Caesar Salad"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pizza America, Inc. | Gourmet Pizza and Fast-Casual Dining",
+        "meta_description": "Experience Pizza America, Inc., a leader in gourmet pizza and fast-casual dining. Discover our diverse menu, commitment to quality, and inviting atmosphere.",
+        "keywords": [
+            "Pizza America",
+            "Gourmet Pizza",
+            "Fast-Casual Dining",
+            "Pizza Delivery",
+            "Chicago Pizza"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of pizza does Pizza America offer?",
+            "answer": "Pizza America offers a variety of pizzas including Pepperoni, Vegetarian, BBQ Chicken, and Cheese pizzas."
+        },
+        {
+            "question": "Where is Pizza America headquartered?",
+            "answer": "Pizza America is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "Is there a delivery service available?",
+            "answer": "Yes, Pizza America provides convenient online ordering and delivery options."
+        },
+        {
+            "question": "When was Pizza America founded?",
+            "answer": "Pizza America was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "DPZ",
+        "PZZA",
+        "CMG"
+    ],
+    "related_stocks": [
+        "MCD",
+        "SBUX",
+        "YUM"
+    ]
+}

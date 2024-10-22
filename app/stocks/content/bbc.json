@@ -1,0 +1,98 @@
+{
+    "ticker": "BBC",
+    "name": "British Broadcasting Corporation",
+    "description": "The British Broadcasting Corporation (BBC) is a leading public service broadcaster headquartered in London, United Kingdom. Established in 1922, the BBC is known for its commitment to providing impartial news, educational programming, and entertainment across various platforms. With a mission to inform, educate, and entertain, the BBC operates several television channels, radio stations, and online services, reaching audiences both domestically and internationally. The BBC is renowned for its high-quality productions, including news programs like BBC News at Ten, documentaries, and dramas such as Doctor Who and Sherlock. The corporation plays a significant role in British culture and society, promoting diverse viewpoints and fostering understanding within the community. As a public service broadcaster, the BBC is funded primarily through a television license fee paid by UK households, ensuring its independence from commercial interests. The BBC is also committed to digital innovation, investing in online streaming services and platforms to engage younger audiences and adapt to changing media consumption habits. The organization has a global reach through BBC World News and its international services, providing news and information to millions around the world.",
+    "industry": [
+        "Media",
+        "Broadcasting"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1922",
+    "website": "https://www.bbc.co.uk",
+    "ceo": "Tim Davie",
+    "social_media": {
+        "twitter": "https://twitter.com/BBC",
+        "linkedin": "https://www.linkedin.com/company/bbc/"
+    },
+    "investor_relations": "https://www.bbc.co.uk/investors",
+    "key_executives": [
+        {
+            "name": "Tim Davie",
+            "position": "CEO"
+        },
+        {
+            "name": "Charlotte Moore",
+            "position": "Chief Content Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Television",
+            "products": [
+                "BBC One",
+                "BBC Two",
+                "BBC Three",
+                "BBC Four"
+            ]
+        },
+        {
+            "category": "Radio",
+            "products": [
+                "BBC Radio 1",
+                "BBC Radio 2",
+                "BBC Radio 4"
+            ]
+        },
+        {
+            "category": "Online Services",
+            "products": [
+                "BBC iPlayer",
+                "BBC News Online"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BBC | British Broadcasting Corporation",
+        "meta_description": "Explore the BBC, a leading public service broadcaster known for its quality content in news, entertainment, and education. Discover BBC channels, radio stations, and online services.",
+        "keywords": [
+            "BBC",
+            "British Broadcasting Corporation",
+            "News",
+            "Television",
+            "Radio",
+            "Media"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is the BBC known for?",
+            "answer": "The BBC is known for providing impartial news, educational programming, and entertainment across television, radio, and online platforms."
+        },
+        {
+            "question": "Who is the CEO of the BBC?",
+            "answer": "Tim Davie is the CEO of the BBC."
+        },
+        {
+            "question": "Where is the BBC headquartered?",
+            "answer": "The BBC is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are the main products of the BBC?",
+            "answer": "The BBC's main products include television channels like BBC One and BBC Two, radio stations like BBC Radio 1, and online services such as BBC iPlayer."
+        },
+        {
+            "question": "When was the BBC founded?",
+            "answer": "The BBC was founded in 1922."
+        }
+    ],
+    "competitors": [
+        "ITV",
+        "CHANNEL4",
+        "SKY"
+    ],
+    "related_stocks": [
+        "DIS",
+        "NFLX",
+        "CMCSA"
+    ]
+}

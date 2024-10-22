@@ -1,0 +1,90 @@
+{
+    "ticker": "ORAN",
+    "name": "Orange S.A.",
+    "description": "Orange S.A. is a multinational telecommunications corporation headquartered in Paris, France, and is one of the world's leading telecommunications operators. Established in 1990, Orange provides a wide range of services including mobile and fixed telephony, broadband Internet, and digital television. The company operates in 26 countries and has a significant presence in Europe, Africa, and the Middle East. With a strong commitment to innovation and digital transformation, Orange is at the forefront of developing advanced telecommunications infrastructure and services, including 5G networks and IoT solutions. The company places a strong emphasis on customer service and has developed various digital solutions to enhance user experience, such as mobile banking and cybersecurity services. Orange's mission is to connect people and businesses with reliable and secure telecommunications services, while also contributing to the digital inclusion of underserved communities. The company is also actively involved in sustainable development initiatives, focusing on reducing its environmental impact and promoting responsible digital practices. With a robust portfolio of subsidiaries and partnerships, Orange continues to expand its reach and deliver value to its customers globally.",
+    "industry": [
+        "Telecommunications",
+        "Internet Services"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1990",
+    "website": "https://www.orange.com",
+    "ceo": "Christel Heydemann",
+    "social_media": {
+        "twitter": "https://twitter.com/orange",
+        "linkedin": "https://www.linkedin.com/company/orange/"
+    },
+    "investor_relations": "https://www.orange.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Christel Heydemann",
+            "position": "CEO"
+        },
+        {
+            "name": "Ramon Fernandez",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunication Services",
+            "products": [
+                "Mobile Telephony",
+                "Fixed-Line Telephony",
+                "Broadband Internet",
+                "Digital Television"
+            ]
+        },
+        {
+            "category": "Digital Services",
+            "products": [
+                "Mobile Banking",
+                "Cybersecurity Solutions",
+                "IoT Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Orange S.A. | Leading Telecommunications Provider",
+        "meta_description": "Explore Orange S.A., a global leader in telecommunications, providing innovative mobile and fixed services, broadband, and digital solutions.",
+        "keywords": [
+            "Orange",
+            "Telecommunications",
+            "Mobile Services",
+            "Broadband",
+            "Digital Services",
+            "5G Network",
+            "IoT"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Orange offer?",
+            "answer": "Orange offers mobile and fixed telephony, broadband Internet, digital television, and various digital services."
+        },
+        {
+            "question": "Who is the CEO of Orange?",
+            "answer": "Christel Heydemann is the CEO of Orange S.A."
+        },
+        {
+            "question": "Where is Orange headquartered?",
+            "answer": "Orange is headquartered in Paris, France."
+        },
+        {
+            "question": "When was Orange founded?",
+            "answer": "Orange was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "VOD",
+        "BT",
+        "TMUS",
+        "TEF"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+    ]
+}

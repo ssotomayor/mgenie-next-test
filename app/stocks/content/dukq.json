@@ -1,0 +1,92 @@
+{
+    "ticker": "DUKQ",
+    "name": "Duke Energy Corporation",
+    "description": "Duke Energy Corporation is one of the largest electric power holding companies in the United States, primarily engaged in the generation, transmission, and distribution of electricity. Founded in 1904 and headquartered in Charlotte, North Carolina, Duke Energy serves approximately 7.7 million customers across six states in the Southeast and Midwest. The company operates a diverse energy portfolio that includes coal, natural gas, nuclear, and renewable energy sources such as wind and solar. Duke Energy is committed to transitioning towards cleaner energy solutions and reducing carbon emissions, aligning with its goal to achieve net-zero carbon emissions by 2050. Through its various subsidiaries, Duke Energy is involved in the development of energy infrastructure and smart grid technologies to enhance energy efficiency and reliability. The company also invests in community initiatives and sustainability programs to support the communities it serves. With a strong focus on customer service and innovation, Duke Energy aims to meet the growing energy demands while fostering environmental stewardship and economic growth.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.duke-energy.com",
+    "ceo": "Lynn Good",
+    "social_media": {
+        "twitter": "https://twitter.com/DukeEnergy",
+        "linkedin": "https://www.linkedin.com/company/duke-energy/"
+    },
+    "investor_relations": "https://investors.duke-energy.com",
+    "key_executives": [
+        {
+            "name": "Lynn Good",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Young",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Nuclear Power",
+                "Natural Gas",
+                "Coal",
+                "Renewable Energy"
+            ]
+        },
+        {
+            "category": "Energy Services",
+            "products": [
+                "Energy Efficiency Programs",
+                "Smart Grid Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Duke Energy Corporation | Powering the Future with Clean Energy",
+        "meta_description": "Explore Duke Energy Corporation, a leader in electric power generation and distribution, committed to sustainability and clean energy solutions for millions of customers.",
+        "keywords": [
+            "Duke Energy",
+            "Electric Utilities",
+            "Clean Energy",
+            "Sustainability",
+            "Renewable Energy",
+            "Electric Power"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Duke Energy provide?",
+            "answer": "Duke Energy provides electricity generation, transmission, and distribution services to its customers."
+        },
+        {
+            "question": "Who is the CEO of Duke Energy?",
+            "answer": "Lynn Good is the CEO of Duke Energy Corporation."
+        },
+        {
+            "question": "Where is Duke Energy headquartered?",
+            "answer": "Duke Energy is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are Duke Energy's main energy sources?",
+            "answer": "Duke Energy's main energy sources include nuclear, natural gas, coal, and renewable energy like wind and solar."
+        },
+        {
+            "question": "When was Duke Energy founded?",
+            "answer": "Duke Energy was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "SO",
+        "EXC",
+        "AEP",
+        "CMS"
+    ],
+    "related_stocks": [
+        "NEE",
+        "D",
+        "ED",
+        "XEL"
+    ]
+}

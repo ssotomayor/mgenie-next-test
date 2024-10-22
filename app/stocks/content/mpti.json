@@ -1,0 +1,83 @@
+{
+    "ticker": "MPTI",
+    "name": "Molecular Partners AG",
+    "description": "Molecular Partners AG is a biotechnology company based in Zurich, Switzerland, that specializes in developing a new class of therapeutics known as DARPin (Designed Ankyrin Repeat Protein) therapeutics. Founded in 2004, the company focuses on creating targeted therapies to treat a range of diseases, particularly in the fields of oncology and infectious diseases. Molecular Partners' innovative platform allows for the design of highly specific and potent drug candidates that can precisely bind to disease targets, potentially leading to improved efficacy and safety profiles compared to traditional biologics. The company's lead product candidate, MP0250, is aimed at treating multiple cancers by targeting key pathways involved in tumor growth and survival. In addition to its proprietary programs, Molecular Partners collaborates with major pharmaceutical companies to leverage its DARPin technology, enhancing the development of novel therapeutics. With a commitment to advancing healthcare through innovation, Molecular Partners aims to address unmet medical needs and improve the lives of patients worldwide.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Zurich, Switzerland",
+    "founded": "2004",
+    "website": "https://www.molecularpartners.com",
+    "ceo": "Patrick Amstutz",
+    "social_media": {
+        "twitter": "https://twitter.com/MolecularPtnrs",
+        "linkedin": "https://www.linkedin.com/company/molecular-partners-ag"
+    },
+    "investor_relations": "https://www.molecularpartners.com/investors/",
+    "key_executives": [
+        {
+            "name": "Patrick Amstutz",
+            "position": "CEO"
+        },
+        {
+            "name": "Andreas M. K. Schmid",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Therapeutics",
+            "products": [
+                "MP0250",
+                "MP0274"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Molecular Partners AG | Innovative DARPin Therapeutics",
+        "meta_description": "Molecular Partners AG is a leading biotechnology firm specializing in DARPin therapeutics for oncology and infectious diseases. Explore our innovative approach to drug development.",
+        "keywords": [
+            "Molecular Partners",
+            "Biotechnology",
+            "DARPin",
+            "Oncology",
+            "Pharmaceuticals",
+            "MP0250"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Molecular Partners known for?",
+            "answer": "Molecular Partners is known for developing DARPin therapeutics to treat various diseases, particularly cancer."
+        },
+        {
+            "question": "Who is the CEO of Molecular Partners?",
+            "answer": "Patrick Amstutz is the CEO of Molecular Partners AG."
+        },
+        {
+            "question": "Where is Molecular Partners headquartered?",
+            "answer": "Molecular Partners is headquartered in Zurich, Switzerland."
+        },
+        {
+            "question": "What are Molecular Partners' main products?",
+            "answer": "Molecular Partners' main products include MP0250 and MP0274, targeting oncology indications."
+        },
+        {
+            "question": "When was Molecular Partners founded?",
+            "answer": "Molecular Partners was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "REGN",
+        "BMY",
+        "ROG"
+    ],
+    "related_stocks": [
+        "GILD",
+        "ABBV",
+        "JNJ",
+        "PFE"
+    ]
+}

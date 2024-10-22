@@ -1,0 +1,95 @@
+{
+    "ticker": "IHRT",
+    "name": "iHeartMedia, Inc.",
+    "description": "iHeartMedia, Inc. is a leading global media and entertainment company specializing in radio broadcasting and digital media. Founded in 1972, iHeartMedia operates the largest radio network in the United States and is a prominent player in the audio advertising industry. The company owns and operates over 850 radio stations across various formats, reaching millions of listeners daily. In addition to traditional radio, iHeartMedia has made significant strides in digital broadcasting, offering streaming services through the iHeartRadio platform, which allows users to listen to live radio, curated playlists, and podcasts. As the media landscape continues to evolve, iHeartMedia is committed to leveraging technology to enhance its services and engage audiences, positioning itself at the forefront of the audio revolution. The company is also known for its large-scale live events, including the iHeartRadio Music Awards and the iHeartRadio Jingle Ball. With an extensive portfolio of content and a focus on innovation, iHeartMedia strives to connect brands with audiences in impactful and meaningful ways, making it a key player in the advertising and entertainment sectors.",
+    "industry": [
+        "Media",
+        "Entertainment"
+    ],
+    "headquarters": "San Antonio, Texas, USA",
+    "founded": "1972",
+    "website": "https://www.iheartmedia.com",
+    "ceo": "Bob Pittman",
+    "social_media": {
+        "twitter": "https://twitter.com/iHeartRadio",
+        "linkedin": "https://www.linkedin.com/company/iheartmedia/"
+    },
+    "investor_relations": "https://investor.ihartmedia.com",
+    "key_executives": [
+        {
+            "name": "Bob Pittman",
+            "position": "CEO"
+        },
+        {
+            "name": "Rich Bressler",
+            "position": "President and CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Radio Broadcasting",
+            "products": [
+                "iHeartRadio Network",
+                "AM/FM Stations"
+            ]
+        },
+        {
+            "category": "Digital Media",
+            "products": [
+                "iHeartRadio App",
+                "Podcasts"
+            ]
+        },
+        {
+            "category": "Live Events",
+            "products": [
+                "iHeartRadio Music Awards",
+                "Jingle Ball"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "iHeartMedia, Inc. | Leading Audio Entertainment Company",
+        "meta_description": "Explore iHeartMedia, Inc., a top global media company specializing in radio broadcasting and digital media. Discover our innovative platforms and live events.",
+        "keywords": [
+            "iHeartMedia",
+            "Radio Broadcasting",
+            "Digital Media",
+            "Podcasts",
+            "Audio Advertising"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does iHeartMedia offer?",
+            "answer": "iHeartMedia offers radio broadcasting, digital streaming, and podcasting services."
+        },
+        {
+            "question": "Who is the CEO of iHeartMedia?",
+            "answer": "Bob Pittman is the CEO of iHeartMedia, Inc."
+        },
+        {
+            "question": "Where is iHeartMedia headquartered?",
+            "answer": "iHeartMedia is headquartered in San Antonio, Texas, USA."
+        },
+        {
+            "question": "What is the iHeartRadio platform?",
+            "answer": "iHeartRadio is a digital streaming platform that allows users to listen to live radio, curated playlists, and podcasts."
+        },
+        {
+            "question": "When was iHeartMedia founded?",
+            "answer": "iHeartMedia was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "CUMT",
+        "SIRI",
+        "SPOT"
+    ],
+    "related_stocks": [
+        "DIS",
+        "NFLX",
+        "CMCSA",
+        "WMT"
+    ]
+}

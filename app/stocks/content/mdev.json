@@ -1,0 +1,88 @@
+{
+    "ticker": "MDEV",
+    "name": "MetaDev, Inc.",
+    "description": "MetaDev, Inc. is a leading software development company specializing in cutting-edge solutions for the digital transformation of businesses. Founded in 2015, the company is dedicated to harnessing the power of technology to create innovative applications and platforms that enhance operational efficiency and customer engagement. MetaDev focuses on areas such as cloud computing, artificial intelligence, and mobile application development, catering to a diverse range of industries including healthcare, finance, and retail. With a team of highly skilled developers and engineers, MetaDev has established a reputation for delivering high-quality, scalable software solutions that meet the unique needs of its clients. The company emphasizes a collaborative approach, working closely with customers to understand their challenges and provide tailored solutions that drive growth and success. In addition to custom software development, MetaDev offers consulting services to help businesses navigate the complexities of digital transformation. Their mission is to empower organizations to leverage technology effectively, ensuring they remain competitive in a rapidly evolving market. As technology continues to advance, MetaDev is committed to continuous innovation and staying at the forefront of industry trends.",
+    "industry": [
+        "Software Development",
+        "Information Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.metadev.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/MetaDevInc",
+        "linkedin": "https://www.linkedin.com/company/metadev-inc/",
+        "facebook": "https://www.facebook.com/MetaDevInc"
+    },
+    "investor_relations": "https://ir.metadev.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Custom Software Development",
+            "products": [
+                "Web Applications",
+                "Mobile Applications",
+                "Cloud Solutions"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Digital Transformation Consulting",
+                "Technology Strategy"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MetaDev, Inc. | Innovative Software Development Solutions",
+        "meta_description": "Discover MetaDev, Inc., a leader in software development offering custom solutions and consulting services for digital transformation. Explore our innovative products and services.",
+        "keywords": [
+            "MetaDev",
+            "Software Development",
+            "Digital Transformation",
+            "Cloud Computing",
+            "AI Solutions",
+            "Mobile Applications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does MetaDev offer?",
+            "answer": "MetaDev offers custom software development, cloud solutions, and consulting services for digital transformation."
+        },
+        {
+            "question": "Who is the CEO of MetaDev?",
+            "answer": "Jane Doe is the CEO of MetaDev, Inc."
+        },
+        {
+            "question": "Where is MetaDev headquartered?",
+            "answer": "MetaDev is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was MetaDev founded?",
+            "answer": "MetaDev was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "MSFT",
+        "CRM",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "ticker": "PLUR",
+    "name": "Plurilock Security Solutions Inc.",
+    "description": "Plurilock Security Solutions Inc. is a cybersecurity company that specializes in identity-centric solutions designed to protect organizations from unauthorized access and data breaches. Founded in 2016, Plurilock leverages advanced technologies such as machine learning and biometrics to provide real-time authentication and threat detection. The company's flagship product, Plurilock ADAPT, offers continuous authentication capabilities that ensure user identity is verified throughout the entire session, thereby enhancing security without compromising user experience. Plurilock aims to address the growing challenges of cyber threats by providing businesses with proactive security measures that adapt to evolving security needs. With a focus on sectors such as government, healthcare, and finance, Plurilock is dedicated to delivering innovative solutions that safeguard sensitive information and maintain regulatory compliance. The company\u2019s mission is to make cybersecurity seamless and effective, empowering organizations to operate confidently in a digital landscape fraught with vulnerabilities.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Victoria, British Columbia, Canada",
+    "founded": "2016",
+    "website": "https://www.plurilock.com",
+    "ceo": "Ian Paterson",
+    "social_media": {
+        "twitter": "https://twitter.com/Plurilock",
+        "linkedin": "https://www.linkedin.com/company/plurilock-security-solutions"
+    },
+    "investor_relations": "https://www.plurilock.com/investors",
+    "key_executives": [
+        {
+            "name": "Ian Paterson",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael John",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Identity Management",
+            "products": [
+                "Plurilock ADAPT"
+            ]
+        },
+        {
+            "category": "Threat Detection",
+            "products": [
+                "Plurilock DEFEND"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Plurilock Security Solutions Inc. | Advanced Cybersecurity Solutions",
+        "meta_description": "Explore Plurilock Security Solutions Inc., a leader in identity-centric cybersecurity. Learn about our innovative products and commitment to safeguarding organizations.",
+        "keywords": [
+            "Plurilock",
+            "Cybersecurity",
+            "Identity Management",
+            "Threat Detection",
+            "Data Protection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Plurilock specialize in?",
+            "answer": "Plurilock specializes in cybersecurity solutions, focusing on identity management and threat detection."
+        },
+        {
+            "question": "Who is the CEO of Plurilock?",
+            "answer": "Ian Paterson is the CEO of Plurilock Security Solutions Inc."
+        },
+        {
+            "question": "Where is Plurilock headquartered?",
+            "answer": "Plurilock is headquartered in Victoria, British Columbia, Canada."
+        },
+        {
+            "question": "What are Plurilock's main products?",
+            "answer": "Plurilock's main products include Plurilock ADAPT and Plurilock DEFEND."
+        },
+        {
+            "question": "When was Plurilock founded?",
+            "answer": "Plurilock was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "CYBR",
+        "FTNT",
+        "CRWD",
+        "OKTA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "ADBE"
+    ]
+}

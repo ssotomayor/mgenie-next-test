@@ -1,0 +1,110 @@
+{
+    "ticker": "B",
+    "name": "Berkshire Hathaway Inc.",
+    "description": "Berkshire Hathaway Inc. is a multinational conglomerate holding company led by the renowned investor Warren Buffett. Founded in 1839, the company is headquartered in Omaha, Nebraska, and is known for its diverse portfolio of subsidiary businesses and significant equity stakes in various public companies. Berkshire Hathaway operates through multiple segments, including insurance, utility and energy, manufacturing, retail, and services. The company's insurance operations are a significant source of revenue, with subsidiaries like Geico and Berkshire Hathaway Reinsurance Group. Additionally, Berkshire is notable for its investments in well-established companies such as Apple, Coca-Cola, and American Express. Warren Buffett's investment philosophy, which emphasizes value investing, long-term growth, and a focus on high-quality businesses, has made Berkshire Hathaway a beacon of financial success and stability. The company's annual shareholder meeting is a highly anticipated event, often referred to as 'Woodstock for Capitalists', attracting thousands of investors from around the globe. Berkshire Hathaway's mission is to create value for its shareholders by acquiring and managing a diverse range of businesses that exhibit strong competitive advantages and robust potential for growth.",
+    "industry": [
+        "Conglomerate",
+        "Insurance",
+        "Utilities",
+        "Manufacturing",
+        "Retail"
+    ],
+    "headquarters": "Omaha, Nebraska, USA",
+    "founded": "1839",
+    "website": "https://www.berkshirehathaway.com",
+    "ceo": "Warren Buffett",
+    "social_media": {
+        "twitter": "https://twitter.com/BerkshireHathaway",
+        "linkedin": "https://www.linkedin.com/company/berkshire-hathaway-inc/"
+    },
+    "investor_relations": "https://www.berkshirehathaway.com/ir/ir.html",
+    "key_executives": [
+        {
+            "name": "Warren Buffett",
+            "position": "CEO"
+        },
+        {
+            "name": "Charlie Munger",
+            "position": "Vice Chairman"
+        },
+        {
+            "name": "Ajit Jain",
+            "position": "Vice Chairman, Insurance Operations"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance",
+            "products": [
+                "Geico",
+                "Berkshire Hathaway Reinsurance Group"
+            ]
+        },
+        {
+            "category": "Utilities",
+            "products": [
+                "Berkshire Hathaway Energy"
+            ]
+        },
+        {
+            "category": "Manufacturing",
+            "products": [
+                "Precision Castparts",
+                "Lubrizol"
+            ]
+        },
+        {
+            "category": "Retail",
+            "products": [
+                "Nebraska Furniture Mart",
+                "See's Candies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Berkshire Hathaway Inc. | Diversified Holdings and Investments",
+        "meta_description": "Explore Berkshire Hathaway Inc., a leader in diversified investments and a pioneer in the insurance industry. Learn about the company's history, subsidiaries, and investment strategies.",
+        "keywords": [
+            "Berkshire Hathaway",
+            "Warren Buffett",
+            "Investments",
+            "Insurance",
+            "Utilities",
+            "Conglomerate"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Berkshire Hathaway known for?",
+            "answer": "Berkshire Hathaway is known for its diverse portfolio of businesses and investments, particularly in the insurance and utility sectors."
+        },
+        {
+            "question": "Who is the CEO of Berkshire Hathaway?",
+            "answer": "Warren Buffett is the CEO of Berkshire Hathaway Inc."
+        },
+        {
+            "question": "Where is Berkshire Hathaway headquartered?",
+            "answer": "Berkshire Hathaway is headquartered in Omaha, Nebraska, USA."
+        },
+        {
+            "question": "What types of businesses does Berkshire Hathaway own?",
+            "answer": "Berkshire Hathaway owns businesses in insurance, utilities, manufacturing, retail, and various other sectors."
+        },
+        {
+            "question": "When was Berkshire Hathaway founded?",
+            "answer": "Berkshire Hathaway was founded in 1839."
+        }
+    ],
+    "competitors": [
+        "AIG",
+        "ALL",
+        "PRU",
+        "MET"
+    ],
+    "related_stocks": [
+        "BRK.A",
+        "BRK.B",
+        "JPM",
+        "V"
+    ]
+}

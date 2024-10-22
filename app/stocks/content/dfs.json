@@ -1,0 +1,99 @@
+{
+    "ticker": "DFS",
+    "name": "Discover Financial Services",
+    "description": "Discover Financial Services is a leading financial services company that offers a wide range of products and services, primarily focused on credit cards, personal loans, student loans, and home equity loans. Founded in 1985 and headquartered in Riverwoods, Illinois, Discover is known for its innovative approach to banking and customer service. The company operates the Discover Card, one of the most recognized credit cards in the United States, offering rewards, cash back, and no annual fees. Discover also provides banking services, including savings accounts, checking accounts, and certificates of deposit through its direct banking division. With a commitment to customer satisfaction, Discover has consistently received high ratings for its service and transparency. The company\u2019s mission is to help consumers achieve their financial goals by providing them with the tools and resources they need. Discover is also actively involved in community support and financial education initiatives, aiming to enhance financial literacy among consumers. As a technology-driven organization, Discover utilizes advanced analytics and data-driven strategies to improve customer experiences and reduce fraud, solidifying its position as an industry leader in financial services.",
+    "industry": [
+        "Financial Services",
+        "Banking",
+        "Credit Cards"
+    ],
+    "headquarters": "Riverwoods, Illinois, USA",
+    "founded": "1985",
+    "website": "https://www.discover.com",
+    "ceo": "Roger Hochschild",
+    "social_media": {
+        "twitter": "https://twitter.com/Discover",
+        "linkedin": "https://www.linkedin.com/company/discoverfinancialservices/",
+        "facebook": "https://www.facebook.com/Discover"
+    },
+    "investor_relations": "https://ir.discover.com",
+    "key_executives": [
+        {
+            "name": "Roger Hochschild",
+            "position": "CEO"
+        },
+        {
+            "name": "John Greene",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Cards",
+            "products": [
+                "Discover it Cash Back",
+                "Discover it Miles",
+                "Discover it Student Cash Back"
+            ]
+        },
+        {
+            "category": "Personal Loans",
+            "products": [
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Banking Products",
+            "products": [
+                "Savings Accounts",
+                "Checking Accounts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Discover Financial Services | Credit Cards, Banking & Loans",
+        "meta_description": "Explore Discover Financial Services, offering innovative credit cards, personal loans, and banking solutions. Learn about our commitment to customer service and financial literacy.",
+        "keywords": [
+            "Discover Financial Services",
+            "Credit Cards",
+            "Personal Loans",
+            "Banking",
+            "Rewards",
+            "Cash Back"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Discover Financial Services offer?",
+            "answer": "Discover offers credit cards, personal loans, banking products, and student loans."
+        },
+        {
+            "question": "Who is the CEO of Discover Financial Services?",
+            "answer": "Roger Hochschild is the CEO of Discover Financial Services."
+        },
+        {
+            "question": "Where is Discover Financial Services headquartered?",
+            "answer": "Discover is headquartered in Riverwoods, Illinois, USA."
+        },
+        {
+            "question": "What are the benefits of a Discover credit card?",
+            "answer": "Discover credit cards offer cash back rewards, no annual fees, and various promotional offers."
+        },
+        {
+            "question": "When was Discover Financial Services founded?",
+            "answer": "Discover was founded in 1985."
+        }
+    ],
+    "competitors": [
+        "AXP",
+        "V",
+        "MA",
+        "C"
+    ],
+    "related_stocks": [
+        "JPM",
+        "GS",
+        "BAC",
+        "WFC"
+    ]
+}

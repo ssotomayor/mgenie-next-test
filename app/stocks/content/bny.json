@@ -1,0 +1,88 @@
+{
+    "ticker": "BNY",
+    "name": "BNY Mellon",
+    "description": "BNY Mellon, officially known as The Bank of New York Mellon Corporation, is a global investments company that helps clients manage and service their financial assets throughout the investment lifecycle. Founded in 1784, BNY Mellon has a rich heritage and is one of the oldest financial institutions in the United States. The company operates in two primary segments: Investment Management and Investment Services. Investment Management provides a range of investment solutions, including mutual funds, exchange-traded funds (ETFs), and private equity. Investment Services includes asset servicing, collateral management, and securities lending, ensuring that clients' assets are managed efficiently and securely. With a presence in over 35 countries, BNY Mellon serves institutions, corporations, and individuals, leveraging advanced technology and data analytics to enhance investment performance and operational efficiency. The firm is committed to sustainable investing and is a proponent of responsible finance, integrating environmental, social, and governance (ESG) factors into its investment strategies. BNY Mellon's mission is to empower clients to succeed in a complex financial landscape, providing them with innovative solutions and exceptional service to navigate their investment journeys.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1784",
+    "website": "https://www.bnymellon.com",
+    "ceo": "Thomas Gibbons",
+    "social_media": {
+        "twitter": "https://twitter.com/bnymellon",
+        "linkedin": "https://www.linkedin.com/company/bny-mellon/"
+    },
+    "investor_relations": "https://www.bnymellon.com/us/en/investor-relations/index.html",
+    "key_executives": [
+        {
+            "name": "Thomas Gibbons",
+            "position": "CEO"
+        },
+        {
+            "name": "Catherine Keating",
+            "position": "CEO of Investment Management"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Management",
+            "products": [
+                "Mutual Funds",
+                "Exchange-Traded Funds (ETFs)",
+                "Private Equity"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Asset Servicing",
+                "Collateral Management",
+                "Securities Lending"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BNY Mellon | Global Investments Company",
+        "meta_description": "Explore BNY Mellon, a leading global investments company providing innovative solutions in investment management and services. Learn about our commitment to responsible finance.",
+        "keywords": [
+            "BNY Mellon",
+            "Investment Management",
+            "Financial Services",
+            "Asset Servicing",
+            "ESG Investing",
+            "Mutual Funds"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does BNY Mellon offer?",
+            "answer": "BNY Mellon offers a range of services including investment management, asset servicing, collateral management, and securities lending."
+        },
+        {
+            "question": "Who is the CEO of BNY Mellon?",
+            "answer": "Thomas Gibbons is the CEO of BNY Mellon."
+        },
+        {
+            "question": "Where is BNY Mellon headquartered?",
+            "answer": "BNY Mellon is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was BNY Mellon founded?",
+            "answer": "BNY Mellon was founded in 1784."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "TROW",
+        "STT",
+        "SCHW"
+    ],
+    "related_stocks": [
+        "GS",
+        "MS",
+        "JPM",
+        "USB"
+    ]
+}

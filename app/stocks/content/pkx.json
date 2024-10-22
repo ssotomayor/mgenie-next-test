@@ -1,0 +1,92 @@
+{
+    "ticker": "PKX",
+    "name": "POSCO Holdings Inc.",
+    "description": "POSCO Holdings Inc. is a South Korean multinational corporation that is one of the world's leading steel producers. Founded in 1968, POSCO has grown into a global powerhouse in the steel industry, known for its innovative approach to manufacturing and a commitment to sustainability. The company produces a wide range of steel products, including hot-rolled and cold-rolled steel, stainless steel, and electrical steel, serving various industries such as automotive, shipbuilding, construction, and energy. POSCO has made significant investments in advanced manufacturing technologies and processes, allowing it to maintain high quality and efficiency in production. In addition to its core steel business, POSCO is expanding into new areas, including green energy solutions, lithium extraction for batteries, and eco-friendly materials, aligning with global trends toward sustainability and environmental responsibility. With a strong global presence and a focus on innovation, POSCO continues to lead the way in transforming the steel industry while contributing to a sustainable future.",
+    "industry": [
+        "Metals",
+        "Mining",
+        "Manufacturing"
+    ],
+    "headquarters": "Pohang, South Korea",
+    "founded": "1968",
+    "website": "https://www.posco.com",
+    "ceo": "Jeong-Woo Choi",
+    "social_media": {
+        "twitter": "https://twitter.com/POSCOofficial",
+        "linkedin": "https://www.linkedin.com/company/posco/"
+    },
+    "investor_relations": "https://www.posco.com/homepage/docs/en/ir/ir_main.jsp",
+    "key_executives": [
+        {
+            "name": "Jeong-Woo Choi",
+            "position": "CEO"
+        },
+        {
+            "name": "Hyung-Ki Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Steel Products",
+            "products": [
+                "Hot-Rolled Steel",
+                "Cold-Rolled Steel",
+                "Stainless Steel",
+                "Electrical Steel"
+            ]
+        },
+        {
+            "category": "Green Energy Solutions",
+            "products": [
+                "Lithium Extraction",
+                "Eco-Friendly Materials"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "POSCO Holdings Inc. | Leading Global Steel Producer",
+        "meta_description": "Explore POSCO Holdings Inc., a global leader in steel production and innovation, committed to sustainability and advanced manufacturing technologies.",
+        "keywords": [
+            "POSCO",
+            "Steel Production",
+            "Green Energy",
+            "Sustainability",
+            "Metals Industry"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does POSCO specialize in?",
+            "answer": "POSCO specializes in steel production and manufacturing, offering a variety of steel products for multiple industries."
+        },
+        {
+            "question": "Who is the CEO of POSCO?",
+            "answer": "Jeong-Woo Choi is the CEO of POSCO Holdings Inc."
+        },
+        {
+            "question": "Where is POSCO headquartered?",
+            "answer": "POSCO is headquartered in Pohang, South Korea."
+        },
+        {
+            "question": "What are POSCO's main products?",
+            "answer": "POSCO's main products include hot-rolled steel, cold-rolled steel, stainless steel, and electrical steel."
+        },
+        {
+            "question": "When was POSCO founded?",
+            "answer": "POSCO was founded in 1968."
+        }
+    ],
+    "competitors": [
+        "NUE",
+        "X",
+        "AKS",
+        "STLD"
+    ],
+    "related_stocks": [
+        "BA",
+        "CAT",
+        "DE",
+        "MMM"
+    ]
+}

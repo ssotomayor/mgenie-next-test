@@ -1,0 +1,97 @@
+{
+    "ticker": "ENB",
+    "name": "Enbridge Inc.",
+    "description": "Enbridge Inc. is a leading North American energy infrastructure company, headquartered in Calgary, Alberta, Canada. Established in 1949, Enbridge specializes in the transportation and distribution of crude oil, natural gas, and renewable energy. The company operates one of the largest crude oil pipeline systems in the world, connecting supply from western Canada to key markets in the United States and Canada. Enbridge is committed to providing safe and reliable energy while minimizing environmental impact, with a significant focus on transitioning to renewable energy sources. The company has made substantial investments in wind and solar projects across North America and is actively involved in the development of new technologies to reduce greenhouse gas emissions. Enbridge's diversified portfolio not only includes traditional energy assets but also a growing segment dedicated to renewable energy, positioning the company as a key player in the energy transition. With a strong commitment to community engagement and sustainability, Enbridge aims to be a trusted partner in meeting energy needs while supporting economic growth and environmental stewardship.",
+    "industry": [
+        "Energy",
+        "Infrastructure"
+    ],
+    "headquarters": "Calgary, Alberta, Canada",
+    "founded": "1949",
+    "website": "https://www.enbridge.com",
+    "ceo": "Greg Ebel",
+    "social_media": {
+        "twitter": "https://twitter.com/enbridge",
+        "linkedin": "https://www.linkedin.com/company/enbridge/"
+    },
+    "investor_relations": "https://www.enbridge.com/investors",
+    "key_executives": [
+        {
+            "name": "Greg Ebel",
+            "position": "CEO"
+        },
+        {
+            "name": "Colleen McMurray",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Crude Oil Transportation",
+            "products": [
+                "Mainline System",
+                "Regional Oil Sands System"
+            ]
+        },
+        {
+            "category": "Natural Gas Transportation",
+            "products": [
+                "Gas Transmission",
+                "Gas Distribution"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Wind Power",
+                "Solar Power"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enbridge Inc. | Energy Infrastructure and Renewable Solutions",
+        "meta_description": "Learn about Enbridge Inc., a leader in energy infrastructure and renewable energy solutions. Explore Enbridge's commitment to safe, reliable, and sustainable energy.",
+        "keywords": [
+            "Enbridge",
+            "Energy Infrastructure",
+            "Crude Oil",
+            "Natural Gas",
+            "Renewable Energy",
+            "Wind Power",
+            "Solar Power"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Enbridge do?",
+            "answer": "Enbridge is involved in the transportation and distribution of crude oil, natural gas, and renewable energy."
+        },
+        {
+            "question": "Who is the CEO of Enbridge?",
+            "answer": "Greg Ebel is the CEO of Enbridge Inc."
+        },
+        {
+            "question": "Where is Enbridge headquartered?",
+            "answer": "Enbridge is headquartered in Calgary, Alberta, Canada."
+        },
+        {
+            "question": "What are Enbridge's main products?",
+            "answer": "Enbridge's main products include crude oil transportation, natural gas transportation, and renewable energy solutions."
+        },
+        {
+            "question": "When was Enbridge founded?",
+            "answer": "Enbridge was founded in 1949."
+        }
+    ],
+    "competitors": [
+        "KMI",
+        "WMB",
+        "PAA"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "TOT"
+    ]
+}

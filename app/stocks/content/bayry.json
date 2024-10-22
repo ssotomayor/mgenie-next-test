@@ -1,0 +1,92 @@
+{
+    "ticker": "BAYRY",
+    "name": "Bayer AG",
+    "description": "Bayer AG is a global life sciences company with a core focus on health care and agriculture. Founded in 1863 and headquartered in Leverkusen, Germany, Bayer operates in two main sectors: Pharmaceuticals and Crop Science. The Pharmaceuticals division is dedicated to the research and development of innovative medicines in areas such as cardiology, oncology, gynecology, and ophthalmology, aiming to improve the quality of life for patients worldwide. Bayer is known for its commitment to sustainability, with initiatives aimed at reducing environmental impact and promoting sustainable agricultural practices. The Crop Science division provides a wide range of products and solutions, including seeds, crop protection products, and digital farming technologies, which help farmers maximize their yields while minimizing their ecological footprint. Bayer's mission is to innovate and provide solutions that foster a healthier and more sustainable world, emphasizing the importance of scientific advancement and collaboration. The company also invests significantly in research and development to drive innovation and maintain its competitive edge in both sectors. With a diverse portfolio and a strong global presence, Bayer continues to play a pivotal role in addressing some of the world's most pressing challenges in health and agriculture.",
+    "industry": [
+        "Pharmaceuticals",
+        "Agriculture"
+    ],
+    "headquarters": "Leverkusen, Germany",
+    "founded": "1863",
+    "website": "https://www.bayer.com",
+    "ceo": "Werner Baumann",
+    "social_media": {
+        "twitter": "https://twitter.com/Bayer",
+        "linkedin": "https://www.linkedin.com/company/bayer/"
+    },
+    "investor_relations": "https://investor.bayer.com",
+    "key_executives": [
+        {
+            "name": "Werner Baumann",
+            "position": "CEO"
+        },
+        {
+            "name": "Heinrich von Pock",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pharmaceuticals",
+            "products": [
+                "Aspirin",
+                "Xarelto",
+                "Eylea"
+            ]
+        },
+        {
+            "category": "Crop Science",
+            "products": [
+                "Herbicides",
+                "Insecticides",
+                "Seeds"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bayer AG | Health Care and Agriculture Solutions",
+        "meta_description": "Explore Bayer AG, a leading global company in health care and agriculture. Discover Bayer's innovative products and commitment to sustainability.",
+        "keywords": [
+            "Bayer",
+            "Pharmaceuticals",
+            "Agriculture",
+            "Health Care",
+            "Sustainability",
+            "Crop Science"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Bayer known for?",
+            "answer": "Bayer is known for its pharmaceuticals and crop science products, including well-known medications and agricultural solutions."
+        },
+        {
+            "question": "Who is the CEO of Bayer?",
+            "answer": "Werner Baumann is the CEO of Bayer AG."
+        },
+        {
+            "question": "Where is Bayer headquartered?",
+            "answer": "Bayer is headquartered in Leverkusen, Germany."
+        },
+        {
+            "question": "What are Bayer's main product categories?",
+            "answer": "Bayer's main product categories include Pharmaceuticals and Crop Science."
+        },
+        {
+            "question": "When was Bayer founded?",
+            "answer": "Bayer was founded in 1863."
+        }
+    ],
+    "competitors": [
+        "JNJ",
+        "PFE",
+        "MRK",
+        "SYT"
+    ],
+    "related_stocks": [
+        "ABT",
+        "NVS",
+        "GSK",
+        "AMGN"
+    ]
+}

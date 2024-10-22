@@ -1,0 +1,89 @@
+{
+    "ticker": "MDAI",
+    "name": "MediData, Inc.",
+    "description": "MediData, Inc. is a technology-driven healthcare company focused on transforming clinical trials and patient data management through innovative digital solutions. Founded in 2015, MediData leverages advanced analytics, machine learning, and a cloud-based platform to streamline the clinical research process, making it more efficient and patient-centric. The company's flagship product, MediData Cloud, provides researchers and sponsors with powerful tools for real-time data collection, monitoring, and analysis, ensuring compliance and enhancing the quality of clinical trials. MediData is dedicated to improving patient outcomes by facilitating better trial designs and enhancing patient engagement, making it easier for patients to participate in trials from the comfort of their homes. With a commitment to advancing medical research and supporting pharmaceutical companies, MediData plays a critical role in accelerating the development of new therapies and treatments. The company aims to bridge the gap between technology and healthcare, providing a seamless experience for all stakeholders involved in the clinical trial process.",
+    "industry": [
+        "Healthcare",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.medidata.com",
+    "ceo": "Samant Virk",
+    "social_media": {
+        "twitter": "https://twitter.com/Medidata",
+        "linkedin": "https://www.linkedin.com/company/medidata-solutions/"
+    },
+    "investor_relations": "https://investors.medidata.com",
+    "key_executives": [
+        {
+            "name": "Samant Virk",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Clinical Trial Solutions",
+            "products": [
+                "MediData Cloud",
+                "Patient Cloud",
+                "Clinical Cloud"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Data Management Solutions",
+                "Real-World Evidence"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MediData, Inc. | Transforming Clinical Trials with Technology",
+        "meta_description": "Explore MediData, Inc., a leader in digital solutions for clinical trials and patient data management. Discover how MediData is shaping the future of healthcare.",
+        "keywords": [
+            "MediData",
+            "Clinical Trials",
+            "Healthcare Technology",
+            "Patient Engagement",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does MediData do?",
+            "answer": "MediData provides technology solutions to improve the efficiency and quality of clinical trials and patient data management."
+        },
+        {
+            "question": "Who is the CEO of MediData?",
+            "answer": "Samant Virk is the CEO of MediData, Inc."
+        },
+        {
+            "question": "Where is MediData headquartered?",
+            "answer": "MediData is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are MediData's main products?",
+            "answer": "MediData's main products include MediData Cloud, Patient Cloud, and Clinical Cloud."
+        },
+        {
+            "question": "When was MediData founded?",
+            "answer": "MediData was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "VEEV",
+        "VRTX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMGN",
+        "GILD",
+        "REGN"
+    ]
+}

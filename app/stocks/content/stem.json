@@ -1,0 +1,89 @@
+{
+    "ticker": "STEM",
+    "name": "Stem, Inc.",
+    "description": "Stem, Inc. is a leading provider of AI-driven energy storage solutions and services, focused on optimizing energy management for businesses and utilities. Founded in 2010, Stem has pioneered the integration of artificial intelligence with energy storage systems, enabling clients to reduce energy costs, enhance sustainability, and improve grid reliability. The company offers a comprehensive platform that combines energy storage hardware with sophisticated software analytics, allowing users to intelligently manage their energy resources in real time. Stem's solutions are designed to serve a diverse range of industries, including commercial real estate, manufacturing, and education, helping organizations transition to cleaner energy sources and meet their sustainability goals. With a mission to accelerate the world's transition to sustainable energy, Stem is leveraging its technology to provide scalable and flexible energy solutions that align with the evolving demands of the energy landscape. The company's commitment to innovation and sustainability positions it as a key player in the ongoing shift towards renewable energy and smarter energy management.",
+    "industry": [
+        "Energy Storage",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.stem.com",
+    "ceo": "John Carrington",
+    "social_media": {
+        "twitter": "https://twitter.com/steminc",
+        "linkedin": "https://www.linkedin.com/company/stem-inc/"
+    },
+    "investor_relations": "https://investors.stem.com",
+    "key_executives": [
+        {
+            "name": "John Carrington",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael D. Houghton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Energy Storage Solutions",
+            "products": [
+                "AI-Driven Battery Systems",
+                "Grid Services"
+            ]
+        },
+        {
+            "category": "Energy Management Software",
+            "products": [
+                "Stem Software Platform"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Stem, Inc. | AI-Driven Energy Storage Solutions",
+        "meta_description": "Explore Stem, Inc., a leader in AI-driven energy storage solutions and energy management services. Discover how Stem helps businesses optimize their energy usage and achieve sustainability.",
+        "keywords": [
+            "Stem",
+            "Energy Storage",
+            "Artificial Intelligence",
+            "Sustainable Energy",
+            "Energy Management",
+            "Battery Systems"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Stem specialize in?",
+            "answer": "Stem specializes in AI-driven energy storage solutions and energy management services."
+        },
+        {
+            "question": "Who is the CEO of Stem?",
+            "answer": "The CEO of Stem, Inc. is John Carrington."
+        },
+        {
+            "question": "Where is Stem headquartered?",
+            "answer": "Stem is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What products does Stem offer?",
+            "answer": "Stem offers AI-driven battery systems and energy management software solutions."
+        },
+        {
+            "question": "When was Stem founded?",
+            "answer": "Stem was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "BLDP",
+        "ENPH",
+        "SCTY",
+        "NEE"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "GOOGL",
+        "AMZN"
+    ]
+}

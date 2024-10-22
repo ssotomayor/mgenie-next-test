@@ -1,0 +1,83 @@
+{
+    "ticker": "HYPR",
+    "name": "Hypr Corp.",
+    "description": "Hypr Corp. is a leading provider of passwordless authentication solutions aimed at enhancing security for enterprises while improving user experience. Founded in 2014, Hypr's mission is to eliminate the reliance on passwords, which are often the weakest link in security. The company's innovative platform leverages biometrics, hardware tokens, and mobile devices to provide secure access to applications and data. Hypr's technology allows organizations to implement a decentralized authentication framework, minimizing the risks associated with data breaches and identity theft. With a focus on scalability and ease of integration, Hypr's solutions are designed to meet the needs of organizations of all sizes, from small businesses to large enterprises. The company has received recognition for its advancements in cybersecurity and is committed to providing a seamless user experience without compromising security. Hypr's platform also supports compliance with various regulations and standards, making it an attractive choice for businesses looking to enhance their security posture. As the threat landscape continues to evolve, Hypr remains at the forefront of the identity management sector, innovating to keep pace with emerging security challenges.",
+    "industry": [
+        "Cybersecurity",
+        "Software"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2014",
+    "website": "https://www.hypr.com",
+    "ceo": "George Avetisov",
+    "social_media": {
+        "twitter": "https://twitter.com/Hypr",
+        "linkedin": "https://www.linkedin.com/company/hyprcorp/"
+    },
+    "investor_relations": "https://www.hypr.com/investors",
+    "key_executives": [
+        {
+            "name": "George Avetisov",
+            "position": "CEO"
+        },
+        {
+            "name": "David Dufour",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Authentication Solutions",
+            "products": [
+                "Biometric Authentication",
+                "Mobile Authentication",
+                "Hardware Token Authentication"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hypr Corp. | Passwordless Authentication Solutions",
+        "meta_description": "Explore Hypr Corp., a leader in passwordless authentication that enhances security and user experience. Discover our innovative solutions for enterprise security.",
+        "keywords": [
+            "Hypr",
+            "Passwordless Authentication",
+            "Cybersecurity",
+            "Biometric Security",
+            "Identity Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Hypr Corp. specialize in?",
+            "answer": "Hypr Corp. specializes in passwordless authentication solutions to enhance security and user experience."
+        },
+        {
+            "question": "Who is the CEO of Hypr?",
+            "answer": "George Avetisov is the CEO of Hypr Corp."
+        },
+        {
+            "question": "Where is Hypr headquartered?",
+            "answer": "Hypr is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Hypr's main products?",
+            "answer": "Hypr's main products include Biometric Authentication, Mobile Authentication, and Hardware Token Authentication."
+        },
+        {
+            "question": "When was Hypr founded?",
+            "answer": "Hypr was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "OKTA",
+        "DUO",
+        "SAIL",
+        "NICE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

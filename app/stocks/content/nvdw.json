@@ -1,0 +1,94 @@
+{
+    "ticker": "NVDW",
+    "name": "NVIDIA Corp.",
+    "description": "NVIDIA Corp. is a global leader in visual computing technologies, renowned for its innovations in graphics processing units (GPUs), artificial intelligence (AI), and deep learning. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, NVIDIA began by creating graphics cards for gaming and has since transformed into a powerhouse in several high-growth markets. The company's GPUs are integral to gaming, professional visualization, data centers, and automotive markets, driving advancements in machine learning and AI. With the launch of its CUDA programming model and deep learning platforms, NVIDIA is at the forefront of AI research and applications, enabling breakthroughs in fields like healthcare, robotics, and self-driving cars. NVIDIA's dedication to innovation is also reflected in its extensive portfolio, including the GeForce line for gamers and the Tesla and A100 series for AI and data center applications. As the demand for AI-powered solutions continues to soar, NVIDIA is strategically positioned to capitalize on this trend, driving significant growth and expanding its influence across key industries. The company's mission is to solve the world\u2019s most challenging problems through innovative technologies that enhance the way people interact with computing.",
+    "industry": [
+        "Technology",
+        "Semiconductors",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1993",
+    "website": "https://www.nvidia.com",
+    "ceo": "Jensen Huang",
+    "social_media": {
+        "twitter": "https://twitter.com/NVIDIAGeForce",
+        "linkedin": "https://www.linkedin.com/company/nvidia/",
+        "youtube": "https://www.youtube.com/user/nvidia"
+    },
+    "investor_relations": "https://investor.nvidia.com",
+    "key_executives": [
+        {
+            "name": "Jensen Huang",
+            "position": "CEO"
+        },
+        {
+            "name": "Colette Kress",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/colette-kress-134b44/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Graphics Processing Units",
+            "products": [
+                "GeForce RTX",
+                "Quadro RTX"
+            ]
+        },
+        {
+            "category": "AI and Deep Learning",
+            "products": [
+                "NVIDIA A100",
+                "NVIDIA DGX Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NVIDIA Corp. | Leading in Visual Computing and AI Technologies",
+        "meta_description": "Explore NVIDIA Corp., a leader in GPUs and AI technologies. Learn about NVIDIA's innovative products, mission, and impact on the technology industry.",
+        "keywords": [
+            "NVIDIA",
+            "GPUs",
+            "Artificial Intelligence",
+            "Deep Learning",
+            "Gaming",
+            "Visual Computing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does NVIDIA primarily do?",
+            "answer": "NVIDIA primarily designs graphics processing units (GPUs) and develops AI and deep learning technologies."
+        },
+        {
+            "question": "Who is the CEO of NVIDIA?",
+            "answer": "Jensen Huang is the CEO of NVIDIA Corp."
+        },
+        {
+            "question": "Where is NVIDIA headquartered?",
+            "answer": "NVIDIA is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are NVIDIA's main products?",
+            "answer": "NVIDIA's main products include GeForce GPUs for gaming and AI platforms like NVIDIA A100."
+        },
+        {
+            "question": "When was NVIDIA founded?",
+            "answer": "NVIDIA was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "AMD",
+        "INTC",
+        "QCOM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA"
+    ]
+}

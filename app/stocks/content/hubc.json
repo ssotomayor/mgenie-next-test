@@ -1,0 +1,90 @@
+{
+    "ticker": "HUBC",
+    "name": "Hub Cyber Security Ltd.",
+    "description": "Hub Cyber Security Ltd. is an innovative cybersecurity firm specializing in providing advanced security solutions for various sectors, including government, finance, and enterprise. Founded in 2017, the company leverages cutting-edge technology to address the growing threats of cyber attacks and data breaches. Hub Cyber Security employs a unique approach that combines artificial intelligence, machine learning, and blockchain technology to create robust security frameworks that protect sensitive information and critical infrastructure. The company is particularly known for its focus on protecting data both in transit and at rest, ensuring that clients can operate securely in an increasingly digital world. Hub Cyber Security's solutions are designed to meet the highest standards of compliance and security, catering to the evolving needs of organizations that require state-of-the-art protection against cyber threats. The company's mission is to empower businesses and governments with the tools and knowledge necessary to safeguard their digital assets and maintain operational integrity in the face of modern cyber challenges.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2017",
+    "website": "https://www.hubsecurity.com",
+    "ceo": "Yossi Appleboum",
+    "social_media": {
+        "twitter": "https://twitter.com/hubsecurity",
+        "linkedin": "https://www.linkedin.com/company/hub-cyber-security/"
+    },
+    "investor_relations": "https://ir.hubsecurity.com",
+    "key_executives": [
+        {
+            "name": "Yossi Appleboum",
+            "position": "CEO"
+        },
+        {
+            "name": "Hanan Shabtay",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "Data Protection",
+                "Threat Intelligence",
+                "Network Security"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Security Audits",
+                "Compliance Consulting"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hub Cyber Security Ltd. | Advanced Cybersecurity Solutions",
+        "meta_description": "Explore Hub Cyber Security Ltd., a leader in cybersecurity solutions providing innovative protection against digital threats. Discover our products and services designed for a secure digital future.",
+        "keywords": [
+            "Hub Cyber Security",
+            "Cybersecurity",
+            "Data Protection",
+            "Threat Intelligence",
+            "Network Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Hub Cyber Security specialize in?",
+            "answer": "Hub Cyber Security specializes in advanced cybersecurity solutions for various sectors, including government and finance."
+        },
+        {
+            "question": "Who is the CEO of Hub Cyber Security?",
+            "answer": "Yossi Appleboum is the CEO of Hub Cyber Security Ltd."
+        },
+        {
+            "question": "Where is Hub Cyber Security headquartered?",
+            "answer": "Hub Cyber Security is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What are Hub Cyber Security's main products?",
+            "answer": "Hub Cyber Security's main products include Data Protection, Threat Intelligence, and Network Security solutions."
+        },
+        {
+            "question": "When was Hub Cyber Security founded?",
+            "answer": "Hub Cyber Security was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "ZS",
+        "PANW",
+        "FTNT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

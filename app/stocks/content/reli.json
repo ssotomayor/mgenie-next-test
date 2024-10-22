@@ -1,0 +1,100 @@
+{
+    "ticker": "RELI",
+    "name": "Reliance Industries Limited",
+    "description": "Reliance Industries Limited (RIL) is a multinational conglomerate company based in India, engaged in various sectors including petrochemicals, refining, oil, telecommunications, and retail. Founded in 1960 by Dhirubhai Ambani, RIL has grown to become one of the largest and most valuable companies in India. The company operates through several segments, with its core businesses being petrochemicals and refining, which contribute significantly to its revenue. Additionally, Reliance owns and operates the telecommunications company Jio, which has transformed the Indian telecom landscape through affordable data services and innovative digital offerings. RIL is also making strides in the retail sector with a vast network of stores and e-commerce initiatives. The company is committed to sustainability and has invested in renewable energy sources, aiming to reduce its carbon footprint and enhance its environmental responsibility. Reliance Industries continues to innovate and expand its portfolio, focusing on technology, digital services, and sustainable practices to maintain its leadership in the industry.",
+    "industry": [
+        "Conglomerate",
+        "Petrochemicals",
+        "Telecommunications",
+        "Retail"
+    ],
+    "headquarters": "Mumbai, Maharashtra, India",
+    "founded": "1960",
+    "website": "https://www.ril.com",
+    "ceo": "Mukesh Ambani",
+    "social_media": {
+        "twitter": "https://twitter.com/RelianceJio",
+        "linkedin": "https://www.linkedin.com/company/reliance-industries-limited/"
+    },
+    "investor_relations": "https://www.ril.com/InvestorRelations.aspx",
+    "key_executives": [
+        {
+            "name": "Mukesh Ambani",
+            "position": "Chairman and Managing Director"
+        },
+        {
+            "name": "Alok Agarwal",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Petrochemicals",
+            "products": [
+                "Polyester",
+                "Polypropylene",
+                "Polyethylene"
+            ]
+        },
+        {
+            "category": "Telecommunications",
+            "products": [
+                "Jio Mobile Services",
+                "Jio Fiber"
+            ]
+        },
+        {
+            "category": "Retail",
+            "products": [
+                "Reliance Fresh",
+                "Reliance Digital"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Reliance Industries Limited | Leading Indian Conglomerate",
+        "meta_description": "Explore Reliance Industries Limited, a leading Indian conglomerate involved in petrochemicals, telecommunications, and retail. Learn about its innovative products and sustainable practices.",
+        "keywords": [
+            "Reliance",
+            "Petrochemicals",
+            "Telecommunications",
+            "Jio",
+            "Retail",
+            "Mukesh Ambani"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Reliance Industries known for?",
+            "answer": "Reliance Industries is known for its operations in petrochemicals, telecommunications, and retail."
+        },
+        {
+            "question": "Who is the CEO of Reliance Industries?",
+            "answer": "Mukesh Ambani is the CEO of Reliance Industries Limited."
+        },
+        {
+            "question": "Where is Reliance Industries headquartered?",
+            "answer": "Reliance Industries is headquartered in Mumbai, Maharashtra, India."
+        },
+        {
+            "question": "What are the main products of Reliance Industries?",
+            "answer": "The main products include petrochemicals, Jio mobile services, and retail products through stores like Reliance Fresh."
+        },
+        {
+            "question": "When was Reliance Industries founded?",
+            "answer": "Reliance Industries was founded in 1960."
+        }
+    ],
+    "competitors": [
+        "ONGC",
+        "BPCL",
+        "HINDPETRO",
+        "TATAMOTORS"
+    ],
+    "related_stocks": [
+        "TCS",
+        "HDFC",
+        "INFY",
+        "HINDUNILVR"
+    ]
+}

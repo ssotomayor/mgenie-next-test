@@ -1,0 +1,94 @@
+{
+    "ticker": "SCHYY",
+    "name": "Schneider Electric SE",
+    "description": "Schneider Electric SE is a global specialist in energy management and automation solutions, dedicated to making energy safe, reliable, efficient, and sustainable. Founded in 1836, Schneider Electric has evolved from a steel company to a leader in digital transformation, focusing on energy and automation. The company provides integrated solutions across multiple market segments, including residential, commercial, industrial, and infrastructure. Schneider's products and services encompass a wide range of applications, from electrical distribution and industrial automation to building management and smart home technologies. With a strong commitment to sustainability, Schneider aims to help customers achieve their energy efficiency goals while reducing their carbon footprint. Its EcoStruxure platform enables businesses to leverage IoT technology for enhanced efficiency, productivity, and sustainability. Schneider Electric is also committed to innovation, investing significantly in R&D to create cutting-edge solutions that address the challenges of a rapidly changing energy landscape. With operations in over 100 countries, Schneider Electric serves a diverse global customer base, including utilities, manufacturers, and end-users, all while striving for a more sustainable and resilient future.",
+    "industry": [
+        "Energy Management",
+        "Automation"
+    ],
+    "headquarters": "Rueil-Malmaison, France",
+    "founded": "1836",
+    "website": "https://www.se.com",
+    "ceo": "Kah Chye Tan",
+    "social_media": {
+        "twitter": "https://twitter.com/SchneiderElec",
+        "linkedin": "https://www.linkedin.com/company/schneider-electric/",
+        "instagram": "https://www.instagram.com/schneider_electric/",
+        "youtube": "https://www.youtube.com/user/SchneiderElectric"
+    },
+    "investor_relations": "https://www.se.com/ww/en/about-us/investors/",
+    "key_executives": [
+        {
+            "name": "Kah Chye Tan",
+            "position": "CEO"
+        },
+        {
+            "name": "Barbara Frei",
+            "position": "EVP of Industrial Automation"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Energy Management",
+            "products": [
+                "Smart Meters",
+                "Circuit Breakers",
+                "Energy Monitoring Software"
+            ]
+        },
+        {
+            "category": "Industrial Automation",
+            "products": [
+                "Programmable Logic Controllers (PLCs)",
+                "Human-Machine Interfaces (HMIs)",
+                "Industrial Software Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Schneider Electric SE | Energy Management and Automation Solutions",
+        "meta_description": "Explore Schneider Electric SE, a leader in energy management and automation solutions. Learn about Schneider's commitment to sustainability, innovation, and digital transformation.",
+        "keywords": [
+            "Schneider Electric",
+            "Energy Management",
+            "Automation",
+            "Sustainability",
+            "EcoStruxure",
+            "Industrial Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Schneider Electric do?",
+            "answer": "Schneider Electric specializes in energy management and automation solutions for various industries."
+        },
+        {
+            "question": "Who is the CEO of Schneider Electric?",
+            "answer": "Kah Chye Tan is the CEO of Schneider Electric SE."
+        },
+        {
+            "question": "Where is Schneider Electric headquartered?",
+            "answer": "Schneider Electric is headquartered in Rueil-Malmaison, France."
+        },
+        {
+            "question": "What are Schneider Electric's main products?",
+            "answer": "Schneider Electric's main products include smart meters, circuit breakers, PLCs, and energy monitoring software."
+        },
+        {
+            "question": "When was Schneider Electric founded?",
+            "answer": "Schneider Electric was founded in 1836."
+        }
+    ],
+    "competitors": [
+        "ABB",
+        "SIEM",
+        "EMR",
+        "GE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "ORCL",
+        "IBM"
+    ]
+}

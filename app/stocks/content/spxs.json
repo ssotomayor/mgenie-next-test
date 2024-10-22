@@ -1,0 +1,80 @@
+{
+    "ticker": "SPXS",
+    "name": "Direxion Daily S&P 500 Bear 3X Shares",
+    "description": "Direxion Daily S&P 500 Bear 3X Shares (SPXS) is an exchange-traded fund (ETF) designed to provide investors with a way to profit from a decline in the S&P 500 Index. Launched in 2010, SPXS seeks to achieve three times (3x) the inverse performance of the S&P 500 on a daily basis. This means that if the S&P 500 declines by 1% on a given day, SPXS is designed to increase by approximately 3%. The fund is particularly popular among traders looking to hedge against market downturns or to speculate on short-term declines in the stock market. SPXS is managed by Direxion, a firm known for its leveraged and inverse ETFs, providing investors with a range of tools to implement various trading strategies. While SPXS can potentially offer significant returns in a bear market, it also carries a high level of risk and is suitable primarily for experienced investors who understand the complexities of leveraged products. The fund employs daily rebalancing to maintain its targeted exposure, which can lead to performance deviations over longer periods compared to the expected 3x inverse of the S&P 500. Investors should be aware that due to the effects of compounding and market volatility, the performance of SPXS may not reflect the inverse of the S&P 500 over extended time frames.",
+    "industry": [
+        "Financial Services",
+        "Exchange-Traded Funds"
+    ],
+    "headquarters": "Newton, Massachusetts, USA",
+    "founded": "2010",
+    "website": "https://www.direxion.com",
+    "ceo": "Dan O'Neill",
+    "social_media": {
+        "twitter": "https://twitter.com/DirexionFunds",
+        "linkedin": "https://www.linkedin.com/company/direxion-funds/"
+    },
+    "investor_relations": "https://www.direxion.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Dan O'Neill",
+            "position": "CEO"
+        },
+        {
+            "name": "Dave Mazza",
+            "position": "CIO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Inverse ETFs",
+            "products": [
+                "SPXS"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Direxion Daily S&P 500 Bear 3X Shares (SPXS)",
+        "meta_description": "Explore Direxion Daily S&P 500 Bear 3X Shares (SPXS), an ETF designed for investors seeking to profit from declines in the S&P 500 Index with leveraged exposure.",
+        "keywords": [
+            "SPXS",
+            "Direxion",
+            "Inverse ETF",
+            "Bear Market",
+            "S&P 500",
+            "Leveraged ETFs"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SPXS?",
+            "answer": "SPXS is an ETF that seeks to provide 3x the inverse performance of the S&P 500 Index on a daily basis."
+        },
+        {
+            "question": "Who manages SPXS?",
+            "answer": "SPXS is managed by Direxion, a firm specializing in leveraged and inverse ETFs."
+        },
+        {
+            "question": "What are the risks of investing in SPXS?",
+            "answer": "SPXS carries a high level of risk and is suitable primarily for experienced investors due to its leveraged nature."
+        },
+        {
+            "question": "How does SPXS achieve its investment objective?",
+            "answer": "SPXS uses daily rebalancing to maintain its targeted exposure to the S&P 500 Index's inverse performance."
+        },
+        {
+            "question": "When was SPXS launched?",
+            "answer": "SPXS was launched in 2010."
+        }
+    ],
+    "competitors": [
+        "SQQQ",
+        "TZA",
+        "SH"
+    ],
+    "related_stocks": [
+        "SPY",
+        "VXX",
+        "UVXY"
+    ]
+}

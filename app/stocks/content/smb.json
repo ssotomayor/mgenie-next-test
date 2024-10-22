@@ -1,0 +1,83 @@
+{
+    "ticker": "SMB",
+    "name": "SmartBuild Technologies, Inc.",
+    "description": "SmartBuild Technologies, Inc. is an innovative leader in the construction technology sector, specializing in software solutions that enhance project management, efficiency, and collaboration in the building industry. Founded in 2010, the company has developed a suite of tools designed to streamline the construction process, from initial planning to final project delivery. SmartBuild's flagship product is a cloud-based construction management platform that integrates project scheduling, budgeting, and resource allocation, allowing stakeholders to manage projects in real-time. The platform is designed for use by general contractors, subcontractors, and project owners, ensuring that all parties have access to critical information and updates. In addition to its software offerings, SmartBuild is committed to advancing sustainability in construction, providing features that help companies minimize waste and reduce their carbon footprint. With a focus on user-friendly interfaces and powerful analytics, SmartBuild aims to transform the construction industry and empower teams to deliver projects on time and within budget. The company's mission is to provide innovative solutions that drive efficiency and collaboration, ultimately contributing to a more sustainable built environment.",
+    "industry": [
+        "Construction Technology",
+        "Software"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.smartbuildtech.com",
+    "ceo": "Jessica Chen",
+    "social_media": {
+        "twitter": "https://twitter.com/smartbuildtech",
+        "linkedin": "https://www.linkedin.com/company/smartbuild-technologies"
+    },
+    "investor_relations": "https://ir.smartbuildtech.com",
+    "key_executives": [
+        {
+            "name": "Jessica Chen",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Roberts",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Construction Management Software",
+            "products": [
+                "SmartBuild Project Manager",
+                "SmartBuild Budget Tracker",
+                "SmartBuild Resource Allocator"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SmartBuild Technologies, Inc. | Leading Construction Management Software",
+        "meta_description": "Explore SmartBuild Technologies, Inc., a leader in construction technology. Discover innovative software solutions that enhance efficiency and collaboration in the building industry.",
+        "keywords": [
+            "SmartBuild",
+            "Construction Technology",
+            "Project Management Software",
+            "Sustainable Construction",
+            "Construction Efficiency"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SmartBuild Technologies do?",
+            "answer": "SmartBuild Technologies develops innovative software solutions for project management and efficiency in the construction industry."
+        },
+        {
+            "question": "Who is the CEO of SmartBuild Technologies?",
+            "answer": "Jessica Chen is the CEO of SmartBuild Technologies, Inc."
+        },
+        {
+            "question": "Where is SmartBuild headquartered?",
+            "answer": "SmartBuild is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are SmartBuild's main products?",
+            "answer": "SmartBuild's main products include SmartBuild Project Manager, SmartBuild Budget Tracker, and SmartBuild Resource Allocator."
+        },
+        {
+            "question": "When was SmartBuild founded?",
+            "answer": "SmartBuild was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "SFT",
+        "PROJ",
+        "BIM",
+        "VDC"
+    ],
+    "related_stocks": [
+        "ADBE",
+        "MSFT",
+        "CRM",
+        "NOW"
+    ]
+}

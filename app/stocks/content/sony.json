@@ -1,0 +1,102 @@
+{
+    "ticker": "SONY",
+    "name": "Sony Group Corporation",
+    "description": "Sony Group Corporation is a global leader in the entertainment and technology industries, renowned for its innovative products and solutions. Founded in 1946 by Masaru Ibuka and Akio Morita in Tokyo, Japan, Sony has evolved into a diverse conglomerate with a strong presence in consumer electronics, gaming, music, movies, and financial services. The company's commitment to creativity and technology has led to the development of iconic products such as the PlayStation gaming console, Bravia televisions, and the Alpha series of cameras. Sony's gaming division has become one of its most significant revenue drivers, with PlayStation 5 being a hallmark of next-generation gaming. In addition to hardware, Sony has made substantial strides in software and services, including its subscription-based services like PlayStation Plus and Spotify partnerships. The company is also deeply involved in the film and music industries, producing critically acclaimed films and popular music through its subsidiaries. With a vision to unleash the potential of creativity and technology, Sony continues to push boundaries in various sectors, aiming to inspire and connect people around the world.",
+    "industry": [
+        "Consumer Electronics",
+        "Entertainment",
+        "Gaming"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1946",
+    "website": "https://www.sony.com",
+    "ceo": "Kenichiro Yoshida",
+    "social_media": {
+        "twitter": "https://twitter.com/Sony",
+        "linkedin": "https://www.linkedin.com/company/sony/",
+        "instagram": "https://www.instagram.com/sony/"
+    },
+    "investor_relations": "https://www.sony.net/ir/en/",
+    "key_executives": [
+        {
+            "name": "Kenichiro Yoshida",
+            "position": "CEO"
+        },
+        {
+            "name": "Hiroki Totoki",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Gaming",
+            "products": [
+                "PlayStation 5",
+                "PlayStation 4",
+                "PlayStation VR"
+            ]
+        },
+        {
+            "category": "Consumer Electronics",
+            "products": [
+                "Bravia TVs",
+                "Alpha Cameras",
+                "Sony Headphones"
+            ]
+        },
+        {
+            "category": "Entertainment",
+            "products": [
+                "Sony Pictures Movies",
+                "Sony Music"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sony Group Corporation | Entertainment and Technology Innovator",
+        "meta_description": "Discover Sony Group Corporation, a global leader in entertainment and technology. Explore Sony's innovative products, gaming consoles, and contributions to music and film.",
+        "keywords": [
+            "Sony",
+            "PlayStation",
+            "Consumer Electronics",
+            "Entertainment",
+            "Gaming",
+            "Sony Music",
+            "Sony Pictures"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Sony known for?",
+            "answer": "Sony is known for its consumer electronics, gaming consoles, music, and film production."
+        },
+        {
+            "question": "Who is the CEO of Sony?",
+            "answer": "Kenichiro Yoshida is the CEO of Sony Group Corporation."
+        },
+        {
+            "question": "Where is Sony headquartered?",
+            "answer": "Sony is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Sony's main products?",
+            "answer": "Sony's main products include PlayStation consoles, Bravia TVs, and a wide range of audio devices."
+        },
+        {
+            "question": "When was Sony founded?",
+            "answer": "Sony was founded in 1946."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "AAPL",
+        "GOOGL",
+        "NTDOY"
+    ],
+    "related_stocks": [
+        "NFLX",
+        "ATVI",
+        "DIS",
+        "AMZN"
+    ]
+}

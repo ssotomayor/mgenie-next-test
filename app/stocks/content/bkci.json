@@ -1,0 +1,98 @@
+{
+    "ticker": "BKCI",
+    "name": "Baker Hughes Company",
+    "description": "Baker Hughes Company is a leading energy technology company that provides a wide range of solutions to the oil and gas industry. Founded in 1907, Baker Hughes operates in more than 120 countries, delivering innovative systems and services that improve efficiency and sustainability in energy production. The company specializes in various segments, including oilfield services, digital solutions, and turbine technology, catering to both conventional and renewable energy sectors. Baker Hughes is committed to advancing the energy transition by integrating digital technologies and sustainable practices into their operations, helping customers reduce emissions and improve productivity. With a strong focus on research and development, the company continues to innovate, developing advanced technologies such as the Digital Twin and AI-driven analytics that optimize the performance of energy assets. Baker Hughes also emphasizes collaboration with partners to enhance energy efficiency and reduce environmental impact, making strides towards a more sustainable energy future.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1907",
+    "website": "https://www.bakerhughes.com",
+    "ceo": "Lorenzo Simonelli",
+    "social_media": {
+        "twitter": "https://twitter.com/BakerHughesCo",
+        "linkedin": "https://www.linkedin.com/company/baker-hughes/"
+    },
+    "investor_relations": "https://investors.bakerhughes.com",
+    "key_executives": [
+        {
+            "name": "Lorenzo Simonelli",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Worrell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oilfield Services",
+            "products": [
+                "Drilling Services",
+                "Completion Services",
+                "Production Services"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "Software Solutions",
+                "Analytics",
+                "Digital Twin Technologies"
+            ]
+        },
+        {
+            "category": "Turbine Technology",
+            "products": [
+                "Gas Turbines",
+                "Steam Turbines",
+                "Modular Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baker Hughes Company | Energy Technology and Solutions",
+        "meta_description": "Explore Baker Hughes Company, a leader in energy technology, providing innovative solutions for the oil and gas industry. Learn about our commitment to sustainability and efficiency.",
+        "keywords": [
+            "Baker Hughes",
+            "Energy Technology",
+            "Oilfield Services",
+            "Digital Solutions",
+            "Sustainable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Baker Hughes do?",
+            "answer": "Baker Hughes provides technology and services to the oil and gas industry, focusing on energy efficiency and sustainability."
+        },
+        {
+            "question": "Who is the CEO of Baker Hughes?",
+            "answer": "Lorenzo Simonelli is the CEO of Baker Hughes Company."
+        },
+        {
+            "question": "Where is Baker Hughes headquartered?",
+            "answer": "Baker Hughes is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Baker Hughes' main products?",
+            "answer": "Baker Hughes' main products include oilfield services, digital solutions, and turbine technology."
+        },
+        {
+            "question": "When was Baker Hughes founded?",
+            "answer": "Baker Hughes was founded in 1907."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "HAL",
+        "NOV"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "RDS.A"
+    ]
+}

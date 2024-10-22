@@ -1,0 +1,92 @@
+{
+    "ticker": "SHPP",
+    "name": "Shippable, Inc.",
+    "description": "Shippable, Inc. is a leading provider of continuous integration and continuous deployment (CI/CD) services, empowering software development teams to accelerate their delivery cycles and improve software quality. Founded in 2013, Shippable's platform offers a robust suite of tools that automate the build, test, and deployment processes for applications across various environments. With a focus on cloud-native technologies, the company enables developers to seamlessly integrate their workflows with popular tools and services such as Docker, Kubernetes, and AWS. Shippable's user-friendly interface and powerful analytics allow teams to gain insights into their development processes, ultimately enhancing productivity and collaboration. By fostering a culture of DevOps, Shippable helps organizations of all sizes embrace modern development practices and achieve faster time-to-market with their software products. The company's mission is to simplify the complexities of software deployment, making it accessible for teams to innovate and deliver exceptional user experiences.",
+    "industry": [
+        "Software",
+        "DevOps"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2013",
+    "website": "https://www.shippable.com",
+    "ceo": "Amit Prakash",
+    "social_media": {
+        "twitter": "https://twitter.com/shippable",
+        "linkedin": "https://www.linkedin.com/company/shippable/"
+    },
+    "investor_relations": "https://www.shippable.com/investors",
+    "key_executives": [
+        {
+            "name": "Amit Prakash",
+            "position": "CEO"
+        },
+        {
+            "name": "Kiran Bhat",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "CI/CD Services",
+            "products": [
+                "Continuous Integration",
+                "Continuous Deployment",
+                "Build Automation",
+                "Test Automation"
+            ]
+        },
+        {
+            "category": "DevOps Tools",
+            "products": [
+                "Container Management",
+                "Monitoring Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Shippable, Inc. | Continuous Integration and Deployment Solutions",
+        "meta_description": "Discover Shippable, Inc., a leader in CI/CD services that accelerates software delivery and enhances collaboration for development teams.",
+        "keywords": [
+            "Shippable",
+            "CI/CD",
+            "DevOps",
+            "Continuous Integration",
+            "Continuous Deployment",
+            "Software Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Shippable known for?",
+            "answer": "Shippable is known for providing continuous integration and deployment services that streamline software delivery."
+        },
+        {
+            "question": "Who is the CEO of Shippable?",
+            "answer": "Amit Prakash is the CEO of Shippable, Inc."
+        },
+        {
+            "question": "Where is Shippable headquartered?",
+            "answer": "Shippable is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Shippable's main products?",
+            "answer": "Shippable's main products include continuous integration, continuous deployment, build automation, and test automation services."
+        },
+        {
+            "question": "When was Shippable founded?",
+            "answer": "Shippable was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "CDK",
+        "JENKINS",
+        "GITHUB",
+        "CIRCLECI"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "GOOGL",
+        "NOW",
+        "ADBE"
+    ]
+}

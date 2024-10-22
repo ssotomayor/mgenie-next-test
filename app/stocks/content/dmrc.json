@@ -1,0 +1,89 @@
+{
+    "ticker": "DMRC",
+    "name": "Digimarc Corporation",
+    "description": "Digimarc Corporation is a technology company that specializes in digital identification and data management solutions. Founded in 2000 and headquartered in Beaverton, Oregon, Digimarc offers innovative technologies that enable businesses to track, manage, and utilize data effectively across various platforms. The company is best known for its Digimarc Barcode, a digital watermarking technology that enhances traditional barcodes by embedding information within the product's packaging. This technology allows for seamless data capture and improved inventory management, ultimately enhancing operational efficiency. Digimarc serves multiple industries, including retail, consumer goods, and publishing, providing solutions that streamline processes such as product authentication, supply chain management, and consumer engagement. With a strong emphasis on innovation, Digimarc continually invests in research and development to refine its offerings and expand its market presence. The company's mission is to empower organizations with tools that leverage data for better decision-making and enhanced customer experiences, thereby driving growth in a data-driven economy.",
+    "industry": [
+        "Technology",
+        "Data Management",
+        "Digital Identification"
+    ],
+    "headquarters": "Beaverton, Oregon, USA",
+    "founded": "2000",
+    "website": "https://www.digimarc.com",
+    "ceo": "Bruce Davis",
+    "social_media": {
+        "twitter": "https://twitter.com/Digimarc",
+        "linkedin": "https://www.linkedin.com/company/digimarc/"
+    },
+    "investor_relations": "https://investors.digimarc.com",
+    "key_executives": [
+        {
+            "name": "Bruce Davis",
+            "position": "CEO"
+        },
+        {
+            "name": "J. Scott Carr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Watermarking",
+            "products": [
+                "Digimarc Barcode",
+                "Digimarc Discover"
+            ]
+        },
+        {
+            "category": "Data Management Solutions",
+            "products": [
+                "Digimarc Retail",
+                "Digimarc Verify"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Digimarc Corporation | Digital Identification Solutions",
+        "meta_description": "Explore Digimarc Corporation, a leader in digital identification and data management. Discover innovative products that enhance operational efficiency and customer engagement.",
+        "keywords": [
+            "Digimarc",
+            "Digital Watermarking",
+            "Data Management",
+            "Supply Chain Solutions",
+            "Retail Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Digimarc known for?",
+            "answer": "Digimarc is known for its digital identification solutions, particularly its Digimarc Barcode technology."
+        },
+        {
+            "question": "Who is the CEO of Digimarc?",
+            "answer": "Bruce Davis is the CEO of Digimarc Corporation."
+        },
+        {
+            "question": "Where is Digimarc headquartered?",
+            "answer": "Digimarc is headquartered in Beaverton, Oregon, USA."
+        },
+        {
+            "question": "What are Digimarc's main products?",
+            "answer": "Digimarc's main products include Digimarc Barcode and various data management solutions."
+        },
+        {
+            "question": "When was Digimarc founded?",
+            "answer": "Digimarc was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "AVY",
+        "QRTEA",
+        "MSGS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

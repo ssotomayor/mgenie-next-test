@@ -1,0 +1,76 @@
+{
+    "ticker": "DXD",
+    "name": "ProShares UltraShort Dow30",
+    "description": "ProShares UltraShort Dow30 is an exchange-traded fund (ETF) that seeks to provide investors with a way to profit from declines in the value of the Dow Jones Industrial Average (DJIA). Launched in 2008, this fund aims for daily investment results that correspond to two times the inverse performance of the index. This means that if the DJIA decreases by 1% on a given day, DXD is designed to increase by approximately 2%. As an inverse leveraged ETF, it is primarily used by traders looking to hedge against market downturns or to capitalize on short-term declines in the Dow. The fund strategically employs derivatives, including futures contracts and swap agreements, to achieve its investment objective. However, investors should be mindful of the risks associated with leveraged ETFs, including the potential for significant losses if the market moves against their position. DXD is suitable for experienced traders and investors who are looking for short-term trading opportunities rather than long-term investments. The fund is managed by ProShares, a leading provider of ETFs known for its innovative investment strategies and focus on alternative investment products. With a commitment to transparency and performance, ProShares continues to develop products that cater to various investment needs in a dynamic market environment.",
+    "industry": [
+        "Finance",
+        "Investment Management"
+    ],
+    "headquarters": "Bethesda, Maryland, USA",
+    "founded": "2008",
+    "website": "https://www.proshares.com",
+    "key_executives": [
+        {
+            "name": "Michael L. Sapir",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert E. D. DeChellis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Inverse ETFs",
+            "products": [
+                "ProShares UltraShort Dow30 (DXD)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ProShares UltraShort Dow30 (DXD) | Inverse ETF",
+        "meta_description": "ProShares UltraShort Dow30 (DXD) is designed to profit from declines in the Dow Jones Industrial Average. Learn about its investment strategy, risks, and performance.",
+        "keywords": [
+            "DXD",
+            "ProShares",
+            "Inverse ETF",
+            "Dow Jones",
+            "Short Selling",
+            "Leveraged ETF"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is DXD?",
+            "answer": "DXD is an inverse leveraged ETF that seeks to provide two times the inverse performance of the Dow Jones Industrial Average."
+        },
+        {
+            "question": "Who manages DXD?",
+            "answer": "DXD is managed by ProShares, a leading provider of ETFs."
+        },
+        {
+            "question": "What are the risks associated with DXD?",
+            "answer": "As a leveraged ETF, DXD carries significant risks, including the potential for large losses if the market moves against the position."
+        },
+        {
+            "question": "Is DXD suitable for long-term investment?",
+            "answer": "DXD is primarily designed for short-term trading and is not recommended for long-term investment due to its leveraged nature."
+        },
+        {
+            "question": "When was DXD founded?",
+            "answer": "DXD was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "SDS",
+        "SH",
+        "TZA",
+        "QID"
+    ],
+    "related_stocks": [
+        "SPY",
+        "DIA",
+        "IVV",
+        "VOO"
+    ]
+}

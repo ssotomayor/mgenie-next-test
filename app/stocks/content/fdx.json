@@ -1,0 +1,92 @@
+{
+    "ticker": "FDX",
+    "name": "FedEx Corporation",
+    "description": "FedEx Corporation is a global leader in logistics and transportation services, providing a broad portfolio of solutions that include express delivery, freight shipping, and e-commerce services. Founded in 1971 by Frederick W. Smith, FedEx has revolutionized the way goods move around the world, pioneering the overnight delivery model that has since become a standard in the industry. The company operates through multiple segments, including FedEx Express, FedEx Ground, FedEx Freight, and FedEx Logistics, ensuring comprehensive service coverage for businesses and consumers alike. With a strong focus on technology and innovation, FedEx leverages advanced tracking systems and automated sorting facilities to enhance delivery efficiency and customer satisfaction. As a major player in the e-commerce sector, FedEx continually invests in expanding its network and capabilities to meet the growing demands of online shoppers. The company is also committed to sustainability, aiming to achieve carbon-neutral operations by 2040 through various initiatives, including the use of electric vehicles and alternative fuels. FedEx's mission is to connect people and possibilities around the world, making it a vital component of the global economy.",
+    "industry": [
+        "Logistics",
+        "Transportation"
+    ],
+    "headquarters": "Memphis, Tennessee, USA",
+    "founded": "1971",
+    "website": "https://www.fedex.com",
+    "ceo": "Raj Subramaniam",
+    "social_media": {
+        "twitter": "https://twitter.com/FedEx",
+        "linkedin": "https://www.linkedin.com/company/fedex/"
+    },
+    "investor_relations": "https://investors.fedex.com",
+    "key_executives": [
+        {
+            "name": "Raj Subramaniam",
+            "position": "CEO"
+        },
+        {
+            "name": "Mike Glenn",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Express Delivery",
+            "products": [
+                "FedEx Express",
+                "FedEx SameDay"
+            ]
+        },
+        {
+            "category": "Ground Shipping",
+            "products": [
+                "FedEx Ground",
+                "FedEx Home Delivery"
+            ]
+        },
+        {
+            "category": "Freight Services",
+            "products": [
+                "FedEx Freight",
+                "FedEx Freight Priority"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FedEx Corporation | Global Leader in Logistics and Transportation",
+        "meta_description": "Explore FedEx Corporation, a leader in logistics and transportation services, offering innovative solutions for express delivery, freight shipping, and e-commerce.",
+        "keywords": [
+            "FedEx",
+            "Logistics",
+            "Transportation",
+            "E-commerce",
+            "Express Delivery",
+            "Freight Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does FedEx provide?",
+            "answer": "FedEx provides express delivery, ground shipping, freight services, and logistics solutions."
+        },
+        {
+            "question": "Who is the CEO of FedEx?",
+            "answer": "Raj Subramaniam is the CEO of FedEx Corporation."
+        },
+        {
+            "question": "Where is FedEx headquartered?",
+            "answer": "FedEx is headquartered in Memphis, Tennessee, USA."
+        },
+        {
+            "question": "When was FedEx founded?",
+            "answer": "FedEx was founded in 1971."
+        }
+    ],
+    "competitors": [
+        "UPS",
+        "DAL",
+        "CHRW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "T",
+        "CSCO"
+    ]
+}

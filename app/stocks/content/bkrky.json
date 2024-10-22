@@ -1,0 +1,96 @@
+{
+    "ticker": "BKRKY",
+    "name": "Baker Hughes Company",
+    "description": "Baker Hughes Company is a leading energy technology company that provides solutions for energy, industrial, and digital needs. Founded in 1907 and headquartered in Houston, Texas, Baker Hughes operates in over 120 countries and is dedicated to transforming the industry through innovative technologies and services. The company offers a wide range of products and services in areas such as oil and gas exploration, drilling, production, and reservoir consulting. Baker Hughes is also at the forefront of the energy transition, focusing on sustainable practices and decarbonization solutions that support the global shift towards renewable energy sources. With a commitment to operational excellence and a strong portfolio of intellectual property, Baker Hughes aims to enhance the efficiency and performance of energy operations while minimizing environmental impact. The company\u2019s advanced technologies in areas like artificial intelligence, data analytics, and automation are designed to meet the increasing demands of the energy sector. Baker Hughes continues to invest in research and development to create innovative solutions that address the evolving challenges of the energy landscape.",
+    "industry": [
+        "Energy",
+        "Technology"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1907",
+    "website": "https://www.bakerhughes.com",
+    "ceo": "Lorenzo Simonelli",
+    "social_media": {
+        "twitter": "https://twitter.com/BakerHughesCo",
+        "linkedin": "https://www.linkedin.com/company/baker-hughes/"
+    },
+    "investor_relations": "https://investors.bakerhughes.com",
+    "key_executives": [
+        {
+            "name": "Lorenzo Simonelli",
+            "position": "CEO"
+        },
+        {
+            "name": "Maria M. Mazzocco",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oilfield Services",
+            "products": [
+                "Drilling Services",
+                "Completion Services",
+                "Production Services"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "Artificial Intelligence",
+                "Data Analytics"
+            ]
+        },
+        {
+            "category": "Industrial Services",
+            "products": [
+                "Turbo Machinery",
+                "Process Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baker Hughes Company | Energy Technology and Solutions",
+        "meta_description": "Explore Baker Hughes Company, a leader in energy technology and services. Discover our innovative solutions for the oil and gas industry, and our commitment to sustainable energy.",
+        "keywords": [
+            "Baker Hughes",
+            "Energy Technology",
+            "Oilfield Services",
+            "Sustainable Energy",
+            "Digital Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Baker Hughes do?",
+            "answer": "Baker Hughes provides technology and services for the energy sector, focusing on oil and gas exploration, drilling, and production."
+        },
+        {
+            "question": "Who is the CEO of Baker Hughes?",
+            "answer": "Lorenzo Simonelli is the CEO of Baker Hughes Company."
+        },
+        {
+            "question": "Where is Baker Hughes headquartered?",
+            "answer": "Baker Hughes is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Baker Hughes' main products?",
+            "answer": "Baker Hughes' main products include oilfield services, digital solutions, and industrial services."
+        },
+        {
+            "question": "When was Baker Hughes founded?",
+            "answer": "Baker Hughes was founded in 1907."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "HAL",
+        "NOV"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "TOT"
+    ]
+}

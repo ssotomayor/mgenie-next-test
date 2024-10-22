@@ -1,0 +1,89 @@
+{
+    "ticker": "ASMIY",
+    "name": "ASM International N.V.",
+    "description": "ASM International N.V. is a leading provider of equipment and materials for the semiconductor industry, specializing in the development and manufacturing of innovative technologies for the production of semiconductor devices. Founded in 1968 and headquartered in Almere, Netherlands, ASM offers a comprehensive range of products and services that enable semiconductor manufacturers to achieve higher performance and lower costs. The company's core expertise lies in atomic layer deposition (ALD), epitaxy, and other advanced deposition techniques that are critical in the fabrication of integrated circuits. With a commitment to excellence in engineering and customer service, ASM International serves major semiconductor manufacturers across the globe, contributing to the advancement of technology in various applications, including consumer electronics, automotive, and telecommunications. The company emphasizes sustainability and efficiency in its operations, striving to minimize the environmental impact of its products and processes. By continually investing in research and development, ASM International aims to stay at the forefront of semiconductor technology, driving innovation and enabling the next generation of electronic devices.",
+    "industry": [
+        "Semiconductor",
+        "Manufacturing"
+    ],
+    "headquarters": "Almere, Netherlands",
+    "founded": "1968",
+    "website": "https://www.asm.com",
+    "ceo": "Benjamin Loh",
+    "social_media": {
+        "twitter": "https://twitter.com/ASMIntl",
+        "linkedin": "https://www.linkedin.com/company/asm-international/"
+    },
+    "investor_relations": "https://investors.asm.com",
+    "key_executives": [
+        {
+            "name": "Benjamin Loh",
+            "position": "CEO"
+        },
+        {
+            "name": "Henk de Jong",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Deposition Equipment",
+            "products": [
+                "ALD Systems",
+                "Epitaxy Systems"
+            ]
+        },
+        {
+            "category": "Materials",
+            "products": [
+                "Specialty Chemicals",
+                "Target Materials"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ASM International N.V. | Semiconductor Equipment and Materials",
+        "meta_description": "Explore ASM International N.V., a leader in semiconductor equipment and materials. Learn about ASM's innovative technologies and commitment to sustainability in the semiconductor industry.",
+        "keywords": [
+            "ASM International",
+            "Semiconductor",
+            "ALD",
+            "Epitaxy",
+            "Electronic Devices",
+            "Semiconductor Manufacturing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ASM International specialize in?",
+            "answer": "ASM International specializes in equipment and materials for the semiconductor industry, particularly in atomic layer deposition and epitaxy."
+        },
+        {
+            "question": "Who is the CEO of ASM International?",
+            "answer": "Benjamin Loh is the CEO of ASM International N.V."
+        },
+        {
+            "question": "Where is ASM International headquartered?",
+            "answer": "ASM International is headquartered in Almere, Netherlands."
+        },
+        {
+            "question": "What are the main products of ASM International?",
+            "answer": "ASM International's main products include ALD systems, epitaxy systems, specialty chemicals, and target materials."
+        },
+        {
+            "question": "When was ASM International founded?",
+            "answer": "ASM International was founded in 1968."
+        }
+    ],
+    "competitors": [
+        "LRCX",
+        "AMAT",
+        "KLAC"
+    ],
+    "related_stocks": [
+        "INTC",
+        "NVDA",
+        "TSM",
+        "QCOM"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "AWAY",
+    "name": "Expedia Group, Inc.",
+    "description": "Expedia Group, Inc. is a global travel technology company that operates some of the world's leading online travel brands, including Expedia.com, Hotels.com, and Vrbo. Founded in 1996 as a division of Microsoft, Expedia has grown into a comprehensive platform that offers travelers a wide array of services, from booking flights and hotels to securing rental cars and vacation packages. With a mission to power global travel for everyone, everywhere, Expedia aims to make travel accessible and enjoyable by providing innovative tools and resources. The company leverages advanced technology and data analytics to enhance user experiences, streamline bookings, and personalize offerings. Expedia's platform features over 500,000 properties and hundreds of airlines, enabling travelers to find and book their ideal trips with ease. In addition to its primary brands, the company also operates several other travel-related brands and services, including Expedia Affiliate Network and Egencia, a corporate travel management solution. As travel demand continues to rebound post-pandemic, Expedia is focused on expanding its market presence, enhancing user engagement, and driving sustainable growth in the travel industry.",
+    "industry": [
+        "Travel",
+        "Technology"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "1996",
+    "website": "https://www.expedia.com",
+    "ceo": "Peter Kern",
+    "social_media": {
+        "twitter": "https://twitter.com/Expedia",
+        "linkedin": "https://www.linkedin.com/company/expedia-group",
+        "instagram": "https://www.instagram.com/expedia",
+        "youtube": "https://www.youtube.com/user/expedia"
+    },
+    "investor_relations": "https://ir.expediagroup.com",
+    "key_executives": [
+        {
+            "name": "Peter Kern",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric Hart",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Travel Booking",
+            "products": [
+                "Flight Booking",
+                "Hotel Reservations",
+                "Car Rentals",
+                "Vacation Packages"
+            ]
+        },
+        {
+            "category": "Travel Technology",
+            "products": [
+                "Expedia Affiliate Network",
+                "Egencia"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Expedia Group, Inc. | Travel Booking and Technology",
+        "meta_description": "Explore Expedia Group, Inc., a leading travel technology company that offers a wide range of travel services and innovative tools for travelers.",
+        "keywords": [
+            "Expedia",
+            "Travel Booking",
+            "Vacation Rentals",
+            "Travel Technology",
+            "Flights",
+            "Hotels"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Expedia provide?",
+            "answer": "Expedia provides services such as flight bookings, hotel reservations, car rentals, and vacation packages."
+        },
+        {
+            "question": "Who is the CEO of Expedia Group?",
+            "answer": "Peter Kern is the CEO of Expedia Group, Inc."
+        },
+        {
+            "question": "Where is Expedia Group headquartered?",
+            "answer": "Expedia Group is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "When was Expedia founded?",
+            "answer": "Expedia was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "BKNG",
+        "TRIP",
+        "CNR",
+        "ABNB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

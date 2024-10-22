@@ -1,0 +1,93 @@
+{
+    "ticker": "HUMAW",
+    "name": "Humana Inc.",
+    "description": "Humana Inc. is a leading health and well-being company that provides a wide range of health insurance products and services. Founded in 1961 and headquartered in Louisville, Kentucky, Humana focuses on improving health outcomes for its members through innovative care solutions and a commitment to customer service. The company offers Medicare Advantage plans, individual and family health insurance, and dental and vision plans, catering to diverse populations across the United States. Humana emphasizes value-based care, aiming to enhance healthcare quality while controlling costs. With a strong focus on technology, Humana utilizes data analytics to better understand member needs and improve care delivery. The company is also dedicated to community health initiatives, including programs to promote healthy living and access to care. Humana's mission is to help people achieve their best health, and it strives to create a sustainable healthcare ecosystem through partnerships and community engagement.",
+    "industry": [
+        "Healthcare",
+        "Insurance"
+    ],
+    "headquarters": "Louisville, Kentucky, USA",
+    "founded": "1961",
+    "website": "https://www.humana.com",
+    "ceo": "Bruce D. Broussard",
+    "social_media": {
+        "twitter": "https://twitter.com/humana",
+        "linkedin": "https://www.linkedin.com/company/humana/"
+    },
+    "investor_relations": "https://investors.humana.com",
+    "key_executives": [
+        {
+            "name": "Bruce D. Broussard",
+            "position": "CEO"
+        },
+        {
+            "name": "Susan Diamond",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Health Insurance",
+            "products": [
+                "Medicare Advantage",
+                "Individual and Family Plans",
+                "Dental Plans",
+                "Vision Plans"
+            ]
+        },
+        {
+            "category": "Wellness Programs",
+            "products": [
+                "Health Coaching",
+                "Chronic Condition Management",
+                "Wellness Incentives"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Humana Inc. | Health Insurance and Well-Being Services",
+        "meta_description": "Explore Humana Inc., a leading health insurance provider dedicated to improving health outcomes through innovative care solutions. Learn about Humana's products and community initiatives.",
+        "keywords": [
+            "Humana",
+            "Health Insurance",
+            "Medicare Advantage",
+            "Wellness Programs",
+            "Healthcare",
+            "Insurance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Humana provide?",
+            "answer": "Humana provides health insurance products, including Medicare Advantage plans, individual and family health insurance, and wellness programs."
+        },
+        {
+            "question": "Who is the CEO of Humana?",
+            "answer": "Bruce D. Broussard is the CEO of Humana Inc."
+        },
+        {
+            "question": "Where is Humana headquartered?",
+            "answer": "Humana is headquartered in Louisville, Kentucky, USA."
+        },
+        {
+            "question": "What are Humana's main products?",
+            "answer": "Humana's main products include Medicare Advantage plans, individual health insurance, dental and vision plans, and wellness services."
+        },
+        {
+            "question": "When was Humana founded?",
+            "answer": "Humana was founded in 1961."
+        }
+    ],
+    "competitors": [
+        "ANTM",
+        "UNH",
+        "CNC",
+        "WCG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "RXT",
+    "name": "Rackspace Technology, Inc.",
+    "description": "Rackspace Technology, Inc. is a leading provider of cloud-based solutions and managed services, helping businesses navigate the complexities of cloud computing. Founded in 1998, Rackspace specializes in multi-cloud environments, offering expertise in platforms such as Amazon Web Services (AWS), Microsoft Azure, and Google Cloud. The company is dedicated to delivering a seamless cloud experience, allowing organizations to focus on their core operations while Rackspace manages their cloud infrastructure. With a commitment to innovation and customer service, Rackspace offers a range of services including cloud migration, managed hosting, and application services. The company is known for its Fanatical Support, a unique customer service model that ensures clients receive personalized assistance and proactive solutions. Rackspace serves a diverse clientele, from startups to Fortune 500 companies, and aims to empower businesses to achieve their digital transformation goals through tailored cloud solutions. As the cloud landscape continues to evolve, Rackspace is at the forefront, providing strategic guidance and operational support to help organizations leverage the full potential of the cloud.",
+    "industry": [
+        "Cloud Computing",
+        "Information Technology"
+    ],
+    "headquarters": "San Antonio, Texas, USA",
+    "founded": "1998",
+    "website": "https://www.rackspace.com",
+    "ceo": "Kevin Jones",
+    "social_media": {
+        "twitter": "https://twitter.com/rackspace",
+        "linkedin": "https://www.linkedin.com/company/rackspace",
+        "facebook": "https://www.facebook.com/rackspace"
+    },
+    "investor_relations": "https://ir.rackspace.com",
+    "key_executives": [
+        {
+            "name": "Kevin Jones",
+            "position": "CEO"
+        },
+        {
+            "name": "Drew McElroy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Managed Cloud",
+                "Cloud Migration",
+                "Application Services"
+            ]
+        },
+        {
+            "category": "Managed Hosting",
+            "products": [
+                "Dedicated Servers",
+                "Colocation Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rackspace Technology, Inc. | Cloud Solutions and Managed Services",
+        "meta_description": "Explore Rackspace Technology, a leader in cloud solutions and managed services. Discover how Rackspace helps businesses navigate their cloud journey with Fanatical Support.",
+        "keywords": [
+            "Rackspace",
+            "Cloud Computing",
+            "Managed Services",
+            "Multi-Cloud",
+            "Cloud Migration",
+            "AWS",
+            "Microsoft Azure"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Rackspace provide?",
+            "answer": "Rackspace provides cloud services, managed hosting, and application services tailored to business needs."
+        },
+        {
+            "question": "Who is the CEO of Rackspace?",
+            "answer": "Kevin Jones is the CEO of Rackspace Technology, Inc."
+        },
+        {
+            "question": "Where is Rackspace headquartered?",
+            "answer": "Rackspace is headquartered in San Antonio, Texas, USA."
+        },
+        {
+            "question": "What is Fanatical Support?",
+            "answer": "Fanatical Support is Rackspace's unique customer service approach that provides personalized assistance and proactive solutions."
+        },
+        {
+            "question": "When was Rackspace founded?",
+            "answer": "Rackspace was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "CRM",
+        "NOW",
+        "ORCL"
+    ]
+}

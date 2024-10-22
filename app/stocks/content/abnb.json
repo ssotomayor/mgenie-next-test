@@ -1,0 +1,92 @@
+{
+    "ticker": "ABNB",
+    "name": "Airbnb, Inc.",
+    "description": "Airbnb, Inc. is a global online marketplace that connects travelers with hosts offering unique accommodations, ranging from homes and apartments to castles and treehouses. Founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk, Airbnb revolutionized the way people book travel accommodations by providing a platform that allows individuals to rent out their properties and share their experiences. The company operates in over 220 countries and regions, facilitating millions of stays each year. Airbnb also offers 'Experiences,' which enable travelers to engage in local activities hosted by residents, adding a personal touch to their trips. With a commitment to community and hospitality, Airbnb encourages a sense of belonging and connection among its users. The platform emphasizes safety and trust, featuring verified hosts and comprehensive review systems. Moreover, Airbnb is actively working on sustainable tourism initiatives, promoting responsible travel practices and supporting local economies. As travel continues to evolve post-pandemic, Airbnb remains at the forefront of the industry, adapting to changing traveler preferences and enhancing its offerings.",
+    "industry": [
+        "Travel and Hospitality",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2008",
+    "website": "https://www.airbnb.com",
+    "ceo": "Brian Chesky",
+    "social_media": {
+        "twitter": "https://twitter.com/airbnb",
+        "linkedin": "https://www.linkedin.com/company/airbnb",
+        "instagram": "https://www.instagram.com/airbnb",
+        "facebook": "https://www.facebook.com/Airbnb"
+    },
+    "investor_relations": "https://investors.airbnb.com",
+    "key_executives": [
+        {
+            "name": "Brian Chesky",
+            "position": "CEO"
+        },
+        {
+            "name": "Dave Stephenson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Accommodations",
+            "products": [
+                "Homes",
+                "Apartments",
+                "Unique Stays"
+            ]
+        },
+        {
+            "category": "Experiences",
+            "products": [
+                "Local Tours",
+                "Activities"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Airbnb, Inc. | Find Unique Places to Stay and Experiences",
+        "meta_description": "Explore Airbnb, Inc., a leader in travel and hospitality. Discover unique accommodations and local experiences worldwide.",
+        "keywords": [
+            "Airbnb",
+            "Travel",
+            "Accommodations",
+            "Unique Stays",
+            "Experiences",
+            "Vacation Rentals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Airbnb do?",
+            "answer": "Airbnb provides an online marketplace for people to rent out their homes and book accommodations while traveling."
+        },
+        {
+            "question": "Who is the CEO of Airbnb?",
+            "answer": "Brian Chesky is the CEO of Airbnb, Inc."
+        },
+        {
+            "question": "Where is Airbnb headquartered?",
+            "answer": "Airbnb is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What types of accommodations can I find on Airbnb?",
+            "answer": "Airbnb offers a variety of accommodations including homes, apartments, and unique stays like treehouses and castles."
+        },
+        {
+            "question": "When was Airbnb founded?",
+            "answer": "Airbnb was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "BKNG",
+        "EXPE",
+        "TRIP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

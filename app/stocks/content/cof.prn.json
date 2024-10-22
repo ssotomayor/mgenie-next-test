@@ -1,0 +1,92 @@
+{
+    "ticker": "COF.PRN",
+    "name": "Capital One Financial Corporation",
+    "description": "Capital One Financial Corporation is a diversified bank that specializes in credit cards, auto loans, banking, and savings accounts. Founded in 1994 by Richard Fairbank and Nigel Morris, Capital One has grown to become one of the largest financial institutions in the United States and is recognized for its innovation in the banking sector. The company's mission is to help customers succeed by providing tools, products, and services that facilitate financial empowerment. Capital One is known for its consumer-focused approach, offering a range of credit card options with competitive rewards programs, as well as personal and commercial banking services. The bank also emphasizes technology and data-driven solutions, leveraging advanced analytics to enhance customer experiences and streamline operations. With a commitment to social responsibility, Capital One actively participates in community initiatives and programs that promote financial literacy and support local development. The company is headquartered in McLean, Virginia, and serves millions of customers across the nation, making it a key player in the American banking landscape.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "McLean, Virginia, USA",
+    "founded": "1994",
+    "website": "https://www.capitalone.com",
+    "ceo": "Richard Fairbank",
+    "social_media": {
+        "twitter": "https://twitter.com/capitalone",
+        "linkedin": "https://www.linkedin.com/company/capital-one",
+        "facebook": "https://www.facebook.com/capitalone"
+    },
+    "investor_relations": "https://ir.capitalone.com",
+    "key_executives": [
+        {
+            "name": "Richard Fairbank",
+            "position": "CEO"
+        },
+        {
+            "name": "Ghazala Shakir",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Cards",
+            "products": [
+                "Capital One Venture Rewards Credit Card",
+                "Capital One Quicksilver Cash Rewards Credit Card",
+                "Capital One Savor Cash Rewards Credit Card"
+            ]
+        },
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Auto Loans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Capital One Financial Corporation | Banking and Financial Services",
+        "meta_description": "Explore Capital One Financial Corporation, a leader in credit cards and banking services. Discover innovative financial products and community initiatives.",
+        "keywords": [
+            "Capital One",
+            "Credit Cards",
+            "Banking",
+            "Financial Services",
+            "Richard Fairbank"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Capital One offer?",
+            "answer": "Capital One offers credit cards, auto loans, checking and savings accounts, and banking services."
+        },
+        {
+            "question": "Who is the CEO of Capital One?",
+            "answer": "Richard Fairbank is the CEO of Capital One Financial Corporation."
+        },
+        {
+            "question": "Where is Capital One headquartered?",
+            "answer": "Capital One is headquartered in McLean, Virginia, USA."
+        },
+        {
+            "question": "What types of credit cards does Capital One provide?",
+            "answer": "Capital One provides a variety of credit cards including rewards cards, cash back cards, and travel cards."
+        },
+        {
+            "question": "When was Capital One founded?",
+            "answer": "Capital One was founded in 1994."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "C",
+        "WFC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

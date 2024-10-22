@@ -1,0 +1,91 @@
+{
+    "ticker": "ESTC",
+    "name": "Elastic N.V.",
+    "description": "Elastic N.V. is a leading open-source search and data analytics company, best known for its Elasticsearch platform. Founded in 2012, Elastic empowers organizations to harness the power of their data by providing a robust, scalable, and flexible search and analytics solution. The company's flagship product, Elasticsearch, enables users to perform real-time search, analyze large volumes of data, and gain insights through its powerful querying capabilities. Elastic's offerings extend to the Elastic Stack, which includes Kibana for data visualization, Beats for data shipping, and Logstash for data processing. With a focus on developer experience and open-source principles, Elastic serves a diverse range of industries, including e-commerce, security, and IT operations, helping businesses to unlock the full potential of their data. The company is committed to innovation, constantly enhancing its products with new features and integrations to meet the evolving needs of its users. Elastic also emphasizes community engagement, fostering a global network of developers and users who contribute to its open-source projects. As businesses increasingly rely on data-driven decision-making, Elastic continues to be at the forefront of providing solutions that enable organizations to operate more efficiently and effectively.",
+    "industry": [
+        "Software",
+        "Information Technology"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "2012",
+    "website": "https://www.elastic.co",
+    "ceo": "Shay Banon",
+    "social_media": {
+        "twitter": "https://twitter.com/elastic",
+        "linkedin": "https://www.linkedin.com/company/elastic",
+        "github": "https://github.com/elastic"
+    },
+    "investor_relations": "https://www.elastic.co/investors",
+    "key_executives": [
+        {
+            "name": "Shay Banon",
+            "position": "CEO"
+        },
+        {
+            "name": "Joe Shute",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Search Solutions",
+            "products": [
+                "Elasticsearch",
+                "App Search",
+                "Enterprise Search"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Kibana",
+                "Logstash",
+                "Beats"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Elastic N.V. | Search and Analytics Solutions",
+        "meta_description": "Discover Elastic N.V., the leader in open-source search and data analytics. Explore Elastic's innovative products designed to help organizations make sense of their data.",
+        "keywords": [
+            "Elastic",
+            "Elasticsearch",
+            "Data Analytics",
+            "Open Source",
+            "Search Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Elastic known for?",
+            "answer": "Elastic is known for its Elasticsearch platform and its suite of search and analytics tools."
+        },
+        {
+            "question": "Who is the CEO of Elastic?",
+            "answer": "Shay Banon is the CEO of Elastic N.V."
+        },
+        {
+            "question": "Where is Elastic headquartered?",
+            "answer": "Elastic is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What are Elastic's main products?",
+            "answer": "Elastic's main products include Elasticsearch, Kibana, Logstash, and Beats."
+        },
+        {
+            "question": "When was Elastic founded?",
+            "answer": "Elastic was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "MDB",
+        "DATA",
+        "NTNX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

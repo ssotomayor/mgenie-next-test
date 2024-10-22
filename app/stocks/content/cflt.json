@@ -1,0 +1,83 @@
+{
+    "ticker": "CFLT",
+    "name": "Confluent, Inc.",
+    "description": "Confluent, Inc. is the data streaming platform pioneer that helps organizations harness the power of real-time data. Founded in 2014 by the creators of Apache Kafka, Confluent aims to provide a platform that allows businesses to process and analyze streaming data in real-time, enabling them to make faster decisions and drive better business outcomes. The company offers Confluent Platform, a complete event streaming solution that integrates with Apache Kafka, allowing developers to build and manage real-time applications. Confluent Cloud, its fully managed cloud service, further simplifies the adoption of Kafka, offering scalability and reliability without the operational burden. Confluent's solutions empower organizations across various industries, including financial services, retail, and technology, to leverage data as a continuous flow rather than a static entity. By providing tools for data integration, stream processing, and analytics, Confluent is committed to transforming how businesses approach data-driven decision-making. With a focus on innovation and customer success, Confluent continues to lead the way in the evolving landscape of real-time data technologies.",
+    "industry": [
+        "Technology",
+        "Software"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "2014",
+    "website": "https://www.confluent.io",
+    "ceo": "Jay Kreps",
+    "social_media": {
+        "twitter": "https://twitter.com/confluentinc",
+        "linkedin": "https://www.linkedin.com/company/confluentinc/",
+        "youtube": "https://www.youtube.com/c/ConfluentInc"
+    },
+    "investor_relations": "https://investors.confluent.io",
+    "key_executives": [
+        {
+            "name": "Jay Kreps",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Tice",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Streaming Platform",
+            "products": [
+                "Confluent Platform",
+                "Confluent Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Confluent, Inc. | Real-Time Data Streaming Solutions",
+        "meta_description": "Explore Confluent, Inc., the leader in real-time data streaming solutions. Discover how Confluent helps organizations leverage data with its innovative platform.",
+        "keywords": [
+            "Confluent",
+            "Apache Kafka",
+            "Real-Time Data",
+            "Data Streaming",
+            "Event Streaming",
+            "Confluent Cloud"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Confluent known for?",
+            "answer": "Confluent is known for its data streaming platform that enables real-time data processing and analytics."
+        },
+        {
+            "question": "Who is the CEO of Confluent?",
+            "answer": "Jay Kreps is the CEO of Confluent, Inc."
+        },
+        {
+            "question": "Where is Confluent headquartered?",
+            "answer": "Confluent is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What are Confluent's main products?",
+            "answer": "Confluent's main products include Confluent Platform and Confluent Cloud."
+        },
+        {
+            "question": "When was Confluent founded?",
+            "answer": "Confluent was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "MDB",
+        "SNOW",
+        "DATA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

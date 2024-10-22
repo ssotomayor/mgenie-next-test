@@ -1,0 +1,92 @@
+{
+    "ticker": "FUPBY",
+    "name": "Fujitsu Limited",
+    "description": "Fujitsu Limited is a leading Japanese information and communication technology (ICT) company, established in 1935. Headquartered in Tokyo, Fujitsu provides a wide range of technology products, services, and solutions that enhance the way businesses operate and create value. The company specializes in IT services, including cloud computing, infrastructure management, and cybersecurity, catering to various industries such as finance, healthcare, and manufacturing. Fujitsu is also known for its advanced computing technologies, including supercomputers and high-performance computing solutions that support critical research and development initiatives. With a strong commitment to sustainability and innovation, Fujitsu aims to contribute to a sustainable world through its 'Human Centric' approach, focusing on the needs of individuals and society. The company emphasizes the importance of digital transformation, enabling organizations to harness data and technology to improve productivity, efficiency, and customer engagement. As a global player, Fujitsu operates in over 100 countries, serving clients with tailored solutions that address their unique challenges and opportunities in an increasingly digital landscape.",
+    "industry": [
+        "Information Technology",
+        "Computing"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1935",
+    "website": "https://www.fujitsu.com",
+    "ceo": "Takahito Tokita",
+    "social_media": {
+        "twitter": "https://twitter.com/Fujitsu",
+        "linkedin": "https://www.linkedin.com/company/fujitsu/",
+        "youtube": "https://www.youtube.com/user/FujitsuGlobal"
+    },
+    "investor_relations": "https://ir.fujitsu.com",
+    "key_executives": [
+        {
+            "name": "Takahito Tokita",
+            "position": "CEO"
+        },
+        {
+            "name": "Ryuya Sato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Services",
+            "products": [
+                "Cloud Computing",
+                "Cybersecurity",
+                "Infrastructure Management"
+            ]
+        },
+        {
+            "category": "Computing",
+            "products": [
+                "Supercomputers",
+                "High-Performance Computing Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fujitsu Limited | Leading ICT Solutions Provider",
+        "meta_description": "Explore Fujitsu Limited, a global leader in information and communication technology. Discover Fujitsu's innovative IT services, computing solutions, and commitment to sustainability.",
+        "keywords": [
+            "Fujitsu",
+            "ICT",
+            "Information Technology",
+            "Cloud Computing",
+            "Cybersecurity",
+            "Supercomputers"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fujitsu do?",
+            "answer": "Fujitsu provides a wide range of information and communication technology services, including IT services, cloud computing, and cybersecurity."
+        },
+        {
+            "question": "Who is the CEO of Fujitsu?",
+            "answer": "Takahito Tokita is the CEO of Fujitsu Limited."
+        },
+        {
+            "question": "Where is Fujitsu headquartered?",
+            "answer": "Fujitsu is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Fujitsu's main products?",
+            "answer": "Fujitsu's main products include IT services, cloud solutions, cybersecurity services, supercomputers, and high-performance computing."
+        },
+        {
+            "question": "When was Fujitsu founded?",
+            "answer": "Fujitsu was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "HPQ",
+        "ORCL",
+        "NTTYY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NOW"
+    ]
+}

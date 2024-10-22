@@ -1,0 +1,90 @@
+{
+    "ticker": "INCY",
+    "name": "Incyte Corporation",
+    "description": "Incyte Corporation is a biopharmaceutical company focused on the discovery, development, and commercialization of innovative therapeutics to treat serious diseases, particularly in oncology and hematology. Founded in 1991 and headquartered in Wilmington, Delaware, Incyte has established itself as a leader in the field of cancer treatment, with a strong pipeline of drug candidates and a commitment to improving patient outcomes. The company\u2019s flagship product, Jakafi (ruxolitinib), is an FDA-approved treatment for certain types of blood cancers, including myelofibrosis and polycythemia vera. Incyte continues to invest heavily in research and development, aiming to bring new therapies to market that target unmet medical needs. The company also collaborates with other biotechnology and pharmaceutical companies to expand its therapeutic offerings and enhance its capabilities in drug development. With a mission to help patients live better lives, Incyte is dedicated to transforming the treatment landscape for cancer and other serious diseases through science and innovation.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Wilmington, Delaware, USA",
+    "founded": "1991",
+    "website": "https://www.incyte.com",
+    "ceo": "Herv\u00e9 Hoppenot",
+    "social_media": {
+        "twitter": "https://twitter.com/Incyte",
+        "linkedin": "https://www.linkedin.com/company/incyte/"
+    },
+    "investor_relations": "https://investor.incyte.com",
+    "key_executives": [
+        {
+            "name": "Herv\u00e9 Hoppenot",
+            "position": "CEO"
+        },
+        {
+            "name": "Murray Aitken",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "Jakafi (ruxolitinib)",
+                "Pemazyre (pemigatinib)",
+                "Monjuvi (tafasitamab-cxix)"
+            ]
+        },
+        {
+            "category": "Hematology",
+            "products": [
+                "Jakafi (ruxolitinib)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Incyte Corporation | Innovating Cancer Therapies",
+        "meta_description": "Incyte Corporation is a biopharmaceutical company dedicated to developing innovative therapies for cancer and other serious diseases. Learn about our pipeline and commitment to patient care.",
+        "keywords": [
+            "Incyte",
+            "Biopharmaceuticals",
+            "Cancer Treatment",
+            "Jakafi",
+            "Oncology",
+            "Hematology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Incyte known for?",
+            "answer": "Incyte is known for its innovative therapeutics in oncology and hematology, with Jakafi being its flagship product."
+        },
+        {
+            "question": "Who is the CEO of Incyte?",
+            "answer": "Herv\u00e9 Hoppenot is the CEO of Incyte Corporation."
+        },
+        {
+            "question": "Where is Incyte headquartered?",
+            "answer": "Incyte is headquartered in Wilmington, Delaware, USA."
+        },
+        {
+            "question": "What are Incyte's main products?",
+            "answer": "Incyte's main products include Jakafi, Pemazyre, and Monjuvi."
+        },
+        {
+            "question": "When was Incyte founded?",
+            "answer": "Incyte was founded in 1991."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "GILD",
+        "VRTX",
+        "BMY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

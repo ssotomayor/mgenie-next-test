@@ -1,0 +1,101 @@
+{
+    "ticker": "ODP",
+    "name": "The ODP Corporation",
+    "description": "The ODP Corporation is a leading provider of business services and products, specializing in office supplies, technology products, and services. Founded in 1986 and headquartered in Boca Raton, Florida, ODP operates through various segments including Office Depot and OfficeMax, providing a wide array of products to consumers and businesses of all sizes. The company has transformed its business model to adapt to the evolving needs of its customers, focusing on e-commerce and delivery services. ODP is committed to helping businesses succeed by providing them with tailored solutions such as managed print services, workspace solutions, and technology support. With a strong emphasis on sustainability, ODP prioritizes environmentally responsible practices in its operations and product offerings, aiming to minimize its ecological footprint while delivering value to its customers. The ODP Corporation also emphasizes community engagement and philanthropy, supporting various initiatives that promote education and environmental stewardship. By leveraging technology and innovation, ODP continues to expand its market presence and enhance customer experiences, positioning itself as a trusted partner for businesses in the modern economy.",
+    "industry": [
+        "Business Services",
+        "Retail"
+    ],
+    "headquarters": "Boca Raton, Florida, USA",
+    "founded": "1986",
+    "website": "https://www.odp.com",
+    "ceo": "Gerry Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/OfficeDepot",
+        "linkedin": "https://www.linkedin.com/company/the-odp-corporation/",
+        "facebook": "https://www.facebook.com/OfficeDepot"
+    },
+    "investor_relations": "https://investor.odp.com",
+    "key_executives": [
+        {
+            "name": "Gerry Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Cynthia Jamison",
+            "position": "Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Office Supplies",
+            "products": [
+                "Paper",
+                "Writing Instruments",
+                "Desk Accessories"
+            ]
+        },
+        {
+            "category": "Technology Products",
+            "products": [
+                "Computers",
+                "Printers",
+                "Office Software"
+            ]
+        },
+        {
+            "category": "Services",
+            "products": [
+                "Managed Print Services",
+                "Workspace Solutions",
+                "Technology Support"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The ODP Corporation | Office Supplies and Business Services",
+        "meta_description": "Explore The ODP Corporation, a leader in office supplies and business services. Discover ODP's innovative solutions and commitment to sustainability.",
+        "keywords": [
+            "ODP",
+            "Office Supplies",
+            "Business Services",
+            "E-commerce",
+            "Sustainability",
+            "Workspace Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ODP offer?",
+            "answer": "ODP offers office supplies, technology products, managed print services, and workspace solutions."
+        },
+        {
+            "question": "Who is the CEO of ODP?",
+            "answer": "Gerry Smith is the CEO of The ODP Corporation."
+        },
+        {
+            "question": "Where is ODP headquartered?",
+            "answer": "ODP is headquartered in Boca Raton, Florida, USA."
+        },
+        {
+            "question": "What are the main product categories of ODP?",
+            "answer": "ODP's main product categories include office supplies, technology products, and various business services."
+        },
+        {
+            "question": "When was ODP founded?",
+            "answer": "ODP was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "SPLS",
+        "WBA",
+        "AMZN",
+        "COST"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "ticker": "ING",
+    "name": "ING Groep N.V.",
+    "description": "ING Groep N.V. is a global financial institution with a strong European base, offering banking, investments, life insurance, and retirement services to individuals, small businesses, and large corporations. Founded in 1991, ING has grown into a major player in the financial sector, recognized for its innovative banking solutions and commitment to sustainability. The company's mission is to empower people to stay a step ahead in life and in business by providing them with relevant financial products and services. ING operates in several markets, primarily in Europe, and is known for its digital banking capabilities, including the popular mobile banking app and a wide range of online banking services. The bank emphasizes transparency, simplicity, and customer-centricity, driving forward its vision of making banking accessible and efficient. ING is also committed to green financing and sustainable investment practices, supporting projects that contribute to environmental and social goals. With a strong focus on technology, ING is continuously enhancing its digital offerings to meet the evolving needs of customers in a fast-changing financial landscape.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Amsterdam, Netherlands",
+    "founded": "1991",
+    "website": "https://www.ing.com",
+    "ceo": "Steven van Rijswijk",
+    "social_media": {
+        "twitter": "https://twitter.com/ING_news",
+        "linkedin": "https://www.linkedin.com/company/ing"
+    },
+    "investor_relations": "https://www.ing.com/Investor-relations.htm",
+    "key_executives": [
+        {
+            "name": "Steven van Rijswijk",
+            "position": "CEO"
+        },
+        {
+            "name": "Hamers Ralph",
+            "position": "Former CEO"
+        },
+        {
+            "name": "Koos Timmermans",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Retail Banking",
+            "products": [
+                "Savings Accounts",
+                "Current Accounts",
+                "Personal Loans",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Corporate Banking",
+            "products": [
+                "Commercial Loans",
+                "Corporate Financing",
+                "Investment Banking Services"
+            ]
+        },
+        {
+            "category": "Insurance",
+            "products": [
+                "Life Insurance",
+                "Pension Plans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ING Groep N.V. | Global Financial Services",
+        "meta_description": "Explore ING Groep N.V., a leading financial institution offering banking, investments, life insurance, and retirement services. Discover our commitment to sustainability and innovation.",
+        "keywords": [
+            "ING",
+            "Banking",
+            "Financial Services",
+            "Digital Banking",
+            "Sustainable Finance",
+            "Investments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ING provide?",
+            "answer": "ING provides a wide range of financial services including retail banking, corporate banking, insurance, and investments."
+        },
+        {
+            "question": "Who is the CEO of ING?",
+            "answer": "Steven van Rijswijk is the CEO of ING Groep N.V."
+        },
+        {
+            "question": "Where is ING headquartered?",
+            "answer": "ING is headquartered in Amsterdam, Netherlands."
+        },
+        {
+            "question": "When was ING founded?",
+            "answer": "ING was founded in 1991."
+        },
+        {
+            "question": "What is ING's commitment to sustainability?",
+            "answer": "ING is committed to sustainable finance and supports projects that contribute to environmental and social goals."
+        }
+    ],
+    "competitors": [
+        "DB",
+        "UBS",
+        "BNP",
+        "SAN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "V",
+        "JPM"
+    ]
+}

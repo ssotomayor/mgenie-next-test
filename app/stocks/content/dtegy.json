@@ -1,0 +1,87 @@
+{
+    "ticker": "DTEGY",
+    "name": "DTE Energy Company",
+    "description": "DTE Energy Company is a diversified energy company based in Detroit, Michigan, that provides electric and natural gas services to millions of customers in the United States. Founded in 1847, DTE Energy has evolved from a local gas provider into a comprehensive energy company with a focus on sustainable energy solutions. The company operates through two segments: Electric and Gas. DTE Electric serves over 2.2 million customers in Southeastern Michigan, while DTE Gas provides natural gas to approximately 1.3 million customers across the state. DTE Energy is committed to reducing its carbon footprint and has set ambitious goals to achieve net zero carbon emissions by 2050, investing heavily in renewable energy sources such as wind and solar power. The company is also involved in energy efficiency programs, helping customers reduce their energy consumption and costs. DTE Energy is known for its community engagement and support, offering various programs aimed at improving the quality of life in the areas it serves. As a leader in the energy sector, DTE Energy continues to innovate and adapt to the changing energy landscape while prioritizing environmental stewardship and sustainability.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Detroit, Michigan, USA",
+    "founded": "1847",
+    "website": "https://www.dteenergy.com",
+    "ceo": "Gerard M. Anderson",
+    "social_media": {
+        "twitter": "https://twitter.com/DTE_Energy",
+        "linkedin": "https://www.linkedin.com/company/dte-energy/",
+        "facebook": "https://www.facebook.com/DTEEnergy"
+    },
+    "investor_relations": "https://investors.dteenergy.com",
+    "key_executives": [
+        {
+            "name": "Gerard M. Anderson",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Matthew Paul",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Services",
+            "products": [
+                "Electricity Distribution",
+                "Renewable Energy Programs"
+            ]
+        },
+        {
+            "category": "Natural Gas Services",
+            "products": [
+                "Natural Gas Distribution",
+                "Energy Efficiency Programs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DTE Energy Company | Sustainable Energy Solutions",
+        "meta_description": "Explore DTE Energy Company, a leader in providing electric and natural gas services. Learn about their commitment to sustainability, renewable energy, and community support.",
+        "keywords": [
+            "DTE Energy",
+            "Utilities",
+            "Electric Services",
+            "Natural Gas",
+            "Renewable Energy",
+            "Energy Efficiency"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does DTE Energy provide?",
+            "answer": "DTE Energy provides electric and natural gas services to residential and commercial customers."
+        },
+        {
+            "question": "What is DTE Energy's commitment to sustainability?",
+            "answer": "DTE Energy aims to achieve net zero carbon emissions by 2050 and invests in renewable energy sources."
+        },
+        {
+            "question": "Where is DTE Energy headquartered?",
+            "answer": "DTE Energy is headquartered in Detroit, Michigan, USA."
+        },
+        {
+            "question": "When was DTE Energy founded?",
+            "answer": "DTE Energy was founded in 1847."
+        }
+    ],
+    "competitors": [
+        "CMS",
+        "ED",
+        "SO",
+        "XEL"
+    ],
+    "related_stocks": [
+        "AEP",
+        "DUK",
+        "NEE",
+        "EXC"
+    ]
+}

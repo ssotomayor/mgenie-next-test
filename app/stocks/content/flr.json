@@ -1,0 +1,89 @@
+{
+    "ticker": "FLR",
+    "name": "Fluor Corporation",
+    "description": "Fluor Corporation is a leading global engineering and construction firm that provides innovative solutions for complex projects across various industries, including oil and gas, industrial, infrastructure, and government sectors. Founded in 1912, Fluor has established a strong reputation for delivering high-quality services in engineering, procurement, construction, and project management. With a commitment to safety, sustainability, and integrity, the company has the expertise and resources to tackle some of the world's most challenging projects. Fluor operates in multiple countries and employs thousands of professionals who work collaboratively to meet the diverse needs of clients. The company's portfolio includes major projects in energy, mining, and infrastructure, highlighting its ability to adapt to changing market demands and technological advancements. Fluor's dedication to innovation is evident through its investments in digital technologies and sustainable practices, ensuring that projects not only meet current needs but also contribute positively to the environment and society. As a trusted partner, Fluor continues to shape the future of engineering and construction with a focus on excellence and client satisfaction.",
+    "industry": [
+        "Engineering",
+        "Construction",
+        "Project Management"
+    ],
+    "headquarters": "Irving, Texas, USA",
+    "founded": "1912",
+    "website": "https://www.fluor.com",
+    "ceo": "David Seaton",
+    "social_media": {
+        "twitter": "https://twitter.com/FluorCorp",
+        "linkedin": "https://www.linkedin.com/company/fluor-corporation",
+        "youtube": "https://www.youtube.com/user/FluorCorp"
+    },
+    "investor_relations": "https://investors.fluor.com",
+    "key_executives": [
+        {
+            "name": "David Seaton",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Terry M. Towle",
+            "position": "Chief Financial Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Engineering and Construction Services",
+            "services": [
+                "Project Management",
+                "Procurement",
+                "Construction"
+            ]
+        },
+        {
+            "category": "Professional Services",
+            "services": [
+                "Engineering",
+                "Consulting"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fluor Corporation | Global Engineering and Construction Services",
+        "meta_description": "Explore Fluor Corporation, a global leader in engineering and construction services. Learn about Fluor's projects, commitment to innovation, and leadership in sustainability.",
+        "keywords": [
+            "Fluor",
+            "Engineering",
+            "Construction",
+            "Project Management",
+            "Sustainability",
+            "Oil and Gas",
+            "Infrastructure"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Fluor provide?",
+            "answer": "Fluor provides engineering, procurement, construction, and project management services across various sectors."
+        },
+        {
+            "question": "Who is the CEO of Fluor Corporation?",
+            "answer": "David Seaton is the Chairman and CEO of Fluor Corporation."
+        },
+        {
+            "question": "Where is Fluor headquartered?",
+            "answer": "Fluor is headquartered in Irving, Texas, USA."
+        },
+        {
+            "question": "When was Fluor founded?",
+            "answer": "Fluor was founded in 1912."
+        }
+    ],
+    "competitors": [
+        "KBR",
+        "JEC",
+        "TRN"
+    ],
+    "related_stocks": [
+        "CAT",
+        "DE",
+        "URI",
+        "MMM"
+    ]
+}

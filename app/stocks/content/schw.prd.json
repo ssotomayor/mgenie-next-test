@@ -1,0 +1,94 @@
+{
+    "ticker": "SCHW.PRD",
+    "name": "Charles Schwab Corporation",
+    "description": "Charles Schwab Corporation is a leading financial services company that provides a wide range of investment and banking services. Founded in 1971 by Charles R. Schwab, the company revolutionized the brokerage industry by offering discount brokerage services and empowering individual investors with low-cost access to the stock market. Today, Schwab serves millions of clients, helping them manage their wealth through a robust platform that includes trading, investment advisory services, retirement planning, and banking products. With a commitment to client satisfaction, Schwab focuses on transparency, education, and technology to enhance the investment experience. The company also emphasizes a strong fiduciary standard, ensuring that it acts in the best interests of its clients. Schwab has expanded its offerings through strategic acquisitions, including the purchase of TD Ameritrade, further solidifying its position as a top player in the financial services sector. The company\u2019s mission is to champion every client\u2019s financial future, providing them with the tools and resources needed to achieve their financial goals.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "1971",
+    "website": "https://www.schwab.com",
+    "ceo": "Walt Bettinger",
+    "social_media": {
+        "twitter": "https://twitter.com/CharlesSchwab",
+        "linkedin": "https://www.linkedin.com/company/charles-schwab/",
+        "instagram": "https://www.instagram.com/charlesschwab/"
+    },
+    "investor_relations": "https://www.schwab.com/ir",
+    "key_executives": [
+        {
+            "name": "Walt Bettinger",
+            "position": "CEO"
+        },
+        {
+            "name": "Peter Crawford",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Brokerage Services",
+            "products": [
+                "Stock Trading",
+                "Options Trading",
+                "Mutual Funds"
+            ]
+        },
+        {
+            "category": "Investment Advice",
+            "products": [
+                "Financial Planning",
+                "Retirement Planning"
+            ]
+        },
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Charles Schwab Corporation | Investment and Banking Services",
+        "meta_description": "Explore Charles Schwab Corporation, a leader in financial services offering brokerage, investment, and banking solutions to empower individual investors.",
+        "keywords": [
+            "Charles Schwab",
+            "Brokerage Services",
+            "Investment Management",
+            "Financial Planning",
+            "Retirement Accounts"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Charles Schwab offer?",
+            "answer": "Charles Schwab offers brokerage, investment banking, financial planning, and retirement services."
+        },
+        {
+            "question": "Who is the CEO of Charles Schwab?",
+            "answer": "Walt Bettinger is the CEO of Charles Schwab Corporation."
+        },
+        {
+            "question": "Where is Charles Schwab headquartered?",
+            "answer": "Charles Schwab is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was Charles Schwab founded?",
+            "answer": "Charles Schwab was founded in 1971."
+        }
+    ],
+    "competitors": [
+        "AMTD",
+        "MS",
+        "GS",
+        "BLK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NFLX"
+    ]
+}

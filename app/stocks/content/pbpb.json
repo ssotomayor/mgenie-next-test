@@ -1,0 +1,94 @@
+{
+    "ticker": "PBPB",
+    "name": "Potbelly Corporation",
+    "description": "Potbelly Corporation is a fast-casual restaurant chain that specializes in serving made-to-order sandwiches, fresh salads, and bakery items in a cozy, community-oriented atmosphere. Founded in 1977 in Chicago, Illinois, Potbelly has grown from a single sandwich shop to a national brand with over 400 locations across the United States. The company is known for its commitment to high-quality ingredients, including freshly baked bread and locally sourced produce. Potbelly's menu features a variety of sandwiches, including their signature 'Wreck' sandwich, along with soups, salads, and hand-dipped milkshakes. The brand prides itself on providing a welcoming environment, often featuring local artwork and live music in its stores. Potbelly is also dedicated to community involvement and sustainability, engaging in various charitable initiatives and striving to reduce its environmental footprint through responsible sourcing and waste management practices. As the company continues to expand, it focuses on enhancing the customer experience through digital ordering platforms and loyalty programs, aiming to adapt to the evolving dining landscape while maintaining its unique brand identity.",
+    "industry": [
+        "Restaurant",
+        "Food and Beverage"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1977",
+    "website": "https://www.potbelly.com",
+    "ceo": "Bob Wright",
+    "social_media": {
+        "twitter": "https://twitter.com/Potbelly",
+        "linkedin": "https://www.linkedin.com/company/potbelly-corporation/",
+        "instagram": "https://www.instagram.com/potbelly/"
+    },
+    "investor_relations": "https://investors.potbelly.com",
+    "key_executives": [
+        {
+            "name": "Bob Wright",
+            "position": "CEO"
+        },
+        {
+            "name": "Alan Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Sandwiches",
+            "products": [
+                "The Wreck",
+                "Turkey Club",
+                "Mediterranean Veggie"
+            ]
+        },
+        {
+            "category": "Salads",
+            "products": [
+                "Chicken Salad",
+                "Potbelly Salad"
+            ]
+        },
+        {
+            "category": "Bakery Items",
+            "products": [
+                "Cookies",
+                "Brownies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Potbelly Corporation | Sandwiches, Salads, and More",
+        "meta_description": "Explore Potbelly Corporation, a fast-casual restaurant chain known for its delicious sandwiches and welcoming atmosphere. Learn more about our menu and community involvement.",
+        "keywords": [
+            "Potbelly",
+            "Sandwiches",
+            "Fast-Casual Restaurant",
+            "Salads",
+            "Bakery Items"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of food does Potbelly serve?",
+            "answer": "Potbelly serves made-to-order sandwiches, salads, and bakery items."
+        },
+        {
+            "question": "Where is Potbelly headquartered?",
+            "answer": "Potbelly is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "When was Potbelly founded?",
+            "answer": "Potbelly was founded in 1977."
+        },
+        {
+            "question": "What are some popular menu items at Potbelly?",
+            "answer": "Popular menu items include The Wreck sandwich, Turkey Club, and Chicken Salad."
+        }
+    ],
+    "competitors": [
+        "SUBW",
+        "CMG",
+        "DNKN",
+        "JACK"
+    ],
+    "related_stocks": [
+        "MCD",
+        "YUM",
+        "SBUX",
+        "DPZ"
+    ]
+}

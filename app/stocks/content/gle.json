@@ -1,0 +1,82 @@
+{
+    "ticker": "GLE",
+    "name": "Groupe Lala",
+    "description": "Groupe Lala is a prominent player in the dairy industry, headquartered in Casablanca, Morocco. Established in 1943, the company has grown to become a leading manufacturer and distributor of dairy products, including milk, yogurt, cheese, and butter. Groupe Lala is committed to quality and innovation, utilizing modern production processes and technology to ensure that its products meet the highest standards of safety and taste. The company has built a strong reputation for its flagship brand, Lala, which is synonymous with quality in Morocco and the broader North African region. With an emphasis on sustainability, Groupe Lala focuses on environmentally friendly practices in its production processes and supply chain management. The company actively engages in community initiatives and promotes a healthy lifestyle through its range of nutritious dairy products. Groupe Lala's mission is to provide consumers with fresh, high-quality dairy products while maintaining a commitment to corporate social responsibility and environmental stewardship. As a market leader, Groupe Lala continues to expand its product offerings and enhance its distribution network to meet growing consumer demand.",
+    "industry": [
+        "Dairy",
+        "Food & Beverage"
+    ],
+    "headquarters": "Casablanca, Morocco",
+    "founded": "1943",
+    "website": "https://www.grouplala.com",
+    "ceo": "Ali Lala",
+    "social_media": {
+        "twitter": "https://twitter.com/grouplala",
+        "linkedin": "https://www.linkedin.com/company/groupe-lala/"
+    },
+    "investor_relations": "https://www.grouplala.com/investors",
+    "key_executives": [
+        {
+            "name": "Ali Lala",
+            "position": "CEO"
+        },
+        {
+            "name": "Fatima Zahra El Mernissi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Dairy Products",
+            "products": [
+                "Milk",
+                "Yogurt",
+                "Cheese",
+                "Butter"
+            ]
+        },
+        {
+            "category": "Beverages",
+            "products": [
+                "Fruit Juices",
+                "Flavored Yogurt Drinks"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Groupe Lala | Leading Dairy Products Manufacturer in Morocco",
+        "meta_description": "Explore Groupe Lala, a top dairy products manufacturer in Morocco, offering high-quality milk, yogurt, cheese, and more. Committed to sustainability and innovation.",
+        "keywords": [
+            "Groupe Lala",
+            "Dairy Products",
+            "Milk",
+            "Yogurt",
+            "Cheese",
+            "Sustainable Dairy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Groupe Lala offer?",
+            "answer": "Groupe Lala offers a range of dairy products including milk, yogurt, cheese, and butter."
+        },
+        {
+            "question": "Where is Groupe Lala headquartered?",
+            "answer": "Groupe Lala is headquartered in Casablanca, Morocco."
+        },
+        {
+            "question": "When was Groupe Lala founded?",
+            "answer": "Groupe Lala was founded in 1943."
+        }
+    ],
+    "competitors": [
+        "DAN",
+        "PARS",
+        "NDA"
+    ],
+    "related_stocks": [
+        "CAG",
+        "KRFT",
+        "SJM"
+    ]
+}

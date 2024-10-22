@@ -1,0 +1,91 @@
+{
+    "ticker": "EBKDY",
+    "name": "Elekta AB",
+    "description": "Elekta AB is a leading global medical technology company that specializes in precision radiation medicine. Founded in 1972 in Sweden, Elekta designs and manufactures innovative solutions for the treatment of cancer and brain disorders, aiming to improve the lives of patients through advanced therapeutic tools. The company is renowned for its cutting-edge technologies, including linear accelerators, brachytherapy systems, and software solutions that facilitate personalized treatment plans. Elekta's flagship products, such as the Elekta Versa HD and the Monaco treatment planning system, are widely used in hospitals and clinics around the world. With an increasing focus on data-driven medicine, Elekta is also investing in artificial intelligence and machine learning to enhance treatment accuracy and outcomes. The company's mission is to make a meaningful difference in the lives of patients and healthcare providers by providing innovative solutions that improve cancer care delivery and efficiency. Elekta continues to expand its global footprint, collaborating with healthcare providers to optimize patient care and streamline workflows in oncology departments.",
+    "industry": [
+        "Medical Technology",
+        "Healthcare"
+    ],
+    "headquarters": "Stockholm, Sweden",
+    "founded": "1972",
+    "website": "https://www.elekta.com",
+    "ceo": "Gustaf Salford",
+    "social_media": {
+        "twitter": "https://twitter.com/Elekta",
+        "linkedin": "https://www.linkedin.com/company/elekta/",
+        "youtube": "https://www.youtube.com/user/ElektaCompany"
+    },
+    "investor_relations": "https://investors.elekta.com",
+    "key_executives": [
+        {
+            "name": "Gustaf Salford",
+            "position": "CEO"
+        },
+        {
+            "name": "Johan Adeb\u00e4ck",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Radiation Therapy",
+            "products": [
+                "Elekta Versa HD",
+                "Elekta Synergy",
+                "Leksell Gamma Knife"
+            ]
+        },
+        {
+            "category": "Treatment Planning Software",
+            "products": [
+                "Monaco",
+                "Leksell GammaPlan"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Elekta AB | Precision Radiation Medicine",
+        "meta_description": "Explore Elekta AB, a leader in precision radiation medicine. Discover innovative medical technologies and solutions for cancer treatment.",
+        "keywords": [
+            "Elekta",
+            "Radiation Therapy",
+            "Cancer Treatment",
+            "Medical Technology",
+            "Oncology",
+            "Healthcare Innovations"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Elekta specialize in?",
+            "answer": "Elekta specializes in precision radiation medicine, providing innovative solutions for cancer treatment."
+        },
+        {
+            "question": "Who is the CEO of Elekta?",
+            "answer": "Gustaf Salford is the CEO of Elekta AB."
+        },
+        {
+            "question": "Where is Elekta headquartered?",
+            "answer": "Elekta is headquartered in Stockholm, Sweden."
+        },
+        {
+            "question": "What are Elekta's main products?",
+            "answer": "Elekta's main products include radiation therapy systems and treatment planning software."
+        },
+        {
+            "question": "When was Elekta founded?",
+            "answer": "Elekta was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "MDT",
+        "VAR",
+        "ISRG"
+    ],
+    "related_stocks": [
+        "ABBV",
+        "JNJ",
+        "PFE",
+        "BMY"
+    ]
+}

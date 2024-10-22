@@ -1,0 +1,88 @@
+{
+    "ticker": "INOD",
+    "name": "Innodata Inc.",
+    "description": "Innodata Inc. is a leading provider of data management and data analytics solutions, specializing in the transformation of content into actionable insights. Founded in 1988, the company has evolved from a content services provider to a technology-driven organization that leverages artificial intelligence and machine learning to enhance data processing and analytics capabilities. Innodata serves a diverse clientele, including publishers, information services firms, and enterprises, providing solutions that help organizations manage vast amounts of data efficiently. Their services range from content creation and data enrichment to advanced analytics and digital transformation consulting. With a focus on innovation, Innodata continuously develops cutting-edge technologies that streamline data workflows, improve productivity, and drive business growth. The company's mission is to empower organizations to harness the power of data by delivering high-quality, scalable solutions tailored to meet the specific needs of their clients. Innodata's commitment to quality, technology, and customer success positions it as a trusted partner in the data-driven economy.",
+    "industry": [
+        "Data Management",
+        "Analytics",
+        "Technology"
+    ],
+    "headquarters": "Hackensack, New Jersey, USA",
+    "founded": "1988",
+    "website": "https://www.innodata.com",
+    "ceo": "Jack Abuhoff",
+    "social_media": {
+        "twitter": "https://twitter.com/innodata",
+        "linkedin": "https://www.linkedin.com/company/innodata"
+    },
+    "investor_relations": "https://www.innodata.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jack Abuhoff",
+            "position": "CEO"
+        },
+        {
+            "name": "M. Scott A. Kahn",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Management Services",
+            "products": [
+                "Content Creation",
+                "Data Enrichment",
+                "Data Processing"
+            ]
+        },
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Business Intelligence",
+                "Predictive Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Innodata Inc. | Data Management and Analytics Solutions",
+        "meta_description": "Explore Innodata Inc., a leader in data management and analytics solutions. Learn about our innovative services and how we can help your organization leverage data effectively.",
+        "keywords": [
+            "Innodata",
+            "Data Management",
+            "Analytics",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Processing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Innodata provide?",
+            "answer": "Innodata provides data management, data enrichment, content creation, and analytics solutions."
+        },
+        {
+            "question": "Who is the CEO of Innodata?",
+            "answer": "Jack Abuhoff is the CEO of Innodata Inc."
+        },
+        {
+            "question": "Where is Innodata headquartered?",
+            "answer": "Innodata is headquartered in Hackensack, New Jersey, USA."
+        },
+        {
+            "question": "When was Innodata founded?",
+            "answer": "Innodata was founded in 1988."
+        }
+    ],
+    "competitors": [
+        "CME",
+        "CARR",
+        "SYN",
+        "HURN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

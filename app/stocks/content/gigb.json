@@ -1,0 +1,93 @@
+{
+    "ticker": "GIGB",
+    "name": "Gigabyte Technologies, Inc.",
+    "description": "Gigabyte Technologies, Inc. is a global leader in the design and manufacturing of high-performance computer hardware and electronics. Established in 1986 and headquartered in Taipei, Taiwan, Gigabyte is renowned for its innovative solutions in the fields of consumer electronics, gaming, and enterprise technology. The company specializes in a wide range of products including motherboards, graphics cards, laptops, desktops, and peripherals, catering to both gaming enthusiasts and professional users. Gigabyte has gained a reputation for its cutting-edge technology, exceptional quality, and commitment to performance, making it a preferred choice for gamers and tech professionals alike. With a strong focus on research and development, Gigabyte continuously pushes the boundaries of technology, integrating the latest advancements such as AI, VR, and cloud computing into its product offerings. The company also emphasizes sustainability and is committed to reducing its environmental impact through energy-efficient designs and responsible manufacturing practices. Gigabyte's mission is to enhance the computing experience for users worldwide by providing innovative and reliable products that meet the demands of modern computing.",
+    "industry": [
+        "Computer Hardware",
+        "Electronics"
+    ],
+    "headquarters": "Taipei, Taiwan",
+    "founded": "1986",
+    "website": "https://www.gigabyte.com",
+    "ceo": "A. P. Hsu",
+    "social_media": {
+        "twitter": "https://twitter.com/GIGABYTE",
+        "linkedin": "https://www.linkedin.com/company/gigabyte-technology/"
+    },
+    "investor_relations": "https://www.gigabyte.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "A. P. Hsu",
+            "position": "CEO"
+        },
+        {
+            "name": "S. W. Lin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Motherboards",
+            "products": [
+                "AORUS Gaming Motherboards",
+                "Ultra Durable Motherboards"
+            ]
+        },
+        {
+            "category": "Graphics Cards",
+            "products": [
+                "AORUS Graphics Cards",
+                "GeForce RTX Series"
+            ]
+        },
+        {
+            "category": "Laptops",
+            "products": [
+                "AORUS Gaming Laptops",
+                "AERO Creative Laptops"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Gigabyte Technologies, Inc. | Leading Computer Hardware Manufacturer",
+        "meta_description": "Explore Gigabyte Technologies, Inc., a leader in high-performance computer hardware. Discover innovative products, company mission, and impact on the tech industry.",
+        "keywords": [
+            "Gigabyte",
+            "Computer Hardware",
+            "Gaming",
+            "Motherboards",
+            "Graphics Cards",
+            "Laptops"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Gigabyte offer?",
+            "answer": "Gigabyte offers a range of products including motherboards, graphics cards, laptops, desktops, and peripherals."
+        },
+        {
+            "question": "Where is Gigabyte headquartered?",
+            "answer": "Gigabyte is headquartered in Taipei, Taiwan."
+        },
+        {
+            "question": "Who is the CEO of Gigabyte?",
+            "answer": "A. P. Hsu is the CEO of Gigabyte Technologies, Inc."
+        },
+        {
+            "question": "When was Gigabyte founded?",
+            "answer": "Gigabyte was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "ASUS",
+        "MSI",
+        "EVGA",
+        "ASRock"
+    ],
+    "related_stocks": [
+        "INTC",
+        "AMD",
+        "NVDA",
+        "AAPL"
+    ]
+}

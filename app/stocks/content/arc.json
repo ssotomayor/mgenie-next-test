@@ -1,0 +1,80 @@
+{
+    "ticker": "ARC",
+    "name": "Arcadia",
+    "description": "Arcadia is a leading energy technology company focused on democratizing access to clean energy. Founded in 2014, Arcadia aims to simplify the transition to renewable energy for consumers and businesses alike by leveraging technology to provide innovative solutions. The company operates a platform that connects users to renewable energy sources and provides tools for managing energy consumption and costs. Through its subscription services, Arcadia enables customers to source clean energy from local solar and wind projects without requiring any hardware or installation. Arcadia also offers energy management solutions that empower users to monitor and reduce their energy usage, contributing to a more sustainable environment. With a mission to accelerate the adoption of renewable energy, Arcadia is committed to making clean energy accessible and affordable for all, while supporting the infrastructure needed to foster a sustainable energy future.",
+    "industry": [
+        "Energy Technology",
+        "Renewable Energy"
+    ],
+    "headquarters": "Washington, D.C., USA",
+    "founded": "2014",
+    "website": "https://arcadia.com",
+    "ceo": "Kiran Bhatraju",
+    "social_media": {
+        "twitter": "https://twitter.com/ArcadiaPower",
+        "linkedin": "https://www.linkedin.com/company/arcadia-power",
+        "facebook": "https://www.facebook.com/ArcadiaPower"
+    },
+    "investor_relations": "https://arcadia.com/investors",
+    "key_executives": [
+        {
+            "name": "Kiran Bhatraju",
+            "position": "CEO"
+        },
+        {
+            "name": "Jessica G. Hennings",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Renewable Energy Services",
+            "products": [
+                "Community Solar",
+                "Wind Energy",
+                "Energy Management App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Arcadia | Empowering Clean Energy Access",
+        "meta_description": "Discover Arcadia, a leader in energy technology that connects consumers to renewable energy solutions. Learn about our mission to democratize clean energy access.",
+        "keywords": [
+            "Arcadia",
+            "Clean Energy",
+            "Renewable Energy",
+            "Energy Technology",
+            "Community Solar",
+            "Energy Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Arcadia provide?",
+            "answer": "Arcadia provides access to community solar, wind energy, and energy management solutions for consumers."
+        },
+        {
+            "question": "Who is the CEO of Arcadia?",
+            "answer": "Kiran Bhatraju is the CEO of Arcadia."
+        },
+        {
+            "question": "Where is Arcadia headquartered?",
+            "answer": "Arcadia is headquartered in Washington, D.C., USA."
+        },
+        {
+            "question": "When was Arcadia founded?",
+            "answer": "Arcadia was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "NIO",
+        "PLUG",
+        "ENPH"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "NEE",
+        "SEDG",
+        "RUN"
+    ]
+}

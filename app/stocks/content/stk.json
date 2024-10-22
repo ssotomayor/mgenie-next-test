@@ -1,0 +1,97 @@
+{
+    "ticker": "STK",
+    "name": "Sutton Capital Inc.",
+    "description": "Sutton Capital Inc. is a diversified investment management firm focused on delivering innovative investment strategies and solutions to its clients. Founded in 2010, the company specializes in equity, fixed income, and alternative investments, catering to a wide range of institutional and individual investors. Sutton Capital is committed to achieving superior risk-adjusted returns through a disciplined investment process, rigorous research, and a long-term perspective. The firm operates with a strong emphasis on sustainability and responsible investing, seeking to integrate environmental, social, and governance (ESG) factors into its investment decisions. With a team of experienced professionals, Sutton Capital aims to provide its clients with personalized service and tailored investment strategies that align with their specific financial goals. The company's assets under management have grown significantly, reflecting its reputation for delivering consistent performance and maintaining strong client relationships. As part of its commitment to transparency and investor education, Sutton Capital regularly publishes insights and market commentary, helping investors navigate complex financial landscapes. The firm is headquartered in New York City and continues to expand its global reach, tapping into emerging markets and innovative sectors to enhance its investment offerings.",
+    "industry": [
+        "Investment Management",
+        "Finance"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2010",
+    "website": "https://www.suttoncapital.com",
+    "ceo": "Rachel Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/SuttonCapital",
+        "linkedin": "https://www.linkedin.com/company/sutton-capital/"
+    },
+    "investor_relations": "https://www.suttoncapital.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Rachel Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "James Brown",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Investments",
+            "products": [
+                "Large Cap Equity",
+                "Small Cap Equity"
+            ]
+        },
+        {
+            "category": "Fixed Income Investments",
+            "products": [
+                "Corporate Bonds",
+                "Municipal Bonds"
+            ]
+        },
+        {
+            "category": "Alternative Investments",
+            "products": [
+                "Hedge Funds",
+                "Private Equity"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sutton Capital Inc. | Innovative Investment Management Solutions",
+        "meta_description": "Explore Sutton Capital Inc., a leader in diversified investment management. Discover our commitment to sustainable investing and tailored financial strategies.",
+        "keywords": [
+            "Sutton Capital",
+            "Investment Management",
+            "Equity Investments",
+            "Fixed Income",
+            "Alternative Investments",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sutton Capital specialize in?",
+            "answer": "Sutton Capital specializes in equity, fixed income, and alternative investments."
+        },
+        {
+            "question": "Who is the CEO of Sutton Capital?",
+            "answer": "Rachel Smith is the CEO of Sutton Capital Inc."
+        },
+        {
+            "question": "Where is Sutton Capital headquartered?",
+            "answer": "Sutton Capital is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Sutton Capital's main investment products?",
+            "answer": "Sutton Capital's main products include Large Cap Equity, Small Cap Equity, Corporate Bonds, and Hedge Funds."
+        },
+        {
+            "question": "When was Sutton Capital founded?",
+            "answer": "Sutton Capital was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "TROW",
+        "VFIAX",
+        "APAM"
+    ],
+    "related_stocks": [
+        "GS",
+        "MS",
+        "JPM",
+        "BAC"
+    ]
+}

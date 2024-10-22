@@ -1,0 +1,95 @@
+{
+    "ticker": "BAC.PRE",
+    "name": "Bank of America Corporation",
+    "description": "Bank of America Corporation, often referred to as BofA, is one of the largest financial institutions in the United States and a global leader in wealth management, corporate banking, and investment services. Established in 1904 and headquartered in Charlotte, North Carolina, Bank of America serves approximately 66 million consumer and small business clients through a diverse range of financial products and services. The company operates in segments including Consumer Banking, Global Wealth and Investment Management, Global Banking, and Global Markets. BofA is known for its innovative digital banking solutions, providing robust online and mobile banking platforms that enhance customer experience. The bank is committed to responsible growth, focusing on sustainable finance, environmental stewardship, and community engagement. Through its various initiatives, Bank of America aims to drive economic progress while addressing social and environmental challenges. The company continually adapts to the evolving financial landscape, leveraging technology and data analytics to improve its services and operational efficiency. With a strong emphasis on diversity and inclusion within its workforce and client engagement, Bank of America actively seeks to promote a more equitable financial system.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.bankofamerica.com",
+    "ceo": "Brian Moynihan",
+    "social_media": {
+        "twitter": "https://twitter.com/BankofAmerica",
+        "linkedin": "https://www.linkedin.com/company/bank-of-america/",
+        "instagram": "https://www.instagram.com/bankofamerica/",
+        "youtube": "https://www.youtube.com/user/BankofAmerica"
+    },
+    "investor_relations": "https://investor.bankofamerica.com",
+    "key_executives": [
+        {
+            "name": "Brian Moynihan",
+            "position": "CEO"
+        },
+        {
+            "name": "Alba Garcia",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advisory",
+                "Retirement Planning"
+            ]
+        },
+        {
+            "category": "Corporate Banking",
+            "products": [
+                "Commercial Loans",
+                "Treasury Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bank of America Corporation | Financial Services and Banking Solutions",
+        "meta_description": "Explore Bank of America Corporation, a leader in financial services and banking solutions. Discover BofA's innovative products, commitment to sustainability, and community engagement.",
+        "keywords": [
+            "Bank of America",
+            "Financial Services",
+            "Banking",
+            "Wealth Management",
+            "Consumer Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Bank of America offer?",
+            "answer": "Bank of America offers a wide range of services including consumer banking, wealth management, corporate banking, and investment services."
+        },
+        {
+            "question": "Who is the CEO of Bank of America?",
+            "answer": "Brian Moynihan is the CEO of Bank of America."
+        },
+        {
+            "question": "Where is Bank of America headquartered?",
+            "answer": "Bank of America is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "When was Bank of America founded?",
+            "answer": "Bank of America was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "C",
+        "WFC",
+        "GS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

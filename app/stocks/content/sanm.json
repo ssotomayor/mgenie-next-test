@@ -1,0 +1,99 @@
+{
+    "ticker": "SANM",
+    "name": "Sanmina Corporation",
+    "description": "Sanmina Corporation is a leading integrated manufacturing solutions provider that delivers high-quality products and services to the world's most innovative companies. Founded in 1980 and headquartered in San Jose, California, Sanmina specializes in the design, manufacturing, and supply chain management of complex electronic and optical products. The company operates in various industries including communications, computing, industrial, defense and aerospace, medical technology, and automotive. Sanmina is known for its advanced manufacturing capabilities, including precision machining, printed circuit board assembly, and system integration. The company\u2019s commitment to innovation is reflected in its significant investment in R&D and state-of-the-art manufacturing facilities. With a global presence, Sanmina serves customers with a range of services from design and engineering to logistics and after-market support, ensuring that they remain competitive in their respective markets. Sanmina's dedication to sustainability and operational excellence positions it as a trusted partner for companies seeking to optimize their supply chains and enhance product quality.",
+    "industry": [
+        "Manufacturing",
+        "Electronics"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1980",
+    "website": "https://www.sanmina.com",
+    "ceo": "Jure Sola",
+    "social_media": {
+        "twitter": "https://twitter.com/SanminaCorp",
+        "linkedin": "https://www.linkedin.com/company/sanmina/"
+    },
+    "investor_relations": "https://investor.sanmina.com",
+    "key_executives": [
+        {
+            "name": "Jure Sola",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael E. Hurlston",
+            "position": "President and COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electronics Manufacturing Services",
+            "products": [
+                "PCB Assembly",
+                "System Integration",
+                "Supply Chain Management"
+            ]
+        },
+        {
+            "category": "Telecommunications",
+            "products": [
+                "Optical Networking Systems",
+                "Wireless Infrastructure"
+            ]
+        },
+        {
+            "category": "Medical Technology",
+            "products": [
+                "Medical Devices",
+                "Diagnostic Equipment"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sanmina Corporation | Integrated Manufacturing Solutions",
+        "meta_description": "Explore Sanmina Corporation, a leader in integrated manufacturing solutions. Learn about our commitment to innovation and quality in electronics manufacturing.",
+        "keywords": [
+            "Sanmina",
+            "Electronics Manufacturing",
+            "Integrated Solutions",
+            "Supply Chain Management",
+            "PCB Assembly",
+            "Telecommunications",
+            "Medical Devices"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sanmina specialize in?",
+            "answer": "Sanmina specializes in integrated manufacturing solutions for electronics, serving various industries including telecommunications, computing, and medical technology."
+        },
+        {
+            "question": "Who is the CEO of Sanmina?",
+            "answer": "Jure Sola is the CEO of Sanmina Corporation."
+        },
+        {
+            "question": "Where is Sanmina headquartered?",
+            "answer": "Sanmina is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What industries does Sanmina serve?",
+            "answer": "Sanmina serves industries such as communications, computing, industrial, defense and aerospace, medical technology, and automotive."
+        },
+        {
+            "question": "When was Sanmina founded?",
+            "answer": "Sanmina was founded in 1980."
+        }
+    ],
+    "competitors": [
+        "TTMI",
+        "NPI",
+        "FLEX",
+        "JCI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

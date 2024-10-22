@@ -1,0 +1,102 @@
+{
+    "ticker": "NATL",
+    "name": "National Bank of Canada",
+    "description": "National Bank of Canada is a leading financial institution in Canada, providing a wide range of banking and financial services to individuals, businesses, and institutions. Founded in 1859 and headquartered in Montreal, Quebec, the bank has grown to become one of the largest banks in the country, with a strong presence in retail banking, wealth management, and capital markets. National Bank offers a variety of services, including personal and commercial banking, investment solutions, and insurance products. The bank is recognized for its customer-centric approach and commitment to innovation, leveraging technology to enhance the banking experience. National Bank also plays a significant role in the communities it serves, investing in social and economic initiatives to support local development. With a focus on responsible banking, the institution is dedicated to sustainable practices and contributing positively to society. The bank's mission is to empower its clients to achieve their financial goals while fostering a culture of integrity and excellence within the organization.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1859",
+    "website": "https://www.nbc.ca",
+    "ceo": "Luca De Napoli",
+    "social_media": {
+        "twitter": "https://twitter.com/NatBank",
+        "linkedin": "https://www.linkedin.com/company/national-bank-of-canada/"
+    },
+    "investor_relations": "https://www.nbc.ca/en/investors.html",
+    "key_executives": [
+        {
+            "name": "Luca De Napoli",
+            "position": "CEO"
+        },
+        {
+            "name": "Jean-Baptiste Nizet",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Accounts",
+                "Loans",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Funds",
+                "Retirement Planning"
+            ]
+        },
+        {
+            "category": "Capital Markets",
+            "products": [
+                "Equity Trading",
+                "Debt Financing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "National Bank of Canada | Banking and Financial Services",
+        "meta_description": "Explore National Bank of Canada, a leading financial institution offering personal, business, and wealth management services. Learn about our commitment to innovation and community.",
+        "keywords": [
+            "National Bank of Canada",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Montreal",
+            "Investment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does National Bank of Canada offer?",
+            "answer": "National Bank offers a wide range of services including personal banking, business banking, wealth management, and capital markets."
+        },
+        {
+            "question": "Where is National Bank of Canada headquartered?",
+            "answer": "National Bank is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "When was National Bank of Canada founded?",
+            "answer": "National Bank was founded in 1859."
+        },
+        {
+            "question": "Who is the CEO of National Bank of Canada?",
+            "answer": "Luca De Napoli is the CEO of National Bank of Canada."
+        }
+    ],
+    "competitors": [
+        "RY",
+        "TD",
+        "BMO",
+        "CM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

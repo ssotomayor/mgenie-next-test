@@ -1,0 +1,95 @@
+{
+    "ticker": "EIRL",
+    "name": "Eircom Limited",
+    "description": "Eircom Limited, operating under the brand Eir, is a leading telecommunications provider in Ireland, offering a comprehensive range of services to residential and business customers. Established in 1984, Eir has evolved from a state-owned enterprise to a key player in the competitive telecommunications market. The company provides high-speed broadband, mobile services, and fixed-line telephony, focusing on enhancing connectivity and digital experiences for its customers. Eir is dedicated to investing in the latest technologies, including fiber-optic networks and 5G mobile services, to deliver faster and more reliable internet access. With a commitment to customer service and innovation, Eir strives to meet the growing demands of the digital age while supporting economic growth and development in Ireland. The company also emphasizes sustainability initiatives, aiming to minimize its environmental impact through energy-efficient practices and responsible resource management. Eir's mission is to empower individuals and businesses by providing robust communication solutions that enable them to thrive in an increasingly connected world.",
+    "industry": [
+        "Telecommunications",
+        "Technology"
+    ],
+    "headquarters": "Dublin, Ireland",
+    "founded": "1984",
+    "website": "https://www.eir.ie",
+    "ceo": "Carolan Lennon",
+    "social_media": {
+        "twitter": "https://twitter.com/Eir",
+        "linkedin": "https://www.linkedin.com/company/eir/"
+    },
+    "investor_relations": "https://www.eir.ie/investors/",
+    "key_executives": [
+        {
+            "name": "Carolan Lennon",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard Moat",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Broadband Services",
+            "products": [
+                "Fibre Broadband",
+                "DSL Broadband"
+            ]
+        },
+        {
+            "category": "Mobile Services",
+            "products": [
+                "Mobile Plans",
+                "Prepaid SIM Cards"
+            ]
+        },
+        {
+            "category": "Fixed-Line Services",
+            "products": [
+                "Home Phone Plans",
+                "Business Telephony Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eircom Limited | Leading Telecommunications Provider in Ireland",
+        "meta_description": "Explore Eircom Limited, Ireland's leading telecom provider offering broadband, mobile, and fixed-line services. Learn about Eir's commitment to innovation and sustainability.",
+        "keywords": [
+            "Eircom",
+            "Telecommunications",
+            "Broadband",
+            "Mobile Services",
+            "Digital Connectivity",
+            "Ireland Telecom"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Eircom provide?",
+            "answer": "Eircom provides broadband, mobile services, and fixed-line telephony for residential and business customers."
+        },
+        {
+            "question": "Who is the CEO of Eircom?",
+            "answer": "Carolan Lennon is the CEO of Eircom Limited."
+        },
+        {
+            "question": "Where is Eircom headquartered?",
+            "answer": "Eircom is headquartered in Dublin, Ireland."
+        },
+        {
+            "question": "What are Eircom's main products?",
+            "answer": "Eircom's main products include Fibre Broadband, Mobile Plans, and Home Phone Plans."
+        },
+        {
+            "question": "When was Eircom founded?",
+            "answer": "Eircom was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "VOD",
+        "DTEGY",
+        "TMUS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

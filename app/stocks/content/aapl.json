@@ -1,0 +1,115 @@
+{
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "description": "Apple Inc. is a global leader in technology and consumer electronics, renowned for its innovative products and services. Founded in 1976 by Steve Jobs, Steve Wozniak, and Ronald Wayne, Apple revolutionized the personal computing industry with the introduction of the Apple I and later the Macintosh. Over the decades, Apple has expanded its product lineup to include iconic devices such as the iPhone, iPad, Mac, Apple Watch, and Apple TV. The company is also known for its software ecosystems, including iOS, macOS, watchOS, and tvOS, as well as services like the App Store, Apple Music, iCloud, and Apple Pay. Apple's commitment to quality, user experience, and design excellence has fostered a loyal customer base and a strong brand identity. With a focus on privacy, security, and sustainability, Apple has consistently prioritized environmental responsibility through initiatives like using recycled materials in products and aiming to be carbon neutral by 2030. The company's mission is to bring the best user experience to customers through its innovative hardware, software, and services, making technology accessible and enjoyable for everyone.",
+    "industry": [
+        "Technology",
+        "Consumer Electronics"
+    ],
+    "headquarters": "Cupertino, California, USA",
+    "founded": "1976",
+    "website": "https://www.apple.com",
+    "ceo": "Tim Cook",
+    "social_media": {
+        "twitter": "https://twitter.com/Apple",
+        "linkedin": "https://www.linkedin.com/company/apple/"
+    },
+    "investor_relations": "https://investor.apple.com",
+    "key_executives": [
+        {
+            "name": "Tim Cook",
+            "position": "CEO"
+        },
+        {
+            "name": "Luca Maestri",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Smartphones",
+            "products": [
+                "iPhone",
+                "iPhone SE"
+            ]
+        },
+        {
+            "category": "Computers",
+            "products": [
+                "MacBook Air",
+                "MacBook Pro",
+                "iMac"
+            ]
+        },
+        {
+            "category": "Tablets",
+            "products": [
+                "iPad",
+                "iPad Air",
+                "iPad Pro"
+            ]
+        },
+        {
+            "category": "Wearables",
+            "products": [
+                "Apple Watch",
+                "AirPods"
+            ]
+        },
+        {
+            "category": "Services",
+            "products": [
+                "Apple Music",
+                "Apple TV+",
+                "iCloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Apple Inc. | Innovating Technology and Consumer Electronics",
+        "meta_description": "Explore Apple Inc., a leader in technology and consumer electronics, known for innovative products such as the iPhone, Mac, and Apple Watch. Discover Apple's commitment to sustainability and user experience.",
+        "keywords": [
+            "Apple",
+            "iPhone",
+            "Mac",
+            "Apple Watch",
+            "iPad",
+            "Technology",
+            "Consumer Electronics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Apple known for?",
+            "answer": "Apple is known for its innovative technology products, including the iPhone, iPad, Mac, and Apple Watch."
+        },
+        {
+            "question": "Who is the CEO of Apple?",
+            "answer": "Tim Cook is the CEO of Apple Inc."
+        },
+        {
+            "question": "Where is Apple headquartered?",
+            "answer": "Apple is headquartered in Cupertino, California, USA."
+        },
+        {
+            "question": "What are Apple's main products?",
+            "answer": "Apple's main products include the iPhone, iPad, Mac, Apple Watch, and various services like Apple Music and iCloud."
+        },
+        {
+            "question": "When was Apple founded?",
+            "answer": "Apple was founded in 1976."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "NFLX",
+        "NVDA",
+        "ADBE"
+    ]
+}

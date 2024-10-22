@@ -1,0 +1,93 @@
+{
+    "ticker": "SERV",
+    "name": "Service Corporation International",
+    "description": "Service Corporation International (SCI) is the largest provider of funeral and cemetery services in North America. Founded in 1962, SCI operates more than 1,500 funeral homes and 500 cemeteries across the United States and Canada. The company is dedicated to providing meaningful funeral and memorial services to families at their time of need. SCI's portfolio includes various brands and service offerings, from traditional funerals to direct cremations and memorial services. The company emphasizes the importance of pre-planning and offers a range of options for families to ensure their wishes are honored. In addition to its funeral services, SCI manages a variety of cemeteries that provide options for burial, mausoleum entombment, and cremation memorialization. With a focus on compassion, integrity, and customer service, SCI is committed to helping families celebrate the lives of their loved ones while navigating the complexities of end-of-life arrangements. The company continually seeks to improve its services through technology and innovation, ensuring that families receive the highest level of care and support during difficult times.",
+    "industry": [
+        "Funeral Services",
+        "Cemetery Services"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1962",
+    "website": "https://www.sci-corp.com",
+    "ceo": "Thomas L. Ryan",
+    "social_media": {
+        "twitter": "https://twitter.com/SCI_Corp",
+        "linkedin": "https://www.linkedin.com/company/service-corporation-international/"
+    },
+    "investor_relations": "https://investors.sci-corp.com",
+    "key_executives": [
+        {
+            "name": "Thomas L. Ryan",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric J. Tanzberger",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/eric-tanzberger-1b8b3a14/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Funeral Services",
+            "products": [
+                "Traditional Funerals",
+                "Cremation Services",
+                "Memorial Services"
+            ]
+        },
+        {
+            "category": "Cemetery Services",
+            "products": [
+                "Burial Options",
+                "Mausoleum Entombment",
+                "Cremation Memorialization"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Service Corporation International | Funeral and Cemetery Services",
+        "meta_description": "Explore Service Corporation International, the largest provider of funeral and cemetery services in North America. Discover our compassionate care and innovative solutions for end-of-life arrangements.",
+        "keywords": [
+            "Service Corporation International",
+            "Funeral Services",
+            "Cemetery Services",
+            "Pre-Planning",
+            "Memorial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Service Corporation International provide?",
+            "answer": "SCI provides funeral services, cemetery services, and pre-planning options for families."
+        },
+        {
+            "question": "Who is the CEO of Service Corporation International?",
+            "answer": "The CEO of SCI is Thomas L. Ryan."
+        },
+        {
+            "question": "Where is Service Corporation International headquartered?",
+            "answer": "SCI is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "How many funeral homes does SCI operate?",
+            "answer": "SCI operates over 1,500 funeral homes across North America."
+        },
+        {
+            "question": "When was Service Corporation International founded?",
+            "answer": "SCI was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "CARV",
+        "CEM",
+        "DIGN"
+    ],
+    "related_stocks": [
+        "FDX",
+        "WMT",
+        "AMZN",
+        "TGT"
+    ]
+}

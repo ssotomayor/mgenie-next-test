@@ -1,0 +1,91 @@
+{
+    "ticker": "CAN",
+    "name": "Canaan Inc.",
+    "description": "Canaan Inc. is a leading provider of high-performance computing solutions, primarily known for its role in the cryptocurrency mining industry. Founded in 2013 and headquartered in Hangzhou, China, Canaan specializes in the design and manufacture of ASIC (Application-Specific Integrated Circuit) hardware for Bitcoin mining. Their flagship product, the AvalonMiner series, is renowned for its efficiency and performance, catering to both individual miners and large-scale mining operations. Beyond mining hardware, Canaan is actively exploring innovations in artificial intelligence (AI) and blockchain technology, positioning itself as a key player in the digital economy. The company is committed to ensuring sustainability in the mining sector by developing more energy-efficient technologies and contributing to the overall advancement of the cryptocurrency ecosystem. Canaan's mission is to empower users with the tools necessary to harness the power of blockchain and digital currencies, while fostering a more sustainable and efficient mining environment.",
+    "industry": [
+        "Technology",
+        "Cryptocurrency",
+        "Hardware"
+    ],
+    "headquarters": "Hangzhou, China",
+    "founded": "2013",
+    "website": "https://www.canaan.io",
+    "ceo": "Nangeng Zhang",
+    "social_media": {
+        "twitter": "https://twitter.com/CanaanCreative",
+        "linkedin": "https://www.linkedin.com/company/canaan-creative/"
+    },
+    "investor_relations": "https://ir.canaan.io",
+    "key_executives": [
+        {
+            "name": "Nangeng Zhang",
+            "position": "CEO"
+        },
+        {
+            "name": "Yinbo Wang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mining Hardware",
+            "products": [
+                "AvalonMiner 1246",
+                "AvalonMiner 1166"
+            ]
+        },
+        {
+            "category": "AI Solutions",
+            "products": [
+                "AI Chipsets",
+                "AI Computing Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Canaan Inc. | Leading Cryptocurrency Mining Solutions",
+        "meta_description": "Discover Canaan Inc., a leader in high-performance computing and cryptocurrency mining hardware. Explore our innovative products and commitment to sustainability.",
+        "keywords": [
+            "Canaan",
+            "Cryptocurrency Mining",
+            "ASIC Hardware",
+            "AvalonMiner",
+            "Blockchain Technology",
+            "AI Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Canaan specialize in?",
+            "answer": "Canaan specializes in high-performance computing solutions, particularly in the cryptocurrency mining industry."
+        },
+        {
+            "question": "Who is the CEO of Canaan?",
+            "answer": "Nangeng Zhang is the CEO of Canaan Inc."
+        },
+        {
+            "question": "Where is Canaan headquartered?",
+            "answer": "Canaan is headquartered in Hangzhou, China."
+        },
+        {
+            "question": "What are Canaan's main products?",
+            "answer": "Canaan's main products include the AvalonMiner series and various AI computing solutions."
+        },
+        {
+            "question": "When was Canaan founded?",
+            "answer": "Canaan was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "BITF",
+        "RIOT",
+        "HUT",
+        "MAR"
+    ],
+    "related_stocks": [
+        "NVDA",
+        "AMD",
+        "INTC",
+        "TSM"
+    ]
+}

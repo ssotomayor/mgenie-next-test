@@ -1,0 +1,94 @@
+{
+    "ticker": "IBMR",
+    "name": "IBM Research",
+    "description": "IBM Research is the research and development arm of International Business Machines Corporation (IBM), focusing on advancing technology and innovation across various domains. Established in the early 20th century, IBM Research has been at the forefront of several groundbreaking advancements including computing, artificial intelligence, quantum computing, and cloud technologies. The organization employs some of the world\u2019s most brilliant minds in computer science and engineering, dedicated to solving complex global challenges and fostering innovation. IBM Research aims to create technologies that not only enhance business performance but also improve everyday life, emphasizing sustainability and ethical AI practices. Notable projects include the development of IBM Watson, a cognitive computing system that has transformed industries such as healthcare, finance, and customer service. Furthermore, IBM Research is pioneering work in quantum computing, with the IBM Quantum Experience enabling researchers and developers to explore quantum algorithms and applications. Their commitment to open collaboration and partnership with academia, industry, and government further accelerates the pace of innovation. As part of IBM's mission to lead in the new era of technology, IBM Research continues to push the boundaries of what is possible and contribute to a smarter, more connected world.",
+    "industry": [
+        "Technology",
+        "Research and Development"
+    ],
+    "headquarters": "Yorktown Heights, New York, USA",
+    "founded": "1945",
+    "website": "https://www.research.ibm.com",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBMResearch",
+        "linkedin": "https://www.linkedin.com/company/ibm-research/"
+    },
+    "investor_relations": "https://www.ibm.com/investors",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "Dario Gil",
+            "position": "SVP and Director of IBM Research"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "IBM Watson"
+            ]
+        },
+        {
+            "category": "Quantum Computing",
+            "products": [
+                "IBM Quantum Experience"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "IBM Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IBM Research | Leading Innovation in Technology",
+        "meta_description": "Explore IBM Research, the R&D arm of IBM, dedicated to advancing technology in AI, quantum computing, and more. Discover groundbreaking innovations for a smarter future.",
+        "keywords": [
+            "IBM Research",
+            "Artificial Intelligence",
+            "Quantum Computing",
+            "Cloud Computing",
+            "Innovation",
+            "IBM Watson"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IBM Research known for?",
+            "answer": "IBM Research is known for its advancements in artificial intelligence, quantum computing, and cloud technologies."
+        },
+        {
+            "question": "Who is the CEO of IBM?",
+            "answer": "Arvind Krishna is the CEO of IBM."
+        },
+        {
+            "question": "Where is IBM Research headquartered?",
+            "answer": "IBM Research is headquartered in Yorktown Heights, New York, USA."
+        },
+        {
+            "question": "What are the main projects of IBM Research?",
+            "answer": "Main projects include IBM Watson for AI and the IBM Quantum Experience for quantum computing."
+        },
+        {
+            "question": "When was IBM Research founded?",
+            "answer": "IBM Research was founded in 1945."
+        }
+    ],
+    "competitors": [
+        "GOOGL",
+        "MSFT",
+        "ORCL",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "FB",
+        "NFLX"
+    ]
+}

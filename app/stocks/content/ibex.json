@@ -1,0 +1,88 @@
+{
+    "ticker": "IBEX",
+    "name": "IBEX Holdings Limited",
+    "description": "IBEX Holdings Limited is a global leader in the business process outsourcing (BPO) industry, specializing in providing high-quality customer engagement services. Founded in 2002, IBEX has established itself as a trusted partner for numerous Fortune 500 companies across various sectors, including telecommunications, healthcare, and technology. With a strong commitment to delivering exceptional customer experiences, IBEX employs a diverse and talented workforce equipped with the latest technologies and training. The company operates multiple delivery centers in key locations worldwide, including the United States, Central America, and South Asia, allowing it to provide 24/7 support and scalability to meet the needs of its clients. IBEX leverages advanced analytics and artificial intelligence to enhance service delivery and drive operational efficiency, ensuring that clients receive not only cost-effective solutions but also strategic insights to improve their business outcomes. With a focus on continuous improvement and innovation, IBEX is dedicated to helping its clients navigate the complexities of customer engagement in an ever-evolving market landscape.",
+    "industry": [
+        "Business Process Outsourcing",
+        "Customer Service"
+    ],
+    "headquarters": "Washington, D.C., USA",
+    "founded": "2002",
+    "website": "https://www.ibex.co",
+    "ceo": "Bob Dechant",
+    "social_media": {
+        "twitter": "https://twitter.com/ibexglobal",
+        "linkedin": "https://www.linkedin.com/company/ibexglobal",
+        "facebook": "https://www.facebook.com/ibexglobal"
+    },
+    "investor_relations": "https://investors.ibex.co",
+    "key_executives": [
+        {
+            "name": "Bob Dechant",
+            "position": "CEO"
+        },
+        {
+            "name": "Sharon H. Choe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Customer Engagement",
+            "products": [
+                "Call Center Services",
+                "Technical Support",
+                "Sales Support"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "Chatbot Services",
+                "Customer Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IBEX Holdings Limited | Global Leader in BPO Services",
+        "meta_description": "Explore IBEX Holdings Limited, a leading provider of business process outsourcing solutions. Learn about our innovative customer engagement services and commitment to excellence.",
+        "keywords": [
+            "IBEX",
+            "BPO",
+            "Customer Engagement",
+            "Outsourcing Services",
+            "Call Center",
+            "Customer Support"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does IBEX provide?",
+            "answer": "IBEX provides business process outsourcing services including call center support, technical support, and sales support."
+        },
+        {
+            "question": "Who is the CEO of IBEX?",
+            "answer": "Bob Dechant is the CEO of IBEX Holdings Limited."
+        },
+        {
+            "question": "Where is IBEX headquartered?",
+            "answer": "IBEX is headquartered in Washington, D.C., USA."
+        },
+        {
+            "question": "When was IBEX founded?",
+            "answer": "IBEX was founded in 2002."
+        }
+    ],
+    "competitors": [
+        "TTEC",
+        "SYKES",
+        "HCL",
+        "CZR"
+    ],
+    "related_stocks": [
+        "CRM",
+        "ADBE",
+        "NOW",
+        "MSFT"
+    ]
+}

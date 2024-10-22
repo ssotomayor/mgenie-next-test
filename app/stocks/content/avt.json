@@ -1,0 +1,92 @@
+{
+    "ticker": "AVT",
+    "name": "Avnet, Inc.",
+    "description": "Avnet, Inc. is a global leader in electronic components and enterprise computing solutions, providing a comprehensive suite of products and services to support the technology ecosystem. Founded in 1921 and headquartered in Phoenix, Arizona, Avnet operates in over 70 countries, serving customers in various industries including aerospace, automotive, industrial, and healthcare. The company plays a pivotal role in the supply chain, offering a wide range of electronic components such as semiconductors, interconnects, passives, and electromechanical devices. Avnet also provides design chain services, helping customers accelerate their product development processes through innovative engineering and logistics solutions. In recent years, Avnet has expanded its focus on emerging technologies, including IoT, artificial intelligence, and cloud computing, to assist clients in navigating the digital transformation landscape. With a commitment to sustainability and corporate responsibility, Avnet aims to create a positive impact in the communities it operates in while driving technological advancements. The company's mission is to deliver unmatched value to its partners by connecting them with the right technology and expertise to foster innovation and growth.",
+    "industry": [
+        "Electronics",
+        "Technology"
+    ],
+    "headquarters": "Phoenix, Arizona, USA",
+    "founded": "1921",
+    "website": "https://www.avnet.com",
+    "ceo": "Phil Gallagher",
+    "social_media": {
+        "twitter": "https://twitter.com/Avnet",
+        "linkedin": "https://www.linkedin.com/company/avnet/"
+    },
+    "investor_relations": "https://investor.avnet.com",
+    "key_executives": [
+        {
+            "name": "Phil Gallagher",
+            "position": "CEO"
+        },
+        {
+            "name": "Kevin Moriarty",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electronic Components",
+            "products": [
+                "Semiconductors",
+                "Interconnects",
+                "Passives",
+                "Electromechanical Devices"
+            ]
+        },
+        {
+            "category": "Design Chain Services",
+            "products": [
+                "Engineering Services",
+                "Logistics Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Avnet, Inc. | Leading Electronic Components and Solutions Provider",
+        "meta_description": "Explore Avnet, Inc., a global leader in electronic components and enterprise computing solutions. Learn about our innovative products and services.",
+        "keywords": [
+            "Avnet",
+            "Electronic Components",
+            "Supply Chain",
+            "Technology Solutions",
+            "IoT",
+            "AI"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Avnet do?",
+            "answer": "Avnet is a global distributor of electronic components and provides design chain services to support technology development."
+        },
+        {
+            "question": "Who is the CEO of Avnet?",
+            "answer": "Phil Gallagher is the CEO of Avnet, Inc."
+        },
+        {
+            "question": "Where is Avnet headquartered?",
+            "answer": "Avnet is headquartered in Phoenix, Arizona, USA."
+        },
+        {
+            "question": "What are Avnet's main products?",
+            "answer": "Avnet's main products include semiconductors, interconnects, passives, and electromechanical devices."
+        },
+        {
+            "question": "When was Avnet founded?",
+            "answer": "Avnet was founded in 1921."
+        }
+    ],
+    "competitors": [
+        "TTMI",
+        "FLEX",
+        "WCC",
+        "MCHP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

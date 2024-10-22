@@ -1,0 +1,106 @@
+{
+    "ticker": "MINN",
+    "name": "Minnesota Mining and Manufacturing Company (3M)",
+    "description": "The Minnesota Mining and Manufacturing Company, commonly known as 3M, is a diversified technology and manufacturing company with a global presence. Founded in 1902, 3M is headquartered in St. Paul, Minnesota, and operates in more than 70 countries worldwide. The company is renowned for its commitment to innovation, producing a wide range of products across various industries, including healthcare, consumer goods, electronics, and industrial applications. With a robust portfolio of over 60,000 products, 3M leverages science and technology to create solutions that improve lives and support sustainability. Notable products include Post-it Notes, Scotch Tape, and a variety of personal protective equipment (PPE) used in healthcare and industry. 3M is also a leader in adhesive technology and has made significant advancements in the fields of medical devices and environmental solutions. The company's strong focus on research and development drives its ability to address complex challenges and meet the evolving needs of its customers. 3M's mission is to apply science to life, and it continues to foster a culture of innovation that not only enhances its product offerings but also contributes to global sustainability efforts.",
+    "industry": [
+        "Manufacturing",
+        "Technology",
+        "Healthcare",
+        "Consumer Goods"
+    ],
+    "headquarters": "St. Paul, Minnesota, USA",
+    "founded": "1902",
+    "website": "https://www.3m.com",
+    "ceo": "Mike Roman",
+    "social_media": {
+        "twitter": "https://twitter.com/3M",
+        "linkedin": "https://www.linkedin.com/company/3m"
+    },
+    "investor_relations": "https://investors.3m.com",
+    "key_executives": [
+        {
+            "name": "Mike Roman",
+            "position": "CEO"
+        },
+        {
+            "name": "Monish Patolawala",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Healthcare",
+            "products": [
+                "Medical Devices",
+                "Personal Protective Equipment"
+            ]
+        },
+        {
+            "category": "Consumer Products",
+            "products": [
+                "Post-it Notes",
+                "Scotch Tape"
+            ]
+        },
+        {
+            "category": "Industrial",
+            "products": [
+                "Adhesives",
+                "Abrasives"
+            ]
+        },
+        {
+            "category": "Electronics",
+            "products": [
+                "Display Materials",
+                "Electrical Insulation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "3M Company | Innovation and Technology Leader",
+        "meta_description": "Discover 3M, a global leader in innovation and technology, providing solutions in healthcare, consumer goods, electronics, and more.",
+        "keywords": [
+            "3M",
+            "Innovation",
+            "Manufacturing",
+            "Healthcare",
+            "Consumer Products",
+            "Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does 3M specialize in?",
+            "answer": "3M specializes in diversified technology and manufacturing, producing a wide range of products across multiple industries."
+        },
+        {
+            "question": "Who is the CEO of 3M?",
+            "answer": "Mike Roman is the CEO of Minnesota Mining and Manufacturing Company (3M)."
+        },
+        {
+            "question": "Where is 3M headquartered?",
+            "answer": "3M is headquartered in St. Paul, Minnesota, USA."
+        },
+        {
+            "question": "What are some of 3M's well-known products?",
+            "answer": "Some of 3M's well-known products include Post-it Notes, Scotch Tape, and various medical devices."
+        },
+        {
+            "question": "When was 3M founded?",
+            "answer": "3M was founded in 1902."
+        }
+    ],
+    "competitors": [
+        "HON",
+        "GE",
+        "AIS",
+        "PKG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "JNJ",
+        "PG"
+    ]
+}

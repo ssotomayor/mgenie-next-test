@@ -1,0 +1,97 @@
+{
+    "ticker": "LANV.WS",
+    "name": "Lanvin Group",
+    "description": "Lanvin Group is a luxury fashion and lifestyle company that focuses on creating exquisite apparel, accessories, and fragrances. Established with a rich heritage rooted in the iconic Lanvin brand, the company aims to redefine contemporary luxury through innovation and creativity. Founded in 1889 by Jeanne Lanvin, the brand is one of the oldest French fashion houses and is celebrated for its distinctive style that blends timeless elegance with modern sensibilities. The company offers a range of products including haute couture, ready-to-wear collections, handbags, and footwear, catering to a discerning clientele that values craftsmanship and artistry. Lanvin Group is committed to sustainable practices and aims to minimize its environmental footprint while embracing social responsibility. The brand's mission is to inspire confidence and individuality in its customers, making each piece not just a fashion statement, but a personal expression. With a focus on expanding its global footprint, Lanvin Group continues to innovate in design and marketing, aiming to attract a new generation of luxury consumers while maintaining its prestigious legacy.",
+    "industry": [
+        "Fashion",
+        "Luxury Goods"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1889",
+    "website": "https://www.lanvin.com",
+    "ceo": "Joann Cheng",
+    "social_media": {
+        "instagram": "https://www.instagram.com/lanvinofficial",
+        "twitter": "https://twitter.com/lanvinofficial",
+        "facebook": "https://www.facebook.com/lanvin"
+    },
+    "investor_relations": "https://www.lanvin.com/investors",
+    "key_executives": [
+        {
+            "name": "Joann Cheng",
+            "position": "CEO"
+        },
+        {
+            "name": "Bruno Sialelli",
+            "position": "Creative Director"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Apparel",
+            "products": [
+                "Haute Couture",
+                "Ready-to-Wear"
+            ]
+        },
+        {
+            "category": "Accessories",
+            "products": [
+                "Handbags",
+                "Footwear"
+            ]
+        },
+        {
+            "category": "Fragrances",
+            "products": [
+                "Women's Fragrances",
+                "Men's Fragrances"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lanvin Group | Luxury Fashion and Lifestyle Brand",
+        "meta_description": "Explore Lanvin Group, a prestigious luxury fashion house with a rich heritage and a commitment to innovation and sustainability. Discover our exquisite collections.",
+        "keywords": [
+            "Lanvin",
+            "Luxury Fashion",
+            "Haute Couture",
+            "Sustainable Fashion",
+            "Jeanne Lanvin"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Lanvin known for?",
+            "answer": "Lanvin is known for its luxury apparel, haute couture, and timeless accessories."
+        },
+        {
+            "question": "Who is the CEO of Lanvin Group?",
+            "answer": "Joann Cheng is the CEO of Lanvin Group."
+        },
+        {
+            "question": "Where is Lanvin headquartered?",
+            "answer": "Lanvin is headquartered in Paris, France."
+        },
+        {
+            "question": "What products does Lanvin offer?",
+            "answer": "Lanvin offers a range of products including haute couture, ready-to-wear collections, handbags, and fragrances."
+        },
+        {
+            "question": "When was Lanvin founded?",
+            "answer": "Lanvin was founded in 1889."
+        }
+    ],
+    "competitors": [
+        "LVMH",
+        "KERING",
+        "CHANEL",
+        "GUCCI"
+    ],
+    "related_stocks": [
+        "LVMH",
+        "CHWY",
+        "TAP",
+        "NKE"
+    ]
+}

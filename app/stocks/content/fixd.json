@@ -1,0 +1,83 @@
+{
+    "ticker": "FIXD",
+    "name": "Fixd Automotive",
+    "description": "Fixd Automotive is an innovative technology company specializing in automotive diagnostics and repair solutions. Established to simplify vehicle maintenance for everyday drivers, Fixd offers a user-friendly mobile application paired with a Bluetooth-enabled device that connects to a car's onboard diagnostics system. This technology allows users to monitor their vehicle\u2019s health in real-time, receive instant alerts about potential issues, and get detailed explanations of diagnostic trouble codes. The company's mission is to empower car owners with knowledge and tools to make informed decisions regarding vehicle maintenance, thereby reducing unexpected repair costs and improving vehicle longevity. Fixd also provides a variety of resources, including maintenance reminders, cost estimates for repairs, and access to certified mechanics for additional support. By leveraging cutting-edge technology, Fixd Automotive is transforming the way consumers interact with their vehicles, making car care more accessible and transparent. The company is committed to enhancing the automotive experience through innovation and customer-centric solutions.",
+    "industry": [
+        "Automotive",
+        "Technology"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "2014",
+    "website": "https://www.fixdapp.com",
+    "ceo": "Bobby Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/fixdapp",
+        "linkedin": "https://www.linkedin.com/company/fixd-automotive",
+        "instagram": "https://www.instagram.com/fixdapp/"
+    },
+    "investor_relations": "https://www.fixdapp.com/investors",
+    "key_executives": [
+        {
+            "name": "Bobby Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Jessica Lee",
+            "position": "COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automotive Diagnostics",
+            "products": [
+                "Fixd OBD-II Scanner",
+                "Fixd Mobile App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fixd Automotive | Simplifying Vehicle Maintenance",
+        "meta_description": "Fixd Automotive offers innovative automotive diagnostics solutions, empowering car owners with real-time vehicle health monitoring and maintenance insights.",
+        "keywords": [
+            "Fixd",
+            "Automotive Diagnostics",
+            "Car Maintenance",
+            "OBD-II Scanner",
+            "Vehicle Health Monitoring"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Fixd Automotive known for?",
+            "answer": "Fixd Automotive is known for its automotive diagnostics solutions, providing users with tools to monitor and maintain their vehicles."
+        },
+        {
+            "question": "Who is the CEO of Fixd Automotive?",
+            "answer": "Bobby Smith is the CEO of Fixd Automotive."
+        },
+        {
+            "question": "Where is Fixd Automotive headquartered?",
+            "answer": "Fixd Automotive is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What products does Fixd Automotive offer?",
+            "answer": "Fixd Automotive offers the Fixd OBD-II Scanner and the Fixd Mobile App."
+        },
+        {
+            "question": "When was Fixd Automotive founded?",
+            "answer": "Fixd Automotive was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "AUTL",
+        "DLB",
+        "CTT",
+        "HIMX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

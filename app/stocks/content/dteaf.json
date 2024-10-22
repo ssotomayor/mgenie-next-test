@@ -1,0 +1,87 @@
+{
+    "ticker": "DTEAF",
+    "name": "DTE Energy Company",
+    "description": "DTE Energy Company is a diversified energy company based in Detroit, Michigan, that serves approximately 3.4 million customers in Michigan. Founded in 1903, DTE Energy operates in two primary segments: electric and natural gas. The electric segment generates, purchases, distributes, and sells electricity, while the natural gas segment provides natural gas distribution and storage services. DTE Energy is committed to sustainable energy practices and has made significant investments in renewable energy, including wind and solar power, aiming to reduce its carbon footprint and meet the growing demand for clean energy solutions. The company has set ambitious goals for reducing greenhouse gas emissions and is actively working towards a cleaner energy future, with a vision of achieving net-zero carbon emissions by 2050. DTE Energy also emphasizes community engagement and economic growth, supporting various initiatives to improve the quality of life in the areas it serves. The company\u2019s dedication to innovation is evident in its adoption of advanced technologies for energy efficiency and smart grid solutions, ensuring reliable service for its customers while enhancing environmental stewardship. DTE Energy continues to explore new ventures in energy technology and infrastructure investment, making it a key player in the transition to a sustainable energy economy.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Detroit, Michigan, USA",
+    "founded": "1903",
+    "website": "https://www.dteenergy.com",
+    "ceo": "Gerard M. Anderson",
+    "social_media": {
+        "twitter": "https://twitter.com/DTE_Energy",
+        "linkedin": "https://www.linkedin.com/company/dte-energy/"
+    },
+    "investor_relations": "https://investor.dteenergy.com",
+    "key_executives": [
+        {
+            "name": "Gerard M. Anderson",
+            "position": "CEO"
+        },
+        {
+            "name": "Trevor F. Lauer",
+            "position": "President and COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity",
+            "products": [
+                "Residential Electric Service",
+                "Commercial Electric Service",
+                "Industrial Electric Service"
+            ]
+        },
+        {
+            "category": "Natural Gas",
+            "products": [
+                "Residential Gas Service",
+                "Commercial Gas Service",
+                "Industrial Gas Service"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DTE Energy Company | Sustainable Energy Solutions",
+        "meta_description": "Explore DTE Energy Company, a leader in energy solutions committed to sustainability and innovation. Learn about our electric and natural gas services and our efforts towards a cleaner energy future.",
+        "keywords": [
+            "DTE Energy",
+            "Utilities",
+            "Natural Gas",
+            "Electricity",
+            "Sustainability",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does DTE Energy provide?",
+            "answer": "DTE Energy provides electricity and natural gas services to residential, commercial, and industrial customers."
+        },
+        {
+            "question": "What is DTE Energy's commitment to sustainability?",
+            "answer": "DTE Energy is committed to reducing greenhouse gas emissions and aims for net-zero carbon emissions by 2050."
+        },
+        {
+            "question": "Where is DTE Energy headquartered?",
+            "answer": "DTE Energy is headquartered in Detroit, Michigan, USA."
+        },
+        {
+            "question": "When was DTE Energy founded?",
+            "answer": "DTE Energy was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "EXC",
+        "DUK",
+        "SO"
+    ],
+    "related_stocks": [
+        "AEP",
+        "ED",
+        "NEE",
+        "XEL"
+    ]
+}

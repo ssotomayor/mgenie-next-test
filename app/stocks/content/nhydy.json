@@ -1,0 +1,95 @@
+{
+    "ticker": "NHYDY",
+    "name": "Norsk Hydro ASA",
+    "description": "Norsk Hydro ASA is a leading global aluminum and renewable energy company based in Norway. Established in 1905, Hydro operates in more than 40 countries and is one of the largest producers of aluminum in the world. The company is engaged in the entire aluminum value chain, from bauxite extraction to the production of primary aluminum and aluminum products. Hydro is committed to sustainability and aims to be a leader in the green transition by utilizing renewable energy sources, particularly hydropower, for its production processes. The company's aluminum solutions are used in a variety of industries, including automotive, building and construction, and packaging, where lightweight and sustainable materials are increasingly in demand. Hydro places a strong emphasis on innovation, investing in technologies that enhance energy efficiency and reduce carbon emissions. The company also actively pursues recycling initiatives to promote a circular economy. With a vision for sustainable development, Norsk Hydro is dedicated to providing solutions that help meet the world's growing demand for sustainable materials while minimizing environmental impact.",
+    "industry": [
+        "Metals & Mining",
+        "Renewable Energy"
+    ],
+    "headquarters": "Oslo, Norway",
+    "founded": "1905",
+    "website": "https://www.hydro.com",
+    "ceo": "Hilde Merete Aasheim",
+    "social_media": {
+        "twitter": "https://twitter.com/NorskHydro",
+        "linkedin": "https://www.linkedin.com/company/norsk-hydro"
+    },
+    "investor_relations": "https://www.hydro.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Hilde Merete Aasheim",
+            "position": "CEO"
+        },
+        {
+            "name": "Eigil K. H. Lunde",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Primary Aluminum",
+            "products": []
+        },
+        {
+            "category": "Aluminum Products",
+            "products": [
+                "Extrusions",
+                "Rolled Products",
+                "Casting"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Hydropower",
+                "Wind Power"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Norsk Hydro ASA | Leading Aluminum and Renewable Energy Company",
+        "meta_description": "Explore Norsk Hydro ASA, a global leader in aluminum production and renewable energy. Learn about Hydro's commitment to sustainability and innovative solutions.",
+        "keywords": [
+            "Norsk Hydro",
+            "Aluminum",
+            "Renewable Energy",
+            "Sustainability",
+            "Hydropower",
+            "Circular Economy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Norsk Hydro do?",
+            "answer": "Norsk Hydro is engaged in aluminum production and renewable energy, operating throughout the aluminum value chain."
+        },
+        {
+            "question": "Who is the CEO of Norsk Hydro?",
+            "answer": "Hilde Merete Aasheim is the CEO of Norsk Hydro ASA."
+        },
+        {
+            "question": "Where is Norsk Hydro headquartered?",
+            "answer": "Norsk Hydro is headquartered in Oslo, Norway."
+        },
+        {
+            "question": "What are Norsk Hydro's main products?",
+            "answer": "Norsk Hydro's main products include primary aluminum, aluminum extrusions, rolled products, and renewable energy solutions."
+        },
+        {
+            "question": "When was Norsk Hydro founded?",
+            "answer": "Norsk Hydro was founded in 1905."
+        }
+    ],
+    "competitors": [
+        "AA",
+        "ALB",
+        "RIO",
+        "NEM"
+    ],
+    "related_stocks": [
+        "BHP",
+        "FCX",
+        "VALE",
+        "NUE"
+    ]
+}

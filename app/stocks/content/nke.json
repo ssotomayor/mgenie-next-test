@@ -1,0 +1,93 @@
+{
+    "ticker": "NKE",
+    "name": "Nike, Inc.",
+    "description": "Nike, Inc. is a global leader in athletic footwear, apparel, and equipment, dedicated to inspiring and innovating for athletes around the world. Founded in 1964 as Blue Ribbon Sports by Bill Bowerman and Phil Knight, the company officially became Nike, Inc. in 1971, named after the Greek goddess of victory. With a mission to bring inspiration and innovation to every athlete in the world, Nike embraces a philosophy that if you have a body, you are an athlete. The company is known for its iconic products, including the Air Jordan, Air Max, and various performance-driven lines for running, basketball, soccer, and more. Nike has also made significant strides in sustainability, launching initiatives like the Move to Zero campaign aimed at reducing carbon emissions and waste. As a pioneer in brand marketing, Nike has built a powerful global presence through its partnerships with top athletes and teams, making its Swoosh logo synonymous with excellence in sports. The company continues to push boundaries in technology and design, integrating digital experiences with its products to enhance athletic performance and engagement.",
+    "industry": [
+        "Apparel",
+        "Footwear"
+    ],
+    "headquarters": "Beaverton, Oregon, USA",
+    "founded": "1964",
+    "website": "https://www.nike.com",
+    "ceo": "John Donahoe",
+    "social_media": {
+        "twitter": "https://twitter.com/Nike",
+        "linkedin": "https://www.linkedin.com/company/nike",
+        "instagram": "https://www.instagram.com/nike",
+        "youtube": "https://www.youtube.com/user/Nike"
+    },
+    "investor_relations": "https://investors.nike.com",
+    "key_executives": [
+        {
+            "name": "John Donahoe",
+            "position": "CEO"
+        },
+        {
+            "name": "Matthew Friend",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Footwear",
+            "products": [
+                "Air Jordan",
+                "Air Max",
+                "Nike Free"
+            ]
+        },
+        {
+            "category": "Apparel",
+            "products": [
+                "Nike Pro",
+                "Dri-FIT"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nike, Inc. | Leading Innovator in Athletic Footwear and Apparel",
+        "meta_description": "Explore Nike, Inc., the global leader in athletic footwear, apparel, and equipment. Learn about Nike's innovative products, commitment to sustainability, and its impact on the sports industry.",
+        "keywords": [
+            "Nike",
+            "Athletic Footwear",
+            "Sports Apparel",
+            "Sustainability",
+            "John Donahoe",
+            "Air Jordan",
+            "Dri-FIT"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Nike known for?",
+            "answer": "Nike is known for its innovative athletic footwear, apparel, and equipment."
+        },
+        {
+            "question": "Who is the CEO of Nike?",
+            "answer": "John Donahoe is the CEO of Nike, Inc."
+        },
+        {
+            "question": "Where is Nike headquartered?",
+            "answer": "Nike is headquartered in Beaverton, Oregon, USA."
+        },
+        {
+            "question": "What are Nike's main products?",
+            "answer": "Nike's main products include footwear like Air Jordans and Air Max, as well as athletic apparel."
+        },
+        {
+            "question": "When was Nike founded?",
+            "answer": "Nike was founded in 1964."
+        }
+    ],
+    "competitors": [
+        "ADDYY",
+        "LULU",
+        "UA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "DIS"
+    ]
+}

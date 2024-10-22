@@ -1,0 +1,91 @@
+{
+    "ticker": "PINS",
+    "name": "Pinterest, Inc.",
+    "description": "Pinterest, Inc. is a visual discovery engine and social media platform that allows users to explore, save, and share ideas and inspirations through images, videos, and links. Founded in 2010 by Ben Silbermann, Paul Sciarra, and Evan Sharp, Pinterest's mission is to help users find and do what they love. With over 450 million monthly active users, the platform serves as a digital pinboard where individuals can discover and curate content related to a wide range of interests, including fashion, home decor, cooking, travel, and more. Users can create boards to organize their pins, making it easy to revisit their favorite ideas. Pinterest differentiates itself from other social media platforms by focusing on inspiration and planning rather than social interaction. The company generates revenue primarily through advertising, allowing businesses to promote their products and services to a highly engaged audience. Pinterest also invests in advanced technologies such as machine learning and augmented reality to enhance user experience and improve content discovery. As the platform continues to evolve, Pinterest aims to expand its offerings and further integrate shopping capabilities, making it a vital tool for both consumers and businesses seeking inspiration and engagement.",
+    "industry": [
+        "Social Media",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.pinterest.com",
+    "ceo": "Bill Ready",
+    "social_media": {
+        "twitter": "https://twitter.com/Pinterest",
+        "linkedin": "https://www.linkedin.com/company/pinterest/",
+        "instagram": "https://www.instagram.com/pinterest/",
+        "youtube": "https://www.youtube.com/user/Pinterest"
+    },
+    "investor_relations": "https://investor.pinterestinc.com",
+    "key_executives": [
+        {
+            "name": "Bill Ready",
+            "position": "CEO"
+        },
+        {
+            "name": "Todd Morgenfeld",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Social Media Platform",
+            "products": [
+                "Visual Discovery",
+                "Content Curation"
+            ]
+        },
+        {
+            "category": "Advertising Solutions",
+            "products": [
+                "Promoted Pins",
+                "Shopping Ads"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pinterest, Inc. | Visual Discovery and Inspiration",
+        "meta_description": "Explore Pinterest, Inc., a leading visual discovery platform. Discover how Pinterest inspires creativity, planning, and shopping through its innovative features.",
+        "keywords": [
+            "Pinterest",
+            "Social Media",
+            "Visual Discovery",
+            "Content Curation",
+            "Inspiration",
+            "Advertising"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Pinterest known for?",
+            "answer": "Pinterest is known for being a visual discovery engine that allows users to find and save ideas through images and videos."
+        },
+        {
+            "question": "Who is the CEO of Pinterest?",
+            "answer": "Bill Ready is the CEO of Pinterest, Inc."
+        },
+        {
+            "question": "Where is Pinterest headquartered?",
+            "answer": "Pinterest is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Pinterest's main services?",
+            "answer": "Pinterest's main services include a visual discovery platform and advertising solutions like Promoted Pins."
+        },
+        {
+            "question": "When was Pinterest founded?",
+            "answer": "Pinterest was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "FB",
+        "SNAP",
+        "TWTR"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "AAPL",
+        "MSFT",
+        "AMZN"
+    ]
+}

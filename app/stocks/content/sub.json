@@ -1,0 +1,100 @@
+{
+    "ticker": "SUB",
+    "name": "Subway Restaurants",
+    "description": "Subway Restaurants is one of the largest and most recognizable fast-food sandwich chains in the world, known for its fresh and customizable sub sandwiches. Founded in 1965 by Fred DeLuca and Dr. Peter Buck, Subway started as a small sandwich shop in Bridgeport, Connecticut, and has since grown to thousands of locations across over 100 countries. The company emphasizes fresh ingredients and healthy options, allowing customers to personalize their sandwiches with a variety of breads, meats, vegetables, and sauces. Subway has also expanded its menu to include salads, wraps, and breakfast items, catering to a diverse range of tastes and dietary preferences. The brand is committed to sustainability initiatives, focusing on responsible sourcing and reducing its environmental impact. With a strong presence in both traditional and digital marketing, Subway continues to innovate in its offerings and customer experience, aiming to adapt to changing consumer habits and preferences in the fast-food industry.",
+    "industry": [
+        "Fast Food",
+        "Restaurants"
+    ],
+    "headquarters": "Milford, Connecticut, USA",
+    "founded": "1965",
+    "website": "https://www.subway.com",
+    "ceo": "John Chidsey",
+    "social_media": {
+        "twitter": "https://twitter.com/Subway",
+        "linkedin": "https://www.linkedin.com/company/subway",
+        "instagram": "https://www.instagram.com/subway",
+        "facebook": "https://www.facebook.com/subway"
+    },
+    "investor_relations": "https://www.subway.com/en-us/investor-relations",
+    "key_executives": [
+        {
+            "name": "John Chidsey",
+            "position": "CEO"
+        },
+        {
+            "name": "Trevor Hayworth",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Sandwiches",
+            "products": [
+                "Italian BMT",
+                "Chicken Teriyaki",
+                "Meatball Marinara",
+                "Veggie Delite"
+            ]
+        },
+        {
+            "category": "Salads",
+            "products": [
+                "Chicken Caesar Salad",
+                "Tuna Salad",
+                "Veggie Salad"
+            ]
+        },
+        {
+            "category": "Wraps",
+            "products": [
+                "Chicken & Bacon Ranch Wrap",
+                "Buffalo Chicken Wrap"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Subway Restaurants | Freshly Made Sandwiches and Salads",
+        "meta_description": "Explore Subway Restaurants, the global leader in fresh sandwiches and salads. Customize your meal with our wide variety of ingredients and healthy options.",
+        "keywords": [
+            "Subway",
+            "Sandwiches",
+            "Fast Food",
+            "Healthy Eating",
+            "Customizable Meals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Subway known for?",
+            "answer": "Subway is known for its fresh and customizable sandwiches and salads."
+        },
+        {
+            "question": "Who is the CEO of Subway?",
+            "answer": "John Chidsey is the CEO of Subway Restaurants."
+        },
+        {
+            "question": "Where is Subway headquartered?",
+            "answer": "Subway is headquartered in Milford, Connecticut, USA."
+        },
+        {
+            "question": "What are some popular menu items at Subway?",
+            "answer": "Some popular menu items at Subway include the Italian BMT, Chicken Teriyaki, and Veggie Delite."
+        },
+        {
+            "question": "When was Subway founded?",
+            "answer": "Subway was founded in 1965."
+        }
+    ],
+    "competitors": [
+        "MCD",
+        "YUM",
+        "JACK"
+    ],
+    "related_stocks": [
+        "WEN",
+        "DQ",
+        "CMG",
+        "SHAK"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "ticker": "SNDR",
+    "name": "Schneider National, Inc.",
+    "description": "Schneider National, Inc. is a premier provider of transportation and logistics services in North America. Founded in 1935 by Al Schneider, the company has grown into a leading provider of truckload, logistics, intermodal, and supply chain management solutions. Schneider operates one of the largest fleets in the United States, offering a wide range of services, including dedicated and regional truckload, bulk, and temperature-controlled transportation. The company's commitment to sustainability is evident in its efforts to reduce carbon emissions and enhance fuel efficiency through innovative technologies and practices. Schneider National is also recognized for its advanced technology solutions, such as its proprietary transportation management system, which provides real-time tracking and improved supply chain visibility. With a focus on safety, service excellence, and operational efficiency, Schneider continues to build strong partnerships with its customers, helping them navigate the complexities of modern logistics. The company is headquartered in Green Bay, Wisconsin, and is dedicated to delivering exceptional value and service to its clients, contributing to their success in an increasingly competitive marketplace.",
+    "industry": [
+        "Transportation",
+        "Logistics"
+    ],
+    "headquarters": "Green Bay, Wisconsin, USA",
+    "founded": "1935",
+    "website": "https://schneider.com",
+    "ceo": "Mark Rourke",
+    "social_media": {
+        "twitter": "https://twitter.com/Schneider_Nat",
+        "linkedin": "https://www.linkedin.com/company/schneider-national/"
+    },
+    "investor_relations": "https://investors.schneider.com",
+    "key_executives": [
+        {
+            "name": "Mark Rourke",
+            "position": "CEO"
+        },
+        {
+            "name": "Kurt E. Matz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Transportation Services",
+            "products": [
+                "Truckload",
+                "Dedicated",
+                "Intermodal",
+                "Bulk Transportation"
+            ]
+        },
+        {
+            "category": "Logistics Services",
+            "products": [
+                "Supply Chain Management",
+                "Transportation Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Schneider National, Inc. | Transportation and Logistics Solutions",
+        "meta_description": "Explore Schneider National, Inc., a leader in transportation and logistics. Discover our services, commitment to sustainability, and innovative solutions for your supply chain needs.",
+        "keywords": [
+            "Schneider National",
+            "Transportation",
+            "Logistics",
+            "Truckload",
+            "Supply Chain Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Schneider National offer?",
+            "answer": "Schneider National offers transportation and logistics services, including truckload, dedicated, intermodal, and supply chain management."
+        },
+        {
+            "question": "Who is the CEO of Schneider National?",
+            "answer": "Mark Rourke is the CEO of Schneider National, Inc."
+        },
+        {
+            "question": "Where is Schneider National headquartered?",
+            "answer": "Schneider National is headquartered in Green Bay, Wisconsin, USA."
+        },
+        {
+            "question": "When was Schneider National founded?",
+            "answer": "Schneider National was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "JBHT",
+        "KNX",
+        "CHRW",
+        "ODFL"
+    ],
+    "related_stocks": [
+        "XPO",
+        "UPS",
+        "FDX",
+        "CVGI"
+    ]
+}

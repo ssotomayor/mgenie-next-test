@@ -1,0 +1,96 @@
+{
+    "ticker": "HENKY",
+    "name": "Henkel AG & Co. KGaA",
+    "description": "Henkel AG & Co. KGaA is a global leader in consumer and industrial products, headquartered in D\u00fcsseldorf, Germany. Founded in 1876, Henkel has evolved into a multinational company with a diverse portfolio that includes adhesive technologies, beauty care, home care, and laundry products. The company operates in three main business units: Adhesive Technologies, Beauty Care, and Home Care. Henkel is renowned for its innovative solutions, including brands like Persil, Schwarzkopf, and Loctite, which are trusted by consumers and professionals alike. The company's commitment to sustainability is evident in its efforts to reduce environmental impact across its product lifecycle and its initiatives to promote circular economy practices. Henkel's mission is to create sustainable value for its customers, employees, and stakeholders, positioning itself as a key player in driving innovation and responsible business practices in the consumer goods and industrial sectors.",
+    "industry": [
+        "Consumer Goods",
+        "Chemicals"
+    ],
+    "headquarters": "D\u00fcsseldorf, Germany",
+    "founded": "1876",
+    "website": "https://www.henkel.com",
+    "ceo": "Carsten Knobel",
+    "social_media": {
+        "twitter": "https://twitter.com/henkel",
+        "linkedin": "https://www.linkedin.com/company/henkel/"
+    },
+    "investor_relations": "https://www.henkel.com/investors",
+    "key_executives": [
+        {
+            "name": "Carsten Knobel",
+            "position": "CEO"
+        },
+        {
+            "name": "Marco Swoboda",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Adhesive Technologies",
+            "products": [
+                "Loctite",
+                "Bonderite"
+            ]
+        },
+        {
+            "category": "Beauty Care",
+            "products": [
+                "Schwarzkopf",
+                "Syoss"
+            ]
+        },
+        {
+            "category": "Home Care",
+            "products": [
+                "Persil",
+                "Purex"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Henkel AG & Co. KGaA | Innovations in Consumer and Industrial Goods",
+        "meta_description": "Explore Henkel AG & Co. KGaA, a leader in consumer and industrial products, committed to sustainability and innovation. Discover their diverse brands and product offerings.",
+        "keywords": [
+            "Henkel",
+            "Consumer Goods",
+            "Adhesive Technologies",
+            "Beauty Care",
+            "Sustainability",
+            "Persil",
+            "Schwarzkopf"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of products does Henkel offer?",
+            "answer": "Henkel offers a wide range of products in adhesive technologies, beauty care, home care, and laundry care."
+        },
+        {
+            "question": "Who is the CEO of Henkel?",
+            "answer": "Carsten Knobel is the CEO of Henkel AG & Co. KGaA."
+        },
+        {
+            "question": "Where is Henkel headquartered?",
+            "answer": "Henkel is headquartered in D\u00fcsseldorf, Germany."
+        },
+        {
+            "question": "What are Henkel's main brands?",
+            "answer": "Henkel's main brands include Persil, Schwarzkopf, Loctite, and Purex."
+        },
+        {
+            "question": "When was Henkel founded?",
+            "answer": "Henkel was founded in 1876."
+        }
+    ],
+    "competitors": [
+        "PG",
+        "UNP",
+        "CL"
+    ],
+    "related_stocks": [
+        "BAYN",
+        "DHER",
+        "SAP"
+    ]
+}

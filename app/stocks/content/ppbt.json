@@ -1,0 +1,77 @@
+{
+    "ticker": "PPBT",
+    "name": "Purple Biotech Ltd.",
+    "description": "Purple Biotech Ltd. is a clinical-stage biopharmaceutical company focused on the development of innovative therapies for cancer treatment. Founded in 2017 and headquartered in Rehovot, Israel, Purple Biotech is dedicated to advancing the field of oncology through its proprietary drug development platform and pipeline of therapeutic candidates. The company's lead candidate, CM-24, is a monoclonal antibody targeting PD-1, designed to enhance the immune response against tumors and improve patient outcomes in various forms of cancer. In addition, Purple Biotech is exploring other promising compounds that leverage the body's immune system to fight cancer more effectively. With a robust preclinical and clinical program, the company aims to address significant unmet medical needs in oncology. Purple Biotech collaborates with leading research institutions and aims to partner with pharmaceutical companies to accelerate the development and commercialization of its innovative products. The mission of Purple Biotech is to transform cancer treatment and improve the quality of life for patients through scientific advancements and a commitment to high-quality research.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Oncology"
+    ],
+    "headquarters": "Rehovot, Israel",
+    "founded": "2017",
+    "website": "https://www.purplebiotech.com",
+    "ceo": "Daniel E. Teper",
+    "social_media": {
+        "twitter": "https://twitter.com/purplebiotech",
+        "linkedin": "https://www.linkedin.com/company/purple-biotech-ltd/"
+    },
+    "investor_relations": "https://www.purplebiotech.com/investors",
+    "key_executives": [
+        {
+            "name": "Daniel E. Teper",
+            "position": "CEO"
+        },
+        {
+            "name": "Hanan Shahar",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology Therapies",
+            "products": [
+                "CM-24"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Purple Biotech Ltd. | Innovating Cancer Treatment",
+        "meta_description": "Explore Purple Biotech Ltd., a clinical-stage biopharmaceutical company focused on developing innovative therapies for cancer. Learn about CM-24 and our commitment to oncology.",
+        "keywords": [
+            "Purple Biotech",
+            "Oncology",
+            "Cancer Treatment",
+            "Biopharmaceuticals",
+            "CM-24"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Purple Biotech focused on?",
+            "answer": "Purple Biotech is focused on developing innovative therapies for cancer treatment."
+        },
+        {
+            "question": "Where is Purple Biotech headquartered?",
+            "answer": "Purple Biotech is headquartered in Rehovot, Israel."
+        },
+        {
+            "question": "What is CM-24?",
+            "answer": "CM-24 is Purple Biotech's lead monoclonal antibody candidate targeting PD-1 for cancer treatment."
+        },
+        {
+            "question": "When was Purple Biotech founded?",
+            "answer": "Purple Biotech was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "BMY",
+        "JNJ",
+        "MRNA"
+    ],
+    "related_stocks": [
+        "GILD",
+        "REGN",
+        "VRTX",
+        "NVS"
+    ]
+}

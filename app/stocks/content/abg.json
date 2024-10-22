@@ -1,0 +1,92 @@
+{
+    "ticker": "ABG",
+    "name": "Asbury Automotive Group, Inc.",
+    "description": "Asbury Automotive Group, Inc. is one of the largest automotive retail and service companies in the United States. Founded in 1995 and headquartered in Duluth, Georgia, Asbury operates a network of dealerships offering a wide range of new and used vehicles across various brands. The company prides itself on providing exceptional customer service and a seamless car-buying experience, leveraging both traditional and digital retail channels. Asbury's portfolio includes more than 80 dealerships in key markets, encompassing renowned brands such as Toyota, Honda, BMW, and Mercedes-Benz. In addition to vehicle sales, Asbury offers comprehensive vehicle repair and maintenance services, financing options, and parts sales, making it a one-stop shop for automotive needs. The company is committed to innovation and has invested heavily in technology to enhance the customer experience, including online purchasing and vehicle delivery services. Asbury's mission is to create a superior ownership experience for its customers while fostering a culture of integrity and accountability among its employees.",
+    "industry": [
+        "Automotive Retail",
+        "Automotive Services"
+    ],
+    "headquarters": "Duluth, Georgia, USA",
+    "founded": "1995",
+    "website": "https://www.asburyauto.com",
+    "ceo": "David W. Hult",
+    "social_media": {
+        "twitter": "https://twitter.com/asburyauto",
+        "linkedin": "https://www.linkedin.com/company/asbury-automotive-group/",
+        "facebook": "https://www.facebook.com/AsburyAuto"
+    },
+    "investor_relations": "https://ir.asburyauto.com",
+    "key_executives": [
+        {
+            "name": "David W. Hult",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael A. Kearney",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vehicles",
+            "products": [
+                "New Cars",
+                "Used Cars"
+            ]
+        },
+        {
+            "category": "Services",
+            "products": [
+                "Vehicle Maintenance",
+                "Repair Services",
+                "Parts Sales"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Asbury Automotive Group, Inc. | Leading Automotive Retailer",
+        "meta_description": "Explore Asbury Automotive Group, Inc., a leading automotive retailer in the U.S. offering a wide range of vehicles and services with a focus on customer satisfaction.",
+        "keywords": [
+            "Asbury Automotive",
+            "Automotive Retail",
+            "Car Dealerships",
+            "Vehicle Services",
+            "New Cars",
+            "Used Cars"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Asbury Automotive Group do?",
+            "answer": "Asbury Automotive Group is an automotive retail and service company that sells new and used vehicles and offers vehicle maintenance and repair services."
+        },
+        {
+            "question": "Who is the CEO of Asbury Automotive Group?",
+            "answer": "David W. Hult is the CEO of Asbury Automotive Group, Inc."
+        },
+        {
+            "question": "Where is Asbury Automotive Group headquartered?",
+            "answer": "Asbury Automotive Group is headquartered in Duluth, Georgia, USA."
+        },
+        {
+            "question": "What brands does Asbury Automotive Group sell?",
+            "answer": "Asbury Automotive Group sells a variety of brands including Toyota, Honda, BMW, and Mercedes-Benz."
+        },
+        {
+            "question": "When was Asbury Automotive Group founded?",
+            "answer": "Asbury Automotive Group was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "KMX",
+        "GPI",
+        "AN",
+        "LAD"
+    ],
+    "related_stocks": [
+        "F",
+        "GM",
+        "TSLA",
+        "RIVN"
+    ]
+}

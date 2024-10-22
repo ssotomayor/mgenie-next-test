@@ -1,0 +1,89 @@
+{
+    "ticker": "EVGN",
+    "name": "Evogene Ltd.",
+    "description": "Evogene Ltd. is a biotechnology company focused on enhancing crop productivity and agricultural sustainability through innovative scientific advancements. Founded in 2002 and headquartered in Rehovot, Israel, Evogene employs its proprietary computational biology platform to identify and develop novel traits, products, and solutions aimed at improving the yield, resilience, and quality of crops. The company operates primarily in the field of ag-tech, leveraging advanced genomics, machine learning, and big data analytics to drive the development of new seed traits and crop protection products. Evogene's integrated approach seeks to address the challenges posed by climate change and the growing global demand for food, positioning itself as a pivotal player in the future of agriculture. With a strong emphasis on sustainability, Evogene's mission extends to enabling farmers to achieve higher productivity while minimizing environmental impact. The company collaborates with various partners, including leading agricultural firms, to bring its innovations to market, demonstrating a commitment to advancing the agricultural ecosystem.",
+    "industry": [
+        "Biotechnology",
+        "Agriculture"
+    ],
+    "headquarters": "Rehovot, Israel",
+    "founded": "2002",
+    "website": "https://www.evogene.com",
+    "ceo": "Ofer Haviv",
+    "social_media": {
+        "twitter": "https://twitter.com/Evogene",
+        "linkedin": "https://www.linkedin.com/company/evogene/",
+        "facebook": "https://www.facebook.com/EvogeneLtd"
+    },
+    "investor_relations": "https://ir.evogene.com",
+    "key_executives": [
+        {
+            "name": "Ofer Haviv",
+            "position": "CEO"
+        },
+        {
+            "name": "Erez Koller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Crop Enhancement",
+            "products": [
+                "Seed Traits",
+                "Crop Protection Solutions"
+            ]
+        },
+        {
+            "category": "Genomics",
+            "products": [
+                "Computational Biology Platform"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Evogene Ltd. | Biotechnology for Agriculture",
+        "meta_description": "Explore Evogene Ltd., a leader in agricultural biotechnology, dedicated to improving crop yield and sustainability through innovative solutions and advanced genomics.",
+        "keywords": [
+            "Evogene",
+            "Agricultural Biotechnology",
+            "Crop Productivity",
+            "Sustainable Agriculture",
+            "Genomics",
+            "Crop Protection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Evogene specialize in?",
+            "answer": "Evogene specializes in agricultural biotechnology, focusing on enhancing crop productivity and sustainability."
+        },
+        {
+            "question": "Who is the CEO of Evogene?",
+            "answer": "Ofer Haviv is the CEO of Evogene Ltd."
+        },
+        {
+            "question": "Where is Evogene headquartered?",
+            "answer": "Evogene is headquartered in Rehovot, Israel."
+        },
+        {
+            "question": "What products does Evogene offer?",
+            "answer": "Evogene offers seed traits and crop protection solutions, as well as a computational biology platform."
+        },
+        {
+            "question": "When was Evogene founded?",
+            "answer": "Evogene was founded in 2002."
+        }
+    ],
+    "competitors": [
+        "MON",
+        "SYT",
+        "BAYRY"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "AMZN",
+        "MSFT"
+    ]
+}

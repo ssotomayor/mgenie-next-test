@@ -1,0 +1,91 @@
+{
+    "ticker": "LPSN",
+    "name": "LivePerson, Inc.",
+    "description": "LivePerson, Inc. is a leading provider of conversational AI solutions that empower businesses to communicate with their customers in real-time through voice, messaging, and chat interfaces. Founded in 1995, LivePerson has established itself as a trailblazer in the customer engagement landscape, leveraging advanced artificial intelligence to enhance customer experiences and drive meaningful interactions. The company\u2019s innovative platform uses natural language processing and machine learning to automate conversations and assist human agents, ultimately improving operational efficiency and customer satisfaction. LivePerson serves a diverse clientele across various industries, including retail, telecommunications, and financial services, helping them to transform their customer service operations into seamless, engaging experiences. With a mission to create a world where conversations matter, LivePerson continues to innovate and expand its offerings to meet the evolving needs of businesses and consumers in an increasingly digital world.",
+    "industry": [
+        "Technology",
+        "Software",
+        "Customer Engagement"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1995",
+    "website": "https://www.liveperson.com",
+    "ceo": "Robert LoCascio",
+    "social_media": {
+        "twitter": "https://twitter.com/LivePerson",
+        "linkedin": "https://www.linkedin.com/company/liveperson",
+        "facebook": "https://www.facebook.com/liveperson"
+    },
+    "investor_relations": "https://investors.liveperson.com",
+    "key_executives": [
+        {
+            "name": "Robert LoCascio",
+            "position": "CEO"
+        },
+        {
+            "name": "John H. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Conversational AI",
+            "products": [
+                "LiveEngage",
+                "Messaging Platform"
+            ]
+        },
+        {
+            "category": "Customer Engagement Solutions",
+            "products": [
+                "AI Chatbots",
+                "Voice Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "LivePerson, Inc. | Conversational AI and Customer Engagement",
+        "meta_description": "Discover LivePerson, Inc., a leader in conversational AI solutions that enhance customer engagement. Explore innovative products and services that redefine communication.",
+        "keywords": [
+            "LivePerson",
+            "Conversational AI",
+            "Customer Engagement",
+            "Chatbots",
+            "AI Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does LivePerson do?",
+            "answer": "LivePerson provides AI-driven conversational solutions that enable real-time communication between businesses and their customers."
+        },
+        {
+            "question": "Who is the CEO of LivePerson?",
+            "answer": "Robert LoCascio is the CEO of LivePerson, Inc."
+        },
+        {
+            "question": "Where is LivePerson headquartered?",
+            "answer": "LivePerson is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are LivePerson's main products?",
+            "answer": "LivePerson's main products include the LiveEngage platform and various AI chatbot solutions."
+        },
+        {
+            "question": "When was LivePerson founded?",
+            "answer": "LivePerson was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "TWLO",
+        "MSFT",
+        "ZEND"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

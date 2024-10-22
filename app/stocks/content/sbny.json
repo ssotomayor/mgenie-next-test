@@ -1,0 +1,86 @@
+{
+    "ticker": "SBNY",
+    "name": "Signature Bank",
+    "description": "Signature Bank is a full-service commercial bank headquartered in New York City, specializing in serving privately-owned businesses, their owners, and senior executives. Established in 2001, Signature Bank has rapidly grown to become a prominent player in the banking industry, offering a range of financial products and services including commercial lending, real estate financing, and treasury management. The bank is particularly noted for its focus on client relationships and personalized service, catering to the unique needs of its clients. Signature Bank is also recognized for its innovative digital banking solutions, enabling clients to manage their finances seamlessly. Through its unique business model, Signature Bank has built a diversified client base and has been able to maintain strong financial performance. The bank's commitment to excellence is reflected in its high ratings for customer satisfaction and its dedication to community involvement. With an emphasis on growth, Signature Bank continues to expand its footprint both in New York and in key markets across the United States, while ensuring compliance with regulatory standards and maintaining a strong capital base. The bank's vision is to be the premier banking institution for businesses and individuals who value exceptional service and tailored financial solutions.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2001",
+    "website": "https://www.signaturebank.com",
+    "ceo": "Joseph J. DePaolo",
+    "social_media": {
+        "twitter": "https://twitter.com/SignatureBank",
+        "linkedin": "https://www.linkedin.com/company/signature-bank/"
+    },
+    "investor_relations": "https://investors.signaturebank.com",
+    "key_executives": [
+        {
+            "name": "Joseph J. DePaolo",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric R. Howell",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Commercial Lending",
+                "Real Estate Financing",
+                "Treasury Management"
+            ]
+        },
+        {
+            "category": "Digital Banking",
+            "products": [
+                "Online Banking",
+                "Mobile Banking"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Signature Bank | Full-Service Commercial Banking",
+        "meta_description": "Explore Signature Bank, a leading full-service commercial bank in New York City, offering personalized banking solutions to businesses and individuals.",
+        "keywords": [
+            "Signature Bank",
+            "Commercial Banking",
+            "Financial Services",
+            "Real Estate Financing",
+            "Treasury Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Signature Bank offer?",
+            "answer": "Signature Bank offers a range of services including commercial lending, real estate financing, and treasury management."
+        },
+        {
+            "question": "Who is the CEO of Signature Bank?",
+            "answer": "Joseph J. DePaolo is the CEO of Signature Bank."
+        },
+        {
+            "question": "Where is Signature Bank headquartered?",
+            "answer": "Signature Bank is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Signature Bank founded?",
+            "answer": "Signature Bank was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "WFC",
+        "BAC",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

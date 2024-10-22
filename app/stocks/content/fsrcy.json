@@ -1,0 +1,92 @@
+{
+    "ticker": "FSRCY",
+    "name": "Fujitsu Limited",
+    "description": "Fujitsu Limited is a global information and communication technology (ICT) company headquartered in Tokyo, Japan. Established in 1935, Fujitsu has evolved from a telecommunications equipment manufacturer to a comprehensive IT service provider, offering a wide range of products and services including computing products, software solutions, and IT infrastructure. The company focuses on enabling digital transformation for businesses and society at large, providing services in areas such as cloud computing, AI, IoT, and cybersecurity. Fujitsu collaborates with clients to create innovative solutions that enhance productivity and efficiency, while also contributing to sustainability and social responsibility. Through its commitment to research and development, Fujitsu remains at the forefront of technological advancements, helping organizations navigate the complexities of the digital age. The company\u2019s mission is to create a prosperous future through technology, aligning with global trends and customer needs to drive value and growth.",
+    "industry": [
+        "Information Technology",
+        "Telecommunications",
+        "Consulting"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1935",
+    "website": "https://www.fujitsu.com",
+    "ceo": "Takahito Tokita",
+    "social_media": {
+        "twitter": "https://twitter.com/FujitsuGlobal",
+        "linkedin": "https://www.linkedin.com/company/fujitsu/"
+    },
+    "investor_relations": "https://www.fujitsu.com/global/investors/",
+    "key_executives": [
+        {
+            "name": "Takahito Tokita",
+            "position": "CEO"
+        },
+        {
+            "name": "Katsuo Sato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Services",
+            "products": [
+                "Cloud Services",
+                "IT Infrastructure",
+                "AI Solutions"
+            ]
+        },
+        {
+            "category": "Computing Products",
+            "products": [
+                "Servers",
+                "Storage Solutions",
+                "Personal Computers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fujitsu Limited | Global ICT Solutions Provider",
+        "meta_description": "Explore Fujitsu Limited, a global leader in information and communication technology. Discover Fujitsu's innovative solutions for digital transformation.",
+        "keywords": [
+            "Fujitsu",
+            "ICT Solutions",
+            "Cloud Computing",
+            "AI",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fujitsu specialize in?",
+            "answer": "Fujitsu specializes in information and communication technology, offering IT services, computing products, and software solutions."
+        },
+        {
+            "question": "Who is the CEO of Fujitsu?",
+            "answer": "Takahito Tokita is the CEO of Fujitsu Limited."
+        },
+        {
+            "question": "Where is Fujitsu headquartered?",
+            "answer": "Fujitsu is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Fujitsu's main products?",
+            "answer": "Fujitsu's main products include cloud services, AI solutions, servers, and storage solutions."
+        },
+        {
+            "question": "When was Fujitsu founded?",
+            "answer": "Fujitsu was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "NTT DATA",
+        "HPE",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "SAP"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "PSX",
+    "name": "Phillips 66",
+    "description": "Phillips 66 is a diversified energy manufacturing and logistics company, formed in 2012 as a spin-off from ConocoPhillips. The company operates across several segments, including refining, midstream, chemicals, and marketing and specialties. Phillips 66 is one of the largest refiners in the United States, with a refining capacity of over 2.2 million barrels per day. It operates 13 refineries and a vast network of pipelines, terminals, and other transportation assets, enabling efficient supply of energy products. The company is committed to sustainability and is making strides in reducing its greenhouse gas emissions while investing in renewable energy technologies. Phillips 66 has also ventured into biofuels and other alternative energy sources to meet the evolving demands of the energy market. Through its extensive portfolio, Phillips 66 aims to provide reliable and affordable energy solutions while ensuring operational excellence and safety. The company's mission is to be the leading energy provider while maintaining a strong focus on ethical practices, community engagement, and environmental stewardship.",
+    "industry": [
+        "Energy",
+        "Oil & Gas",
+        "Refining"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "2012",
+    "website": "https://www.phillips66.com",
+    "ceo": "Gregory J. Garland",
+    "social_media": {
+        "twitter": "https://twitter.com/Phillips66Co",
+        "linkedin": "https://www.linkedin.com/company/phillips-66/"
+    },
+    "investor_relations": "https://www.phillips66.com/investors",
+    "key_executives": [
+        {
+            "name": "Gregory J. Garland",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Kevin A. Mitchell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Refined Products",
+            "products": [
+                "Gasoline",
+                "Diesel",
+                "Jet Fuel"
+            ]
+        },
+        {
+            "category": "Chemicals",
+            "products": [
+                "Polyethylene",
+                "Propylene"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Phillips 66 | Diversified Energy Manufacturing and Logistics",
+        "meta_description": "Explore Phillips 66, a leading energy manufacturing and logistics company that provides refined products, chemicals, and is committed to sustainability and innovation.",
+        "keywords": [
+            "Phillips 66",
+            "Energy",
+            "Oil and Gas",
+            "Refining",
+            "Sustainability",
+            "Biofuels"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Phillips 66 do?",
+            "answer": "Phillips 66 is involved in refining, midstream, chemicals, and marketing of energy products."
+        },
+        {
+            "question": "Who is the CEO of Phillips 66?",
+            "answer": "Gregory J. Garland is the Chairman and CEO of Phillips 66."
+        },
+        {
+            "question": "Where is Phillips 66 headquartered?",
+            "answer": "Phillips 66 is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Phillips 66 founded?",
+            "answer": "Phillips 66 was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "VLO",
+        "MPC",
+        "CVX",
+        "XOM"
+    ],
+    "related_stocks": [
+        "COP",
+        "OXY",
+        "PXD",
+        "HES"
+    ]
+}

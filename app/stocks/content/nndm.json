@@ -1,0 +1,88 @@
+{
+    "ticker": "NNDM",
+    "name": "Nano Dimension Ltd.",
+    "description": "Nano Dimension Ltd. is a technology company specializing in the field of additive manufacturing, with a focus on 3D printing of electronic components. Founded in 2012 and headquartered in Ness Ziona, Israel, the company has developed groundbreaking technologies that enable the production of advanced printed circuit boards (PCBs) and other electronic devices. Nano Dimension's flagship product, the DragonFly 2020 3D printer, allows for the fabrication of multi-layer PCBs that integrate both electronic and mechanical components, revolutionizing the prototyping and manufacturing processes in the electronics industry. The company's innovative approach significantly reduces time-to-market for new products and enhances design capabilities for engineers and manufacturers. In addition to 3D printing, Nano Dimension is also exploring opportunities in the fields of robotics and artificial intelligence, aiming to further integrate these technologies into their manufacturing solutions. With a strong commitment to research and development, Nano Dimension is positioned to lead the transformation of how electronic devices are produced, enabling a more efficient and sustainable manufacturing paradigm.",
+    "industry": [
+        "Technology",
+        "3D Printing",
+        "Electronics"
+    ],
+    "headquarters": "Ness Ziona, Israel",
+    "founded": "2012",
+    "website": "https://www.nano-di.com",
+    "ceo": "Yoav Stern",
+    "social_media": {
+        "twitter": "https://twitter.com/NanoDimension1",
+        "linkedin": "https://www.linkedin.com/company/nano-dimension-ltd/"
+    },
+    "investor_relations": "https://www.nano-di.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Yoav Stern",
+            "position": "CEO"
+        },
+        {
+            "name": "Amit Dror",
+            "position": "COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Printers",
+            "products": [
+                "DragonFly 2020"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "CAM Software"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nano Dimension Ltd. | 3D Printing of Electronic Components",
+        "meta_description": "Explore Nano Dimension Ltd., a pioneering company in 3D printing technology for electronics. Discover innovative products that redefine manufacturing in the electronics industry.",
+        "keywords": [
+            "Nano Dimension",
+            "3D Printing",
+            "Electronics",
+            "PCBs",
+            "Additive Manufacturing",
+            "DragonFly 2020"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nano Dimension specialize in?",
+            "answer": "Nano Dimension specializes in 3D printing technology for electronic components, particularly printed circuit boards."
+        },
+        {
+            "question": "Who is the CEO of Nano Dimension?",
+            "answer": "Yoav Stern is the CEO of Nano Dimension Ltd."
+        },
+        {
+            "question": "Where is Nano Dimension headquartered?",
+            "answer": "Nano Dimension is headquartered in Ness Ziona, Israel."
+        },
+        {
+            "question": "What is the DragonFly 2020?",
+            "answer": "The DragonFly 2020 is Nano Dimension's flagship 3D printer designed for the manufacturing of multi-layer PCBs."
+        },
+        {
+            "question": "When was Nano Dimension founded?",
+            "answer": "Nano Dimension was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "SSYS",
+        "DDD",
+        "XONE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

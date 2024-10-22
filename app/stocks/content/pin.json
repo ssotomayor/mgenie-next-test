@@ -1,0 +1,99 @@
+{
+    "ticker": "PIN",
+    "name": "Pinterest, Inc.",
+    "description": "Pinterest, Inc. is a visual discovery and bookmarking platform that enables users to find and save ideas for various projects and interests. Founded in March 2010 by Ben Silbermann, Paul Sciarra, and Evan Sharp, Pinterest has evolved into a global hub for inspiration, allowing millions of users to explore topics ranging from home decor and fashion to recipes and travel. The platform's unique pinning feature allows users to collect visuals, creating personalized boards that reflect their tastes and aspirations. Pinterest's mission is to help people discover and do what they love, making it a valuable tool for both individuals and businesses. With a strong focus on visual content, Pinterest has become an essential marketing channel for brands looking to reach engaged audiences, particularly in the lifestyle and consumer goods sectors. The company also leverages advanced algorithms and machine learning to enhance user experience, providing personalized recommendations and promoting user engagement. Pinterest continues to innovate by introducing new features, such as video pins and shopping integrations, further solidifying its position as a leader in the social media landscape.",
+    "industry": [
+        "Social Media",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.pinterest.com",
+    "ceo": "Bill Ready",
+    "social_media": {
+        "twitter": "https://twitter.com/pinterest",
+        "linkedin": "https://www.linkedin.com/company/pinterest/",
+        "instagram": "https://www.instagram.com/pinterest/",
+        "youtube": "https://www.youtube.com/user/Pinterest"
+    },
+    "investor_relations": "https://investor.pinterestinc.com",
+    "key_executives": [
+        {
+            "name": "Bill Ready",
+            "position": "CEO"
+        },
+        {
+            "name": "Jeremy King",
+            "position": "CTO"
+        },
+        {
+            "name": "Francois de Lame",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "User Engagement",
+            "products": [
+                "Pinning",
+                "Boards",
+                "Video Pins",
+                "Shopping Integrations"
+            ]
+        },
+        {
+            "category": "Advertising Solutions",
+            "products": [
+                "Promoted Pins",
+                "Shopping Ads"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pinterest, Inc. | Discover Ideas and Inspiration",
+        "meta_description": "Explore Pinterest, Inc., a visual discovery platform that helps users find inspiration for their projects and interests. Discover how Pinterest connects people with ideas.",
+        "keywords": [
+            "Pinterest",
+            "Visual Discovery",
+            "Social Media",
+            "Inspiration",
+            "Pinning",
+            "Home Decor",
+            "Fashion",
+            "Recipes"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Pinterest known for?",
+            "answer": "Pinterest is known for its visual discovery platform that allows users to find and save ideas on various topics."
+        },
+        {
+            "question": "Who is the CEO of Pinterest?",
+            "answer": "Bill Ready is the CEO of Pinterest, Inc."
+        },
+        {
+            "question": "Where is Pinterest headquartered?",
+            "answer": "Pinterest is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Pinterest's main features?",
+            "answer": "Pinterest's main features include pinning, boards, video pins, and shopping integrations."
+        },
+        {
+            "question": "When was Pinterest founded?",
+            "answer": "Pinterest was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "META",
+        "SNAP",
+        "GOOG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "NFLX"
+    ]
+}

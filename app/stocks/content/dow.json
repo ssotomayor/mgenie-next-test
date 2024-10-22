@@ -1,0 +1,91 @@
+{
+    "ticker": "DOW",
+    "name": "Dow Inc.",
+    "description": "Dow Inc. is a leading global materials science company that specializes in innovation, sustainability, and technology-driven solutions. Formed in 2019 as a spin-off from DowDuPont, Dow operates through three primary business segments: Packaging & Specialty Plastics, Industrial Intermediates & Infrastructure, and Performance Materials & Coatings. With a rich legacy dating back to its founding in 1897 by Herbert H. Dow, the company has become a key player in the chemical industry, providing essential products that are integral to various sectors, including construction, automotive, electronics, and consumer goods. Dow is committed to sustainability and aims to create a more sustainable and circular economy by developing products that reduce waste and enhance energy efficiency. The company has set ambitious goals to achieve net-zero greenhouse gas emissions by 2050 and is actively pursuing innovations in materials that contribute to a more sustainable future. With its global presence and diverse portfolio, Dow continues to drive advancements in materials science while addressing the world's most pressing challenges.",
+    "industry": [
+        "Chemicals",
+        "Materials Science"
+    ],
+    "headquarters": "Midland, Michigan, USA",
+    "founded": "1897",
+    "website": "https://www.dow.com",
+    "ceo": "Jim Fitterling",
+    "social_media": {
+        "twitter": "https://twitter.com/DowNews",
+        "linkedin": "https://www.linkedin.com/company/dow/",
+        "instagram": "https://www.instagram.com/dowchemical/"
+    },
+    "investor_relations": "https://investors.dow.com",
+    "key_executives": [
+        {
+            "name": "Jim Fitterling",
+            "position": "CEO"
+        },
+        {
+            "name": "Howard Ungerleider",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Packaging & Specialty Plastics",
+            "products": [
+                "Polyethylene",
+                "Polypropylene"
+            ]
+        },
+        {
+            "category": "Performance Materials & Coatings",
+            "products": [
+                "Acrylics",
+                "Polyurethane Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Dow Inc. | Innovative Materials Science Solutions",
+        "meta_description": "Explore Dow Inc., a leader in materials science and sustainable innovation. Learn about Dow's products, commitment to sustainability, and global impact.",
+        "keywords": [
+            "Dow Inc.",
+            "Materials Science",
+            "Chemicals",
+            "Sustainability",
+            "Plastics",
+            "Innovative Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Dow Inc. specialize in?",
+            "answer": "Dow Inc. specializes in materials science and chemical solutions for various industries."
+        },
+        {
+            "question": "Who is the CEO of Dow Inc.?",
+            "answer": "Jim Fitterling is the CEO of Dow Inc."
+        },
+        {
+            "question": "Where is Dow Inc. headquartered?",
+            "answer": "Dow Inc. is headquartered in Midland, Michigan, USA."
+        },
+        {
+            "question": "What are Dow's main product categories?",
+            "answer": "Dow's main product categories include Packaging & Specialty Plastics, Performance Materials & Coatings, and Industrial Intermediates."
+        },
+        {
+            "question": "When was Dow Inc. founded?",
+            "answer": "Dow Inc. was founded in 1897."
+        }
+    ],
+    "competitors": [
+        "LYB",
+        "DD",
+        "APD",
+        "BASF"
+    ],
+    "related_stocks": [
+        "DOW",
+        "LYB",
+        "DD",
+        "APD"
+    ]
+}

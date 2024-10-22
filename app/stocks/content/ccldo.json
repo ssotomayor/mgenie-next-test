@@ -1,0 +1,85 @@
+{
+    "ticker": "CCLDO",
+    "name": "Cleveland-Cliffs Inc.",
+    "description": "Cleveland-Cliffs Inc. is a leading mining and steel production company based in the United States. Founded in 1847, Cleveland-Cliffs has evolved from its origins in iron ore mining to become a significant player in the global steel industry. The company specializes in the production of high-quality iron ore pellets and is the largest producer of flat-rolled steel in North America. Cleveland-Cliffs serves various sectors, including automotive, construction, and energy, providing tailored solutions to meet the diverse needs of its customers. The company's commitment to sustainability is evident in its efforts to reduce carbon emissions and improve operational efficiency through innovative technologies. Cleveland-Cliffs' extensive portfolio includes a range of products such as hot-rolled, cold-rolled, and coated steel sheets, which are essential for modern manufacturing. As the company continues to expand its operations and improve its product offerings, it remains focused on enhancing shareholder value while maintaining its commitment to environmental stewardship and social responsibility.",
+    "industry": [
+        "Mining",
+        "Steel Manufacturing"
+    ],
+    "headquarters": "Cleveland, Ohio, USA",
+    "founded": "1847",
+    "website": "https://www.clevelandcliffs.com",
+    "ceo": "Lourenco Goncalves",
+    "social_media": {
+        "twitter": "https://twitter.com/ClevelandCliffs",
+        "linkedin": "https://www.linkedin.com/company/cleveland-cliffs/"
+    },
+    "investor_relations": "https://investors.clevelandcliffs.com",
+    "key_executives": [
+        {
+            "name": "Lourenco Goncalves",
+            "position": "Chairman, President and CEO"
+        },
+        {
+            "name": "Keith Koci",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Iron Ore Products",
+            "products": [
+                "Iron Ore Pellets"
+            ]
+        },
+        {
+            "category": "Steel Products",
+            "products": [
+                "Hot-Rolled Steel",
+                "Cold-Rolled Steel",
+                "Coated Steel"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cleveland-Cliffs Inc. | Leading Mining and Steel Production Company",
+        "meta_description": "Explore Cleveland-Cliffs Inc., a leader in iron ore and steel production. Discover our commitment to sustainability and innovation in the mining and steel industry.",
+        "keywords": [
+            "Cleveland-Cliffs",
+            "Steel Production",
+            "Iron Ore",
+            "Mining",
+            "Sustainability",
+            "Flat-Rolled Steel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Cleveland-Cliffs produce?",
+            "answer": "Cleveland-Cliffs produces iron ore pellets and a variety of steel products including hot-rolled, cold-rolled, and coated steel."
+        },
+        {
+            "question": "Who is the CEO of Cleveland-Cliffs?",
+            "answer": "Lourenco Goncalves is the Chairman, President, and CEO of Cleveland-Cliffs Inc."
+        },
+        {
+            "question": "Where is Cleveland-Cliffs headquartered?",
+            "answer": "Cleveland-Cliffs is headquartered in Cleveland, Ohio, USA."
+        },
+        {
+            "question": "When was Cleveland-Cliffs founded?",
+            "answer": "Cleveland-Cliffs was founded in 1847."
+        }
+    ],
+    "competitors": [
+        "X",
+        "NUE",
+        "AKS"
+    ],
+    "related_stocks": [
+        "FCX",
+        "CLF",
+        "STLD",
+        "TMST"
+    ]
+}

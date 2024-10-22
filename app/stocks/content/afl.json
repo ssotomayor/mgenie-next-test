@@ -1,0 +1,86 @@
+{
+    "ticker": "AFL",
+    "name": "Aflac Incorporated",
+    "description": "Aflac Incorporated is a leading provider of supplemental insurance in the United States and Japan. Founded in 1952 by John Amos, Aflac is renowned for its innovative insurance products that provide financial protection to policyholders in times of need. The company primarily offers insurance products that help cover out-of-pocket costs associated with serious illnesses, accidents, and other unforeseen events. Aflac's most recognized product is its cancer insurance, which provides patients with cash benefits to help cover expenses while they focus on recovery. In addition to cancer insurance, Aflac also offers short-term disability, accident, critical illness, and life insurance products. With a commitment to customer service and community involvement, Aflac has been consistently recognized for its corporate responsibility efforts. The company is also known for its iconic duck mascot, which has become synonymous with its brand. Aflac's mission is to provide peace of mind and financial security to its customers, and it is dedicated to helping families navigate the financial challenges that arise from unexpected health issues.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "Columbus, Georgia, USA",
+    "founded": "1952",
+    "website": "https://www.aflac.com",
+    "ceo": "Daniel P. Amos",
+    "social_media": {
+        "twitter": "https://twitter.com/aflac",
+        "linkedin": "https://www.linkedin.com/company/aflac",
+        "facebook": "https://www.facebook.com/Aflac/"
+    },
+    "investor_relations": "https://investors.aflac.com",
+    "key_executives": [
+        {
+            "name": "Daniel P. Amos",
+            "position": "CEO"
+        },
+        {
+            "name": "Frederick J. Crawford",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Supplemental Insurance",
+            "products": [
+                "Cancer Insurance",
+                "Accident Insurance",
+                "Critical Illness Insurance",
+                "Short-term Disability Insurance",
+                "Life Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aflac Incorporated | Supplemental Insurance Provider",
+        "meta_description": "Explore Aflac Incorporated, a leader in supplemental insurance offering financial protection through innovative products. Learn about Aflac's commitment to customer service and community.",
+        "keywords": [
+            "Aflac",
+            "Supplemental Insurance",
+            "Cancer Insurance",
+            "Financial Services",
+            "Insurance Company"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of insurance does Aflac provide?",
+            "answer": "Aflac provides supplemental insurance, including cancer, accident, critical illness, and life insurance."
+        },
+        {
+            "question": "Who is the CEO of Aflac?",
+            "answer": "Daniel P. Amos is the CEO of Aflac Incorporated."
+        },
+        {
+            "question": "Where is Aflac headquartered?",
+            "answer": "Aflac is headquartered in Columbus, Georgia, USA."
+        },
+        {
+            "question": "When was Aflac founded?",
+            "answer": "Aflac was founded in 1952."
+        },
+        {
+            "question": "What is Aflac's most recognized product?",
+            "answer": "Aflac's most recognized product is its cancer insurance."
+        }
+    ],
+    "competitors": [
+        "MET",
+        "UNM",
+        "PRU",
+        "LNC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JNJ",
+        "AMGN",
+        "PFE"
+    ]
+}

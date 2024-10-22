@@ -1,0 +1,91 @@
+{
+    "ticker": "JFU",
+    "name": "163.com Inc.",
+    "description": "163.com Inc., also known as NetEase, Inc., is a leading technology company based in China, primarily engaged in the development of online PC and mobile games, as well as providing advertising services and e-commerce solutions. Founded in 1997 by Lei Ding, NetEase has been at the forefront of the Chinese internet landscape, offering a diverse range of products and services. The company's gaming division is renowned for its high-quality games, including popular titles like 'Fantasy Westward Journey', 'Identity V', and 'Knives Out', which have garnered millions of users both domestically and internationally. In addition to gaming, NetEase operates one of China's largest email services and provides a robust platform for news and information dissemination. The company has also expanded its offerings into e-commerce, providing a marketplace for various consumer goods, and has made significant investments in cloud services and AI technologies. NetEase is committed to innovation and creativity, striving to enhance user experience while maintaining a strong focus on social responsibility. With a mission to empower the digital lifestyle of consumers, NetEase continues to evolve, adapting to the fast-paced technological advancements and changing consumer preferences.",
+    "industry": [
+        "Technology",
+        "Gaming",
+        "E-commerce"
+    ],
+    "headquarters": "Hangzhou, Zhejiang, China",
+    "founded": "1997",
+    "website": "https://www.netease.com",
+    "ceo": "Lei Ding",
+    "social_media": {
+        "twitter": "https://twitter.com/NetEase",
+        "linkedin": "https://www.linkedin.com/company/netease"
+    },
+    "investor_relations": "https://ir.netease.com",
+    "key_executives": [
+        {
+            "name": "Lei Ding",
+            "position": "CEO"
+        },
+        {
+            "name": "Ying Zeng",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Online Games",
+            "products": [
+                "Fantasy Westward Journey",
+                "Identity V",
+                "Knives Out"
+            ]
+        },
+        {
+            "category": "E-commerce",
+            "products": [
+                "NetEase Yanxuan",
+                "Kaola"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "163.com Inc. | Leading Internet Technology Company in China",
+        "meta_description": "Explore 163.com Inc. (NetEase), a leader in online gaming, e-commerce, and digital content in China. Discover their innovative products and services.",
+        "keywords": [
+            "NetEase",
+            "Online Games",
+            "E-commerce",
+            "Technology",
+            "Fantasy Westward Journey",
+            "Identity V"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is NetEase known for?",
+            "answer": "NetEase is known for its online games, email services, and e-commerce solutions."
+        },
+        {
+            "question": "Who is the CEO of NetEase?",
+            "answer": "Lei Ding is the CEO of NetEase, Inc."
+        },
+        {
+            "question": "Where is NetEase headquartered?",
+            "answer": "NetEase is headquartered in Hangzhou, Zhejiang, China."
+        },
+        {
+            "question": "What are NetEase's main products?",
+            "answer": "NetEase's main products include online games like 'Fantasy Westward Journey', e-commerce platforms, and digital content services."
+        },
+        {
+            "question": "When was NetEase founded?",
+            "answer": "NetEase was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "Tencent",
+        "BABA",
+        "SOGO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ticker": "SGRP",
+    "name": "Singularity Group, Inc.",
+    "description": "Singularity Group, Inc. is a technology and consulting firm that specializes in advanced data analytics, artificial intelligence, and digital transformation solutions. Founded in 2015, the company aims to empower organizations across various industries to harness the power of data to drive strategic decision-making and operational efficiency. Singularity Group provides a range of services, including data strategy development, machine learning implementation, and AI-driven business insights. With a focus on innovative approaches, the company helps clients navigate the complexities of modern data landscapes and leverage emerging technologies to enhance their competitive advantage. The firm is dedicated to fostering a culture of continuous improvement and innovation, ensuring that its clients are well-equipped to adapt to the rapidly evolving technological environment. Singularity Group is also committed to education and thought leadership in the fields of AI and data science, regularly hosting workshops and webinars to share knowledge and best practices. The company\u2019s mission is to transform the way organizations utilize data and technology to achieve sustainable growth and success.",
+    "industry": [
+        "Technology",
+        "Consulting"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2015",
+    "website": "https://www.singularitygroup.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/SingularityGroup",
+        "linkedin": "https://www.linkedin.com/company/singularity-group/"
+    },
+    "investor_relations": "https://ir.singularitygroup.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Data Strategy Consulting",
+                "Predictive Analytics Solutions"
+            ]
+        },
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Machine Learning Models",
+                "AI-driven Insights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Singularity Group, Inc. | Advanced Data Analytics and AI Solutions",
+        "meta_description": "Explore Singularity Group, Inc., a leader in data analytics and AI consulting. Discover innovative solutions to transform your organization's data strategy.",
+        "keywords": [
+            "Singularity Group",
+            "Data Analytics",
+            "Artificial Intelligence",
+            "Digital Transformation",
+            "Machine Learning",
+            "Predictive Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Singularity Group offer?",
+            "answer": "Singularity Group offers data strategy consulting, predictive analytics solutions, and AI-driven insights."
+        },
+        {
+            "question": "Who is the CEO of Singularity Group?",
+            "answer": "Jane Doe is the CEO of Singularity Group, Inc."
+        },
+        {
+            "question": "Where is Singularity Group headquartered?",
+            "answer": "Singularity Group is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was Singularity Group founded?",
+            "answer": "Singularity Group was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "MSFT",
+        "ORCL",
+        "ADBE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "TSLA"
+    ]
+}

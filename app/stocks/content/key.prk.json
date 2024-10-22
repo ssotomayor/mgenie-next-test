@@ -1,0 +1,95 @@
+{
+    "ticker": "KEY.PRK",
+    "name": "KeyCorp",
+    "description": "KeyCorp is a bank holding company headquartered in Cleveland, Ohio, and is the parent company of KeyBank National Association. Founded in 1849, KeyCorp provides a wide range of financial services, including retail and commercial banking, investment management, and private banking. The company has established a strong presence in the Midwest and Northeast regions of the United States, offering personalized banking solutions to individuals, businesses, and institutions. KeyBank's commitment to client service is reflected in its diverse array of products, including checking and savings accounts, loans, mortgages, and wealth management services. The bank places a strong emphasis on community involvement and sustainability, actively engaging in initiatives that support economic development and environmental stewardship. Additionally, KeyCorp has been recognized for its efforts in promoting diversity and inclusion within its workforce and leadership. With a focus on innovation, KeyBank is investing in digital banking technologies to enhance the customer experience and streamline operations. The company aims to empower its clients to achieve financial wellness through tailored solutions and dedicated support.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Cleveland, Ohio, USA",
+    "founded": "1849",
+    "website": "https://www.key.com",
+    "ceo": "Christopher M. Gorman",
+    "social_media": {
+        "twitter": "https://twitter.com/KeyBank",
+        "linkedin": "https://www.linkedin.com/company/keycorp",
+        "facebook": "https://www.facebook.com/KeyBank"
+    },
+    "investor_relations": "https://www.key.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Christopher M. Gorman",
+            "position": "CEO"
+        },
+        {
+            "name": "Don Kimble",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Loans",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Management",
+                "Financial Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KeyCorp | Banking and Financial Services",
+        "meta_description": "Explore KeyCorp, a leading bank holding company providing comprehensive financial services. Discover personal banking, business banking, and wealth management solutions.",
+        "keywords": [
+            "KeyCorp",
+            "KeyBank",
+            "Banking",
+            "Financial Services",
+            "Investments",
+            "Loans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does KeyCorp offer?",
+            "answer": "KeyCorp offers personal banking, business banking, investment management, and private banking services."
+        },
+        {
+            "question": "Who is the CEO of KeyCorp?",
+            "answer": "Christopher M. Gorman is the CEO of KeyCorp."
+        },
+        {
+            "question": "Where is KeyCorp headquartered?",
+            "answer": "KeyCorp is headquartered in Cleveland, Ohio, USA."
+        },
+        {
+            "question": "When was KeyCorp founded?",
+            "answer": "KeyCorp was founded in 1849."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "PNC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "ticker": "MAC",
+    "name": "Macerich Company",
+    "description": "Macerich Company is a fully integrated, self-managed real estate investment trust (REIT) that specializes in the ownership, operation, and development of retail properties in the United States. Founded in 1972 and based in Santa Monica, California, Macerich is one of the largest REITs in the country, focusing on high-quality shopping centers and mixed-use properties. The company's portfolio includes numerous iconic malls and retail centers that feature a diverse mix of national and regional retailers, dining options, and entertainment venues. Macerich is dedicated to enhancing the shopping experience through innovative design and sustainability initiatives, which include energy-efficient building practices and community engagement. The company aims to create vibrant environments that promote social interaction and community involvement, making its properties destinations for shopping and leisure. With a strategic focus on enhancing its portfolio and maximizing shareholder value, Macerich continues to adapt to changing retail trends and consumer preferences, positioning itself as a leader in the retail real estate sector.",
+    "industry": [
+        "Real Estate",
+        "Retail"
+    ],
+    "headquarters": "Santa Monica, California, USA",
+    "founded": "1972",
+    "website": "https://www.macerich.com",
+    "ceo": "Thomas O'Hern",
+    "social_media": {
+        "twitter": "https://twitter.com/macerich",
+        "linkedin": "https://www.linkedin.com/company/macerich/"
+    },
+    "investor_relations": "https://investors.macerich.com",
+    "key_executives": [
+        {
+            "name": "Thomas O'Hern",
+            "position": "CEO"
+        },
+        {
+            "name": "Jill McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Retail Properties",
+            "products": [
+                "Shopping Centers",
+                "Mixed-Use Developments"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Macerich Company | Leading Retail REIT",
+        "meta_description": "Explore Macerich Company, a premier retail REIT focused on high-quality shopping centers and mixed-use properties across the United States. Discover our commitment to sustainability and community engagement.",
+        "keywords": [
+            "Macerich",
+            "Retail REIT",
+            "Shopping Centers",
+            "Real Estate Investment Trust",
+            "Retail Properties"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of company is Macerich?",
+            "answer": "Macerich is a real estate investment trust (REIT) focused on retail properties."
+        },
+        {
+            "question": "Where is Macerich headquartered?",
+            "answer": "Macerich is headquartered in Santa Monica, California, USA."
+        },
+        {
+            "question": "What does Macerich specialize in?",
+            "answer": "Macerich specializes in the ownership, operation, and development of retail properties."
+        },
+        {
+            "question": "When was Macerich founded?",
+            "answer": "Macerich was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "SPG",
+        "REG",
+        "PEI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "WMT",
+        "TGT"
+    ]
+}

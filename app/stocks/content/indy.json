@@ -1,0 +1,91 @@
+{
+    "ticker": "INDY",
+    "name": "IndyCar Series",
+    "description": "The IndyCar Series is the premier open-wheel racing series in the United States, recognized for its high-speed competition and innovative racing technology. Founded in 1996, the series has a rich history that dates back to the early 20th century, with roots in the Indianapolis 500, one of the most prestigious motor races in the world. The IndyCar Series features a unique mix of ovals, road courses, and street circuits, providing a diverse challenge for drivers and teams. The series is known for its close racing, with cars capable of exceeding speeds of 230 mph, showcasing the pinnacle of automotive engineering and driver skill. IndyCar's commitment to safety and technological advancement is demonstrated through the use of advanced materials, hybrid power units, and a focus on sustainable practices. The series attracts a global audience and features top-tier drivers and teams, including both established names and emerging talent. With events held across North America, the IndyCar Series continues to be a significant player in the motorsports landscape, fostering fan engagement and a vibrant community around the sport. The series aims to promote motorsport as a thrilling and competitive spectacle while developing the next generation of racing stars.",
+    "industry": [
+        "Sports",
+        "Entertainment"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "1996",
+    "website": "https://www.indycar.com",
+    "ceo": "Mark Miles",
+    "social_media": {
+        "twitter": "https://twitter.com/IndyCar",
+        "linkedin": "https://www.linkedin.com/company/indycar",
+        "instagram": "https://www.instagram.com/indycar",
+        "youtube": "https://www.youtube.com/user/indycar"
+    },
+    "investor_relations": "https://www.indycar.com/Corporate/Investor-Relations",
+    "key_executives": [
+        {
+            "name": "Mark Miles",
+            "position": "CEO"
+        },
+        {
+            "name": "Jay Frye",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Racing Events",
+            "products": [
+                "Indianapolis 500",
+                "Grand Prix of Long Beach",
+                "Honda Indy Toronto"
+            ]
+        },
+        {
+            "category": "Merchandise",
+            "products": [
+                "Team Apparel",
+                "Collectibles",
+                "Official Racing Gear"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IndyCar Series | Premier Open-Wheel Racing",
+        "meta_description": "Explore the IndyCar Series, the leading open-wheel racing series in the U.S. Experience thrilling races, legendary events like the Indianapolis 500, and top drivers.",
+        "keywords": [
+            "IndyCar",
+            "Open-Wheel Racing",
+            "Indianapolis 500",
+            "Motorsports",
+            "Racing Events"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is the IndyCar Series?",
+            "answer": "The IndyCar Series is the top-level open-wheel racing series in the United States, featuring a mix of ovals and road courses."
+        },
+        {
+            "question": "What is the most famous race in the IndyCar Series?",
+            "answer": "The Indianapolis 500 is the most famous race in the IndyCar Series, held annually at the Indianapolis Motor Speedway."
+        },
+        {
+            "question": "Who is the CEO of the IndyCar Series?",
+            "answer": "Mark Miles is the CEO of the IndyCar Series."
+        },
+        {
+            "question": "When was the IndyCar Series founded?",
+            "answer": "The IndyCar Series was founded in 1996."
+        },
+        {
+            "question": "What types of tracks does the IndyCar Series race on?",
+            "answer": "The IndyCar Series races on a variety of tracks, including oval tracks, road courses, and temporary street circuits."
+        }
+    ],
+    "competitors": [
+        "NASCAR",
+        "F1",
+        "IMSA"
+    ],
+    "related_stocks": [
+        "DIS",
+        "CMCSA",
+        "NFLX"
+    ]
+}

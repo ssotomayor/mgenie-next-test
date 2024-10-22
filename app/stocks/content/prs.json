@@ -1,0 +1,87 @@
+{
+    "ticker": "PRS",
+    "name": "Prism Technologies, Inc.",
+    "description": "Prism Technologies, Inc. is a leading provider of innovative technology solutions focused on enhancing data connectivity and cybersecurity for businesses worldwide. Founded in 2010, Prism has established itself as a key player in the tech industry, offering a range of services that include cloud solutions, advanced analytics, and secure communication platforms. The company is committed to empowering organizations with tools that streamline operations and protect sensitive information against cyber threats. With a team of skilled professionals and a strong emphasis on research and development, Prism Technologies is at the forefront of technological advancements, constantly evolving its offerings to meet the dynamic needs of its clients. The company's flagship products include the Prism Cloud Connect, a robust cloud integration service, and the Prism Secure Shield, a comprehensive cybersecurity solution designed to safeguard enterprise data. Prism's mission is to provide cutting-edge technology that fosters innovation and ensures the security of digital assets, helping businesses thrive in an increasingly digital world.",
+    "industry": [
+        "Information Technology",
+        "Cybersecurity"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.prismtechnologies.com",
+    "ceo": "Jessica Tran",
+    "social_media": {
+        "twitter": "https://twitter.com/PrismTech",
+        "linkedin": "https://www.linkedin.com/company/prism-technologies/"
+    },
+    "investor_relations": "https://ir.prismtechnologies.com",
+    "key_executives": [
+        {
+            "name": "Jessica Tran",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "Prism Cloud Connect"
+            ]
+        },
+        {
+            "category": "Cybersecurity",
+            "products": [
+                "Prism Secure Shield"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Prism Technologies, Inc. | Innovative Technology Solutions",
+        "meta_description": "Explore Prism Technologies, Inc., a leader in cloud solutions and cybersecurity. Discover our innovative products designed to secure and connect your business.",
+        "keywords": [
+            "Prism Technologies",
+            "Cloud Solutions",
+            "Cybersecurity",
+            "Data Connectivity",
+            "Secure Communication"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Prism Technologies specialize in?",
+            "answer": "Prism Technologies specializes in cloud solutions and cybersecurity services."
+        },
+        {
+            "question": "Who is the CEO of Prism Technologies?",
+            "answer": "Jessica Tran is the CEO of Prism Technologies, Inc."
+        },
+        {
+            "question": "Where is Prism Technologies headquartered?",
+            "answer": "Prism Technologies is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are the main products of Prism Technologies?",
+            "answer": "The main products include Prism Cloud Connect and Prism Secure Shield."
+        },
+        {
+            "question": "When was Prism Technologies founded?",
+            "answer": "Prism Technologies was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "CYBR",
+        "OKTA",
+        "ZS",
+        "S"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

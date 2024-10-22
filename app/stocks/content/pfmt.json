@@ -1,0 +1,89 @@
+{
+    "ticker": "PFMT",
+    "name": "Performant Financial Corporation",
+    "description": "Performant Financial Corporation is a data-driven technology-enabled services company focused on delivering innovative solutions for healthcare and government sectors. Founded in 2010 and headquartered in Livermore, California, Performant specializes in identifying and recovering improper payments and delivering analytics-driven insights to improve operational efficiency. The company leverages advanced data analytics, machine learning, and sophisticated technology to address challenges in payment integrity and compliance. With a mission to enhance the integrity of financial systems and reduce waste, Performant serves various clients, including federal and state government agencies, as well as private sector organizations. Its services include payment integrity, eligibility verification, and audit and recovery solutions. Performant's proprietary platform and analytical tools allow clients to quickly identify discrepancies and recover funds efficiently, thereby promoting fiscal responsibility and accountability. The company is committed to continuous improvement and innovation, striving to provide exceptional service and solutions that meet the evolving needs of its clients while ensuring compliance with regulations and industry standards.",
+    "industry": [
+        "Financial Services",
+        "Healthcare",
+        "Technology"
+    ],
+    "headquarters": "Livermore, California, USA",
+    "founded": "2010",
+    "website": "https://www.performantcorp.com",
+    "ceo": "Daniel A. Schreiber",
+    "social_media": {
+        "twitter": "https://twitter.com/performantcorp",
+        "linkedin": "https://www.linkedin.com/company/performant-financial-corporation"
+    },
+    "investor_relations": "https://investors.performantcorp.com",
+    "key_executives": [
+        {
+            "name": "Daniel A. Schreiber",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael J. O'Rourke",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Payment Integrity Services",
+            "products": [
+                "Improper Payment Recovery",
+                "Claims Review"
+            ]
+        },
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Data Analytics Platform",
+                "Fraud Detection"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Performant Financial Corporation | Payment Integrity and Analytics",
+        "meta_description": "Discover Performant Financial Corporation, a leader in payment integrity and data analytics solutions for healthcare and government sectors. Learn more about our services.",
+        "keywords": [
+            "Performant Financial",
+            "Payment Integrity",
+            "Data Analytics",
+            "Healthcare Solutions",
+            "Government Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Performant Financial do?",
+            "answer": "Performant Financial specializes in payment integrity, identifying and recovering improper payments for healthcare and government clients."
+        },
+        {
+            "question": "Who is the CEO of Performant Financial?",
+            "answer": "Daniel A. Schreiber is the CEO of Performant Financial Corporation."
+        },
+        {
+            "question": "Where is Performant headquartered?",
+            "answer": "Performant is headquartered in Livermore, California, USA."
+        },
+        {
+            "question": "What services does Performant offer?",
+            "answer": "Performant offers payment integrity services, analytics solutions, and fraud detection services."
+        },
+        {
+            "question": "When was Performant founded?",
+            "answer": "Performant was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "CNS",
+        "PRGS",
+        "HCA"
+    ],
+    "related_stocks": [
+        "IBM",
+        "ORCL",
+        "MSFT",
+        "ADBE"
+    ]
+}

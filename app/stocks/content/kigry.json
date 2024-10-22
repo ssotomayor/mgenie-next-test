@@ -1,0 +1,96 @@
+{
+    "ticker": "KIGRY",
+    "name": "KIA Corporation",
+    "description": "KIA Corporation, headquartered in Seoul, South Korea, is a global automotive manufacturer recognized for its innovation, quality, and design. Established in 1944, KIA has evolved into one of the largest automotive companies in the world, producing a diverse range of vehicles, including sedans, SUVs, and electric vehicles. The company is committed to sustainability and aims to reduce its environmental impact through eco-friendly manufacturing processes and a growing portfolio of electric and hybrid vehicles. KIA's electric lineup includes models such as the KIA EV6, which has received accolades for its performance and technological advancements. The company also focuses on integrating advanced safety features and cutting-edge technology into its vehicles, enhancing the overall driving experience. KIA's mission is to provide exciting and sustainable mobility solutions, making a positive contribution to society and the environment. With a strong emphasis on design and customer satisfaction, KIA continues to expand its global presence and innovate within the automotive industry.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Seoul, South Korea",
+    "founded": "1944",
+    "website": "https://www.kia.com",
+    "ceo": "Ho Sung Song",
+    "social_media": {
+        "twitter": "https://twitter.com/Kia",
+        "linkedin": "https://www.linkedin.com/company/kia-motors/"
+    },
+    "investor_relations": "https://www.kia.com/worldwide/en/company/investor-relations.html",
+    "key_executives": [
+        {
+            "name": "Ho Sung Song",
+            "position": "CEO"
+        },
+        {
+            "name": "Seung Jin Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "KIA EV6",
+                "KIA Niro EV"
+            ]
+        },
+        {
+            "category": "SUVs",
+            "products": [
+                "KIA Sportage",
+                "KIA Sorento"
+            ]
+        },
+        {
+            "category": "Sedans",
+            "products": [
+                "KIA K5",
+                "KIA Forte"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KIA Corporation | Innovation in Automotive Industry",
+        "meta_description": "Explore KIA Corporation, a leader in the automotive industry known for its innovative vehicles, sustainability efforts, and commitment to quality.",
+        "keywords": [
+            "KIA",
+            "Electric Vehicles",
+            "SUVs",
+            "Sedans",
+            "Automotive Innovation",
+            "Sustainable Mobility"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is KIA known for?",
+            "answer": "KIA is known for its innovative vehicles, quality manufacturing, and commitment to sustainability."
+        },
+        {
+            "question": "Who is the CEO of KIA?",
+            "answer": "Ho Sung Song is the CEO of KIA Corporation."
+        },
+        {
+            "question": "Where is KIA headquartered?",
+            "answer": "KIA is headquartered in Seoul, South Korea."
+        },
+        {
+            "question": "What are KIA's main products?",
+            "answer": "KIA's main products include electric vehicles, SUVs, and sedans."
+        },
+        {
+            "question": "When was KIA founded?",
+            "answer": "KIA was founded in 1944."
+        }
+    ],
+    "competitors": [
+        "HYMTF",
+        "F",
+        "GM",
+        "TSLA"
+    ],
+    "related_stocks": [
+        "BMWYY",
+        "HMC",
+        "TM",
+        "VWAGY"
+    ]
+}

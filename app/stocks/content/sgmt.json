@@ -1,0 +1,88 @@
+{
+    "ticker": "SGMT",
+    "name": "Segment Holdings, Inc.",
+    "description": "Segment Holdings, Inc. is a leading provider of data analytics and customer experience solutions. Founded in 2012, the company specializes in helping businesses collect, analyze, and act on customer data to enhance engagement and drive growth. Segment's innovative platform enables organizations to unify their customer data across various channels, providing a comprehensive view of customer interactions and behaviors. With a focus on data privacy and compliance, Segment empowers businesses to leverage data responsibly while maximizing the value of their customer insights. The company serves a diverse range of industries, including retail, finance, and technology, and has established partnerships with major players in the data ecosystem. Segment's mission is to transform the way businesses understand their customers, fostering deeper relationships and delivering personalized experiences. Through its commitment to innovation and customer success, Segment continues to be at the forefront of the data analytics revolution.",
+    "industry": [
+        "Data Analytics",
+        "Customer Experience"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2012",
+    "website": "https://www.segment.com",
+    "ceo": "Peter Reinhardt",
+    "social_media": {
+        "twitter": "https://twitter.com/segment",
+        "linkedin": "https://www.linkedin.com/company/segmentio/"
+    },
+    "investor_relations": "https://ir.segment.com",
+    "key_executives": [
+        {
+            "name": "Peter Reinhardt",
+            "position": "CEO"
+        },
+        {
+            "name": "Lindsay Duran",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Customer Data Platform",
+            "products": [
+                "Data Collection",
+                "Data Integration"
+            ]
+        },
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Real-Time Analytics",
+                "Customer Segmentation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Segment Holdings, Inc. | Data Analytics and Customer Experience Solutions",
+        "meta_description": "Discover Segment Holdings, Inc., a leader in data analytics and customer experience. Explore Segment's innovative solutions that help businesses understand and engage their customers.",
+        "keywords": [
+            "Segment",
+            "Data Analytics",
+            "Customer Experience",
+            "Customer Data Platform",
+            "Real-Time Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Segment do?",
+            "answer": "Segment provides data analytics and customer experience solutions that help businesses unify and act on customer data."
+        },
+        {
+            "question": "Who is the CEO of Segment?",
+            "answer": "Peter Reinhardt is the CEO of Segment Holdings, Inc."
+        },
+        {
+            "question": "Where is Segment headquartered?",
+            "answer": "Segment is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Segment's main products?",
+            "answer": "Segment's main products include Data Collection, Data Integration, Real-Time Analytics, and Customer Segmentation."
+        },
+        {
+            "question": "When was Segment founded?",
+            "answer": "Segment was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "CRM",
+        "TWLO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

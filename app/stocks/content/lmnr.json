@@ -1,0 +1,84 @@
+{
+    "ticker": "LMNR",
+    "name": "Limoneira Company",
+    "description": "Limoneira Company is a leading agribusiness and real estate development company based in Ventura County, California. Founded in 1893, Limoneira has a rich history of producing premium lemons, avocados, and other specialty crops. The company operates over 8,000 acres of agricultural land, primarily focusing on the cultivation of lemons, which are sold both domestically and internationally. In addition to its agricultural endeavors, Limoneira is involved in real estate development, with projects that include residential and commercial properties that leverage its extensive land holdings. The company prioritizes sustainable farming practices and is committed to environmental stewardship, ensuring that its operations have a minimal ecological impact. Limoneira's dedication to quality and sustainability has earned it a strong reputation within the agricultural sector. The company's mission is to provide high-quality products while fostering community development and environmental conservation.",
+    "industry": [
+        "Agribusiness",
+        "Real Estate"
+    ],
+    "headquarters": "Santa Paula, California, USA",
+    "founded": "1893",
+    "website": "https://www.limoneira.com",
+    "ceo": "Harold S. Edwards",
+    "social_media": {
+        "twitter": "https://twitter.com/LimoneiraCo",
+        "linkedin": "https://www.linkedin.com/company/limoneira-company/",
+        "instagram": "https://www.instagram.com/limoneiracompany/"
+    },
+    "investor_relations": "https://www.limoneira.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Harold S. Edwards",
+            "position": "CEO"
+        },
+        {
+            "name": "John H. McMurray",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Citrus Products",
+            "products": [
+                "Lemons",
+                "Lemon Juice"
+            ]
+        },
+        {
+            "category": "Avocados",
+            "products": [
+                "Fresh Avocados"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Limoneira Company | Premium Lemons and Sustainable Agriculture",
+        "meta_description": "Explore Limoneira Company, a leading agribusiness specializing in lemons and avocados, committed to sustainable farming and community development.",
+        "keywords": [
+            "Limoneira",
+            "Agribusiness",
+            "Lemons",
+            "Avocados",
+            "Sustainable Agriculture",
+            "Real Estate Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Limoneira Company specialize in?",
+            "answer": "Limoneira specializes in the production of premium lemons and avocados, as well as real estate development."
+        },
+        {
+            "question": "Where is Limoneira headquartered?",
+            "answer": "Limoneira is headquartered in Santa Paula, California, USA."
+        },
+        {
+            "question": "When was Limoneira founded?",
+            "answer": "Limoneira was founded in 1893."
+        },
+        {
+            "question": "What are Limoneira's main products?",
+            "answer": "Limoneira's main products include lemons, lemon juice, and fresh avocados."
+        }
+    ],
+    "competitors": [
+        "SJM",
+        "CAG",
+        "FDP"
+    ],
+    "related_stocks": [
+        "CORN",
+        "AG",
+        "LAND"
+    ]
+}

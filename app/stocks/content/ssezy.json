@@ -1,0 +1,89 @@
+{
+    "ticker": "SSEZY",
+    "name": "SSE plc",
+    "description": "SSE plc is a leading energy company based in the United Kingdom, focused on providing sustainable energy solutions and services. Established in 1998, SSE operates in various sectors including electricity generation, distribution, and supply, as well as renewable energy initiatives. The company is one of the largest generators of renewable energy in the UK and Ireland, with a significant investment in wind power, hydroelectric power, and solar energy. SSE aims to support the transition to a low-carbon economy by investing in new technologies and infrastructure that enhance energy efficiency and reduce carbon emissions. The company is committed to delivering reliable energy to homes and businesses while also prioritizing environmental stewardship and community engagement. SSE's portfolio includes a diverse range of energy assets, including gas and coal-fired power stations, alongside an extensive network of electricity distribution throughout the UK. With a strong focus on innovation, SSE is actively involved in projects that promote smart energy solutions and energy storage systems. The company's vision is to help meet the growing demand for clean energy and contribute to a sustainable future for generations to come.",
+    "industry": [
+        "Utilities",
+        "Renewable Energy"
+    ],
+    "headquarters": "Perth, Scotland, UK",
+    "founded": "1998",
+    "website": "https://www.sse.com",
+    "ceo": "Alistair Phillips-Davies",
+    "social_media": {
+        "twitter": "https://twitter.com/sse",
+        "linkedin": "https://www.linkedin.com/company/sse-plc/"
+    },
+    "investor_relations": "https://www.sse.com/investors",
+    "key_executives": [
+        {
+            "name": "Alistair Phillips-Davies",
+            "position": "CEO"
+        },
+        {
+            "name": "Gregor Alexander",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Renewable Energy",
+                "Gas Power",
+                "Coal Power"
+            ]
+        },
+        {
+            "category": "Energy Supply",
+            "products": [
+                "Electricity Supply",
+                "Gas Supply"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SSE plc | Leading Energy Company in the UK",
+        "meta_description": "Explore SSE plc, a leading energy company focused on sustainable solutions, electricity generation, and renewable energy projects in the UK.",
+        "keywords": [
+            "SSE",
+            "Renewable Energy",
+            "Electricity Supply",
+            "Sustainable Energy",
+            "Energy Company"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SSE known for?",
+            "answer": "SSE is known for providing sustainable energy solutions and being a significant generator of renewable energy in the UK."
+        },
+        {
+            "question": "Who is the CEO of SSE?",
+            "answer": "Alistair Phillips-Davies is the CEO of SSE plc."
+        },
+        {
+            "question": "Where is SSE headquartered?",
+            "answer": "SSE is headquartered in Perth, Scotland, UK."
+        },
+        {
+            "question": "What are SSE's main services?",
+            "answer": "SSE's main services include electricity generation, energy supply, and renewable energy projects."
+        },
+        {
+            "question": "When was SSE founded?",
+            "answer": "SSE was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "NGG",
+        "EDP",
+        "NEE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

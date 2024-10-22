@@ -1,0 +1,98 @@
+{
+    "ticker": "PEGA",
+    "name": "Pegasystems Inc.",
+    "description": "Pegasystems Inc. is a global leader in software solutions for customer engagement and operational excellence. Founded in 1983 by Alan Trefler, Pegasystems specializes in BPM (Business Process Management) and CRM (Customer Relationship Management) software. The company's platform enables organizations to simplify complex processes, enhance customer experiences, and drive digital transformation. Pegasystems is recognized for its powerful low-code development environment that empowers business users to create applications quickly and efficiently, addressing evolving business needs without extensive IT involvement. With a focus on AI and automation, Pegasystems' solutions help businesses optimize decision-making, improve customer interactions, and streamline operations across various sectors, including financial services, healthcare, and telecommunications. The company\u2019s mission is to provide organizations with the tools to build a customer-centric approach that fosters loyalty and drives growth in a competitive landscape.",
+    "industry": [
+        "Software",
+        "Information Technology"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "1983",
+    "website": "https://www.pega.com",
+    "ceo": "Alan Trefler",
+    "social_media": {
+        "twitter": "https://twitter.com/pega",
+        "linkedin": "https://www.linkedin.com/company/pegasystems/",
+        "youtube": "https://www.youtube.com/user/Pegasystems"
+    },
+    "investor_relations": "https://investor.pega.com",
+    "key_executives": [
+        {
+            "name": "Alan Trefler",
+            "position": "CEO"
+        },
+        {
+            "name": "Ken Stillwell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Customer Engagement",
+            "products": [
+                "Pega Customer Service",
+                "Pega Marketing"
+            ]
+        },
+        {
+            "category": "Business Process Management",
+            "products": [
+                "Pega BPM",
+                "Pega Workforce Intelligence"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "Pega AI",
+                "Pega Decisioning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pegasystems Inc. | Software for Customer Engagement and Operational Excellence",
+        "meta_description": "Discover Pegasystems Inc., a leader in software solutions for customer engagement and business process management. Explore Pega's innovative products and their impact on digital transformation.",
+        "keywords": [
+            "Pegasystems",
+            "Customer Engagement",
+            "Business Process Management",
+            "Low-Code Development",
+            "Artificial Intelligence",
+            "CRM",
+            "BPM"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Pegasystems do?",
+            "answer": "Pegasystems provides software solutions for customer engagement and operational excellence, focusing on BPM and CRM."
+        },
+        {
+            "question": "Who is the CEO of Pegasystems?",
+            "answer": "Alan Trefler is the CEO of Pegasystems Inc."
+        },
+        {
+            "question": "Where is Pegasystems headquartered?",
+            "answer": "Pegasystems is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are Pegasystems' main products?",
+            "answer": "Pegasystems' main products include Pega Customer Service, Pega Marketing, Pega BPM, and Pega AI."
+        },
+        {
+            "question": "When was Pegasystems founded?",
+            "answer": "Pegasystems was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "MSFT",
+        "ADBE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "SRAX",
+    "name": "SRAX, Inc.",
+    "description": "SRAX, Inc. is a technology company focused on digital marketing and data management solutions for public and private companies. Founded in 2010 and headquartered in Los Angeles, California, SRAX provides a suite of tools designed to help businesses better understand and engage with their audiences. The company\u2019s flagship product, Sequire, is a data management platform that allows clients to track their investors and engage with them through targeted marketing initiatives. SRAX aims to empower companies by providing them with the tools to manage their investor relations effectively, enhance shareholder engagement, and drive growth through data-driven insights. With a commitment to innovation, SRAX leverages advanced technology and analytics to offer comprehensive solutions that bridge the gap between businesses and their stakeholders. The company is well-positioned in the growing market of digital engagement and investor relations, facilitating better communication and transparency between companies and their investors. As the landscape of corporate communications continues to evolve, SRAX remains dedicated to delivering value through its cutting-edge platforms and services.",
+    "industry": [
+        "Technology",
+        "Digital Marketing",
+        "Data Management"
+    ],
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2010",
+    "website": "https://www.srax.com",
+    "ceo": "Kristoffer Nelson",
+    "social_media": {
+        "twitter": "https://twitter.com/srax",
+        "linkedin": "https://www.linkedin.com/company/srax-inc/"
+    },
+    "investor_relations": "https://ir.srax.com",
+    "key_executives": [
+        {
+            "name": "Kristoffer Nelson",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian McFadden",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Management",
+            "products": [
+                "Sequire"
+            ]
+        },
+        {
+            "category": "Digital Marketing",
+            "products": [
+                "Investor Marketing Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SRAX, Inc. | Digital Marketing and Data Management Solutions",
+        "meta_description": "Explore SRAX, Inc., a leader in digital marketing and data management solutions for public and private companies. Learn about SRAX's innovative Sequire platform.",
+        "keywords": [
+            "SRAX",
+            "Digital Marketing",
+            "Data Management",
+            "Investor Relations",
+            "Sequire",
+            "Shareholder Engagement"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SRAX do?",
+            "answer": "SRAX provides digital marketing and data management solutions, primarily focused on investor relations."
+        },
+        {
+            "question": "Who is the CEO of SRAX?",
+            "answer": "Kristoffer Nelson is the CEO of SRAX, Inc."
+        },
+        {
+            "question": "Where is SRAX headquartered?",
+            "answer": "SRAX is headquartered in Los Angeles, California, USA."
+        },
+        {
+            "question": "What is the Sequire platform?",
+            "answer": "Sequire is SRAX's data management platform that helps companies track and engage their investors."
+        },
+        {
+            "question": "When was SRAX founded?",
+            "answer": "SRAX was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "SPLK",
+        "VERB",
+        "TMDI",
+        "CRTD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

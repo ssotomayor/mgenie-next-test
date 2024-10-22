@@ -1,0 +1,92 @@
+{
+    "ticker": "ADI",
+    "name": "Analog Devices, Inc.",
+    "description": "Analog Devices, Inc. is a global leader in the design and manufacturing of analog, mixed-signal, and digital signal processing (DSP) integrated circuits. Founded in 1965 and headquartered in Wilmington, Massachusetts, the company specializes in high-performance semiconductor solutions that enable real-time data processing and signal conversion. Analog Devices serves a diverse range of industries, including automotive, communications, consumer electronics, healthcare, and industrial automation. The company's innovative products are essential for various applications such as data acquisition, signal processing, and instrumentation. With a strong commitment to research and development, Analog Devices continually invests in advancing technology to meet the evolving needs of its customers. The company is dedicated to sustainability and has implemented initiatives to reduce its environmental footprint. Analog Devices is recognized for its technical expertise and superior product performance, making it a trusted partner for engineers and developers worldwide. Its mission is to enable a more connected and intelligent world through its state-of-the-art solutions.",
+    "industry": [
+        "Semiconductors",
+        "Electronics"
+    ],
+    "headquarters": "Wilmington, Massachusetts, USA",
+    "founded": "1965",
+    "website": "https://www.analog.com",
+    "ceo": "Vincent Roche",
+    "social_media": {
+        "twitter": "https://twitter.com/ADI_News",
+        "linkedin": "https://www.linkedin.com/company/analog-devices/"
+    },
+    "investor_relations": "https://investor.analog.com",
+    "key_executives": [
+        {
+            "name": "Vincent Roche",
+            "position": "CEO"
+        },
+        {
+            "name": "Prashanth Mahendra-Rajah",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Signal Processing",
+            "products": [
+                "Amplifiers",
+                "Data Converters",
+                "Digital Signal Processors"
+            ]
+        },
+        {
+            "category": "Sensors",
+            "products": [
+                "Temperature Sensors",
+                "Pressure Sensors",
+                "Accelerometers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Analog Devices, Inc. | Leading Semiconductor Solutions",
+        "meta_description": "Explore Analog Devices, Inc., a leader in high-performance analog, mixed-signal, and DSP integrated circuits. Discover innovative products and solutions for a connected world.",
+        "keywords": [
+            "Analog Devices",
+            "Semiconductors",
+            "Signal Processing",
+            "Sensors",
+            "Integrated Circuits",
+            "Data Converters"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Analog Devices do?",
+            "answer": "Analog Devices designs and manufactures analog, mixed-signal, and digital signal processing integrated circuits."
+        },
+        {
+            "question": "Who is the CEO of Analog Devices?",
+            "answer": "Vincent Roche is the CEO of Analog Devices, Inc."
+        },
+        {
+            "question": "Where is Analog Devices headquartered?",
+            "answer": "Analog Devices is headquartered in Wilmington, Massachusetts, USA."
+        },
+        {
+            "question": "What industries does Analog Devices serve?",
+            "answer": "Analog Devices serves industries such as automotive, communications, healthcare, and industrial automation."
+        },
+        {
+            "question": "When was Analog Devices founded?",
+            "answer": "Analog Devices was founded in 1965."
+        }
+    ],
+    "competitors": [
+        "TXN",
+        "MCHP",
+        "INTC",
+        "NVDA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "QCOM",
+        "AVGO"
+    ]
+}

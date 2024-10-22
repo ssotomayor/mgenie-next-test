@@ -1,0 +1,89 @@
+{
+    "ticker": "FHN",
+    "name": "First Horizon Corporation",
+    "description": "First Horizon Corporation is a leading financial services company based in the United States, providing a wide range of banking, investment, and insurance services. Founded in 1864, the company has a rich history of serving clients in the southeastern U.S. and beyond, with a strong commitment to community engagement and customer service. First Horizon operates through a network of banking centers and offers a diverse array of financial products, including personal and commercial banking, mortgage services, wealth management, and treasury management. The company is particularly known for its innovative approach to banking, leveraging technology to enhance customer experience and streamline processes. First Horizon's mission is to deliver exceptional financial solutions while fostering long-lasting relationships with its clients and communities. The company has positioned itself as a trusted partner for individuals and businesses, focusing on personalized service and tailored financial strategies to meet the unique needs of its clients. With a strong emphasis on corporate responsibility, First Horizon is actively involved in community development initiatives and financial literacy programs, aiming to empower individuals and promote economic growth in the regions it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Memphis, Tennessee, USA",
+    "founded": "1864",
+    "website": "https://www.firsthorizon.com",
+    "ceo": "Bryan Jordan",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstHorizon",
+        "linkedin": "https://www.linkedin.com/company/first-horizon/",
+        "facebook": "https://www.facebook.com/FirstHorizon",
+        "youtube": "https://www.youtube.com/c/FirstHorizon"
+    },
+    "investor_relations": "https://ir.firsthorizon.com",
+    "key_executives": [
+        {
+            "name": "Bryan Jordan",
+            "position": "CEO"
+        },
+        {
+            "name": "William C. Losch III",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Personal Banking",
+                "Commercial Banking",
+                "Mortgage Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Horizon Corporation | Comprehensive Financial Services",
+        "meta_description": "Explore First Horizon Corporation, a leading provider of banking, investment, and insurance services. Discover our commitment to customer service and community engagement.",
+        "keywords": [
+            "First Horizon",
+            "Banking",
+            "Financial Services",
+            "Investment",
+            "Mortgage",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Horizon offer?",
+            "answer": "First Horizon offers a wide range of banking, investment, and insurance services, including personal and commercial banking, mortgage services, and wealth management."
+        },
+        {
+            "question": "Who is the CEO of First Horizon?",
+            "answer": "Bryan Jordan is the CEO of First Horizon Corporation."
+        },
+        {
+            "question": "Where is First Horizon headquartered?",
+            "answer": "First Horizon is headquartered in Memphis, Tennessee, USA."
+        },
+        {
+            "question": "When was First Horizon founded?",
+            "answer": "First Horizon was founded in 1864."
+        }
+    ],
+    "competitors": [
+        "ZION",
+        "BBT",
+        "KEY",
+        "WFC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
+    ]
+}

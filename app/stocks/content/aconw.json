@@ -1,0 +1,81 @@
+{
+    "ticker": "ACONW",
+    "name": "Aconex Limited",
+    "description": "Aconex Limited is a leading provider of collaboration solutions for the construction and engineering industries. Founded in 2000 and headquartered in Melbourne, Australia, Aconex provides a cloud-based platform designed to streamline project management and enhance communication among project teams. The company's platform allows users to manage documents, drawings, and workflows, facilitating real-time collaboration among stakeholders. Aconex caters to a diverse range of projects, including infrastructure, building, and industrial projects, helping teams maintain transparency and control throughout the project lifecycle. By enabling effective project delivery and reducing risks associated with miscommunication, Aconex has positioned itself as a crucial player in the construction technology sector. The company is committed to innovation, focusing on integrating advanced analytics and mobile solutions to improve user experience and project outcomes. Aconex's mission is to transform the way construction and engineering projects are managed, ensuring that all stakeholders have access to the information they need to make informed decisions.",
+    "industry": [
+        "Construction Technology",
+        "Software"
+    ],
+    "headquarters": "Melbourne, Australia",
+    "founded": "2000",
+    "website": "https://www.aconex.com",
+    "ceo": "Leigh Jasper",
+    "social_media": {
+        "twitter": "https://twitter.com/aconex",
+        "linkedin": "https://www.linkedin.com/company/aconex/"
+    },
+    "investor_relations": "https://www.aconex.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Leigh Jasper",
+            "position": "CEO"
+        },
+        {
+            "name": "John McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Project Management Software",
+            "products": [
+                "Document Management",
+                "Workflow Management",
+                "Field Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aconex Limited | Construction Collaboration Software",
+        "meta_description": "Discover Aconex Limited, a leader in construction collaboration solutions. Learn how Aconex helps project teams manage documents and workflows more effectively.",
+        "keywords": [
+            "Aconex",
+            "Construction Technology",
+            "Project Management Software",
+            "Collaboration Solutions",
+            "Cloud-based Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Aconex known for?",
+            "answer": "Aconex is known for its cloud-based collaboration platform for the construction and engineering industries."
+        },
+        {
+            "question": "Who is the CEO of Aconex?",
+            "answer": "Leigh Jasper is the CEO of Aconex Limited."
+        },
+        {
+            "question": "Where is Aconex headquartered?",
+            "answer": "Aconex is headquartered in Melbourne, Australia."
+        },
+        {
+            "question": "What are Aconex's main products?",
+            "answer": "Aconex's main products include document management, workflow management, and field management solutions."
+        },
+        {
+            "question": "When was Aconex founded?",
+            "answer": "Aconex was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "SREV",
+        "ORCL",
+        "CSOD"
+    ],
+    "related_stocks": [
+        "ADBE",
+        "MSFT",
+        "CRM"
+    ]
+}

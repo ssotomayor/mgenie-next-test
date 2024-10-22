@@ -1,0 +1,90 @@
+{
+    "ticker": "AUDC",
+    "name": "AudioCodes Ltd.",
+    "description": "AudioCodes Ltd. is a leading provider of advanced communications software, products, and productivity solutions for the digital workplace. Founded in 1993 and headquartered in Israel, AudioCodes specializes in Voice over IP (VoIP) technologies, offering a wide range of solutions for enterprises and service providers. The company\u2019s portfolio includes session border controllers, media gateways, and IP phone systems that facilitate seamless communication over the internet. AudioCodes also focuses on enhancing productivity in the workplace with cloud-based solutions that integrate with Microsoft Teams and other collaboration platforms. By leveraging its innovative technologies, AudioCodes helps organizations improve their communication infrastructure, reduce costs, and enhance the overall user experience. The company is committed to providing high-quality audio and video communication solutions, ensuring customers can connect reliably and effectively. AudioCodes serves customers globally across various industries, including healthcare, education, and finance, allowing them to adapt to the evolving demands of modern communication.",
+    "industry": [
+        "Telecommunications",
+        "Software"
+    ],
+    "headquarters": "Lod, Israel",
+    "founded": "1993",
+    "website": "https://www.audiocodes.com",
+    "ceo": "Shabtai Adlersberg",
+    "social_media": {
+        "twitter": "https://twitter.com/audiocodes",
+        "linkedin": "https://www.linkedin.com/company/audiocodes/"
+    },
+    "investor_relations": "https://investors.audiocodes.com",
+    "key_executives": [
+        {
+            "name": "Shabtai Adlersberg",
+            "position": "CEO"
+        },
+        {
+            "name": "Gidi B. Shai",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "VoIP Products",
+            "products": [
+                "Session Border Controllers",
+                "Media Gateways",
+                "IP Phones"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "Cloud Communications",
+                "Microsoft Teams Integration"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AudioCodes Ltd. | Advanced VoIP Communication Solutions",
+        "meta_description": "Explore AudioCodes Ltd., a leader in VoIP technologies and communication solutions. Discover how AudioCodes enhances workplace productivity and communication.",
+        "keywords": [
+            "AudioCodes",
+            "VoIP",
+            "Communications",
+            "Cloud Solutions",
+            "Session Border Controllers",
+            "Media Gateways"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AudioCodes specialize in?",
+            "answer": "AudioCodes specializes in Voice over IP (VoIP) technologies and communication solutions."
+        },
+        {
+            "question": "Who is the CEO of AudioCodes?",
+            "answer": "Shabtai Adlersberg is the CEO of AudioCodes Ltd."
+        },
+        {
+            "question": "Where is AudioCodes headquartered?",
+            "answer": "AudioCodes is headquartered in Lod, Israel."
+        },
+        {
+            "question": "What are AudioCodes' main products?",
+            "answer": "AudioCodes' main products include session border controllers, media gateways, and IP phone systems."
+        },
+        {
+            "question": "When was AudioCodes founded?",
+            "answer": "AudioCodes was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "AVYA",
+        "MSFT",
+        "NEWR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CSCO"
+    ]
+}

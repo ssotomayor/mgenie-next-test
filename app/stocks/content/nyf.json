@@ -1,0 +1,96 @@
+{
+    "ticker": "NYF",
+    "name": "New York Financial Corp.",
+    "description": "New York Financial Corp. is a diversified financial services company based in New York City, specializing in investment banking, asset management, and financial advisory services. Founded in 2001, NYF has grown to become a key player in the financial sector, offering innovative solutions to both individual and institutional clients. The company is dedicated to providing high-quality financial services and has built a reputation for excellence and integrity. NYF's investment banking division focuses on mergers and acquisitions, capital raising, and strategic advisory services, helping clients navigate complex financial landscapes. The asset management segment aims to maximize returns for clients through a range of investment strategies, including equity, fixed income, and alternative investments. Additionally, NYF provides financial advisory services, including wealth management and financial planning, tailored to meet the unique needs of its clients. With a team of seasoned professionals, New York Financial Corp. leverages its deep industry knowledge and extensive network to deliver exceptional results. The company's mission is to empower clients to achieve their financial goals through expert guidance, innovative solutions, and a commitment to their success.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Asset Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2001",
+    "website": "https://www.newyorkfinancialcorp.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/NYFinancialCorp",
+        "linkedin": "https://www.linkedin.com/company/new-york-financial-corp/"
+    },
+    "investor_relations": "https://ir.newyorkfinancialcorp.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions",
+                "Capital Raising",
+                "Strategic Advisory"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Equity Investments",
+                "Fixed Income",
+                "Alternative Investments"
+            ]
+        },
+        {
+            "category": "Financial Advisory",
+            "products": [
+                "Wealth Management",
+                "Financial Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "New York Financial Corp. | Investment Banking and Asset Management",
+        "meta_description": "Explore New York Financial Corp., a leader in investment banking and asset management. Discover innovative financial solutions tailored to your needs.",
+        "keywords": [
+            "New York Financial Corp.",
+            "Investment Banking",
+            "Asset Management",
+            "Financial Advisory",
+            "Wealth Management",
+            "Capital Raising"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does New York Financial Corp. offer?",
+            "answer": "NYF offers investment banking, asset management, and financial advisory services."
+        },
+        {
+            "question": "Who is the CEO of New York Financial Corp.?",
+            "answer": "Jane Doe is the CEO of New York Financial Corp."
+        },
+        {
+            "question": "Where is New York Financial Corp. headquartered?",
+            "answer": "The company is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was New York Financial Corp. founded?",
+            "answer": "NYF was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "GS",
+        "MS",
+        "BAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

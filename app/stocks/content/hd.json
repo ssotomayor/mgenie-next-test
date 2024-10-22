@@ -1,0 +1,100 @@
+{
+    "ticker": "HD",
+    "name": "The Home Depot, Inc.",
+    "description": "The Home Depot, Inc. is the largest home improvement retailer in the United States, providing a wide range of products and services for home improvement, construction, and repair. Founded in 1978 by Bernie Marcus and Arthur Blank, the company has grown to become a household name, serving both DIY customers and professional contractors. With over 2,200 stores across North America, The Home Depot offers a vast selection of building materials, home improvement products, lawn and garden supplies, and appliances. The company is also known for its knowledgeable staff who provide expert advice to customers. In addition to its retail operations, The Home Depot has made significant investments in e-commerce, allowing customers to shop online for delivery or in-store pickup. The company's commitment to customer service, quality products, and community involvement has established it as a leader in the home improvement sector. The Home Depot continues to innovate with services like tool rentals, installation services, and a dedicated pro counter for contractors, enhancing its value proposition to all customers.",
+    "industry": [
+        "Retail",
+        "Home Improvement"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1978",
+    "website": "https://www.homedepot.com",
+    "ceo": "Ted Decker",
+    "social_media": {
+        "twitter": "https://twitter.com/HomeDepot",
+        "linkedin": "https://www.linkedin.com/company/the-home-depot/",
+        "instagram": "https://www.instagram.com/homedepot/",
+        "youtube": "https://www.youtube.com/user/homedepot"
+    },
+    "investor_relations": "https://ir.homedepot.com",
+    "key_executives": [
+        {
+            "name": "Ted Decker",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard McPhail",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Building Materials",
+            "products": [
+                "Lumber",
+                "Drywall",
+                "Cement"
+            ]
+        },
+        {
+            "category": "Home Improvement Products",
+            "products": [
+                "Paint",
+                "Flooring",
+                "Lighting"
+            ]
+        },
+        {
+            "category": "Appliances",
+            "products": [
+                "Refrigerators",
+                "Washers & Dryers",
+                "Ovens"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Home Depot, Inc. | Home Improvement and Building Supplies",
+        "meta_description": "Explore The Home Depot, Inc., the leading home improvement retailer. Find a wide range of products, services, and expert advice for all your home improvement needs.",
+        "keywords": [
+            "Home Depot",
+            "Home Improvement",
+            "Building Supplies",
+            "DIY",
+            "Home Appliances"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Home Depot sell?",
+            "answer": "Home Depot sells a wide range of home improvement products, building materials, and appliances."
+        },
+        {
+            "question": "Who is the CEO of Home Depot?",
+            "answer": "Ted Decker is the CEO of The Home Depot, Inc."
+        },
+        {
+            "question": "Where is Home Depot headquartered?",
+            "answer": "Home Depot is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What services does Home Depot offer?",
+            "answer": "Home Depot offers tool rentals, installation services, and expert advice for home improvement projects."
+        },
+        {
+            "question": "When was Home Depot founded?",
+            "answer": "Home Depot was founded in 1978."
+        }
+    ],
+    "competitors": [
+        "LOW",
+        "BBY",
+        "WMT"
+    ],
+    "related_stocks": [
+        "COST",
+        "TGT",
+        "AMZN",
+        "TAP"
+    ]
+}

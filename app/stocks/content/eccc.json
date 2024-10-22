@@ -1,0 +1,90 @@
+{
+    "ticker": "ECCC",
+    "name": "EcoClean Corporation",
+    "description": "EcoClean Corporation is a leading provider of environmentally friendly cleaning solutions and sustainable products aimed at reducing the ecological footprint of households and businesses. Established in 2010, EcoClean is dedicated to innovation in the cleaning industry, offering a range of biodegradable and non-toxic cleaning agents that are safe for both users and the environment. The company has gained recognition for its commitment to sustainability, sourcing ingredients from renewable resources and minimizing plastic waste through its refillable product lines. EcoClean's product portfolio includes surface cleaners, laundry detergents, and dishwashing liquids, all formulated to deliver high performance while adhering to eco-friendly principles. In addition to consumer products, EcoClean also collaborates with businesses to provide customized cleaning solutions that meet corporate sustainability goals. With a mission to promote a cleaner planet, EcoClean actively engages in community outreach and educational programs about the importance of choosing green cleaning options. The company is expanding its market presence globally, aiming to lead the transition towards more sustainable cleaning practices in various industries.",
+    "industry": [
+        "Consumer Goods",
+        "Cleaning Products"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.ecocleancorp.com",
+    "ceo": "Jessica Green",
+    "social_media": {
+        "twitter": "https://twitter.com/EcoCleanCorp",
+        "linkedin": "https://www.linkedin.com/company/ecocleancorp/",
+        "instagram": "https://www.instagram.com/ecocleancorp/"
+    },
+    "investor_relations": "https://ir.ecocleancorp.com",
+    "key_executives": [
+        {
+            "name": "Jessica Green",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Household Cleaners",
+            "products": [
+                "Eco Surface Cleaner",
+                "Biodegradable Laundry Detergent",
+                "Natural Dish Soap"
+            ]
+        },
+        {
+            "category": "Commercial Solutions",
+            "products": [
+                "Eco-Friendly Janitorial Supplies",
+                "Sustainable Cleaning Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "EcoClean Corporation | Sustainable Cleaning Solutions",
+        "meta_description": "Explore EcoClean Corporation, a leader in eco-friendly cleaning products and sustainable solutions. Discover our commitment to a cleaner planet and innovative product offerings.",
+        "keywords": [
+            "EcoClean",
+            "Sustainable Cleaning",
+            "Eco-Friendly Products",
+            "Biodegradable Cleaners",
+            "Green Cleaning Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does EcoClean offer?",
+            "answer": "EcoClean offers a variety of eco-friendly household cleaners, including surface cleaners, laundry detergents, and dish soaps."
+        },
+        {
+            "question": "Who is the CEO of EcoClean Corporation?",
+            "answer": "Jessica Green is the CEO of EcoClean Corporation."
+        },
+        {
+            "question": "Where is EcoClean headquartered?",
+            "answer": "EcoClean is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What is EcoClean's mission?",
+            "answer": "EcoClean's mission is to provide sustainable cleaning solutions that promote a cleaner planet."
+        },
+        {
+            "question": "When was EcoClean founded?",
+            "answer": "EcoClean was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "CLEAN",
+        "P&G",
+        "CHD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "PG",
+        "CLX"
+    ]
+}

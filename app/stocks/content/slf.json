@@ -1,0 +1,89 @@
+{
+    "ticker": "SLF",
+    "name": "Sun Life Financial Inc.",
+    "description": "Sun Life Financial Inc. is a leading international financial services company that offers a diverse range of insurance, wealth, and asset management solutions. Founded in 1865 and headquartered in Toronto, Canada, Sun Life serves millions of clients in Canada, the United States, the United Kingdom, and Asia. The company is committed to helping clients achieve their financial goals through a comprehensive suite of products, including life insurance, health insurance, retirement savings plans, and investment management services. Sun Life's mission is to help clients live healthier lives and achieve lifetime financial security, leveraging innovative technologies and personalized services. With a strong focus on sustainability, Sun Life aims to integrate environmental, social, and governance (ESG) factors into its operations and investment strategies, ensuring a positive impact on communities and the planet. The company continues to expand its global footprint through strategic partnerships and acquisitions, positioning itself as a trusted leader in the financial services industry.",
+    "industry": [
+        "Financial Services",
+        "Insurance",
+        "Asset Management"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1865",
+    "website": "https://www.sunlife.com",
+    "ceo": "Kevin Strain",
+    "social_media": {
+        "twitter": "https://twitter.com/SunLife",
+        "linkedin": "https://www.linkedin.com/company/sun-life-financial/",
+        "instagram": "https://www.instagram.com/sunlife/",
+        "youtube": "https://www.youtube.com/user/SunLifeFinancial"
+    },
+    "investor_relations": "https://www.sunlife.com/Investor+Relations",
+    "key_executives": [
+        {
+            "name": "Kevin Strain",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha D. Kwan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "Health Insurance",
+                "Disability Insurance"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Retirement Plans",
+                "Investment Funds"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sun Life Financial Inc. | Insurance and Asset Management Solutions",
+        "meta_description": "Explore Sun Life Financial Inc., a leading provider of insurance and wealth management solutions. Discover how Sun Life helps clients achieve financial security and healthier lives.",
+        "keywords": [
+            "Sun Life",
+            "Insurance",
+            "Wealth Management",
+            "Financial Services",
+            "Retirement Planning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Sun Life offer?",
+            "answer": "Sun Life offers life insurance, health insurance, retirement savings plans, and investment management services."
+        },
+        {
+            "question": "Who is the CEO of Sun Life?",
+            "answer": "Kevin Strain is the CEO of Sun Life Financial Inc."
+        },
+        {
+            "question": "Where is Sun Life headquartered?",
+            "answer": "Sun Life is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was Sun Life founded?",
+            "answer": "Sun Life was founded in 1865."
+        }
+    ],
+    "competitors": [
+        "MET",
+        "PRU",
+        "AXP",
+        "LNC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JPM",
+        "GS",
+        "WFC"
+    ]
+}

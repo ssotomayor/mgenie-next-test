@@ -1,0 +1,99 @@
+{
+    "ticker": "SSYS",
+    "name": "Stratasys Ltd.",
+    "description": "Stratasys Ltd. is a global leader in additive manufacturing and 3D printing technology. Founded in 1989, Stratasys has transformed industries by providing innovative 3D printing solutions that enable companies to design and manufacture parts with unprecedented speed and efficiency. The company offers a wide range of 3D printers, materials, and software, catering to various sectors including aerospace, automotive, healthcare, and education. Stratasys' proprietary FDM (Fused Deposition Modeling) and PolyJet technologies allow for the creation of high-quality prototypes and end-use parts, reducing the time and cost associated with traditional manufacturing methods. With a commitment to technological advancement, Stratasys continues to invest in research and development, expanding its product offerings and enhancing capabilities. The company also emphasizes sustainability, helping customers reduce waste and carbon footprint through efficient manufacturing practices. Stratasys aims to empower businesses to innovate faster and more effectively, maintaining its position at the forefront of the 3D printing revolution.",
+    "industry": [
+        "3D Printing",
+        "Additive Manufacturing"
+    ],
+    "headquarters": "Eden Prairie, Minnesota, USA",
+    "founded": "1989",
+    "website": "https://www.stratasys.com",
+    "ceo": "Yoav Zeif",
+    "social_media": {
+        "twitter": "https://twitter.com/Stratasys",
+        "linkedin": "https://www.linkedin.com/company/stratasys/"
+    },
+    "investor_relations": "https://investors.stratasys.com",
+    "key_executives": [
+        {
+            "name": "Yoav Zeif",
+            "position": "CEO"
+        },
+        {
+            "name": "Erez Zimerman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Printers",
+            "products": [
+                "F123 Series",
+                "Fortus 900mc",
+                "Objet Series"
+            ]
+        },
+        {
+            "category": "Materials",
+            "products": [
+                "ABS-M30",
+                "PLA",
+                "PolyJet Materials"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "GrabCAD Print",
+                "PolyJet Studio"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Stratasys Ltd. | Leading 3D Printing Solutions",
+        "meta_description": "Explore Stratasys Ltd., the global leader in 3D printing and additive manufacturing. Discover our innovative printers, materials, and software solutions.",
+        "keywords": [
+            "Stratasys",
+            "3D Printing",
+            "Additive Manufacturing",
+            "FDM",
+            "PolyJet",
+            "Prototyping",
+            "Manufacturing Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Stratasys specialize in?",
+            "answer": "Stratasys specializes in additive manufacturing and 3D printing technologies."
+        },
+        {
+            "question": "Who is the CEO of Stratasys?",
+            "answer": "Yoav Zeif is the CEO of Stratasys Ltd."
+        },
+        {
+            "question": "Where is Stratasys headquartered?",
+            "answer": "Stratasys is headquartered in Eden Prairie, Minnesota, USA."
+        },
+        {
+            "question": "What types of products does Stratasys offer?",
+            "answer": "Stratasys offers 3D printers, materials for 3D printing, and software solutions."
+        },
+        {
+            "question": "When was Stratasys founded?",
+            "answer": "Stratasys was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "DDD",
+        "XONE",
+        "HPQ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

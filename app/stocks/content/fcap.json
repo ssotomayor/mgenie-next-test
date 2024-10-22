@@ -1,0 +1,88 @@
+{
+    "ticker": "FCAP",
+    "name": "First Capital, Inc.",
+    "description": "First Capital, Inc. is a community-oriented financial institution focused on providing a wide range of banking services to individuals, businesses, and communities. Founded in 2000 and headquartered in the heart of the Midwest, the company operates through a network of branches, offering personalized banking solutions tailored to meet the unique needs of its customers. First Capital is dedicated to fostering economic growth in the regions it serves, emphasizing customer service, local engagement, and responsible lending practices. The bank provides various services including personal and business checking accounts, savings accounts, loans, mortgages, and investment services. With a commitment to financial literacy, First Capital also offers educational resources to help customers make informed financial decisions. The company has embraced technology in banking, offering robust online and mobile banking solutions that enhance customer convenience. Through its community involvement initiatives, First Capital supports local organizations and events, reinforcing its mission to contribute positively to the communities it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "2000",
+    "website": "https://www.firstcapital.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstCapitalInc",
+        "linkedin": "https://www.linkedin.com/company/first-capital-inc/"
+    },
+    "investor_relations": "https://ir.firstcapital.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking",
+                "Commercial Loans"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Retirement Accounts",
+                "Wealth Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Capital, Inc. | Community Banking and Financial Services",
+        "meta_description": "First Capital, Inc. offers personalized banking services, including loans, checking accounts, and investment options, dedicated to community growth and customer satisfaction.",
+        "keywords": [
+            "First Capital",
+            "Banking",
+            "Financial Services",
+            "Loans",
+            "Mortgages",
+            "Community Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Capital offer?",
+            "answer": "First Capital offers a range of services including personal and business banking, loans, mortgages, and investment services."
+        },
+        {
+            "question": "Where is First Capital headquartered?",
+            "answer": "First Capital is headquartered in Indianapolis, Indiana, USA."
+        },
+        {
+            "question": "When was First Capital founded?",
+            "answer": "First Capital was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "WFC",
+        "JPM",
+        "BAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL"
+    ]
+}

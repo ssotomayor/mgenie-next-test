@@ -1,0 +1,88 @@
+{
+    "ticker": "SMCAY",
+    "name": "Sumitomo Metal Mining Co., Ltd.",
+    "description": "Sumitomo Metal Mining Co., Ltd. (SMM) is a leading Japanese company involved in mining, smelting, and refining non-ferrous metals. Founded in 1950, SMM has established itself as a key player in the global mining industry, specializing in copper, nickel, and precious metals. The company operates several mines and refineries, notably in Japan, but also has interests in mining operations across the globe, including in the Americas and Southeast Asia. SMM is recognized for its commitment to sustainability and responsible mining practices, aiming to balance economic growth with environmental stewardship. The company invests heavily in research and development to enhance its mining technologies and improve efficiency while minimizing environmental impact. Additionally, SMM is actively involved in the production of electronic materials and components that are critical for the electronics and automotive industries. With a focus on innovation, SMM continues to adapt to the changing global landscape, particularly in the context of increasing demand for renewable energy technologies that require metals such as lithium and cobalt.",
+    "industry": [
+        "Mining",
+        "Metals"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1950",
+    "website": "https://www.smm.co.jp",
+    "ceo": "Akira Nozaki",
+    "social_media": {
+        "twitter": "https://twitter.com/smmining",
+        "linkedin": "https://www.linkedin.com/company/sumitomo-metal-mining"
+    },
+    "investor_relations": "https://www.smm.co.jp/english/ir/index.html",
+    "key_executives": [
+        {
+            "name": "Akira Nozaki",
+            "position": "CEO"
+        },
+        {
+            "name": "Masahiro Matsumoto",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Non-Ferrous Metals",
+            "products": [
+                "Copper",
+                "Nickel",
+                "Gold",
+                "Silver"
+            ]
+        },
+        {
+            "category": "Electronic Materials",
+            "products": [
+                "Copper Foil",
+                "Lead Frames"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sumitomo Metal Mining Co., Ltd. | Leading Non-Ferrous Metals Producer",
+        "meta_description": "Explore Sumitomo Metal Mining Co., Ltd., a premier player in the non-ferrous metals industry, dedicated to sustainable mining and innovative electronic materials.",
+        "keywords": [
+            "Sumitomo Metal Mining",
+            "Non-Ferrous Metals",
+            "Copper",
+            "Nickel",
+            "Mining Industry",
+            "Sustainable Mining"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sumitomo Metal Mining specialize in?",
+            "answer": "Sumitomo Metal Mining specializes in mining, smelting, and refining non-ferrous metals such as copper and nickel."
+        },
+        {
+            "question": "When was Sumitomo Metal Mining founded?",
+            "answer": "Sumitomo Metal Mining was founded in 1950."
+        },
+        {
+            "question": "Where is Sumitomo Metal Mining headquartered?",
+            "answer": "Sumitomo Metal Mining is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are the main products of Sumitomo Metal Mining?",
+            "answer": "The main products include copper, nickel, gold, silver, and electronic materials."
+        }
+    ],
+    "competitors": [
+        "FCX",
+        "BHP",
+        "RIO",
+        "VALE"
+    ],
+    "related_stocks": [
+        "NEM",
+        "AUY",
+        "KGC",
+        "GOLD"
+    ]
+}

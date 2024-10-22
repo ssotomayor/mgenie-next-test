@@ -1,0 +1,96 @@
+{
+    "ticker": "CMCSA",
+    "name": "Comcast Corporation",
+    "description": "Comcast Corporation is a global media and technology company that operates through two primary segments: Comcast Cable and NBCUniversal. Founded in 1963, Comcast has grown to become one of the largest telecommunications and media conglomerates in the world. The company provides a wide range of services, including high-speed internet, cable television, and phone services to millions of residential and business customers across the United States. Comcast Cable, known for its Xfinity brand, delivers advanced broadband services, digital TV, and home security solutions. In addition to its cable operations, Comcast owns NBCUniversal, which encompasses a vast array of entertainment assets, including the NBC television network, Universal Pictures, and various theme parks. The company is at the forefront of innovation in media, investing heavily in streaming services and original content to compete with other major players in the industry. Comcast's mission is to connect people to moments that matter, leveraging technology and creativity to enhance the viewing experience and deliver value to its customers.",
+    "industry": [
+        "Telecommunications",
+        "Media"
+    ],
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "founded": "1963",
+    "website": "https://www.comcast.com",
+    "ceo": "Brian L. Roberts",
+    "social_media": {
+        "twitter": "https://twitter.com/Comcast",
+        "linkedin": "https://www.linkedin.com/company/comcast"
+    },
+    "investor_relations": "https://ir.comcast.com",
+    "key_executives": [
+        {
+            "name": "Brian L. Roberts",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Michael Cavanagh",
+            "position": "Vice Chairman"
+        },
+        {
+            "name": "Dave Watson",
+            "position": "President and CEO of Comcast Cable"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications Services",
+            "products": [
+                "Xfinity Internet",
+                "Xfinity TV",
+                "Xfinity Voice"
+            ]
+        },
+        {
+            "category": "Media and Entertainment",
+            "products": [
+                "NBC Television Network",
+                "Universal Pictures",
+                "Peacock Streaming Service"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Comcast Corporation | Leading Telecommunications and Media Company",
+        "meta_description": "Comcast Corporation is a leading media and technology company providing cable, internet, and entertainment services. Learn about Comcast's innovative solutions and commitment to customer service.",
+        "keywords": [
+            "Comcast",
+            "Telecommunications",
+            "Cable TV",
+            "Broadband Internet",
+            "NBCUniversal",
+            "Peacock"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Comcast provide?",
+            "answer": "Comcast provides high-speed internet, cable television, and phone services."
+        },
+        {
+            "question": "Who is the CEO of Comcast?",
+            "answer": "Brian L. Roberts is the Chairman and CEO of Comcast Corporation."
+        },
+        {
+            "question": "Where is Comcast headquartered?",
+            "answer": "Comcast is headquartered in Philadelphia, Pennsylvania, USA."
+        },
+        {
+            "question": "What is NBCUniversal?",
+            "answer": "NBCUniversal is a subsidiary of Comcast that includes the NBC television network and Universal Pictures."
+        },
+        {
+            "question": "When was Comcast founded?",
+            "answer": "Comcast was founded in 1963."
+        }
+    ],
+    "competitors": [
+        "T",
+        "VZ",
+        "DIS",
+        "NFLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "DIS"
+    ]
+}

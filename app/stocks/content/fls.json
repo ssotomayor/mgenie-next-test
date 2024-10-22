@@ -1,0 +1,101 @@
+{
+    "ticker": "FLS",
+    "name": "Flowserve Corporation",
+    "description": "Flowserve Corporation is a global leader in the fluid motion and control industry, providing a comprehensive array of services and products designed to help customers manage the flow of fluids in their operations. Founded in 1797 and headquartered in Irving, Texas, Flowserve operates in more than 55 countries, serving a diverse portfolio of industries including oil and gas, chemical, power, water management, and industrial applications. The company specializes in the manufacturing of pumps, valves, seals, and related services, ensuring the safe and reliable movement of fluids. Flowserve's commitment to innovation is evident in its advanced technologies that enhance performance and efficiency, reduce costs, and minimize environmental impact. The company emphasizes sustainability and operational excellence, aiming to deliver solutions that not only meet but exceed customer expectations. Through a combination of engineering expertise and global reach, Flowserve is well-positioned to address the challenges facing fluid management in an ever-evolving marketplace, making significant contributions to enhancing the safety and reliability of fluid systems across numerous sectors.",
+    "industry": [
+        "Manufacturing",
+        "Engineering",
+        "Energy"
+    ],
+    "headquarters": "Irving, Texas, USA",
+    "founded": "1797",
+    "website": "https://www.flowserve.com",
+    "ceo": "R. Scott Rowe",
+    "social_media": {
+        "twitter": "https://twitter.com/Flowserve",
+        "linkedin": "https://www.linkedin.com/company/flowserve/"
+    },
+    "investor_relations": "https://investors.flowserve.com",
+    "key_executives": [
+        {
+            "name": "R. Scott Rowe",
+            "position": "CEO"
+        },
+        {
+            "name": "Patrick S. McGowan",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/patrick-mcgowan-835b2b9/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pumps",
+            "products": [
+                "Centrifugal Pumps",
+                "Positive Displacement Pumps"
+            ]
+        },
+        {
+            "category": "Valves",
+            "products": [
+                "Control Valves",
+                "Isolation Valves"
+            ]
+        },
+        {
+            "category": "Seals",
+            "products": [
+                "Mechanical Seals",
+                "Packing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Flowserve Corporation | Fluid Motion and Control Solutions",
+        "meta_description": "Explore Flowserve Corporation, a global leader in fluid motion and control, providing innovative solutions and products for various industries.",
+        "keywords": [
+            "Flowserve",
+            "Fluid Motion",
+            "Control Solutions",
+            "Pumps",
+            "Valves",
+            "Seals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Flowserve specialize in?",
+            "answer": "Flowserve specializes in fluid motion and control solutions, including pumps, valves, and seals."
+        },
+        {
+            "question": "Where is Flowserve headquartered?",
+            "answer": "Flowserve is headquartered in Irving, Texas, USA."
+        },
+        {
+            "question": "Who is the CEO of Flowserve?",
+            "answer": "R. Scott Rowe is the CEO of Flowserve Corporation."
+        },
+        {
+            "question": "What industries does Flowserve serve?",
+            "answer": "Flowserve serves industries such as oil and gas, chemical, power, water management, and industrial applications."
+        },
+        {
+            "question": "When was Flowserve founded?",
+            "answer": "Flowserve was founded in 1797."
+        }
+    ],
+    "competitors": [
+        "ITW",
+        "GE",
+        "SPXC",
+        "PBF"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "SLB",
+        "HAL"
+    ]
+}

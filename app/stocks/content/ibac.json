@@ -1,0 +1,97 @@
+{
+    "ticker": "IBAC",
+    "name": "International Bank of Commerce",
+    "description": "International Bank of Commerce (IBC) is a leading financial institution based in the United States, primarily serving the Hispanic community and the broader market with a diverse range of banking and financial services. Founded in 1966, IBC has established itself as a trusted partner for individuals, businesses, and communities, offering services that include personal banking, business banking, mortgages, and wealth management solutions. The bank prides itself on its commitment to customer service and community involvement, supporting local initiatives and economic development projects. IBC operates numerous branches across Texas and other states, providing easy access to banking services. The institution is noted for its innovative banking solutions, such as digital banking services and mobile applications that enhance the customer experience. With a focus on building long-lasting relationships, IBC aims to empower its customers through financial education and tailored financial products that meet their specific needs. The bank's mission is to provide comprehensive financial services while maintaining a strong ethical foundation and contributing positively to the communities it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Laredo, Texas, USA",
+    "founded": "1966",
+    "website": "https://www.ibc.com",
+    "ceo": "Dennis E. Nixon",
+    "social_media": {
+        "twitter": "https://twitter.com/ibc_bank",
+        "linkedin": "https://www.linkedin.com/company/international-bank-of-commerce-ibc-bank/",
+        "facebook": "https://www.facebook.com/ibcbank"
+    },
+    "investor_relations": "https://www.ibc.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Dennis E. Nixon",
+            "position": "CEO"
+        },
+        {
+            "name": "David E. Nixon",
+            "position": "Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking",
+                "Commercial Loans",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "International Bank of Commerce | Banking and Financial Services",
+        "meta_description": "Explore International Bank of Commerce (IBC), a leading bank offering personal, business, and wealth management services while serving the Hispanic community.",
+        "keywords": [
+            "IBC Bank",
+            "Banking",
+            "Financial Services",
+            "Mortgages",
+            "Wealth Management",
+            "Community Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does IBC Bank offer?",
+            "answer": "IBC Bank offers personal banking, business banking, mortgages, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of IBC Bank?",
+            "answer": "Dennis E. Nixon is the CEO of International Bank of Commerce."
+        },
+        {
+            "question": "Where is IBC Bank headquartered?",
+            "answer": "IBC Bank is headquartered in Laredo, Texas, USA."
+        },
+        {
+            "question": "When was IBC Bank founded?",
+            "answer": "IBC Bank was founded in 1966."
+        }
+    ],
+    "competitors": [
+        "WFC",
+        "C",
+        "JPM",
+        "USB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

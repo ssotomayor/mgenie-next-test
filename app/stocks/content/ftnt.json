@@ -1,0 +1,97 @@
+{
+    "ticker": "FTNT",
+    "name": "Fortinet, Inc.",
+    "description": "Fortinet, Inc. is a global leader in cybersecurity solutions, dedicated to providing comprehensive protection against sophisticated cyber threats. Founded in 2000 by Ken Xie and his brother Michael Xie, Fortinet has developed a unique set of security technologies that help organizations secure their networks, users, and applications. The company's flagship product, FortiGate, is a next-generation firewall that integrates advanced security capabilities such as intrusion prevention, antivirus, and web filtering, all within a single platform. Fortinet's solutions are designed to protect against a wide range of cyber threats, including malware, ransomware, and phishing attacks, while ensuring compliance with industry regulations. With a focus on innovation, Fortinet invests heavily in research and development to continuously enhance its offerings, including cloud security, endpoint protection, and secure access. The company operates a global Security Fabric architecture that allows for seamless integration of its products, enabling organizations to achieve a unified security posture. Fortinet's mission is to deliver broad, integrated, and automated security solutions to help organizations stay ahead of the evolving threat landscape.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "2000",
+    "website": "https://www.fortinet.com",
+    "ceo": "Ken Xie",
+    "social_media": {
+        "twitter": "https://twitter.com/fortinet",
+        "linkedin": "https://www.linkedin.com/company/fortinet/",
+        "youtube": "https://www.youtube.com/user/Fortinet"
+    },
+    "investor_relations": "https://investor.fortinet.com",
+    "key_executives": [
+        {
+            "name": "Ken Xie",
+            "position": "CEO"
+        },
+        {
+            "name": "Keith Jensen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Network Security",
+            "products": [
+                "FortiGate",
+                "FortiAnalyzer"
+            ]
+        },
+        {
+            "category": "Cloud Security",
+            "products": [
+                "FortiWeb",
+                "FortiCASB"
+            ]
+        },
+        {
+            "category": "Endpoint Security",
+            "products": [
+                "FortiClient"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fortinet, Inc. | Leading Cybersecurity Solutions",
+        "meta_description": "Explore Fortinet, Inc., a leader in cybersecurity solutions. Learn about their innovative products and commitment to protecting organizations from cyber threats.",
+        "keywords": [
+            "Fortinet",
+            "Cybersecurity",
+            "Network Security",
+            "FortiGate",
+            "Cloud Security",
+            "Endpoint Protection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fortinet do?",
+            "answer": "Fortinet provides cybersecurity solutions to protect networks, users, and applications from cyber threats."
+        },
+        {
+            "question": "Who is the CEO of Fortinet?",
+            "answer": "Ken Xie is the CEO of Fortinet, Inc."
+        },
+        {
+            "question": "Where is Fortinet headquartered?",
+            "answer": "Fortinet is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are Fortinet's main products?",
+            "answer": "Fortinet's main products include FortiGate, FortiAnalyzer, FortiWeb, and FortiClient."
+        },
+        {
+            "question": "When was Fortinet founded?",
+            "answer": "Fortinet was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "PANW",
+        "CSCO",
+        "SPLK",
+        "ZM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

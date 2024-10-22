@@ -1,0 +1,92 @@
+{
+    "ticker": "ERIC",
+    "name": "Ericsson",
+    "description": "Ericsson is a global leader in telecommunications and networking technology, dedicated to enabling the full potential of the connected world. Founded in 1876 in Stockholm, Sweden, Ericsson has played a pivotal role in shaping the telecommunications landscape, providing innovative solutions for mobile networks, broadband, and IoT (Internet of Things). The company designs and delivers a range of products and services, including 5G infrastructure, cloud solutions, and managed services, catering to communication service providers and enterprises. With a strong focus on research and development, Ericsson invests heavily in technology innovations that promote digital transformation and enhance network efficiency. Its commitment to sustainability and social responsibility is evident through initiatives aimed at reducing the environmental impact of its operations and contributing to the communities it serves. Ericsson's mission is to empower communication service providers and industries to capture the full value of connectivity, ensuring a smarter, more efficient, and sustainable future.",
+    "industry": [
+        "Telecommunications",
+        "Information Technology"
+    ],
+    "headquarters": "Stockholm, Sweden",
+    "founded": "1876",
+    "website": "https://www.ericsson.com",
+    "ceo": "B\u00f6rje Ekholm",
+    "social_media": {
+        "twitter": "https://twitter.com/ericsson",
+        "linkedin": "https://www.linkedin.com/company/ericsson/",
+        "youtube": "https://www.youtube.com/user/ericsson"
+    },
+    "investor_relations": "https://www.ericsson.com/en/investors",
+    "key_executives": [
+        {
+            "name": "B\u00f6rje Ekholm",
+            "position": "CEO"
+        },
+        {
+            "name": "Carl Mellander",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications Equipment",
+            "products": [
+                "5G Radio Systems",
+                "Core Network Solutions",
+                "Transport Solutions"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Cloud Core",
+                "Cloud RAN",
+                "Managed Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ericsson | Leading Telecommunications Technology",
+        "meta_description": "Explore Ericsson, a global leader in telecommunications technology. Discover our innovative solutions for 5G, IoT, and digital transformation.",
+        "keywords": [
+            "Ericsson",
+            "Telecommunications",
+            "5G",
+            "IoT",
+            "Networking Technology",
+            "Cloud Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Ericsson do?",
+            "answer": "Ericsson provides telecommunications equipment and services, including 5G infrastructure and cloud solutions."
+        },
+        {
+            "question": "Who is the CEO of Ericsson?",
+            "answer": "B\u00f6rje Ekholm is the CEO of Ericsson."
+        },
+        {
+            "question": "Where is Ericsson headquartered?",
+            "answer": "Ericsson is headquartered in Stockholm, Sweden."
+        },
+        {
+            "question": "What are Ericsson's main products?",
+            "answer": "Ericsson's main products include 5G Radio Systems, Core Network Solutions, and Cloud Services."
+        },
+        {
+            "question": "When was Ericsson founded?",
+            "answer": "Ericsson was founded in 1876."
+        }
+    ],
+    "competitors": [
+        "NOK",
+        "NEE",
+        "MSI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "INTC"
+    ]
+}

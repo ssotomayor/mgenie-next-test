@@ -1,0 +1,91 @@
+{
+    "ticker": "APA",
+    "name": "Apache Corporation",
+    "description": "Apache Corporation is an independent energy company engaged in the exploration, production, and development of oil and natural gas resources. Founded in 1954 and headquartered in Houston, Texas, Apache operates in several key regions, including the United States, Canada, Egypt, and the North Sea. The company focuses on the acquisition and development of oil and gas assets, leveraging advanced technologies to optimize production and improve efficiency. Apache is particularly known for its strong presence in the Permian Basin, one of the most prolific oil-producing regions in the United States. In addition to conventional oil and gas exploration, Apache is also investing in renewable energy initiatives, including geothermal energy and carbon capture technologies, reflecting its commitment to energy transition and sustainability. With a robust portfolio and a strong operational foundation, Apache Corporation aims to drive growth while maintaining a focus on environmental responsibility and community engagement.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1954",
+    "website": "https://www.apachecorp.com",
+    "ceo": "John J. Christmann IV",
+    "social_media": {
+        "twitter": "https://twitter.com/apachecorp",
+        "linkedin": "https://www.linkedin.com/company/apache-corporation/"
+    },
+    "investor_relations": "https://investor.apachecorp.com",
+    "key_executives": [
+        {
+            "name": "John J. Christmann IV",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha A. McCarty",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas Production",
+            "products": [
+                "Crude Oil",
+                "Natural Gas",
+                "Natural Gas Liquids"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Geothermal Energy",
+                "Carbon Capture Technologies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Apache Corporation | Independent Oil and Gas Company",
+        "meta_description": "Explore Apache Corporation, a leader in the oil and gas industry focused on sustainable exploration and production. Learn about our operations and commitment to renewable energy.",
+        "keywords": [
+            "Apache Corporation",
+            "Oil and Gas",
+            "Energy Production",
+            "Permian Basin",
+            "Sustainability",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Apache Corporation known for?",
+            "answer": "Apache Corporation is known for its exploration and production of oil and natural gas resources."
+        },
+        {
+            "question": "Who is the CEO of Apache Corporation?",
+            "answer": "John J. Christmann IV is the CEO of Apache Corporation."
+        },
+        {
+            "question": "Where is Apache Corporation headquartered?",
+            "answer": "Apache Corporation is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Apache's main products?",
+            "answer": "Apache's main products include crude oil, natural gas, and natural gas liquids."
+        },
+        {
+            "question": "When was Apache Corporation founded?",
+            "answer": "Apache Corporation was founded in 1954."
+        }
+    ],
+    "competitors": [
+        "CVX",
+        "XOM",
+        "EOG",
+        "COP"
+    ],
+    "related_stocks": [
+        "OXY",
+        "SLB",
+        "PXD",
+        "VLO"
+    ]
+}

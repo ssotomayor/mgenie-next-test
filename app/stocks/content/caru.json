@@ -1,0 +1,92 @@
+{
+    "ticker": "CARU",
+    "name": "Carvana Co.",
+    "description": "Carvana Co. is an innovative e-commerce platform for buying and selling used cars, revolutionizing the automotive retail experience. Founded in 2012 by Ernie Garcia III, Carvana has transformed the way consumers purchase vehicles by providing a seamless online experience. Customers can browse a vast inventory of vehicles, view 360-degree virtual tours, and complete the entire transaction online from the comfort of their home. Carvana's signature 'car vending machines' provide a unique pick-up experience, allowing customers to retrieve their vehicles in an automated, fun environment. The company utilizes advanced technology to streamline the car buying process, offering features like home delivery, seven-day return policy, and financing options. Carvana aims to eliminate the traditional hassles associated with car buying, such as haggling and lengthy paperwork, thereby enhancing customer satisfaction. As a leader in the online used car market, Carvana is committed to transparency, providing vehicle history reports and offering a no-haggle pricing model. With a focus on innovation and customer service, Carvana continues to expand its footprint across the United States, making car buying an accessible and enjoyable experience for all.",
+    "industry": [
+        "Automotive",
+        "E-commerce"
+    ],
+    "headquarters": "Phoenix, Arizona, USA",
+    "founded": "2012",
+    "website": "https://www.carvana.com",
+    "ceo": "Ernie Garcia III",
+    "social_media": {
+        "twitter": "https://twitter.com/carvana",
+        "linkedin": "https://www.linkedin.com/company/carvana/"
+    },
+    "investor_relations": "https://investors.carvana.com",
+    "key_executives": [
+        {
+            "name": "Ernie Garcia III",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Jenkins",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/mark-jenkins-9a99b1/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Used Cars",
+            "products": [
+                "Sedans",
+                "SUVs",
+                "Trucks",
+                "Vans"
+            ]
+        },
+        {
+            "category": "Financing",
+            "products": [
+                "Car Loans",
+                "Leasing Options"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Carvana Co. | Buy and Sell Used Cars Online",
+        "meta_description": "Explore Carvana Co., the leading online platform for buying and selling used cars. Discover an innovative car buying experience with home delivery and a seven-day return policy.",
+        "keywords": [
+            "Carvana",
+            "Used Cars",
+            "E-commerce",
+            "Online Car Buying",
+            "Car Vending Machine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Carvana known for?",
+            "answer": "Carvana is known for its online platform that simplifies the process of buying and selling used cars."
+        },
+        {
+            "question": "Who is the CEO of Carvana?",
+            "answer": "Ernie Garcia III is the CEO of Carvana Co."
+        },
+        {
+            "question": "Where is Carvana headquartered?",
+            "answer": "Carvana is headquartered in Phoenix, Arizona, USA."
+        },
+        {
+            "question": "What are Carvana's main services?",
+            "answer": "Carvana's main services include buying and selling used cars, financing options, and vehicle delivery."
+        },
+        {
+            "question": "When was Carvana founded?",
+            "answer": "Carvana was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "VROOM",
+        "AUTO",
+        "CARGURUS"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "EBAY",
+        "TSLA"
+    ]
+}

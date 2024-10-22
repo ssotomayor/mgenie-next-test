@@ -1,0 +1,99 @@
+{
+    "ticker": "ISRA",
+    "name": "Israeli Aerospace Industries Ltd.",
+    "description": "Israeli Aerospace Industries Ltd. (IAI) is a leading defense and aerospace company based in Israel, known for its innovative solutions in the field of aviation, space, and defense. Established in 1953, IAI has built a reputation for developing advanced technologies that enhance national security and contribute to the defense capabilities of countries worldwide. The company specializes in the design and manufacture of military and commercial aircraft, unmanned aerial systems (UAS), satellite systems, and various defense systems. IAI's most notable products include the Arrow missile defense system, the Heron family of drones, and advanced radar systems. With a commitment to research and development, IAI invests heavily in cutting-edge technologies such as artificial intelligence, cyber defense, and advanced manufacturing techniques. IAI's global presence includes partnerships with various governments and defense agencies, making it a key player in international defense markets. The company aims to provide innovative solutions that address the evolving challenges of modern warfare while maintaining a focus on sustainability and technological advancement.",
+    "industry": [
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "Malatya, Israel",
+    "founded": "1953",
+    "website": "https://www.iai.co.il",
+    "ceo": "Boaz Levy",
+    "social_media": {
+        "twitter": "https://twitter.com/IAI_Official",
+        "linkedin": "https://www.linkedin.com/company/israeli-aerospace-industries/"
+    },
+    "investor_relations": "https://www.iai.co.il/en/investor-relations",
+    "key_executives": [
+        {
+            "name": "Boaz Levy",
+            "position": "CEO"
+        },
+        {
+            "name": "Yair Kulas",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Defense Systems",
+            "products": [
+                "Arrow Missile Defense System",
+                "Iron Dome",
+                "David's Sling"
+            ]
+        },
+        {
+            "category": "Aerospace",
+            "products": [
+                "Heron UAV",
+                "Eitan UAV",
+                "Various Military Aircraft"
+            ]
+        },
+        {
+            "category": "Space Systems",
+            "products": [
+                "Satellites",
+                "Launch Vehicles"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Israeli Aerospace Industries Ltd. | Defense and Aerospace Solutions",
+        "meta_description": "Explore Israeli Aerospace Industries Ltd., a leader in defense and aerospace solutions. Discover IAI's cutting-edge technologies and commitment to innovation.",
+        "keywords": [
+            "IAI",
+            "Israeli Aerospace",
+            "Defense Systems",
+            "Unmanned Aerial Systems",
+            "Aerospace",
+            "Military Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IAI specialize in?",
+            "answer": "IAI specializes in defense and aerospace technologies, including military aircraft, unmanned systems, and missile defense."
+        },
+        {
+            "question": "Who is the CEO of IAI?",
+            "answer": "Boaz Levy is the CEO of Israeli Aerospace Industries Ltd."
+        },
+        {
+            "question": "Where is IAI headquartered?",
+            "answer": "IAI is headquartered in Malatya, Israel."
+        },
+        {
+            "question": "What are some of IAI's main products?",
+            "answer": "IAI's main products include the Arrow missile defense system, Heron UAV, and various military aircraft."
+        },
+        {
+            "question": "When was IAI founded?",
+            "answer": "IAI was founded in 1953."
+        }
+    ],
+    "competitors": [
+        "BA",
+        "LMT",
+        "NOC",
+        "GD"
+    ],
+    "related_stocks": [
+        "RTX",
+        "MCHP",
+        "HON",
+        "SPCE"
+    ]
+}

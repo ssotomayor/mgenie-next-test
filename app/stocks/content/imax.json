@@ -1,0 +1,91 @@
+{
+    "ticker": "IMAX",
+    "name": "IMAX Corporation",
+    "description": "IMAX Corporation is a global leader in the entertainment technology industry, specializing in immersive cinematic experiences. Founded in 1967, IMAX has revolutionized the way audiences experience films, providing an unparalleled level of visual and auditory engagement. The company designs and manufactures high-resolution, large-format projection systems, and operates a network of IMAX theaters worldwide. IMAX's proprietary technology enhances the viewing experience by showcasing films in a uniquely immersive format, featuring crystal-clear images and powerful sound that transport viewers into the heart of the story. The company has partnered with major film studios to produce and distribute blockbuster films and documentaries in IMAX format, significantly elevating the cinematic experience for audiences. In addition to its theater operations, IMAX is involved in the creation of original content, collaborating with filmmakers to develop films that take full advantage of its innovative technology. With a commitment to pushing the boundaries of film and entertainment, IMAX continues to expand its presence in the global market, while focusing on enhancing customer engagement and driving innovation in film production and distribution.",
+    "industry": [
+        "Entertainment Technology",
+        "Film Production",
+        "Theater Operations"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1967",
+    "website": "https://www.imax.com",
+    "ceo": "Rich Gelfond",
+    "social_media": {
+        "twitter": "https://twitter.com/IMAX",
+        "linkedin": "https://www.linkedin.com/company/imax",
+        "instagram": "https://www.instagram.com/imax"
+    },
+    "investor_relations": "https://investor.imax.com",
+    "key_executives": [
+        {
+            "name": "Rich Gelfond",
+            "position": "CEO"
+        },
+        {
+            "name": "Patricia McCorkle",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Theater Technology",
+            "products": [
+                "IMAX Projection Systems",
+                "IMAX Sound Systems"
+            ]
+        },
+        {
+            "category": "Content Creation",
+            "products": [
+                "IMAX Original Films",
+                "Documentary Films"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IMAX Corporation | Immersive Cinematic Experiences",
+        "meta_description": "Explore IMAX Corporation, the leader in entertainment technology delivering immersive cinematic experiences through innovative film formats and projection systems.",
+        "keywords": [
+            "IMAX",
+            "Entertainment Technology",
+            "Cinematic Experience",
+            "Film Production",
+            "IMAX Theaters",
+            "Immersive Films"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IMAX known for?",
+            "answer": "IMAX is known for its immersive large-format film experiences and high-resolution projection technology."
+        },
+        {
+            "question": "Who is the CEO of IMAX?",
+            "answer": "Rich Gelfond is the CEO of IMAX Corporation."
+        },
+        {
+            "question": "Where is IMAX headquartered?",
+            "answer": "IMAX is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are IMAX's main products?",
+            "answer": "IMAX's main products include IMAX projection systems, IMAX sound systems, and original films."
+        },
+        {
+            "question": "When was IMAX founded?",
+            "answer": "IMAX was founded in 1967."
+        }
+    ],
+    "competitors": [
+        "CMCSA",
+        "DIS",
+        "NCMI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NFLX",
+        "AMZN",
+        "DIS"
+    ]
+}

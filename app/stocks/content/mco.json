@@ -1,0 +1,89 @@
+{
+    "ticker": "MCO",
+    "name": "Moody's Corporation",
+    "description": "Moody's Corporation is a global integrated risk assessment firm that provides credit ratings, research, tools, and analysis that contribute to transparent and integrated financial markets. Founded in 1909 by John Moody, the company is best known for its credit rating services, which help investors assess the creditworthiness of various entities, including corporations, governments, and structured finance products. Moody's operates through two main segments: Moody's Investors Service (MIS), which provides credit ratings and research, and Moody's Analytics (MA), which offers software, advisory services, and research to facilitate risk assessment and management. With a commitment to delivering insightful analysis and data-driven solutions, Moody's plays a critical role in the global financial ecosystem, helping clients navigate complex financial environments. The company is headquartered in New York City and has a presence in over 40 countries, serving clients in a wide range of industries including finance, insurance, and investment management. Moody's aims to enhance transparency and foster efficiency in the global capital markets while supporting sustainable economic growth.",
+    "industry": [
+        "Financial Services",
+        "Risk Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1909",
+    "website": "https://www.moodys.com",
+    "ceo": "Rob Fauber",
+    "social_media": {
+        "twitter": "https://twitter.com/MoodysInvSvc",
+        "linkedin": "https://www.linkedin.com/company/moodys-corporation/"
+    },
+    "investor_relations": "https://ir.moodys.com",
+    "key_executives": [
+        {
+            "name": "Rob Fauber",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark K. Almeida",
+            "position": "President, Moody's Analytics"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Ratings",
+            "products": [
+                "Corporate Credit Ratings",
+                "Public Finance Ratings",
+                "Structured Finance Ratings"
+            ]
+        },
+        {
+            "category": "Risk Management Solutions",
+            "products": [
+                "Credit Risk Models",
+                "Financial Risk Software",
+                "Economic Research"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Moody's Corporation | Global Risk Assessment and Credit Ratings",
+        "meta_description": "Explore Moody's Corporation, a leading provider of credit ratings and risk assessment solutions. Learn about its impact on financial markets and clients.",
+        "keywords": [
+            "Moody's",
+            "Credit Ratings",
+            "Risk Assessment",
+            "Financial Services",
+            "Investment Research"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Moody's Corporation do?",
+            "answer": "Moody's Corporation provides credit ratings, research, and risk management solutions to help clients make informed financial decisions."
+        },
+        {
+            "question": "Who is the CEO of Moody's Corporation?",
+            "answer": "Rob Fauber is the CEO of Moody's Corporation."
+        },
+        {
+            "question": "Where is Moody's Corporation headquartered?",
+            "answer": "Moody's Corporation is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Moody's main products?",
+            "answer": "Moody's main products include credit ratings, credit risk models, and financial risk software."
+        },
+        {
+            "question": "When was Moody's Corporation founded?",
+            "answer": "Moody's Corporation was founded in 1909."
+        }
+    ],
+    "competitors": [
+        "SPGI",
+        "FITCH"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GS",
+        "JPM"
+    ]
+}

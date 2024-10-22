@@ -1,0 +1,93 @@
+{
+    "ticker": "ADT",
+    "name": "ADT Inc.",
+    "description": "ADT Inc. is a leading provider of security and automation solutions for homes and businesses. Founded in 1874, ADT has a long history of delivering innovative security services and products that protect millions of customers across North America. The company specializes in monitoring services, including intrusion detection, video surveillance, and fire protection, supported by a network of monitoring centers that operate 24/7. ADT's commitment to safety and security is reflected in its extensive range of offerings, which include smart home technology, commercial security systems, and integrated automation solutions. The company leverages advanced technology to enhance the customer experience, allowing users to manage their security systems remotely via mobile apps. ADT also emphasizes customer service and support, providing tailored solutions to meet the unique needs of residential and commercial clients. With a focus on innovation and a dedication to protecting people and property, ADT continues to be a trusted name in the security industry.",
+    "industry": [
+        "Security",
+        "Technology"
+    ],
+    "headquarters": "Boca Raton, Florida, USA",
+    "founded": "1874",
+    "website": "https://www.adt.com",
+    "ceo": "Jim DeVries",
+    "social_media": {
+        "twitter": "https://twitter.com/ADT",
+        "linkedin": "https://www.linkedin.com/company/adt",
+        "facebook": "https://www.facebook.com/ADT",
+        "youtube": "https://www.youtube.com/user/ADT"
+    },
+    "investor_relations": "https://ir.adt.com",
+    "key_executives": [
+        {
+            "name": "Jim DeVries",
+            "position": "CEO"
+        },
+        {
+            "name": "Dan Bresingham",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Residential Security",
+            "products": [
+                "Home Security Systems",
+                "Smart Home Automation",
+                "Video Surveillance"
+            ]
+        },
+        {
+            "category": "Commercial Security",
+            "products": [
+                "Business Security Solutions",
+                "Access Control Systems",
+                "Fire Alarm Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ADT Inc. | Leading Provider of Security Solutions",
+        "meta_description": "ADT Inc. offers comprehensive security and automation solutions for homes and businesses. Explore ADT's innovative products and services designed to keep you safe.",
+        "keywords": [
+            "ADT",
+            "Security Solutions",
+            "Home Automation",
+            "Business Security",
+            "Smart Home",
+            "Intrusion Detection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ADT provide?",
+            "answer": "ADT provides security monitoring services, video surveillance, fire protection, and smart home automation solutions."
+        },
+        {
+            "question": "Who is the CEO of ADT?",
+            "answer": "Jim DeVries is the CEO of ADT Inc."
+        },
+        {
+            "question": "Where is ADT headquartered?",
+            "answer": "ADT is headquartered in Boca Raton, Florida, USA."
+        },
+        {
+            "question": "What types of security systems does ADT offer?",
+            "answer": "ADT offers residential security systems, commercial security solutions, video surveillance, and smart home technology."
+        },
+        {
+            "question": "When was ADT founded?",
+            "answer": "ADT was founded in 1874."
+        }
+    ],
+    "competitors": [
+        "RING",
+        "SCTY",
+        "CFLT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

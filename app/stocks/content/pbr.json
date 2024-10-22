@@ -1,0 +1,100 @@
+{
+    "ticker": "PBR",
+    "name": "Petrobras",
+    "description": "Petrobras, officially known as Petr\u00f3leo Brasileiro S.A., is a state-controlled oil giant in Brazil, recognized as one of the largest producers of oil and natural gas in Latin America and a key player in the global energy market. Founded in 1953, Petrobras has a rich history of exploration and production, with operations extending across the entire oil and gas value chain, including refining, distribution, and sales. The company is particularly noted for its deepwater drilling capabilities, especially in the pre-salt layer of the Santos Basin, which has been a significant source of Brazil's oil reserves. Petrobras is also involved in biofuels, specifically ethanol production, and is committed to sustainable practices in the energy sector. The company aims to balance its operational efficiency with environmental responsibility, investing in research and development for cleaner energy technologies. Petrobras is a vital part of Brazil's economy, contributing significantly to the country\u2019s energy supply and employment. Its mission emphasizes the importance of energy security and sustainable development, aiming to meet the growing energy demands of Brazil while minimizing its environmental impact.",
+    "industry": [
+        "Oil and Gas",
+        "Energy"
+    ],
+    "headquarters": "Rio de Janeiro, Brazil",
+    "founded": "1953",
+    "website": "https://www.petrobras.com.br",
+    "ceo": "Jean Paul Prates",
+    "social_media": {
+        "twitter": "https://twitter.com/petrobras",
+        "linkedin": "https://www.linkedin.com/company/petrobras/",
+        "youtube": "https://www.youtube.com/user/petrobras"
+    },
+    "investor_relations": "https://www.petrobras.com.br/en/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Jean Paul Prates",
+            "position": "CEO"
+        },
+        {
+            "name": "Rodrigo Araujo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas Exploration",
+            "products": [
+                "Crude Oil",
+                "Natural Gas"
+            ]
+        },
+        {
+            "category": "Refining",
+            "products": [
+                "Gasoline",
+                "Diesel",
+                "Jet Fuel"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Ethanol",
+                "Biodiesel"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Petrobras | Leading Oil and Gas Company in Brazil",
+        "meta_description": "Discover Petrobras, a state-controlled oil and gas company in Brazil, renowned for its exploration and production capabilities. Learn about Petrobras' commitment to energy security and sustainable practices.",
+        "keywords": [
+            "Petrobras",
+            "Oil and Gas",
+            "Energy",
+            "Brazil",
+            "Sustainable Energy",
+            "Pre-Salt",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Petrobras do?",
+            "answer": "Petrobras is involved in the exploration, production, refining, and distribution of oil and natural gas."
+        },
+        {
+            "question": "Who is the CEO of Petrobras?",
+            "answer": "Jean Paul Prates is the CEO of Petrobras."
+        },
+        {
+            "question": "Where is Petrobras headquartered?",
+            "answer": "Petrobras is headquartered in Rio de Janeiro, Brazil."
+        },
+        {
+            "question": "What are Petrobras' main products?",
+            "answer": "Petrobras' main products include crude oil, natural gas, gasoline, diesel, jet fuel, ethanol, and biodiesel."
+        },
+        {
+            "question": "When was Petrobras founded?",
+            "answer": "Petrobras was founded in 1953."
+        }
+    ],
+    "competitors": [
+        "XOM",
+        "CVX",
+        "BP",
+        "TOT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

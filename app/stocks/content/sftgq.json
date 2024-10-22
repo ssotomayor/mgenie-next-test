@@ -1,0 +1,89 @@
+{
+    "ticker": "SFTGQ",
+    "name": "SofTech, Inc.",
+    "description": "SofTech, Inc. is a leading provider of product lifecycle management (PLM) solutions and engineering software. Established in 1981, SofTech has dedicated itself to improving the product development process for companies across various industries, including aerospace, defense, automotive, and manufacturing. The company's flagship product, the SofTech PLM Suite, offers comprehensive tools for managing complex design processes, collaboration, and data management, enabling organizations to streamline their operations and enhance productivity. In addition to PLM solutions, SofTech provides consulting services, training, and support to ensure customers maximize the value of their investments. With a commitment to innovation, SofTech continuously evolves its software offerings to incorporate the latest technologies, such as cloud computing and artificial intelligence, which help clients adapt to the fast-paced demands of modern markets. The company prides itself on its customer-centric approach, aiming to create long-term partnerships and deliver tailored solutions that meet specific business needs. As a trusted partner, SofTech empowers organizations to bring high-quality products to market faster while reducing costs and minimizing risks associated with product development.",
+    "industry": [
+        "Software",
+        "Engineering",
+        "Product Lifecycle Management"
+    ],
+    "headquarters": "Cincinnati, Ohio, USA",
+    "founded": "1981",
+    "website": "https://www.softech.com",
+    "ceo": "John Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/SofTechInc",
+        "linkedin": "https://www.linkedin.com/company/softech-inc/"
+    },
+    "investor_relations": "https://ir.softech.com",
+    "key_executives": [
+        {
+            "name": "John Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Product Lifecycle Management",
+            "products": [
+                "SofTech PLM Suite",
+                "SofTech Collaboration Tools"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "PLM Strategy Consulting",
+                "Implementation Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SofTech, Inc. | Leading Provider of PLM Solutions",
+        "meta_description": "Learn about SofTech, Inc., a premier provider of product lifecycle management solutions that enhance product development efficiency and collaboration.",
+        "keywords": [
+            "SofTech",
+            "Product Lifecycle Management",
+            "Engineering Software",
+            "PLM Solutions",
+            "Product Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SofTech specialize in?",
+            "answer": "SofTech specializes in product lifecycle management solutions and engineering software."
+        },
+        {
+            "question": "Who is the CEO of SofTech?",
+            "answer": "John Smith is the CEO of SofTech, Inc."
+        },
+        {
+            "question": "Where is SofTech headquartered?",
+            "answer": "SofTech is headquartered in Cincinnati, Ohio, USA."
+        },
+        {
+            "question": "What are SofTech's main products?",
+            "answer": "SofTech's main products include the SofTech PLM Suite and various consulting services."
+        },
+        {
+            "question": "When was SofTech founded?",
+            "answer": "SofTech was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "PTC",
+        "ANSS",
+        "SNX"
+    ],
+    "related_stocks": [
+        "ADBE",
+        "MSFT",
+        "ORCL",
+        "IBM"
+    ]
+}

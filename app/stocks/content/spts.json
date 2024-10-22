@@ -1,0 +1,105 @@
+{
+    "ticker": "SPTS",
+    "name": "S&P Global Inc.",
+    "description": "S&P Global Inc. is a leading provider of financial market intelligence and analytics, headquartered in New York City. Established in 1860, the company has a rich history and has evolved significantly over the years, now operating through various segments including Ratings, Market Intelligence, Platts, and S&P Dow Jones Indices. S&P Global Ratings is one of the largest credit rating agencies in the world, providing essential risk assessments and insights that help investors make informed decisions. The Market Intelligence segment offers data and insights that cover a wide range of sectors, enabling businesses to strategize effectively. Platts is renowned for its energy and commodities pricing, while S&P Dow Jones Indices is known for its iconic stock market indices, including the S&P 500. S&P Global focuses on innovation and technology to enhance its offerings, ensuring clients have access to the most accurate and timely information. As a trusted partner for businesses and governments globally, S&P Global plays a critical role in capital markets and the global economy, contributing to transparency and efficiency in financial systems. The company's mission is to provide essential intelligence and data that empower stakeholders to make better financial decisions.",
+    "industry": [
+        "Financial Services",
+        "Market Research"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1860",
+    "website": "https://www.spglobal.com",
+    "ceo": "Douglas L. Peterson",
+    "social_media": {
+        "twitter": "https://twitter.com/SPGlobal",
+        "linkedin": "https://www.linkedin.com/company/sp-global/",
+        "youtube": "https://www.youtube.com/user/SPGlobalInc"
+    },
+    "investor_relations": "https://investor.spglobal.com",
+    "key_executives": [
+        {
+            "name": "Douglas L. Peterson",
+            "position": "CEO"
+        },
+        {
+            "name": "Ewout Steenbergen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Ratings",
+            "products": [
+                "Corporate Credit Ratings",
+                "Sovereign Ratings"
+            ]
+        },
+        {
+            "category": "Market Data & Analytics",
+            "products": [
+                "Equity Data",
+                "Fixed Income Data"
+            ]
+        },
+        {
+            "category": "Commodity Pricing",
+            "products": [
+                "Energy Pricing",
+                "Metals Pricing"
+            ]
+        },
+        {
+            "category": "Indices",
+            "products": [
+                "S&P 500",
+                "Dow Jones Industrial Average"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "S&P Global Inc. | Financial Market Intelligence and Analytics",
+        "meta_description": "Explore S&P Global Inc., a leader in financial market intelligence. Discover our credit ratings, market data, and indices that drive global financial markets.",
+        "keywords": [
+            "S&P Global",
+            "Financial Services",
+            "Market Intelligence",
+            "Credit Ratings",
+            "Stock Indices",
+            "Commodities Pricing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does S&P Global do?",
+            "answer": "S&P Global provides financial market intelligence, analytics, credit ratings, and indices."
+        },
+        {
+            "question": "Who is the CEO of S&P Global?",
+            "answer": "Douglas L. Peterson is the CEO of S&P Global Inc."
+        },
+        {
+            "question": "Where is S&P Global headquartered?",
+            "answer": "S&P Global is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are S&P Global's main products?",
+            "answer": "S&P Global's main products include credit ratings, market data, commodity pricing, and stock indices."
+        },
+        {
+            "question": "When was S&P Global founded?",
+            "answer": "S&P Global was founded in 1860."
+        }
+    ],
+    "competitors": [
+        "MSCI",
+        "FIS",
+        "ICE",
+        "VRSK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

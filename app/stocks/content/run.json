@@ -1,0 +1,92 @@
+{
+    "ticker": "RUN",
+    "name": "Sunrun Inc.",
+    "description": "Sunrun Inc. is a leading residential solar energy company in the United States, dedicated to providing accessible and affordable solar energy solutions for homeowners. Founded in 2007, Sunrun aims to transform the way consumers generate and consume energy by harnessing the power of the sun. The company offers a range of solar products and services, including solar panel installations, battery storage solutions, and energy management systems. By focusing on customer-centric solutions, Sunrun enables homeowners to reduce their reliance on traditional energy sources, lower their electricity bills, and contribute to a sustainable future. With a mission to create a planet powered by the sun, Sunrun invests in innovative technologies and partnerships that enhance solar energy affordability and efficiency. As one of the largest providers of residential solar systems in the U.S., Sunrun continues to expand its footprint and make renewable energy accessible to a broader audience. The company operates in various states and works with a diverse range of customers, from single-family homes to multi-family housing units.",
+    "industry": [
+        "Renewable Energy",
+        "Solar Energy"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2007",
+    "website": "https://www.sunrun.com",
+    "ceo": "Mary Powell",
+    "social_media": {
+        "twitter": "https://twitter.com/Sunrun",
+        "linkedin": "https://www.linkedin.com/company/sunrun",
+        "instagram": "https://www.instagram.com/sunrun/",
+        "youtube": "https://www.youtube.com/user/sunruninc"
+    },
+    "investor_relations": "https://investors.sunrun.com",
+    "key_executives": [
+        {
+            "name": "Mary Powell",
+            "position": "CEO"
+        },
+        {
+            "name": "Tom vonReichbauer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Solar Energy Systems",
+            "products": [
+                "Solar Panels",
+                "Solar Batteries"
+            ]
+        },
+        {
+            "category": "Energy Management",
+            "products": [
+                "Smart Home Systems",
+                "Energy Monitoring"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sunrun Inc. | Leading Residential Solar Energy Provider",
+        "meta_description": "Explore Sunrun Inc., a top provider of residential solar energy solutions in the U.S. Learn about their innovative solar products and commitment to sustainable energy.",
+        "keywords": [
+            "Sunrun",
+            "Residential Solar",
+            "Solar Energy",
+            "Renewable Energy",
+            "Solar Panels",
+            "Home Solar"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Sunrun offer?",
+            "answer": "Sunrun offers residential solar panel installations, battery storage solutions, and energy management systems."
+        },
+        {
+            "question": "Who is the CEO of Sunrun?",
+            "answer": "Mary Powell is the CEO of Sunrun Inc."
+        },
+        {
+            "question": "Where is Sunrun headquartered?",
+            "answer": "Sunrun is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Sunrun's main products?",
+            "answer": "Sunrun's main products include solar panels and solar batteries."
+        },
+        {
+            "question": "When was Sunrun founded?",
+            "answer": "Sunrun was founded in 2007."
+        }
+    ],
+    "competitors": [
+        "SPWR",
+        "NOVA",
+        "FSLR",
+        "ENPH"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "AMZN",
+        "MSFT"
+    ]
+}

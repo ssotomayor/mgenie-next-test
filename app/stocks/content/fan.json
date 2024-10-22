@@ -1,0 +1,98 @@
+{
+    "ticker": "FAN",
+    "name": "Fanuc Corporation",
+    "description": "Fanuc Corporation is a leading global manufacturer of factory automation products, specializing in robotics, CNC systems, and factory automation solutions. Founded in 1956 and based in Minamitsuru, Japan, Fanuc has established itself as a pioneer in the field of industrial automation. The company develops a wide range of robotic solutions, including collaborative robots (cobots), industrial robots, and automation systems that enhance productivity and efficiency across various industries. Fanuc's CNC (Computer Numerical Control) systems are integral to the manufacturing processes, enabling precise control of machine tools. With a commitment to innovation and quality, Fanuc emphasizes the importance of research and development, investing heavily in advanced technologies such as artificial intelligence, IoT (Internet of Things), and machine learning to improve automation processes. The company serves a diverse clientele worldwide, including automotive, electronics, and consumer goods sectors, providing solutions that optimize production lines and reduce operational costs. Fanuc's mission is to empower manufacturers with cutting-edge automation technologies that drive efficiency and sustainability in production, thus playing a crucial role in the evolution of smart factories.",
+    "industry": [
+        "Manufacturing",
+        "Robotics",
+        "Automation"
+    ],
+    "headquarters": "Minamitsuru, Yamanashi, Japan",
+    "founded": "1956",
+    "website": "https://www.fanuc.co.jp/en/",
+    "ceo": "Yoshiharu Inaba",
+    "social_media": {
+        "twitter": "https://twitter.com/FANUC",
+        "linkedin": "https://www.linkedin.com/company/fanuc-corporation/"
+    },
+    "investor_relations": "https://www.fanuc.co.jp/en/ir/",
+    "key_executives": [
+        {
+            "name": "Yoshiharu Inaba",
+            "position": "CEO"
+        },
+        {
+            "name": "Kenji Yamaguchi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Industrial Robots",
+            "products": [
+                "Collaborative Robots",
+                "Articulated Robots",
+                "Delta Robots"
+            ]
+        },
+        {
+            "category": "CNC Systems",
+            "products": [
+                "Robodrill",
+                "Robocut"
+            ]
+        },
+        {
+            "category": "Factory Automation",
+            "products": [
+                "Automation Solutions",
+                "IoT Technologies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fanuc Corporation | Industrial Automation and Robotics Solutions",
+        "meta_description": "Explore Fanuc Corporation, a global leader in factory automation and robotics. Learn about our innovative solutions and commitment to enhancing manufacturing efficiency.",
+        "keywords": [
+            "Fanuc",
+            "Industrial Automation",
+            "Robotics",
+            "CNC Systems",
+            "Smart Factory",
+            "Collaborative Robots"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fanuc specialize in?",
+            "answer": "Fanuc specializes in factory automation products, including robotics and CNC systems."
+        },
+        {
+            "question": "Who is the CEO of Fanuc?",
+            "answer": "Yoshiharu Inaba is the CEO of Fanuc Corporation."
+        },
+        {
+            "question": "Where is Fanuc headquartered?",
+            "answer": "Fanuc is headquartered in Minamitsuru, Yamanashi, Japan."
+        },
+        {
+            "question": "What are Fanuc's main products?",
+            "answer": "Fanuc's main products include industrial robots, CNC systems, and automation solutions."
+        },
+        {
+            "question": "When was Fanuc founded?",
+            "answer": "Fanuc was founded in 1956."
+        }
+    ],
+    "competitors": [
+        "ABB",
+        "KUKA",
+        "YASKAWA"
+    ],
+    "related_stocks": [
+        "HON",
+        "CAT",
+        "RTX",
+        "LMT"
+    ]
+}

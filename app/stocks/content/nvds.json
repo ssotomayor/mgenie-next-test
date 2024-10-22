@@ -1,0 +1,101 @@
+{
+    "ticker": "NVDS",
+    "name": "NVIDIA Corporation",
+    "description": "NVIDIA Corporation is a global leader in artificial intelligence (AI) computing, graphics processing units (GPUs), and deep learning technology. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, NVIDIA initially gained fame for its graphics cards that revolutionized the gaming industry. Over the years, the company has expanded its focus to include AI and data center solutions, becoming a critical player in the field of accelerated computing. NVIDIA's GPUs are used in a multitude of applications ranging from gaming and professional visualization to data centers and automotive industries. The company is instrumental in the development of AI technologies and provides platforms for deep learning and neural networks through its CUDA programming model. NVIDIA's GeForce and Quadro product lines are leading choices for gamers and professionals alike. Additionally, the company is at the forefront of autonomous vehicle technology, providing AI computing solutions that enable self-driving systems. With a commitment to innovation, NVIDIA continues to push the boundaries of technology, making significant contributions to sectors such as gaming, healthcare, and cloud computing. The company\u2019s vision is to enhance human experiences through the power of AI and graphics technology.",
+    "industry": [
+        "Semiconductors",
+        "Technology",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1993",
+    "website": "https://www.nvidia.com",
+    "ceo": "Jensen Huang",
+    "social_media": {
+        "twitter": "https://twitter.com/NVIDIAGeForce",
+        "linkedin": "https://www.linkedin.com/company/nvidia/",
+        "instagram": "https://www.instagram.com/nvidia/"
+    },
+    "investor_relations": "https://investor.nvidia.com",
+    "key_executives": [
+        {
+            "name": "Jensen Huang",
+            "position": "CEO"
+        },
+        {
+            "name": "Colette Kress",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/colette-kress-1a18301/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Graphics Processing Units",
+            "products": [
+                "GeForce RTX",
+                "Quadro RTX"
+            ]
+        },
+        {
+            "category": "AI & Deep Learning",
+            "products": [
+                "NVIDIA DGX Systems",
+                "NVIDIA TensorRT"
+            ]
+        },
+        {
+            "category": "Automotive Solutions",
+            "products": [
+                "NVIDIA DRIVE"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NVIDIA Corporation | AI Computing and Graphics Technologies",
+        "meta_description": "Explore NVIDIA Corporation, a leader in AI computing and graphics technology, offering innovative solutions for gaming, data centers, and autonomous vehicles.",
+        "keywords": [
+            "NVIDIA",
+            "Artificial Intelligence",
+            "Graphics Cards",
+            "GPUs",
+            "Gaming Technology",
+            "Deep Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is NVIDIA known for?",
+            "answer": "NVIDIA is known for its graphics processing units (GPUs) and its leadership in artificial intelligence and deep learning technologies."
+        },
+        {
+            "question": "Who is the CEO of NVIDIA?",
+            "answer": "Jensen Huang is the CEO of NVIDIA Corporation."
+        },
+        {
+            "question": "Where is NVIDIA headquartered?",
+            "answer": "NVIDIA is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are NVIDIA's main products?",
+            "answer": "NVIDIA's main products include GeForce and Quadro GPUs, DGX AI systems, and NVIDIA DRIVE automotive solutions."
+        },
+        {
+            "question": "When was NVIDIA founded?",
+            "answer": "NVIDIA was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "AMD",
+        "INTC",
+        "QCOM",
+        "TSM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

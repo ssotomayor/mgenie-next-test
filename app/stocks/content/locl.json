@@ -1,0 +1,81 @@
+{
+    "ticker": "LOCL",
+    "name": "Local Corporation",
+    "description": "Local Corporation is a technology company focused on delivering innovative digital marketing solutions to small and medium-sized businesses. Established in 2009, the company aims to help local businesses increase their online visibility and attract more customers through comprehensive digital marketing strategies. Local Corporation offers a suite of services, including search engine optimization (SEO), pay-per-click (PPC) advertising, social media management, and website development. By leveraging advanced analytics and proprietary technology, the company provides tailored marketing solutions that drive engagement and conversion for its clients. With a mission to empower local businesses, Local Corporation has built a strong reputation for delivering measurable results and exceptional customer service. The company continuously invests in research and development to stay ahead of industry trends and to provide cutting-edge marketing tools that enable businesses to thrive in the digital landscape. Local Corporation operates in a highly competitive market, yet it distinguishes itself by focusing on the unique needs of local businesses and providing personalized support to help them succeed online.",
+    "industry": [
+        "Digital Marketing",
+        "Technology"
+    ],
+    "headquarters": "Irvine, California, USA",
+    "founded": "2009",
+    "website": "https://www.local.com",
+    "ceo": "Heath Clarke",
+    "social_media": {
+        "twitter": "https://twitter.com/localcorp",
+        "linkedin": "https://www.linkedin.com/company/local-corporation/"
+    },
+    "investor_relations": "https://ir.local.com",
+    "key_executives": [
+        {
+            "name": "Heath Clarke",
+            "position": "CEO"
+        },
+        {
+            "name": "Kevin McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Marketing Services",
+            "products": [
+                "SEO Services",
+                "PPC Advertising",
+                "Social Media Management",
+                "Website Development"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Local Corporation | Digital Marketing Solutions for Local Businesses",
+        "meta_description": "Discover Local Corporation, a leader in digital marketing solutions tailored for local businesses. Explore our services designed to enhance online visibility and drive customer engagement.",
+        "keywords": [
+            "Local Corporation",
+            "Digital Marketing",
+            "SEO",
+            "PPC Advertising",
+            "Social Media",
+            "Website Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Local Corporation offer?",
+            "answer": "Local Corporation offers digital marketing services including SEO, PPC advertising, social media management, and website development."
+        },
+        {
+            "question": "Who is the CEO of Local Corporation?",
+            "answer": "Heath Clarke is the CEO of Local Corporation."
+        },
+        {
+            "question": "Where is Local Corporation headquartered?",
+            "answer": "Local Corporation is headquartered in Irvine, California, USA."
+        },
+        {
+            "question": "When was Local Corporation founded?",
+            "answer": "Local Corporation was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "YELP",
+        "GOOGL",
+        "FB",
+        "TTD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "NFLX"
+    ]
+}

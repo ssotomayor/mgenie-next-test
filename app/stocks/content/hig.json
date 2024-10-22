@@ -1,0 +1,93 @@
+{
+    "ticker": "HIG",
+    "name": "The Hartford Financial Services Group, Inc.",
+    "description": "The Hartford Financial Services Group, Inc. is a prominent American insurance and investment company, founded in 1810 and headquartered in Hartford, Connecticut. With a rich history of over two centuries, The Hartford has established itself as a leader in providing diverse insurance products, including property and casualty insurance, group benefits, and mutual funds. The company serves both commercial and individual customers, aiming to deliver value through comprehensive risk management and innovative solutions. The Hartford is particularly recognized for its expertise in the business insurance sector, offering tailored coverage for various industries. Additionally, the company has a strong commitment to sustainability and corporate responsibility, actively supporting community initiatives and environmental conservation efforts. The Hartford's digital transformation strategy focuses on enhancing customer experience through technology, allowing for more efficient service delivery and engagement. The company continues to adapt to the evolving insurance landscape, leveraging data analytics and advanced technologies to meet the changing needs of its clients. In recent years, The Hartford has also expanded its investment capabilities, managing assets to provide strong returns for policyholders and shareholders alike, reinforcing its reputation as a trusted financial partner.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "Hartford, Connecticut, USA",
+    "founded": "1810",
+    "website": "https://www.thehartford.com",
+    "ceo": "Christopher Swift",
+    "social_media": {
+        "twitter": "https://twitter.com/TheHartford",
+        "linkedin": "https://www.linkedin.com/company/the-hartford/",
+        "facebook": "https://www.facebook.com/TheHartford",
+        "youtube": "https://www.youtube.com/user/TheHartford"
+    },
+    "investor_relations": "https://ir.thehartford.com",
+    "key_executives": [
+        {
+            "name": "Christopher Swift",
+            "position": "CEO"
+        },
+        {
+            "name": "Beth Bombara",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Property Insurance",
+                "Casualty Insurance",
+                "Group Benefits"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Mutual Funds",
+                "Annuities"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Hartford Financial Services Group, Inc. | Insurance and Investment Solutions",
+        "meta_description": "Explore The Hartford Financial Services Group, Inc., a leader in insurance and financial services, providing innovative solutions for individuals and businesses.",
+        "keywords": [
+            "The Hartford",
+            "Insurance",
+            "Financial Services",
+            "Property Insurance",
+            "Casualty Insurance",
+            "Group Benefits"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of insurance does The Hartford offer?",
+            "answer": "The Hartford offers property insurance, casualty insurance, and group benefits."
+        },
+        {
+            "question": "Who is the CEO of The Hartford?",
+            "answer": "Christopher Swift is the CEO of The Hartford Financial Services Group, Inc."
+        },
+        {
+            "question": "Where is The Hartford headquartered?",
+            "answer": "The Hartford is headquartered in Hartford, Connecticut, USA."
+        },
+        {
+            "question": "What are The Hartford's main products?",
+            "answer": "The Hartford's main products include property insurance, casualty insurance, group benefits, mutual funds, and annuities."
+        },
+        {
+            "question": "When was The Hartford founded?",
+            "answer": "The Hartford was founded in 1810."
+        }
+    ],
+    "competitors": [
+        "ALL",
+        "PRU",
+        "MET",
+        "AIG"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

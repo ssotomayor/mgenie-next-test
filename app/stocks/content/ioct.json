@@ -1,0 +1,91 @@
+{
+    "ticker": "IOCT",
+    "name": "IOCTech, Inc.",
+    "description": "IOCTech, Inc. is at the forefront of the Internet of Things (IoT) and smart technology solutions. Founded in 2015, the company is dedicated to creating innovative products that enhance connectivity and automation across various industries, including healthcare, agriculture, and smart cities. IOCTech develops a range of IoT devices and platforms that enable real-time data collection, analysis, and management, helping businesses improve efficiency and decision-making processes. Their flagship product, the IOCT Connect platform, integrates various IoT devices, providing users with an intuitive dashboard to monitor and control their operations. With an emphasis on cutting-edge technology, IOCTech also focuses on security, ensuring that all devices and data communications are protected against cyber threats. The company is committed to sustainability, aiming to reduce energy consumption and minimize the environmental impact of its products. As a leader in the IoT space, IOCTech continues to push boundaries with advancements in AI, machine learning, and edge computing, striving to create smart solutions that positively impact everyday life.",
+    "industry": [
+        "Technology",
+        "Internet of Things"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.ioctech.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/IOCTech",
+        "linkedin": "https://www.linkedin.com/company/ioctech"
+    },
+    "investor_relations": "https://ir.ioctech.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IoT Devices",
+            "products": [
+                "Smart Sensors",
+                "Connected Cameras",
+                "Wearable Health Monitors"
+            ]
+        },
+        {
+            "category": "IoT Platforms",
+            "products": [
+                "IOCT Connect",
+                "Data Analytics Suite"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IOCTech, Inc. | Leading IoT Solutions and Smart Technology",
+        "meta_description": "Explore IOCTech, Inc., a leader in IoT technology and smart solutions. Discover innovative products, platforms, and the company's commitment to sustainability.",
+        "keywords": [
+            "IOCTech",
+            "IoT Solutions",
+            "Smart Technology",
+            "Connected Devices",
+            "Healthcare IoT",
+            "Smart Cities"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IOCTech specialize in?",
+            "answer": "IOCTech specializes in Internet of Things (IoT) solutions and smart technology products."
+        },
+        {
+            "question": "Who is the CEO of IOCTech?",
+            "answer": "Jane Doe is the CEO of IOCTech, Inc."
+        },
+        {
+            "question": "Where is IOCTech headquartered?",
+            "answer": "IOCTech is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are some of IOCTech's main products?",
+            "answer": "IOCTech's main products include smart sensors, connected cameras, wearable health monitors, and the IOCT Connect platform."
+        },
+        {
+            "question": "When was IOCTech founded?",
+            "answer": "IOCTech was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "MSFT",
+        "IBM",
+        "GOOGL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NFLX",
+        "TSLA",
+        "FB"
+    ]
+}

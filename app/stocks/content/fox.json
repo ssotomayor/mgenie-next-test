@@ -1,0 +1,90 @@
+{
+    "ticker": "FOX",
+    "name": "Fox Corporation",
+    "description": "Fox Corporation is a leading provider of news, sports, and entertainment content, reaching millions of viewers across the globe. Established in 2019 as a spin-off from 21st Century Fox, the company operates through its flagship networks, including Fox Broadcasting Company, Fox News Channel, and Fox Sports. With a focus on delivering high-quality programming, Fox Corporation is known for its compelling news coverage, live sports events, and popular entertainment series. The company aims to inform, entertain, and engage audiences, with a commitment to journalistic integrity and providing a platform for diverse voices. Additionally, Fox Corporation invests in innovative technologies to enhance viewer experiences across various platforms, including digital streaming services. The company has successfully adapted to changing media landscapes by integrating traditional and digital content delivery, making it a key player in the evolving entertainment industry. Its dedication to original programming and premium content continues to attract a wide audience, solidifying its position as a trusted source of news and entertainment.",
+    "industry": [
+        "Media",
+        "Entertainment"
+    ],
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2019",
+    "website": "https://www.foxcorporation.com",
+    "ceo": "Lachlan Murdoch",
+    "social_media": {
+        "twitter": "https://twitter.com/FoxCorp",
+        "linkedin": "https://www.linkedin.com/company/fox-corporation/"
+    },
+    "investor_relations": "https://investor.foxcorporation.com",
+    "key_executives": [
+        {
+            "name": "Lachlan Murdoch",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Tomsic",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Television Networks",
+            "products": [
+                "Fox Broadcasting Company",
+                "Fox News Channel",
+                "Fox Sports"
+            ]
+        },
+        {
+            "category": "Digital Content",
+            "products": [
+                "Fox Nation",
+                "Fox Sports App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fox Corporation | News, Sports, and Entertainment",
+        "meta_description": "Discover Fox Corporation, a leading media and entertainment company delivering news, sports, and entertainment content across various platforms.",
+        "keywords": [
+            "Fox Corporation",
+            "Fox News",
+            "Fox Sports",
+            "Television",
+            "Entertainment",
+            "News"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fox Corporation do?",
+            "answer": "Fox Corporation provides news, sports, and entertainment content through its television networks and digital platforms."
+        },
+        {
+            "question": "Who is the CEO of Fox Corporation?",
+            "answer": "Lachlan Murdoch is the CEO of Fox Corporation."
+        },
+        {
+            "question": "Where is Fox Corporation headquartered?",
+            "answer": "Fox Corporation is headquartered in Los Angeles, California, USA."
+        },
+        {
+            "question": "What are the main networks owned by Fox Corporation?",
+            "answer": "The main networks include Fox Broadcasting Company, Fox News Channel, and Fox Sports."
+        },
+        {
+            "question": "When was Fox Corporation founded?",
+            "answer": "Fox Corporation was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "CMCSA",
+        "NFLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

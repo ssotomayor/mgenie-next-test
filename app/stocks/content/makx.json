@@ -1,0 +1,89 @@
+{
+    "ticker": "MAKX",
+    "name": "Makex Inc.",
+    "description": "Makex Inc. is a leading innovator in the advanced manufacturing sector, specializing in additive manufacturing technologies and precision engineering solutions. Founded in 2010, the company has rapidly grown to become a key player in the 3D printing industry, providing cutting-edge products and services that cater to a diverse range of industries including aerospace, automotive, healthcare, and consumer goods. Makex focuses on developing high-performance 3D printers and materials that enhance production efficiency and reduce time-to-market for their clients. Their flagship products, including the Makex Pro and Makex Mini, are known for their reliability, precision, and user-friendly interfaces. In addition to hardware, Makex offers comprehensive support services, including training, maintenance, and custom engineering solutions tailored to meet specific customer needs. With a commitment to sustainability, the company also emphasizes eco-friendly practices in its manufacturing processes and product design, aiming to minimize waste and energy consumption. Makex's mission is to empower manufacturers and engineers worldwide with innovative tools that drive the future of production technology.",
+    "industry": [
+        "Manufacturing",
+        "3D Printing",
+        "Engineering"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.makex.com",
+    "ceo": "Jessica Lee",
+    "social_media": {
+        "twitter": "https://twitter.com/MakexInc",
+        "linkedin": "https://www.linkedin.com/company/makexinc/"
+    },
+    "investor_relations": "https://ir.makex.com",
+    "key_executives": [
+        {
+            "name": "Jessica Lee",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Printers",
+            "products": [
+                "Makex Pro",
+                "Makex Mini"
+            ]
+        },
+        {
+            "category": "Materials",
+            "products": [
+                "PLA Filament",
+                "ABS Filament"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Makex Inc. | Advanced Manufacturing and 3D Printing Solutions",
+        "meta_description": "Explore Makex Inc., a leader in 3D printing and advanced manufacturing. Discover innovative products, services, and our commitment to sustainable practices.",
+        "keywords": [
+            "Makex",
+            "3D Printing",
+            "Additive Manufacturing",
+            "Precision Engineering",
+            "Sustainable Manufacturing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Makex known for?",
+            "answer": "Makex is known for its advanced 3D printers and additive manufacturing solutions, serving various industries."
+        },
+        {
+            "question": "Who is the CEO of Makex?",
+            "answer": "Jessica Lee is the CEO of Makex Inc."
+        },
+        {
+            "question": "Where is Makex headquartered?",
+            "answer": "Makex is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are Makex's main products?",
+            "answer": "Makex's main products include the Makex Pro and Makex Mini 3D printers, along with various printing materials."
+        },
+        {
+            "question": "When was Makex founded?",
+            "answer": "Makex was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "DDD",
+        "SSYS",
+        "XONE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

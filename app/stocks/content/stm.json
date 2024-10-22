@@ -1,0 +1,97 @@
+{
+    "ticker": "STM",
+    "name": "STMicroelectronics N.V.",
+    "description": "STMicroelectronics N.V. is a global leader in semiconductor solutions, providing a wide range of microcontrollers, sensors, and power management chips. Established in 1987 through the merger of SGS Microelettronica and Thomson Semiconducteurs, STM has grown to become a key player in the semiconductor industry, serving a diverse array of markets including automotive, industrial, and consumer electronics. The company's extensive portfolio includes products designed for Internet of Things (IoT) applications, automotive systems, and energy-efficient devices, making STM a critical partner for innovation in various technological sectors. STMicroelectronics is committed to sustainability and innovation, focusing on developing solutions that enhance energy efficiency and reduce environmental impact. The company operates globally, with research and development centers, manufacturing facilities, and sales offices located around the world. With a strong emphasis on R&D, STMicroelectronics continues to drive advancements in semiconductor technology, supporting the growing demand for connectivity and smart devices in today's digital world.",
+    "industry": [
+        "Semiconductors",
+        "Electronics"
+    ],
+    "headquarters": "Geneva, Switzerland",
+    "founded": "1987",
+    "website": "https://www.st.com",
+    "ceo": "Jean-Marc Ch\u00e9ry",
+    "social_media": {
+        "twitter": "https://twitter.com/stmicroelectronics",
+        "linkedin": "https://www.linkedin.com/company/stmicroelectronics/"
+    },
+    "investor_relations": "https://investors.st.com",
+    "key_executives": [
+        {
+            "name": "Jean-Marc Ch\u00e9ry",
+            "position": "CEO"
+        },
+        {
+            "name": "Luca Maestri",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Microcontrollers",
+            "products": [
+                "STM32",
+                "STM8"
+            ]
+        },
+        {
+            "category": "Sensors",
+            "products": [
+                "MEMS Sensors",
+                "Environmental Sensors"
+            ]
+        },
+        {
+            "category": "Power Management",
+            "products": [
+                "Voltage Regulators",
+                "Power MOSFETs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "STMicroelectronics N.V. | Leading Semiconductor Solutions",
+        "meta_description": "Explore STMicroelectronics N.V., a leader in semiconductor solutions for automotive, industrial, and consumer electronics. Discover our innovative products and commitment to sustainability.",
+        "keywords": [
+            "STMicroelectronics",
+            "Semiconductors",
+            "Microcontrollers",
+            "Sensors",
+            "Power Management",
+            "IoT"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does STMicroelectronics specialize in?",
+            "answer": "STMicroelectronics specializes in semiconductor solutions, including microcontrollers, sensors, and power management chips."
+        },
+        {
+            "question": "Who is the CEO of STMicroelectronics?",
+            "answer": "Jean-Marc Ch\u00e9ry is the CEO of STMicroelectronics N.V."
+        },
+        {
+            "question": "Where is STMicroelectronics headquartered?",
+            "answer": "STMicroelectronics is headquartered in Geneva, Switzerland."
+        },
+        {
+            "question": "What are some key products of STMicroelectronics?",
+            "answer": "Key products include STM32 microcontrollers, MEMS sensors, and voltage regulators."
+        },
+        {
+            "question": "When was STMicroelectronics founded?",
+            "answer": "STMicroelectronics was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "NXPI",
+        "TI",
+        "ADI",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "QCOM",
+        "NVDA"
+    ]
+}

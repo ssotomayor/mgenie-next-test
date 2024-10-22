@@ -1,0 +1,85 @@
+{
+    "ticker": "CNP",
+    "name": "CenterPoint Energy, Inc.",
+    "description": "CenterPoint Energy, Inc. is a prominent energy delivery company headquartered in Houston, Texas. Established in 1882, the company has grown from its origins in the natural gas industry to become a leading provider of electric and natural gas services. CenterPoint serves millions of customers across several states, primarily in the Midwest and South, ensuring the safe and reliable delivery of energy. The company operates through two main segments: electric transmission and distribution, and natural gas distribution. CenterPoint is committed to sustainable practices, investing in modern infrastructure and technology to enhance energy efficiency and reduce environmental impact. With a vision to empower customers through innovative energy solutions, CenterPoint is also actively involved in renewable energy initiatives, supporting the transition to a cleaner energy future. The company's mission emphasizes customer satisfaction, operational excellence, and community engagement, making it a vital player in the energy sector.",
+    "industry": [
+        "Energy",
+        "Utilities"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1882",
+    "website": "https://www.centerpointenergy.com",
+    "ceo": "David J. Lesar",
+    "social_media": {
+        "twitter": "https://twitter.com/CenterPointEnergy",
+        "linkedin": "https://www.linkedin.com/company/centerpoint-energy"
+    },
+    "investor_relations": "https://investors.centerpointenergy.com",
+    "key_executives": [
+        {
+            "name": "David J. Lesar",
+            "position": "CEO"
+        },
+        {
+            "name": "James E. Steffes",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Services",
+            "products": [
+                "Electric Transmission",
+                "Electric Distribution"
+            ]
+        },
+        {
+            "category": "Natural Gas Services",
+            "products": [
+                "Natural Gas Distribution"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CenterPoint Energy, Inc. | Energy Delivery and Utility Services",
+        "meta_description": "Explore CenterPoint Energy, Inc., a leading energy delivery company committed to providing reliable electric and natural gas services while promoting sustainability and customer satisfaction.",
+        "keywords": [
+            "CenterPoint Energy",
+            "Electric Services",
+            "Natural Gas",
+            "Energy Delivery",
+            "Utilities",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CenterPoint Energy provide?",
+            "answer": "CenterPoint Energy provides electric transmission and distribution services, as well as natural gas distribution."
+        },
+        {
+            "question": "Who is the CEO of CenterPoint Energy?",
+            "answer": "David J. Lesar is the CEO of CenterPoint Energy, Inc."
+        },
+        {
+            "question": "Where is CenterPoint Energy headquartered?",
+            "answer": "CenterPoint Energy is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was CenterPoint Energy founded?",
+            "answer": "CenterPoint Energy was founded in 1882."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "ED",
+        "SO",
+        "XEL"
+    ],
+    "related_stocks": [
+        "AEP",
+        "NEE",
+        "DTE",
+        "SRE"
+    ]
+}

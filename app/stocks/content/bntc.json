@@ -1,0 +1,87 @@
+{
+    "ticker": "BNTC",
+    "name": "BioNTech SE",
+    "description": "BioNTech SE is a global biotechnology company based in Mainz, Germany, focused on the development of personalized immunotherapies for the treatment of cancer and infectious diseases. Founded in 2008 by Ugur Sahin, \u00d6zlem T\u00fcreci, and Christoph Huber, BioNTech has gained significant recognition for its innovative approach to mRNA technology, which has been pivotal in the development of its COVID-19 vaccine in partnership with Pfizer. The company's proprietary mRNA platform enables the creation of therapies that instruct the body\u2019s own cells to produce proteins that can trigger an immune response. This groundbreaking technology positions BioNTech at the forefront of the next generation of cancer treatments. In addition to its work on mRNA vaccines, BioNTech is also exploring a variety of therapeutic modalities, including protein-based vaccines, cell therapies, and small molecules. The company\u2019s mission is to harness the power of the immune system to fight disease and improve patient outcomes, making substantial advancements in the field of immuno-oncology. With a robust pipeline of product candidates in various stages of clinical development, BioNTech is committed to scientific excellence and innovation in addressing some of the most challenging health issues of our time.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Mainz, Germany",
+    "founded": "2008",
+    "website": "https://biontech.de",
+    "ceo": "Ugur Sahin",
+    "social_media": {
+        "twitter": "https://twitter.com/biontech",
+        "linkedin": "https://www.linkedin.com/company/biontech/"
+    },
+    "investor_relations": "https://investors.biontech.de",
+    "key_executives": [
+        {
+            "name": "Ugur Sahin",
+            "position": "CEO"
+        },
+        {
+            "name": "\u00d6zlem T\u00fcreci",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "BNT162b2 (Comirnaty)"
+            ]
+        },
+        {
+            "category": "Therapeutics",
+            "products": [
+                "mRNA-based cancer therapies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BioNTech SE | Innovating Immunotherapy and Vaccines",
+        "meta_description": "Explore BioNTech SE, a leader in biotechnology focused on developing personalized immunotherapies and mRNA-based vaccines. Discover our innovative solutions and commitment to advancing healthcare.",
+        "keywords": [
+            "BioNTech",
+            "mRNA Technology",
+            "COVID-19 Vaccine",
+            "Immunotherapy",
+            "Cancer Treatment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is BioNTech known for?",
+            "answer": "BioNTech is known for its pioneering work in mRNA technology and its COVID-19 vaccine developed in partnership with Pfizer."
+        },
+        {
+            "question": "Who is the CEO of BioNTech?",
+            "answer": "Ugur Sahin is the CEO of BioNTech SE."
+        },
+        {
+            "question": "Where is BioNTech headquartered?",
+            "answer": "BioNTech is headquartered in Mainz, Germany."
+        },
+        {
+            "question": "What are BioNTech's main products?",
+            "answer": "BioNTech's main products include the COVID-19 vaccine BNT162b2 (Comirnaty) and various mRNA-based cancer therapies."
+        },
+        {
+            "question": "When was BioNTech founded?",
+            "answer": "BioNTech was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "NVAX",
+        "PFE",
+        "JNJ"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "GILD",
+        "ABBV",
+        "REGN"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "ticker": "MFC",
+    "name": "Manulife Financial Corporation",
+    "description": "Manulife Financial Corporation, commonly known as Manulife, is a leading international financial services group headquartered in Toronto, Canada. Founded in 1887, Manulife operates across Canada, the United States, and Asia, offering a diverse range of financial products and services, including life insurance, mutual funds, and retirement solutions. The company is committed to helping customers make the most of their financial futures through innovative solutions and personalized service. Manulife is recognized for its focus on sustainability and responsible investing, with a goal to integrate environmental, social, and governance (ESG) factors into its investment processes. The firm has embraced digital transformation to enhance customer experience and operational efficiency, investing in technology to provide tailored financial advice and services. Manulife\u2019s subsidiary, John Hancock, operates in the United States and is known for its strong emphasis on wellness and healthy living, offering unique insurance products that reward customers for healthy behaviors. With a robust global presence and a strong financial foundation, Manulife continues to adapt to changing market dynamics while providing value to its stakeholders.",
+    "industry": [
+        "Financial Services",
+        "Insurance",
+        "Asset Management"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1887",
+    "website": "https://www.manulife.com",
+    "ceo": "Roy Gori",
+    "social_media": {
+        "twitter": "https://twitter.com/manulife",
+        "linkedin": "https://www.linkedin.com/company/manulife/",
+        "facebook": "https://www.facebook.com/manulife",
+        "youtube": "https://www.youtube.com/user/manulife"
+    },
+    "investor_relations": "https://www.manulife.com/en/investors.html",
+    "key_executives": [
+        {
+            "name": "Roy Gori",
+            "position": "CEO"
+        },
+        {
+            "name": "Phil de Oliveira",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "Health Insurance",
+                "Disability Insurance"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Mutual Funds",
+                "Retirement Solutions",
+                "Wealth Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Manulife Financial Corporation | Financial Services & Insurance",
+        "meta_description": "Explore Manulife Financial Corporation, a global leader in financial services offering life insurance, investment solutions, and retirement planning. Discover our commitment to sustainability and customer-centric solutions.",
+        "keywords": [
+            "Manulife",
+            "Insurance",
+            "Financial Services",
+            "Investment Management",
+            "Retirement Planning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Manulife do?",
+            "answer": "Manulife provides a wide range of financial services, including life insurance, investment management, and retirement solutions."
+        },
+        {
+            "question": "Who is the CEO of Manulife?",
+            "answer": "Roy Gori is the CEO of Manulife Financial Corporation."
+        },
+        {
+            "question": "Where is Manulife headquartered?",
+            "answer": "Manulife is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "What are Manulife's main products?",
+            "answer": "Manulife's main products include life insurance, health insurance, mutual funds, and retirement solutions."
+        },
+        {
+            "question": "When was Manulife founded?",
+            "answer": "Manulife was founded in 1887."
+        }
+    ],
+    "competitors": [
+        "SLF",
+        "MFC",
+        "PFG",
+        "PRU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GS",
+        "JPM",
+        "BRK.B"
+    ]
+}

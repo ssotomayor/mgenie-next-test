@@ -1,0 +1,97 @@
+{
+    "ticker": "DNBBY",
+    "name": "Danone S.A.",
+    "description": "Danone S.A. is a multinational food-products corporation headquartered in Paris, France. Founded in 1919 by Isaac Carasso, Danone has grown to become a leading player in the global food industry, specializing in dairy products, plant-based products, waters, and specialized nutrition. The company is committed to health-focused products and sustainable practices, aiming to bring health through food to as many people as possible. Danone operates through four key divisions: Essential Dairy and Plant-Based Products, Waters, Early Life Nutrition, and Advanced Medical Nutrition. Its well-known brands include Activia, Danone, Oikos, Evian, and Nutricia. With a strong emphasis on sustainability, Danone strives to promote sustainable agriculture, reduce carbon emissions, and ensure responsible sourcing of ingredients. The company's mission emphasizes the importance of food as a source of health and well-being, and it actively engages in initiatives to improve nutrition and health for individuals and communities around the world. Danone's commitment to social responsibility extends to its partnerships with local farmers and communities, ensuring a positive impact on both society and the environment.",
+    "industry": [
+        "Food and Beverage",
+        "Nutrition"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1919",
+    "website": "https://www.danone.com",
+    "ceo": "Antoine de Saint-Affrique",
+    "social_media": {
+        "twitter": "https://twitter.com/danone",
+        "linkedin": "https://www.linkedin.com/company/danone/"
+    },
+    "investor_relations": "https://www.danone.com/investors.html",
+    "key_executives": [
+        {
+            "name": "Antoine de Saint-Affrique",
+            "position": "CEO"
+        },
+        {
+            "name": "C\u00e9cile Cabanis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Dairy and Plant-Based Products",
+            "products": [
+                "Activia",
+                "Oikos",
+                "Silk"
+            ]
+        },
+        {
+            "category": "Waters",
+            "products": [
+                "Evian",
+                "Volvic"
+            ]
+        },
+        {
+            "category": "Nutrition",
+            "products": [
+                "Nutricia",
+                "Alpro"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Danone S.A. | Global Leader in Food and Nutrition",
+        "meta_description": "Explore Danone S.A., a leading global food company dedicated to health through food. Discover their commitment to sustainability and innovative products.",
+        "keywords": [
+            "Danone",
+            "Food Products",
+            "Nutrition",
+            "Sustainability",
+            "Dairy",
+            "Plant-Based"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Danone specialize in?",
+            "answer": "Danone specializes in dairy products, plant-based products, waters, and specialized nutrition."
+        },
+        {
+            "question": "Who is the CEO of Danone?",
+            "answer": "Antoine de Saint-Affrique is the CEO of Danone S.A."
+        },
+        {
+            "question": "Where is Danone headquartered?",
+            "answer": "Danone is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Danone's main brands?",
+            "answer": "Danone's main brands include Activia, Oikos, Evian, and Nutricia."
+        },
+        {
+            "question": "When was Danone founded?",
+            "answer": "Danone was founded in 1919."
+        }
+    ],
+    "competitors": [
+        "KDP",
+        "PEP",
+        "KO"
+    ],
+    "related_stocks": [
+        "UL",
+        "CPB",
+        "GIS",
+        "HSY"
+    ]
+}

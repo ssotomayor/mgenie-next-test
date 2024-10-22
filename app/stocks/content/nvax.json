@@ -1,0 +1,79 @@
+{
+    "ticker": "NVAX",
+    "name": "Novavax, Inc.",
+    "description": "Novavax, Inc. is a biotechnology company dedicated to developing innovative vaccines to combat serious infectious diseases. Founded in 1987 and headquartered in Gaithersburg, Maryland, the company specializes in the discovery, development, and commercialization of vaccines for infectious diseases, including COVID-19. Novavax is notable for its proprietary nanoparticle technology, which allows for the rapid development of vaccines. This technology has been crucial in the creation of its COVID-19 vaccine candidate, NVX-CoV2373, which demonstrated high efficacy in clinical trials. Novavax's mission is to improve global health by providing access to effective vaccines, particularly in underserved populations. The company also works on vaccines for other diseases, including influenza and respiratory syncytial virus (RSV). Through partnerships with global health organizations and governments, Novavax aims to expand vaccine access and contribute to global health security.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Gaithersburg, Maryland, USA",
+    "founded": "1987",
+    "website": "https://www.novavax.com",
+    "ceo": "Stanley C. Erck",
+    "social_media": {
+        "twitter": "https://twitter.com/Novavax",
+        "linkedin": "https://www.linkedin.com/company/novavax/"
+    },
+    "investor_relations": "https://investors.novavax.com",
+    "key_executives": [
+        {
+            "name": "Stanley C. Erck",
+            "position": "CEO"
+        },
+        {
+            "name": "John C. Trizzino",
+            "position": "Chief Operating Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "NVX-CoV2373 (COVID-19 Vaccine)",
+                "NanoFlu (Influenza Vaccine)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Novavax, Inc. | Innovative Vaccines for Infectious Diseases",
+        "meta_description": "Explore Novavax, Inc., a leader in vaccine development focused on infectious diseases. Learn about our innovative technologies and mission to enhance global health.",
+        "keywords": [
+            "Novavax",
+            "Vaccines",
+            "Biotechnology",
+            "COVID-19 Vaccine",
+            "Infectious Diseases",
+            "Nanoparticle Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Novavax specialize in?",
+            "answer": "Novavax specializes in developing vaccines for infectious diseases."
+        },
+        {
+            "question": "What is NVX-CoV2373?",
+            "answer": "NVX-CoV2373 is Novavax's COVID-19 vaccine candidate."
+        },
+        {
+            "question": "Where is Novavax headquartered?",
+            "answer": "Novavax is headquartered in Gaithersburg, Maryland, USA."
+        },
+        {
+            "question": "When was Novavax founded?",
+            "answer": "Novavax was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "PFE",
+        "JNJ",
+        "AZN"
+    ],
+    "related_stocks": [
+        "GILD",
+        "AMGN",
+        "BMY",
+        "ABBV"
+    ]
+}

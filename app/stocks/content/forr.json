@@ -1,0 +1,98 @@
+{
+    "ticker": "FORR",
+    "name": "Forrester Research, Inc.",
+    "description": "Forrester Research, Inc. is a leading global research and advisory firm that provides insights and expertise to help businesses navigate the evolving landscape of technology and customer experience. Founded in 1983, Forrester focuses on the intersection of business and technology, offering research, consulting, and events to its clients. The company serves a diverse range of industries including technology, financial services, retail, and healthcare, helping organizations make informed decisions about their digital strategies. Forrester's research is known for its depth and quality, covering a wide array of topics such as digital transformation, customer experience, marketing strategies, and emerging technology trends. The firm also conducts surveys and data analysis, providing valuable market insights that empower businesses to innovate and stay ahead of the competition. In addition to its research services, Forrester hosts events and forums where industry leaders can share best practices and insights. With a strong commitment to fostering customer-centricity, Forrester aims to help organizations create better experiences for their customers and drive business growth.",
+    "industry": [
+        "Research",
+        "Advisory",
+        "Consulting"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "1983",
+    "website": "https://go.forrester.com",
+    "ceo": "George F. Colony",
+    "social_media": {
+        "twitter": "https://twitter.com/forrester",
+        "linkedin": "https://www.linkedin.com/company/forrester-research"
+    },
+    "investor_relations": "https://investor.forrester.com",
+    "key_executives": [
+        {
+            "name": "George F. Colony",
+            "position": "CEO"
+        },
+        {
+            "name": "G. D. (David) W. Dwyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Research Services",
+            "products": [
+                "Market Research",
+                "Customer Experience Research",
+                "Technology Research"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Digital Transformation Consulting",
+                "Marketing Strategy Consulting"
+            ]
+        },
+        {
+            "category": "Events",
+            "products": [
+                "Forrester's CX North America",
+                "Forrester's Digital Transformation Summit"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Forrester Research, Inc. | Insights and Advisory Services",
+        "meta_description": "Explore Forrester Research, Inc., a leader in research and advisory services, providing insights to help businesses navigate technology and customer experience.",
+        "keywords": [
+            "Forrester",
+            "Research",
+            "Advisory",
+            "Consulting",
+            "Customer Experience",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Forrester Research do?",
+            "answer": "Forrester Research provides research and advisory services to help businesses make informed decisions about technology and customer experience."
+        },
+        {
+            "question": "Who is the CEO of Forrester Research?",
+            "answer": "George F. Colony is the CEO of Forrester Research, Inc."
+        },
+        {
+            "question": "Where is Forrester Research headquartered?",
+            "answer": "Forrester Research is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are the main services offered by Forrester?",
+            "answer": "Forrester offers research services, consulting services, and hosts industry events."
+        },
+        {
+            "question": "When was Forrester founded?",
+            "answer": "Forrester was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "GART",
+        "IDC",
+        "Nielsen"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "AAPL",
+        "ORCL",
+        "IBM"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "AQNB",
+    "name": "Airbnb, Inc.",
+    "description": "Airbnb, Inc. is a global leader in the online marketplace for lodging, primarily focusing on short-term rentals and unique travel experiences. Founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk, Airbnb was born out of the idea of providing travelers with affordable accommodation options by connecting them with hosts around the world. The platform allows homeowners to rent out their properties to guests, creating a diverse range of accommodation choices, from single rooms to entire homes, as well as unique experiences like guided tours and local activities. With a commitment to fostering community and promoting sustainable tourism, Airbnb has transformed the way people travel by offering personalized, authentic experiences. The company operates in over 220 countries and regions, with millions of listings available across various property types. In addition to its rental services, Airbnb has also introduced initiatives such as Airbnb Experiences, which empowers local hosts to offer unique activities and tours, enhancing the travel experience. As the sharing economy continues to grow, Airbnb remains at the forefront of innovation in the travel industry, adapting to changing consumer preferences and technological advancements.",
+    "industry": [
+        "Travel",
+        "Hospitality"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2008",
+    "website": "https://www.airbnb.com",
+    "ceo": "Brian Chesky",
+    "social_media": {
+        "twitter": "https://twitter.com/airbnb",
+        "linkedin": "https://www.linkedin.com/company/airbnb",
+        "instagram": "https://www.instagram.com/airbnb/",
+        "youtube": "https://www.youtube.com/user/Airbnb"
+    },
+    "investor_relations": "https://investors.airbnb.com",
+    "key_executives": [
+        {
+            "name": "Brian Chesky",
+            "position": "CEO"
+        },
+        {
+            "name": "Dave Stephenson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Lodging",
+            "products": [
+                "Entire homes",
+                "Private rooms",
+                "Shared rooms"
+            ]
+        },
+        {
+            "category": "Experiences",
+            "products": [
+                "Local tours",
+                "Cooking classes",
+                "Adventure activities"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Airbnb, Inc. | Travel and Unique Lodging Experiences",
+        "meta_description": "Explore Airbnb, Inc., a leader in online lodging and travel experiences. Discover diverse accommodations and unique adventures around the globe.",
+        "keywords": [
+            "Airbnb",
+            "Travel",
+            "Lodging",
+            "Vacation Rentals",
+            "Unique Experiences",
+            "Short-term Rentals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Airbnb known for?",
+            "answer": "Airbnb is known for its online marketplace that connects travelers with hosts offering unique lodging and experiences."
+        },
+        {
+            "question": "Who is the CEO of Airbnb?",
+            "answer": "Brian Chesky is the CEO of Airbnb, Inc."
+        },
+        {
+            "question": "Where is Airbnb headquartered?",
+            "answer": "Airbnb is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What types of accommodations does Airbnb offer?",
+            "answer": "Airbnb offers entire homes, private rooms, and shared rooms, as well as unique experiences."
+        },
+        {
+            "question": "When was Airbnb founded?",
+            "answer": "Airbnb was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "EXPE",
+        "BKNG",
+        "TRIP"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "AAPL",
+        "MSFT"
+    ]
+}

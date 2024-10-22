@@ -1,0 +1,89 @@
+{
+    "ticker": "DRUG",
+    "name": "DrugCo, Inc.",
+    "description": "DrugCo, Inc. is a biopharmaceutical company dedicated to the development of innovative therapies for various chronic and life-threatening diseases. Established in 2010, DrugCo has emerged as a leader in the research and development of cutting-edge drug candidates targeting conditions such as cancer, autoimmune disorders, and infectious diseases. The company utilizes advanced biotechnology and pharmacogenomics to enhance the efficacy and safety of its treatments, aiming to improve patient outcomes and quality of life. DrugCo's flagship product, OncoThera, is a groundbreaking cancer treatment that has shown promising results in clinical trials, and the company is rapidly advancing its pipeline of therapies through partnerships with leading research institutions and healthcare organizations. With a commitment to scientific excellence and patient-centered care, DrugCo strives to bring transformative medicines to market while adhering to the highest ethical standards in research and development.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "2010",
+    "website": "https://www.drugco.com",
+    "ceo": "Dr. Jane Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/DrugCo",
+        "linkedin": "https://www.linkedin.com/company/drugco"
+    },
+    "investor_relations": "https://ir.drugco.com",
+    "key_executives": [
+        {
+            "name": "Dr. Jane Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "John Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cancer Therapies",
+            "products": [
+                "OncoThera",
+                "TumorBlock"
+            ]
+        },
+        {
+            "category": "Autoimmune Treatments",
+            "products": [
+                "ImmunoGuard",
+                "Rejuve"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DrugCo, Inc. | Innovative Biopharmaceutical Solutions",
+        "meta_description": "Learn about DrugCo, Inc., a biopharmaceutical company focused on developing cutting-edge therapies for chronic diseases and cancer. Explore our innovative products and commitment to healthcare.",
+        "keywords": [
+            "DrugCo",
+            "Biopharmaceuticals",
+            "Cancer Therapy",
+            "Healthcare",
+            "Innovative Treatments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does DrugCo specialize in?",
+            "answer": "DrugCo specializes in developing innovative therapies for chronic and life-threatening diseases, particularly cancer and autoimmune disorders."
+        },
+        {
+            "question": "Who is the CEO of DrugCo?",
+            "answer": "Dr. Jane Smith is the CEO of DrugCo, Inc."
+        },
+        {
+            "question": "Where is DrugCo headquartered?",
+            "answer": "DrugCo is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are DrugCo's main products?",
+            "answer": "DrugCo's main products include OncoThera and TumorBlock for cancer treatment, as well as ImmunoGuard and Rejuve for autoimmune disorders."
+        },
+        {
+            "question": "When was DrugCo founded?",
+            "answer": "DrugCo was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "REGN",
+        "GILD",
+        "VRTX"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "PFE",
+        "MRNA",
+        "ABBV"
+    ]
+}

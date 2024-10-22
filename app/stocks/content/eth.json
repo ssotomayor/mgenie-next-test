@@ -1,0 +1,95 @@
+{
+    "ticker": "ETH",
+    "name": "Ethereum Foundation",
+    "description": "The Ethereum Foundation is a non-profit organization dedicated to supporting the development of the Ethereum blockchain, a decentralized platform that enables developers to build and deploy smart contracts and decentralized applications (dApps). Founded in 2014 by Vitalik Buterin, the Ethereum network has become the second-largest blockchain by market capitalization, following Bitcoin. Ethereum introduced the concept of smart contracts, which are self-executing contracts with the terms directly written into code, allowing for trustless transactions and automated processes. The Ethereum Foundation plays a crucial role in the ecosystem by funding core development, researching improvements, and promoting the growth of the Ethereum community. With the transition to Ethereum 2.0, the foundation is focused on enhancing scalability, security, and sustainability through a proof-of-stake consensus mechanism. By fostering innovation and collaboration, the Ethereum Foundation aims to empower developers and expand the use cases of blockchain technology across diverse industries. Its mission is to enable a decentralized internet that enhances privacy and security while providing users with more control over their data and digital assets.",
+    "industry": [
+        "Blockchain",
+        "Cryptocurrency"
+    ],
+    "headquarters": "Zug, Switzerland",
+    "founded": "2014",
+    "website": "https://ethereum.org",
+    "ceo": "Vitalik Buterin",
+    "social_media": {
+        "twitter": "https://twitter.com/ethereum",
+        "linkedin": "https://www.linkedin.com/company/ethereum-foundation/"
+    },
+    "investor_relations": "https://ethereum.org/en/investors/",
+    "key_executives": [
+        {
+            "name": "Vitalik Buterin",
+            "position": "Co-founder"
+        },
+        {
+            "name": "Aya Miyaguchi",
+            "position": "Executive Director",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/aya-miyaguchi-2b45a3b/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Platforms",
+            "products": [
+                "Ethereum",
+                "Ethereum 2.0",
+                "Smart Contracts"
+            ]
+        },
+        {
+            "category": "Decentralized Applications",
+            "products": [
+                "DeFi Applications",
+                "NFT Platforms",
+                "DAOs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ethereum Foundation | Building a Decentralized Future",
+        "meta_description": "Discover the Ethereum Foundation, a non-profit organization supporting the development of Ethereum, the leading decentralized platform for smart contracts and dApps.",
+        "keywords": [
+            "Ethereum",
+            "Smart Contracts",
+            "Blockchain",
+            "Cryptocurrency",
+            "DeFi",
+            "Decentralized Applications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Ethereum?",
+            "answer": "Ethereum is a decentralized platform that enables the creation of smart contracts and decentralized applications."
+        },
+        {
+            "question": "Who founded Ethereum?",
+            "answer": "Ethereum was founded by Vitalik Buterin and a group of developers in 2014."
+        },
+        {
+            "question": "What is the Ethereum Foundation?",
+            "answer": "The Ethereum Foundation is a non-profit organization that supports the Ethereum ecosystem and its development."
+        },
+        {
+            "question": "What is Ethereum 2.0?",
+            "answer": "Ethereum 2.0 is an upgrade to the Ethereum network aimed at improving scalability, security, and sustainability."
+        },
+        {
+            "question": "Where is the Ethereum Foundation headquartered?",
+            "answer": "The Ethereum Foundation is headquartered in Zug, Switzerland."
+        }
+    ],
+    "competitors": [
+        "SOL",
+        "AVAX",
+        "DOT",
+        "BNB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

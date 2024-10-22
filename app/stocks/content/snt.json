@@ -1,0 +1,81 @@
+{
+    "ticker": "SNT",
+    "name": "SentinelOne, Inc.",
+    "description": "SentinelOne, Inc. is a leading cybersecurity company that specializes in autonomous endpoint protection. Founded in 2013, SentinelOne leverages artificial intelligence and machine learning technologies to provide advanced security solutions that protect against a wide array of cyber threats, including malware, ransomware, and advanced persistent threats. The company's platform, Singularity, integrates endpoint protection, detection, and response capabilities, enabling organizations to detect and respond to threats in real-time. With a focus on automation, SentinelOne's solutions reduce the time and resources spent on threat response while increasing the overall security posture of their clients. The company serves various industries, including healthcare, finance, and government, and is recognized for its innovative approach to cybersecurity, earning accolades for its effectiveness and user-friendly interface. SentinelOne aims to empower organizations to protect their digital assets in an increasingly complex and hostile cybersecurity landscape, emphasizing the importance of proactive defense mechanisms and continuous monitoring. With a growing customer base and strategic partnerships, SentinelOne is committed to staying at the forefront of cybersecurity technology and innovation.",
+    "industry": [
+        "Cybersecurity",
+        "Software"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "2013",
+    "website": "https://www.sentinelone.com",
+    "ceo": "Tomer Weingarten",
+    "social_media": {
+        "twitter": "https://twitter.com/sentinelone",
+        "linkedin": "https://www.linkedin.com/company/sentinelone/"
+    },
+    "investor_relations": "https://ir.sentinelone.com",
+    "key_executives": [
+        {
+            "name": "Tomer Weingarten",
+            "position": "CEO"
+        },
+        {
+            "name": "Jared D. Hargreaves",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Endpoint Protection",
+            "products": [
+                "Singularity Platform"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SentinelOne, Inc. | Autonomous Cybersecurity Solutions",
+        "meta_description": "Explore SentinelOne, Inc., a leader in endpoint protection and cybersecurity solutions. Discover how SentinelOne's AI-driven technology safeguards against modern threats.",
+        "keywords": [
+            "SentinelOne",
+            "Cybersecurity",
+            "Endpoint Protection",
+            "AI Security",
+            "Threat Detection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SentinelOne specialize in?",
+            "answer": "SentinelOne specializes in autonomous endpoint protection and cybersecurity solutions."
+        },
+        {
+            "question": "Who is the CEO of SentinelOne?",
+            "answer": "Tomer Weingarten is the CEO of SentinelOne, Inc."
+        },
+        {
+            "question": "Where is SentinelOne headquartered?",
+            "answer": "SentinelOne is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What is the main product of SentinelOne?",
+            "answer": "The main product of SentinelOne is the Singularity Platform, which provides comprehensive endpoint protection."
+        },
+        {
+            "question": "When was SentinelOne founded?",
+            "answer": "SentinelOne was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "ZS",
+        "FTNT",
+        "PANW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

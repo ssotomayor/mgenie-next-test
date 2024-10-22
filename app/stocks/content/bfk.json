@@ -1,0 +1,96 @@
+{
+    "ticker": "BFK",
+    "name": "BlackRock Fund Advisors",
+    "description": "BlackRock Fund Advisors (BFA) is a prominent investment management firm and a subsidiary of BlackRock, Inc., one of the world's largest asset management companies. Founded in 1988, BFA focuses on providing investment management services to institutional investors, including pension funds, foundations, and endowments. The firm is known for its expertise in index fund management, offering a diverse range of equity, fixed income, and multi-asset investment strategies. BFA manages various funds that cater to different investment needs, including exchange-traded funds (ETFs) that provide investors with efficient and cost-effective exposure to a wide array of asset classes. The company leverages advanced technology and data analytics to enhance its investment processes and deliver superior performance for its clients. With a commitment to sustainable investing, BFA integrates environmental, social, and governance (ESG) factors into its investment decisions, aligning with the growing demand for responsible investment practices. BFA's mission is to empower clients to achieve their financial goals through innovative investment solutions backed by research and a deep understanding of the markets.",
+    "industry": [
+        "Investment Management",
+        "Finance"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "1988",
+    "website": "https://www.blackrock.com",
+    "ceo": "Larry Fink",
+    "social_media": {
+        "twitter": "https://twitter.com/blackrock",
+        "linkedin": "https://www.linkedin.com/company/blackrock/"
+    },
+    "investor_relations": "https://www.blackrock.com/us/individual/investor-relations",
+    "key_executives": [
+        {
+            "name": "Larry Fink",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert Kapito",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Funds",
+            "products": [
+                "BlackRock Equity Index Fund",
+                "BlackRock Global Equity Fund"
+            ]
+        },
+        {
+            "category": "Fixed Income Funds",
+            "products": [
+                "BlackRock Bond Index Fund",
+                "BlackRock Global Bond Fund"
+            ]
+        },
+        {
+            "category": "Exchange-Traded Funds",
+            "products": [
+                "iShares Core S&P 500 ETF",
+                "iShares MSCI Emerging Markets ETF"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BlackRock Fund Advisors | Leading Investment Management",
+        "meta_description": "Explore BlackRock Fund Advisors, a subsidiary of BlackRock, Inc., specializing in investment management services, including ETFs and index funds.",
+        "keywords": [
+            "BlackRock",
+            "Investment Management",
+            "ETFs",
+            "Index Funds",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BlackRock Fund Advisors do?",
+            "answer": "BlackRock Fund Advisors manages investment funds, including equity, fixed income, and ETFs, for institutional clients."
+        },
+        {
+            "question": "Who is the CEO of BlackRock?",
+            "answer": "Larry Fink is the CEO of BlackRock, Inc."
+        },
+        {
+            "question": "Where is BlackRock headquartered?",
+            "answer": "BlackRock is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What types of funds does BlackRock offer?",
+            "answer": "BlackRock offers equity funds, fixed income funds, and exchange-traded funds (ETFs)."
+        },
+        {
+            "question": "When was BlackRock Fund Advisors founded?",
+            "answer": "BlackRock Fund Advisors was founded in 1988."
+        }
+    ],
+    "competitors": [
+        "VTI",
+        "SPLG",
+        "IVV",
+        "VOO"
+    ],
+    "related_stocks": [
+        "SPY",
+        "Vanguard",
+        "SCHB",
+        "SCHA"
+    ]
+}

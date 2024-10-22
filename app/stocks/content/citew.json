@@ -1,0 +1,80 @@
+{
+    "ticker": "CITEW",
+    "name": "Citrine Informatics, Inc.",
+    "description": "Citrine Informatics, Inc. is a leading data-driven materials informatics company that provides innovative solutions to accelerate materials discovery and development. Founded in 2013, Citrine harnesses the power of artificial intelligence and machine learning to transform the way materials are designed and utilized across various industries, including energy, manufacturing, and consumer goods. By integrating data from a multitude of sources, including experimental results and computational simulations, Citrine enables organizations to make informed decisions about material selection and optimization, significantly reducing time and cost in research and development processes. The company's flagship platform, the Citrine Platform, enables users to store, analyze, and visualize materials data, facilitating collaboration and innovation. Citrine's mission is to empower companies to leverage data to create advanced materials that improve performance and sustainability. With a strong commitment to fostering innovation and reducing the environmental impact of materials production, Citrine is at the forefront of the materials revolution, partnering with leading corporations and research institutions to drive progress in materials science.",
+    "industry": [
+        "Materials Science",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Menlo Park, California, USA",
+    "founded": "2013",
+    "website": "https://www.citrine.io",
+    "ceo": "Greg Mulholland",
+    "social_media": {
+        "twitter": "https://twitter.com/citrineio",
+        "linkedin": "https://www.linkedin.com/company/citrine-informatics/"
+    },
+    "investor_relations": "https://www.citrine.io/investors",
+    "key_executives": [
+        {
+            "name": "Greg Mulholland",
+            "position": "CEO"
+        },
+        {
+            "name": "Chad McKinney",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Materials Informatics",
+            "products": [
+                "Citrine Platform"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Citrine Informatics | Accelerating Materials Discovery with AI",
+        "meta_description": "Explore Citrine Informatics, a leader in materials informatics leveraging AI to accelerate materials discovery and development. Discover their innovative solutions.",
+        "keywords": [
+            "Citrine Informatics",
+            "Materials Science",
+            "Artificial Intelligence",
+            "Data-Driven Discovery",
+            "Materials Optimization"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Citrine Informatics known for?",
+            "answer": "Citrine Informatics is known for its innovative materials informatics platform that accelerates materials discovery and development using AI."
+        },
+        {
+            "question": "Who is the CEO of Citrine Informatics?",
+            "answer": "Greg Mulholland is the CEO of Citrine Informatics, Inc."
+        },
+        {
+            "question": "Where is Citrine Informatics headquartered?",
+            "answer": "Citrine Informatics is headquartered in Menlo Park, California, USA."
+        },
+        {
+            "question": "What products does Citrine offer?",
+            "answer": "Citrine offers the Citrine Platform for materials informatics."
+        },
+        {
+            "question": "When was Citrine Informatics founded?",
+            "answer": "Citrine Informatics was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "AMRS",
+        "SABR",
+        "PLNT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

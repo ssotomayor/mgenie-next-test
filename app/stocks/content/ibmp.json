@@ -1,0 +1,97 @@
+{
+    "ticker": "IBMP",
+    "name": "International Business Machines Corporation",
+    "description": "International Business Machines Corporation (IBM) is a global leader in information technology, consulting, and business services. Founded in 1911, IBM has evolved from a hardware-centric company into a diverse technology and services firm, focusing on cloud computing, artificial intelligence (AI), and data analytics. The company is renowned for its innovations, including the development of the IBM Watson AI platform, which harnesses machine learning and natural language processing to provide insights across various industries. IBM's commitment to research and development has resulted in significant contributions to quantum computing, blockchain technology, and cybersecurity solutions. The company serves a wide array of industries, including finance, healthcare, and logistics, helping businesses transform their operations through technology. IBM also emphasizes sustainability and social responsibility, striving to create a positive impact on society through its initiatives. With a strong portfolio of patents and a history of technological breakthroughs, IBM continues to influence the future of computing and information systems.",
+    "industry": [
+        "Information Technology",
+        "Consulting",
+        "Cloud Computing"
+    ],
+    "headquarters": "Armonk, New York, USA",
+    "founded": "1911",
+    "website": "https://www.ibm.com",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBM",
+        "linkedin": "https://www.linkedin.com/company/ibm/",
+        "youtube": "https://www.youtube.com/user/IBM"
+    },
+    "investor_relations": "https://www.ibm.com/investor/",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "James Kavanaugh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "IBM Cloud",
+                "IBM Cloud Pak"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "IBM Watson",
+                "IBM Watson Studio"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "IBM Global Business Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "International Business Machines Corporation | IBM Technology and Consulting",
+        "meta_description": "Learn about IBM, a leader in cloud computing, AI, and consulting services. Discover IBM's innovations, solutions, and commitment to sustainability.",
+        "keywords": [
+            "IBM",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Data Analytics",
+            "Quantum Computing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IBM known for?",
+            "answer": "IBM is known for its innovations in information technology, cloud computing, and artificial intelligence."
+        },
+        {
+            "question": "Who is the CEO of IBM?",
+            "answer": "Arvind Krishna is the CEO of International Business Machines Corporation."
+        },
+        {
+            "question": "Where is IBM headquartered?",
+            "answer": "IBM is headquartered in Armonk, New York, USA."
+        },
+        {
+            "question": "What are IBM's main products?",
+            "answer": "IBM's main products include IBM Cloud, IBM Watson, and various consulting services."
+        },
+        {
+            "question": "When was IBM founded?",
+            "answer": "IBM was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ORCL",
+        "SAP",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CSCO"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "MGTX",
+    "name": "MediGene AG",
+    "description": "MediGene AG is a publicly traded biotechnology company focused on the development of innovative therapies for cancer treatment. Founded in 1997 and headquartered in Munich, Germany, MediGene is dedicated to creating effective and targeted immunotherapies that enhance the body\u2019s ability to fight cancer. The company's lead product, Tecemotide, is an immunotherapy designed to treat lung cancer, while it is also advancing a pipeline of other promising therapies aimed at various types of solid tumors. MediGene's research is driven by a commitment to precision medicine, utilizing cutting-edge technologies to develop treatments that are tailored to individual patient profiles. The company collaborates with leading research institutions and pharmaceutical partners worldwide to accelerate the discovery and development of new therapies. MediGene is also exploring the potential of its proprietary T-cell receptor technology, aiming to expand its impact in the field of adoptive cell therapy. With a focus on innovation and patient-centered care, MediGene plays a vital role in the evolving landscape of cancer therapy, striving to improve outcomes for patients suffering from this devastating disease.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Munich, Germany",
+    "founded": "1997",
+    "website": "https://www.medigene.com",
+    "ceo": "Patricia Zettl",
+    "social_media": {
+        "twitter": "https://twitter.com/MediGeneAG",
+        "linkedin": "https://www.linkedin.com/company/medigene-ag/"
+    },
+    "investor_relations": "https://www.medigene.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Patricia Zettl",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. Thomas Taapken",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Immunotherapies",
+            "products": [
+                "Tecemotide"
+            ]
+        },
+        {
+            "category": "T-cell Receptor Technology",
+            "products": [
+                "TCR-based Therapies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MediGene AG | Innovative Cancer Therapies",
+        "meta_description": "MediGene AG is a biotechnology company focused on developing innovative immunotherapies for cancer treatment. Explore MediGene\u2019s commitment to precision medicine and its advanced therapeutic pipeline.",
+        "keywords": [
+            "MediGene",
+            "Biotechnology",
+            "Cancer Therapy",
+            "Immunotherapy",
+            "Precision Medicine",
+            "Tecemotide"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does MediGene specialize in?",
+            "answer": "MediGene specializes in the development of innovative immunotherapies for cancer treatment."
+        },
+        {
+            "question": "Who is the CEO of MediGene?",
+            "answer": "Patricia Zettl is the CEO of MediGene AG."
+        },
+        {
+            "question": "Where is MediGene headquartered?",
+            "answer": "MediGene is headquartered in Munich, Germany."
+        },
+        {
+            "question": "What are MediGene's main products?",
+            "answer": "MediGene's main products include Tecemotide and various T-cell receptor therapies."
+        },
+        {
+            "question": "When was MediGene founded?",
+            "answer": "MediGene was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "BMY",
+        "AMGN",
+        "REGN",
+        "JNJ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

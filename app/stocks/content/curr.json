@@ -1,0 +1,88 @@
+{
+    "ticker": "CURR",
+    "name": "Currant, Inc.",
+    "description": "Currant, Inc. is a technology-driven company specializing in innovative solutions for energy management and sustainability. Founded in 2015, Currant focuses on integrating advanced software and hardware systems to optimize energy consumption in residential and commercial properties. The company's flagship product, the Currant Smart Outlet, enables users to monitor and control their energy usage in real-time, providing insights that help reduce energy costs and minimize environmental impact. Currant leverages machine learning algorithms to analyze energy patterns and offer personalized recommendations for enhancing energy efficiency. With a commitment to promoting renewable energy sources, Currant also partners with solar energy providers to facilitate seamless integration of solar systems into smart homes. As a leader in the energy tech sector, Currant's mission is to empower individuals and organizations to take control of their energy consumption and contribute to a sustainable future for the planet.",
+    "industry": [
+        "Energy Technology",
+        "Sustainability"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.currant.com",
+    "ceo": "Jessica Green",
+    "social_media": {
+        "twitter": "https://twitter.com/CurrantInc",
+        "linkedin": "https://www.linkedin.com/company/currant-inc/"
+    },
+    "investor_relations": "https://ir.currant.com",
+    "key_executives": [
+        {
+            "name": "Jessica Green",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Lee",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Smart Energy Solutions",
+            "products": [
+                "Currant Smart Outlet",
+                "Currant Energy Monitor"
+            ]
+        },
+        {
+            "category": "Software Applications",
+            "products": [
+                "Currant Energy Management App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Currant, Inc. | Smart Energy Management Solutions",
+        "meta_description": "Explore Currant, Inc., a leader in smart energy management technology. Discover innovative products that help optimize energy usage and promote sustainability.",
+        "keywords": [
+            "Currant",
+            "Smart Energy",
+            "Energy Management",
+            "Sustainability",
+            "Smart Home Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Currant, Inc. specialize in?",
+            "answer": "Currant, Inc. specializes in smart energy management solutions, helping users optimize their energy consumption."
+        },
+        {
+            "question": "Who is the CEO of Currant?",
+            "answer": "Jessica Green is the CEO of Currant, Inc."
+        },
+        {
+            "question": "Where is Currant headquartered?",
+            "answer": "Currant is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are some of Currant's main products?",
+            "answer": "Currant's main products include the Currant Smart Outlet and the Currant Energy Management App."
+        },
+        {
+            "question": "When was Currant founded?",
+            "answer": "Currant was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "SEN",
+        "SCTY",
+        "ENPH",
+        "TSLA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "FARO",
+    "name": "FARO Technologies, Inc.",
+    "description": "FARO Technologies, Inc. is a global leader in 3D measurement, imaging, and realization technology. Established in 1981, the company specializes in providing advanced solutions for the manufacturing, construction, and public safety industries. FARO's innovative products include portable 3D measurement devices, laser scanners, and software solutions that help professionals capture accurate data for design, documentation, and analysis. With a commitment to precision and efficiency, FARO empowers its customers to improve quality, reduce costs, and enhance productivity. The company operates in various sectors, including aerospace, automotive, architecture, engineering, and construction, offering tools that enable rapid prototyping, quality assurance, and digital twin creation. FARO's technology is widely recognized for its role in transforming traditional workflows into digitized processes, facilitating better decision-making through data-driven insights. The company continues to expand its product offerings and enhance its capabilities through research and development, focusing on integrating artificial intelligence and machine learning into its solutions. With a global presence and a strong emphasis on customer service, FARO aims to be the preferred partner for businesses seeking to innovate and optimize their operations.",
+    "industry": [
+        "Technology",
+        "Manufacturing"
+    ],
+    "headquarters": "Lake Mary, Florida, USA",
+    "founded": "1981",
+    "website": "https://www.faro.com",
+    "ceo": "Michael Burger",
+    "social_media": {
+        "twitter": "https://twitter.com/FAROtech",
+        "linkedin": "https://www.linkedin.com/company/faro-technologies/"
+    },
+    "investor_relations": "https://investors.faro.com",
+    "key_executives": [
+        {
+            "name": "Michael Burger",
+            "position": "CEO"
+        },
+        {
+            "name": "Gordon McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Measurement",
+            "products": [
+                "FARO Focus Laser Scanner",
+                "FARO Edge Portable CMM",
+                "FARO Freestyle3D"
+            ]
+        },
+        {
+            "category": "Software Solutions",
+            "products": [
+                "FARO Scene",
+                "FARO BuildIT",
+                "FARO CAD Zone"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FARO Technologies, Inc. | 3D Measurement and Imaging Solutions",
+        "meta_description": "Explore FARO Technologies, a leader in 3D measurement and imaging solutions. Discover innovative products for manufacturing, construction, and public safety.",
+        "keywords": [
+            "FARO",
+            "3D Measurement",
+            "Laser Scanning",
+            "Imaging Solutions",
+            "Manufacturing Technology",
+            "Digital Twin",
+            "Quality Assurance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does FARO specialize in?",
+            "answer": "FARO specializes in 3D measurement, imaging, and realization technology."
+        },
+        {
+            "question": "Who is the CEO of FARO?",
+            "answer": "Michael Burger is the CEO of FARO Technologies, Inc."
+        },
+        {
+            "question": "Where is FARO headquartered?",
+            "answer": "FARO is headquartered in Lake Mary, Florida, USA."
+        },
+        {
+            "question": "What are FARO's main products?",
+            "answer": "FARO's main products include laser scanners, portable CMMs, and measurement software."
+        },
+        {
+            "question": "When was FARO founded?",
+            "answer": "FARO was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "HEXR",
+        "PTC",
+        "SI",
+        "GE"
+    ],
+    "related_stocks": [
+        "ADSK",
+        "SNX",
+        "HWM",
+        "CGNX"
+    ]
+}

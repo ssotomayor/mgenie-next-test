@@ -1,0 +1,81 @@
+{
+    "ticker": "CSX",
+    "name": "CSX Corporation",
+    "description": "CSX Corporation is a leading transportation company that operates one of the largest rail networks in the eastern United States. Founded in 1827, CSX provides rail-based transportation services, offering a wide range of freight solutions to various industries including coal, automotive, agricultural products, chemicals, and intermodal services. Headquartered in Jacksonville, Florida, CSX plays a critical role in the economy by facilitating the movement of goods over long distances, providing a cost-effective and environmentally friendly alternative to truck transportation. The company has made significant investments in technology and infrastructure to enhance its operational efficiency and safety. CSX is also committed to sustainability, focusing on reducing its carbon footprint and improving energy efficiency. With a dedicated workforce and a strong focus on customer service, CSX continues to innovate and adapt to the changing transportation landscape, ensuring reliable service and growth in the logistics sector.",
+    "industry": [
+        "Transportation",
+        "Railroad"
+    ],
+    "headquarters": "Jacksonville, Florida, USA",
+    "founded": "1827",
+    "website": "https://www.csx.com",
+    "ceo": "James M. Foote",
+    "social_media": {
+        "twitter": "https://twitter.com/CSX",
+        "linkedin": "https://www.linkedin.com/company/csx/"
+    },
+    "investor_relations": "https://investors.csx.com",
+    "key_executives": [
+        {
+            "name": "James M. Foote",
+            "position": "CEO"
+        },
+        {
+            "name": "Kevin M. Boone",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Freight Services",
+            "products": [
+                "Coal Transportation",
+                "Intermodal Services",
+                "Automotive Transport",
+                "Chemical Transport",
+                "Agricultural Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CSX Corporation | Leading Rail Transportation Services",
+        "meta_description": "Explore CSX Corporation, a major player in rail transportation, providing efficient freight solutions across various industries. Learn about CSX's services, commitment to sustainability, and operational excellence.",
+        "keywords": [
+            "CSX",
+            "Rail Transportation",
+            "Freight Services",
+            "Logistics",
+            "Sustainability",
+            "Intermodal"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CSX provide?",
+            "answer": "CSX provides rail-based transportation services, including freight solutions for coal, automotive, agricultural products, chemicals, and intermodal services."
+        },
+        {
+            "question": "Who is the CEO of CSX?",
+            "answer": "James M. Foote is the CEO of CSX Corporation."
+        },
+        {
+            "question": "Where is CSX headquartered?",
+            "answer": "CSX is headquartered in Jacksonville, Florida, USA."
+        },
+        {
+            "question": "When was CSX founded?",
+            "answer": "CSX was founded in 1827."
+        }
+    ],
+    "competitors": [
+        "UNP",
+        "KSU",
+        "CP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

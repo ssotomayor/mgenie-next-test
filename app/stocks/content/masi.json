@@ -1,0 +1,89 @@
+{
+    "ticker": "MASI",
+    "name": "Masimo Corporation",
+    "description": "Masimo Corporation is a global medical technology company that specializes in noninvasive monitoring technologies. Founded in 1989 by Joe Kiani, Masimo is best known for its revolutionary pulse oximetry technology, which allows for accurate measurement of blood oxygen levels without the need for invasive procedures. The company's innovative products are widely used in hospitals, clinics, and home care settings, providing healthcare professionals with critical information to make informed decisions about patient care. Masimo's flagship product, the Rad-97, combines advanced noninvasive monitoring capabilities with connectivity features, enabling seamless integration into healthcare networks. In addition to pulse oximetry, Masimo develops a range of monitoring solutions, including brain function monitoring, hemoglobin monitoring, and vital signs monitoring. With a commitment to improving patient outcomes and advancing healthcare technology, Masimo continues to invest in research and development, expanding its product portfolio to meet the evolving needs of healthcare providers and patients alike. The company's mission is to enhance patient safety and reduce the cost of care through innovative noninvasive monitoring technologies.",
+    "industry": [
+        "Medical Devices",
+        "Healthcare Technology"
+    ],
+    "headquarters": "Irvine, California, USA",
+    "founded": "1989",
+    "website": "https://www.masimo.com",
+    "ceo": "Joe Kiani",
+    "social_media": {
+        "twitter": "https://twitter.com/masimo",
+        "linkedin": "https://www.linkedin.com/company/masimo-corporation/"
+    },
+    "investor_relations": "https://investors.masimo.com",
+    "key_executives": [
+        {
+            "name": "Joe Kiani",
+            "position": "CEO"
+        },
+        {
+            "name": "M. Michael McGinnis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Noninvasive Monitoring",
+            "products": [
+                "Rad-97",
+                "Root",
+                "O3"
+            ]
+        },
+        {
+            "category": "Brain Function Monitoring",
+            "products": [
+                "SedLine"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Masimo Corporation | Noninvasive Monitoring Solutions",
+        "meta_description": "Explore Masimo Corporation, a leader in noninvasive monitoring technology. Discover innovative products that enhance patient safety and improve healthcare outcomes.",
+        "keywords": [
+            "Masimo",
+            "Pulse Oximetry",
+            "Noninvasive Monitoring",
+            "Healthcare Technology",
+            "Medical Devices"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Masimo known for?",
+            "answer": "Masimo is known for its noninvasive monitoring technologies, particularly its advanced pulse oximetry solutions."
+        },
+        {
+            "question": "Who is the CEO of Masimo?",
+            "answer": "Joe Kiani is the CEO of Masimo Corporation."
+        },
+        {
+            "question": "Where is Masimo headquartered?",
+            "answer": "Masimo is headquartered in Irvine, California, USA."
+        },
+        {
+            "question": "What are Masimo's main products?",
+            "answer": "Masimo's main products include the Rad-97, Root, and SedLine brain function monitoring."
+        },
+        {
+            "question": "When was Masimo founded?",
+            "answer": "Masimo was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "PH",
+        "BDX",
+        "HOLX",
+        "ISRG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+    ]
+}

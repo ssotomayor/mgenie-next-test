@@ -1,0 +1,93 @@
+{
+    "ticker": "MET.PRF",
+    "name": "MetLife, Inc.",
+    "description": "MetLife, Inc. is a leading global provider of insurance, annuities, and employee benefit programs, dedicated to helping individuals and businesses achieve financial security and peace of mind. Founded in 1868 and headquartered in New York City, MetLife operates in more than 40 countries, serving millions of customers worldwide. The company offers a wide range of products, including life insurance, health insurance, dental insurance, vision insurance, and retirement solutions such as annuities and pension plans. MetLife is also known for its innovative employee benefits solutions, which enhance workplace well-being and productivity. With a long-standing commitment to corporate responsibility, MetLife actively engages in community initiatives and sustainable practices. The company prioritizes diversity and inclusion, striving to create an environment that reflects the diversity of its customer base. MetLife aims to be a trusted partner for clients, providing tailored solutions that meet their unique needs and helping them navigate the complexities of financial planning.",
+    "industry": [
+        "Insurance",
+        "Finance"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1868",
+    "website": "https://www.metlife.com",
+    "ceo": "Michel Khalaf",
+    "social_media": {
+        "twitter": "https://twitter.com/MetLife",
+        "linkedin": "https://www.linkedin.com/company/metlife",
+        "facebook": "https://www.facebook.com/MetLife"
+    },
+    "investor_relations": "https://investor.metlife.com",
+    "key_executives": [
+        {
+            "name": "Michel Khalaf",
+            "position": "CEO"
+        },
+        {
+            "name": "John McCall",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "Health Insurance",
+                "Dental Insurance",
+                "Vision Insurance"
+            ]
+        },
+        {
+            "category": "Retirement Solutions",
+            "products": [
+                "Annuities",
+                "Pension Plans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MetLife, Inc. | Global Insurance and Financial Services",
+        "meta_description": "Explore MetLife, Inc., a global leader in insurance and financial services. Learn about our products, services, and commitment to helping you achieve financial security.",
+        "keywords": [
+            "MetLife",
+            "Insurance",
+            "Financial Services",
+            "Life Insurance",
+            "Annuities",
+            "Employee Benefits"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does MetLife do?",
+            "answer": "MetLife provides insurance, annuities, and employee benefit programs to individuals and businesses."
+        },
+        {
+            "question": "Who is the CEO of MetLife?",
+            "answer": "Michel Khalaf is the CEO of MetLife, Inc."
+        },
+        {
+            "question": "Where is MetLife headquartered?",
+            "answer": "MetLife is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What types of insurance does MetLife offer?",
+            "answer": "MetLife offers life insurance, health insurance, dental insurance, and vision insurance."
+        },
+        {
+            "question": "When was MetLife founded?",
+            "answer": "MetLife was founded in 1868."
+        }
+    ],
+    "competitors": [
+        "PRU",
+        "AIG",
+        "LNC",
+        "GL"
+    ],
+    "related_stocks": [
+        "BAC",
+        "JPM",
+        "WFC",
+        "AXP"
+    ]
+}

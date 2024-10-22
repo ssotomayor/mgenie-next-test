@@ -1,0 +1,102 @@
+{
+    "ticker": "HPE",
+    "name": "Hewlett Packard Enterprise Company",
+    "description": "Hewlett Packard Enterprise Company (HPE) is a global leader in enterprise products and services, focusing on technology solutions for businesses of all sizes. Established in 2015 as a spin-off from Hewlett-Packard, HPE specializes in server, storage, networking, and software solutions that empower organizations to drive innovation and improve operational efficiency. The company\u2019s portfolio includes high-performance computing, hybrid cloud, and data management solutions, enabling businesses to leverage data as a strategic asset. HPE is committed to sustainability and offers solutions that help organizations transition to greener technologies. The company operates on a subscription-based model through HPE GreenLake, allowing customers to scale their IT infrastructure according to their specific needs. HPE also invests heavily in research and development to integrate cutting-edge technologies such as artificial intelligence, machine learning, and edge computing into its offerings. With a strong focus on customer success and innovation, HPE aims to help businesses navigate the complexities of the digital world and achieve their goals efficiently.",
+    "industry": [
+        "Information Technology",
+        "Enterprise Solutions"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2015",
+    "website": "https://www.hpe.com",
+    "ceo": "Antonio Neri",
+    "social_media": {
+        "twitter": "https://twitter.com/HPE",
+        "linkedin": "https://www.linkedin.com/company/hewlett-packard-enterprise/"
+    },
+    "investor_relations": "https://investors.hpe.com",
+    "key_executives": [
+        {
+            "name": "Antonio Neri",
+            "position": "CEO"
+        },
+        {
+            "name": "Tarek Robbiati",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Servers",
+            "products": [
+                "HPE ProLiant",
+                "HPE Apollo"
+            ]
+        },
+        {
+            "category": "Storage",
+            "products": [
+                "HPE 3PAR",
+                "HPE Nimble"
+            ]
+        },
+        {
+            "category": "Networking",
+            "products": [
+                "HPE Aruba"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "HPE GreenLake"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hewlett Packard Enterprise | Enterprise Technology Solutions",
+        "meta_description": "Explore Hewlett Packard Enterprise, a leader in enterprise technology solutions, providing innovative products and services to transform businesses.",
+        "keywords": [
+            "Hewlett Packard Enterprise",
+            "HPE",
+            "Enterprise Solutions",
+            "Cloud Computing",
+            "Networking",
+            "Data Storage"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does HPE specialize in?",
+            "answer": "HPE specializes in enterprise technology solutions, including servers, storage, networking, and cloud services."
+        },
+        {
+            "question": "Who is the CEO of HPE?",
+            "answer": "Antonio Neri is the CEO of Hewlett Packard Enterprise Company."
+        },
+        {
+            "question": "Where is HPE headquartered?",
+            "answer": "HPE is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are HPE's main products?",
+            "answer": "HPE's main products include HPE ProLiant servers, HPE 3PAR storage, HPE Aruba networking solutions, and HPE GreenLake cloud services."
+        },
+        {
+            "question": "When was HPE founded?",
+            "answer": "HPE was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "ORCL",
+        "NTAP",
+        "CSCO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMD"
+    ]
+}

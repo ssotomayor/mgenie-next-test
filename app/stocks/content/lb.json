@@ -1,0 +1,99 @@
+{
+    "ticker": "LB",
+    "name": "L Brands, Inc.",
+    "description": "L Brands, Inc. is a global leader in the specialty retail sector, primarily recognized for its iconic brands such as Victoria's Secret and Bath & Body Works. Founded in 1963 and headquartered in Columbus, Ohio, L Brands has a rich history in creating and marketing products that enhance the lives of consumers. The company focuses on intimate apparel, personal care, and home fragrance products, catering to a diverse range of customers worldwide. Over the years, L Brands has developed a reputation for its innovative marketing strategies and high-quality products, which have led to a strong brand loyalty among consumers. The company has undergone significant transformation, particularly in the past few years, as it has redefined its brand portfolio to focus on its most successful and profitable brands. L Brands is committed to sustainability and ethical sourcing, ensuring that its products are made with respect for the environment and the communities in which it operates. Through its dedication to customer satisfaction and quality, L Brands continues to be a dominant player in the retail industry, adapting to changing consumer preferences and market conditions.",
+    "industry": [
+        "Retail",
+        "Apparel",
+        "Personal Care"
+    ],
+    "headquarters": "Columbus, Ohio, USA",
+    "founded": "1963",
+    "website": "https://www.lb.com",
+    "ceo": "Andrew Meslow",
+    "social_media": {
+        "twitter": "https://twitter.com/lbrands",
+        "linkedin": "https://www.linkedin.com/company/l-brands/"
+    },
+    "investor_relations": "https://investors.lb.com",
+    "key_executives": [
+        {
+            "name": "Andrew Meslow",
+            "position": "CEO"
+        },
+        {
+            "name": "Mindy Meads",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Intimate Apparel",
+            "products": [
+                "Bras",
+                "Panties",
+                "Loungewear"
+            ]
+        },
+        {
+            "category": "Personal Care",
+            "products": [
+                "Body Lotions",
+                "Fragrances",
+                "Shower Gels"
+            ]
+        },
+        {
+            "category": "Home Fragrance",
+            "products": [
+                "Candles",
+                "Room Sprays"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "L Brands, Inc. | Specialty Retail and Personal Care Products",
+        "meta_description": "Explore L Brands, Inc., a leader in specialty retail known for Victoria's Secret and Bath & Body Works. Discover our commitment to quality and customer satisfaction.",
+        "keywords": [
+            "L Brands",
+            "Victoria's Secret",
+            "Bath & Body Works",
+            "Specialty Retail",
+            "Personal Care Products"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What brands does L Brands own?",
+            "answer": "L Brands owns Victoria's Secret and Bath & Body Works among other brands."
+        },
+        {
+            "question": "Who is the CEO of L Brands?",
+            "answer": "Andrew Meslow is the CEO of L Brands, Inc."
+        },
+        {
+            "question": "Where is L Brands headquartered?",
+            "answer": "L Brands is headquartered in Columbus, Ohio, USA."
+        },
+        {
+            "question": "What products does L Brands offer?",
+            "answer": "L Brands offers products in intimate apparel, personal care, and home fragrance categories."
+        },
+        {
+            "question": "When was L Brands founded?",
+            "answer": "L Brands was founded in 1963."
+        }
+    ],
+    "competitors": [
+        "AEO",
+        "GPS",
+        "URBN",
+        "RCL"
+    ],
+    "related_stocks": [
+        "WMT",
+        "COST",
+        "TJX",
+        "TGT"
+    ]
+}

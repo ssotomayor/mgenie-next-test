@@ -1,0 +1,103 @@
+{
+    "ticker": "JNJ",
+    "name": "Johnson & Johnson",
+    "description": "Johnson & Johnson is a multinational corporation that develops medical devices, pharmaceuticals, and consumer packaged goods. Founded in 1886 by Robert Wood Johnson, James Wood Johnson, and Edward Mead Johnson, the company is headquartered in New Brunswick, New Jersey. Johnson & Johnson is renowned for its commitment to health and well-being, producing a wide array of products that cater to various needs across different demographics. The company operates through three main segments: Consumer Health, Pharmaceutical, and Medical Devices. Its consumer health products include well-known brands such as Band-Aid, Tylenol, and Johnson's Baby products, which are trusted by millions worldwide. In the pharmaceutical sector, Johnson & Johnson has made significant contributions with innovative medications in areas such as immunology, oncology, neuroscience, and infectious diseases. The medical devices segment focuses on surgical instruments, orthopedic products, and vision care products, supporting healthcare professionals in delivering quality care. Johnson & Johnson's mission is to improve the health of people worldwide, and it actively engages in corporate social responsibility initiatives that promote health equity and access to medical care. The company is recognized for its efforts in sustainability and ethical business practices, striving to create a positive impact on both society and the environment.",
+    "industry": [
+        "Pharmaceuticals",
+        "Medical Devices",
+        "Consumer Health"
+    ],
+    "headquarters": "New Brunswick, New Jersey, USA",
+    "founded": "1886",
+    "website": "https://www.jnj.com",
+    "ceo": "Joaquin Duato",
+    "social_media": {
+        "twitter": "https://twitter.com/jnjnews",
+        "linkedin": "https://www.linkedin.com/company/johnson-&-johnson",
+        "instagram": "https://www.instagram.com/jnj",
+        "facebook": "https://www.facebook.com/jnj"
+    },
+    "investor_relations": "https://www.investor.jnj.com",
+    "key_executives": [
+        {
+            "name": "Joaquin Duato",
+            "position": "CEO"
+        },
+        {
+            "name": "Joseph Wolk",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Health Products",
+            "products": [
+                "Tylenol",
+                "Band-Aid",
+                "Johnson's Baby Lotion"
+            ]
+        },
+        {
+            "category": "Pharmaceuticals",
+            "products": [
+                "Remicade",
+                "Imbruvica",
+                "Stelara"
+            ]
+        },
+        {
+            "category": "Medical Devices",
+            "products": [
+                "Surgical Products",
+                "Orthopedic Devices",
+                "Contact Lenses"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Johnson & Johnson | Global Leader in Health and Wellness",
+        "meta_description": "Explore Johnson & Johnson, a global leader in pharmaceuticals, medical devices, and consumer health products. Learn about our commitment to improving health and well-being.",
+        "keywords": [
+            "Johnson & Johnson",
+            "Pharmaceuticals",
+            "Medical Devices",
+            "Consumer Health",
+            "Healthcare",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Johnson & Johnson do?",
+            "answer": "Johnson & Johnson develops medical devices, pharmaceuticals, and consumer health products."
+        },
+        {
+            "question": "Who is the CEO of Johnson & Johnson?",
+            "answer": "Joaquin Duato is the CEO of Johnson & Johnson."
+        },
+        {
+            "question": "Where is Johnson & Johnson headquartered?",
+            "answer": "Johnson & Johnson is headquartered in New Brunswick, New Jersey, USA."
+        },
+        {
+            "question": "What are some of Johnson & Johnson's main products?",
+            "answer": "Key products include Tylenol, Band-Aid, and various pharmaceutical treatments."
+        },
+        {
+            "question": "When was Johnson & Johnson founded?",
+            "answer": "Johnson & Johnson was founded in 1886."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "MRK",
+        "ABBV",
+        "BMY"
+    ],
+    "related_stocks": [
+        "UNH",
+        "ABT",
+        "TMO",
+        "MDT"
+    ]
+}

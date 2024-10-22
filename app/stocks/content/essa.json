@@ -1,0 +1,95 @@
+{
+    "ticker": "ESSA",
+    "name": "ESSA Bancorp, Inc.",
+    "description": "ESSA Bancorp, Inc. is a publicly traded financial institution headquartered in Stroudsburg, Pennsylvania. Established in 1916, the company operates as the holding company for ESSA Bank & Trust, which offers a full range of banking services to individuals and businesses in the region. With a commitment to providing exceptional customer service and community-focused banking solutions, ESSA aims to empower its clients through various financial products, including personal and business checking and savings accounts, loans, mortgages, and investment services. The bank is dedicated to supporting local communities through various initiatives, sponsorships, and financial education programs. ESSA Bancorp focuses on leveraging technology to enhance the customer experience by providing online and mobile banking services that offer convenience and accessibility. As a strong advocate for community development, ESSA Bancorp actively participates in community lending initiatives and strives to meet the evolving needs of its customers while maintaining a strong commitment to safety, soundness, and regulatory compliance.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Stroudsburg, Pennsylvania, USA",
+    "founded": "1916",
+    "website": "https://www.essabank.com",
+    "ceo": "Gary S. Olson",
+    "social_media": {
+        "twitter": "https://twitter.com/ESSABank",
+        "linkedin": "https://www.linkedin.com/company/essa-bank-and-trust/"
+    },
+    "investor_relations": "https://www.essabank.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Gary S. Olson",
+            "position": "CEO"
+        },
+        {
+            "name": "William J. Toth",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Certificates of Deposit"
+            ]
+        },
+        {
+            "category": "Lending Products",
+            "products": [
+                "Personal Loans",
+                "Mortgages",
+                "Business Loans"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Retirement Accounts",
+                "Wealth Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ESSA Bancorp, Inc. | Community Banking and Financial Solutions",
+        "meta_description": "Discover ESSA Bancorp, Inc., a community-focused financial institution offering a wide range of banking and investment services. Learn more about our commitment to customer service and community development.",
+        "keywords": [
+            "ESSA Bancorp",
+            "Banking",
+            "Financial Services",
+            "Community Bank",
+            "Mortgages",
+            "Personal Loans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ESSA Bancorp offer?",
+            "answer": "ESSA Bancorp offers a range of banking services, including checking and savings accounts, loans, and investment products."
+        },
+        {
+            "question": "Who is the CEO of ESSA Bancorp?",
+            "answer": "Gary S. Olson is the CEO of ESSA Bancorp, Inc."
+        },
+        {
+            "question": "Where is ESSA Bancorp headquartered?",
+            "answer": "ESSA Bancorp is headquartered in Stroudsburg, Pennsylvania, USA."
+        },
+        {
+            "question": "When was ESSA Bancorp founded?",
+            "answer": "ESSA Bancorp was founded in 1916."
+        }
+    ],
+    "competitors": [
+        "FRC",
+        "PBCT",
+        "BANC",
+        "TCF"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "JPM",
+        "WFC"
+    ]
+}

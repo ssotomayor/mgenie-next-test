@@ -1,0 +1,93 @@
+{
+    "ticker": "AVVIY",
+    "name": "Aviva PLC",
+    "description": "Aviva PLC is a leading multinational insurance company based in the United Kingdom, recognized for its comprehensive range of insurance, savings, and investment products. Established in 1696, Aviva has grown into one of the largest insurance providers in the UK and a significant player in global markets, including Europe, Asia, and North America. The company's mission is to help customers manage their financial futures with confidence, offering innovative solutions that cater to individual and corporate needs. Aviva provides a broad spectrum of services, including life insurance, general insurance, health insurance, and retirement investment products. The company is committed to sustainability and responsible investing, actively working to address climate change and promote social responsibility in its operations. With a strong digital presence, Aviva also emphasizes technology and data analytics to enhance customer experience and streamline operations. Aviva's dedication to customer service and its extensive product portfolio position it as a trusted partner for millions worldwide, making it a prominent name in the insurance industry.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "London, England, UK",
+    "founded": "1696",
+    "website": "https://www.aviva.com",
+    "ceo": "Amanda Blanc",
+    "social_media": {
+        "twitter": "https://twitter.com/AvivaPlc",
+        "linkedin": "https://www.linkedin.com/company/aviva"
+    },
+    "investor_relations": "https://www.aviva.com/investors",
+    "key_executives": [
+        {
+            "name": "Amanda Blanc",
+            "position": "CEO"
+        },
+        {
+            "name": "Jason Windsor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "General Insurance",
+                "Health Insurance"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Pensions",
+                "Annuities",
+                "Savings Accounts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aviva PLC | Insurance and Financial Services",
+        "meta_description": "Explore Aviva PLC, a leading insurance provider offering a wide range of insurance and financial products. Learn about Aviva's commitment to sustainability and customer service.",
+        "keywords": [
+            "Aviva",
+            "Insurance",
+            "Financial Services",
+            "Pensions",
+            "Life Insurance",
+            "Health Insurance",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Aviva do?",
+            "answer": "Aviva provides insurance, savings, and investment products to help customers manage their financial futures."
+        },
+        {
+            "question": "Who is the CEO of Aviva?",
+            "answer": "Amanda Blanc is the CEO of Aviva PLC."
+        },
+        {
+            "question": "Where is Aviva headquartered?",
+            "answer": "Aviva is headquartered in London, England, UK."
+        },
+        {
+            "question": "What types of insurance does Aviva offer?",
+            "answer": "Aviva offers life insurance, general insurance, and health insurance."
+        },
+        {
+            "question": "When was Aviva founded?",
+            "answer": "Aviva was founded in 1696."
+        }
+    ],
+    "competitors": [
+        "LGEN",
+        "PRU",
+        "AXA",
+        "ALL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

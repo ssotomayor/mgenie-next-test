@@ -1,0 +1,91 @@
+{
+    "ticker": "KLTR",
+    "name": "Kaleyra, Inc.",
+    "description": "Kaleyra, Inc. is a global communication platform that provides cloud-based messaging solutions and interactive communications to businesses. Founded in 2018, Kaleyra operates in the rapidly evolving sector of cloud communications, enabling businesses to engage their customers through various channels such as SMS, voice, and email. The company's platform is designed to enhance customer engagement, providing tools for personalized communication, customer support, and marketing automation. Kaleyra\u2019s services cater to a wide range of industries, including finance, retail, healthcare, and logistics, helping businesses streamline their communication processes and improve customer experiences. With a strong focus on innovation, Kaleyra leverages advanced technologies like artificial intelligence and machine learning to optimize messaging and ensure high deliverability. The company aims to empower businesses by providing them with the necessary tools to effectively communicate with their customers, enhance operational efficiency, and drive growth. Kaleyra's mission is to transform the way companies interact with their customers, making communication seamless and effective for all stakeholders involved.",
+    "industry": [
+        "Cloud Communications",
+        "Technology"
+    ],
+    "headquarters": "Milano, Italy",
+    "founded": "2018",
+    "website": "https://www.kaleyra.com",
+    "ceo": "Dario Calogero",
+    "social_media": {
+        "twitter": "https://twitter.com/kaleyra",
+        "linkedin": "https://www.linkedin.com/company/kaleyra",
+        "facebook": "https://www.facebook.com/kaleyra"
+    },
+    "investor_relations": "https://www.kaleyra.com/investors",
+    "key_executives": [
+        {
+            "name": "Dario Calogero",
+            "position": "CEO"
+        },
+        {
+            "name": "Giorgio Bortolotti",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Messaging Solutions",
+            "products": [
+                "SMS APIs",
+                "Voice APIs",
+                "Email APIs"
+            ]
+        },
+        {
+            "category": "Customer Engagement",
+            "products": [
+                "Marketing Automation",
+                "Customer Support Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kaleyra, Inc. | Cloud Communications and Messaging Solutions",
+        "meta_description": "Explore Kaleyra, Inc., a global leader in cloud communications providing innovative messaging and customer engagement solutions for businesses.",
+        "keywords": [
+            "Kaleyra",
+            "Cloud Communications",
+            "Messaging Solutions",
+            "Customer Engagement",
+            "SMS APIs",
+            "Voice APIs"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Kaleyra specialize in?",
+            "answer": "Kaleyra specializes in cloud-based messaging solutions and interactive communications for businesses."
+        },
+        {
+            "question": "Who is the CEO of Kaleyra?",
+            "answer": "Dario Calogero is the CEO of Kaleyra, Inc."
+        },
+        {
+            "question": "Where is Kaleyra headquartered?",
+            "answer": "Kaleyra is headquartered in Milano, Italy."
+        },
+        {
+            "question": "What are Kaleyra's main products?",
+            "answer": "Kaleyra's main products include SMS APIs, Voice APIs, and Customer Support Tools."
+        },
+        {
+            "question": "When was Kaleyra founded?",
+            "answer": "Kaleyra was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "TWLO",
+        "PLTK",
+        "AVLR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

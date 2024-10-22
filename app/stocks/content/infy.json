@@ -1,0 +1,90 @@
+{
+    "ticker": "INFY",
+    "name": "Infosys Limited",
+    "description": "Infosys Limited is a global leader in technology services and consulting, headquartered in Bengaluru, India. Founded in 1981 by seven engineers, Infosys has grown to become one of the largest IT services companies in the world, specializing in software development, maintenance, and independent validation services to companies in various industries, including banking, insurance, manufacturing, and retail. The company offers a wide range of services, including digital transformation, cloud services, artificial intelligence, and enterprise application services. With a strong focus on innovation, Infosys has invested heavily in research and development, establishing numerous innovation hubs around the globe. The organization is committed to sustainability and corporate social responsibility, aiming to create a positive impact in the communities it operates in. Infosys's mission is to enable clients to navigate their digital transformation journey, helping them to enhance their operational efficiency and achieve their business goals. The company has received numerous accolades for its workplace culture and commitment to diversity and inclusion, making it a sought-after employer in the tech industry.",
+    "industry": [
+        "Information Technology",
+        "Consulting"
+    ],
+    "headquarters": "Bengaluru, Karnataka, India",
+    "founded": "1981",
+    "website": "https://www.infosys.com",
+    "ceo": "Salil Parekh",
+    "social_media": {
+        "twitter": "https://twitter.com/infosys",
+        "linkedin": "https://www.linkedin.com/company/infosys"
+    },
+    "investor_relations": "https://www.infosys.com/investors",
+    "key_executives": [
+        {
+            "name": "Salil Parekh",
+            "position": "CEO"
+        },
+        {
+            "name": "Nilanjan Roy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Digital Transformation",
+                "Enterprise Application Services"
+            ]
+        },
+        {
+            "category": "Technology Services",
+            "products": [
+                "Cloud Services",
+                "Artificial Intelligence Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Infosys Limited | Global Leader in Technology Services",
+        "meta_description": "Explore Infosys Limited, a global leader in consulting and technology services. Learn about Infosys's innovative solutions and commitment to sustainability.",
+        "keywords": [
+            "Infosys",
+            "IT Services",
+            "Consulting",
+            "Digital Transformation",
+            "Cloud Computing",
+            "Artificial Intelligence"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Infosys known for?",
+            "answer": "Infosys is known for its IT services, consulting, and digital transformation solutions."
+        },
+        {
+            "question": "Who is the CEO of Infosys?",
+            "answer": "Salil Parekh is the CEO of Infosys Limited."
+        },
+        {
+            "question": "Where is Infosys headquartered?",
+            "answer": "Infosys is headquartered in Bengaluru, Karnataka, India."
+        },
+        {
+            "question": "What are Infosys's main services?",
+            "answer": "Infosys's main services include digital transformation, cloud services, and enterprise application services."
+        },
+        {
+            "question": "When was Infosys founded?",
+            "answer": "Infosys was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "TCS",
+        "WIT",
+        "ACN",
+        "CTS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

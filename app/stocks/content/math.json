@@ -1,0 +1,86 @@
+{
+    "ticker": "MATH",
+    "name": "MathWorks, Inc.",
+    "description": "MathWorks, Inc. is a global leader in technical computing and model-based design, best known for its flagship products MATLAB and Simulink. Founded in 1984, the company has revolutionized the way engineers and scientists approach computation, data analysis, and algorithm development. MATLAB provides a high-level programming language and interactive environment for numerical computation, visualization, and programming, making it an essential tool for researchers and engineers across various industries. Simulink, on the other hand, is a graphical programming environment for modeling, simulating, and analyzing dynamic systems, widely used in control systems, signal processing, and communications. MathWorks is committed to providing tools that enhance productivity and foster innovation, supporting applications in fields such as aerospace, automotive, electronics, and finance. With a strong focus on education, MathWorks also offers extensive resources for students and educators, helping to cultivate the next generation of engineers and scientists. The company prides itself on its collaborative culture and invests heavily in research and development to stay at the forefront of technology advancements. By continuously evolving its products and services, MathWorks plays a pivotal role in advancing engineering and scientific practices worldwide.",
+    "industry": [
+        "Software",
+        "Engineering"
+    ],
+    "headquarters": "Natick, Massachusetts, USA",
+    "founded": "1984",
+    "website": "https://www.mathworks.com",
+    "ceo": "Jack Little",
+    "social_media": {
+        "twitter": "https://twitter.com/mathworks",
+        "linkedin": "https://www.linkedin.com/company/mathworks"
+    },
+    "investor_relations": "https://www.mathworks.com/company/aboutus/investor-relations.html",
+    "key_executives": [
+        {
+            "name": "Jack Little",
+            "position": "CEO"
+        },
+        {
+            "name": "Laura Baldwin",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mathematical Computing",
+            "products": [
+                "MATLAB"
+            ]
+        },
+        {
+            "category": "Model-Based Design",
+            "products": [
+                "Simulink"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MathWorks, Inc. | MATLAB and Simulink for Technical Computing",
+        "meta_description": "Explore MathWorks, Inc., the leading provider of MATLAB and Simulink. Discover how our software empowers engineers and scientists in technical computing and model-based design.",
+        "keywords": [
+            "MathWorks",
+            "MATLAB",
+            "Simulink",
+            "Technical Computing",
+            "Engineering Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is MathWorks known for?",
+            "answer": "MathWorks is known for its software products MATLAB and Simulink, which are used for technical computing and model-based design."
+        },
+        {
+            "question": "Who is the CEO of MathWorks?",
+            "answer": "Jack Little is the CEO of MathWorks, Inc."
+        },
+        {
+            "question": "Where is MathWorks headquartered?",
+            "answer": "MathWorks is headquartered in Natick, Massachusetts, USA."
+        },
+        {
+            "question": "What are MathWorks' main products?",
+            "answer": "MathWorks' main products include MATLAB and Simulink."
+        },
+        {
+            "question": "When was MathWorks founded?",
+            "answer": "MathWorks was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "NVDA",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

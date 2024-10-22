@@ -1,0 +1,97 @@
+{
+    "ticker": "ON",
+    "name": "ON Semiconductor Corporation",
+    "description": "ON Semiconductor Corporation is a leading global supplier of semiconductor-based solutions, providing a comprehensive portfolio of products that cater to various industries, including automotive, industrial, communications, and consumer electronics. Founded in 1999 and headquartered in Phoenix, Arizona, ON Semiconductor specializes in designing and manufacturing a wide range of devices, including sensors, power management solutions, discrete components, and custom devices. The company is particularly well-known for its innovative offerings in energy-efficient technologies and advanced sensing solutions, which are critical in the rapidly evolving landscapes of electric vehicles, IoT (Internet of Things), and smart devices. ON Semiconductor is committed to sustainability and energy efficiency, helping customers reduce their carbon footprint through high-performance, low-power products. With a strong emphasis on research and development, the company continually invests in cutting-edge technology to address the growing needs for connectivity and efficiency in electronic systems.",
+    "industry": [
+        "Semiconductors",
+        "Electronics"
+    ],
+    "headquarters": "Phoenix, Arizona, USA",
+    "founded": "1999",
+    "website": "https://www.onsemi.com",
+    "ceo": "Hassane El-Khoury",
+    "social_media": {
+        "twitter": "https://twitter.com/ON_Semiconductor",
+        "linkedin": "https://www.linkedin.com/company/on-semiconductor/"
+    },
+    "investor_relations": "https://investor.onsemi.com",
+    "key_executives": [
+        {
+            "name": "Hassane El-Khoury",
+            "position": "CEO"
+        },
+        {
+            "name": "Lance A. Kwasniewski",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Power Management",
+            "products": [
+                "Voltage Regulators",
+                "Power Modules"
+            ]
+        },
+        {
+            "category": "Sensors",
+            "products": [
+                "Image Sensors",
+                "Gas Sensors"
+            ]
+        },
+        {
+            "category": "Discrete Components",
+            "products": [
+                "Diodes",
+                "Transistors"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ON Semiconductor Corporation | Innovative Semiconductor Solutions",
+        "meta_description": "Explore ON Semiconductor Corporation, a leader in semiconductor solutions for diverse markets, providing innovative products for automotive, industrial, and consumer applications.",
+        "keywords": [
+            "ON Semiconductor",
+            "Semiconductors",
+            "Power Management",
+            "Sensors",
+            "Energy Efficiency",
+            "Automotive Electronics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ON Semiconductor do?",
+            "answer": "ON Semiconductor provides a wide range of semiconductor solutions, including power management, sensors, and discrete components."
+        },
+        {
+            "question": "Who is the CEO of ON Semiconductor?",
+            "answer": "Hassane El-Khoury is the CEO of ON Semiconductor Corporation."
+        },
+        {
+            "question": "Where is ON Semiconductor headquartered?",
+            "answer": "ON Semiconductor is headquartered in Phoenix, Arizona, USA."
+        },
+        {
+            "question": "What are ON Semiconductor's main product categories?",
+            "answer": "ON Semiconductor's main product categories include power management solutions, sensors, and discrete components."
+        },
+        {
+            "question": "When was ON Semiconductor founded?",
+            "answer": "ON Semiconductor was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "TXN",
+        "AVGO",
+        "QCOM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMD"
+    ]
+}

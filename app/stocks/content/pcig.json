@@ -1,0 +1,80 @@
+{
+    "ticker": "PCIG",
+    "name": "PCI Biotech Holding ASA",
+    "description": "PCI Biotech Holding ASA is a biopharmaceutical company focused on developing innovative therapies for the treatment of cancer. Founded in 2000 and headquartered in Oslo, Norway, PCI Biotech specializes in photochemical internalization (PCI), a proprietary technology that enhances the delivery and efficacy of therapeutic agents in cancer treatment. The company's lead product candidate, fimaChem, is designed to improve the effectiveness of chemotherapy by utilizing light to activate drug delivery at the tumor site, minimizing systemic side effects. PCI Biotech is also advancing fimaVacc, a vaccine platform that aims to enhance immune responses against various cancers and infectious diseases. With a strong commitment to research and development, the company collaborates with leading academic institutions and industry partners to explore new therapeutic applications and improve patient outcomes. PCI Biotech's mission is to transform cancer treatment by harnessing the power of light and innovative drug delivery methods, ultimately contributing to the fight against cancer.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Oslo, Norway",
+    "founded": "2000",
+    "website": "https://www.pcibiotech.com",
+    "ceo": "Per Walday",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/pcibiotech/"
+    },
+    "investor_relations": "https://www.pcibiotech.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Per Walday",
+            "position": "CEO"
+        },
+        {
+            "name": "Stein O. K. M. Kveim",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cancer Therapies",
+            "products": [
+                "fimaChem",
+                "fimaVacc"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "PCI Biotech Holding ASA | Innovative Cancer Therapies",
+        "meta_description": "Learn about PCI Biotech, a leader in innovative cancer therapies using photochemical internalization technology. Explore their product pipeline and mission to enhance cancer treatment.",
+        "keywords": [
+            "PCI Biotech",
+            "Cancer Treatment",
+            "Photochemical Internalization",
+            "fimaChem",
+            "fimaVacc"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is PCI Biotech known for?",
+            "answer": "PCI Biotech is known for developing innovative cancer therapies using photochemical internalization technology."
+        },
+        {
+            "question": "Who is the CEO of PCI Biotech?",
+            "answer": "Per Walday is the CEO of PCI Biotech Holding ASA."
+        },
+        {
+            "question": "Where is PCI Biotech headquartered?",
+            "answer": "PCI Biotech is headquartered in Oslo, Norway."
+        },
+        {
+            "question": "What are PCI Biotech's main products?",
+            "answer": "PCI Biotech's main products include fimaChem and fimaVacc."
+        },
+        {
+            "question": "When was PCI Biotech founded?",
+            "answer": "PCI Biotech was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "NDAQ",
+        "BMY",
+        "AMGN"
+    ],
+    "related_stocks": [
+        "NVDA",
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

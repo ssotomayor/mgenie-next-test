@@ -1,0 +1,85 @@
+{
+    "ticker": "EVT",
+    "name": "Eventus International",
+    "description": "Eventus International is a premier events and conference organizer based in Singapore, specializing in the design and execution of world-class conferences, summits, and expos across various industries. Founded in 2014, Eventus aims to deliver high-quality events that foster networking opportunities and facilitate knowledge sharing among industry leaders, professionals, and stakeholders. The company has established itself as a trusted partner for organizations looking to gain insights into emerging trends, regulatory changes, and technological advancements in sectors such as gaming, fintech, and cybersecurity. Eventus is committed to creating engaging and informative platforms where participants can exchange ideas, discuss challenges, and explore innovative solutions. With a focus on exceptional customer service and attention to detail, Eventus International prides itself on its ability to curate events that not only meet but exceed the expectations of attendees and sponsors alike. The company's portfolio includes a range of high-profile events, attracting experts and thought leaders from around the globe. Through its commitment to excellence, Eventus continues to expand its reach and influence within the event management industry, making significant contributions to the sectors it serves.",
+    "industry": [
+        "Event Management",
+        "Conference Organization"
+    ],
+    "headquarters": "Singapore",
+    "founded": "2014",
+    "website": "https://www.eventus-international.com",
+    "ceo": "Megan Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/EventusInt",
+        "linkedin": "https://www.linkedin.com/company/eventus-international/"
+    },
+    "investor_relations": "https://www.eventus-international.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Megan Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "John Doe",
+            "position": "COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Conferences",
+            "products": [
+                "Gaming Summit",
+                "Fintech Conference",
+                "Cybersecurity Expo"
+            ]
+        },
+        {
+            "category": "Networking Events",
+            "products": [
+                "Industry Roundtables",
+                "Workshops"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eventus International | Leading Event Management and Conferences",
+        "meta_description": "Discover Eventus International, a leading organizer of conferences and events, specializing in gaming, fintech, and cybersecurity. Explore our portfolio of high-profile events.",
+        "keywords": [
+            "Eventus International",
+            "Event Management",
+            "Conferences",
+            "Networking Events",
+            "Gaming Summit",
+            "Fintech Conference"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Eventus International do?",
+            "answer": "Eventus International organizes conferences and events across various industries, focusing on networking and knowledge sharing."
+        },
+        {
+            "question": "When was Eventus International founded?",
+            "answer": "Eventus International was founded in 2014."
+        },
+        {
+            "question": "Where is Eventus International headquartered?",
+            "answer": "Eventus International is headquartered in Singapore."
+        },
+        {
+            "question": "What types of events does Eventus International organize?",
+            "answer": "Eventus International organizes conferences, networking events, and expos in sectors such as gaming, fintech, and cybersecurity."
+        }
+    ],
+    "competitors": [
+        "CMP",
+        "UBM",
+        "Reed Exhibitions"
+    ],
+    "related_stocks": [
+        "WPP",
+        "IPG",
+        "OMC"
+    ]
+}

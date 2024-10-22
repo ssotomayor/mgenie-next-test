@@ -1,0 +1,99 @@
+{
+    "ticker": "SNY",
+    "name": "Sanofi",
+    "description": "Sanofi is a global healthcare company focused on enhancing people's lives through innovative healthcare solutions. Founded in 2004 and headquartered in Paris, France, Sanofi has a rich history that dates back to the 19th century with the establishment of various pharmaceutical companies. The company operates in over 100 countries and is dedicated to the research, development, manufacturing, and marketing of healthcare products, including prescription medicines, vaccines, and consumer healthcare products. Sanofi's product portfolio includes a range of therapeutic areas such as diabetes, cardiovascular diseases, oncology, immunology, and rare diseases. The company is particularly known for its diabetes care products, vaccines, and treatments for multiple sclerosis and rheumatoid arthritis. With a commitment to innovation, Sanofi invests significantly in research and development, striving to bring new therapies to market that address unmet medical needs. The company also emphasizes sustainability and corporate social responsibility, aiming to improve global health outcomes and make healthcare accessible to all. Sanofi's mission is to empower patients and healthcare professionals through its diverse range of products and services, driving innovation to ensure better health for patients worldwide.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology",
+        "Healthcare"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "2004",
+    "website": "https://www.sanofi.com",
+    "ceo": "Paul Hudson",
+    "social_media": {
+        "twitter": "https://twitter.com/sanofi",
+        "linkedin": "https://www.linkedin.com/company/sanofi/"
+    },
+    "investor_relations": "https://www.sanofi.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Paul Hudson",
+            "position": "CEO"
+        },
+        {
+            "name": "Thomas B. A. R. de Preux",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Prescription Medicines",
+            "products": [
+                "Lantus",
+                "Dupixent",
+                "Aubagio"
+            ]
+        },
+        {
+            "category": "Vaccines",
+            "products": [
+                "Fluzone",
+                "Menactra"
+            ]
+        },
+        {
+            "category": "Consumer Healthcare",
+            "products": [
+                "Dulcolax",
+                "Allergy Relief"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sanofi | Global Healthcare Leader",
+        "meta_description": "Explore Sanofi, a global healthcare company dedicated to improving health outcomes through innovative medicines and vaccines. Learn more about our mission and products.",
+        "keywords": [
+            "Sanofi",
+            "Pharmaceuticals",
+            "Vaccines",
+            "Healthcare",
+            "Diabetes Care",
+            "Oncology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Sanofi known for?",
+            "answer": "Sanofi is known for its innovative medicines, vaccines, and consumer healthcare products, particularly in diabetes and oncology."
+        },
+        {
+            "question": "Who is the CEO of Sanofi?",
+            "answer": "Paul Hudson is the CEO of Sanofi."
+        },
+        {
+            "question": "Where is Sanofi headquartered?",
+            "answer": "Sanofi is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Sanofi's main products?",
+            "answer": "Sanofi's main products include Lantus, Dupixent, vaccines like Fluzone, and consumer products like Dulcolax."
+        },
+        {
+            "question": "When was Sanofi founded?",
+            "answer": "Sanofi was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "MRK",
+        "NVS",
+        "GSK"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "ABBV",
+        "AMGN",
+        "BMY"
+    ]
+}

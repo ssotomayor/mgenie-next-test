@@ -1,0 +1,97 @@
+{
+    "ticker": "IBKR",
+    "name": "Interactive Brokers Group, Inc.",
+    "description": "Interactive Brokers Group, Inc. is a leading global brokerage firm that specializes in providing brokerage services to individual investors and institutions. Founded in 1978 by Thomas Peterffy, the company has become a pioneer in the online trading space, offering a wide range of financial products and services, including stocks, options, futures, forex, and fixed income. Interactive Brokers is known for its low-cost trading model and advanced trading technology, which attracts both novice and professional traders. The firm operates in multiple markets across the world, providing clients with direct market access and sophisticated trading tools. Its proprietary trading platform, Trader Workstation (TWS), is highly regarded for its functionality and versatility. In addition to trading services, Interactive Brokers offers portfolio management and financial advisory services, enabling clients to optimize their investment strategies. The company's mission is to democratize finance by providing access to a comprehensive suite of investment products at competitive prices. With a commitment to transparency and innovation, Interactive Brokers continues to redefine the brokerage industry for a global clientele.",
+    "industry": [
+        "Financial Services",
+        "Brokerage"
+    ],
+    "headquarters": "Greenwich, Connecticut, USA",
+    "founded": "1978",
+    "website": "https://www.interactivebrokers.com",
+    "ceo": "Thomas Peterffy",
+    "social_media": {
+        "twitter": "https://twitter.com/I_Brokers",
+        "linkedin": "https://www.linkedin.com/company/interactive-brokers/"
+    },
+    "investor_relations": "https://www.interactivebrokers.com/en/index.php?f=1560",
+    "key_executives": [
+        {
+            "name": "Thomas Peterffy",
+            "position": "CEO"
+        },
+        {
+            "name": "Milan Galik",
+            "position": "President"
+        },
+        {
+            "name": "Gari Singh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Brokerage Services",
+            "products": [
+                "Stocks",
+                "Options",
+                "Futures",
+                "Forex",
+                "Fixed Income"
+            ]
+        },
+        {
+            "category": "Trading Platforms",
+            "products": [
+                "Trader Workstation (TWS)",
+                "IBKR Mobile"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Interactive Brokers Group, Inc. | Global Brokerage Services",
+        "meta_description": "Explore Interactive Brokers Group, Inc., a leading online brokerage firm offering a wide range of financial products and low-cost trading for investors worldwide.",
+        "keywords": [
+            "Interactive Brokers",
+            "Online Brokerage",
+            "Trading Platform",
+            "Stocks",
+            "Options",
+            "Forex"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Interactive Brokers offer?",
+            "answer": "Interactive Brokers offers brokerage services for stocks, options, futures, forex, and fixed income, along with advanced trading platforms."
+        },
+        {
+            "question": "Who is the CEO of Interactive Brokers?",
+            "answer": "Thomas Peterffy is the CEO of Interactive Brokers Group, Inc."
+        },
+        {
+            "question": "Where is Interactive Brokers headquartered?",
+            "answer": "Interactive Brokers is headquartered in Greenwich, Connecticut, USA."
+        },
+        {
+            "question": "What is the Trader Workstation?",
+            "answer": "Trader Workstation (TWS) is Interactive Brokers' proprietary trading platform that offers advanced tools and functionalities for traders."
+        },
+        {
+            "question": "When was Interactive Brokers founded?",
+            "answer": "Interactive Brokers was founded in 1978."
+        }
+    ],
+    "competitors": [
+        "SCHW",
+        "AMTD",
+        "CME",
+        "MS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

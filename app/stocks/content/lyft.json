@@ -1,0 +1,91 @@
+{
+    "ticker": "LYFT",
+    "name": "Lyft, Inc.",
+    "description": "Lyft, Inc. is a leading American ride-sharing company that provides a platform for individuals to connect with drivers via a mobile application. Founded in 2012 by Logan Green and John Zimmer, Lyft aims to revolutionize transportation in cities across the United States and Canada by offering a convenient, reliable, and accessible ride-hailing service. With a strong emphasis on community and sustainability, Lyft has developed features such as Lyft Line, which enables riders to share rides with others traveling in the same direction, thereby reducing the number of vehicles on the road and minimizing environmental impact. In addition to its core ride-hailing services, Lyft has expanded into other areas, including bike and scooter rentals, and partnerships with public transit systems to create a more integrated urban mobility solution. The company prides itself on its commitment to safety, implementing rigorous driver background checks and offering in-app safety features to ensure a secure ride experience for users. Lyft's mission is to improve people's lives with the world's best transportation, and it continues to innovate in the face of evolving mobility needs.",
+    "industry": [
+        "Transportation",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2012",
+    "website": "https://www.lyft.com",
+    "ceo": "David Risher",
+    "social_media": {
+        "twitter": "https://twitter.com/lyft",
+        "linkedin": "https://www.linkedin.com/company/lyft/",
+        "instagram": "https://www.instagram.com/lyft/",
+        "facebook": "https://www.facebook.com/lyft"
+    },
+    "investor_relations": "https://investor.lyft.com",
+    "key_executives": [
+        {
+            "name": "David Risher",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Roberts",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Ride-Hailing",
+            "products": [
+                "Lyft",
+                "Lyft XL",
+                "Lyft Line"
+            ]
+        },
+        {
+            "category": "Micro-Mobility",
+            "products": [
+                "Lyft Bikes",
+                "Lyft Scooters"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lyft, Inc. | Ride-Sharing and Urban Mobility Solutions",
+        "meta_description": "Discover Lyft, Inc., a leader in ride-sharing and innovative urban mobility solutions. Explore Lyft's services, mission, and impact on transportation.",
+        "keywords": [
+            "Lyft",
+            "Ride-Sharing",
+            "Transportation",
+            "Urban Mobility",
+            "David Risher"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Lyft offer?",
+            "answer": "Lyft offers ride-hailing services, including standard rides, Lyft XL for larger groups, and Lyft Line for shared rides."
+        },
+        {
+            "question": "Who is the CEO of Lyft?",
+            "answer": "David Risher is the CEO of Lyft, Inc."
+        },
+        {
+            "question": "Where is Lyft headquartered?",
+            "answer": "Lyft is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was Lyft founded?",
+            "answer": "Lyft was founded in 2012."
+        },
+        {
+            "question": "What is Lyft's mission?",
+            "answer": "Lyft's mission is to improve people's lives with the world's best transportation."
+        }
+    ],
+    "competitors": [
+        "UBER",
+        "LYFT",
+        "DIDI"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "AAPL",
+        "AMZN",
+        "MSFT"
+    ]
+}

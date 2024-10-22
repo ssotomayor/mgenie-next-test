@@ -1,0 +1,90 @@
+{
+    "ticker": "BUFQ",
+    "name": "Buffalo Quantum Technologies Inc.",
+    "description": "Buffalo Quantum Technologies Inc. is at the forefront of advancing quantum computing and quantum information science. Founded in 2018, the company specializes in developing innovative quantum software and hardware solutions to harness the power of quantum mechanics for practical applications in various industries, including finance, pharmaceuticals, and cryptography. Buffalo Quantum Technologies aims to revolutionize data processing capabilities by leveraging quantum algorithms that outperform traditional computing methods. The company is known for its commitment to research and development, collaborating with leading academic institutions and industry partners to push the boundaries of quantum technology. Buffalo Quantum Technologies is dedicated to building a robust quantum ecosystem, offering tools and platforms that facilitate the transition from classical to quantum computing. Their product lineup includes quantum simulators, quantum programming languages, and quantum cloud services, enabling businesses to explore and implement quantum solutions. With a mission to make quantum computing accessible and practical, Buffalo Quantum Technologies is poised to lead the charge in the next technological revolution, driving advancements that will reshape industries and create new opportunities for innovation.",
+    "industry": [
+        "Technology",
+        "Quantum Computing"
+    ],
+    "headquarters": "Buffalo, New York, USA",
+    "founded": "2018",
+    "website": "https://www.buffaloquantum.com",
+    "ceo": "Dr. Emily Tran",
+    "social_media": {
+        "twitter": "https://twitter.com/BuffaloQuantum",
+        "linkedin": "https://www.linkedin.com/company/buffaloquantum/"
+    },
+    "investor_relations": "https://www.buffaloquantum.com/investors",
+    "key_executives": [
+        {
+            "name": "Dr. Emily Tran",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Chen",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Software",
+            "products": [
+                "Quantum Simulator",
+                "Quantum Programming Language"
+            ]
+        },
+        {
+            "category": "Quantum Hardware",
+            "products": [
+                "Quantum Processors",
+                "Quantum Cloud Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Buffalo Quantum Technologies Inc. | Leading Quantum Computing Solutions",
+        "meta_description": "Explore Buffalo Quantum Technologies Inc. and its innovative solutions in quantum computing and information science. Discover how we are revolutionizing industries with cutting-edge quantum technology.",
+        "keywords": [
+            "Buffalo Quantum",
+            "Quantum Computing",
+            "Quantum Technology",
+            "Quantum Software",
+            "Quantum Hardware",
+            "Quantum Simulation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Buffalo Quantum Technologies known for?",
+            "answer": "Buffalo Quantum Technologies is known for its advancements in quantum computing and developing innovative quantum software and hardware solutions."
+        },
+        {
+            "question": "Who is the CEO of Buffalo Quantum Technologies?",
+            "answer": "Dr. Emily Tran is the CEO of Buffalo Quantum Technologies Inc."
+        },
+        {
+            "question": "Where is Buffalo Quantum Technologies headquartered?",
+            "answer": "Buffalo Quantum Technologies is headquartered in Buffalo, New York, USA."
+        },
+        {
+            "question": "What are the main products of Buffalo Quantum Technologies?",
+            "answer": "The main products include Quantum Simulators, Quantum Programming Languages, Quantum Processors, and Quantum Cloud Services."
+        },
+        {
+            "question": "When was Buffalo Quantum Technologies founded?",
+            "answer": "Buffalo Quantum Technologies was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "GOOGL",
+        "MSFT",
+        "D-WAVE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "INTC"
+    ]
+}

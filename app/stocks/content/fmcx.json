@@ -1,0 +1,81 @@
+{
+    "ticker": "FMCX",
+    "name": "FMC Corporation",
+    "description": "FMC Corporation is a global leader in the agricultural sciences industry, specializing in innovative crop protection solutions and advanced technologies for sustainable farming. Founded in 1883, FMC has transformed from a chemical manufacturing company into a diversified global provider of agricultural products. The company focuses on developing and marketing a broad range of crop protection chemicals, including insecticides, herbicides, and fungicides, designed to enhance agricultural productivity while minimizing environmental impact. FMC is also committed to research and development, investing significantly in new product innovation and sustainable practices. With a presence in over 50 countries and a strong portfolio of products, FMC aims to address the challenges faced by farmers worldwide, such as pest resistance and climate change. The company is dedicated to supporting sustainable agriculture through its commitment to environmental stewardship and community engagement. FMC's mission is to help farmers feed the world by providing cutting-edge solutions that improve crop yield and quality, ensuring food security for future generations.",
+    "industry": [
+        "Agriculture",
+        "Chemicals"
+    ],
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "founded": "1883",
+    "website": "https://www.fmc.com",
+    "ceo": "Mark Douglas",
+    "social_media": {
+        "twitter": "https://twitter.com/FMC_Corp",
+        "linkedin": "https://www.linkedin.com/company/fmc-corporation/"
+    },
+    "investor_relations": "https://investor.fmc.com",
+    "key_executives": [
+        {
+            "name": "Mark Douglas",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew B. H. S. Albrecht",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Crop Protection",
+            "products": [
+                "Insecticides",
+                "Herbicides",
+                "Fungicides"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FMC Corporation | Agricultural Solutions and Crop Protection",
+        "meta_description": "Explore FMC Corporation, a leading provider of agricultural products and crop protection solutions. Learn about FMC's commitment to sustainable farming and innovative technologies.",
+        "keywords": [
+            "FMC",
+            "Agriculture",
+            "Crop Protection",
+            "Sustainable Farming",
+            "Pest Control"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does FMC Corporation specialize in?",
+            "answer": "FMC Corporation specializes in agricultural sciences, specifically crop protection solutions."
+        },
+        {
+            "question": "Who is the CEO of FMC Corporation?",
+            "answer": "Mark Douglas is the CEO of FMC Corporation."
+        },
+        {
+            "question": "Where is FMC Corporation headquartered?",
+            "answer": "FMC Corporation is headquartered in Philadelphia, Pennsylvania, USA."
+        },
+        {
+            "question": "What are FMC's main products?",
+            "answer": "FMC's main products include insecticides, herbicides, and fungicides."
+        },
+        {
+            "question": "When was FMC Corporation founded?",
+            "answer": "FMC Corporation was founded in 1883."
+        }
+    ],
+    "competitors": [
+        "SYT",
+        "DD",
+        "BAYN"
+    ],
+    "related_stocks": [
+        "CORN",
+        "SOYB",
+        "DBA"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "ticker": "AKTS",
+    "name": "Akoustis Technologies, Inc.",
+    "description": "Akoustis Technologies, Inc. is an innovative semiconductor company specializing in the development and commercialization of advanced material solutions for the wireless communications industry. Founded in 2014 and headquartered in Huntersville, North Carolina, Akoustis is at the forefront of providing high-performance acoustic filters for mobile devices, IoT, and other wireless applications. The company leverages its proprietary patented technology to produce high-quality bulk acoustic wave (BAW) filters that are crucial for enabling faster and more reliable wireless communication. Akoustis aims to address the increasing demand for bandwidth and data speed driven by the proliferation of 5G networks and the Internet of Things. Their unique BAW technology offers superior performance compared to traditional filters, providing a competitive edge in the rapidly evolving RF filter market. Akoustis is committed to advancing wireless technology and continues to innovate in areas such as frequency range, power handling, and size reduction. The company's mission is to deliver cutting-edge solutions that enhance connectivity and performance in modern communication systems.",
+    "industry": [
+        "Semiconductors",
+        "Wireless Communications"
+    ],
+    "headquarters": "Huntersville, North Carolina, USA",
+    "founded": "2014",
+    "website": "https://www.akoustis.com",
+    "ceo": "Jeffrey Shealy",
+    "social_media": {
+        "twitter": "https://twitter.com/Akoustis",
+        "linkedin": "https://www.linkedin.com/company/akoustis-technologies-inc/"
+    },
+    "investor_relations": "https://www.akoustis.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Jeffrey Shealy",
+            "position": "CEO"
+        },
+        {
+            "name": "Jesse E. C. Lakey",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "RF Filters",
+            "products": [
+                "BAW Filters"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Akoustis Technologies, Inc. | Advanced RF Filter Solutions",
+        "meta_description": "Explore Akoustis Technologies, Inc., a leader in advanced RF filter technology for wireless communications. Discover innovative solutions for 5G and IoT applications.",
+        "keywords": [
+            "Akoustis",
+            "RF Filters",
+            "BAW Technology",
+            "Wireless Communications",
+            "5G",
+            "IoT"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Akoustis Technologies specialize in?",
+            "answer": "Akoustis Technologies specializes in advanced RF filter technology for the wireless communications industry."
+        },
+        {
+            "question": "Who is the CEO of Akoustis?",
+            "answer": "Jeffrey Shealy is the CEO of Akoustis Technologies, Inc."
+        },
+        {
+            "question": "Where is Akoustis headquartered?",
+            "answer": "Akoustis is headquartered in Huntersville, North Carolina, USA."
+        },
+        {
+            "question": "What products does Akoustis offer?",
+            "answer": "Akoustis offers bulk acoustic wave (BAW) filters for various wireless applications."
+        },
+        {
+            "question": "When was Akoustis founded?",
+            "answer": "Akoustis was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "QCOM",
+        "AVGO",
+        "LITE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "ticker": "MRK",
+    "name": "Merck & Co., Inc.",
+    "description": "Merck & Co., Inc. is a global healthcare company dedicated to improving health and well-being through innovative pharmaceutical solutions. Founded in 1891, Merck has a long-standing commitment to research and development, producing a diverse range of prescription medicines, vaccines, biologic therapies, and animal health products. The company's robust pipeline includes treatments for various diseases, including cancer, diabetes, and infectious diseases. Merck\u2019s notable products include Keytruda, an immunotherapy that has transformed the landscape of cancer treatment, as well as vaccines for diseases such as HPV and measles. With a strong emphasis on sustainability and corporate responsibility, Merck strives to ensure equitable access to its medicines and vaccines worldwide, and actively engages in initiatives to improve health outcomes in underserved communities. The company is also focused on advancing digital health technologies and integrating data analytics into healthcare solutions to enhance patient care. Merck's mission is to discover, develop, and provide innovative products and services that save and improve lives around the world.",
+    "industry": [
+        "Pharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Kenilworth, New Jersey, USA",
+    "founded": "1891",
+    "website": "https://www.merck.com",
+    "ceo": "Robert M. Davis",
+    "social_media": {
+        "twitter": "https://twitter.com/Merck",
+        "linkedin": "https://www.linkedin.com/company/merck"
+    },
+    "investor_relations": "https://investors.merck.com",
+    "key_executives": [
+        {
+            "name": "Robert M. Davis",
+            "position": "CEO"
+        },
+        {
+            "name": "Carlo G. L. L. de Notariis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pharmaceuticals",
+            "products": [
+                "Keytruda",
+                "Januvia",
+                "Gardasil"
+            ]
+        },
+        {
+            "category": "Vaccines",
+            "products": [
+                "MMR II",
+                "Varivax"
+            ]
+        },
+        {
+            "category": "Animal Health",
+            "products": [
+                "Bravecto",
+                "NexGard"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Merck & Co., Inc. | Global Healthcare Leader",
+        "meta_description": "Explore Merck & Co., Inc., a global healthcare company committed to innovation in pharmaceuticals and vaccines. Learn about Merck's mission and its impact on global health.",
+        "keywords": [
+            "Merck",
+            "Pharmaceuticals",
+            "Healthcare",
+            "Vaccines",
+            "Keytruda",
+            "Januvia"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Merck known for?",
+            "answer": "Merck is known for its innovative pharmaceuticals, vaccines, and animal health products."
+        },
+        {
+            "question": "Who is the CEO of Merck?",
+            "answer": "Robert M. Davis is the CEO of Merck & Co., Inc."
+        },
+        {
+            "question": "Where is Merck headquartered?",
+            "answer": "Merck is headquartered in Kenilworth, New Jersey, USA."
+        },
+        {
+            "question": "What are Merck's main products?",
+            "answer": "Merck's main products include Keytruda, Januvia, and various vaccines."
+        },
+        {
+            "question": "When was Merck founded?",
+            "answer": "Merck was founded in 1891."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "ABBV",
+        "BMY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

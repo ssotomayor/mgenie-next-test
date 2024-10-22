@@ -1,0 +1,91 @@
+{
+    "ticker": "KEP",
+    "name": "Korea Electric Power Corporation",
+    "description": "Korea Electric Power Corporation (KEPCO) is a leading utility company in South Korea, primarily engaged in the generation, transmission, and distribution of electricity. Founded in 1961, KEPCO plays a crucial role in the country's energy infrastructure, providing reliable and efficient electric power to millions of customers. The company operates a diverse portfolio of power plants, including nuclear, thermal, and renewable energy sources, contributing significantly to South Korea's energy security and sustainability goals. KEPCO is committed to enhancing energy efficiency and reducing greenhouse gas emissions through innovative technologies and investments in renewable energy projects. As part of its global expansion strategy, KEPCO has also invested in overseas energy projects, reinforcing its position as a key player in the international energy market. The company's mission is to ensure a stable and sustainable energy supply while actively pursuing research and development in smart grid technologies and energy storage solutions, making strides towards a greener future.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Seoul, South Korea",
+    "founded": "1961",
+    "website": "https://home.kepco.co.kr",
+    "ceo": "Kim Jong-gap",
+    "social_media": {
+        "twitter": "https://twitter.com/KEPCO_en",
+        "linkedin": "https://www.linkedin.com/company/korea-electric-power-corporation/"
+    },
+    "investor_relations": "https://www.kepco.co.kr/eng/ir/ir_home.jsp",
+    "key_executives": [
+        {
+            "name": "Kim Jong-gap",
+            "position": "CEO"
+        },
+        {
+            "name": "Kwon Hyeok-soo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Nuclear Power",
+                "Thermal Power",
+                "Renewable Energy"
+            ]
+        },
+        {
+            "category": "Energy Services",
+            "products": [
+                "Electricity Transmission",
+                "Electricity Distribution"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Korea Electric Power Corporation | Leading Utility Provider in South Korea",
+        "meta_description": "Discover Korea Electric Power Corporation (KEPCO), a leader in electricity generation and distribution in South Korea. Learn about KEPCO's commitment to sustainability and energy efficiency.",
+        "keywords": [
+            "KEPCO",
+            "Korea Electric Power",
+            "Utilities",
+            "Electricity",
+            "Renewable Energy",
+            "Nuclear Power"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does KEPCO provide?",
+            "answer": "KEPCO provides electricity generation, transmission, and distribution services in South Korea."
+        },
+        {
+            "question": "Who is the CEO of KEPCO?",
+            "answer": "The CEO of KEPCO is Kim Jong-gap."
+        },
+        {
+            "question": "Where is KEPCO headquartered?",
+            "answer": "KEPCO is headquartered in Seoul, South Korea."
+        },
+        {
+            "question": "What types of power generation does KEPCO engage in?",
+            "answer": "KEPCO engages in nuclear, thermal, and renewable energy generation."
+        },
+        {
+            "question": "When was KEPCO founded?",
+            "answer": "KEPCO was founded in 1961."
+        }
+    ],
+    "competitors": [
+        "DTE",
+        "SO",
+        "NEE",
+        "DUK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

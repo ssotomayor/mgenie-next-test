@@ -1,0 +1,99 @@
+{
+    "ticker": "GE",
+    "name": "General Electric Company",
+    "description": "General Electric Company (GE) is a diversified global infrastructure and technology company founded in 1892. With a rich history spanning over a century, GE operates in various sectors, including aviation, healthcare, power, renewable energy, and digital solutions. The company is known for its commitment to innovation and technological advancement, continuously striving to address some of the world's most pressing challenges. In aviation, GE is a leading manufacturer of jet engines, providing high-performance products that power commercial and military aircraft. The healthcare division offers cutting-edge medical imaging and diagnostic equipment, enhancing patient care worldwide. GE's energy segment focuses on both traditional and renewable energy solutions, including gas and steam turbines, as well as wind energy technologies. The company is dedicated to sustainability, aiming to reduce carbon emissions and promote cleaner energy sources. Additionally, GE has embraced digital transformation, leveraging data and analytics to optimize operations across its various sectors. With a mission to build a world that works, GE is committed to delivering value to its customers and stakeholders while fostering a culture of safety and integrity across its global operations.",
+    "industry": [
+        "Conglomerate",
+        "Aerospace",
+        "Healthcare",
+        "Energy"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "1892",
+    "website": "https://www.ge.com",
+    "ceo": "Larry Culp",
+    "social_media": {
+        "twitter": "https://twitter.com/GeneralElectric",
+        "linkedin": "https://www.linkedin.com/company/general-electric/"
+    },
+    "investor_relations": "https://www.ge.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Larry Culp",
+            "position": "CEO"
+        },
+        {
+            "name": "Carolina Dybeck Happe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aviation",
+            "products": [
+                "Jet Engines",
+                "Aircraft Systems"
+            ]
+        },
+        {
+            "category": "Healthcare",
+            "products": [
+                "Medical Imaging Equipment",
+                "Healthcare IT Solutions"
+            ]
+        },
+        {
+            "category": "Energy",
+            "products": [
+                "Gas Turbines",
+                "Wind Turbines"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "General Electric Company | Innovative Infrastructure and Technology Solutions",
+        "meta_description": "Explore General Electric Company, a leader in aviation, healthcare, energy, and digital solutions. Discover GE's commitment to innovation and sustainability.",
+        "keywords": [
+            "General Electric",
+            "Aviation",
+            "Healthcare",
+            "Energy",
+            "Sustainability",
+            "Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does General Electric do?",
+            "answer": "General Electric is involved in various sectors such as aviation, healthcare, energy, and digital solutions."
+        },
+        {
+            "question": "Who is the CEO of General Electric?",
+            "answer": "Larry Culp is the CEO of General Electric Company."
+        },
+        {
+            "question": "Where is General Electric headquartered?",
+            "answer": "General Electric is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "What are GE's main products?",
+            "answer": "GE's main products include jet engines, medical imaging equipment, gas turbines, and wind turbines."
+        },
+        {
+            "question": "When was General Electric founded?",
+            "answer": "General Electric was founded in 1892."
+        }
+    ],
+    "competitors": [
+        "BA",
+        "HON",
+        "SI",
+        "MMM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "IBM",
+        "CAT"
+    ]
+}

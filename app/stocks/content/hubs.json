@@ -1,0 +1,101 @@
+{
+    "ticker": "HUBS",
+    "name": "HubSpot, Inc.",
+    "description": "HubSpot, Inc. is a leading American developer of software products for inbound marketing, sales, and customer service. Founded in 2006 by Brian Halligan and Dharmesh Shah, HubSpot revolutionized the way companies engage with customers online through its innovative platform designed to help businesses attract, engage, and delight customers. The company's software includes tools for content management, social media marketing, search engine optimization, lead management, customer relationship management (CRM), and analytics. HubSpot's user-friendly interface and comprehensive suite of features allow businesses of all sizes to implement effective inbound marketing strategies, ultimately driving growth and improving customer satisfaction. With a strong emphasis on education, HubSpot offers a wealth of resources, including free courses and certifications through its HubSpot Academy, aimed at empowering marketers and sales professionals. As a public company since 2014, HubSpot continues to expand its offerings and maintain its status as a thought leader in the marketing technology space.",
+    "industry": [
+        "Software",
+        "Marketing Technology"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "2006",
+    "website": "https://www.hubspot.com",
+    "ceo": "Yamini Rangan",
+    "social_media": {
+        "twitter": "https://twitter.com/HubSpot",
+        "linkedin": "https://www.linkedin.com/company/hubspot",
+        "instagram": "https://www.instagram.com/hubspot",
+        "youtube": "https://www.youtube.com/user/HubSpot"
+    },
+    "investor_relations": "https://ir.hubspot.com",
+    "key_executives": [
+        {
+            "name": "Yamini Rangan",
+            "position": "CEO"
+        },
+        {
+            "name": "Drew D'Agostino",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Marketing Software",
+            "products": [
+                "Marketing Hub",
+                "Content Management System",
+                "SEO Tools"
+            ]
+        },
+        {
+            "category": "Sales Software",
+            "products": [
+                "Sales Hub",
+                "CRM",
+                "Lead Management"
+            ]
+        },
+        {
+            "category": "Customer Service Software",
+            "products": [
+                "Service Hub",
+                "Customer Feedback Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "HubSpot, Inc. | Inbound Marketing, Sales, and Service Software",
+        "meta_description": "Explore HubSpot, Inc., a leader in inbound marketing, sales, and customer service software. Discover tools to attract, engage, and delight customers.",
+        "keywords": [
+            "HubSpot",
+            "Inbound Marketing",
+            "CRM",
+            "Sales Software",
+            "Marketing Technology",
+            "Customer Service"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is HubSpot known for?",
+            "answer": "HubSpot is known for its inbound marketing and sales software, designed to help businesses attract and engage customers."
+        },
+        {
+            "question": "Who is the CEO of HubSpot?",
+            "answer": "Yamini Rangan is the CEO of HubSpot, Inc."
+        },
+        {
+            "question": "Where is HubSpot headquartered?",
+            "answer": "HubSpot is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are HubSpot's main products?",
+            "answer": "HubSpot's main products include Marketing Hub, Sales Hub, and Service Hub."
+        },
+        {
+            "question": "When was HubSpot founded?",
+            "answer": "HubSpot was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "ZMTP",
+        "WIX",
+        "MKTG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "ADBE"
+    ]
+}

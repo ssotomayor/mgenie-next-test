@@ -1,0 +1,90 @@
+{
+    "ticker": "IOT",
+    "name": "IoTeX",
+    "description": "IoTeX is a leading blockchain platform designed to empower the Internet of Things (IoT) by creating a decentralized network that connects devices, data, and applications. Founded in 2017, IoTeX aims to enable a new era of privacy and security for IoT by providing a scalable, secure, and user-friendly infrastructure. The platform facilitates seamless interactions between devices, allowing them to communicate and transact autonomously without the need for intermediaries. IoTeX's unique architecture ensures that data ownership remains with the users, addressing privacy concerns that have plagued the IoT industry. The company is known for its innovative products such as the IoTeX blockchain, the Ucam (a privacy-centric smart camera), and the IoTeX Wallet, which enables users to manage their digital assets effortlessly. With a strong focus on real-world applications, IoTeX collaborates with various industries to integrate blockchain technology into smart cities, supply chains, and healthcare. The company\u2019s mission is to build a decentralized machine economy where people can interact with their devices in a secure, transparent, and efficient manner, ultimately transforming the way we live and work.",
+    "industry": [
+        "Blockchain",
+        "Internet of Things"
+    ],
+    "headquarters": "Palo Alto, California, USA",
+    "founded": "2017",
+    "website": "https://iotex.io",
+    "ceo": "Raullen Chai",
+    "social_media": {
+        "twitter": "https://twitter.com/iotex_io",
+        "linkedin": "https://www.linkedin.com/company/iotex/",
+        "medium": "https://medium.com/iotex"
+    },
+    "investor_relations": "https://iotex.io/investors",
+    "key_executives": [
+        {
+            "name": "Raullen Chai",
+            "position": "CEO"
+        },
+        {
+            "name": "Qingkai Liang",
+            "position": "Co-founder & Chief Architect"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Infrastructure",
+            "products": [
+                "IoTeX Blockchain",
+                "IoTeX Wallet"
+            ]
+        },
+        {
+            "category": "Smart Devices",
+            "products": [
+                "Ucam"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IoTeX | Empowering the Internet of Things with Blockchain",
+        "meta_description": "Explore IoTeX, a decentralized platform connecting devices and applications in the IoT landscape. Discover innovative solutions for privacy and security.",
+        "keywords": [
+            "IoTeX",
+            "Blockchain",
+            "Internet of Things",
+            "Smart Devices",
+            "Decentralization",
+            "Privacy",
+            "Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IoTeX known for?",
+            "answer": "IoTeX is known for its innovative blockchain platform that empowers the Internet of Things and enhances privacy and security for connected devices."
+        },
+        {
+            "question": "Who is the CEO of IoTeX?",
+            "answer": "Raullen Chai is the CEO of IoTeX."
+        },
+        {
+            "question": "Where is IoTeX headquartered?",
+            "answer": "IoTeX is headquartered in Palo Alto, California, USA."
+        },
+        {
+            "question": "What are IoTeX's main products?",
+            "answer": "IoTeX's main products include the IoTeX Blockchain, IoTeX Wallet, and Ucam smart camera."
+        },
+        {
+            "question": "When was IoTeX founded?",
+            "answer": "IoTeX was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "IOTA",
+        "HBAR",
+        "XRP"
+    ],
+    "related_stocks": [
+        "ETH",
+        "BTC",
+        "LTC",
+        "DOT"
+    ]
+}

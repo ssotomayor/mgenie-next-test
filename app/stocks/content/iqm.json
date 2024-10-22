@@ -1,0 +1,87 @@
+{
+    "ticker": "IQM",
+    "name": "IQM Quantum Computers",
+    "description": "IQM Quantum Computers is a pioneering company in the field of quantum computing, dedicated to building and delivering quantum processors for a variety of applications. Founded in 2018 and headquartered in Munich, Germany, IQM aims to enable practical quantum computing solutions that can solve complex problems beyond the capability of classical computers. The company specializes in superconducting qubit technology and has developed a unique approach to quantum hardware that emphasizes scalability and performance. IQM's vision is to empower researchers and industries to harness the power of quantum computing for advancements in fields such as pharmaceuticals, materials science, and financial modeling. By focusing on developing quantum computers that are accessible and user-friendly, IQM is positioned to lead the charge in making quantum computing a reality for businesses and researchers alike. The company actively collaborates with academic institutions and industry partners to drive innovation and ensure that its technology remains at the forefront of the quantum revolution. With a commitment to fostering a quantum ecosystem, IQM is not only focused on product development but also on educating the next generation of quantum scientists and engineers.",
+    "industry": [
+        "Technology",
+        "Quantum Computing"
+    ],
+    "headquarters": "Munich, Germany",
+    "founded": "2018",
+    "website": "https://www.iqm quantum.com",
+    "ceo": "Jan Goetz",
+    "social_media": {
+        "twitter": "https://twitter.com/IQMQuantum",
+        "linkedin": "https://www.linkedin.com/company/iqm-quantum-computers/"
+    },
+    "investor_relations": "https://www.iqm quantum.com/investors",
+    "key_executives": [
+        {
+            "name": "Jan Goetz",
+            "position": "CEO"
+        },
+        {
+            "name": "Heinrich K. K. F. D. M. A. Waegli",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Processors",
+            "products": [
+                "IQM Quantum Processor"
+            ]
+        },
+        {
+            "category": "Quantum Software",
+            "products": [
+                "IQM Quantum Software Toolkit"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IQM Quantum Computers | Building the Future of Quantum Technology",
+        "meta_description": "Discover IQM Quantum Computers, a leader in quantum computing technology. Learn about our innovative quantum processors and software solutions designed for various industries.",
+        "keywords": [
+            "IQM",
+            "Quantum Computing",
+            "Quantum Processors",
+            "Superconducting Qubits",
+            "Jan Goetz"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IQM specialize in?",
+            "answer": "IQM specializes in developing quantum processors and software for practical quantum computing applications."
+        },
+        {
+            "question": "Who is the CEO of IQM?",
+            "answer": "Jan Goetz is the CEO of IQM Quantum Computers."
+        },
+        {
+            "question": "Where is IQM headquartered?",
+            "answer": "IQM is headquartered in Munich, Germany."
+        },
+        {
+            "question": "What are the main products of IQM?",
+            "answer": "IQM's main products include the IQM Quantum Processor and the IQM Quantum Software Toolkit."
+        },
+        {
+            "question": "When was IQM founded?",
+            "answer": "IQM was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "GOOGL",
+        "MSFT",
+        "ANTM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "TSLA",
+        "NVDA"
+    ]
+}

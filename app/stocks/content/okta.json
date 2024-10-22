@@ -1,0 +1,95 @@
+{
+    "ticker": "OKTA",
+    "name": "Okta, Inc.",
+    "description": "Okta, Inc. is a leading identity and access management company that provides cloud-based solutions to help organizations manage and secure user authentication into applications, devices, and services. Founded in 2009 by Todd McKinnon and Frederic Kerrest, Okta's mission is to enable any organization to use any technology securely. The company offers a comprehensive identity platform that includes Single Sign-On (SSO), Multi-Factor Authentication (MFA), and lifecycle management capabilities to improve security and user experience. Okta's solutions are designed to empower businesses to embrace the cloud while ensuring that sensitive data remains protected. With a focus on innovation, Okta supports thousands of integrations with applications and services, making it easier for organizations to scale their identities securely. The company is recognized for its commitment to customer success and operational excellence, serving a wide variety of industries, including financial services, healthcare, and education. Okta continues to expand its offerings through strategic acquisitions and partnerships, positioning itself as a leader in the rapidly growing identity market.",
+    "industry": [
+        "Software",
+        "Cybersecurity"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2009",
+    "website": "https://www.okta.com",
+    "ceo": "Todd McKinnon",
+    "social_media": {
+        "twitter": "https://twitter.com/okta",
+        "linkedin": "https://www.linkedin.com/company/okta",
+        "youtube": "https://www.youtube.com/user/OktaInc"
+    },
+    "investor_relations": "https://investor.okta.com",
+    "key_executives": [
+        {
+            "name": "Todd McKinnon",
+            "position": "CEO"
+        },
+        {
+            "name": "Frederic Kerrest",
+            "position": "COO"
+        },
+        {
+            "name": "Darren Chaker",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Identity Management",
+            "products": [
+                "Single Sign-On",
+                "Multi-Factor Authentication",
+                "Lifecycle Management"
+            ]
+        },
+        {
+            "category": "API Access Management",
+            "products": [
+                "API Gateway",
+                "Developer Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Okta, Inc. | Identity and Access Management Solutions",
+        "meta_description": "Explore Okta, Inc., a leader in identity and access management solutions. Discover how Okta secures user authentication for organizations worldwide.",
+        "keywords": [
+            "Okta",
+            "Identity Management",
+            "Single Sign-On",
+            "Multi-Factor Authentication",
+            "Cloud Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Okta do?",
+            "answer": "Okta provides identity and access management solutions to help organizations securely manage user authentication across applications and devices."
+        },
+        {
+            "question": "Who is the CEO of Okta?",
+            "answer": "Todd McKinnon is the CEO of Okta, Inc."
+        },
+        {
+            "question": "Where is Okta headquartered?",
+            "answer": "Okta is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Okta's main products?",
+            "answer": "Okta's main products include Single Sign-On, Multi-Factor Authentication, and Lifecycle Management solutions."
+        },
+        {
+            "question": "When was Okta founded?",
+            "answer": "Okta was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "CRM",
+        "ZS",
+        "SABR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "NOW"
+    ]
+}

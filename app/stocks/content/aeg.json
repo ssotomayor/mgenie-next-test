@@ -1,0 +1,85 @@
+{
+    "ticker": "AEG",
+    "name": "AEGON N.V.",
+    "description": "AEGON N.V. is a multinational life insurance, pensions, and asset management company headquartered in The Hague, Netherlands. Established in 1983, AEGON has grown to become a leading provider of financial services, focusing on helping individuals achieve a secure financial future. The company operates globally, with significant businesses in the United States, the Netherlands, the United Kingdom, and various countries across Asia. AEGON offers a wide range of products, including life insurance, retirement plans, and investment solutions, designed to meet the diverse needs of its customers. AEGON's mission is to empower people to take charge of their financial well-being and to provide them with the tools and support necessary for making informed decisions. With a strong emphasis on sustainability, AEGON is committed to responsible investment practices and aims to contribute positively to society and the environment. The company also actively engages in digital transformation initiatives to enhance customer experience and operational efficiency, ensuring it remains competitive in the evolving financial landscape.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "The Hague, Netherlands",
+    "founded": "1983",
+    "website": "https://www.aegon.com",
+    "ceo": "Lard Friese",
+    "social_media": {
+        "twitter": "https://twitter.com/AEGON",
+        "linkedin": "https://www.linkedin.com/company/aegon/"
+    },
+    "investor_relations": "https://www.aegon.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Lard Friese",
+            "position": "CEO"
+        },
+        {
+            "name": "Matt Rider",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "Health Insurance",
+                "Disability Insurance"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Mutual Funds",
+                "Retirement Accounts",
+                "Annuities"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AEGON N.V. | Life Insurance and Financial Services",
+        "meta_description": "Discover AEGON N.V., a leading provider of life insurance, pensions, and asset management. Learn about AEGON's commitment to financial security and sustainability.",
+        "keywords": [
+            "AEGON",
+            "Life Insurance",
+            "Pensions",
+            "Asset Management",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does AEGON provide?",
+            "answer": "AEGON provides life insurance, pensions, retirement plans, and investment solutions."
+        },
+        {
+            "question": "Who is the CEO of AEGON?",
+            "answer": "Lard Friese is the CEO of AEGON N.V."
+        },
+        {
+            "question": "Where is AEGON headquartered?",
+            "answer": "AEGON is headquartered in The Hague, Netherlands."
+        },
+        {
+            "question": "When was AEGON founded?",
+            "answer": "AEGON was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "MET",
+        "PRU",
+        "UNM"
+    ],
+    "related_stocks": [
+        "BNY",
+        "AXA",
+        "LNC"
+    ]
+}

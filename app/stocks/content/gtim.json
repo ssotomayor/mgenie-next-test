@@ -1,0 +1,93 @@
+{
+    "ticker": "GTIM",
+    "name": "Good Times Restaurants Inc.",
+    "description": "Good Times Restaurants Inc. is a fast-casual restaurant company specializing in gourmet hamburgers, delicious chicken, and unique dining experiences. Founded in 1987 and headquartered in Denver, Colorado, the company operates a chain of restaurants under the 'Good Times Burgers & Frozen Custard' brand. Good Times is dedicated to providing high-quality, fresh ingredients and has a strong commitment to sustainability and community engagement. The restaurant chain emphasizes a fun and friendly atmosphere, appealing to families and individuals looking for a quick yet satisfying meal. In addition to classic burger offerings, Good Times features a variety of menu items, including chicken sandwiches, salads, and their signature frozen custard desserts. The company is also known for its innovative marketing strategies and seasonal promotions that engage customers and foster brand loyalty. Good Times aims to expand its footprint through strategic growth initiatives while maintaining its focus on quality and customer satisfaction. With a mission to create memorable dining experiences, Good Times continues to thrive in an increasingly competitive fast-casual dining landscape.",
+    "industry": [
+        "Restaurants",
+        "Food Services"
+    ],
+    "headquarters": "Denver, Colorado, USA",
+    "founded": "1987",
+    "website": "https://www.goodtimesburgers.com",
+    "ceo": "Ryan Zink",
+    "social_media": {
+        "twitter": "https://twitter.com/GoodTimesBurgers",
+        "facebook": "https://www.facebook.com/goodtimesburgers",
+        "instagram": "https://www.instagram.com/goodtimesburgers/"
+    },
+    "investor_relations": "https://www.goodtimesburgers.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Ryan Zink",
+            "position": "CEO"
+        },
+        {
+            "name": "John S. H. Williams",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Burgers",
+            "products": [
+                "Gourmet Hamburgers",
+                "Chicken Sandwiches"
+            ]
+        },
+        {
+            "category": "Desserts",
+            "products": [
+                "Frozen Custard",
+                "Shakes"
+            ]
+        },
+        {
+            "category": "Salads",
+            "products": [
+                "Garden Salad",
+                "Caesar Salad"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Good Times Restaurants Inc. | Gourmet Burgers and Frozen Custard",
+        "meta_description": "Explore Good Times Restaurants Inc., a leader in gourmet fast-casual dining, offering delicious burgers, frozen custard, and a commitment to quality.",
+        "keywords": [
+            "Good Times Restaurants",
+            "Burgers",
+            "Fast Casual",
+            "Frozen Custard",
+            "Sustainable Dining"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of food does Good Times serve?",
+            "answer": "Good Times serves gourmet burgers, chicken sandwiches, salads, and frozen custard."
+        },
+        {
+            "question": "Where is Good Times headquartered?",
+            "answer": "Good Times is headquartered in Denver, Colorado, USA."
+        },
+        {
+            "question": "When was Good Times founded?",
+            "answer": "Good Times was founded in 1987."
+        },
+        {
+            "question": "Who is the CEO of Good Times Restaurants?",
+            "answer": "Ryan Zink is the CEO of Good Times Restaurants Inc."
+        }
+    ],
+    "competitors": [
+        "MCD",
+        "WEN",
+        "SHAK",
+        "CMG"
+    ],
+    "related_stocks": [
+        "SBUX",
+        "YUM",
+        "DPZ",
+        "DNKN"
+    ]
+}

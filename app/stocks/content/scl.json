@@ -1,0 +1,97 @@
+{
+    "ticker": "SCL",
+    "name": "Stepan Company",
+    "description": "Stepan Company is a global manufacturer of specialty and intermediate chemicals, founded in 1932 by Julius Stepan. Headquartered in Northfield, Illinois, the company operates through three main segments: Surfactants, Polymers, and Specialty Products. Stepan is a leader in the surfactants market, producing a wide range of products used in household and industrial cleaning products, personal care items, and agricultural applications. The company\u2019s polymers segment focuses on producing polyurethane products for various applications, including flexible and rigid foams, and the specialty products segment offers a variety of specialty chemicals for niche markets. Stepan Company is committed to sustainability and innovation, striving to develop eco-friendly solutions that meet the evolving needs of its customers while minimizing environmental impact. With a strong global presence, the company serves markets in North America, Latin America, Europe, and Asia, and continues to invest in research and development to enhance its product offerings and expand its market reach.",
+    "industry": [
+        "Chemicals",
+        "Manufacturing"
+    ],
+    "headquarters": "Northfield, Illinois, USA",
+    "founded": "1932",
+    "website": "https://www.stepan.com",
+    "ceo": "F. Quinn Stepan, Jr.",
+    "social_media": {
+        "twitter": "https://twitter.com/StepanCompany",
+        "linkedin": "https://www.linkedin.com/company/stepan-company/"
+    },
+    "investor_relations": "https://investors.stepan.com",
+    "key_executives": [
+        {
+            "name": "F. Quinn Stepan, Jr.",
+            "position": "CEO"
+        },
+        {
+            "name": "Cynthia M. Dorr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Surfactants",
+            "products": [
+                "Household Cleaning Products",
+                "Industrial Cleaning Products",
+                "Personal Care Products"
+            ]
+        },
+        {
+            "category": "Polymers",
+            "products": [
+                "Flexible Foams",
+                "Rigid Foams"
+            ]
+        },
+        {
+            "category": "Specialty Products",
+            "products": [
+                "Agricultural Chemicals",
+                "Specialty Chemicals"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Stepan Company | Global Specialty Chemical Manufacturer",
+        "meta_description": "Explore Stepan Company, a leading manufacturer of specialty and intermediate chemicals. Learn about our commitment to sustainability and innovation.",
+        "keywords": [
+            "Stepan Company",
+            "Specialty Chemicals",
+            "Surfactants",
+            "Polymers",
+            "Sustainable Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Stepan Company do?",
+            "answer": "Stepan Company manufactures specialty and intermediate chemicals used in various industries, including household cleaning, personal care, and agriculture."
+        },
+        {
+            "question": "Who is the CEO of Stepan Company?",
+            "answer": "F. Quinn Stepan, Jr. is the CEO of Stepan Company."
+        },
+        {
+            "question": "Where is Stepan Company headquartered?",
+            "answer": "Stepan Company is headquartered in Northfield, Illinois, USA."
+        },
+        {
+            "question": "What are the main product categories of Stepan Company?",
+            "answer": "Stepan Company's main product categories include Surfactants, Polymers, and Specialty Products."
+        },
+        {
+            "question": "When was Stepan Company founded?",
+            "answer": "Stepan Company was founded in 1932."
+        }
+    ],
+    "competitors": [
+        "HUN",
+        "ASH",
+        "DD",
+        "SYN"
+    ],
+    "related_stocks": [
+        "DOW",
+        "LYB",
+        "APD",
+        "IFF"
+    ]
+}

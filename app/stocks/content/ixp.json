@@ -1,0 +1,89 @@
+{
+    "ticker": "IXP",
+    "name": "IHS Markit Ltd.",
+    "description": "IHS Markit Ltd. is a global leader in providing critical information, analytics, and solutions to various industries, including finance, energy, automotive, and technology. Founded in 1959 and headquartered in London, IHS Markit delivers comprehensive data and insights that help businesses make informed decisions and drive growth. The company is known for its rich industry expertise and innovative analytics, which allow clients to manage risk, enhance performance, and optimize operations. With a diverse portfolio of products and services, IHS Markit supports clients in navigating complex market dynamics. The company's offerings include market intelligence, economic forecasting, and customized solutions that address specific client needs. IHS Markit is committed to delivering high-quality data and analytical insights that empower organizations to succeed in an increasingly data-driven world. Through its extensive global network, the company serves thousands of customers across more than 140 countries, helping them understand market trends and capitalize on emerging opportunities. IHS Markit operates through various sectors, including financial services, energy, automotive, and technology, making it a vital partner for businesses seeking a competitive edge.",
+    "industry": [
+        "Information Services",
+        "Analytics"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1959",
+    "website": "https://ihsmarkit.com",
+    "ceo": "Lance Uggla",
+    "social_media": {
+        "twitter": "https://twitter.com/IHSMarkit",
+        "linkedin": "https://www.linkedin.com/company/ihs-markit/"
+    },
+    "investor_relations": "https://ir.ihsmarkit.com",
+    "key_executives": [
+        {
+            "name": "Lance Uggla",
+            "position": "CEO"
+        },
+        {
+            "name": "Santiago P. C. D. A. De La Vega",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Market Intelligence",
+            "products": [
+                "IHS Markit Automotive Solutions",
+                "IHS Markit Financial Services"
+            ]
+        },
+        {
+            "category": "Analytics",
+            "products": [
+                "Risk Management Solutions",
+                "Data Analytics Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IHS Markit Ltd. | Information and Analytics Solutions",
+        "meta_description": "Explore IHS Markit Ltd., a global leader in critical information, analytics, and solutions. Discover how IHS Markit's insights empower businesses across industries.",
+        "keywords": [
+            "IHS Markit",
+            "Information Services",
+            "Analytics",
+            "Market Intelligence",
+            "Financial Services",
+            "Automotive Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does IHS Markit provide?",
+            "answer": "IHS Markit provides critical information, analytics, and solutions across various industries, including finance, energy, and automotive."
+        },
+        {
+            "question": "Who is the CEO of IHS Markit?",
+            "answer": "Lance Uggla is the CEO of IHS Markit Ltd."
+        },
+        {
+            "question": "Where is IHS Markit headquartered?",
+            "answer": "IHS Markit is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are IHS Markit's key product offerings?",
+            "answer": "IHS Markit's key product offerings include market intelligence solutions and advanced analytics tools."
+        },
+        {
+            "question": "When was IHS Markit founded?",
+            "answer": "IHS Markit was founded in 1959."
+        }
+    ],
+    "competitors": [
+        "SPGI",
+        "MRNA",
+        "FDS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

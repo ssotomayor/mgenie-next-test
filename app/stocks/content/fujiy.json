@@ -1,0 +1,90 @@
+{
+    "ticker": "FUJIY",
+    "name": "Fuji Heavy Industries Ltd.",
+    "description": "Fuji Heavy Industries Ltd. is a Japanese corporation renowned for its diverse range of products, including automotive, aerospace, and industrial machinery. Established in 1953, the company operates under the brand name Subaru, primarily recognized for its all-wheel-drive vehicles and boxer engine technology. Fuji Heavy Industries has made significant strides in the automotive sector, focusing on safety, performance, and environmental sustainability. The Subaru lineup features popular models such as the Subaru Outback, Subaru Forester, and Subaru Impreza, all of which are designed to meet the demands of outdoor enthusiasts and families alike. Besides automobiles, Fuji Heavy Industries has a robust presence in aerospace, manufacturing components for both commercial and military aircraft. The company is committed to innovation and sustainability, investing in new technologies and eco-friendly practices to reduce its carbon footprint. With a solid reputation for quality and reliability, Fuji Heavy Industries continues to be a leader in both the automotive and aerospace industries, striving to enhance the lives of its customers through cutting-edge products and services.",
+    "industry": [
+        "Automotive",
+        "Aerospace"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1953",
+    "website": "https://www.subaru-global.com/en/",
+    "ceo": "Tomomi Nakamura",
+    "social_media": {
+        "twitter": "https://twitter.com/Subaru_usa",
+        "linkedin": "https://www.linkedin.com/company/subaru-of-america/"
+    },
+    "investor_relations": "https://www.subaru-global.com/en/ir/",
+    "key_executives": [
+        {
+            "name": "Tomomi Nakamura",
+            "position": "CEO"
+        },
+        {
+            "name": "Toshio Takahashi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automobiles",
+            "products": [
+                "Subaru Outback",
+                "Subaru Forester",
+                "Subaru Impreza"
+            ]
+        },
+        {
+            "category": "Aerospace",
+            "products": [
+                "Aircraft Components",
+                "Satellite Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fuji Heavy Industries Ltd. | Subaru Automotive and Aerospace",
+        "meta_description": "Discover Fuji Heavy Industries Ltd., the parent company of Subaru, known for its innovative automotive and aerospace products. Explore Subaru's commitment to quality and sustainability.",
+        "keywords": [
+            "Fuji Heavy Industries",
+            "Subaru",
+            "Automotive",
+            "Aerospace",
+            "All-Wheel Drive",
+            "Boxer Engine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Fuji Heavy Industries known for?",
+            "answer": "Fuji Heavy Industries is known for its Subaru brand of vehicles and its aerospace products."
+        },
+        {
+            "question": "Who is the CEO of Fuji Heavy Industries?",
+            "answer": "Tomomi Nakamura is the CEO of Fuji Heavy Industries Ltd."
+        },
+        {
+            "question": "Where is Fuji Heavy Industries headquartered?",
+            "answer": "Fuji Heavy Industries is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are the main products of Fuji Heavy Industries?",
+            "answer": "The main products include Subaru vehicles such as the Outback, Forester, and Impreza, as well as aerospace components."
+        },
+        {
+            "question": "When was Fuji Heavy Industries founded?",
+            "answer": "Fuji Heavy Industries was founded in 1953."
+        }
+    ],
+    "competitors": [
+        "TM",
+        "HMC",
+        "F"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

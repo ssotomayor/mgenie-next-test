@@ -1,0 +1,92 @@
+{
+    "ticker": "NEAR",
+    "name": "Near Protocol",
+    "description": "Near Protocol is a decentralized application platform designed to make it easier for developers to build and deploy scalable applications on the blockchain. Founded in 2018, Near aims to provide a user-friendly environment that fosters innovation and accelerates the adoption of decentralized technologies. The platform utilizes a unique sharding technology that enhances scalability, allowing it to handle thousands of transactions per second while maintaining low fees. Near Protocol prioritizes usability, featuring a developer-friendly interface and tools that simplify the process of creating dApps (decentralized applications). The ecosystem supports a wide range of applications, from gaming to finance, and promotes interoperability with other blockchains. Near's governance model is community-driven, with a decentralized treasury that funds projects and initiatives to enhance the network's growth. With a commitment to sustainability and user empowerment, Near Protocol stands at the forefront of blockchain innovation, providing a robust platform for the next generation of internet applications.",
+    "industry": [
+        "Blockchain",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2018",
+    "website": "https://near.org",
+    "ceo": "Erik Trautman",
+    "social_media": {
+        "twitter": "https://twitter.com/nearprotocol",
+        "linkedin": "https://www.linkedin.com/company/nearprotocol/",
+        "medium": "https://medium.com/nearprotocol"
+    },
+    "investor_relations": "https://near.org/investors",
+    "key_executives": [
+        {
+            "name": "Erik Trautman",
+            "position": "CEO"
+        },
+        {
+            "name": "Alex Skidanov",
+            "position": "Co-Founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Platform",
+            "products": [
+                "Near SDK",
+                "Aurora"
+            ]
+        },
+        {
+            "category": "Decentralized Applications",
+            "products": [
+                "DeFi Applications",
+                "NFT Marketplaces",
+                "Gaming dApps"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Near Protocol | Scalable Blockchain Platform for dApps",
+        "meta_description": "Explore Near Protocol, a scalable blockchain platform empowering developers to build decentralized applications easily. Learn about its innovative technology and ecosystem.",
+        "keywords": [
+            "Near Protocol",
+            "Blockchain",
+            "Decentralized Applications",
+            "dApps",
+            "Scalability",
+            "Smart Contracts"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Near Protocol?",
+            "answer": "Near Protocol is a decentralized application platform designed to make it easier for developers to build and deploy scalable applications on the blockchain."
+        },
+        {
+            "question": "Who is the CEO of Near Protocol?",
+            "answer": "Erik Trautman is the CEO of Near Protocol."
+        },
+        {
+            "question": "Where is Near Protocol headquartered?",
+            "answer": "Near Protocol is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are the main products of Near Protocol?",
+            "answer": "Near Protocol's main products include the Near SDK and Aurora, along with various decentralized applications in finance and gaming."
+        },
+        {
+            "question": "When was Near Protocol founded?",
+            "answer": "Near Protocol was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "ETH",
+        "SOL",
+        "AVAX",
+        "MATIC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

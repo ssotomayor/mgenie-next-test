@@ -1,0 +1,98 @@
+{
+    "ticker": "OGZPY",
+    "name": "Gazprom PJSC",
+    "description": "Gazprom PJSC is a global energy company headquartered in Saint Petersburg, Russia. Established in 1989, Gazprom is one of the largest producers of natural gas in the world and plays a significant role in the global energy market. The company is involved in the extraction, production, transportation, and sale of natural gas, as well as oil and other energy-related services. Gazprom operates an extensive network of pipelines that transport gas across Russia and to various countries in Europe and Asia, making it a critical player in energy security for many nations. The company is also involved in the development of liquefied natural gas (LNG) projects and is investing in renewable energy sources as part of its long-term strategy. Gazprom's operations are characterized by large-scale infrastructure projects and a commitment to technological advancements in the energy sector. With a vast reserve base, Gazprom is poised to meet the increasing global demand for energy while balancing environmental considerations. The company's mission is to ensure reliable energy supplies, contribute to the economic development of Russia, and enhance its role in the international energy market.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Saint Petersburg, Russia",
+    "founded": "1989",
+    "website": "https://www.gazprom.com",
+    "ceo": "Alexey Miller",
+    "social_media": {
+        "twitter": "https://twitter.com/gazprom",
+        "linkedin": "https://www.linkedin.com/company/gazprom/"
+    },
+    "investor_relations": "https://www.gazprom.com/investors/",
+    "key_executives": [
+        {
+            "name": "Alexey Miller",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrey Kruglov",
+            "position": "Deputy Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Natural Gas",
+            "products": [
+                "Gas Production",
+                "Gas Transportation",
+                "Gas Storage"
+            ]
+        },
+        {
+            "category": "Oil",
+            "products": [
+                "Crude Oil Production",
+                "Oil Refining"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Hydropower",
+                "Wind Energy"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Gazprom PJSC | Global Energy Leader in Natural Gas",
+        "meta_description": "Explore Gazprom PJSC, a leading global energy company specializing in natural gas production and transportation. Learn about Gazprom's role in the energy market and its commitment to sustainable practices.",
+        "keywords": [
+            "Gazprom",
+            "Natural Gas",
+            "Energy",
+            "Oil and Gas",
+            "Russia",
+            "LNG"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Gazprom do?",
+            "answer": "Gazprom is involved in the extraction, production, transportation, and sale of natural gas and oil."
+        },
+        {
+            "question": "Who is the CEO of Gazprom?",
+            "answer": "Alexey Miller is the CEO of Gazprom PJSC."
+        },
+        {
+            "question": "Where is Gazprom headquartered?",
+            "answer": "Gazprom is headquartered in Saint Petersburg, Russia."
+        },
+        {
+            "question": "What are Gazprom's main products?",
+            "answer": "Gazprom's main products include natural gas, crude oil, and renewable energy sources."
+        },
+        {
+            "question": "When was Gazprom founded?",
+            "answer": "Gazprom was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "BP",
+        "RDS.A",
+        "TOT",
+        "XOM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "TSLA",
+        "GOOGL",
+        "MSFT"
+    ]
+}

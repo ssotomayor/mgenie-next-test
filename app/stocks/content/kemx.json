@@ -1,0 +1,90 @@
+{
+    "ticker": "KEMX",
+    "name": "KEMET Corporation",
+    "description": "KEMET Corporation, a subsidiary of Yageo Corporation, is a global leader in the manufacturing of passive electronic components, primarily capacitors. Founded in 1919, KEMET has built a reputation for innovative solutions that cater to a diverse range of industries, including automotive, telecommunications, consumer electronics, and renewable energy. The company is renowned for its extensive product portfolio, which includes tantalum capacitors, ceramic capacitors, aluminum electrolytic capacitors, and film capacitors, among others. KEMET is committed to quality and sustainability, employing advanced manufacturing techniques and materials to meet the ever-evolving demands of the electronic components market. With a focus on research and development, KEMET continuously strives to enhance its product offerings to support the growing needs for miniaturization and efficiency in electronic devices. The company operates globally, with manufacturing facilities and sales offices strategically located to serve its customers effectively. KEMET's mission is to provide high-quality products and excellent customer service while adhering to sustainable practices that minimize environmental impact.",
+    "industry": [
+        "Electronics",
+        "Manufacturing"
+    ],
+    "headquarters": "Greenville, South Carolina, USA",
+    "founded": "1919",
+    "website": "https://www.kemet.com",
+    "ceo": "Thierry D. W. Dufour",
+    "social_media": {
+        "twitter": "https://twitter.com/KEMET_Corp",
+        "linkedin": "https://www.linkedin.com/company/kemet-corporation/"
+    },
+    "investor_relations": "https://investors.kemet.com",
+    "key_executives": [
+        {
+            "name": "Thierry D. W. Dufour",
+            "position": "CEO"
+        },
+        {
+            "name": "David T. Hwang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Capacitors",
+            "products": [
+                "Tantalum Capacitors",
+                "Ceramic Capacitors",
+                "Aluminum Electrolytic Capacitors",
+                "Film Capacitors"
+            ]
+        },
+        {
+            "category": "Inductors",
+            "products": [
+                "Inductive Components"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KEMET Corporation | Leading Manufacturer of Capacitors",
+        "meta_description": "Explore KEMET Corporation, a leader in passive electronic components manufacturing. Discover our product range, commitment to quality, and global reach.",
+        "keywords": [
+            "KEMET",
+            "Capacitors",
+            "Electronic Components",
+            "Passive Components",
+            "Tantalum Capacitors",
+            "Ceramic Capacitors"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does KEMET Corporation manufacture?",
+            "answer": "KEMET Corporation manufactures passive electronic components, primarily capacitors."
+        },
+        {
+            "question": "Who is the CEO of KEMET?",
+            "answer": "Thierry D. W. Dufour is the CEO of KEMET Corporation."
+        },
+        {
+            "question": "Where is KEMET headquartered?",
+            "answer": "KEMET is headquartered in Greenville, South Carolina, USA."
+        },
+        {
+            "question": "What types of capacitors does KEMET produce?",
+            "answer": "KEMET produces tantalum, ceramic, aluminum electrolytic, and film capacitors."
+        },
+        {
+            "question": "When was KEMET founded?",
+            "answer": "KEMET was founded in 1919."
+        }
+    ],
+    "competitors": [
+        "AVX",
+        "WIMA",
+        "Vishay",
+        "Murata"
+    ],
+    "related_stocks": [
+        "YAGEO",
+        "AVX",
+        "VSH"
+    ]
+}

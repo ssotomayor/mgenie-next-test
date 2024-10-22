@@ -1,0 +1,88 @@
+{
+    "ticker": "EUSA",
+    "name": "EUSA Pharma Inc.",
+    "description": "EUSA Pharma Inc. is a global biopharmaceutical company dedicated to the development of innovative therapies for patients with rare and complex diseases. Founded in 2010, EUSA focuses on acquiring, developing, and commercializing products that address unmet medical needs in oncology and critical care. The company has a robust pipeline of therapies, including its flagship products like CAVATAK, an oncolytic virus therapy, which is designed to treat a variety of cancers by selectively targeting and destroying cancer cells. EUSA Pharma operates on a global scale, with a strong presence in Europe and North America, and strives to make a meaningful difference in the lives of patients through its commitment to research, development, and collaboration with healthcare professionals. The company prioritizes patient-centric approaches and aims to provide high-quality, effective treatment options while ensuring accessibility for those in need. With a dedicated team of experts and a strategic focus on rare diseases, EUSA Pharma is poised to make significant advancements in the biopharmaceutical sector, aligning its efforts with the evolving landscape of healthcare.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Oncology"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "2010",
+    "website": "https://www.eusapharma.com",
+    "ceo": "Lee Morley",
+    "social_media": {
+        "twitter": "https://twitter.com/EUSA_Pharma",
+        "linkedin": "https://www.linkedin.com/company/eusa-pharma/"
+    },
+    "investor_relations": "https://www.eusapharma.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Lee Morley",
+            "position": "CEO"
+        },
+        {
+            "name": "Graham Parry",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "CAVATAK",
+                "SITRAVAT"
+            ]
+        },
+        {
+            "category": "Critical Care",
+            "products": [
+                "CAVATAK"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "EUSA Pharma Inc. | Innovative Therapies for Rare Diseases",
+        "meta_description": "EUSA Pharma Inc. is a biopharmaceutical company focused on developing innovative treatments for rare and complex diseases, primarily in oncology and critical care.",
+        "keywords": [
+            "EUSA Pharma",
+            "Biopharmaceuticals",
+            "Oncology",
+            "Rare Diseases",
+            "Innovative Therapies"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does EUSA Pharma specialize in?",
+            "answer": "EUSA Pharma specializes in developing innovative therapies for rare and complex diseases, particularly in oncology."
+        },
+        {
+            "question": "Who is the CEO of EUSA Pharma?",
+            "answer": "The CEO of EUSA Pharma is Lee Morley."
+        },
+        {
+            "question": "Where is EUSA Pharma headquartered?",
+            "answer": "EUSA Pharma is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are EUSA Pharma's main products?",
+            "answer": "EUSA Pharma's main products include CAVATAK and SITRAVAT."
+        },
+        {
+            "question": "When was EUSA Pharma founded?",
+            "answer": "EUSA Pharma was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "VRTX",
+        "BMY",
+        "AMGN",
+        "REGN"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "ABBV",
+        "GILD",
+        "PFE"
+    ]
+}

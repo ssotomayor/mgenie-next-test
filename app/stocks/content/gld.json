@@ -1,0 +1,79 @@
+{
+    "ticker": "GLD",
+    "name": "SPDR Gold Shares",
+    "description": "SPDR Gold Shares (GLD) is an exchange-traded fund that aims to track the price of gold bullion, providing investors with a straightforward way to gain exposure to gold as an asset class. Launched in 2004 by State Street Global Advisors, GLD has become one of the largest and most liquid gold ETFs in the world. The fund holds physical gold bars stored in secure vaults, which allows investors to buy and sell shares that represent ownership in these gold holdings. This structure helps investors avoid the complexities of owning physical gold directly while still benefiting from price movements in the gold market. GLD is widely used by institutional and retail investors alike as a hedge against inflation and economic uncertainty, making it a popular choice during times of market volatility. The fund is designed to provide a cost-effective and transparent means for investors to access the performance of gold, which is often viewed as a safe-haven asset. With a strong track record and continuous growth, GLD has solidified its position as a key player in the commodities investment landscape.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "2004",
+    "website": "https://www.spdrgoldshares.com",
+    "ceo": "Catherine Keating",
+    "social_media": {
+        "twitter": "https://twitter.com/StateStreet",
+        "linkedin": "https://www.linkedin.com/company/state-street-corporation/"
+    },
+    "investor_relations": "https://www.spdrgoldshares.com/ir",
+    "key_executives": [
+        {
+            "name": "Catherine Keating",
+            "position": "CEO"
+        },
+        {
+            "name": "John D. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Exchange-Traded Funds",
+            "products": [
+                "SPDR Gold Shares (GLD)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SPDR Gold Shares | Invest in Gold",
+        "meta_description": "SPDR Gold Shares (GLD) provides investors with exposure to gold bullion through an exchange-traded fund structure, making it easy to invest in one of the world's most sought-after commodities.",
+        "keywords": [
+            "GLD",
+            "Gold ETF",
+            "SPDR Gold Shares",
+            "Gold Investment",
+            "Commodity Investment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SPDR Gold Shares?",
+            "answer": "SPDR Gold Shares is an exchange-traded fund that aims to track the price of gold bullion."
+        },
+        {
+            "question": "How does GLD work?",
+            "answer": "GLD holds physical gold bars and allows investors to buy shares that represent ownership in these bars."
+        },
+        {
+            "question": "Who is the CEO of SPDR Gold Shares?",
+            "answer": "Catherine Keating is the CEO of SPDR Gold Shares."
+        },
+        {
+            "question": "Where is SPDR Gold Shares headquartered?",
+            "answer": "SPDR Gold Shares is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "What are the benefits of investing in GLD?",
+            "answer": "Investing in GLD provides exposure to gold, a hedge against inflation and economic uncertainty, without the complexities of physical ownership."
+        }
+    ],
+    "competitors": [
+        "IAU",
+        "SGOL",
+        "PHYS"
+    ],
+    "related_stocks": [
+        "SLV",
+        "GDX",
+        "GDXJ"
+    ]
+}

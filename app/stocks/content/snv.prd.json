@@ -1,0 +1,87 @@
+{
+    "ticker": "SNV.PRD",
+    "name": "Synovus Financial Corp.",
+    "description": "Synovus Financial Corp. is a leading financial services company based in the southeastern United States, offering a comprehensive range of banking and financial services to individuals, businesses, and institutions. Founded in 1888 and headquartered in Columbus, Georgia, Synovus operates over 300 branches across Georgia, Alabama, South Carolina, Tennessee, and Florida. The company provides a variety of services including commercial and retail banking, investment management, asset management, and mortgage services. Synovus is recognized for its commitment to customer service and community engagement, often supporting local initiatives and economic development. The company\u2019s innovative digital banking solutions have made it easier for customers to manage their finances on-the-go. With a strong focus on building lasting relationships, Synovus aims to empower its clients to achieve their financial goals while navigating the complexities of today's financial landscape. The firm's dedication to excellence and integrity has established it as a trusted partner in the communities it serves, making it a prominent player in the regional banking sector.",
+    "industry": [
+        "Financial Services",
+        "Banking"
+    ],
+    "headquarters": "Columbus, Georgia, USA",
+    "founded": "1888",
+    "website": "https://www.synovus.com",
+    "ceo": "Kevin Blair",
+    "social_media": {
+        "twitter": "https://twitter.com/synovus",
+        "linkedin": "https://www.linkedin.com/company/synovus/",
+        "facebook": "https://www.facebook.com/synovus"
+    },
+    "investor_relations": "https://ir.synovus.com",
+    "key_executives": [
+        {
+            "name": "Kevin Blair",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew R. G. McDaniel",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Personal Banking",
+                "Commercial Banking",
+                "Mortgage Services"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Wealth Management",
+                "Asset Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Synovus Financial Corp. | Comprehensive Banking and Financial Solutions",
+        "meta_description": "Explore Synovus Financial Corp., a leader in banking and financial services in the Southeast. Discover our commitment to customer service and community support.",
+        "keywords": [
+            "Synovus",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Commercial Banking",
+            "Mortgage Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Synovus provide?",
+            "answer": "Synovus provides personal banking, commercial banking, mortgage services, and investment management."
+        },
+        {
+            "question": "Who is the CEO of Synovus?",
+            "answer": "Kevin Blair is the CEO of Synovus Financial Corp."
+        },
+        {
+            "question": "Where is Synovus headquartered?",
+            "answer": "Synovus is headquartered in Columbus, Georgia, USA."
+        },
+        {
+            "question": "What is the founding year of Synovus?",
+            "answer": "Synovus was founded in 1888."
+        }
+    ],
+    "competitors": [
+        "PNC",
+        "USB",
+        "WFC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
+    ]
+}

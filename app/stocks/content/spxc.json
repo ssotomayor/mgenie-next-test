@@ -1,0 +1,95 @@
+{
+    "ticker": "SPXC",
+    "name": "SPX Corporation",
+    "description": "SPX Corporation is a diversified industrial company that provides a range of products and services to various sectors, including HVAC, food and beverage, and electrical infrastructure. Founded in 1911, SPX operates through multiple business segments, each focusing on distinct markets. The company is particularly known for its innovative solutions in heat transfer, flow technology, and detection and measurement. SPX's HVAC segment offers advanced climate control systems, including chilled beams and cooling systems, which enhance energy efficiency and comfort in commercial and industrial buildings. In the food and beverage sector, SPX is recognized for its processing and packaging equipment, which supports the safety and quality of food products. The company has a strong commitment to sustainability, investing in technologies that reduce energy consumption and environmental impact. SPX's electrical segment provides essential infrastructure solutions, including transformers and switchgear, supporting the growing demand for reliable electrical power. With a focus on engineering excellence and customer satisfaction, SPX continues to expand its global footprint, serving clients in over 150 countries. The company is dedicated to innovation and continuous improvement, leveraging advanced technologies to meet the evolving needs of its customers and to drive operational efficiencies.",
+    "industry": [
+        "Industrial Manufacturing",
+        "HVAC",
+        "Electrical Equipment"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1911",
+    "website": "https://www.spx.com",
+    "ceo": "Gene Lowe",
+    "social_media": {
+        "twitter": "https://twitter.com/SPXCorp",
+        "linkedin": "https://www.linkedin.com/company/spx-corporation"
+    },
+    "investor_relations": "https://ir.spx.com",
+    "key_executives": [
+        {
+            "name": "Gene Lowe",
+            "position": "CEO"
+        },
+        {
+            "name": "Kurt W. Weller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "HVAC Solutions",
+            "products": [
+                "Chilled Beams",
+                "Cooling Systems"
+            ]
+        },
+        {
+            "category": "Food and Beverage Equipment",
+            "products": [
+                "Processing Equipment",
+                "Packaging Equipment"
+            ]
+        },
+        {
+            "category": "Electrical Infrastructure",
+            "products": [
+                "Transformers",
+                "Switchgear"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SPX Corporation | Innovative Industrial Solutions",
+        "meta_description": "Explore SPX Corporation, a leader in industrial manufacturing and engineering solutions. Learn about our innovative products and commitment to sustainability.",
+        "keywords": [
+            "SPX Corporation",
+            "HVAC Solutions",
+            "Industrial Equipment",
+            "Food Processing",
+            "Electrical Infrastructure"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SPX Corporation do?",
+            "answer": "SPX Corporation provides a range of products and services in HVAC, food and beverage equipment, and electrical infrastructure."
+        },
+        {
+            "question": "Who is the CEO of SPX Corporation?",
+            "answer": "Gene Lowe is the CEO of SPX Corporation."
+        },
+        {
+            "question": "Where is SPX Corporation headquartered?",
+            "answer": "SPX Corporation is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are SPX's main product categories?",
+            "answer": "SPX's main product categories include HVAC solutions, food and beverage equipment, and electrical infrastructure."
+        },
+        {
+            "question": "When was SPX Corporation founded?",
+            "answer": "SPX Corporation was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "GE",
+        "EMR",
+        "ITW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL"
+    ]
+}

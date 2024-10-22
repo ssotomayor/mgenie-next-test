@@ -1,0 +1,81 @@
+{
+    "ticker": "JANH",
+    "name": "JanOne Inc.",
+    "description": "JanOne Inc. is an innovative biotechnology company focused on developing and commercializing advanced therapeutics for the treatment of pain and addiction. Founded in 2017, JanOne is committed to addressing the opioid crisis by providing safer alternatives for pain management. The company is known for its lead product, JAN101, which is a novel formulation designed to target pain without the addictive properties associated with traditional opioid medications. JanOne is also engaged in the research and development of other compounds aimed at treating various conditions, including sports injuries and other chronic pain issues. The company's approach combines cutting-edge science with a commitment to improving patient outcomes, making it a key player in the healthcare landscape. JanOne's vision includes not only treating pain but also enhancing the quality of life for patients through innovative and effective solutions. With a dedicated team of professionals and a robust pipeline of products, JanOne is poised to make a significant impact in the biotech industry, especially in the realm of pain management and addiction treatment.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Las Vegas, Nevada, USA",
+    "founded": "2017",
+    "website": "https://www.janone.com",
+    "ceo": "Dr. Tony Isaac",
+    "social_media": {
+        "twitter": "https://twitter.com/JanOneInc",
+        "linkedin": "https://www.linkedin.com/company/janone/"
+    },
+    "investor_relations": "https://www.janone.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Dr. Tony Isaac",
+            "position": "CEO"
+        },
+        {
+            "name": "Ruben C. Duran",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pain Management",
+            "products": [
+                "JAN101"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "JanOne Inc. | Innovative Solutions for Pain Management",
+        "meta_description": "Explore JanOne Inc., a biotechnology leader focused on developing safer alternatives for pain treatment. Discover our commitment to addressing the opioid crisis.",
+        "keywords": [
+            "JanOne",
+            "Biotechnology",
+            "Pain Management",
+            "Opioid Alternatives",
+            "Chronic Pain Treatment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is JanOne known for?",
+            "answer": "JanOne is known for developing innovative therapeutics for pain management and addressing addiction."
+        },
+        {
+            "question": "Who is the CEO of JanOne?",
+            "answer": "Dr. Tony Isaac is the CEO of JanOne Inc."
+        },
+        {
+            "question": "Where is JanOne headquartered?",
+            "answer": "JanOne is headquartered in Las Vegas, Nevada, USA."
+        },
+        {
+            "question": "What is JanOne's main product?",
+            "answer": "JanOne's main product is JAN101, a formulation aimed at pain management without addiction."
+        },
+        {
+            "question": "When was JanOne founded?",
+            "answer": "JanOne was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "ACAD",
+        "VRTX",
+        "ZGNX",
+        "PFE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "SAP",
+    "name": "SAP SE",
+    "description": "SAP SE is a global leader in enterprise application software, helping businesses of all sizes and industries run more efficiently and effectively. Founded in 1972 in Walldorf, Germany, SAP has transformed the way companies operate through its innovative software solutions that integrate various business processes. The company is best known for its ERP (Enterprise Resource Planning) software, which provides organizations with a unified system to manage their operations, finance, supply chain, and human resources. SAP's portfolio includes a range of products such as SAP S/4HANA, SAP Business Technology Platform, and SAP Analytics Cloud, all designed to enable businesses to harness data for better decision-making. With a strong focus on sustainability and digital transformation, SAP is committed to helping its customers innovate in a rapidly changing business landscape. The company also emphasizes cloud computing and artificial intelligence, as it seeks to empower organizations with real-time insights and automation capabilities. SAP's mission is to help the world run better and improve people's lives, making it a trusted partner for enterprises looking to thrive in the digital economy.",
+    "industry": [
+        "Software",
+        "Technology"
+    ],
+    "headquarters": "Walldorf, Germany",
+    "founded": "1972",
+    "website": "https://www.sap.com",
+    "ceo": "Christian Klein",
+    "social_media": {
+        "twitter": "https://twitter.com/SAP",
+        "linkedin": "https://www.linkedin.com/company/sap/"
+    },
+    "investor_relations": "https://www.sap.com/investors.html",
+    "key_executives": [
+        {
+            "name": "Christian Klein",
+            "position": "CEO"
+        },
+        {
+            "name": "Luka Mucic",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Enterprise Resource Planning",
+            "products": [
+                "SAP S/4HANA",
+                "SAP Business One"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "SAP Analytics Cloud",
+                "SAP SuccessFactors"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SAP SE | Enterprise Application Software",
+        "meta_description": "Explore SAP SE, the global leader in enterprise application software. Discover SAP's innovative solutions for business processes and digital transformation.",
+        "keywords": [
+            "SAP",
+            "Enterprise Software",
+            "ERP",
+            "Cloud Solutions",
+            "Business Technology",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SAP known for?",
+            "answer": "SAP is known for its enterprise application software, particularly its ERP solutions that help organizations manage their operations."
+        },
+        {
+            "question": "Who is the CEO of SAP?",
+            "answer": "Christian Klein is the CEO of SAP SE."
+        },
+        {
+            "question": "Where is SAP headquartered?",
+            "answer": "SAP is headquartered in Walldorf, Germany."
+        },
+        {
+            "question": "What are SAP's main products?",
+            "answer": "SAP's main products include SAP S/4HANA, SAP Analytics Cloud, and SAP SuccessFactors."
+        },
+        {
+            "question": "When was SAP founded?",
+            "answer": "SAP was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "ORCL",
+        "ADBE",
+        "IBM",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "TSLA"
+    ]
+}

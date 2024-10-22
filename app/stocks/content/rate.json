@@ -1,0 +1,92 @@
+{
+    "ticker": "RATE",
+    "name": "LendingTree, Inc.",
+    "description": "LendingTree, Inc. is a leading online marketplace that connects consumers with various financial service providers. Founded in 1996, LendingTree revolutionized the way consumers shop for financial products by providing a platform that allows users to compare offers from multiple lenders for mortgages, personal loans, credit cards, and other financial services. The company's mission is to empower consumers with the information and tools they need to make informed financial decisions. By facilitating competition among lenders, LendingTree helps consumers secure the best rates and terms available in the market. The platform not only simplifies the process of finding financial products but also offers valuable resources such as educational articles, calculators, and personalized recommendations. LendingTree has expanded its services over the years, incorporating technology and data analytics to enhance user experience and streamline the lending process. The company operates under various brands, including CompareCards, and has a strong presence in the digital lending space, making it a go-to destination for millions of consumers seeking financial solutions.",
+    "industry": [
+        "Financial Services",
+        "Technology"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1996",
+    "website": "https://www.lendingtree.com",
+    "ceo": "Doug Lebda",
+    "social_media": {
+        "twitter": "https://twitter.com/LendingTree",
+        "linkedin": "https://www.linkedin.com/company/lendingtree/",
+        "facebook": "https://www.facebook.com/LendingTree"
+    },
+    "investor_relations": "https://investors.lendingtree.com",
+    "key_executives": [
+        {
+            "name": "Doug Lebda",
+            "position": "CEO"
+        },
+        {
+            "name": "Kerry B. Vance",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Loans",
+            "products": [
+                "Mortgage Loans",
+                "Personal Loans",
+                "Home Equity Loans"
+            ]
+        },
+        {
+            "category": "Credit Products",
+            "products": [
+                "Credit Cards",
+                "Debt Consolidation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "LendingTree, Inc. | Compare Financial Products & Save",
+        "meta_description": "LendingTree, Inc. is your go-to online marketplace for comparing financial products. Find the best rates on mortgages, personal loans, credit cards, and more.",
+        "keywords": [
+            "LendingTree",
+            "Financial Products",
+            "Loans",
+            "Credit Cards",
+            "Mortgage Rates",
+            "Consumer Finance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does LendingTree provide?",
+            "answer": "LendingTree provides a platform for comparing various financial products including mortgages, personal loans, and credit cards."
+        },
+        {
+            "question": "Who is the CEO of LendingTree?",
+            "answer": "Doug Lebda is the CEO of LendingTree, Inc."
+        },
+        {
+            "question": "Where is LendingTree headquartered?",
+            "answer": "LendingTree is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "How does LendingTree help consumers?",
+            "answer": "LendingTree helps consumers by allowing them to compare offers from multiple lenders, ensuring they get the best rates and terms."
+        },
+        {
+            "question": "When was LendingTree founded?",
+            "answer": "LendingTree was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "ZNGA",
+        "FICO",
+        "CNC",
+        "SOFI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

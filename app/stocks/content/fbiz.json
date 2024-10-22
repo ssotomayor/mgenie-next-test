@@ -1,0 +1,87 @@
+{
+    "ticker": "FBIZ",
+    "name": "First Business Financial Services, Inc.",
+    "description": "First Business Financial Services, Inc. is a financial services company that provides a range of banking and financial solutions primarily focused on the needs of businesses and individuals. Established in 1996 and headquartered in Madison, Wisconsin, the company operates through its subsidiaries, including First Business Bank, which offers commercial banking, private banking, and wealth management services. The firm is dedicated to delivering personalized service and tailored financial solutions to its clients, fostering long-term relationships built on trust and expertise. First Business Bank specializes in commercial lending, treasury management, and deposit services, with a commitment to helping clients achieve their financial goals through proactive advice and innovative banking solutions. In addition to banking services, the company provides investment advisory services, financial planning, and retirement planning through its wealth management division. With a strong focus on the Midwest market and a reputation for exceptional customer service, First Business Financial Services continues to grow and adapt to the evolving financial landscape, ensuring that it remains a trusted partner for businesses and individuals alike.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Madison, Wisconsin, USA",
+    "founded": "1996",
+    "website": "https://www.firstbusiness.com",
+    "ceo": "Corey Chambas",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstBusiness",
+        "linkedin": "https://www.linkedin.com/company/first-business-financial-services-inc/"
+    },
+    "investor_relations": "https://www.firstbusiness.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Corey Chambas",
+            "position": "CEO"
+        },
+        {
+            "name": "Jodie A. Achenbach",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Commercial Loans",
+                "Treasury Management",
+                "Deposit Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advisory",
+                "Financial Planning",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Business Financial Services, Inc. | Banking and Financial Solutions",
+        "meta_description": "Explore First Business Financial Services, Inc., a leading provider of banking and financial solutions focused on businesses and individuals. Discover our services and commitment to client success.",
+        "keywords": [
+            "First Business",
+            "Banking",
+            "Financial Services",
+            "Commercial Loans",
+            "Wealth Management",
+            "Treasury Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Business Financial Services offer?",
+            "answer": "First Business Financial Services offers commercial banking, private banking, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of First Business Financial Services?",
+            "answer": "Corey Chambas is the CEO of First Business Financial Services, Inc."
+        },
+        {
+            "question": "Where is First Business Financial Services headquartered?",
+            "answer": "First Business Financial Services is headquartered in Madison, Wisconsin, USA."
+        },
+        {
+            "question": "When was First Business Financial Services founded?",
+            "answer": "First Business Financial Services was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "CFR",
+        "WSBF",
+        "FHN"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "PNC"
+    ]
+}

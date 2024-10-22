@@ -1,0 +1,89 @@
+{
+    "ticker": "DUKX",
+    "name": "Duke Energy Corporation",
+    "description": "Duke Energy Corporation is one of the largest electric power holding companies in the United States, headquartered in Charlotte, North Carolina. Established in 1904, the company primarily operates in the generation, transmission, and distribution of electricity to approximately 7.7 million customers across six states in the Southeast and Midwest. Duke Energy is committed to providing reliable, affordable, and clean energy solutions, and is actively transitioning its energy generation portfolio to incorporate more renewable energy sources, such as solar and wind. The company has set ambitious goals to reduce carbon emissions and increase its renewable generation capacity, aiming for a net-zero carbon emissions target by 2050. Furthermore, Duke Energy plays a vital role in supporting local communities through various initiatives focused on sustainability, education, and economic development. The company is also involved in natural gas distribution and is making strides in energy storage and smart grid technology. Through innovation and commitment to sustainable practices, Duke Energy is positioned to meet the evolving energy needs of its customers while contributing to a cleaner, more sustainable energy future.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.duke-energy.com",
+    "ceo": "Lynn Good",
+    "social_media": {
+        "twitter": "https://twitter.com/DukeEnergy",
+        "linkedin": "https://www.linkedin.com/company/duke-energy-corporation/",
+        "facebook": "https://www.facebook.com/DukeEnergy"
+    },
+    "investor_relations": "https://investors.duke-energy.com",
+    "key_executives": [
+        {
+            "name": "Lynn Good",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Young",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Renewable Energy",
+                "Natural Gas",
+                "Nuclear Energy"
+            ]
+        },
+        {
+            "category": "Natural Gas Distribution",
+            "products": [
+                "Natural Gas Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Duke Energy Corporation | Leading Electric Power Company",
+        "meta_description": "Duke Energy Corporation is a major electric power holding company in the U.S., focused on renewable energy and sustainable practices. Learn about Duke Energy's commitment to clean energy and its impact on the utility industry.",
+        "keywords": [
+            "Duke Energy",
+            "Electric Utilities",
+            "Renewable Energy",
+            "Sustainable Practices",
+            "Energy Transition"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Duke Energy provide?",
+            "answer": "Duke Energy provides electricity generation, transmission, and distribution services, as well as natural gas distribution."
+        },
+        {
+            "question": "Who is the CEO of Duke Energy?",
+            "answer": "Lynn Good is the CEO of Duke Energy Corporation."
+        },
+        {
+            "question": "Where is Duke Energy headquartered?",
+            "answer": "Duke Energy is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are Duke Energy's primary energy sources?",
+            "answer": "Duke Energy's primary energy sources include nuclear, natural gas, coal, and renewable energy like solar and wind."
+        },
+        {
+            "question": "When was Duke Energy founded?",
+            "answer": "Duke Energy was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "SO",
+        "DTE",
+        "ED"
+    ],
+    "related_stocks": [
+        "AEP",
+        "NEE",
+        "XEL",
+        "ES"
+    ]
+}

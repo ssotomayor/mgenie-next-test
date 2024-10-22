@@ -1,0 +1,88 @@
+{
+    "ticker": "PUK",
+    "name": "Prudential plc",
+    "description": "Prudential plc is a leading international financial services group, providing a wide range of financial products and services, including life insurance, asset management, and retirement solutions. Founded in 1848 and headquartered in London, UK, Prudential has established a strong global presence, particularly in Asia, the US, and the UK. The company's mission is to help customers achieve their financial goals by offering innovative and tailored financial solutions that meet their needs at different life stages. Prudential operates through various segments, including Prudential UK, Jackson National Life (USA), and Prudential Asia, each focusing on delivering high-quality services and products to their respective markets. The company is committed to responsible business practices and sustainability, aiming to make a positive impact on society and the environment through its investments and operations. With a strong focus on customer-centricity and digital transformation, Prudential continues to evolve and adapt to the changing financial landscape, ensuring it remains a trusted partner in financial security and wealth management.",
+    "industry": [
+        "Financial Services",
+        "Insurance",
+        "Asset Management"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1848",
+    "website": "https://www.prudential.co.uk",
+    "ceo": "Mark FitzPatrick",
+    "social_media": {
+        "twitter": "https://twitter.com/Prudentialplc",
+        "linkedin": "https://www.linkedin.com/company/prudential-plc/"
+    },
+    "investor_relations": "https://ir.prudential.co.uk",
+    "key_executives": [
+        {
+            "name": "Mark FitzPatrick",
+            "position": "CEO"
+        },
+        {
+            "name": "Nicola H. E. Hurst",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "Health Insurance",
+                "Annuities"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Mutual Funds",
+                "Pension Funds"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Prudential plc | Financial Services and Insurance Solutions",
+        "meta_description": "Explore Prudential plc, a leading international financial services group offering insurance, asset management, and retirement solutions.",
+        "keywords": [
+            "Prudential",
+            "Insurance",
+            "Financial Services",
+            "Asset Management",
+            "Life Insurance",
+            "Retirement Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Prudential offer?",
+            "answer": "Prudential offers a range of financial services including life insurance, health insurance, asset management, and retirement solutions."
+        },
+        {
+            "question": "Who is the CEO of Prudential?",
+            "answer": "Mark FitzPatrick is the CEO of Prudential plc."
+        },
+        {
+            "question": "Where is Prudential headquartered?",
+            "answer": "Prudential is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "When was Prudential founded?",
+            "answer": "Prudential was founded in 1848."
+        }
+    ],
+    "competitors": [
+        "LGEN",
+        "AV",
+        "PRU",
+        "AIG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "JPM",
+        "MSFT"
+    ]
+}

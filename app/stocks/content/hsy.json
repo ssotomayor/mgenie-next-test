@@ -1,0 +1,101 @@
+{
+    "ticker": "HSY",
+    "name": "The Hershey Company",
+    "description": "The Hershey Company, commonly known as Hershey's, is an iconic American manufacturer of chocolate and confectionery products. Founded in 1894 by Milton S. Hershey, the company is headquartered in Hershey, Pennsylvania. Hershey's is best known for its chocolate bars, including the classic Hershey's Milk Chocolate Bar, as well as a variety of other confectionery items such as Reese's Peanut Butter Cups, Kit Kat, and Twizzlers. The company has a rich history of innovation and brand development, consistently expanding its product offerings to include snacks, baking products, and seasonal treats. Hershey's commitment to quality and sustainability is evident in its sourcing practices, particularly in cocoa and sugar. The company aims to foster a positive impact in the communities where it operates through its philanthropic initiatives, including the Hershey Trust Company, which supports children's education and welfare. Hershey's is also actively pursuing sustainability efforts in its operations, focusing on reducing its environmental footprint and promoting responsible sourcing. With a strong portfolio of trusted brands and a dedicated workforce, Hershey's continues to be a leader in the global confectionery market, operating in over 70 countries worldwide.",
+    "industry": [
+        "Food & Beverage",
+        "Confectionery"
+    ],
+    "headquarters": "Hershey, Pennsylvania, USA",
+    "founded": "1894",
+    "website": "https://www.thehersheycompany.com",
+    "ceo": "Michele Buck",
+    "social_media": {
+        "twitter": "https://twitter.com/hersheys",
+        "linkedin": "https://www.linkedin.com/company/thehersheycompany/",
+        "instagram": "https://www.instagram.com/hersheys/",
+        "facebook": "https://www.facebook.com/Hersheys"
+    },
+    "investor_relations": "https://ir.hersheycompany.com",
+    "key_executives": [
+        {
+            "name": "Michele Buck",
+            "position": "CEO"
+        },
+        {
+            "name": "Megan M. B. McLoughlin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Chocolate",
+            "products": [
+                "Hershey's Milk Chocolate Bar",
+                "Reese's Peanut Butter Cups",
+                "Kit Kat"
+            ]
+        },
+        {
+            "category": "Snacks",
+            "products": [
+                "Twizzlers",
+                "Hershey's Cookies 'n' Creme"
+            ]
+        },
+        {
+            "category": "Baking Products",
+            "products": [
+                "Hershey's Cocoa",
+                "Chocolate Chips"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Hershey Company | Chocolate and Confectionery Leader",
+        "meta_description": "Explore The Hershey Company, a leader in chocolate and confectionery. Discover Hershey's history, product offerings, and commitment to sustainability.",
+        "keywords": [
+            "Hershey",
+            "Chocolate",
+            "Confectionery",
+            "Snacks",
+            "Sustainability",
+            "Reese's",
+            "Kit Kat"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is The Hershey Company known for?",
+            "answer": "The Hershey Company is known for its chocolate products and confectionery, including iconic brands like Hershey's, Reese's, and Kit Kat."
+        },
+        {
+            "question": "Who is the CEO of The Hershey Company?",
+            "answer": "Michele Buck is the CEO of The Hershey Company."
+        },
+        {
+            "question": "Where is The Hershey Company headquartered?",
+            "answer": "The Hershey Company is headquartered in Hershey, Pennsylvania, USA."
+        },
+        {
+            "question": "What are some popular products from Hershey's?",
+            "answer": "Popular products include Hershey's Milk Chocolate Bar, Reese's Peanut Butter Cups, Kit Kat, and Twizzlers."
+        },
+        {
+            "question": "When was The Hershey Company founded?",
+            "answer": "The Hershey Company was founded in 1894."
+        }
+    ],
+    "competitors": [
+        "MNST",
+        "PEP",
+        "KO",
+        "CPB"
+    ],
+    "related_stocks": [
+        "GIS",
+        "K",
+        "MDLZ",
+        "HSIC"
+    ]
+}

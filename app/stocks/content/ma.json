@@ -1,0 +1,103 @@
+{
+    "ticker": "MA",
+    "name": "Mastercard Incorporated",
+    "description": "Mastercard Incorporated is a global technology company in the payments industry, connecting consumers, financial institutions, and businesses through a wide range of payment solutions. Founded in 1966, Mastercard provides a secure and efficient payment infrastructure that enables transactions in more than 210 countries and territories. The company's innovative technologies include digital payments, contactless solutions, and fraud protection, empowering consumers and businesses to engage in seamless transactions. Mastercard is not just about credit and debit cards; it also offers a suite of services that include data analytics, consulting, and cybersecurity solutions, helping businesses optimize their operations and improve customer experiences. With a commitment to financial inclusion, Mastercard aims to bring more people into the digital economy, providing access to essential services for underserved communities globally. The company continues to invest in cutting-edge technologies like blockchain and artificial intelligence to enhance its offerings and stay ahead in a rapidly evolving payment landscape. Mastercard's mission is to build a sustainable, inclusive digital economy that benefits everyone, everywhere.",
+    "industry": [
+        "Financial Services",
+        "Payments"
+    ],
+    "headquarters": "Purchase, New York, USA",
+    "founded": "1966",
+    "website": "https://www.mastercard.com",
+    "ceo": "Michael Miebach",
+    "social_media": {
+        "twitter": "https://twitter.com/Mastercard",
+        "linkedin": "https://www.linkedin.com/company/mastercard/",
+        "instagram": "https://www.instagram.com/mastercard",
+        "youtube": "https://www.youtube.com/user/mastercard"
+    },
+    "investor_relations": "https://investor.mastercard.com",
+    "key_executives": [
+        {
+            "name": "Michael Miebach",
+            "position": "CEO"
+        },
+        {
+            "name": "Sachin Mehra",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/sachin-mehra-5a4b7b2/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Payment Solutions",
+            "products": [
+                "Credit Cards",
+                "Debit Cards",
+                "Prepaid Cards",
+                "Digital Wallets"
+            ]
+        },
+        {
+            "category": "Fraud & Security Solutions",
+            "products": [
+                "Mastercard SecureCode",
+                "Identity Theft Protection"
+            ]
+        },
+        {
+            "category": "Data & Analytics",
+            "products": [
+                "Insights & Analytics",
+                "Consulting Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Mastercard Incorporated | Leading Global Payment Solutions",
+        "meta_description": "Explore Mastercard Incorporated, a global leader in payment solutions, providing innovative technology and services to enhance transactions and financial inclusion.",
+        "keywords": [
+            "Mastercard",
+            "Payment Solutions",
+            "Digital Payments",
+            "Financial Services",
+            "Credit Cards",
+            "Debit Cards"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Mastercard do?",
+            "answer": "Mastercard provides payment solutions and technology to facilitate secure transactions for consumers and businesses worldwide."
+        },
+        {
+            "question": "Who is the CEO of Mastercard?",
+            "answer": "Michael Miebach is the CEO of Mastercard Incorporated."
+        },
+        {
+            "question": "Where is Mastercard headquartered?",
+            "answer": "Mastercard is headquartered in Purchase, New York, USA."
+        },
+        {
+            "question": "What are Mastercard's main products?",
+            "answer": "Mastercard's main products include credit cards, debit cards, prepaid cards, and various payment solutions."
+        },
+        {
+            "question": "When was Mastercard founded?",
+            "answer": "Mastercard was founded in 1966."
+        }
+    ],
+    "competitors": [
+        "V",
+        "AXP",
+        "DFS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "ticker": "SKY",
+    "name": "Sky Group",
+    "description": "Sky Group is a leading telecommunications and media company based in the United Kingdom, renowned for its innovative approach to broadcasting and digital services. Established in 1989, Sky has transformed the entertainment landscape by providing a wide array of television channels, streaming services, and broadband internet solutions. The company operates Sky TV, which offers a diverse selection of channels ranging from news and sports to movies and documentaries, catering to millions of subscribers across Europe. In addition to traditional broadcasting, Sky has made significant strides in online streaming through its Sky Go and NOW services, allowing customers to watch their favorite shows and sports events live or on-demand. Sky is also committed to sustainability and social responsibility, investing in renewable energy initiatives and supporting various community programs. The company continually seeks to enhance the customer experience with cutting-edge technology, including 4K Ultra HD broadcasts and advanced user interfaces. As a prominent player in the media industry, Sky Group aims to connect audiences with compelling content while adapting to the ever-evolving digital landscape.",
+    "industry": [
+        "Telecommunications",
+        "Media"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1989",
+    "website": "https://www.skygroup.sky/",
+    "ceo": "Dana Strong",
+    "social_media": {
+        "twitter": "https://twitter.com/SkyGroup",
+        "linkedin": "https://www.linkedin.com/company/sky-group/"
+    },
+    "investor_relations": "https://www.skygroup.sky/investors",
+    "key_executives": [
+        {
+            "name": "Dana Strong",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew Griffith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Television Services",
+            "products": [
+                "Sky TV",
+                "Sky Sports",
+                "Sky Cinema"
+            ]
+        },
+        {
+            "category": "Streaming Services",
+            "products": [
+                "Sky Go",
+                "NOW"
+            ]
+        },
+        {
+            "category": "Broadband",
+            "products": [
+                "Sky Broadband",
+                "Sky Fibre"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sky Group | Leading Telecommunications and Media Company",
+        "meta_description": "Discover Sky Group, a leading telecommunications and media company in the UK, offering innovative television, streaming, and broadband services.",
+        "keywords": [
+            "Sky Group",
+            "Telecommunications",
+            "Media",
+            "Streaming Services",
+            "Sky TV",
+            "Sky Sports"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Sky Group provide?",
+            "answer": "Sky Group provides television services, streaming services, and broadband internet solutions."
+        },
+        {
+            "question": "Who is the CEO of Sky Group?",
+            "answer": "Dana Strong is the CEO of Sky Group."
+        },
+        {
+            "question": "Where is Sky Group headquartered?",
+            "answer": "Sky Group is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are Sky's main products?",
+            "answer": "Sky's main products include Sky TV, Sky Sports, NOW streaming service, and Sky Broadband."
+        },
+        {
+            "question": "When was Sky Group founded?",
+            "answer": "Sky Group was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "VOD",
+        "DIS",
+        "CMCSA",
+        "NFLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "FB"
+    ]
+}

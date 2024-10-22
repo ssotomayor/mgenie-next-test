@@ -1,0 +1,89 @@
+{
+    "ticker": "HAL",
+    "name": "Halliburton Company",
+    "description": "Halliburton Company is one of the world's largest providers of products and services to the energy industry. Founded in 1919 by Erle Halliburton, the company has established a reputation for innovation and excellence in providing solutions for the exploration, development, and production of oil and natural gas. Halliburton operates in over 70 countries and offers a wide array of services, including drilling, evaluation, completion, and production optimization. The company is recognized for its advanced technologies and commitment to safety and sustainability. Halliburton's operations are divided into two main segments: Completion and Production, and Drilling and Evaluation, catering to a diverse range of customers from major integrated oil companies to independent operators. With ongoing investments in research and development, Halliburton is focused on delivering efficient and sustainable energy solutions that meet the evolving demands of the global energy market. The company\u2019s mission is to enhance the performance of its customers by providing innovative technologies and services that drive efficiencies and reduce costs in oil and gas operations.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1919",
+    "website": "https://www.halliburton.com",
+    "ceo": "Jeff Miller",
+    "social_media": {
+        "twitter": "https://twitter.com/Halliburton",
+        "linkedin": "https://www.linkedin.com/company/halliburton",
+        "youtube": "https://www.youtube.com/user/Halliburton"
+    },
+    "investor_relations": "https://ir.halliburton.com",
+    "key_executives": [
+        {
+            "name": "Jeff Miller",
+            "position": "CEO"
+        },
+        {
+            "name": "Chad C. Deaton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Completion and Production",
+            "products": [
+                "Cementing Services",
+                "Stimulation Services",
+                "Production Enhancement"
+            ]
+        },
+        {
+            "category": "Drilling and Evaluation",
+            "products": [
+                "Drilling Services",
+                "Wireline Services",
+                "Reservoir Evaluation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Halliburton Company | Energy Services and Solutions",
+        "meta_description": "Explore Halliburton Company, a leading provider of energy services and solutions to the oil and gas industry. Learn about Halliburton's innovative technologies and commitment to sustainability.",
+        "keywords": [
+            "Halliburton",
+            "Energy Services",
+            "Oil and Gas",
+            "Drilling",
+            "Completion",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Halliburton provide?",
+            "answer": "Halliburton provides a wide range of services including drilling, evaluation, completion, and production optimization for the energy industry."
+        },
+        {
+            "question": "Who is the CEO of Halliburton?",
+            "answer": "Jeff Miller is the CEO of Halliburton Company."
+        },
+        {
+            "question": "Where is Halliburton headquartered?",
+            "answer": "Halliburton is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Halliburton founded?",
+            "answer": "Halliburton was founded in 1919."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "BKR",
+        "NBR",
+        "PTEN"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "OXY",
+        "COP"
+    ]
+}

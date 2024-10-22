@@ -1,0 +1,88 @@
+{
+    "ticker": "EIX",
+    "name": "Edison International",
+    "description": "Edison International is the parent company of Southern California Edison (SCE), one of the largest electric utilities in the United States. Founded in 1886, Edison International is headquartered in Rosemead, California. The company provides electric service to approximately 15 million people across a 50,000-square-mile service area in Southern California. Edison International is committed to delivering safe, reliable, and affordable electricity while transitioning to a cleaner energy future. The company has set ambitious goals to reduce greenhouse gas emissions and increase its use of renewable energy sources, such as wind and solar power. Through innovative programs and technologies, Edison is focused on modernizing the electric grid, improving energy efficiency, and enhancing customer service. The company is also involved in various community initiatives, focusing on environmental stewardship, education, and public safety. As the energy landscape evolves, Edison International is at the forefront of addressing climate change and investing in sustainable energy solutions to ensure a resilient and sustainable future for its customers and the communities it serves.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Rosemead, California, USA",
+    "founded": "1886",
+    "website": "https://www.edison.com",
+    "ceo": "Pedro Pizarro",
+    "social_media": {
+        "twitter": "https://twitter.com/SCE",
+        "linkedin": "https://www.linkedin.com/company/edison-international"
+    },
+    "investor_relations": "https://investor.edison.com",
+    "key_executives": [
+        {
+            "name": "Pedro Pizarro",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott M. Kline",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Utility Services",
+            "products": [
+                "Electricity Transmission",
+                "Electricity Distribution"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Solar Energy Solutions",
+                "Wind Energy Projects"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Edison International | Leading Electric Utility in California",
+        "meta_description": "Edison International is committed to delivering reliable electricity and leading the way in renewable energy solutions. Discover our initiatives for a sustainable future.",
+        "keywords": [
+            "Edison International",
+            "Southern California Edison",
+            "Electric Utility",
+            "Renewable Energy",
+            "Clean Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Edison International provide?",
+            "answer": "Edison International provides electric utility services, including electricity transmission and distribution, along with renewable energy solutions."
+        },
+        {
+            "question": "Who is the CEO of Edison International?",
+            "answer": "Pedro Pizarro is the CEO of Edison International."
+        },
+        {
+            "question": "Where is Edison International headquartered?",
+            "answer": "Edison International is headquartered in Rosemead, California, USA."
+        },
+        {
+            "question": "What are Edison International's main goals?",
+            "answer": "Edison International aims to transition to a cleaner energy future by reducing greenhouse gas emissions and increasing renewable energy usage."
+        },
+        {
+            "question": "When was Edison International founded?",
+            "answer": "Edison International was founded in 1886."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "NEE",
+        "XEL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

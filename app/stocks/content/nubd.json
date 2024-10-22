@@ -1,0 +1,98 @@
+{
+    "ticker": "NUBD",
+    "name": "Nubank",
+    "description": "Nubank is a leading financial technology company based in Brazil, renowned for its innovative solutions in the banking sector. Founded in 2013 by David V\u00e9lez, Cristina Junqueira, and Edward Wible, Nubank aims to revolutionize the way people manage their finances by offering simple, transparent, and accessible banking services. The company started with the introduction of a no-fee credit card managed through a mobile app, quickly gaining traction among the Brazilian population frustrated with traditional banking systems. Beyond credit cards, Nubank has expanded its product offerings to include digital accounts, personal loans, and investment options, all designed to empower customers with greater control over their financial lives. Nubank\u2019s user-friendly interface and commitment to eliminating hidden fees and bureaucracy have positioned it as a preferred choice for millions of customers in Brazil and beyond. In recent years, Nubank has also expanded into other Latin American markets, including Mexico and Colombia, aiming to provide inclusive financial services to underserved populations. With a mission to simplify financial services and promote financial literacy, Nubank is at the forefront of a digital banking revolution, leveraging technology to enhance customer experiences and build a more inclusive financial ecosystem.",
+    "industry": [
+        "Financial Technology",
+        "Banking"
+    ],
+    "headquarters": "S\u00e3o Paulo, Brazil",
+    "founded": "2013",
+    "website": "https://www.nubank.com.br",
+    "ceo": "David V\u00e9lez",
+    "social_media": {
+        "twitter": "https://twitter.com/nubank",
+        "linkedin": "https://www.linkedin.com/company/nubank",
+        "instagram": "https://www.instagram.com/nubank",
+        "facebook": "https://www.facebook.com/nubank"
+    },
+    "investor_relations": "https://www.nubank.com.br/investors",
+    "key_executives": [
+        {
+            "name": "David V\u00e9lez",
+            "position": "CEO"
+        },
+        {
+            "name": "Cristina Junqueira",
+            "position": "Co-founder and CPO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Products",
+            "products": [
+                "No-Fee Credit Card"
+            ]
+        },
+        {
+            "category": "Banking Services",
+            "products": [
+                "Digital Account",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Investment Options"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nubank | Revolutionizing Banking in Latin America",
+        "meta_description": "Explore Nubank, the leading fintech company in Brazil, offering innovative, no-fee banking solutions. Discover how Nubank is transforming financial services.",
+        "keywords": [
+            "Nubank",
+            "Fintech",
+            "Digital Banking",
+            "Brazil",
+            "No-Fee Credit Card",
+            "Personal Loans",
+            "Investment Options"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Nubank offer?",
+            "answer": "Nubank offers no-fee credit cards, digital accounts, personal loans, and investment options."
+        },
+        {
+            "question": "Who founded Nubank?",
+            "answer": "Nubank was founded by David V\u00e9lez, Cristina Junqueira, and Edward Wible."
+        },
+        {
+            "question": "Where is Nubank headquartered?",
+            "answer": "Nubank is headquartered in S\u00e3o Paulo, Brazil."
+        },
+        {
+            "question": "When was Nubank founded?",
+            "answer": "Nubank was founded in 2013."
+        },
+        {
+            "question": "What is Nubank's mission?",
+            "answer": "Nubank's mission is to simplify financial services and promote financial literacy."
+        }
+    ],
+    "competitors": [
+        "PYPL",
+        "SQ",
+        "AFRM",
+        "LC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

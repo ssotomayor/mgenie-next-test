@@ -1,0 +1,82 @@
+{
+    "ticker": "HQI",
+    "name": "Horizon Quantum Computing, Inc.",
+    "description": "Horizon Quantum Computing, Inc. is at the forefront of quantum technology, specializing in the development of software solutions that harness the power of quantum computing to solve complex problems across various industries. Founded in 2018 by a team of quantum physicists and computer scientists, Horizon aims to make quantum computing accessible and practical for businesses and researchers alike. The company focuses on creating tools and platforms that enable users to develop quantum algorithms and applications without requiring in-depth knowledge of quantum mechanics. Their flagship product, the Horizon Compiler, simplifies the process of converting classical algorithms into quantum-ready formats, facilitating a smoother transition into the quantum era. Horizon's mission is to empower organizations with groundbreaking computational capabilities that can enhance problem-solving and innovation. With partnerships across the academic and industrial sectors, Horizon is committed to advancing quantum research and applications, paving the way for discoveries that can transform sectors such as finance, pharmaceuticals, and materials science. The company is dedicated to educating the next generation of quantum engineers and scientists, fostering a robust ecosystem for quantum technology development.",
+    "industry": [
+        "Technology",
+        "Quantum Computing"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2018",
+    "website": "https://www.horizonquantum.com",
+    "ceo": "Dr. Alice Chen",
+    "social_media": {
+        "twitter": "https://twitter.com/horizonquantum",
+        "linkedin": "https://www.linkedin.com/company/horizon-quantum-computing/"
+    },
+    "investor_relations": "https://ir.horizonquantum.com",
+    "key_executives": [
+        {
+            "name": "Dr. Alice Chen",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. Mark Lee",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Software",
+            "products": [
+                "Horizon Compiler",
+                "Quantum Algorithm Development Kit"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Horizon Quantum Computing, Inc. | Innovating Quantum Technology",
+        "meta_description": "Explore Horizon Quantum Computing, Inc., a leader in quantum software solutions. Discover our products, mission, and impact on the future of computing.",
+        "keywords": [
+            "Horizon Quantum",
+            "Quantum Computing",
+            "Quantum Software",
+            "Horizon Compiler",
+            "Quantum Algorithms"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Horizon Quantum Computing do?",
+            "answer": "Horizon Quantum Computing develops software solutions that make quantum computing accessible and practical for various industries."
+        },
+        {
+            "question": "Who is the CEO of Horizon Quantum Computing?",
+            "answer": "Dr. Alice Chen is the CEO of Horizon Quantum Computing, Inc."
+        },
+        {
+            "question": "Where is Horizon Quantum Computing headquartered?",
+            "answer": "Horizon Quantum Computing is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Horizon's main products?",
+            "answer": "Horizon\u2019s main products include the Horizon Compiler and Quantum Algorithm Development Kit."
+        },
+        {
+            "question": "When was Horizon Quantum Computing founded?",
+            "answer": "Horizon Quantum Computing was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "GOOGL",
+        "MSFT",
+        "RNG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "TSLA"
+    ]
+}

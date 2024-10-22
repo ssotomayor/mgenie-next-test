@@ -1,0 +1,102 @@
+{
+    "ticker": "COST",
+    "name": "Costco Wholesale Corporation",
+    "description": "Costco Wholesale Corporation is a leading global retailer known for its membership-only warehouse clubs. Founded in 1983 in Seattle, Washington, Costco operates on a unique business model that focuses on bulk purchasing, low prices, and a limited selection of high-quality products. The company\u2019s commitment to providing value to its members is evident in its range of offerings, which include groceries, electronics, clothing, and household goods, along with its own private label brand, Kirkland Signature. Costco has grown to become one of the largest retailers in the world, with hundreds of warehouse locations across various countries. The company's membership model not only fosters customer loyalty but also generates a significant portion of its revenue through membership fees. Costco is also recognized for its employee-friendly policies, offering competitive wages and benefits, which contributes to high employee satisfaction and retention. In addition to its core retail operations, Costco has diversified its services by offering pharmacy, optical, and travel services, enhancing the value proposition for its members. The company continues to innovate and adapt to changing market conditions, including expanding its e-commerce capabilities and enhancing its supply chain efficiency. With a strong focus on sustainability and community engagement, Costco aims to maintain its reputation as a trusted retailer while pursuing growth opportunities in both domestic and international markets.",
+    "industry": [
+        "Retail",
+        "Wholesale"
+    ],
+    "headquarters": "Issaquah, Washington, USA",
+    "founded": "1983",
+    "website": "https://www.costco.com",
+    "ceo": "Craig Jelinek",
+    "social_media": {
+        "twitter": "https://twitter.com/Costco",
+        "linkedin": "https://www.linkedin.com/company/costco-wholesale",
+        "facebook": "https://www.facebook.com/costco"
+    },
+    "investor_relations": "https://investor.costco.com",
+    "key_executives": [
+        {
+            "name": "Craig Jelinek",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard Galanti",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Grocery",
+            "products": [
+                "Fresh Produce",
+                "Meat and Seafood",
+                "Bakery Items"
+            ]
+        },
+        {
+            "category": "Electronics",
+            "products": [
+                "Televisions",
+                "Computers",
+                "Smartphones"
+            ]
+        },
+        {
+            "category": "Household Goods",
+            "products": [
+                "Cleaning Supplies",
+                "Furniture",
+                "Kitchenware"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Costco Wholesale Corporation | Leading Retailer and Warehouse Club",
+        "meta_description": "Explore Costco Wholesale Corporation, a global leader in retail and wholesale. Discover Costco's commitment to value, quality products, and member satisfaction.",
+        "keywords": [
+            "Costco",
+            "Wholesale",
+            "Retail",
+            "Membership",
+            "Kirkland Signature",
+            "Grocery",
+            "Bulk Purchasing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Costco known for?",
+            "answer": "Costco is known for its membership-only warehouse clubs that offer bulk purchasing at low prices."
+        },
+        {
+            "question": "Who is the CEO of Costco?",
+            "answer": "Craig Jelinek is the CEO of Costco Wholesale Corporation."
+        },
+        {
+            "question": "Where is Costco headquartered?",
+            "answer": "Costco is headquartered in Issaquah, Washington, USA."
+        },
+        {
+            "question": "What are Costco's main products?",
+            "answer": "Costco's main products include groceries, electronics, clothing, and household goods."
+        },
+        {
+            "question": "When was Costco founded?",
+            "answer": "Costco was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "WMT",
+        "TGT",
+        "BJ",
+        "KR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "WMT",
+        "TGT"
+    ]
+}

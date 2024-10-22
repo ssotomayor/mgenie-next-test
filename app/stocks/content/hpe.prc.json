@@ -1,0 +1,103 @@
+{
+    "ticker": "HPE.PRC",
+    "name": "Hewlett Packard Enterprise Company",
+    "description": "Hewlett Packard Enterprise Company (HPE) is a global technology leader focused on providing innovative solutions and services to businesses and organizations. Founded in 2015 as a spin-off from Hewlett-Packard, HPE specializes in enterprise products and services including servers, storage, networking, and software solutions designed to empower digital transformation. The company is committed to helping customers leverage data and technology to drive business outcomes, with a strong emphasis on hybrid cloud, edge computing, and data analytics. HPE's portfolio includes the HPE GreenLake platform, which offers a flexible, consumption-based IT model, enabling organizations to scale their infrastructure as needed. HPE also focuses on providing secure, intelligent edge solutions that enhance operational efficiency and improve customer experiences. With a dedicated approach to sustainability, HPE aims to minimize its environmental impact through responsible practices and innovative product designs. The company is headquartered in San Jose, California, and serves a diverse range of industries including healthcare, financial services, and telecommunications, making it a pivotal player in the IT sector.",
+    "industry": [
+        "Information Technology",
+        "Enterprise Solutions"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2015",
+    "website": "https://www.hpe.com",
+    "ceo": "Antonio Neri",
+    "social_media": {
+        "twitter": "https://twitter.com/hpe",
+        "linkedin": "https://www.linkedin.com/company/hewlett-packard-enterprise/"
+    },
+    "investor_relations": "https://investors.hpe.com",
+    "key_executives": [
+        {
+            "name": "Antonio Neri",
+            "position": "CEO"
+        },
+        {
+            "name": "Tarek Robbiati",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Servers",
+            "products": [
+                "HPE ProLiant",
+                "HPE Synergy"
+            ]
+        },
+        {
+            "category": "Storage",
+            "products": [
+                "HPE Nimble Storage",
+                "HPE 3PAR StoreServ"
+            ]
+        },
+        {
+            "category": "Networking",
+            "products": [
+                "HPE Aruba Networking"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "HPE GreenLake"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hewlett Packard Enterprise Company | IT Solutions and Services",
+        "meta_description": "Explore Hewlett Packard Enterprise (HPE), a leader in IT solutions and services. Discover how HPE helps businesses transform with innovative technology and services.",
+        "keywords": [
+            "HPE",
+            "Hewlett Packard Enterprise",
+            "IT Solutions",
+            "Enterprise Technology",
+            "Cloud Services",
+            "Hybrid Cloud",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does HPE specialize in?",
+            "answer": "HPE specializes in enterprise technology solutions including servers, storage, networking, and cloud services."
+        },
+        {
+            "question": "Who is the CEO of HPE?",
+            "answer": "Antonio Neri is the CEO of Hewlett Packard Enterprise Company."
+        },
+        {
+            "question": "Where is HPE headquartered?",
+            "answer": "HPE is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are HPE's main products?",
+            "answer": "HPE's main products include HPE ProLiant servers, HPE Nimble Storage, HPE Aruba Networking, and HPE GreenLake cloud solutions."
+        },
+        {
+            "question": "When was HPE founded?",
+            "answer": "HPE was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "ORCL",
+        "NTAP",
+        "CSCO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "ADBE"
+    ]
+}

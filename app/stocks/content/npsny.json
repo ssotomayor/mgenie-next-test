@@ -1,0 +1,85 @@
+{
+    "ticker": "NPSNY",
+    "name": "Nippon Steel Corporation",
+    "description": "Nippon Steel Corporation is one of the largest steel producers in the world, headquartered in Tokyo, Japan. Established in 1950, the company has been at the forefront of the steel industry, providing high-quality steel products and innovative solutions to a wide range of sectors including automotive, construction, and energy. Nippon Steel's commitment to technological advancement has led to the development of advanced steel materials that enhance energy efficiency and reduce environmental impact. The company operates numerous steelworks across Japan and has a global presence with subsidiaries and joint ventures in Asia, Europe, and the Americas. Nippon Steel is dedicated to sustainability and actively engages in initiatives to minimize carbon emissions and promote recycling within the steelmaking process. Their diverse product portfolio includes hot-rolled, cold-rolled, and coated steel sheets, as well as specialized products such as steel pipes and tubes. The company's mission revolves around contributing to society through the production of high-performance steel, supporting infrastructure development, and fostering technological innovation to meet the evolving needs of the global market.",
+    "industry": [
+        "Steel Manufacturing",
+        "Metals"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1950",
+    "website": "https://www.nipponsteel.com/en/",
+    "ceo": "Kosei Shindo",
+    "social_media": {
+        "twitter": "https://twitter.com/NipponSteel",
+        "linkedin": "https://www.linkedin.com/company/nippon-steel"
+    },
+    "investor_relations": "https://www.nipponsteel.com/en/ir/",
+    "key_executives": [
+        {
+            "name": "Kosei Shindo",
+            "position": "CEO"
+        },
+        {
+            "name": "Toshiro Nishiyama",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Steel Products",
+            "products": [
+                "Hot-Rolled Steel",
+                "Cold-Rolled Steel",
+                "Coated Steel",
+                "Steel Pipes and Tubes"
+            ]
+        },
+        {
+            "category": "Specialty Steel",
+            "products": [
+                "High-Strength Steel",
+                "Corrosion-Resistant Steel"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nippon Steel Corporation | Leading Global Steel Producer",
+        "meta_description": "Explore Nippon Steel Corporation, a global leader in steel manufacturing, committed to innovation, sustainability, and high-quality steel products for various industries.",
+        "keywords": [
+            "Nippon Steel",
+            "Steel Manufacturing",
+            "Metals",
+            "High-Performance Steel",
+            "Sustainable Steel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nippon Steel manufacture?",
+            "answer": "Nippon Steel manufactures a wide range of steel products including hot-rolled, cold-rolled, and coated steel, as well as specialty steel."
+        },
+        {
+            "question": "Where is Nippon Steel headquartered?",
+            "answer": "Nippon Steel is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "When was Nippon Steel founded?",
+            "answer": "Nippon Steel was founded in 1950."
+        },
+        {
+            "question": "Who is the CEO of Nippon Steel?",
+            "answer": "Kosei Shindo is the CEO of Nippon Steel Corporation."
+        }
+    ],
+    "competitors": [
+        "NUE",
+        "X",
+        "STLD"
+    ],
+    "related_stocks": [
+        "TSE:5401",
+        "TSE:5411",
+        "TSE:5711"
+    ]
+}

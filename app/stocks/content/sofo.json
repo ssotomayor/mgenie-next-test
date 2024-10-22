@@ -1,0 +1,91 @@
+{
+    "ticker": "SOFO",
+    "name": "Sofomo, Inc.",
+    "description": "Sofomo, Inc. is a rapidly growing technology company specializing in software development and IT consulting services. Founded in 2015, Sofomo aims to empower businesses by providing tailored software solutions that enhance operational efficiency and drive innovation. The company has built a strong reputation for its expertise in custom software development, mobile app creation, and cloud solutions. Sofomo serves a diverse clientele, ranging from startups to large enterprises, and focuses on industries such as finance, healthcare, and e-commerce. With a commitment to leveraging the latest technologies, including artificial intelligence and machine learning, Sofomo is dedicated to delivering high-quality products that meet the evolving needs of its customers. The company\u2019s mission is to simplify technology for businesses, enabling them to achieve their strategic goals through effective digital transformation. By fostering a culture of collaboration and continuous learning, Sofomo empowers its team to stay at the forefront of industry trends and deliver innovative solutions.",
+    "industry": [
+        "Technology",
+        "Software Development",
+        "IT Consulting"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.sofomo.com",
+    "ceo": "John Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/sofomo",
+        "linkedin": "https://www.linkedin.com/company/sofomo"
+    },
+    "investor_relations": "https://ir.sofomo.com",
+    "key_executives": [
+        {
+            "name": "John Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Custom Software Development",
+            "products": [
+                "Web Applications",
+                "Mobile Applications",
+                "Cloud Solutions"
+            ]
+        },
+        {
+            "category": "IT Consulting",
+            "products": [
+                "Digital Transformation Services",
+                "Technology Strategy Consulting"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sofomo, Inc. | Custom Software Development and IT Consulting",
+        "meta_description": "Explore Sofomo, Inc., a leader in custom software development and IT consulting. Discover how Sofomo can help your business achieve digital transformation.",
+        "keywords": [
+            "Sofomo",
+            "Software Development",
+            "IT Consulting",
+            "Digital Transformation",
+            "Custom Software",
+            "Mobile Apps"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Sofomo offer?",
+            "answer": "Sofomo offers custom software development, mobile app creation, and IT consulting services."
+        },
+        {
+            "question": "Who is the CEO of Sofomo?",
+            "answer": "John Doe is the CEO of Sofomo, Inc."
+        },
+        {
+            "question": "Where is Sofomo headquartered?",
+            "answer": "Sofomo is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What industries does Sofomo serve?",
+            "answer": "Sofomo serves various industries, including finance, healthcare, and e-commerce."
+        },
+        {
+            "question": "When was Sofomo founded?",
+            "answer": "Sofomo was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "CRM",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

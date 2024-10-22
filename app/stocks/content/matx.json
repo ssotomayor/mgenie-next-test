@@ -1,0 +1,89 @@
+{
+    "ticker": "MATX",
+    "name": "Matson, Inc.",
+    "description": "Matson, Inc. is a leading provider of ocean transportation and logistics services in the Pacific region, with a strong focus on serving the Hawaiian Islands, Alaska, and other Pacific islands. Founded in 1882, Matson has built a reputation for reliability and quality service, utilizing a modern fleet of vessels and a comprehensive network of terminals and logistics facilities. The company's services include container shipping, logistics, and intermodal services, facilitating the movement of goods between the U.S. mainland and the Pacific Islands. Matson is also committed to sustainable practices, investing in fuel-efficient vessels and environmentally friendly operations to minimize its carbon footprint. With over 140 years of experience, Matson continues to adapt to the evolving needs of its customers, leveraging technology and innovation to enhance its service offerings and maintain its competitive edge in the shipping and logistics industry.",
+    "industry": [
+        "Transportation",
+        "Logistics"
+    ],
+    "headquarters": "Honolulu, Hawaii, USA",
+    "founded": "1882",
+    "website": "https://www.matson.com",
+    "ceo": "Matt Cox",
+    "social_media": {
+        "twitter": "https://twitter.com/Matson_News",
+        "linkedin": "https://www.linkedin.com/company/matson/"
+    },
+    "investor_relations": "https://investors.matson.com",
+    "key_executives": [
+        {
+            "name": "Matt Cox",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Sean H. D. J. W. O'Hara",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Ocean Transportation",
+            "products": [
+                "Container Shipping",
+                "Logistics Services"
+            ]
+        },
+        {
+            "category": "Intermodal Services",
+            "products": [
+                "Drayage",
+                "Terminal Operations"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Matson, Inc. | Pacific Ocean Transportation and Logistics",
+        "meta_description": "Explore Matson, Inc., a leader in ocean transportation and logistics services in the Pacific, committed to sustainability and reliable service.",
+        "keywords": [
+            "Matson",
+            "Ocean Transportation",
+            "Logistics",
+            "Shipping",
+            "Hawaii",
+            "Container Shipping"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Matson do?",
+            "answer": "Matson provides ocean transportation and logistics services, primarily in the Pacific region."
+        },
+        {
+            "question": "Who is the CEO of Matson?",
+            "answer": "Matt Cox is the Chairman and CEO of Matson, Inc."
+        },
+        {
+            "question": "Where is Matson headquartered?",
+            "answer": "Matson is headquartered in Honolulu, Hawaii, USA."
+        },
+        {
+            "question": "What services does Matson offer?",
+            "answer": "Matson offers container shipping, logistics, intermodal services, and terminal operations."
+        },
+        {
+            "question": "When was Matson founded?",
+            "answer": "Matson was founded in 1882."
+        }
+    ],
+    "competitors": [
+        "XPO",
+        "UPS",
+        "FDX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

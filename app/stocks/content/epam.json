@@ -1,0 +1,91 @@
+{
+    "ticker": "EPAM",
+    "name": "EPAM Systems, Inc.",
+    "description": "EPAM Systems, Inc. is a leading global provider of digital platform engineering and software development services. Founded in 1993, EPAM has established itself as a trusted partner for businesses looking to innovate and transform their operations through technology. The company offers a wide array of services, including software engineering, cloud services, digital experience design, and consulting across various industries such as financial services, healthcare, and retail. EPAM is renowned for its ability to deliver complex projects at scale, leveraging a robust talent pool of skilled engineers and designers. The company operates in over 30 countries, providing localized expertise combined with a global delivery model. EPAM's commitment to excellence and continuous improvement has earned it recognition as a leader in the IT services sector, often cited by analyst firms for its innovative approaches and customer satisfaction. The company is also focused on investing in emerging technologies, such as artificial intelligence and machine learning, to help clients stay ahead in a rapidly changing digital landscape. EPAM's mission is to empower its clients to achieve their business goals through innovative solutions and to foster a culture of collaboration and creativity within its teams.",
+    "industry": [
+        "Information Technology",
+        "Software Development",
+        "Consulting"
+    ],
+    "headquarters": "Newtown, Pennsylvania, USA",
+    "founded": "1993",
+    "website": "https://www.epam.com",
+    "ceo": "Arkadiy Dobkin",
+    "social_media": {
+        "twitter": "https://twitter.com/EPAMSystems",
+        "linkedin": "https://www.linkedin.com/company/epam-systems",
+        "facebook": "https://www.facebook.com/EPAMSystems",
+        "youtube": "https://www.youtube.com/user/EPAMSystems"
+    },
+    "investor_relations": "https://investors.epam.com",
+    "key_executives": [
+        {
+            "name": "Arkadiy Dobkin",
+            "position": "CEO"
+        },
+        {
+            "name": "Jason W. P. C. Wu",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software Development Services",
+            "products": [
+                "Custom Software Development",
+                "Application Maintenance",
+                "Quality Assurance"
+            ]
+        },
+        {
+            "category": "Digital Consulting",
+            "products": [
+                "Digital Transformation Strategy",
+                "User Experience Design",
+                "Data Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "EPAM Systems, Inc. | Digital Platform Engineering and Software Development",
+        "meta_description": "Explore EPAM Systems, Inc., a leader in digital platform engineering and software development services. Learn about EPAM's innovative solutions and industry impact.",
+        "keywords": [
+            "EPAM",
+            "Software Development",
+            "Digital Transformation",
+            "IT Services",
+            "Consulting",
+            "Cloud Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does EPAM offer?",
+            "answer": "EPAM offers software development, digital consulting, cloud services, and user experience design."
+        },
+        {
+            "question": "Who is the CEO of EPAM?",
+            "answer": "Arkadiy Dobkin is the CEO of EPAM Systems, Inc."
+        },
+        {
+            "question": "Where is EPAM headquartered?",
+            "answer": "EPAM is headquartered in Newtown, Pennsylvania, USA."
+        },
+        {
+            "question": "When was EPAM founded?",
+            "answer": "EPAM was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "ACN",
+        "CGI",
+        "INFY",
+        "WIT"
+    ],
+    "related_stocks": [
+        "IBM",
+        "MSFT",
+        "ORCL",
+        "ADBE"
+    ]
+}

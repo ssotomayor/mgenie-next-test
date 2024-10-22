@@ -1,0 +1,90 @@
+{
+    "ticker": "SPOT",
+    "name": "Spotify Technology S.A.",
+    "description": "Spotify Technology S.A. is a leading digital music service that provides access to a vast library of songs, podcasts, and other audio content. Founded in 2006 by Daniel Ek and Martin Lorentzon in Stockholm, Sweden, Spotify revolutionized the way people consume music by offering a subscription-based model that allows users to stream millions of tracks seamlessly. The platform is available in over 170 markets, making it one of the most accessible music streaming services globally. Spotify's innovative features include personalized playlists, algorithm-driven recommendations, and curated content, which enhance the listening experience for its users. The company also invests heavily in podcasts, acquiring exclusive content and partnerships to expand its audio offerings. Spotify's mission is to unlock the potential of human creativity by enabling users to enjoy and share music and audio content while empowering artists to reach a global audience. With a commitment to both user experience and artist support, Spotify continues to lead the streaming industry and shape the future of audio entertainment.",
+    "industry": [
+        "Music Streaming",
+        "Digital Media"
+    ],
+    "headquarters": "Stockholm, Sweden",
+    "founded": "2006",
+    "website": "https://www.spotify.com",
+    "ceo": "Daniel Ek",
+    "social_media": {
+        "twitter": "https://twitter.com/Spotify",
+        "linkedin": "https://www.linkedin.com/company/spotify/",
+        "instagram": "https://www.instagram.com/spotify/",
+        "youtube": "https://www.youtube.com/user/Spotify"
+    },
+    "investor_relations": "https://investors.spotify.com",
+    "key_executives": [
+        {
+            "name": "Daniel Ek",
+            "position": "CEO"
+        },
+        {
+            "name": "Paul Vogel",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Music Streaming",
+            "products": [
+                "Spotify Free",
+                "Spotify Premium"
+            ]
+        },
+        {
+            "category": "Podcasts",
+            "products": [
+                "Exclusive Podcasts",
+                "Spotify Originals"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Spotify Technology S.A. | Music Streaming and Podcasting",
+        "meta_description": "Discover Spotify Technology S.A., a leader in music streaming and podcasts. Explore Spotify's innovative platform, features, and impact on the music industry.",
+        "keywords": [
+            "Spotify",
+            "Music Streaming",
+            "Podcasts",
+            "Digital Music",
+            "Audio Entertainment",
+            "Daniel Ek"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Spotify known for?",
+            "answer": "Spotify is known for its music streaming service that offers millions of songs and podcasts."
+        },
+        {
+            "question": "Who is the CEO of Spotify?",
+            "answer": "Daniel Ek is the CEO of Spotify Technology S.A."
+        },
+        {
+            "question": "Where is Spotify headquartered?",
+            "answer": "Spotify is headquartered in Stockholm, Sweden."
+        },
+        {
+            "question": "What are Spotify's main products?",
+            "answer": "Spotify's main products include Spotify Free and Spotify Premium for music streaming, as well as exclusive podcasts."
+        },
+        {
+            "question": "When was Spotify founded?",
+            "answer": "Spotify was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "AAPL",
+        "AMZN"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "NFLX",
+        "FB",
+        "DIS"
+    ]
+}

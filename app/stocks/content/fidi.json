@@ -1,0 +1,96 @@
+{
+    "ticker": "FIDI",
+    "name": "Fidelity International Limited",
+    "description": "Fidelity International Limited is a leading global investment management company that provides a diverse range of investment solutions and services to individual and institutional investors. Founded in 1969, Fidelity has established a strong presence in the asset management industry, offering investment products across various asset classes including equities, fixed income, multi-asset, and alternative investments. The company is dedicated to delivering superior investment performance through rigorous research, innovative strategies, and a client-centric approach. With a commitment to responsible investing, Fidelity integrates environmental, social, and governance (ESG) considerations into its investment processes, reflecting its aim to create sustainable value for clients. Fidelity serves clients in over 25 countries, and its investment expertise is backed by a global team of analysts and portfolio managers who leverage extensive market insights. The company also emphasizes financial education and empowerment, providing resources to help investors make informed decisions. Through its innovative technology platform, Fidelity aims to enhance the investment experience and meet the evolving needs of its clients, offering transparency and accessibility to investment opportunities. With a strong heritage and an eye toward the future, Fidelity International continues to evolve and adapt in the dynamic financial landscape, striving to be a trusted partner for investors worldwide.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1969",
+    "website": "https://www.fidelityinternational.com",
+    "ceo": "Anne Richards",
+    "social_media": {
+        "twitter": "https://twitter.com/FidelityIntl",
+        "linkedin": "https://www.linkedin.com/company/fidelity-international/"
+    },
+    "investor_relations": "https://www.fidelityinternational.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Anne Richards",
+            "position": "CEO"
+        },
+        {
+            "name": "Dan McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Investments",
+            "products": [
+                "Global Equity Fund",
+                "Emerging Markets Equity Fund"
+            ]
+        },
+        {
+            "category": "Fixed Income Investments",
+            "products": [
+                "Global Bond Fund",
+                "Corporate Bond Fund"
+            ]
+        },
+        {
+            "category": "Multi-Asset Investments",
+            "products": [
+                "Balanced Fund",
+                "Target Date Fund"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fidelity International Limited | Global Investment Management",
+        "meta_description": "Explore Fidelity International Limited, a leader in global investment management. Discover our diverse investment solutions and commitment to responsible investing.",
+        "keywords": [
+            "Fidelity International",
+            "Investment Management",
+            "Equities",
+            "Fixed Income",
+            "Responsible Investing",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Fidelity International known for?",
+            "answer": "Fidelity International is known for its investment management services and diverse range of investment solutions."
+        },
+        {
+            "question": "Who is the CEO of Fidelity International?",
+            "answer": "Anne Richards is the CEO of Fidelity International Limited."
+        },
+        {
+            "question": "Where is Fidelity International headquartered?",
+            "answer": "Fidelity International is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What types of products does Fidelity offer?",
+            "answer": "Fidelity offers products in equity investments, fixed income, and multi-asset investments."
+        },
+        {
+            "question": "When was Fidelity International founded?",
+            "answer": "Fidelity International was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "SG",
+        "TROW"
+    ],
+    "related_stocks": [
+        "JPM",
+        "VTI",
+        "SPY",
+        "IVV"
+    ]
+}

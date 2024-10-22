@@ -1,0 +1,99 @@
+{
+    "ticker": "NOC",
+    "name": "Northrop Grumman Corporation",
+    "description": "Northrop Grumman Corporation is a global aerospace and defense technology company that specializes in developing advanced systems and solutions for military and commercial applications. Founded in 1939, Northrop Grumman has established itself as a leader in defense technology, providing innovative solutions in areas such as unmanned systems, cybersecurity, C4ISR (Command, Control, Communications, Computers, Intelligence, Surveillance, and Reconnaissance), and missile defense. The company plays a critical role in national security and is a key contractor for the U.S. Department of Defense. Northrop Grumman operates in multiple segments including Aerospace Systems, Defense Systems, Mission Systems, and Space Systems, delivering a diverse range of products and services, from aircraft and spacecraft to integrated systems and logistics support. The company is committed to innovation and sustainability, investing in technologies that enhance defense capabilities while minimizing environmental impact. With a global workforce and a strong presence in international markets, Northrop Grumman continues to push the boundaries of technology and engineering excellence, supporting the defense needs of allied nations while driving advancements in aerospace and defense.",
+    "industry": [
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "Falls Church, Virginia, USA",
+    "founded": "1939",
+    "website": "https://www.northropgrumman.com",
+    "ceo": "Kathy Warden",
+    "social_media": {
+        "twitter": "https://twitter.com/NorthropGrumman",
+        "linkedin": "https://www.linkedin.com/company/northropgrumman",
+        "youtube": "https://www.youtube.com/user/NorthropGrumman"
+    },
+    "investor_relations": "https://investor.northropgrumman.com",
+    "key_executives": [
+        {
+            "name": "Kathy Warden",
+            "position": "CEO"
+        },
+        {
+            "name": "Gordon St. Amand",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aerospace Systems",
+            "products": [
+                "B-2 Spirit",
+                "Global Hawk UAV",
+                "James Webb Space Telescope"
+            ]
+        },
+        {
+            "category": "Defense Systems",
+            "products": [
+                "C4ISR Systems",
+                "Missile Defense Systems"
+            ]
+        },
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "Cyber Solutions",
+                "Information Assurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Northrop Grumman Corporation | Aerospace and Defense Technology",
+        "meta_description": "Explore Northrop Grumman Corporation, a leader in aerospace and defense technology. Learn about our innovative solutions and commitment to national security.",
+        "keywords": [
+            "Northrop Grumman",
+            "Aerospace",
+            "Defense",
+            "Military Technology",
+            "Cybersecurity",
+            "Unmanned Systems"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Northrop Grumman do?",
+            "answer": "Northrop Grumman provides advanced aerospace and defense technology solutions for military and commercial customers."
+        },
+        {
+            "question": "Who is the CEO of Northrop Grumman?",
+            "answer": "Kathy Warden is the CEO of Northrop Grumman Corporation."
+        },
+        {
+            "question": "Where is Northrop Grumman headquartered?",
+            "answer": "Northrop Grumman is headquartered in Falls Church, Virginia, USA."
+        },
+        {
+            "question": "What are Northrop Grumman's main products?",
+            "answer": "Northrop Grumman's main products include advanced aircraft, unmanned systems, missile defense systems, and cybersecurity solutions."
+        },
+        {
+            "question": "When was Northrop Grumman founded?",
+            "answer": "Northrop Grumman was founded in 1939."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "BA",
+        "RTX",
+        "GD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

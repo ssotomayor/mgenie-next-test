@@ -1,0 +1,90 @@
+{
+    "ticker": "BEN",
+    "name": "Franklin Templeton Holdings, Inc.",
+    "description": "Franklin Templeton Holdings, Inc. is a global investment management organization headquartered in San Mateo, California. Founded in 1947 by Rupert H. Johnson Jr., the company has established itself as a prominent player in the asset management industry, offering a wide range of investment solutions to individual and institutional investors. Franklin Templeton specializes in various asset classes including equity, fixed income, alternatives, and multi-asset strategies. With a presence in over 30 countries, the firm is known for its active management approach, leveraging in-depth research and a team of experienced investment professionals to identify investment opportunities across different markets. The company's commitment to innovation is reflected in its diverse product lineup, which includes mutual funds, exchange-traded funds (ETFs), and customized investment solutions. Franklin Templeton also emphasizes a strong focus on responsible investing, integrating environmental, social, and governance (ESG) considerations into its investment processes. As an established leader in investment management, Franklin Templeton aims to deliver superior investment performance and help clients achieve their financial goals.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "San Mateo, California, USA",
+    "founded": "1947",
+    "website": "https://www.franklintempleton.com",
+    "ceo": "Jenny Johnson",
+    "social_media": {
+        "twitter": "https://twitter.com/FranklinTempleton",
+        "linkedin": "https://www.linkedin.com/company/franklin-templeton/",
+        "youtube": "https://www.youtube.com/user/FranklinTempleton"
+    },
+    "investor_relations": "https://www.franklintempleton.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jenny Johnson",
+            "position": "CEO"
+        },
+        {
+            "name": "Sonja Piontek",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mutual Funds",
+            "products": [
+                "Franklin Income Fund",
+                "Templeton Global Bond Fund"
+            ]
+        },
+        {
+            "category": "Exchange-Traded Funds",
+            "products": [
+                "Franklin LibertyShares"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Franklin Templeton | Global Investment Management",
+        "meta_description": "Explore Franklin Templeton, a leading global investment management firm offering a wide range of investment solutions. Learn about our commitment to delivering superior investment performance.",
+        "keywords": [
+            "Franklin Templeton",
+            "Investment Management",
+            "Mutual Funds",
+            "ETFs",
+            "Financial Services",
+            "Jenny Johnson"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Franklin Templeton do?",
+            "answer": "Franklin Templeton is an investment management firm that offers a variety of investment solutions, including mutual funds and ETFs."
+        },
+        {
+            "question": "Who is the CEO of Franklin Templeton?",
+            "answer": "Jenny Johnson is the CEO of Franklin Templeton Holdings, Inc."
+        },
+        {
+            "question": "Where is Franklin Templeton headquartered?",
+            "answer": "Franklin Templeton is headquartered in San Mateo, California, USA."
+        },
+        {
+            "question": "What types of products does Franklin Templeton offer?",
+            "answer": "Franklin Templeton offers mutual funds, ETFs, and customized investment solutions across various asset classes."
+        },
+        {
+            "question": "When was Franklin Templeton founded?",
+            "answer": "Franklin Templeton was founded in 1947."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "VTI",
+        "TROW",
+        "SCHW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "ticker": "ONFOW",
+    "name": "Onfido, Inc.",
+    "description": "Onfido, Inc. is a leading provider of identity verification and authentication solutions, specializing in using artificial intelligence to help businesses verify the identities of their customers. Founded in 2012, Onfido aims to enhance security and user experience in the digital landscape, making it easier for companies to onboard users while minimizing fraud. The company's platform utilizes advanced machine learning algorithms to analyze various documents, such as passports and driver's licenses, alongside biometric facial recognition technology. This combination ensures accurate identity verification, enabling businesses across multiple sectors, including finance, travel, and e-commerce, to comply with regulatory requirements and reduce risks. Onfido is committed to making identity verification seamless and secure, driving innovation in the identity space with a focus on privacy and data protection. With its global reach, Onfido serves a diverse clientele, empowering organizations to operate confidently in a digital-first world while fostering trust and security in online interactions.",
+    "industry": [
+        "Technology",
+        "Identity Verification",
+        "Cybersecurity"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "2012",
+    "website": "https://onfido.com",
+    "ceo": "Mike Tuchen",
+    "social_media": {
+        "twitter": "https://twitter.com/onfido",
+        "linkedin": "https://www.linkedin.com/company/onfido",
+        "facebook": "https://www.facebook.com/onfido"
+    },
+    "investor_relations": "https://onfido.com/investors",
+    "key_executives": [
+        {
+            "name": "Mike Tuchen",
+            "position": "CEO"
+        },
+        {
+            "name": "Hugo de Garis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Identity Verification",
+            "products": [
+                "Document Verification",
+                "Facial Recognition",
+                "Biometric Verification"
+            ]
+        },
+        {
+            "category": "Fraud Prevention",
+            "products": [
+                "KYC Solutions",
+                "AML Compliance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Onfido, Inc. | Identity Verification & Authentication Solutions",
+        "meta_description": "Discover Onfido, Inc., a leader in identity verification and authentication using AI technology. Explore our advanced solutions for secure customer onboarding.",
+        "keywords": [
+            "Onfido",
+            "Identity Verification",
+            "Fraud Prevention",
+            "KYC Solutions",
+            "Digital Identity",
+            "Biometric Authentication"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Onfido do?",
+            "answer": "Onfido provides identity verification and authentication solutions using AI to help businesses verify their customers' identities."
+        },
+        {
+            "question": "Who is the CEO of Onfido?",
+            "answer": "Mike Tuchen is the CEO of Onfido, Inc."
+        },
+        {
+            "question": "Where is Onfido headquartered?",
+            "answer": "Onfido is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are Onfido's main products?",
+            "answer": "Onfido's main products include Document Verification, Facial Recognition, and KYC Solutions."
+        },
+        {
+            "question": "When was Onfido founded?",
+            "answer": "Onfido was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "IDEX",
+        "SISB",
+        "VERI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "ADBE"
+    ]
+}

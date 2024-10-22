@@ -1,0 +1,83 @@
+{
+    "ticker": "INTZ",
+    "name": "Intrusion Inc.",
+    "description": "Intrusion Inc. is a cybersecurity company that specializes in providing advanced threat detection and response solutions. Established in 1983, Intrusion's mission is to protect organizations from cyber threats and data breaches by offering state-of-the-art technology and services. The company's flagship product, the Intrusion Shield, utilizes artificial intelligence and machine learning algorithms to detect and mitigate advanced persistent threats in real-time. Intrusion also provides a range of cybersecurity services, including threat intelligence, risk assessment, and incident response, to help businesses secure their networks and sensitive data. With a focus on innovation and customer success, Intrusion aims to deliver comprehensive security solutions that adapt to the evolving cyber threat landscape. The company serves clients across various industries, including healthcare, finance, and government, ensuring that they maintain compliance and protect their critical assets. As cyber threats become increasingly sophisticated, Intrusion is committed to staying at the forefront of cybersecurity technology, leveraging its expertise to provide peace of mind to its clients.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Richardson, Texas, USA",
+    "founded": "1983",
+    "website": "https://www.intrusion.com",
+    "ceo": "Tony Scott",
+    "social_media": {
+        "twitter": "https://twitter.com/IntrusionInc",
+        "linkedin": "https://www.linkedin.com/company/intrusion-inc/"
+    },
+    "investor_relations": "https://www.intrusion.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Tony Scott",
+            "position": "CEO"
+        },
+        {
+            "name": "Susan McCormick",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "Intrusion Shield",
+                "Threat Intelligence Services",
+                "Incident Response Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Intrusion Inc. | Advanced Cybersecurity Solutions",
+        "meta_description": "Learn about Intrusion Inc., a leader in cybersecurity technology. Discover our advanced threat detection and response solutions designed to protect your business.",
+        "keywords": [
+            "Intrusion Inc.",
+            "Cybersecurity",
+            "Threat Detection",
+            "Data Protection",
+            "Intrusion Shield"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Intrusion Inc. specialize in?",
+            "answer": "Intrusion Inc. specializes in advanced cybersecurity solutions, including threat detection and response."
+        },
+        {
+            "question": "Who is the CEO of Intrusion Inc.?",
+            "answer": "Tony Scott is the CEO of Intrusion Inc."
+        },
+        {
+            "question": "Where is Intrusion Inc. headquartered?",
+            "answer": "Intrusion Inc. is headquartered in Richardson, Texas, USA."
+        },
+        {
+            "question": "What are Intrusion Inc.'s main products?",
+            "answer": "Intrusion Inc.'s main products include Intrusion Shield and various cybersecurity services."
+        },
+        {
+            "question": "When was Intrusion Inc. founded?",
+            "answer": "Intrusion Inc. was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "PANW",
+        "FTNT",
+        "ZS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

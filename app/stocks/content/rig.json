@@ -1,0 +1,82 @@
+{
+    "ticker": "RIG",
+    "name": "Transocean Ltd.",
+    "description": "Transocean Ltd. is a leading offshore drilling contractor that specializes in providing drilling services for the oil and gas industry. Founded in 1953 and headquartered in Steinhausen, Switzerland, Transocean operates a diverse fleet of mobile offshore drilling units, including ultra-deepwater and harsh-environment rigs. The company is known for its expertise in deepwater drilling, which is essential for accessing oil and gas reserves located beneath the ocean floor. Transocean's commitment to safety, operational excellence, and technological innovation has established it as a prominent player in the offshore drilling market. The company actively engages in environmental sustainability efforts and maintains high standards of safety and efficiency in its operations. Transocean serves major oil companies and has a global presence, with operations in key regions such as the Gulf of Mexico, North Sea, and offshore Brazil. As the energy landscape evolves, Transocean is positioned to adapt to the changing needs of its clients while continuing to focus on delivering value and performance.",
+    "industry": [
+        "Energy",
+        "Oil and Gas"
+    ],
+    "headquarters": "Steinhausen, Switzerland",
+    "founded": "1953",
+    "website": "https://www.deepwater.com",
+    "ceo": "Jeremy Thigpen",
+    "social_media": {
+        "twitter": "https://twitter.com/Transocean",
+        "linkedin": "https://www.linkedin.com/company/transocean/"
+    },
+    "investor_relations": "https://investors.deepwater.com",
+    "key_executives": [
+        {
+            "name": "Jeremy Thigpen",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Mey",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Offshore Drilling Services",
+            "products": [
+                "Ultra-Deepwater Rigs",
+                "Harsh-Environment Rigs",
+                "Midwater Rigs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Transocean Ltd. | Leading Offshore Drilling Contractor",
+        "meta_description": "Explore Transocean Ltd., a top offshore drilling contractor specializing in deepwater drilling services. Learn about our innovations and commitment to safety.",
+        "keywords": [
+            "Transocean",
+            "Offshore Drilling",
+            "Deepwater Rigs",
+            "Oil and Gas",
+            "Energy Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Transocean provide?",
+            "answer": "Transocean provides offshore drilling services, specializing in deepwater and harsh-environment drilling."
+        },
+        {
+            "question": "Who is the CEO of Transocean?",
+            "answer": "Jeremy Thigpen is the CEO of Transocean Ltd."
+        },
+        {
+            "question": "Where is Transocean headquartered?",
+            "answer": "Transocean is headquartered in Steinhausen, Switzerland."
+        },
+        {
+            "question": "What types of rigs does Transocean operate?",
+            "answer": "Transocean operates ultra-deepwater, harsh-environment, and midwater rigs."
+        },
+        {
+            "question": "When was Transocean founded?",
+            "answer": "Transocean was founded in 1953."
+        }
+    ],
+    "competitors": [
+        "NE",
+        "DO",
+        "HP"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "SLB"
+    ]
+}

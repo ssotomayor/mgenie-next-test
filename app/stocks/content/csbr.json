@@ -1,0 +1,90 @@
+{
+    "ticker": "CSBR",
+    "name": "CSP Inc.",
+    "description": "CSP Inc. is a leading provider of technology solutions and services, specializing in the telecommunications, public safety, and cybersecurity industries. Founded in 1990, CSP has built a reputation for delivering innovative products and services that enhance communication and connectivity for clients across various sectors. The company's core offerings include software and hardware solutions for emergency response systems, network communication, and data security. CSP's public safety division focuses on providing the necessary tools for first responders, ensuring effective communication during critical situations. In addition, CSP has expanded its capabilities into cybersecurity, offering comprehensive solutions to protect organizations from cyber threats. The company is headquartered in Bedford, Massachusetts, and operates globally, serving both government and commercial clients. With a commitment to excellence and a focus on innovation, CSP Inc. continues to adapt to the evolving technological landscape, providing reliable solutions that meet the demands of a rapidly changing world.",
+    "industry": [
+        "Technology",
+        "Telecommunications",
+        "Public Safety"
+    ],
+    "headquarters": "Bedford, Massachusetts, USA",
+    "founded": "1990",
+    "website": "https://www.cspinc.com",
+    "ceo": "Peter J. Mullen",
+    "social_media": {
+        "twitter": "https://twitter.com/CSPInc",
+        "linkedin": "https://www.linkedin.com/company/csp-inc"
+    },
+    "investor_relations": "https://www.cspinc.com/investors",
+    "key_executives": [
+        {
+            "name": "Peter J. Mullen",
+            "position": "CEO"
+        },
+        {
+            "name": "John M. O'Brien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Public Safety Solutions",
+            "products": [
+                "Emergency Response Software",
+                "Communication Systems"
+            ]
+        },
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "Data Protection Services",
+                "Threat Mitigation Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CSP Inc. | Technology Solutions for Telecommunications and Public Safety",
+        "meta_description": "Explore CSP Inc., a provider of innovative technology solutions in telecommunications, public safety, and cybersecurity. Learn about CSP's products and services.",
+        "keywords": [
+            "CSP Inc.",
+            "Technology Solutions",
+            "Telecommunications",
+            "Public Safety",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CSP Inc. specialize in?",
+            "answer": "CSP Inc. specializes in technology solutions for telecommunications, public safety, and cybersecurity."
+        },
+        {
+            "question": "Who is the CEO of CSP Inc.?",
+            "answer": "Peter J. Mullen is the CEO of CSP Inc."
+        },
+        {
+            "question": "Where is CSP Inc. headquartered?",
+            "answer": "CSP Inc. is headquartered in Bedford, Massachusetts, USA."
+        },
+        {
+            "question": "What are CSP's main products?",
+            "answer": "CSP's main products include emergency response software, communication systems, and cybersecurity solutions."
+        },
+        {
+            "question": "When was CSP Inc. founded?",
+            "answer": "CSP Inc. was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "AVAV",
+        "CSCO",
+        "HRS",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

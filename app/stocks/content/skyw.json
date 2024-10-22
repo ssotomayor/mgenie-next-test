@@ -1,0 +1,80 @@
+{
+    "ticker": "SKYW",
+    "name": "SkyWest, Inc.",
+    "description": "SkyWest, Inc. is a leading regional airline holding company headquartered in St. George, Utah. Established in 1972, SkyWest operates as a key partner for major airlines, providing essential regional air services across North America. The company operates a fleet of more than 500 aircraft and offers over 2,400 daily flights to more than 250 destinations in the United States, Canada, and Mexico, primarily under the banners of United Express, Delta Connection, and American Eagle. Known for its commitment to safety, reliability, and customer service, SkyWest has earned a reputation as a trusted airline partner. The company is focused on operational excellence and has a strong emphasis on the professional development of its employees. In addition to its passenger services, SkyWest has made strategic investments in technology and infrastructure to enhance the customer experience, including advanced booking systems and improved in-flight services. With a strong financial performance and a focus on sustainable growth, SkyWest continues to expand its operations and seek new opportunities in the evolving aviation landscape.",
+    "industry": [
+        "Aviation",
+        "Transportation"
+    ],
+    "headquarters": "St. George, Utah, USA",
+    "founded": "1972",
+    "website": "https://www.skywest.com",
+    "ceo": "Chip Childs",
+    "social_media": {
+        "twitter": "https://twitter.com/SkyWestAirlines",
+        "linkedin": "https://www.linkedin.com/company/skywestairlines/",
+        "facebook": "https://www.facebook.com/skywestairlines"
+    },
+    "investor_relations": "https://investor.skywest.com",
+    "key_executives": [
+        {
+            "name": "Chip Childs",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael J. Woehrle",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Airline Services",
+            "products": [
+                "Regional Passenger Flights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SkyWest, Inc. | Leading Regional Airline",
+        "meta_description": "SkyWest, Inc. is a premier regional airline providing essential air services across North America. Learn about our operations, fleet, and commitment to customer service.",
+        "keywords": [
+            "SkyWest",
+            "Regional Airline",
+            "Aviation",
+            "Air Transportation",
+            "Air Travel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does SkyWest provide?",
+            "answer": "SkyWest provides regional airline services under major airline brands, including United Express, Delta Connection, and American Eagle."
+        },
+        {
+            "question": "Where is SkyWest headquartered?",
+            "answer": "SkyWest is headquartered in St. George, Utah, USA."
+        },
+        {
+            "question": "When was SkyWest founded?",
+            "answer": "SkyWest was founded in 1972."
+        },
+        {
+            "question": "What is the size of SkyWest's fleet?",
+            "answer": "SkyWest operates a fleet of more than 500 aircraft."
+        },
+        {
+            "question": "How many destinations does SkyWest serve?",
+            "answer": "SkyWest offers flights to more than 250 destinations in North America."
+        }
+    ],
+    "competitors": [
+        "UAL",
+        "DAL",
+        "AAL"
+    ],
+    "related_stocks": [
+        "LUV",
+        "JBLU",
+        "ALGT"
+    ]
+}

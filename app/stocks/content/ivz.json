@@ -1,0 +1,101 @@
+{
+    "ticker": "IVZ",
+    "name": "Invesco Ltd.",
+    "description": "Invesco Ltd. is a global investment management firm that provides a wide range of investment solutions for clients around the world. Founded in 1935, Invesco has grown to be a leading independent investment management firm with a focus on delivering strong investment performance and exceptional client service. The company offers a diverse array of investment products, including mutual funds, exchange-traded funds (ETFs), and institutional investment strategies across various asset classes, including equity, fixed income, and multi-asset solutions. Invesco operates through several well-known investment brands, including Invesco, PowerShares, and Trimark. The firm is dedicated to responsible investing and aims to integrate environmental, social, and governance (ESG) factors into its investment processes. Invesco's mission is to help clients achieve their financial goals by providing innovative investment solutions and maintaining strong relationships built on trust and transparency. With headquarters in Atlanta, Georgia, Invesco serves retail and institutional clients globally and is committed to adapting to the evolving needs of the investment landscape.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1935",
+    "website": "https://www.invesco.com",
+    "ceo": "Martin Flanagan",
+    "social_media": {
+        "twitter": "https://twitter.com/invesco",
+        "linkedin": "https://www.linkedin.com/company/invesco"
+    },
+    "investor_relations": "https://investors.invesco.com",
+    "key_executives": [
+        {
+            "name": "Martin Flanagan",
+            "position": "CEO"
+        },
+        {
+            "name": "Gregory K. Maffei",
+            "position": "Chairman"
+        },
+        {
+            "name": "John E. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mutual Funds",
+            "products": [
+                "Invesco Growth Fund",
+                "Invesco Diversified Dividend Fund"
+            ]
+        },
+        {
+            "category": "ETFs",
+            "products": [
+                "Invesco QQQ",
+                "Invesco S&P 500 Low Volatility ETF"
+            ]
+        },
+        {
+            "category": "Institutional Solutions",
+            "products": [
+                "Custom Investment Strategies",
+                "Portfolio Management Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Invesco Ltd. | Global Investment Management Firm",
+        "meta_description": "Explore Invesco Ltd., a global leader in investment management providing innovative investment solutions across various asset classes.",
+        "keywords": [
+            "Invesco",
+            "Investment Management",
+            "ETFs",
+            "Mutual Funds",
+            "Financial Services",
+            "ESG Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Invesco known for?",
+            "answer": "Invesco is known for its diverse investment management offerings, including mutual funds, ETFs, and institutional investment strategies."
+        },
+        {
+            "question": "Who is the CEO of Invesco?",
+            "answer": "Martin Flanagan is the CEO of Invesco Ltd."
+        },
+        {
+            "question": "Where is Invesco headquartered?",
+            "answer": "Invesco is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What types of investment products does Invesco offer?",
+            "answer": "Invesco offers mutual funds, ETFs, and custom institutional investment strategies."
+        },
+        {
+            "question": "When was Invesco founded?",
+            "answer": "Invesco was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "SCHW",
+        "TROW",
+        "Vanguard"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "GS",
+        "MS"
+    ]
+}

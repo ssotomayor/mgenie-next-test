@@ -1,0 +1,99 @@
+{
+    "ticker": "BKAG",
+    "name": "Baker Hughes Company",
+    "description": "Baker Hughes Company, founded in 1907, is a leading energy technology company that provides solutions for oil and gas operations worldwide. Headquartered in Houston, Texas, Baker Hughes operates in over 120 countries and is committed to advancing the energy transition through innovative technology and services. The company offers a diverse portfolio that includes oilfield services, digital solutions, and industrial technologies. With a strong focus on sustainability, Baker Hughes aims to reduce the environmental impact of energy production and enhance the efficiency of resources. Their key offerings include drilling services, pressure pumping, and completion systems, as well as advanced digital solutions that leverage data analytics to optimize operations. Baker Hughes is actively involved in the development of renewable energy technologies and carbon capture solutions, playing a crucial role in the global shift towards cleaner energy. The company's mission is to deliver better energy solutions for a sustainable future, striving to meet the evolving needs of its customers while contributing to the decarbonization of the energy sector.",
+    "industry": [
+        "Energy",
+        "Oil and Gas"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1907",
+    "website": "https://www.bakerhughes.com",
+    "ceo": "Lorenzo Simonelli",
+    "social_media": {
+        "twitter": "https://twitter.com/BakerHughesCo",
+        "linkedin": "https://www.linkedin.com/company/baker-hughes/",
+        "instagram": "https://www.instagram.com/bakerhughesco/",
+        "youtube": "https://www.youtube.com/user/BakerHughesCo"
+    },
+    "investor_relations": "https://www.bakerhughes.com/investors",
+    "key_executives": [
+        {
+            "name": "Lorenzo Simonelli",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Worrell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oilfield Services",
+            "products": [
+                "Drilling Services",
+                "Completion Systems",
+                "Pressure Pumping"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "Data Analytics",
+                "Asset Management"
+            ]
+        },
+        {
+            "category": "Industrial Technologies",
+            "products": [
+                "Turbo Machinery",
+                "Automation Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baker Hughes Company | Energy Technology and Solutions",
+        "meta_description": "Explore Baker Hughes Company, a leader in energy technology providing innovative solutions for oil and gas operations and advancing the energy transition.",
+        "keywords": [
+            "Baker Hughes",
+            "Energy Technology",
+            "Oilfield Services",
+            "Sustainability",
+            "Digital Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Baker Hughes do?",
+            "answer": "Baker Hughes provides technology and services for the oil and gas industry, focusing on energy efficiency and sustainability."
+        },
+        {
+            "question": "Who is the CEO of Baker Hughes?",
+            "answer": "Lorenzo Simonelli is the CEO of Baker Hughes Company."
+        },
+        {
+            "question": "Where is Baker Hughes headquartered?",
+            "answer": "Baker Hughes is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Baker Hughes's main products?",
+            "answer": "Baker Hughes's main products include oilfield services, digital solutions, and industrial technologies."
+        },
+        {
+            "question": "When was Baker Hughes founded?",
+            "answer": "Baker Hughes was founded in 1907."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "HAL",
+        "NOV",
+        "OXY"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "RDS.A"
+    ]
+}

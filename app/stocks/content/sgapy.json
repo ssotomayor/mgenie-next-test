@@ -1,0 +1,101 @@
+{
+    "ticker": "SGAPY",
+    "name": "Saga plc",
+    "description": "Saga plc is a UK-based company specializing in products and services tailored for individuals aged 50 and over. Founded in 1951, Saga has established itself as a trusted brand with a strong commitment to providing high-quality experiences and tailored solutions for the mature market. The company's primary offerings include travel, insurance, and financial services, all designed with the needs and preferences of older adults in mind. Saga's travel division provides a range of holiday packages, including river cruises and ocean cruises, as well as escorted tours that emphasize comfort and accessibility. In addition to travel, Saga is a prominent provider of insurance products, including car, home, and health insurance, aimed specifically at older customers. The financial services arm of Saga offers products such as savings accounts and investment opportunities, ensuring that its clients have access to financial security and growth. With a focus on customer satisfaction, Saga engages its audience through various channels, including community events and informative publications that address the interests and concerns of the over-50 demographic. The company's mission is to enrich the lives of its customers and help them make the most of their later years through tailored services that enhance independence and enjoyment.",
+    "industry": [
+        "Insurance",
+        "Travel",
+        "Financial Services"
+    ],
+    "headquarters": "Folkestone, Kent, United Kingdom",
+    "founded": "1951",
+    "website": "https://www.saga.co.uk",
+    "ceo": "Euan Sutherland",
+    "social_media": {
+        "twitter": "https://twitter.com/sagauk",
+        "linkedin": "https://www.linkedin.com/company/saga-plc/",
+        "facebook": "https://www.facebook.com/SagaUK"
+    },
+    "investor_relations": "https://investors.saga.co.uk",
+    "key_executives": [
+        {
+            "name": "Euan Sutherland",
+            "position": "CEO"
+        },
+        {
+            "name": "Roger Allard",
+            "position": "Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Travel",
+            "products": [
+                "River Cruises",
+                "Ocean Cruises",
+                "Escorted Tours"
+            ]
+        },
+        {
+            "category": "Insurance",
+            "products": [
+                "Car Insurance",
+                "Home Insurance",
+                "Health Insurance"
+            ]
+        },
+        {
+            "category": "Financial Services",
+            "products": [
+                "Savings Accounts",
+                "Investment Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Saga plc | Tailored Services for the Over-50s",
+        "meta_description": "Explore Saga plc, a leading provider of travel, insurance, and financial services designed for the over-50 demographic. Discover our commitment to enriching lives.",
+        "keywords": [
+            "Saga",
+            "Travel",
+            "Insurance",
+            "Financial Services",
+            "Over 50",
+            "Cruises",
+            "Savings"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Saga offer?",
+            "answer": "Saga offers travel, insurance, and financial services specifically designed for individuals aged 50 and over."
+        },
+        {
+            "question": "When was Saga founded?",
+            "answer": "Saga was founded in 1951."
+        },
+        {
+            "question": "Where is Saga headquartered?",
+            "answer": "Saga is headquartered in Folkestone, Kent, United Kingdom."
+        },
+        {
+            "question": "What types of insurance does Saga provide?",
+            "answer": "Saga provides car insurance, home insurance, and health insurance."
+        },
+        {
+            "question": "What is Saga's focus?",
+            "answer": "Saga focuses on providing high-quality services and products for the over-50 demographic."
+        }
+    ],
+    "competitors": [
+        "TW",
+        "HMC",
+        "CNA"
+    ],
+    "related_stocks": [
+        "LON:AV",
+        "LON:CTO",
+        "LON:ITV",
+        "LON:PRTC"
+    ]
+}

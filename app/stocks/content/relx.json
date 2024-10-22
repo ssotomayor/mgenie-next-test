@@ -1,0 +1,104 @@
+{
+    "ticker": "RELX",
+    "name": "RELX PLC",
+    "description": "RELX PLC is a global provider of information-based analytics and decision tools for professional and business customers. Founded in 1903 and headquartered in London, UK, RELX operates across four main segments: Scientific, Technical & Medical; Risk & Business Analytics; Legal; and Exhibitions. The company is dedicated to advancing knowledge and enabling informed decisions through its comprehensive suite of tools and resources. RELX's Scientific, Technical & Medical segment delivers critical information and analytics that support scientific research and healthcare innovation. Its Risk & Business Analytics division provides risk management solutions and data analytics to help organizations make informed business decisions. The Legal segment offers legal research tools and services to legal professionals, while the Exhibitions segment organizes trade shows and events that facilitate business networking and growth. With a strong commitment to sustainability and corporate social responsibility, RELX aims to leverage its data and analytics capabilities to drive positive change in society. The company continues to invest in technology and innovation to enhance its offerings, helping clients navigate complex markets effectively.",
+    "industry": [
+        "Information Services",
+        "Analytics",
+        "Publishing"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1903",
+    "website": "https://www.relx.com",
+    "ceo": "Erik Engstrom",
+    "social_media": {
+        "twitter": "https://twitter.com/RELXGroup",
+        "linkedin": "https://www.linkedin.com/company/relxgroup/"
+    },
+    "investor_relations": "https://www.relx.com/investors",
+    "key_executives": [
+        {
+            "name": "Erik Engstrom",
+            "position": "CEO"
+        },
+        {
+            "name": "Nick Luff",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Scientific, Technical & Medical",
+            "products": [
+                "ScienceDirect",
+                "ClinicalKey"
+            ]
+        },
+        {
+            "category": "Risk & Business Analytics",
+            "products": [
+                "LexisNexis",
+                "Elsevier"
+            ]
+        },
+        {
+            "category": "Legal",
+            "products": [
+                "LexisNexis"
+            ]
+        },
+        {
+            "category": "Exhibitions",
+            "products": [
+                "Trade Shows",
+                "Conferences"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "RELX PLC | Information Analytics and Decision Tools",
+        "meta_description": "Discover RELX PLC, a leader in information-based analytics and decision tools. Explore RELX's offerings in scientific, legal, and business analytics.",
+        "keywords": [
+            "RELX",
+            "Information Services",
+            "Analytics",
+            "Publishing",
+            "Scientific Research",
+            "Legal Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does RELX do?",
+            "answer": "RELX provides information-based analytics and decision tools for professional and business customers."
+        },
+        {
+            "question": "Who is the CEO of RELX?",
+            "answer": "Erik Engstrom is the CEO of RELX PLC."
+        },
+        {
+            "question": "Where is RELX headquartered?",
+            "answer": "RELX is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are RELX's main products?",
+            "answer": "RELX's main products include ScienceDirect, LexisNexis, and various trade shows."
+        },
+        {
+            "question": "When was RELX founded?",
+            "answer": "RELX was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "THOM",
+        "CVE",
+        "WLY",
+        "DNB"
+    ],
+    "related_stocks": [
+        "IBM",
+        "MSFT",
+        "GOOGL",
+        "INTU"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "ticker": "BYD",
+    "name": "BYD Company Limited",
+    "description": "BYD Company Limited, founded in 1995, is a leading global manufacturer of electric vehicles (EVs) and renewable energy solutions. Based in Shenzhen, China, BYD has established itself as a major player in the automotive industry, focusing on the development and production of electric cars, buses, trucks, batteries, and renewable energy products. The company aims to create a sustainable future through innovation in both transportation and energy. BYD's electric vehicles, which include popular models such as the Han, Tang, and e6, are designed with advanced technology and high performance, catering to both passenger and commercial markets. In addition to vehicles, BYD is a pioneer in battery technology, producing lithium iron phosphate batteries which power their EVs and energy storage systems. The company also engages in solar power generation, contributing significantly to the renewable energy sector. BYD's commitment to environmental sustainability is evident in its extensive investments in electric public transportation, with thousands of electric buses deployed worldwide. As a result, BYD is not only transforming the automotive landscape but also playing a crucial role in the fight against climate change.",
+    "industry": [
+        "Automotive",
+        "Renewable Energy"
+    ],
+    "headquarters": "Shenzhen, Guangdong, China",
+    "founded": "1995",
+    "website": "https://www.byd.com",
+    "ceo": "Wang Chuanfu",
+    "social_media": {
+        "twitter": "https://twitter.com/BYDCompany",
+        "linkedin": "https://www.linkedin.com/company/byd-company-limited/"
+    },
+    "investor_relations": "https://www.byd.com/en/investor/",
+    "key_executives": [
+        {
+            "name": "Wang Chuanfu",
+            "position": "CEO"
+        },
+        {
+            "name": "Li Yunfei",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "BYD Han",
+                "BYD Tang",
+                "BYD e6",
+                "BYD Qin"
+            ]
+        },
+        {
+            "category": "Batteries",
+            "products": [
+                "Lithium Iron Phosphate Batteries",
+                "Energy Storage Systems"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Solar Panels",
+                "Solar Energy Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BYD Company Limited | Electric Vehicles and Renewable Energy",
+        "meta_description": "Explore BYD Company Limited, a leader in electric vehicles and renewable energy solutions. Discover BYD's innovative products and commitment to sustainability.",
+        "keywords": [
+            "BYD",
+            "Electric Vehicles",
+            "Renewable Energy",
+            "Sustainable Transportation",
+            "Electric Buses",
+            "Lithium Batteries"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BYD specialize in?",
+            "answer": "BYD specializes in electric vehicles, batteries, and renewable energy solutions."
+        },
+        {
+            "question": "Who is the CEO of BYD?",
+            "answer": "Wang Chuanfu is the CEO of BYD Company Limited."
+        },
+        {
+            "question": "Where is BYD headquartered?",
+            "answer": "BYD is headquartered in Shenzhen, Guangdong, China."
+        },
+        {
+            "question": "What are BYD's main products?",
+            "answer": "BYD's main products include electric vehicles, lithium batteries, and solar energy solutions."
+        },
+        {
+            "question": "When was BYD founded?",
+            "answer": "BYD was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "NIO",
+        "XPEV",
+        "TSLA",
+        "F"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "ticker": "FLEX",
+    "name": "Flex Ltd.",
+    "description": "Flex Ltd. is a leading global provider of diversified manufacturing services and supply chain solutions. Founded in 1969 and headquartered in San Jose, California, Flex operates across various industries, including automotive, healthcare, industrial, and consumer electronics. The company delivers innovative solutions that help businesses manage their product lifecycle, from design and engineering to manufacturing and logistics. Flex is committed to sustainability and reducing environmental impact through its advanced manufacturing practices and technologies. With a vast network of facilities around the world, Flex serves customers with end-to-end solutions that enhance efficiency and accelerate time-to-market. The company's expertise in electronics manufacturing services (EMS) and original design manufacturing (ODM) enables it to meet the complex demands of its clients while fostering innovation and quality. Flex also focuses on smart products and services, integrating IoT and automation into its offerings to drive digital transformation across industries. By leveraging its global footprint and technological expertise, Flex aims to empower customers to thrive in an increasingly competitive market.",
+    "industry": [
+        "Manufacturing",
+        "Electronics"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1969",
+    "website": "https://www.flex.com",
+    "ceo": "Revathi Advaithi",
+    "social_media": {
+        "twitter": "https://twitter.com/Flextrong",
+        "linkedin": "https://www.linkedin.com/company/flextrong"
+    },
+    "investor_relations": "https://investors.flex.com",
+    "key_executives": [
+        {
+            "name": "Revathi Advaithi",
+            "position": "CEO"
+        },
+        {
+            "name": "Paul Humphries",
+            "position": "Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electronics Manufacturing Services",
+            "products": [
+                "Design Services",
+                "Engineering Services",
+                "Manufacturing Services"
+            ]
+        },
+        {
+            "category": "Supply Chain Solutions",
+            "products": [
+                "Logistics",
+                "Procurement",
+                "Inventory Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Flex Ltd. | Global Manufacturing and Supply Chain Solutions",
+        "meta_description": "Explore Flex Ltd., a leader in diversified manufacturing services and supply chain solutions. Discover innovative products and services across various industries.",
+        "keywords": [
+            "Flex",
+            "Manufacturing Services",
+            "Electronics",
+            "Supply Chain Solutions",
+            "IoT",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Flex known for?",
+            "answer": "Flex is known for its diversified manufacturing services and supply chain solutions across various industries."
+        },
+        {
+            "question": "Who is the CEO of Flex?",
+            "answer": "Revathi Advaithi is the CEO of Flex Ltd."
+        },
+        {
+            "question": "Where is Flex headquartered?",
+            "answer": "Flex is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Flex's main services?",
+            "answer": "Flex's main services include electronics manufacturing, design services, engineering services, and supply chain solutions."
+        },
+        {
+            "question": "When was Flex founded?",
+            "answer": "Flex was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "JCI",
+        "HON",
+        "NOK",
+        "AVY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

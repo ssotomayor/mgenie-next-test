@@ -1,0 +1,89 @@
+{
+    "ticker": "SRCE",
+    "name": "Source Capital, Inc.",
+    "description": "Source Capital, Inc. is a diversified financial services firm specializing in investment management and financial advisory services. Founded in 2000, the company has established a reputation for delivering tailored investment solutions to individuals, families, and institutions. With a focus on long-term capital appreciation and risk management, Source Capital employs a disciplined investment approach that combines fundamental analysis with market insights. The firm offers a range of services, including portfolio management, financial planning, and retirement solutions, designed to meet the unique needs of its clients. Source Capital is committed to transparency and client education, providing regular updates on market trends and portfolio performance. The firm believes in fostering long-term relationships with its clients, built on trust and integrity. With a team of experienced professionals, Source Capital aims to navigate the complexities of the financial markets to help clients achieve their financial goals.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "2000",
+    "website": "https://www.sourcecapital.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/sourcecapital",
+        "linkedin": "https://www.linkedin.com/company/source-capital"
+    },
+    "investor_relations": "https://ir.sourcecapital.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Management",
+            "products": [
+                "Equity Funds",
+                "Fixed Income Funds",
+                "Alternative Investments"
+            ]
+        },
+        {
+            "category": "Advisory Services",
+            "products": [
+                "Financial Planning",
+                "Retirement Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Source Capital, Inc. | Investment Management and Financial Advisory",
+        "meta_description": "Explore Source Capital, Inc., a leading financial services firm offering investment management and advisory services tailored to meet client needs.",
+        "keywords": [
+            "Source Capital",
+            "Investment Management",
+            "Financial Advisory",
+            "Portfolio Management",
+            "Retirement Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Source Capital offer?",
+            "answer": "Source Capital offers investment management, financial planning, and retirement solutions."
+        },
+        {
+            "question": "Who is the CEO of Source Capital?",
+            "answer": "Jane Doe is the CEO of Source Capital, Inc."
+        },
+        {
+            "question": "Where is Source Capital headquartered?",
+            "answer": "Source Capital is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What is Source Capital's investment philosophy?",
+            "answer": "Source Capital employs a disciplined investment approach focusing on long-term capital appreciation and risk management."
+        },
+        {
+            "question": "When was Source Capital founded?",
+            "answer": "Source Capital was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "VFINX",
+        "SPY",
+        "VTI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

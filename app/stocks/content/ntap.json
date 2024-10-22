@@ -1,0 +1,91 @@
+{
+    "ticker": "NTAP",
+    "name": "NetApp, Inc.",
+    "description": "NetApp, Inc. is a leading provider of cloud data services and data management solutions that empower organizations to manage, store, and protect their data across diverse environments. Founded in 1992, NetApp has established itself as a pioneer in the data storage industry, enabling businesses to navigate the complexities of data management in an increasingly digital world. The company offers a comprehensive portfolio of products and services, including cloud storage solutions, data protection, and hybrid cloud infrastructure, designed to help enterprises harness the full potential of their data. With a strong emphasis on innovation, NetApp continues to develop cutting-edge technologies such as artificial intelligence, machine learning, and data analytics to enhance data accessibility and security. Their flagship product, ONTAP, provides seamless data management across on-premises and cloud environments, allowing organizations to optimize performance and reduce costs. NetApp\u2019s commitment to sustainability is reflected in their initiatives aimed at minimizing environmental impact while maximizing the efficiency of data storage and management. As businesses increasingly rely on data-driven insights, NetApp stands at the forefront of the data management revolution, providing solutions that drive digital transformation and enable smarter decision-making.",
+    "industry": [
+        "Information Technology",
+        "Data Storage",
+        "Cloud Computing"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "1992",
+    "website": "https://www.netapp.com",
+    "ceo": "George Kurian",
+    "social_media": {
+        "twitter": "https://twitter.com/netapp",
+        "linkedin": "https://www.linkedin.com/company/netapp/"
+    },
+    "investor_relations": "https://investors.netapp.com",
+    "key_executives": [
+        {
+            "name": "George Kurian",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Berry",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Data Services",
+            "products": [
+                "ONTAP",
+                "Cloud Volumes ONTAP"
+            ]
+        },
+        {
+            "category": "Data Management Solutions",
+            "products": [
+                "Cloud Insights",
+                "SnapMirror"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NetApp, Inc. | Cloud Data Services and Data Management Solutions",
+        "meta_description": "Explore NetApp, Inc., a leader in cloud data services and data management solutions. Discover how NetApp helps organizations manage and protect their data in a digital world.",
+        "keywords": [
+            "NetApp",
+            "Cloud Data Services",
+            "Data Management",
+            "Data Storage",
+            "Hybrid Cloud",
+            "ONTAP"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does NetApp do?",
+            "answer": "NetApp provides cloud data services and data management solutions to help organizations manage and protect their data."
+        },
+        {
+            "question": "Who is the CEO of NetApp?",
+            "answer": "George Kurian is the CEO of NetApp, Inc."
+        },
+        {
+            "question": "Where is NetApp headquartered?",
+            "answer": "NetApp is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are some key products offered by NetApp?",
+            "answer": "Key products include ONTAP, Cloud Volumes ONTAP, Cloud Insights, and SnapMirror."
+        },
+        {
+            "question": "When was NetApp founded?",
+            "answer": "NetApp was founded in 1992."
+        }
+    ],
+    "competitors": [
+        "EMC",
+        "HPE",
+        "IBM",
+        "WDC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "ORCL"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "ticker": "RMBS",
+    "name": " Rambus Inc.",
+    "description": "Rambus Inc. is a global technology company primarily focused on advancing semiconductor technologies and solutions that enable faster and more efficient data processing. Founded in 1990 and headquartered in Sunnyvale, California, Rambus specializes in memory and interface technologies, security, and data center solutions. The company is known for its innovations in high-speed memory interfaces, including the development of RDRAM, a memory technology that played a pivotal role in the evolution of computer memory. Rambus also provides a range of intellectual property (IP) solutions, offering licenses for its patented technologies to various industry leaders. In addition to memory solutions, Rambus has expanded its portfolio to include security technologies that safeguard data and devices, particularly in the context of the Internet of Things (IoT) and connected devices. The company's advanced technologies empower a multitude of applications across diverse sectors, including consumer electronics, automotive, and cloud computing. With a commitment to innovation and excellence, Rambus continues to push the boundaries of technology, driving advancements that enhance performance and security in the digital age.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "1990",
+    "website": "https://www.rambus.com",
+    "ceo": "Luc Seraphin",
+    "social_media": {
+        "twitter": "https://twitter.com/RambusInc",
+        "linkedin": "https://www.linkedin.com/company/rambus/"
+    },
+    "investor_relations": "https://investor.rambus.com",
+    "key_executives": [
+        {
+            "name": "Luc Seraphin",
+            "position": "CEO"
+        },
+        {
+            "name": "Kirk R. Skaugen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Memory Solutions",
+            "products": [
+                "RDRAM",
+                "DDR Memory Interfaces",
+                "High-Speed SerDes"
+            ]
+        },
+        {
+            "category": "Security Solutions",
+            "products": [
+                "Cryptographic Solutions",
+                "Hardware Security Modules"
+            ]
+        },
+        {
+            "category": "Data Center Solutions",
+            "products": [
+                "Memory Architecture Solutions",
+                "Interconnect Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rambus Inc. | Innovative Semiconductor Technologies",
+        "meta_description": "Explore Rambus Inc., a leader in semiconductor technology and solutions. Discover Rambus' innovations in memory, security, and data center technologies.",
+        "keywords": [
+            "Rambus",
+            "Semiconductors",
+            "Memory Solutions",
+            "Security Technologies",
+            "Data Center Solutions",
+            "High-Speed Memory"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rambus specialize in?",
+            "answer": "Rambus specializes in semiconductor technologies, particularly in memory, security, and data center solutions."
+        },
+        {
+            "question": "Who is the CEO of Rambus?",
+            "answer": "Luc Seraphin is the CEO of Rambus Inc."
+        },
+        {
+            "question": "Where is Rambus headquartered?",
+            "answer": "Rambus is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are Rambus' main products?",
+            "answer": "Rambus' main products include RDRAM, DDR memory interfaces, cryptographic solutions, and data center architecture solutions."
+        },
+        {
+            "question": "When was Rambus founded?",
+            "answer": "Rambus was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "NVDA",
+        "AMD",
+        "MU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "QCOM"
+    ]
+}

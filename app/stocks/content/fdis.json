@@ -1,0 +1,90 @@
+{
+    "ticker": "FDIS",
+    "name": "Fidelity International Limited",
+    "description": "Fidelity International Limited is a prominent global investment management firm, providing a wide range of financial services and products to clients around the world. Established in 1969 and based in Hamilton, Bermuda, Fidelity specializes in investment management, retirement solutions, and wealth management services. The firm is known for its comprehensive approach to investing, which combines rigorous research with innovative strategies to help clients achieve their financial goals. Fidelity offers a variety of investment options, including mutual funds, ETFs, and advisory services tailored to both institutional and individual investors. The company emphasizes a client-centric approach, focusing on delivering transparent and effective investment solutions. With a strong presence in Europe, Asia, and other markets, Fidelity is committed to responsible investing and integrates environmental, social, and governance (ESG) factors into its investment processes. In addition to traditional investment strategies, Fidelity is at the forefront of technological advancements in finance, using data analytics and digital platforms to enhance client experiences and investment outcomes. The firm also actively engages in financial education, providing resources and support to help clients make informed investment decisions. Fidelity's mission is to empower investors by offering innovative financial solutions and exceptional service, thereby contributing to a sustainable financial future.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "Hamilton, Bermuda",
+    "founded": "1969",
+    "website": "https://www.fidelity.com",
+    "ceo": "Anne Richards",
+    "social_media": {
+        "twitter": "https://twitter.com/Fidelity",
+        "linkedin": "https://www.linkedin.com/company/fidelity-international/"
+    },
+    "investor_relations": "https://www.fidelity.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Anne Richards",
+            "position": "CEO"
+        },
+        {
+            "name": "Tom Stevenson",
+            "position": "Investment Director"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mutual Funds",
+            "products": [
+                "Fidelity Growth Fund",
+                "Fidelity International Fund"
+            ]
+        },
+        {
+            "category": "Exchange-Traded Funds (ETFs)",
+            "products": [
+                "Fidelity MSCI Total Market Index ETF",
+                "Fidelity Dividend ETF for Rising Rates"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fidelity International Limited | Investment Management & Financial Services",
+        "meta_description": "Explore Fidelity International Limited, a leading global investment firm offering innovative financial solutions and exceptional client service. Discover a variety of investment products and strategies.",
+        "keywords": [
+            "Fidelity International",
+            "Investment Management",
+            "Mutual Funds",
+            "ETFs",
+            "Financial Services",
+            "Retirement Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Fidelity International offer?",
+            "answer": "Fidelity International offers investment management, retirement solutions, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of Fidelity International?",
+            "answer": "Anne Richards is the CEO of Fidelity International Limited."
+        },
+        {
+            "question": "Where is Fidelity International headquartered?",
+            "answer": "Fidelity International is headquartered in Hamilton, Bermuda."
+        },
+        {
+            "question": "What types of investment products does Fidelity provide?",
+            "answer": "Fidelity provides mutual funds, ETFs, and advisory services."
+        },
+        {
+            "question": "When was Fidelity International founded?",
+            "answer": "Fidelity International was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "VTI",
+        "SCHB",
+        "IVV"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "GS",
+        "MS"
+    ]
+}

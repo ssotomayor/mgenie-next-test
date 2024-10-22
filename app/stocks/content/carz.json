@@ -1,0 +1,91 @@
+{
+    "ticker": "CARZ",
+    "name": "Carvana Co.",
+    "description": "Carvana Co. is an innovative online used car retailer that has transformed the way consumers buy and sell vehicles. Founded in 2012, Carvana's mission is to provide a convenient and transparent car buying experience by leveraging cutting-edge technology and a user-friendly online platform. The company allows customers to browse a vast inventory of high-quality used cars, complete their purchase entirely online, and have their vehicle delivered directly to their doorstep or pick it up from one of their patented Car Vending Machines. Carvana's unique approach eliminates the traditional hassles of car buying, such as haggling with salespeople and lengthy paperwork. In addition to facilitating car purchases, Carvana also offers a hassle-free vehicle selling process, where customers can receive an instant offer for their car and sell it without the need for a dealership visit. Through its commitment to customer satisfaction, transparency, and innovation, Carvana aims to redefine the automotive retail experience and expand access to quality vehicles for all consumers.",
+    "industry": [
+        "Automotive",
+        "E-commerce"
+    ],
+    "headquarters": "Phoenix, Arizona, USA",
+    "founded": "2012",
+    "website": "https://www.carvana.com",
+    "ceo": "Ernie Garcia III",
+    "social_media": {
+        "twitter": "https://twitter.com/carvana",
+        "linkedin": "https://www.linkedin.com/company/carvana/"
+    },
+    "investor_relations": "https://investors.carvana.com",
+    "key_executives": [
+        {
+            "name": "Ernie Garcia III",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Jenkins",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Used Cars",
+            "products": [
+                "Sedans",
+                "SUVs",
+                "Trucks",
+                "Vans"
+            ]
+        },
+        {
+            "category": "Car Selling Services",
+            "products": [
+                "Instant Cash Offers",
+                "Vehicle Pickup"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Carvana Co. | Buy and Sell Used Cars Online",
+        "meta_description": "Discover Carvana Co., the leading online used car retailer. Explore a wide selection of vehicles, enjoy a hassle-free buying experience, and sell your car with ease.",
+        "keywords": [
+            "Carvana",
+            "Used Cars",
+            "Online Car Buying",
+            "Car Selling",
+            "Car Vending Machine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Carvana do?",
+            "answer": "Carvana is an online platform that allows customers to buy and sell used cars conveniently and transparently."
+        },
+        {
+            "question": "Who is the CEO of Carvana?",
+            "answer": "Ernie Garcia III is the CEO of Carvana Co."
+        },
+        {
+            "question": "Where is Carvana headquartered?",
+            "answer": "Carvana is headquartered in Phoenix, Arizona, USA."
+        },
+        {
+            "question": "What services does Carvana offer?",
+            "answer": "Carvana offers online car sales and purchases, including instant cash offers for selling vehicles."
+        },
+        {
+            "question": "When was Carvana founded?",
+            "answer": "Carvana was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "CARG",
+        "VROOM",
+        "TRUE",
+        "CARS"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "EBAY",
+        "TSLA",
+        "F"
+    ]
+}

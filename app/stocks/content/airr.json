@@ -1,0 +1,94 @@
+{
+    "ticker": "AIRR",
+    "name": "Airbnb, Inc.",
+    "description": "Airbnb, Inc. operates an online marketplace for lodging, primarily homestays for vacation rentals, and tourism activities. Founded in 2008 by Brian Chesky, Joe Gebbia, and Nathan Blecharczyk, Airbnb has transformed the way people travel by allowing hosts to rent out their properties to guests worldwide. With a mission to create a world where anyone can belong anywhere, Airbnb offers a diverse array of accommodations ranging from single rooms to luxurious villas, catering to various tastes and budgets. The company has expanded its offerings to include unique experiences, allowing guests to engage with local hosts in meaningful ways, whether through guided tours, cooking classes, or adventure activities. Airbnb's platform emphasizes safety and trust, providing users with features such as secure payment methods, user reviews, and host verification. As a pioneer in the sharing economy, Airbnb has faced regulatory challenges in various markets but continues to innovate and adapt. The company is committed to sustainability and community engagement, seeking to promote responsible travel and support local economies. With a global presence in over 220 countries and regions, Airbnb remains a leader in the travel and hospitality industry, continually evolving its services to meet the changing needs of travelers.",
+    "industry": [
+        "Hospitality",
+        "Travel",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2008",
+    "website": "https://www.airbnb.com",
+    "ceo": "Brian Chesky",
+    "social_media": {
+        "twitter": "https://twitter.com/airbnb",
+        "linkedin": "https://www.linkedin.com/company/airbnb",
+        "instagram": "https://www.instagram.com/airbnb",
+        "facebook": "https://www.facebook.com/airbnb"
+    },
+    "investor_relations": "https://investors.airbnb.com",
+    "key_executives": [
+        {
+            "name": "Brian Chesky",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy M. Dyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Accommodations",
+            "products": [
+                "Entire home",
+                "Private room",
+                "Shared room"
+            ]
+        },
+        {
+            "category": "Experiences",
+            "products": [
+                "Culinary classes",
+                "Adventure tours",
+                "Cultural experiences"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Airbnb, Inc. | Travel and Lodging Marketplace",
+        "meta_description": "Explore Airbnb, Inc., a transformative platform for lodging and travel experiences. Discover unique stays and local activities around the world.",
+        "keywords": [
+            "Airbnb",
+            "Vacation Rentals",
+            "Travel",
+            "Lodging",
+            "Hospitality",
+            "Sharing Economy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Airbnb known for?",
+            "answer": "Airbnb is known for its online marketplace that allows people to rent out their homes or rooms to travelers."
+        },
+        {
+            "question": "Who is the CEO of Airbnb?",
+            "answer": "Brian Chesky is the CEO of Airbnb, Inc."
+        },
+        {
+            "question": "Where is Airbnb headquartered?",
+            "answer": "Airbnb is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What types of accommodations does Airbnb offer?",
+            "answer": "Airbnb offers a variety of accommodations, including entire homes, private rooms, and shared rooms."
+        },
+        {
+            "question": "When was Airbnb founded?",
+            "answer": "Airbnb was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "BKNG",
+        "EXPE",
+        "TRIP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

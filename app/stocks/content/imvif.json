@@ -1,0 +1,84 @@
+{
+    "ticker": "IMVIF",
+    "name": "IMV Inc.",
+    "description": "IMV Inc. is a clinical-stage biopharmaceutical company focused on developing innovative therapies for cancer and infectious diseases. Founded in 2015, the company is headquartered in Halifax, Nova Scotia, Canada. IMV Inc. leverages its unique platform technology, known as the DPX platform, to create a new class of immunotherapies that aim to enhance the immune system's ability to fight diseases. The company's lead product candidate, DPX-Survivac, is designed for the treatment of various cancers, including ovarian and other solid tumors. IMV's approach is distinguished by its ability to deliver antigens in a way that induces a robust and sustained immune response. In addition to cancer therapies, IMV is also working on developing treatments for infectious diseases, including its vaccine candidate for COVID-19. With a strong pipeline of clinical trials and a commitment to advancing healthcare through immunotherapy, IMV Inc. is poised to make significant contributions to the fields of oncology and infectious disease treatment. The company's mission is to provide patients with more effective therapeutic options that enhance their quality of life and offer hope for diseases that remain challenging to treat.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Halifax, Nova Scotia, Canada",
+    "founded": "2015",
+    "website": "https://www.imv-inc.com",
+    "ceo": "Andrew Hall",
+    "social_media": {
+        "twitter": "https://twitter.com/IMV_Inc",
+        "linkedin": "https://www.linkedin.com/company/imv-inc/"
+    },
+    "investor_relations": "https://www.imv-inc.com/investors",
+    "key_executives": [
+        {
+            "name": "Andrew Hall",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. Frederic Ors",
+            "position": "CBO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cancer Immunotherapies",
+            "products": [
+                "DPX-Survivac"
+            ]
+        },
+        {
+            "category": "Infectious Disease Vaccines",
+            "products": [
+                "COVID-19 Vaccine Candidate"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IMV Inc. | Innovative Cancer and Infectious Disease Therapies",
+        "meta_description": "Explore IMV Inc., a clinical-stage biopharmaceutical company developing advanced immunotherapies for cancer and infectious diseases. Learn about our innovative DPX platform and ongoing clinical trials.",
+        "keywords": [
+            "IMV Inc.",
+            "Immunotherapy",
+            "Cancer Treatment",
+            "Biopharmaceuticals",
+            "Vaccine Development",
+            "DPX-Survivac"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IMV Inc. specialize in?",
+            "answer": "IMV Inc. specializes in developing immunotherapies for cancer and infectious diseases."
+        },
+        {
+            "question": "What is DPX-Survivac?",
+            "answer": "DPX-Survivac is IMV's lead product candidate designed for the treatment of various cancers."
+        },
+        {
+            "question": "Where is IMV Inc. headquartered?",
+            "answer": "IMV Inc. is headquartered in Halifax, Nova Scotia, Canada."
+        },
+        {
+            "question": "When was IMV Inc. founded?",
+            "answer": "IMV Inc. was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "BMY",
+        "NVO",
+        "REGN",
+        "MRNA"
+    ],
+    "related_stocks": [
+        "GILD",
+        "AMGN",
+        "PFE",
+        "JNJ"
+    ]
+}

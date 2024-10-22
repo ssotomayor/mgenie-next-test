@@ -1,0 +1,92 @@
+{
+    "ticker": "KMTUY",
+    "name": "Komatsu Ltd.",
+    "description": "Komatsu Ltd. is a leading Japanese multinational corporation that specializes in the manufacture of construction, mining, and military equipment. Founded in 1921, the company has established itself as one of the world\u2019s largest manufacturers in the heavy machinery sector. Komatsu is renowned for its innovative technologies and high-quality equipment, which includes hydraulic excavators, bulldozers, wheel loaders, and dump trucks. The company also offers a range of services, including equipment rental, financing, and maintenance, ensuring that customers receive comprehensive support throughout the lifecycle of their machinery. Komatsu is committed to sustainability and has made significant investments in developing eco-friendly technologies, such as hybrid excavators and electric construction equipment, reflecting its dedication to reducing environmental impact. With a global presence, Komatsu operates numerous manufacturing plants and sales offices across the Americas, Europe, and Asia, providing tailored solutions to meet the diverse needs of its customers. The company aims to enhance productivity and safety on job sites, and its innovative approach positions it as a key player in the construction and mining industries, contributing to infrastructure development worldwide.",
+    "industry": [
+        "Construction",
+        "Mining Equipment"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1921",
+    "website": "https://www.komatsu.com",
+    "ceo": "Mitsuo Yamamoto",
+    "social_media": {
+        "twitter": "https://twitter.com/KomatsuGlobal",
+        "linkedin": "https://www.linkedin.com/company/komatsu/",
+        "youtube": "https://www.youtube.com/user/KomatsuGlobal"
+    },
+    "investor_relations": "https://www.komatsu.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Mitsuo Yamamoto",
+            "position": "CEO"
+        },
+        {
+            "name": "Toshiaki Takahara",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Construction Equipment",
+            "products": [
+                "Excavators",
+                "Bulldozers",
+                "Wheel Loaders"
+            ]
+        },
+        {
+            "category": "Mining Equipment",
+            "products": [
+                "Dump Trucks",
+                "Drilling Rigs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Komatsu Ltd. | Leading Manufacturer of Construction and Mining Equipment",
+        "meta_description": "Discover Komatsu Ltd., a global leader in construction and mining equipment. Explore our innovative products and commitment to sustainability.",
+        "keywords": [
+            "Komatsu",
+            "Construction Equipment",
+            "Mining Equipment",
+            "Heavy Machinery",
+            "Excavators",
+            "Bulldozers"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Komatsu manufacture?",
+            "answer": "Komatsu manufactures construction, mining, and military equipment, including excavators, bulldozers, and dump trucks."
+        },
+        {
+            "question": "Who is the CEO of Komatsu?",
+            "answer": "Mitsuo Yamamoto is the CEO of Komatsu Ltd."
+        },
+        {
+            "question": "Where is Komatsu headquartered?",
+            "answer": "Komatsu is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Komatsu's main products?",
+            "answer": "Komatsu's main products include hydraulic excavators, bulldozers, wheel loaders, and mining dump trucks."
+        },
+        {
+            "question": "When was Komatsu founded?",
+            "answer": "Komatsu was founded in 1921."
+        }
+    ],
+    "competitors": [
+        "CAT",
+        "HCM",
+        "DE",
+        "MTW"
+    ],
+    "related_stocks": [
+        "MMM",
+        "GE",
+        "EMR",
+        "UTX"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "KIE",
+    "name": "Kaman Corporation",
+    "description": "Kaman Corporation is a diversified aerospace and industrial company with a rich heritage of innovation and excellence. Founded in 1945 by Charles Kaman, the company initially gained recognition for its helicopter designs and has since evolved into a leading player in various sectors, including aerospace, defense, and industrial distribution. Kaman operates through two primary segments: Aerospace and Distribution. The Aerospace segment specializes in the design, manufacture, and support of advanced aerospace systems, including unmanned systems and precision-guided munitions, while the Distribution segment focuses on supplying industrial parts and services to a wide range of industries. Kaman is committed to delivering high-quality products and services, leveraging cutting-edge technology and a skilled workforce to meet the complex needs of its customers. The company also emphasizes sustainability and innovation, continuously seeking to improve its processes and solutions. With a strong foundation built on engineering expertise and a customer-centric approach, Kaman is well-positioned to address the challenges of the modern aerospace and industrial landscape.",
+    "industry": [
+        "Aerospace",
+        "Defense",
+        "Industrial Distribution"
+    ],
+    "headquarters": "Bloomfield, Connecticut, USA",
+    "founded": "1945",
+    "website": "https://www.kaman.com",
+    "ceo": "Robert K. Duffy",
+    "social_media": {
+        "twitter": "https://twitter.com/KamanCorp",
+        "linkedin": "https://www.linkedin.com/company/kaman-corporation",
+        "facebook": "https://www.facebook.com/KamanCorp"
+    },
+    "investor_relations": "https://investors.kaman.com",
+    "key_executives": [
+        {
+            "name": "Robert K. Duffy",
+            "position": "CEO"
+        },
+        {
+            "name": "G. L. R. K. (Ram) Ramakrishnan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aerospace Products",
+            "products": [
+                "Unmanned Systems",
+                "Precision-guided Munitions",
+                "Helicopters"
+            ]
+        },
+        {
+            "category": "Industrial Distribution",
+            "products": [
+                "Bearings",
+                "Power Transmission Products",
+                "Fluid Power Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kaman Corporation | Aerospace and Industrial Solutions",
+        "meta_description": "Explore Kaman Corporation, a leader in aerospace systems and industrial distribution. Learn about our innovative solutions and commitment to excellence.",
+        "keywords": [
+            "Kaman Corporation",
+            "Aerospace",
+            "Industrial Distribution",
+            "Unmanned Systems",
+            "Precision-guided Munitions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Kaman Corporation do?",
+            "answer": "Kaman Corporation operates in aerospace and industrial sectors, providing products and services in unmanned systems, precision-guided munitions, and industrial distribution."
+        },
+        {
+            "question": "Who is the CEO of Kaman Corporation?",
+            "answer": "Robert K. Duffy is the CEO of Kaman Corporation."
+        },
+        {
+            "question": "Where is Kaman Corporation headquartered?",
+            "answer": "Kaman Corporation is headquartered in Bloomfield, Connecticut, USA."
+        },
+        {
+            "question": "What are Kaman's main product categories?",
+            "answer": "Kaman's main product categories include aerospace products and industrial distribution items such as bearings and power transmission products."
+        },
+        {
+            "question": "When was Kaman Corporation founded?",
+            "answer": "Kaman Corporation was founded in 1945."
+        }
+    ],
+    "competitors": [
+        "NOC",
+        "LMT",
+        "GD",
+        "RTX"
+    ],
+    "related_stocks": [
+        "BA",
+        "HON",
+        "SPCE",
+        "GD"
+    ]
+}

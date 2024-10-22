@@ -1,0 +1,85 @@
+{
+    "ticker": "AA",
+    "name": "Alcoa Corporation",
+    "description": "Alcoa Corporation is a global leader in the production of bauxite, alumina, and aluminum products. Established in 1888, Alcoa has played a pivotal role in the development of the aluminum industry and is known for its commitment to sustainability and innovation. The company operates in over 10 countries and is recognized for its integrated approach to mining, refining, and recycling aluminum. Alcoa's product portfolio includes primary aluminum, fabricated aluminum, and alumina, serving a diverse range of industries such as aerospace, automotive, building and construction, and packaging. The company focuses on reducing its environmental footprint through advanced technology and processes that enhance efficiency and sustainability. Alcoa is also committed to responsible sourcing and minimizes the impact of its operations on local communities and ecosystems. With a strong emphasis on research and development, Alcoa continues to innovate in areas such as lightweight materials and aluminum applications that contribute to energy efficiency and performance. The company\u2019s mission is to be the best global aluminum producer, providing high-quality products while leading the way in sustainability and operational excellence.",
+    "industry": [
+        "Metals & Mining",
+        "Aluminum Production"
+    ],
+    "headquarters": "Pittsburgh, Pennsylvania, USA",
+    "founded": "1888",
+    "website": "https://www.alcoa.com",
+    "ceo": "Roy Harvey",
+    "social_media": {
+        "twitter": "https://twitter.com/alcoa",
+        "linkedin": "https://www.linkedin.com/company/alcoa/"
+    },
+    "investor_relations": "https://www.alcoa.com/investors",
+    "key_executives": [
+        {
+            "name": "Roy Harvey",
+            "position": "CEO"
+        },
+        {
+            "name": "William Oplinger",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Bauxite and Alumina",
+            "products": [
+                "Bauxite",
+                "Alumina"
+            ]
+        },
+        {
+            "category": "Aluminum Products",
+            "products": [
+                "Primary Aluminum",
+                "Fabricated Aluminum"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Alcoa Corporation | Global Leader in Aluminum Production",
+        "meta_description": "Discover Alcoa Corporation, a leader in bauxite, alumina, and aluminum production. Learn about Alcoa's commitment to sustainability and innovation in the aluminum industry.",
+        "keywords": [
+            "Alcoa",
+            "Aluminum Production",
+            "Bauxite",
+            "Alumina",
+            "Sustainable Aluminum",
+            "Roy Harvey"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Alcoa produce?",
+            "answer": "Alcoa produces bauxite, alumina, and aluminum products, including primary and fabricated aluminum."
+        },
+        {
+            "question": "Who is the CEO of Alcoa?",
+            "answer": "Roy Harvey is the CEO of Alcoa Corporation."
+        },
+        {
+            "question": "Where is Alcoa headquartered?",
+            "answer": "Alcoa is headquartered in Pittsburgh, Pennsylvania, USA."
+        },
+        {
+            "question": "When was Alcoa founded?",
+            "answer": "Alcoa was founded in 1888."
+        }
+    ],
+    "competitors": [
+        "NUE",
+        "AAWW",
+        "STLD"
+    ],
+    "related_stocks": [
+        "FCX",
+        "X",
+        "LIN",
+        "ALB"
+    ]
+}

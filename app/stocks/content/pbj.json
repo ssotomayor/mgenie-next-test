@@ -1,0 +1,93 @@
+{
+    "ticker": "PBJ",
+    "name": "Power Beverage Corporation",
+    "description": "Power Beverage Corporation is a dynamic player in the beverage industry, focusing on innovative and health-oriented drink solutions. Founded in 2010, Power Beverage has quickly established itself as a leader in the market for functional beverages that cater to the health-conscious consumer. The company specializes in a variety of products, including energy drinks, protein shakes, and vitamin-infused waters, all designed to enhance physical performance and overall wellness. Power Beverage is dedicated to using only high-quality, natural ingredients, setting itself apart from competitors who rely on artificial additives. With a strong emphasis on sustainability, the company employs eco-friendly packaging and sustainable sourcing practices. Power Beverage has expanded its product line to include organic and non-GMO options, reflecting the growing demand for healthier alternatives in the beverage sector. The company's mission is to empower consumers to lead healthier lives through convenient and effective beverage solutions. Additionally, Power Beverage actively engages with its community and promotes fitness initiatives, encouraging a lifestyle that aligns with its brand values. As the company continues to innovate and expand its market reach, it remains committed to its core principles of health, sustainability, and quality.",
+    "industry": [
+        "Beverages",
+        "Food & Beverage"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.powerbeverage.com",
+    "ceo": "Jessica Harmon",
+    "social_media": {
+        "twitter": "https://twitter.com/PowerBeverage",
+        "linkedin": "https://www.linkedin.com/company/power-beverage-corporation/",
+        "instagram": "https://www.instagram.com/powerbeverage"
+    },
+    "investor_relations": "https://ir.powerbeverage.com",
+    "key_executives": [
+        {
+            "name": "Jessica Harmon",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Energy Drinks",
+            "products": [
+                "Power Energy Original",
+                "Power Energy Zero Sugar"
+            ]
+        },
+        {
+            "category": "Protein Shakes",
+            "products": [
+                "Power Protein Vanilla",
+                "Power Protein Chocolate"
+            ]
+        },
+        {
+            "category": "Vitamin-Infused Waters",
+            "products": [
+                "Power Hydrate Citrus",
+                "Power Hydrate Berry"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Power Beverage Corporation | Functional and Health-Oriented Drinks",
+        "meta_description": "Explore Power Beverage Corporation, a leader in innovative beverages. Discover our range of health-focused drinks and commitment to sustainability.",
+        "keywords": [
+            "Power Beverage",
+            "Energy Drinks",
+            "Protein Shakes",
+            "Healthy Beverages",
+            "Functional Drinks"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Power Beverage offer?",
+            "answer": "Power Beverage offers energy drinks, protein shakes, and vitamin-infused waters."
+        },
+        {
+            "question": "Who is the CEO of Power Beverage Corporation?",
+            "answer": "Jessica Harmon is the CEO of Power Beverage Corporation."
+        },
+        {
+            "question": "Where is Power Beverage headquartered?",
+            "answer": "Power Beverage is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "When was Power Beverage founded?",
+            "answer": "Power Beverage was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "COKE",
+        "PEP",
+        "MNST",
+        "DAN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

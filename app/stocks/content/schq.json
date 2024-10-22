@@ -1,0 +1,90 @@
+{
+    "ticker": "SCHQ",
+    "name": "Schrodinger, Inc.",
+    "description": "Schrodinger, Inc. is a leading provider of software and services for drug discovery and materials science. Founded in 1990, Schrodinger combines advanced physics-based simulations with machine learning to accelerate the development of new therapeutics and materials. The company's innovative platform allows scientists to model molecular interactions with unprecedented accuracy, significantly improving the efficiency and effectiveness of the drug discovery process. Schrodinger's products are utilized by both academic institutions and pharmaceutical companies, enabling researchers to explore vast chemical spaces and identify promising candidates for further development. With a strong focus on collaboration, the company partners with various biopharmaceutical firms to enhance their R&D capabilities and drive the next generation of therapeutics. Schrodinger's mission is to transform the way scientists design and discover new drugs, ultimately contributing to improved healthcare outcomes globally. The company is also actively involved in materials science, providing solutions for the development of new materials in industries such as energy, electronics, and nanotechnology. As a pioneer in computational science, Schrodinger continues to innovate and expand its offerings to meet the evolving needs of its clients.",
+    "industry": [
+        "Biotechnology",
+        "Software"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1990",
+    "website": "https://www.schrodinger.com",
+    "ceo": "David M. Shaw",
+    "social_media": {
+        "twitter": "https://twitter.com/schrodinger",
+        "linkedin": "https://www.linkedin.com/company/schrodinger/"
+    },
+    "investor_relations": "https://investors.schrodinger.com",
+    "key_executives": [
+        {
+            "name": "David M. Shaw",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael A. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Drug Discovery Software",
+            "products": [
+                "Schrodinger Suite",
+                "Materials Science Suite"
+            ]
+        },
+        {
+            "category": "Collaborative Services",
+            "products": [
+                "Drug Discovery Partnerships",
+                "Custom Software Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Schrodinger, Inc. | Drug Discovery and Materials Science Software",
+        "meta_description": "Discover Schrodinger, Inc., a leader in software and services for drug discovery and materials science. Explore innovative solutions for accelerating research and development.",
+        "keywords": [
+            "Schrodinger",
+            "Drug Discovery",
+            "Computational Chemistry",
+            "Materials Science",
+            "Biotechnology",
+            "Pharmaceuticals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Schrodinger do?",
+            "answer": "Schrodinger provides software and services for drug discovery and materials science, using advanced simulations and machine learning."
+        },
+        {
+            "question": "Who is the CEO of Schrodinger?",
+            "answer": "David M. Shaw is the CEO of Schrodinger, Inc."
+        },
+        {
+            "question": "Where is Schrodinger headquartered?",
+            "answer": "Schrodinger is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Schrodinger's main products?",
+            "answer": "Schrodinger's main products include the Schrodinger Suite and Materials Science Suite for drug discovery and materials research."
+        },
+        {
+            "question": "When was Schrodinger founded?",
+            "answer": "Schrodinger was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "VRTX",
+        "AMGN",
+        "REGN",
+        "BMY"
+    ],
+    "related_stocks": [
+        "GILD",
+        "ABBV",
+        "JNJ",
+        "PFE"
+    ]
+}

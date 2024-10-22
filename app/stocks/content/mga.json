@@ -1,0 +1,91 @@
+{
+    "ticker": "MGA",
+    "name": "Magna International Inc.",
+    "description": "Magna International Inc. is a leading global automotive supplier with a comprehensive portfolio of capabilities and products that support the ongoing evolution of the automotive industry. Founded in 1957 and headquartered in Aurora, Ontario, Canada, Magna operates in more than 27 countries and employs approximately 158,000 people. The company specializes in the design, engineering, and manufacturing of automotive systems, modules, and components. Magna's broad product range includes body, chassis, exterior, seating, powertrain, and electronic systems. As the automotive landscape shifts towards electrification, autonomous driving, and connected vehicles, Magna is at the forefront, investing in innovative solutions and technologies that enhance vehicle performance and safety. The company partners with major automakers, delivering a high level of customization and flexibility to meet the unique demands of its clients. Magna's commitment to sustainability is reflected in its practices, focusing on reducing environmental impact and enhancing energy efficiency across its operations. By leveraging its engineering expertise and global reach, Magna aims to drive the future of mobility while maintaining a strong emphasis on quality and customer satisfaction.",
+    "industry": [
+        "Automotive",
+        "Manufacturing"
+    ],
+    "headquarters": "Aurora, Ontario, Canada",
+    "founded": "1957",
+    "website": "https://www.magna.com",
+    "ceo": "Swamy Kotagiri",
+    "social_media": {
+        "twitter": "https://twitter.com/MagnaInt",
+        "linkedin": "https://www.linkedin.com/company/magna-international/"
+    },
+    "investor_relations": "https://investor.magna.com",
+    "key_executives": [
+        {
+            "name": "Swamy Kotagiri",
+            "position": "CEO"
+        },
+        {
+            "name": "Vincent Galifi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vehicle Systems",
+            "products": [
+                "Body & Chassis",
+                "Powertrain",
+                "Seating",
+                "Exterior"
+            ]
+        },
+        {
+            "category": "Electronics & Software",
+            "products": [
+                "Advanced Driver Assistance Systems (ADAS)",
+                "Connected Vehicle Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Magna International Inc. | Global Automotive Supplier",
+        "meta_description": "Learn about Magna International Inc., a leading global automotive supplier focused on innovation, quality, and sustainability in vehicle manufacturing.",
+        "keywords": [
+            "Magna International",
+            "Automotive Supplier",
+            "Vehicle Systems",
+            "Electrification",
+            "Swamy Kotagiri",
+            "ADAS"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Magna International do?",
+            "answer": "Magna International is a global automotive supplier that designs, engineers, and manufactures automotive systems, modules, and components."
+        },
+        {
+            "question": "Who is the CEO of Magna International?",
+            "answer": "Swamy Kotagiri is the CEO of Magna International Inc."
+        },
+        {
+            "question": "Where is Magna headquartered?",
+            "answer": "Magna is headquartered in Aurora, Ontario, Canada."
+        },
+        {
+            "question": "What are Magna's main products?",
+            "answer": "Magna's main products include body, chassis, powertrain, seating, and electronic systems for the automotive industry."
+        },
+        {
+            "question": "When was Magna founded?",
+            "answer": "Magna was founded in 1957."
+        }
+    ],
+    "competitors": [
+        "LEA",
+        "BWA",
+        "DAN"
+    ],
+    "related_stocks": [
+        "F",
+        "GM",
+        "TSLA",
+        "STLA"
+    ]
+}

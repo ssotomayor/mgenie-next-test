@@ -1,0 +1,82 @@
+{
+    "ticker": "GNPX",
+    "name": "Genprex, Inc.",
+    "description": "Genprex, Inc. is a biotechnology company focused on developing innovative gene therapies for cancer treatment. Founded in 2015 and headquartered in Austin, Texas, Genprex aims to address unmet medical needs in oncology through its proprietary gene therapy platform. The company is particularly known for its lead product candidate, Oncoprex, which combines a targeted therapy with a novel gene therapy to treat non-small cell lung cancer (NSCLC). Genprex's approach leverages the body's own immune system to combat cancer cells, potentially offering patients a new hope in their fight against this devastating disease. The company is actively conducting clinical trials to assess the safety and efficacy of its therapies, with the goal of bringing groundbreaking solutions to market. Genprex also works on improving existing treatments and aims to expand its portfolio to include therapies for other types of cancer. With a strong commitment to scientific research and innovation, Genprex is dedicated to transforming cancer treatment and improving the quality of life for patients.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2015",
+    "website": "https://www.genprex.com",
+    "ceo": "Rodney Varner",
+    "social_media": {
+        "twitter": "https://twitter.com/Genprex",
+        "linkedin": "https://www.linkedin.com/company/genprex/"
+    },
+    "investor_relations": "https://ir.genprex.com",
+    "key_executives": [
+        {
+            "name": "Rodney Varner",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. T. Michael McGowan",
+            "position": "Chief Medical Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Gene Therapies",
+            "products": [
+                "Oncoprex"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Genprex, Inc. | Innovative Gene Therapies for Cancer",
+        "meta_description": "Explore Genprex, Inc., a biotechnology company developing gene therapies for cancer treatment. Learn about Oncoprex and our commitment to innovation in oncology.",
+        "keywords": [
+            "Genprex",
+            "Gene Therapy",
+            "Cancer Treatment",
+            "Oncoprex",
+            "Biotechnology",
+            "NSCLC"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Genprex known for?",
+            "answer": "Genprex is known for its innovative gene therapies for cancer, particularly its lead product Oncoprex for non-small cell lung cancer."
+        },
+        {
+            "question": "Who is the CEO of Genprex?",
+            "answer": "Rodney Varner is the CEO of Genprex, Inc."
+        },
+        {
+            "question": "Where is Genprex headquartered?",
+            "answer": "Genprex is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What is Oncoprex?",
+            "answer": "Oncoprex is Genprex's lead product candidate, a gene therapy designed to treat non-small cell lung cancer."
+        },
+        {
+            "question": "When was Genprex founded?",
+            "answer": "Genprex was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "BMY",
+        "MRNA",
+        "REGN"
+    ],
+    "related_stocks": [
+        "ABT",
+        "JNJ",
+        "PFE",
+        "GILD"
+    ]
+}

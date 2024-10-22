@@ -1,0 +1,95 @@
+{
+    "ticker": "GAME",
+    "name": "GameStop Corp.",
+    "description": "GameStop Corp. is a leading retailer of video games, consumer electronics, and gaming merchandise, with a focus on providing a unique shopping experience for gamers. Established in 1984 and headquartered in Grapevine, Texas, GameStop has grown to become a prominent player in the gaming industry, operating thousands of stores across the United States and internationally. The company offers an extensive selection of new and pre-owned video games, consoles, and accessories, catering to a diverse customer base of gamers. In recent years, GameStop has embraced the transition to digital gaming and e-commerce, launching its online platform to enhance customer accessibility and convenience. The company has also invested in expanding its product offerings, including collectibles and gaming-related merchandise. Despite facing significant challenges from the rise of digital downloads and streaming services, GameStop has shown resilience and adaptability, leveraging its loyal customer community and innovative marketing strategies. The company gained widespread attention in early 2021 due to a massive surge in its stock price driven by retail investors, sparking discussions around market dynamics and the role of social media in trading. GameStop aims to continue evolving in the rapidly changing gaming landscape, focusing on enhancing customer engagement and driving growth through strategic initiatives and partnerships.",
+    "industry": [
+        "Retail",
+        "Gaming"
+    ],
+    "headquarters": "Grapevine, Texas, USA",
+    "founded": "1984",
+    "website": "https://www.gamestop.com",
+    "ceo": "Matt Furlong",
+    "social_media": {
+        "twitter": "https://twitter.com/GameStop",
+        "linkedin": "https://www.linkedin.com/company/gamestop/",
+        "instagram": "https://www.instagram.com/gamestop/"
+    },
+    "investor_relations": "https://investor Gamestop.com",
+    "key_executives": [
+        {
+            "name": "Matt Furlong",
+            "position": "CEO"
+        },
+        {
+            "name": "Jim Bell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Video Games",
+            "products": [
+                "New Games",
+                "Pre-Owned Games",
+                "Digital Downloads"
+            ]
+        },
+        {
+            "category": "Consoles",
+            "products": [
+                "PlayStation",
+                "Xbox",
+                "Nintendo Switch"
+            ]
+        },
+        {
+            "category": "Gaming Accessories",
+            "products": [
+                "Controllers",
+                "Headsets",
+                "Collectibles"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GameStop Corp. | Video Games and Gaming Merchandise Retailer",
+        "meta_description": "Explore GameStop Corp., a leading retailer in video games and gaming merchandise. Discover our extensive selection of games, consoles, and accessories.",
+        "keywords": [
+            "GameStop",
+            "Video Games",
+            "Gaming Retail",
+            "Consoles",
+            "Gaming Accessories"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does GameStop sell?",
+            "answer": "GameStop sells video games, consoles, and gaming accessories, including new and pre-owned products."
+        },
+        {
+            "question": "Who is the CEO of GameStop?",
+            "answer": "Matt Furlong is the CEO of GameStop Corp."
+        },
+        {
+            "question": "Where is GameStop headquartered?",
+            "answer": "GameStop is headquartered in Grapevine, Texas, USA."
+        },
+        {
+            "question": "When was GameStop founded?",
+            "answer": "GameStop was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "BB",
+        "NKE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "NFLX"
+    ]
+}

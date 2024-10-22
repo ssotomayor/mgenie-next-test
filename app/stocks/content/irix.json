@@ -1,0 +1,89 @@
+{
+    "ticker": "IRIX",
+    "name": "Iridium Communications Inc.",
+    "description": "Iridium Communications Inc. is a leading global satellite communications company that provides critical communication services through its unique satellite constellation. Founded in 2001 and headquartered in McLean, Virginia, Iridium operates a network of 66 low Earth orbit (LEO) satellites that enable voice and data communication across the globe, particularly in remote and underserved areas where traditional communication infrastructure is lacking. The company offers a variety of services, including satellite phones, data terminals, and various IoT solutions, catering to industries such as maritime, aviation, government, and emergency services. Iridium's innovative technology ensures reliable connectivity in the most challenging environments, supporting critical missions and enhancing safety for its users. The company is also known for its commitment to advancing satellite technology, including the recent launch of the Iridium NEXT satellite constellation, which has significantly improved data speeds and coverage. With a mission to connect people and machines anywhere, anytime, Iridium continues to expand its services and partnerships to meet the growing demand for global communications.",
+    "industry": [
+        "Telecommunications",
+        "Satellite Communications"
+    ],
+    "headquarters": "McLean, Virginia, USA",
+    "founded": "2001",
+    "website": "https://www.iridium.com",
+    "ceo": "Matt Desch",
+    "social_media": {
+        "twitter": "https://twitter.com/IridiumComm",
+        "linkedin": "https://www.linkedin.com/company/iridium-communications/"
+    },
+    "investor_relations": "https://investor.iridium.com",
+    "key_executives": [
+        {
+            "name": "Matt Desch",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Communications",
+            "products": [
+                "Iridium 9555 Satellite Phone",
+                "Iridium GO!",
+                "Iridium Certus"
+            ]
+        },
+        {
+            "category": "IoT Solutions",
+            "products": [
+                "Iridium Edge",
+                "Iridium Short Burst Data (SBD) Service"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Iridium Communications Inc. | Global Satellite Communication Solutions",
+        "meta_description": "Explore Iridium Communications Inc., a leader in global satellite communications providing voice and data services across the globe, especially in remote areas.",
+        "keywords": [
+            "Iridium",
+            "Satellite Communications",
+            "Global Connectivity",
+            "IoT Solutions",
+            "Telecommunications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Iridium offer?",
+            "answer": "Iridium offers satellite communication services including satellite phones and IoT solutions."
+        },
+        {
+            "question": "Who is the CEO of Iridium?",
+            "answer": "Matt Desch is the CEO of Iridium Communications Inc."
+        },
+        {
+            "question": "Where is Iridium headquartered?",
+            "answer": "Iridium is headquartered in McLean, Virginia, USA."
+        },
+        {
+            "question": "What industries does Iridium serve?",
+            "answer": "Iridium serves industries such as maritime, aviation, government, and emergency services."
+        },
+        {
+            "question": "When was Iridium founded?",
+            "answer": "Iridium was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "VZ",
+        "SATS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "ticker": "PSK",
+    "name": "Parker Hannifin Corporation",
+    "description": "Parker Hannifin Corporation is a global leader in motion and control technologies, offering precision-engineered solutions for a wide range of applications. Founded in 1917, Parker has grown to become an essential player in various industries, including aerospace, industrial, hydraulic, and fluid connectors. The company's innovative products and systems improve the efficiency, safety, and reliability of machinery and processes. Parker's extensive portfolio includes hydraulic pumps, valves, cylinders, filtration systems, and motion control devices, which are critical in sectors such as manufacturing, healthcare, transportation, and energy. With a commitment to sustainability, Parker is focused on developing technologies that enhance energy efficiency and reduce environmental impact. The company's mission is to provide customers with comprehensive solutions that enable them to achieve their operational goals while promoting a sustainable future. Parker Hannifin's global presence, coupled with its strong investment in research and development, positions it well to address the evolving needs of its customers in an increasingly complex industrial landscape.",
+    "industry": [
+        "Manufacturing",
+        "Aerospace",
+        "Fluid Power"
+    ],
+    "headquarters": "Cleveland, Ohio, USA",
+    "founded": "1917",
+    "website": "https://www.parker.com",
+    "ceo": "Thomas L. Williams",
+    "social_media": {
+        "twitter": "https://twitter.com/ParkerHannifin",
+        "linkedin": "https://www.linkedin.com/company/parker-hannifin/"
+    },
+    "investor_relations": "https://investors.parker.com",
+    "key_executives": [
+        {
+            "name": "Thomas L. Williams",
+            "position": "CEO"
+        },
+        {
+            "name": "Lee C. Banks",
+            "position": "President and COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Hydraulic Systems",
+            "products": [
+                "Hydraulic Pumps",
+                "Valves",
+                "Cylinders"
+            ]
+        },
+        {
+            "category": "Filtration Systems",
+            "products": [
+                "Fluid Filtration",
+                "Air Filtration"
+            ]
+        },
+        {
+            "category": "Motion Control",
+            "products": [
+                "Electric Drives",
+                "Linear Actuators"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Parker Hannifin Corporation | Motion and Control Technologies",
+        "meta_description": "Explore Parker Hannifin Corporation, a leader in motion and control technologies. Discover innovative solutions for various industries and learn about our commitment to sustainability.",
+        "keywords": [
+            "Parker Hannifin",
+            "Motion Control",
+            "Hydraulic Systems",
+            "Filtration",
+            "Industrial Solutions",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Parker Hannifin known for?",
+            "answer": "Parker Hannifin is known for its motion and control technologies, providing precision-engineered solutions for various industries."
+        },
+        {
+            "question": "Who is the CEO of Parker Hannifin?",
+            "answer": "Thomas L. Williams is the CEO of Parker Hannifin Corporation."
+        },
+        {
+            "question": "Where is Parker Hannifin headquartered?",
+            "answer": "Parker Hannifin is headquartered in Cleveland, Ohio, USA."
+        },
+        {
+            "question": "What are Parker Hannifin's main products?",
+            "answer": "Parker Hannifin's main products include hydraulic systems, filtration systems, and motion control devices."
+        },
+        {
+            "question": "When was Parker Hannifin founded?",
+            "answer": "Parker Hannifin was founded in 1917."
+        }
+    ],
+    "competitors": [
+        "ITT",
+        "DOV",
+        "RBC",
+        "HII"
+    ],
+    "related_stocks": [
+        "GE",
+        "HON",
+        "RTX",
+        "BA"
+    ]
+}

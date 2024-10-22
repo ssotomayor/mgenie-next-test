@@ -1,0 +1,90 @@
+{
+    "ticker": "ABCB",
+    "name": "Ameris Bank",
+    "description": "Ameris Bank is a full-service financial institution headquartered in Moultrie, Georgia, specializing in providing a wide range of banking services to individuals and businesses. Established in 1971, Ameris Bank has grown to become one of the leading community banks in the southeastern United States, with a commitment to offering personalized service and innovative financial solutions. The bank offers various products, including personal and business checking accounts, savings accounts, loans, mortgages, and investment services. Ameris Bank is dedicated to supporting the communities it serves through various initiatives, including financial education programs and community development investments. The bank has a strong emphasis on technology, providing its customers with online banking and mobile banking options for convenience and accessibility. Ameris Bank\u2019s mission is to enhance the lives of its customers, employees, and communities by delivering exceptional financial services and fostering lasting relationships.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Moultrie, Georgia, USA",
+    "founded": "1971",
+    "website": "https://www.amerisbank.com",
+    "ceo": "Emory D. McGowan",
+    "social_media": {
+        "twitter": "https://twitter.com/amerisbank",
+        "linkedin": "https://www.linkedin.com/company/ameris-bank",
+        "facebook": "https://www.facebook.com/AmerisBank"
+    },
+    "investor_relations": "https://ir.amerisbank.com",
+    "key_executives": [
+        {
+            "name": "Emory D. McGowan",
+            "position": "CEO"
+        },
+        {
+            "name": "James R. McCoy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking Accounts",
+                "Commercial Loans",
+                "Merchant Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ameris Bank | Full-Service Community Banking",
+        "meta_description": "Ameris Bank offers a range of financial services, including personal and business banking solutions, with a focus on community engagement and customer satisfaction.",
+        "keywords": [
+            "Ameris Bank",
+            "Banking",
+            "Financial Services",
+            "Community Bank",
+            "Loans",
+            "Mortgages"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Ameris Bank provide?",
+            "answer": "Ameris Bank provides personal and business banking services, including checking and savings accounts, loans, and mortgages."
+        },
+        {
+            "question": "Who is the CEO of Ameris Bank?",
+            "answer": "Emory D. McGowan is the CEO of Ameris Bank."
+        },
+        {
+            "question": "Where is Ameris Bank headquartered?",
+            "answer": "Ameris Bank is headquartered in Moultrie, Georgia, USA."
+        },
+        {
+            "question": "When was Ameris Bank founded?",
+            "answer": "Ameris Bank was founded in 1971."
+        }
+    ],
+    "competitors": [
+        "ZION",
+        "FULT",
+        "SNV",
+        "CFR"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "EXPE",
+    "name": "Expedia Group, Inc.",
+    "description": "Expedia Group, Inc. is a leading online travel company that provides a comprehensive suite of travel services to travelers around the world. Founded in 1996 as a division of Microsoft, Expedia has grown into a global powerhouse in the travel industry, operating a vast portfolio of travel brands including Expedia.com, Hotels.com, Vrbo, and Orbitz. The company's mission is to power global travel for everyone, everywhere, by offering innovative technology and superior customer service. Expedia facilitates the booking of hotels, flights, car rentals, cruises, and vacation packages, making it a one-stop-shop for all travel needs. With a focus on enhancing the traveler experience, Expedia leverages data analytics and machine learning to deliver personalized recommendations and seamless booking experiences. The company is also committed to sustainability, working to minimize its environmental impact and promote responsible travel. As travel demand continues to rebound post-pandemic, Expedia is well-positioned to capitalize on the growing trend of online travel booking and the increasing desire for unique travel experiences.",
+    "industry": [
+        "Travel",
+        "E-commerce"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "1996",
+    "website": "https://www.expedia.com",
+    "ceo": "Peter Kern",
+    "social_media": {
+        "twitter": "https://twitter.com/Expedia",
+        "linkedin": "https://www.linkedin.com/company/expedia-group/"
+    },
+    "investor_relations": "https://ir.expediagroup.com",
+    "key_executives": [
+        {
+            "name": "Peter Kern",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric Hart",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Travel Services",
+            "products": [
+                "Hotel Bookings",
+                "Flight Reservations",
+                "Car Rentals",
+                "Vacation Packages"
+            ]
+        },
+        {
+            "category": "Vacation Rentals",
+            "products": [
+                "Vrbo"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Expedia Group, Inc. | Travel Services and Vacation Rentals",
+        "meta_description": "Explore Expedia Group, Inc., a leading online travel company offering hotel bookings, flights, and vacation rentals. Discover our commitment to customer service and innovation.",
+        "keywords": [
+            "Expedia",
+            "Travel Services",
+            "Vacation Rentals",
+            "Online Travel Booking",
+            "Travel Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Expedia specialize in?",
+            "answer": "Expedia specializes in online travel services, including hotel bookings, flights, car rentals, and vacation packages."
+        },
+        {
+            "question": "Who is the CEO of Expedia Group?",
+            "answer": "Peter Kern is the CEO of Expedia Group, Inc."
+        },
+        {
+            "question": "Where is Expedia headquartered?",
+            "answer": "Expedia is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What are Expedia's main products?",
+            "answer": "Expedia's main products include hotel bookings, flight reservations, car rentals, vacation packages, and vacation rentals through Vrbo."
+        },
+        {
+            "question": "When was Expedia founded?",
+            "answer": "Expedia was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "BKNG",
+        "TRIP",
+        "ABNB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

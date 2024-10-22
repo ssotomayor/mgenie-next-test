@@ -1,0 +1,89 @@
+{
+    "ticker": "OCCIN",
+    "name": "Occidental Petroleum Corporation",
+    "description": "Occidental Petroleum Corporation (Oxy) is a multinational company engaged in hydrocarbon exploration and production, as well as chemical manufacturing. Founded in 1920 and headquartered in Houston, Texas, Occidental is one of the largest oil and gas companies in the United States, with operations across North America, the Middle East, and Latin America. The company is a leader in the production of oil and natural gas, but it also has a strong focus on sustainability and innovation. Occidental has made significant investments in carbon management technologies, including its direct air capture initiative, which aims to reduce greenhouse gas emissions. The company is committed to delivering oil and gas in a responsible manner while also addressing the global challenge of climate change. Occidental's diverse portfolio includes upstream operations, where it explores for and produces oil and gas, and downstream operations, where it manufactures petrochemicals and specialty chemicals. With a mission to provide reliable and affordable energy while being environmentally responsible, Occidental continues to adapt in a rapidly changing energy landscape.",
+    "industry": [
+        "Oil & Gas",
+        "Chemicals"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1920",
+    "website": "https://www.oxy.com",
+    "ceo": "Vicki Hollub",
+    "social_media": {
+        "twitter": "https://twitter.com/Oxy",
+        "linkedin": "https://www.linkedin.com/company/occidental-petroleum-corporation/"
+    },
+    "investor_relations": "https://www.oxy.com/investors",
+    "key_executives": [
+        {
+            "name": "Vicki Hollub",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert Peterson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Upstream",
+            "products": [
+                "Crude Oil",
+                "Natural Gas"
+            ]
+        },
+        {
+            "category": "Downstream",
+            "products": [
+                "Petrochemicals",
+                "Specialty Chemicals"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Occidental Petroleum Corporation | Energy and Chemical Solutions",
+        "meta_description": "Discover Occidental Petroleum Corporation, a leader in oil, gas, and chemical production. Learn about Oxy's commitment to sustainable energy and innovative technologies.",
+        "keywords": [
+            "Occidental Petroleum",
+            "Oil and Gas",
+            "Petrochemicals",
+            "Sustainable Energy",
+            "Vicki Hollub"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Occidental Petroleum do?",
+            "answer": "Occidental Petroleum is engaged in the exploration and production of oil and gas, as well as the manufacturing of chemicals."
+        },
+        {
+            "question": "Who is the CEO of Occidental Petroleum?",
+            "answer": "Vicki Hollub is the CEO of Occidental Petroleum Corporation."
+        },
+        {
+            "question": "Where is Occidental Petroleum headquartered?",
+            "answer": "Occidental Petroleum is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Occidental's main products?",
+            "answer": "Occidental's main products include crude oil, natural gas, petrochemicals, and specialty chemicals."
+        },
+        {
+            "question": "When was Occidental Petroleum founded?",
+            "answer": "Occidental Petroleum was founded in 1920."
+        }
+    ],
+    "competitors": [
+        "XOM",
+        "CVX",
+        "COP",
+        "BP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

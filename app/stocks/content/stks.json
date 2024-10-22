@@ -1,0 +1,95 @@
+{
+    "ticker": "STKS",
+    "name": "StoneX Group Inc.",
+    "description": "StoneX Group Inc. is a global financial services firm that connects clients to a wide range of markets and financial products. Established in 1922, the company provides comprehensive services in the areas of commodities, foreign exchange, and securities. StoneX operates through various segments, including Commercial, Institutional, and Retail, providing tailored solutions to meet the unique needs of its diverse clientele. With a strong emphasis on risk management, the company offers sophisticated trading, clearing, and execution services, backed by a robust technology platform. StoneX's mission is to empower clients to achieve their financial objectives through innovative strategies and expert insights. The company serves clients across multiple industries including agriculture, energy, and financial institutions. With a commitment to transparency and integrity, StoneX is dedicated to delivering exceptional service and value to its clients. The firm is also noted for its extensive global network and market expertise, which enables it to provide unparalleled access to financial markets around the world.",
+    "industry": [
+        "Financial Services",
+        "Commodities",
+        "Foreign Exchange"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1922",
+    "website": "https://www.stonex.com",
+    "ceo": "Sean M. O'Connor",
+    "social_media": {
+        "twitter": "https://twitter.com/StoneXGroup",
+        "linkedin": "https://www.linkedin.com/company/stonexgroup/"
+    },
+    "investor_relations": "https://investors.stonex.com",
+    "key_executives": [
+        {
+            "name": "Sean M. O'Connor",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael D. Matz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Commodities",
+            "products": [
+                "Agricultural Products",
+                "Energy Products",
+                "Metal Products"
+            ]
+        },
+        {
+            "category": "Foreign Exchange",
+            "products": [
+                "Spot Trading",
+                "Forward Contracts"
+            ]
+        },
+        {
+            "category": "Securities",
+            "products": [
+                "Equities",
+                "Fixed Income"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "StoneX Group Inc. | Global Financial Services Firm",
+        "meta_description": "Explore StoneX Group Inc., a leading financial services firm offering comprehensive solutions in commodities, foreign exchange, and securities. Learn about their mission and services.",
+        "keywords": [
+            "StoneX",
+            "Financial Services",
+            "Commodities",
+            "Foreign Exchange",
+            "Securities",
+            "Risk Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does StoneX provide?",
+            "answer": "StoneX provides services in commodities trading, foreign exchange, and securities, with a focus on risk management."
+        },
+        {
+            "question": "Who is the CEO of StoneX?",
+            "answer": "Sean M. O'Connor is the CEO of StoneX Group Inc."
+        },
+        {
+            "question": "Where is StoneX headquartered?",
+            "answer": "StoneX is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was StoneX founded?",
+            "answer": "StoneX was founded in 1922."
+        }
+    ],
+    "competitors": [
+        "CME",
+        "ICE",
+        "ADM",
+        "MCO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "JNJ",
+        "GS"
+    ]
+}

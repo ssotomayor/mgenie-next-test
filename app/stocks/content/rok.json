@@ -1,0 +1,92 @@
+{
+    "ticker": "ROK",
+    "name": "Rockwell Automation, Inc.",
+    "description": "Rockwell Automation, Inc. is a leading global provider of industrial automation and information technology. Founded in 1903 and headquartered in Milwaukee, Wisconsin, Rockwell Automation focuses on helping manufacturers and industrial companies optimize their production processes through innovative technology solutions. The company offers a comprehensive range of products and services, including control systems, software, and connected services that enhance operational efficiency and productivity. Rockwell's software solutions, such as FactoryTalk, enable data integration and real-time analytics, allowing businesses to make informed decisions. Additionally, the company is committed to advancing smart manufacturing and Industry 4.0 initiatives, leveraging the Internet of Things (IoT) to create interconnected systems that improve agility and sustainability in industrial operations. With a strong emphasis on customer collaboration, Rockwell Automation works closely with clients to tailor solutions that meet their specific needs, ensuring a competitive edge in the fast-evolving industrial landscape. The company continues to innovate in areas such as artificial intelligence, machine learning, and cybersecurity, positioning itself as a vital partner in the digital transformation of the manufacturing sector.",
+    "industry": [
+        "Industrial Automation",
+        "Technology"
+    ],
+    "headquarters": "Milwaukee, Wisconsin, USA",
+    "founded": "1903",
+    "website": "https://www.rockwellautomation.com",
+    "ceo": "Blake Moret",
+    "social_media": {
+        "twitter": "https://twitter.com/RockwellAutomation",
+        "linkedin": "https://www.linkedin.com/company/rockwell-automation",
+        "youtube": "https://www.youtube.com/user/RockwellAutomation"
+    },
+    "investor_relations": "https://ir.rockwellautomation.com",
+    "key_executives": [
+        {
+            "name": "Blake Moret",
+            "position": "CEO"
+        },
+        {
+            "name": "Kurt B. Kuehn",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automation Solutions",
+            "products": [
+                "ControlLogix",
+                "CompactLogix",
+                "Micro820"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "FactoryTalk",
+                "Studio 5000"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rockwell Automation, Inc. | Industrial Automation Solutions",
+        "meta_description": "Explore Rockwell Automation, Inc., a leader in industrial automation and information technology. Discover innovative solutions that enhance manufacturing efficiency and productivity.",
+        "keywords": [
+            "Rockwell Automation",
+            "Industrial Automation",
+            "Smart Manufacturing",
+            "IoT",
+            "Control Systems",
+            "FactoryTalk"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rockwell Automation specialize in?",
+            "answer": "Rockwell Automation specializes in industrial automation and information technology solutions."
+        },
+        {
+            "question": "Who is the CEO of Rockwell Automation?",
+            "answer": "Blake Moret is the CEO of Rockwell Automation, Inc."
+        },
+        {
+            "question": "Where is Rockwell Automation headquartered?",
+            "answer": "Rockwell Automation is headquartered in Milwaukee, Wisconsin, USA."
+        },
+        {
+            "question": "What are Rockwell Automation's main products?",
+            "answer": "Rockwell Automation's main products include ControlLogix, FactoryTalk software, and various automation solutions."
+        },
+        {
+            "question": "When was Rockwell Automation founded?",
+            "answer": "Rockwell Automation was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "HON",
+        "SCHN",
+        "EMR",
+        "MRCY"
+    ],
+    "related_stocks": [
+        "ABB",
+        "SI",
+        "GE",
+        "PH"
+    ]
+}

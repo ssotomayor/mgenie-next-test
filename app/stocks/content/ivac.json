@@ -1,0 +1,89 @@
+{
+    "ticker": "IVAC",
+    "name": "Intevac, Inc.",
+    "description": "Intevac, Inc. is an innovative technology company specializing in high-performance equipment and solutions for the semiconductor and photonics industries. Founded in 1991, Intevac has established itself as a leader in the design and manufacture of advanced vacuum deposition systems used in the production of thin-film coatings for various applications, including the manufacturing of hard drives, solar cells, and displays. The company\u2019s proprietary technologies enhance the efficiency and performance of its systems, enabling customers to achieve superior results in their production processes. Intevac also offers imaging systems that are utilized in numerous applications such as security, aerospace, and medical imaging. With a commitment to research and development, Intevac continues to push the boundaries of technology, focusing on the development of next-generation solutions that meet the evolving needs of its customers. The company's mission revolves around delivering cutting-edge technology and exceptional service that empowers its clients to succeed in a competitive market.",
+    "industry": [
+        "Semiconductors",
+        "Photonics"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1991",
+    "website": "https://www.intevac.com",
+    "ceo": "Kurt A. S. Kauffman",
+    "social_media": {
+        "twitter": "https://twitter.com/intevac",
+        "linkedin": "https://www.linkedin.com/company/intevac/"
+    },
+    "investor_relations": "https://www.intevac.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Kurt A. S. Kauffman",
+            "position": "CEO"
+        },
+        {
+            "name": "Nicolas E. Merz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vacuum Deposition Systems",
+            "products": [
+                "Magnetron Sputtering Systems",
+                "Thin-Film Deposition Equipment"
+            ]
+        },
+        {
+            "category": "Imaging Systems",
+            "products": [
+                "High-Resolution Imaging Systems",
+                "Low-Light Imaging Cameras"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Intevac, Inc. | Advanced Vacuum Deposition and Imaging Solutions",
+        "meta_description": "Explore Intevac, Inc., a leader in vacuum deposition systems and imaging solutions for the semiconductor and photonics industries. Learn about their innovative technologies.",
+        "keywords": [
+            "Intevac",
+            "Vacuum Deposition",
+            "Semiconductors",
+            "Imaging Systems",
+            "Photonics",
+            "Thin-Film Coatings"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Intevac specialize in?",
+            "answer": "Intevac specializes in advanced vacuum deposition systems and imaging solutions for the semiconductor and photonics industries."
+        },
+        {
+            "question": "Who is the CEO of Intevac?",
+            "answer": "Kurt A. S. Kauffman is the CEO of Intevac, Inc."
+        },
+        {
+            "question": "Where is Intevac headquartered?",
+            "answer": "Intevac is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are Intevac's main products?",
+            "answer": "Intevac's main products include magnetron sputtering systems and high-resolution imaging systems."
+        },
+        {
+            "question": "When was Intevac founded?",
+            "answer": "Intevac was founded in 1991."
+        }
+    ],
+    "competitors": [
+        "KLIC",
+        "AMAT",
+        "LRCX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "TSM",
+        "INTC"
+    ]
+}

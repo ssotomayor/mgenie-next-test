@@ -1,0 +1,91 @@
+{
+    "ticker": "MGNR",
+    "name": "Magna International Inc.",
+    "description": "Magna International Inc. is a leading global automotive supplier headquartered in Aurora, Ontario, Canada. Established in 1957, the company has grown to become one of the largest automotive manufacturers in the world, providing a diverse range of products and services to the automotive industry. Magna designs, engineers, and manufactures innovative automotive systems, including body, chassis, exterior, seating, powertrain, and electronics. The company is also recognized for its advanced technologies in electric vehicles, driver assistance systems, and mobility solutions. With a strong commitment to sustainability, Magna focuses on reducing its environmental footprint through efficient manufacturing processes and the development of electrified vehicle components. The company operates more than 340 manufacturing operations and over 100 product development, engineering, and sales centers in 28 countries, employing over 170,000 people. Magna's mission is to deliver high-quality products that enhance vehicle performance while ensuring safety and sustainability, thereby playing a crucial role in the evolution of the automotive industry.",
+    "industry": [
+        "Automotive",
+        "Manufacturing"
+    ],
+    "headquarters": "Aurora, Ontario, Canada",
+    "founded": "1957",
+    "website": "https://www.magna.com",
+    "ceo": "Swamy Kotagiri",
+    "social_media": {
+        "twitter": "https://twitter.com/MagnaInt",
+        "linkedin": "https://www.linkedin.com/company/magna-international/"
+    },
+    "investor_relations": "https://investor.magna.com",
+    "key_executives": [
+        {
+            "name": "Swamy Kotagiri",
+            "position": "CEO"
+        },
+        {
+            "name": "Vincent Galifi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automotive Systems",
+            "products": [
+                "Body Systems",
+                "Chassis Systems",
+                "Powertrain Systems",
+                "Seating Systems"
+            ]
+        },
+        {
+            "category": "Electronics",
+            "products": [
+                "Driver Assistance Systems",
+                "Electric Vehicle Components"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Magna International Inc. | Global Automotive Supplier",
+        "meta_description": "Explore Magna International Inc., a leading global automotive supplier known for its innovative automotive systems and commitment to sustainability.",
+        "keywords": [
+            "Magna International",
+            "Automotive Supplier",
+            "Electric Vehicles",
+            "Sustainable Manufacturing",
+            "Automotive Systems"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Magna International do?",
+            "answer": "Magna International is a global automotive supplier that designs, engineers, and manufactures automotive systems and components."
+        },
+        {
+            "question": "Who is the CEO of Magna International?",
+            "answer": "Swamy Kotagiri is the CEO of Magna International Inc."
+        },
+        {
+            "question": "Where is Magna International headquartered?",
+            "answer": "Magna International is headquartered in Aurora, Ontario, Canada."
+        },
+        {
+            "question": "What are Magna's main products?",
+            "answer": "Magna's main products include body systems, chassis systems, powertrain systems, seating systems, and electronics."
+        },
+        {
+            "question": "When was Magna International founded?",
+            "answer": "Magna International was founded in 1957."
+        }
+    ],
+    "competitors": [
+        "LEA",
+        "DLPH",
+        "BWA",
+        "Aptiv"
+    ],
+    "related_stocks": [
+        "F",
+        "GM",
+        "TSLA",
+        "HMC"
+    ]
+}

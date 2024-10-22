@@ -1,0 +1,88 @@
+{
+    "ticker": "BNT",
+    "name": "BioNano Genomics, Inc.",
+    "description": "BioNano Genomics, Inc. is a pioneering biotechnology company focused on advancing genomic medicine through innovative technology. Founded in 2003 and headquartered in San Diego, California, the company specializes in developing and commercializing solutions for genome mapping and analysis using its proprietary Saphyr system. The Saphyr system utilizes advanced optical mapping technology to provide high-resolution genomic data, enabling researchers and clinicians to identify structural variations in DNA that are crucial for understanding genetic diseases and cancers. BioNano's technology is designed to complement existing sequencing methods, offering a powerful tool for genomic research and clinical applications. The company is committed to improving human health by unlocking the potential of the genome and facilitating the transition to precision medicine. BioNano Genomics collaborates with leading research institutions and healthcare organizations, aiming to provide insights that can lead to better diagnostics and targeted therapies. As genomic data continues to play a vital role in personalized medicine, BioNano strives to remain at the forefront of genomic innovation, working towards a future where genomic information is seamlessly integrated into healthcare.",
+    "industry": [
+        "Biotechnology",
+        "Genomics"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "2003",
+    "website": "https://www.bionanogenomics.com",
+    "ceo": "Erik Holmlin",
+    "social_media": {
+        "twitter": "https://twitter.com/BioNanoGenomics",
+        "linkedin": "https://www.linkedin.com/company/bionano-genomics"
+    },
+    "investor_relations": "https://investors.bionanogenomics.com",
+    "key_executives": [
+        {
+            "name": "Erik Holmlin",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark W. S. S. M. O\u2019Connor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Genomic Systems",
+            "products": [
+                "Saphyr System"
+            ]
+        },
+        {
+            "category": "Software Solutions",
+            "products": [
+                "BioNano Access",
+                "BioNano Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BioNano Genomics, Inc. | Genome Mapping Solutions",
+        "meta_description": "Explore BioNano Genomics, a leader in genomic medicine offering innovative genome mapping technology for research and clinical applications.",
+        "keywords": [
+            "BioNano Genomics",
+            "Genomics",
+            "Genome Mapping",
+            "Saphyr System",
+            "Precision Medicine",
+            "Genetic Research"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BioNano Genomics specialize in?",
+            "answer": "BioNano Genomics specializes in genome mapping and analysis technology."
+        },
+        {
+            "question": "Who is the CEO of BioNano Genomics?",
+            "answer": "Erik Holmlin is the CEO of BioNano Genomics, Inc."
+        },
+        {
+            "question": "Where is BioNano Genomics headquartered?",
+            "answer": "BioNano Genomics is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What is the Saphyr system?",
+            "answer": "The Saphyr system is BioNano's proprietary technology for high-resolution genome mapping."
+        },
+        {
+            "question": "When was BioNano Genomics founded?",
+            "answer": "BioNano Genomics was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "PACB",
+        "ILMN",
+        "QGEN"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "REGN",
+        "GILD",
+        "BMY"
+    ]
+}

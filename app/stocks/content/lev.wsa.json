@@ -1,0 +1,80 @@
+{
+    "ticker": "LEV.WSA",
+    "name": "Lordstown Motors Corp.",
+    "description": "Lordstown Motors Corp. is an electric vehicle (EV) manufacturer focused on the development and production of light-duty electric trucks. Founded in 2018, the company emerged from the historic Lordstown, Ohio, General Motors plant, which was reimagined to become a hub for electric vehicle manufacturing. Lordstown Motors is committed to sustainability and aims to revolutionize the automotive sector by providing innovative transportation solutions. The company's flagship vehicle, the Endurance, is an all-electric pickup truck designed specifically for commercial fleet operators, featuring a unique in-wheel hub motor design that enhances efficiency and performance. Lordstown Motors emphasizes the importance of American manufacturing and job creation, striving to build its vehicles in the United States while utilizing local supply chains. The company is also exploring advanced technologies to enhance vehicle capabilities, focusing on safety, reliability, and user experience. As the market for electric vehicles continues to grow, Lordstown Motors aims to carve out a significant niche in the commercial vehicle sector, contributing to a sustainable future.",
+    "industry": [
+        "Automotive",
+        "Electric Vehicles"
+    ],
+    "headquarters": "Lordstown, Ohio, USA",
+    "founded": "2018",
+    "website": "https://lordstownmotors.com",
+    "ceo": "Dan Ninivaggi",
+    "social_media": {
+        "twitter": "https://twitter.com/lordstownmotors",
+        "linkedin": "https://www.linkedin.com/company/lordstown-motors/"
+    },
+    "investor_relations": "https://investors.lordstownmotors.com",
+    "key_executives": [
+        {
+            "name": "Dan Ninivaggi",
+            "position": "CEO"
+        },
+        {
+            "name": "Angela Strand",
+            "position": "Executive Chair"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Trucks",
+            "products": [
+                "Endurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lordstown Motors Corp. | Electric Vehicle Manufacturer",
+        "meta_description": "Explore Lordstown Motors Corp., a leader in electric vehicle manufacturing focused on commercial fleet solutions. Learn about the Endurance electric pickup truck and our commitment to sustainability.",
+        "keywords": [
+            "Lordstown Motors",
+            "Electric Vehicles",
+            "Endurance Truck",
+            "Sustainable Transportation",
+            "Commercial Vehicles"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Lordstown Motors known for?",
+            "answer": "Lordstown Motors is known for its electric pickup truck, the Endurance, designed for commercial fleet operators."
+        },
+        {
+            "question": "Who is the CEO of Lordstown Motors?",
+            "answer": "Dan Ninivaggi is the CEO of Lordstown Motors Corp."
+        },
+        {
+            "question": "Where is Lordstown Motors headquartered?",
+            "answer": "Lordstown Motors is headquartered in Lordstown, Ohio, USA."
+        },
+        {
+            "question": "What is the main product of Lordstown Motors?",
+            "answer": "The main product of Lordstown Motors is the Endurance electric pickup truck."
+        },
+        {
+            "question": "When was Lordstown Motors founded?",
+            "answer": "Lordstown Motors was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "RIVN",
+        "F",
+        "WKHS"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "GM",
+        "NIO",
+        "F"
+    ]
+}

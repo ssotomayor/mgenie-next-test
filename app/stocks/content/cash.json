@@ -1,0 +1,86 @@
+{
+    "ticker": "CASH",
+    "name": "Meta Financial Group, Inc.",
+    "description": "Meta Financial Group, Inc. is a diversified financial services company based in the United States. The company operates primarily through its banking subsidiary, MetaBank, which provides a wide array of financial products and services, including banking, payment solutions, and loan services. Founded in 1954, Meta has grown to become a leader in providing innovative financial products designed to meet the dynamic needs of businesses and consumers alike. MetaBank focuses on serving underbanked markets, offering products such as prepaid debit cards, personal loans, and tax refund transfer services. The company is also engaged in commercial banking activities, including lending and deposit services, primarily targeting the agricultural sector. With a commitment to enhancing customer experience through technology, Meta is consistently developing new platforms and services to facilitate seamless transactions and improve access to financial resources. The company emphasizes community engagement and social responsibility, working to ensure that financial services are available to all segments of the population. This customer-centric approach, coupled with a dedication to sustainability and growth, positions Meta Financial Group as a forward-thinking leader in the financial services industry.",
+    "industry": [
+        "Financial Services",
+        "Banking"
+    ],
+    "headquarters": "Sioux Falls, South Dakota, USA",
+    "founded": "1954",
+    "website": "https://www.metafinancialgroup.com",
+    "ceo": "Bradley E. Hanson",
+    "social_media": {
+        "twitter": "https://twitter.com/MetaFinancial",
+        "linkedin": "https://www.linkedin.com/company/meta-financial-group/"
+    },
+    "investor_relations": "https://ir.metafinancialgroup.com",
+    "key_executives": [
+        {
+            "name": "Bradley E. Hanson",
+            "position": "CEO"
+        },
+        {
+            "name": "John P. Fenton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Loans"
+            ]
+        },
+        {
+            "category": "Payment Solutions",
+            "products": [
+                "Prepaid Debit Cards",
+                "Tax Refund Transfer Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Meta Financial Group, Inc. | Innovative Financial Services",
+        "meta_description": "Explore Meta Financial Group, Inc. for comprehensive banking and payment solutions. Discover our commitment to serving diverse financial needs.",
+        "keywords": [
+            "Meta Financial",
+            "Banking",
+            "Financial Services",
+            "Prepaid Cards",
+            "Loans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Meta Financial Group provide?",
+            "answer": "Meta Financial Group provides banking services, payment solutions, and loan services."
+        },
+        {
+            "question": "Who is the CEO of Meta Financial Group?",
+            "answer": "Bradley E. Hanson is the CEO of Meta Financial Group, Inc."
+        },
+        {
+            "question": "Where is Meta Financial Group headquartered?",
+            "answer": "Meta Financial Group is headquartered in Sioux Falls, South Dakota, USA."
+        },
+        {
+            "question": "When was Meta Financial Group founded?",
+            "answer": "Meta Financial Group was founded in 1954."
+        }
+    ],
+    "competitors": [
+        "CMA",
+        "CFG",
+        "ZION",
+        "FRC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "PNC"
+    ]
+}

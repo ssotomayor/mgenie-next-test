@@ -1,0 +1,100 @@
+{
+    "ticker": "GDDY",
+    "name": "GoDaddy Inc.",
+    "description": "GoDaddy Inc. is the world's largest domain name registrar and a leading provider of web hosting and online presence solutions for small businesses and individuals. Founded in 1997 by Bob Parsons, GoDaddy has grown to serve millions of customers around the globe. The company offers a wide range of services including domain registration, web hosting, website building, online marketing, and e-commerce solutions. GoDaddy's mission is to empower everyday entrepreneurs by providing them with the tools and resources needed to establish and grow their online presence. With a focus on customer service and user-friendly products, GoDaddy has built a reputation for helping users get their ideas online quickly and efficiently. The company also emphasizes security, offering SSL certificates and other security features to protect customers' websites and data. Over the years, GoDaddy has expanded its offerings through acquisitions and innovation, continuously adapting to the changing landscape of the internet. Today, GoDaddy is not only a leader in domain registration but also in website management and digital marketing services, making it a one-stop shop for anyone looking to establish a presence online.",
+    "industry": [
+        "Internet Services",
+        "Web Hosting"
+    ],
+    "headquarters": "Scottsdale, Arizona, USA",
+    "founded": "1997",
+    "website": "https://www.godaddy.com",
+    "ceo": "Amanatullah (Aman) M. Memon",
+    "social_media": {
+        "twitter": "https://twitter.com/GoDaddy",
+        "linkedin": "https://www.linkedin.com/company/godaddy/"
+    },
+    "investor_relations": "https://investors.godaddy.net",
+    "key_executives": [
+        {
+            "name": "Aman Memon",
+            "position": "CEO"
+        },
+        {
+            "name": "Ray Winborne",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Domain Services",
+            "products": [
+                "Domain Registration",
+                "Domain Transfers"
+            ]
+        },
+        {
+            "category": "Web Hosting",
+            "products": [
+                "Shared Hosting",
+                "VPS Hosting",
+                "WordPress Hosting"
+            ]
+        },
+        {
+            "category": "Website Building",
+            "products": [
+                "Website Builder",
+                "E-commerce Solutions"
+            ]
+        },
+        {
+            "category": "Online Marketing",
+            "products": [
+                "SEO Services",
+                "Email Marketing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GoDaddy Inc. | Domain Registration and Web Hosting Services",
+        "meta_description": "GoDaddy Inc. is the largest domain name registrar and a leading provider of web hosting services. Empowering entrepreneurs with online presence tools.",
+        "keywords": [
+            "GoDaddy",
+            "Domain Registration",
+            "Web Hosting",
+            "Website Builder",
+            "E-commerce",
+            "Online Marketing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does GoDaddy offer?",
+            "answer": "GoDaddy offers domain registration, web hosting, website building, and online marketing services."
+        },
+        {
+            "question": "Who is the CEO of GoDaddy?",
+            "answer": "Aman Memon is the CEO of GoDaddy Inc."
+        },
+        {
+            "question": "Where is GoDaddy headquartered?",
+            "answer": "GoDaddy is headquartered in Scottsdale, Arizona, USA."
+        },
+        {
+            "question": "When was GoDaddy founded?",
+            "answer": "GoDaddy was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "WIX",
+        "SQUARE",
+        "SHOP"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "AAPL"
+    ]
+}

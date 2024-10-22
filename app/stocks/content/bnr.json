@@ -1,0 +1,96 @@
+{
+    "ticker": "BNR",
+    "name": "Banner Corporation",
+    "description": "Banner Corporation is a publicly traded bank holding company based in the Pacific Northwest, primarily engaged in commercial banking through its wholly owned subsidiary, Banner Bank. Founded in 1890, Banner provides a wide range of financial services to individuals and businesses, including personal banking, business banking, mortgage lending, and investment services. The company operates branches across Washington, Oregon, and Idaho, and has built a reputation for its commitment to community involvement and customer service excellence. Banner Corporation focuses on delivering tailored financial solutions to meet the diverse needs of its customers while maintaining a strong emphasis on risk management and sustainable growth. The company's strategic initiatives aim to enhance its digital banking capabilities and expand its market presence, positioning it for continued success in the evolving financial landscape. With a strong capital position and a commitment to prudent management, Banner Corporation is well-equipped to navigate the challenges and opportunities of the banking industry.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Walla Walla, Washington, USA",
+    "founded": "1890",
+    "website": "https://www.bannerbank.com",
+    "ceo": "Mark J. Grescovich",
+    "social_media": {
+        "twitter": "https://twitter.com/BannerBank",
+        "linkedin": "https://www.linkedin.com/company/banner-bank/"
+    },
+    "investor_relations": "https://investors.bannerbank.com",
+    "key_executives": [
+        {
+            "name": "Mark J. Grescovich",
+            "position": "CEO"
+        },
+        {
+            "name": "Cathy A. Gibbons",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Personal Loans",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking Accounts",
+                "Commercial Loans",
+                "Treasury Management"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Wealth Management",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Banner Corporation | Banking and Financial Services",
+        "meta_description": "Explore Banner Corporation, a leading bank holding company in the Pacific Northwest, offering a range of personal and business banking services.",
+        "keywords": [
+            "Banner Corporation",
+            "Banking",
+            "Financial Services",
+            "Personal Banking",
+            "Business Banking",
+            "Mortgages"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Banner Corporation offer?",
+            "answer": "Banner Corporation offers a range of services including personal banking, business banking, mortgage lending, and investment services."
+        },
+        {
+            "question": "Who is the CEO of Banner Corporation?",
+            "answer": "Mark J. Grescovich is the CEO of Banner Corporation."
+        },
+        {
+            "question": "Where is Banner Corporation headquartered?",
+            "answer": "Banner Corporation is headquartered in Walla Walla, Washington, USA."
+        },
+        {
+            "question": "When was Banner Corporation founded?",
+            "answer": "Banner Corporation was founded in 1890."
+        }
+    ],
+    "competitors": [
+        "KEY",
+        "WFC",
+        "USB",
+        "PNC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JPM",
+        "BAC",
+        "C"
+    ]
+}

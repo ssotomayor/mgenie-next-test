@@ -1,0 +1,97 @@
+{
+    "ticker": "ATRA",
+    "name": "AtraZeneca PLC",
+    "description": "AstraZeneca PLC is a global biopharmaceutical company that specializes in the discovery, development, and commercialization of prescription medicines. Headquartered in Cambridge, UK, AstraZeneca has a strong focus on innovative treatments in areas such as oncology, cardiovascular, renal, and metabolism, as well as respiratory diseases. The company was formed in 1999 through the merger of Astra AB and Zeneca Group PLC. AstraZeneca's research and development efforts are driven by a commitment to improving patient outcomes and addressing unmet medical needs. The company collaborates with partners across the healthcare ecosystem to advance medical science and bring new therapies to market. AstraZeneca gained significant attention for its role in developing one of the leading COVID-19 vaccines, which has been distributed globally to help combat the pandemic. The company continues to expand its portfolio with a focus on precision medicine and biologics, aiming to leverage cutting-edge science to enhance treatment options for patients. AstraZeneca's mission is to push the boundaries of science to deliver life-changing medicines, emphasizing sustainability and corporate responsibility in its operations.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "Cambridge, United Kingdom",
+    "founded": "1999",
+    "website": "https://www.astrazeneca.com",
+    "ceo": "Pascal Soriot",
+    "social_media": {
+        "twitter": "https://twitter.com/AstraZeneca",
+        "linkedin": "https://www.linkedin.com/company/astrazeneca/"
+    },
+    "investor_relations": "https://www.astrazeneca.com/investors.html",
+    "key_executives": [
+        {
+            "name": "Pascal Soriot",
+            "position": "CEO"
+        },
+        {
+            "name": "Mene Pangalos",
+            "position": "Executive Vice President, BioPharmaceuticals R&D"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "Tagrisso",
+                "Imfinzi",
+                "Lynparza"
+            ]
+        },
+        {
+            "category": "Cardiovascular and Renal",
+            "products": [
+                "Brilinta",
+                "Farxiga"
+            ]
+        },
+        {
+            "category": "Respiratory",
+            "products": [
+                "Symbicort",
+                "Breztri"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AstraZeneca PLC | Innovative Biopharmaceuticals",
+        "meta_description": "Explore AstraZeneca PLC, a leading biopharmaceutical company focused on delivering life-changing medicines in oncology, cardiovascular, and respiratory diseases.",
+        "keywords": [
+            "AstraZeneca",
+            "Pharmaceuticals",
+            "Biotechnology",
+            "Oncology",
+            "COVID-19 Vaccine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AstraZeneca do?",
+            "answer": "AstraZeneca is a biopharmaceutical company that focuses on the discovery and development of prescription medicines in various therapeutic areas."
+        },
+        {
+            "question": "Who is the CEO of AstraZeneca?",
+            "answer": "Pascal Soriot is the CEO of AstraZeneca PLC."
+        },
+        {
+            "question": "Where is AstraZeneca headquartered?",
+            "answer": "AstraZeneca is headquartered in Cambridge, United Kingdom."
+        },
+        {
+            "question": "What are AstraZeneca's main products?",
+            "answer": "AstraZeneca's main products include Tagrisso, Imfinzi, Lynparza, Brilinta, and Farxiga."
+        },
+        {
+            "question": "When was AstraZeneca founded?",
+            "answer": "AstraZeneca was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "MRK",
+        "JNJ",
+        "BMY"
+    ],
+    "related_stocks": [
+        "ABBV",
+        "AMGN",
+        "GILD",
+        "RMD"
+    ]
+}

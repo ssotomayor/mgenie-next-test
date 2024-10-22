@@ -1,0 +1,91 @@
+{
+    "ticker": "SQLV",
+    "name": "SQL Ventures, Inc.",
+    "description": "SQL Ventures, Inc. is a leading technology company specializing in data management and analytics solutions. Founded in 2010, SQL Ventures aims to empower businesses to harness the power of their data through innovative software and services. The company is renowned for its flagship product, SQL Analyzer, which provides advanced analytics and reporting capabilities, enabling organizations to make data-driven decisions. SQL Ventures also offers a suite of tools for database optimization, data visualization, and cloud integration, helping companies streamline their data workflows and enhance operational efficiency. With a team of experienced engineers and data scientists, SQL Ventures is at the forefront of the data revolution, continuously investing in research and development to stay ahead of industry trends. The company's mission is to democratize data access and analysis, ensuring that businesses of all sizes can leverage their data for strategic advantage. SQL Ventures is committed to providing exceptional customer service and support, partnering with clients to tailor solutions that meet their unique needs while driving innovation in the data landscape.",
+    "industry": [
+        "Technology",
+        "Data Analytics",
+        "Software"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.sqlventures.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/SQLVentures",
+        "linkedin": "https://www.linkedin.com/company/sql-ventures/",
+        "facebook": "https://www.facebook.com/sqlventures"
+    },
+    "investor_relations": "https://ir.sqlventures.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analytics Software",
+            "products": [
+                "SQL Analyzer",
+                "Data Visualizer"
+            ]
+        },
+        {
+            "category": "Database Solutions",
+            "products": [
+                "SQL Optimizer",
+                "Cloud Integration Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SQL Ventures, Inc. | Data Management and Analytics Solutions",
+        "meta_description": "Discover SQL Ventures, Inc., a leader in data management and analytics. Explore innovative software solutions designed to empower businesses with data-driven insights.",
+        "keywords": [
+            "SQL Ventures",
+            "Data Analytics",
+            "Business Intelligence",
+            "Data Management",
+            "SQL Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SQL Ventures specialize in?",
+            "answer": "SQL Ventures specializes in data management and analytics solutions."
+        },
+        {
+            "question": "Who is the CEO of SQL Ventures?",
+            "answer": "Jane Doe is the CEO of SQL Ventures, Inc."
+        },
+        {
+            "question": "Where is SQL Ventures headquartered?",
+            "answer": "SQL Ventures is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are SQL Ventures' main products?",
+            "answer": "SQL Ventures' main products include SQL Analyzer and Data Visualizer."
+        },
+        {
+            "question": "When was SQL Ventures founded?",
+            "answer": "SQL Ventures was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ORCL",
+        "IBM",
+        "SAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CRM"
+    ]
+}

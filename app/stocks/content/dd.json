@@ -1,0 +1,98 @@
+{
+    "ticker": "DD",
+    "name": "DuPont de Nemours, Inc.",
+    "description": "DuPont de Nemours, Inc. is a science and technology company that brings world-class innovations in various sectors including electronics, biotechnology, and materials science. Established in 1802 as a gunpowder mill, DuPont has evolved into a leader in the development of advanced materials and solutions that enhance everyday life. The company focuses on innovation in key areas such as semiconductor technologies, crop protection, and nutrition, as well as advanced materials for industries like automotive and construction. DuPont is particularly known for its high-performance polymers, including Kevlar and Tyvek, which are widely used in protective gear and building materials. The company is committed to sustainability and resilience, striving to create solutions that meet the challenges of a changing world while minimizing environmental impact. DuPont operates globally, leveraging its deep scientific expertise and collaborative approach to drive progress and create value across various industries. The company's mission emphasizes a dedication to transforming the lives of people through innovative, sustainable products and solutions.",
+    "industry": [
+        "Chemicals",
+        "Materials Science",
+        "Biotechnology"
+    ],
+    "headquarters": "Wilmington, Delaware, USA",
+    "founded": "1802",
+    "website": "https://www.dupont.com",
+    "ceo": "Ed Breen",
+    "social_media": {
+        "twitter": "https://twitter.com/dupont",
+        "linkedin": "https://www.linkedin.com/company/dupont/"
+    },
+    "investor_relations": "https://investors.dupont.com",
+    "key_executives": [
+        {
+            "name": "Ed Breen",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Jeanmarie Desmond",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electronics & Industrial",
+            "products": [
+                "Semiconductor Technologies",
+                "Advanced Printing Solutions"
+            ]
+        },
+        {
+            "category": "Nutrition & Biosciences",
+            "products": [
+                "Crop Protection Solutions",
+                "Probiotics"
+            ]
+        },
+        {
+            "category": "Safety & Construction",
+            "products": [
+                "Kevlar",
+                "Tyvek"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DuPont de Nemours, Inc. | Innovation in Science and Technology",
+        "meta_description": "Explore DuPont de Nemours, Inc., a leader in science and technology providing innovative solutions across various industries. Discover our commitment to sustainability and advanced materials.",
+        "keywords": [
+            "DuPont",
+            "Chemicals",
+            "Materials Science",
+            "Biotechnology",
+            "Sustainable Solutions",
+            "Advanced Materials"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does DuPont specialize in?",
+            "answer": "DuPont specializes in advanced materials, biotechnology, and innovative solutions for various industries."
+        },
+        {
+            "question": "Who is the CEO of DuPont?",
+            "answer": "Ed Breen is the Chairman and CEO of DuPont de Nemours, Inc."
+        },
+        {
+            "question": "Where is DuPont headquartered?",
+            "answer": "DuPont is headquartered in Wilmington, Delaware, USA."
+        },
+        {
+            "question": "What are some of DuPont's key products?",
+            "answer": "Some key products include Kevlar, Tyvek, and various semiconductor technologies."
+        },
+        {
+            "question": "When was DuPont founded?",
+            "answer": "DuPont was founded in 1802."
+        }
+    ],
+    "competitors": [
+        "DOW",
+        "BASF",
+        "IFF",
+        "LYB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "HON",
+        "CAT"
+    ]
+}

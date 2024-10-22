@@ -1,0 +1,83 @@
+{
+    "ticker": "GFS",
+    "name": "GlobalFoundries Inc.",
+    "description": "GlobalFoundries Inc. is a leading semiconductor foundry that provides a comprehensive suite of manufacturing services for integrated circuits (ICs). Founded in 2009 and headquartered in Malta, New York, the company emerged from the Advanced Micro Devices (AMD) semiconductor manufacturing operations and has since established itself as a major player in the semiconductor industry. GlobalFoundries specializes in advanced technology nodes and offers a diverse range of processes, including FinFET, RF, and analog/mixed-signal technologies. The company serves a wide array of applications, from consumer electronics to automotive and IoT devices, enabling customers to innovate and bring their products to market faster. With a strong commitment to research, development, and sustainability, GlobalFoundries is focused on reducing the environmental impact of its operations while providing reliable and cost-effective solutions to its customers. The company is dedicated to advancing semiconductor technology and is continuously investing in new manufacturing capabilities to meet the growing demands of the digital economy.",
+    "industry": [
+        "Semiconductors",
+        "Manufacturing"
+    ],
+    "headquarters": "Malta, New York, USA",
+    "founded": "2009",
+    "website": "https://www.globalfoundries.com",
+    "ceo": "Tom Caulfield",
+    "social_media": {
+        "twitter": "https://twitter.com/GlobalFoundries",
+        "linkedin": "https://www.linkedin.com/company/globalfoundries/"
+    },
+    "investor_relations": "https://investors.globalfoundries.com",
+    "key_executives": [
+        {
+            "name": "Tom Caulfield",
+            "position": "CEO"
+        },
+        {
+            "name": "Khaled Kanaan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Semiconductor Manufacturing",
+            "products": [
+                "FinFET Technology",
+                "RF Technology",
+                "Analog/Mixed-Signal Technology"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GlobalFoundries Inc. | Leading Semiconductor Foundry",
+        "meta_description": "Explore GlobalFoundries Inc., a top semiconductor foundry delivering advanced manufacturing solutions for integrated circuits across various industries.",
+        "keywords": [
+            "GlobalFoundries",
+            "Semiconductors",
+            "Foundry Services",
+            "Integrated Circuits",
+            "Technology Nodes"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does GlobalFoundries do?",
+            "answer": "GlobalFoundries is a semiconductor foundry that provides manufacturing services for integrated circuits."
+        },
+        {
+            "question": "Who is the CEO of GlobalFoundries?",
+            "answer": "Tom Caulfield is the CEO of GlobalFoundries Inc."
+        },
+        {
+            "question": "Where is GlobalFoundries headquartered?",
+            "answer": "GlobalFoundries is headquartered in Malta, New York, USA."
+        },
+        {
+            "question": "What technologies does GlobalFoundries specialize in?",
+            "answer": "GlobalFoundries specializes in FinFET, RF, and analog/mixed-signal technologies."
+        },
+        {
+            "question": "When was GlobalFoundries founded?",
+            "answer": "GlobalFoundries was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "TSM",
+        "INTC",
+        "QCOM",
+        "AVGO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "AMD",
+        "MSI"
+    ]
+}

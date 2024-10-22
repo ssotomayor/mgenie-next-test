@@ -1,0 +1,89 @@
+{
+    "ticker": "LINE",
+    "name": "Line Corporation",
+    "description": "Line Corporation is a leading technology company known for its popular messaging app and a wide range of digital services. Founded in 2011 in Japan, Line quickly gained popularity across Asia, providing users with a robust platform for communication through instant messaging, voice calls, and video calls. The app is distinguished by its unique stickers and emojis, which have become a significant part of its identity. Beyond messaging, Line has expanded its ecosystem to include social media features, mobile payment solutions, and digital content services, such as gaming and news. The company continually innovates to enhance user experience, introducing features like Line Pay for secure transactions, Line Music for streaming, and Line News for real-time updates. With a strong focus on the Asian market, particularly Japan, Taiwan, and Thailand, Line Corporation aims to connect people and provide a comprehensive digital lifestyle platform. Its mission is to enrich daily communication and create new experiences through technology. The company is part of the broader trend of digital transformation, catering to the evolving needs of consumers in a fast-paced digital world.",
+    "industry": [
+        "Technology",
+        "Communications"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "2011",
+    "website": "https://linecorp.com",
+    "ceo": "Takeshi Idezawa",
+    "social_media": {
+        "twitter": "https://twitter.com/LINEjp_official",
+        "linkedin": "https://www.linkedin.com/company/line-corporation/",
+        "youtube": "https://www.youtube.com/user/LINEOfficial"
+    },
+    "investor_relations": "https://linecorp.com/en/ir",
+    "key_executives": [
+        {
+            "name": "Takeshi Idezawa",
+            "position": "CEO"
+        },
+        {
+            "name": "Atushi Nakamura",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Messaging",
+            "products": [
+                "LINE App"
+            ]
+        },
+        {
+            "category": "Digital Services",
+            "products": [
+                "LINE Pay",
+                "LINE Music",
+                "LINE News"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Line Corporation | Leading Messaging and Digital Services",
+        "meta_description": "Explore Line Corporation, the company behind the popular LINE messaging app. Discover its wide range of digital services and innovations in communication.",
+        "keywords": [
+            "Line Corporation",
+            "Messaging App",
+            "LINE",
+            "Digital Services",
+            "LINE Pay",
+            "LINE Music"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Line Corporation known for?",
+            "answer": "Line Corporation is known for its LINE messaging app and a suite of digital services including mobile payments and streaming."
+        },
+        {
+            "question": "Who is the CEO of Line Corporation?",
+            "answer": "Takeshi Idezawa is the CEO of Line Corporation."
+        },
+        {
+            "question": "Where is Line Corporation headquartered?",
+            "answer": "Line Corporation is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are the main products of Line Corporation?",
+            "answer": "The main products include the LINE messaging app, LINE Pay, LINE Music, and LINE News."
+        },
+        {
+            "question": "When was Line Corporation founded?",
+            "answer": "Line Corporation was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "FB",
+        "TWTR",
+        "SNAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

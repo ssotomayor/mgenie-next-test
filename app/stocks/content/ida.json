@@ -1,0 +1,74 @@
+{
+    "ticker": "IDA",
+    "name": "Idaho Power Company",
+    "description": "Idaho Power Company, a subsidiary of IDACORP, Inc., is a regulated electric utility that serves approximately 600,000 customers in southern Idaho and eastern Oregon. Founded in 1916, the company is committed to providing reliable and affordable electricity while promoting sustainable energy practices. Idaho Power generates electricity from a diverse mix of resources, including hydroelectric plants, natural gas, wind, and solar sources, contributing to a clean energy future. The company operates several hydroelectric facilities along the Snake River and invests in renewable energy projects to enhance its energy portfolio. Idaho Power prioritizes customer service and innovation, offering programs that encourage energy efficiency and conservation among its residential and commercial customers. The company is also actively involved in community development initiatives, supporting local organizations and environmental stewardship efforts. With a strong focus on reducing carbon emissions and promoting sustainable practices, Idaho Power is positioned to meet the future energy needs of its customers while contributing to the region's economic growth and environmental sustainability.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Boise, Idaho, USA",
+    "founded": "1916",
+    "website": "https://www.idahopower.com",
+    "ceo": "Darrel Anderson",
+    "social_media": {
+        "twitter": "https://twitter.com/idahopower",
+        "linkedin": "https://www.linkedin.com/company/idaho-power",
+        "facebook": "https://www.facebook.com/IdahoPower"
+    },
+    "investor_relations": "https://www.idacorpinc.com/investors",
+    "key_executives": [
+        {
+            "name": "Darrel Anderson",
+            "position": "CEO"
+        },
+        {
+            "name": "Lisa M. Heller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Services",
+            "products": [
+                "Residential Electricity",
+                "Commercial Electricity",
+                "Renewable Energy Programs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Idaho Power Company | Reliable and Sustainable Energy Solutions",
+        "meta_description": "Idaho Power Company provides reliable electricity services in Idaho and Oregon, focusing on sustainable energy resources and community support.",
+        "keywords": [
+            "Idaho Power",
+            "Electric Utility",
+            "Renewable Energy",
+            "Hydroelectric Power",
+            "Sustainable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Idaho Power provide?",
+            "answer": "Idaho Power provides residential and commercial electricity services, along with renewable energy programs."
+        },
+        {
+            "question": "Where is Idaho Power headquartered?",
+            "answer": "Idaho Power is headquartered in Boise, Idaho, USA."
+        },
+        {
+            "question": "When was Idaho Power founded?",
+            "answer": "Idaho Power was founded in 1916."
+        }
+    ],
+    "competitors": [
+        "PNW",
+        "AVA"
+    ],
+    "related_stocks": [
+        "AEP",
+        "DUK",
+        "EXC",
+        "NEE"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "KOMP",
+    "name": "Kompass",
+    "description": "Kompass is a global leader in business-to-business (B2B) data solutions, providing comprehensive and accurate information to enhance business connections and growth opportunities. Established in 1947, Kompass has developed a robust platform that offers businesses detailed information about potential clients, suppliers, and partners across various industries worldwide. The company specializes in delivering high-quality databases that include company profiles, product catalogs, and market insights, enabling businesses to make informed decisions and drive their sales strategies effectively. With a presence in over 60 countries, Kompass connects millions of businesses, facilitating international trade and collaboration. The company is committed to digital transformation, providing innovative tools such as advanced search functionalities, targeted marketing solutions, and data analytics to empower organizations in their growth journeys. Kompass's mission is to simplify the complexity of B2B interactions, helping businesses thrive in a competitive landscape by leveraging data and technology for better connectivity and visibility.",
+    "industry": [
+        "Information Technology",
+        "Data Solutions",
+        "Business Services"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1947",
+    "website": "https://www.kompass.com",
+    "ceo": "Jean-Pierre Vasseur",
+    "social_media": {
+        "twitter": "https://twitter.com/Kompass",
+        "linkedin": "https://www.linkedin.com/company/kompass/"
+    },
+    "investor_relations": "https://www.kompass.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Jean-Pierre Vasseur",
+            "position": "CEO"
+        },
+        {
+            "name": "Marie Dubois",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Business Data Solutions",
+            "products": [
+                "Company Profiles",
+                "Market Insights",
+                "Lead Generation Tools"
+            ]
+        },
+        {
+            "category": "Digital Marketing Solutions",
+            "products": [
+                "Targeted Advertising",
+                "SEO Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kompass | Business Data Solutions and B2B Connections",
+        "meta_description": "Discover Kompass, a leader in B2B data solutions. Explore our comprehensive databases and innovative tools to enhance your business connectivity and growth.",
+        "keywords": [
+            "Kompass",
+            "B2B Data Solutions",
+            "Business Intelligence",
+            "Lead Generation",
+            "Market Insights"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Kompass do?",
+            "answer": "Kompass provides business-to-business data solutions, including company profiles and market insights, to help businesses connect and grow."
+        },
+        {
+            "question": "Who is the CEO of Kompass?",
+            "answer": "Jean-Pierre Vasseur is the CEO of Kompass."
+        },
+        {
+            "question": "Where is Kompass headquartered?",
+            "answer": "Kompass is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Kompass's main products?",
+            "answer": "Kompass's main products include company profiles, market insights, and lead generation tools."
+        },
+        {
+            "question": "When was Kompass founded?",
+            "answer": "Kompass was founded in 1947."
+        }
+    ],
+    "competitors": [
+        "DNB",
+        "MANTL",
+        "Zywave"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

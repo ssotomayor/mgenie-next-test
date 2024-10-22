@@ -1,0 +1,95 @@
+{
+    "ticker": "BOC",
+    "name": "Bank of China Limited",
+    "description": "Bank of China Limited (BOC) is one of the oldest and most prestigious banks in China, established in 1912. As a state-owned commercial bank, BOC plays a pivotal role in the Chinese economy and international banking. Its primary focus is on providing comprehensive financial services, including corporate banking, personal banking, investment banking, and insurance services. With a network that spans more than 60 countries, BOC is instrumental in facilitating trade and investment between China and the global market. The bank specializes in foreign exchange, trade finance, and cross-border transactions, thus supporting China's initiatives for international trade and the Belt and Road Initiative. BOC is also known for its commitment to sustainable finance, offering green financial products and services aimed at promoting environmental sustainability. With a strong emphasis on technological innovation, BOC has invested significantly in digital banking solutions, enabling customers to enjoy seamless banking experiences through mobile and online platforms. The bank's strategic vision is to be a world-class financial institution, leveraging its extensive experience and robust capital base to serve its clients effectively.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "1912",
+    "website": "https://www.boc.cn",
+    "ceo": "Chen Siqing",
+    "social_media": {
+        "twitter": "https://twitter.com/BankofChina",
+        "linkedin": "https://www.linkedin.com/company/bank-of-china/"
+    },
+    "investor_relations": "https://www.boc.cn/en/investor_relations/index.html",
+    "key_executives": [
+        {
+            "name": "Chen Siqing",
+            "position": "Chairman"
+        },
+        {
+            "name": "Li Jun",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Corporate Banking",
+            "products": [
+                "Trade Finance",
+                "Corporate Loans",
+                "Cash Management"
+            ]
+        },
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Savings Accounts",
+                "Mortgages",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Securities Underwriting",
+                "Asset Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bank of China Limited | Comprehensive Financial Services",
+        "meta_description": "Explore Bank of China Limited, a leading state-owned commercial bank providing a wide range of financial services globally. Discover our commitment to innovation and sustainability.",
+        "keywords": [
+            "Bank of China",
+            "Banking",
+            "Financial Services",
+            "Trade Finance",
+            "Corporate Banking",
+            "Digital Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Bank of China offer?",
+            "answer": "Bank of China offers corporate banking, personal banking, investment banking, and insurance services."
+        },
+        {
+            "question": "Where is Bank of China headquartered?",
+            "answer": "Bank of China is headquartered in Beijing, China."
+        },
+        {
+            "question": "When was Bank of China founded?",
+            "answer": "Bank of China was founded in 1912."
+        },
+        {
+            "question": "Who is the CEO of Bank of China?",
+            "answer": "Chen Siqing is the Chairman of Bank of China."
+        }
+    ],
+    "competitors": [
+        "ICBC",
+        "CCB",
+        "ABC",
+        "HSBC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "WFC"
+    ]
+}

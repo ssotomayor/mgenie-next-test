@@ -1,0 +1,101 @@
+{
+    "ticker": "RY",
+    "name": "Royal Bank of Canada",
+    "description": "Royal Bank of Canada (RBC) is one of North America's largest and most diversified financial services companies, serving over 17 million clients across Canada, the United States, and 36 other countries. Founded in 1864 in Halifax, Nova Scotia, RBC has grown to become a leading player in the banking sector with a strong focus on customer service, innovation, and community involvement. The bank offers a wide range of financial services including personal and commercial banking, wealth management, insurance, investor services, and capital markets. RBC is recognized for its commitment to sustainability and has implemented various initiatives aimed at reducing its environmental impact and promoting social responsibility. The company invests in technology and digital banking solutions to enhance customer experience, providing clients with seamless access to their financial information and services. With a reputation for stability and dependability, RBC continues to adapt to the ever-changing financial landscape while maintaining its dedication to serving its clients and communities.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1864",
+    "website": "https://www.rbc.com",
+    "ceo": "Dave McKay",
+    "social_media": {
+        "twitter": "https://twitter.com/RBC",
+        "linkedin": "https://www.linkedin.com/company/royal-bank-of-canada/"
+    },
+    "investor_relations": "https://www.rbc.com/investors",
+    "key_executives": [
+        {
+            "name": "Dave McKay",
+            "position": "CEO"
+        },
+        {
+            "name": "Rod Bolger",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advice",
+                "Portfolio Management",
+                "Retirement Planning"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Business Loans",
+                "Merchant Services",
+                "Commercial Mortgages"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Royal Bank of Canada | Comprehensive Financial Services",
+        "meta_description": "Explore Royal Bank of Canada, a leading financial institution offering a wide range of banking, wealth management, and investment services. Discover RBC's commitment to innovation and sustainability.",
+        "keywords": [
+            "Royal Bank of Canada",
+            "RBC",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Personal Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does RBC offer?",
+            "answer": "RBC offers personal and commercial banking, wealth management, insurance, and capital markets services."
+        },
+        {
+            "question": "Who is the CEO of RBC?",
+            "answer": "The CEO of Royal Bank of Canada is Dave McKay."
+        },
+        {
+            "question": "Where is RBC headquartered?",
+            "answer": "RBC is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was RBC founded?",
+            "answer": "Royal Bank of Canada was founded in 1864."
+        },
+        {
+            "question": "Is RBC involved in sustainability efforts?",
+            "answer": "Yes, RBC is committed to sustainability and has implemented various initiatives to reduce its environmental impact."
+        }
+    ],
+    "competitors": [
+        "TD",
+        "BMO",
+        "CM",
+        "JPM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

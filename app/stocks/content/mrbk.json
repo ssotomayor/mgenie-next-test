@@ -1,0 +1,93 @@
+{
+    "ticker": "MRBK",
+    "name": "Meridian Bank",
+    "description": "Meridian Bank is a community-focused financial institution dedicated to providing personalized banking services to individuals and businesses. Founded in 2004 and headquartered in Pennsylvania, Meridian Bank emphasizes a customer-centric approach, offering a range of products including personal and business banking, mortgage lending, and wealth management services. The bank is known for its commitment to innovation, utilizing advanced technology to enhance customer experience and streamline operations. Meridian Bank operates with the mission of fostering financial well-being in the communities it serves, ensuring access to essential banking services for all. Its team of skilled professionals works closely with clients to tailor financial solutions that meet their unique needs, whether it\u2019s purchasing a home, managing investments, or growing a business. As a member of the FDIC, Meridian Bank is committed to maintaining the highest standards of security and compliance, ensuring that customer assets are protected. The bank also participates in various community initiatives, thus reinforcing its dedication to social responsibility and economic development in the regions it operates.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Pennsylvania, USA",
+    "founded": "2004",
+    "website": "https://www.meridianbanker.com",
+    "ceo": "Chris Annas",
+    "social_media": {
+        "twitter": "https://twitter.com/MeridianBanker",
+        "linkedin": "https://www.linkedin.com/company/meridian-bank/"
+    },
+    "investor_relations": "https://www.meridianbanker.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Chris Annas",
+            "position": "CEO"
+        },
+        {
+            "name": "Jackie Kauffman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking",
+                "Commercial Loans",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Meridian Bank | Community-Focused Banking Solutions",
+        "meta_description": "Explore Meridian Bank, your community-focused financial institution offering personalized banking and wealth management services. Committed to innovation and customer satisfaction.",
+        "keywords": [
+            "Meridian Bank",
+            "Community Banking",
+            "Financial Services",
+            "Personal Loans",
+            "Business Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Meridian Bank offer?",
+            "answer": "Meridian Bank offers personal and business banking services, mortgage lending, and wealth management solutions."
+        },
+        {
+            "question": "Who is the CEO of Meridian Bank?",
+            "answer": "Chris Annas is the CEO of Meridian Bank."
+        },
+        {
+            "question": "Where is Meridian Bank headquartered?",
+            "answer": "Meridian Bank is headquartered in Pennsylvania, USA."
+        },
+        {
+            "question": "When was Meridian Bank founded?",
+            "answer": "Meridian Bank was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "PNC",
+        "WFC",
+        "USB"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C"
+    ]
+}

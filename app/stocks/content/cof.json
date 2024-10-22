@@ -1,0 +1,91 @@
+{
+    "ticker": "COF",
+    "name": "Capital One Financial Corporation",
+    "description": "Capital One Financial Corporation is a bank holding company specializing in credit cards, auto loans, banking, and savings accounts. Founded in 1994 by Richard Fairbank and Nigel Morris, the company has grown to become one of the largest banks in the United States. Capital One is known for its innovative approach to financial services, leveraging technology to enhance customer experience and drive efficiency. The bank offers a wide range of credit card products, including rewards cards, cash back cards, and travel cards, catering to diverse customer needs. Additionally, Capital One provides auto financing and various banking services, including checking and savings accounts, loans, and investment services. With a strong focus on customer satisfaction, Capital One employs data-driven insights to personalize offerings and improve service delivery. The company's mission is to change banking for good, emphasizing transparency, accessibility, and responsible lending practices. As a leader in the fintech space, Capital One continues to invest in digital transformation to enhance its capabilities and meet the evolving needs of its customers.",
+    "industry": [
+        "Financial Services",
+        "Banking"
+    ],
+    "headquarters": "McLean, Virginia, USA",
+    "founded": "1994",
+    "website": "https://www.capitalone.com",
+    "ceo": "Richard Fairbank",
+    "social_media": {
+        "twitter": "https://twitter.com/capitalone",
+        "linkedin": "https://www.linkedin.com/company/capitalone/"
+    },
+    "investor_relations": "https://investor.capitalone.com",
+    "key_executives": [
+        {
+            "name": "Richard Fairbank",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew Young",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Cards",
+            "products": [
+                "QuicksilverOne Cash Rewards Card",
+                "VentureOne Rewards Credit Card",
+                "SavorOne Cash Rewards Card"
+            ]
+        },
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Auto Loans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Capital One Financial Corporation | Banking and Credit Card Solutions",
+        "meta_description": "Explore Capital One Financial Corporation, a leading bank specializing in credit cards, auto loans, and banking services. Discover their innovative financial solutions.",
+        "keywords": [
+            "Capital One",
+            "Credit Cards",
+            "Banking",
+            "Financial Services",
+            "Auto Loans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Capital One offer?",
+            "answer": "Capital One offers credit cards, auto loans, banking services, and savings accounts."
+        },
+        {
+            "question": "Who is the CEO of Capital One?",
+            "answer": "Richard Fairbank is the CEO of Capital One Financial Corporation."
+        },
+        {
+            "question": "Where is Capital One headquartered?",
+            "answer": "Capital One is headquartered in McLean, Virginia, USA."
+        },
+        {
+            "question": "What are some popular Capital One credit cards?",
+            "answer": "Popular Capital One credit cards include the QuicksilverOne Cash Rewards Card and the VentureOne Rewards Credit Card."
+        },
+        {
+            "question": "When was Capital One founded?",
+            "answer": "Capital One was founded in 1994."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ],
+    "related_stocks": [
+        "AXP",
+        "DFS",
+        "SYF",
+        "V"
+    ]
+}

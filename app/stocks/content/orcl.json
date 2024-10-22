@@ -1,0 +1,103 @@
+{
+    "ticker": "ORCL",
+    "name": "Oracle Corporation",
+    "description": "Oracle Corporation is a global leader in database technology and cloud computing solutions, dedicated to helping businesses harness the power of data. Founded in 1977 by Larry Ellison, Bob Miner, and Ed Oates, Oracle has transformed the way organizations manage their information and applications. The company offers a comprehensive suite of software, cloud services, and hardware solutions, enabling clients to optimize their operations and enhance their decision-making processes. Oracle's flagship product, the Oracle Database, is renowned for its reliability, scalability, and security, making it the preferred choice for enterprises worldwide. As cloud computing has become increasingly vital, Oracle has expanded its portfolio to include Oracle Cloud Infrastructure and Oracle Cloud Applications, which provide businesses with the tools they need to innovate and remain competitive. In addition to its cloud offerings, Oracle is at the forefront of emerging technologies such as artificial intelligence, machine learning, and blockchain, allowing organizations to leverage advanced analytics and automation. With a commitment to customer success and innovation, Oracle continues to empower businesses to thrive in a data-driven world.",
+    "industry": [
+        "Information Technology",
+        "Cloud Computing",
+        "Software"
+    ],
+    "headquarters": "Redwood City, California, USA",
+    "founded": "1977",
+    "website": "https://www.oracle.com",
+    "ceo": "Safra Catz",
+    "social_media": {
+        "twitter": "https://twitter.com/Oracle",
+        "linkedin": "https://www.linkedin.com/company/oracle/",
+        "youtube": "https://www.youtube.com/user/Oracle"
+    },
+    "investor_relations": "https://www.oracle.com/investor/",
+    "key_executives": [
+        {
+            "name": "Safra Catz",
+            "position": "CEO"
+        },
+        {
+            "name": "Oracle Executive Chairman",
+            "position": "Larry Ellison"
+        },
+        {
+            "name": "Javier Rodriguez Soler",
+            "position": "Executive Vice President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Database Management",
+            "products": [
+                "Oracle Database",
+                "Oracle Autonomous Database"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Oracle Cloud Infrastructure",
+                "Oracle Cloud Applications"
+            ]
+        },
+        {
+            "category": "Enterprise Software",
+            "products": [
+                "Oracle E-Business Suite",
+                "Oracle Fusion Cloud Applications"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Oracle Corporation | Database Technology and Cloud Solutions",
+        "meta_description": "Discover Oracle Corporation, a leader in database technology and cloud computing. Explore Oracle's innovative products, commitment to data-driven solutions, and impact on the IT industry.",
+        "keywords": [
+            "Oracle",
+            "Cloud Computing",
+            "Database Management",
+            "Enterprise Software",
+            "AI",
+            "Machine Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Oracle known for?",
+            "answer": "Oracle is known for its database technology, cloud computing services, and enterprise software solutions."
+        },
+        {
+            "question": "Who is the CEO of Oracle?",
+            "answer": "Safra Catz is the CEO of Oracle Corporation."
+        },
+        {
+            "question": "Where is Oracle headquartered?",
+            "answer": "Oracle is headquartered in Redwood City, California, USA."
+        },
+        {
+            "question": "What are Oracle's main products?",
+            "answer": "Oracle's main products include Oracle Database, Oracle Cloud Infrastructure, and Oracle Cloud Applications."
+        },
+        {
+            "question": "When was Oracle founded?",
+            "answer": "Oracle was founded in 1977."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "IBM",
+        "SAP",
+        "CRM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "INTC"
+    ]
+}

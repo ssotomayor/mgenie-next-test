@@ -1,0 +1,89 @@
+{
+    "ticker": "PCTTU",
+    "name": "Progenity, Inc.",
+    "description": "Progenity, Inc. is a biotechnology company focused on providing innovative solutions for the healthcare industry, particularly in the fields of prenatal and digestive health. Founded in 2010, Progenity aims to improve patient outcomes through advanced molecular testing and personalized medicine. The company's flagship products include non-invasive prenatal testing (NIPT) that provides expectant parents with crucial information about their baby's health, as well as diagnostic tests for gastrointestinal disorders. Progenity leverages cutting-edge technologies such as next-generation sequencing and proprietary algorithms to deliver accurate results quickly and effectively. With a commitment to research and development, Progenity is continuously expanding its testing menu and advancing its capabilities in genetic screening and precision medicine. The company recognizes the importance of empowering patients and healthcare providers with actionable insights, and it is dedicated to enhancing the overall healthcare experience. By combining science, technology, and compassion, Progenity strives to transform the landscape of genetic testing and diagnostics, making a meaningful impact on patient lives.",
+    "industry": [
+        "Biotechnology",
+        "Healthcare"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "2010",
+    "website": "https://www.progenity.com",
+    "ceo": "Harry Stylli",
+    "social_media": {
+        "twitter": "https://twitter.com/Progenity",
+        "linkedin": "https://www.linkedin.com/company/progenity/"
+    },
+    "investor_relations": "https://investors.progenity.com",
+    "key_executives": [
+        {
+            "name": "Harry Stylli",
+            "position": "CEO"
+        },
+        {
+            "name": "Michele A. D'Astolfo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Prenatal Testing",
+            "products": [
+                "InformaSeq",
+                "Preparent"
+            ]
+        },
+        {
+            "category": "Gastrointestinal Testing",
+            "products": [
+                "GI-MAP",
+                "GEO"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Progenity, Inc. | Innovative Biotechnology Solutions",
+        "meta_description": "Explore Progenity, Inc., a biotechnology company providing advanced molecular testing solutions in prenatal and digestive health. Discover our commitment to improving patient outcomes.",
+        "keywords": [
+            "Progenity",
+            "Biotechnology",
+            "Prenatal Testing",
+            "Digestive Health",
+            "Genetic Testing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Progenity specialize in?",
+            "answer": "Progenity specializes in molecular testing solutions for prenatal and gastrointestinal health."
+        },
+        {
+            "question": "Who is the CEO of Progenity?",
+            "answer": "Harry Stylli is the CEO of Progenity, Inc."
+        },
+        {
+            "question": "Where is Progenity headquartered?",
+            "answer": "Progenity is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What are Progenity's main products?",
+            "answer": "Progenity's main products include InformaSeq and GI-MAP."
+        },
+        {
+            "question": "When was Progenity founded?",
+            "answer": "Progenity was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "NIPT",
+        "NTRA",
+        "GHDX",
+        "RMD"
+    ],
+    "related_stocks": [
+        "ILMN",
+        "CRSP",
+        "GILD",
+        "AMGN"
+    ]
+}

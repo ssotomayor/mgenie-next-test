@@ -1,0 +1,87 @@
+{
+    "ticker": "CARS",
+    "name": "Cars.com Inc.",
+    "description": "Cars.com Inc. is a leading online automotive marketplace that connects car shoppers with sellers and dealers across the United States. Launched in 1998, Cars.com provides a comprehensive platform for consumers to research, buy, and sell vehicles. The company offers a wide range of services including vehicle listings, pricing tools, expert reviews, and user-generated content to help buyers make informed decisions. With its extensive database of new and used cars, along with innovative search features, Cars.com empowers users to find the perfect vehicle that meets their needs. Additionally, the platform serves automotive dealers by providing marketing solutions and advertising services that enhance their visibility and reach potential customers. Cars.com is committed to improving the car buying experience by leveraging technology and data-driven insights, fostering an ecosystem where buyers and sellers can connect efficiently. The company's mission is to simplify the car buying process and ensure a seamless experience for consumers, contributing to a more transparent and accessible automotive market.",
+    "industry": [
+        "Automotive",
+        "E-commerce"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1998",
+    "website": "https://www.cars.com",
+    "ceo": "Alex Vetter",
+    "social_media": {
+        "twitter": "https://twitter.com/carsdotcom",
+        "linkedin": "https://www.linkedin.com/company/cars-com"
+    },
+    "investor_relations": "https://investors.cars.com",
+    "key_executives": [
+        {
+            "name": "Alex Vetter",
+            "position": "CEO"
+        },
+        {
+            "name": "Cathy S. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Marketplace Services",
+            "products": [
+                "New Car Listings",
+                "Used Car Listings",
+                "Dealer Services"
+            ]
+        },
+        {
+            "category": "Research Tools",
+            "products": [
+                "Vehicle Reviews",
+                "Price Comparison Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cars.com | The Best Place to Buy and Sell Cars",
+        "meta_description": "Explore Cars.com, the leading online automotive marketplace, to buy, sell, and research new and used vehicles with ease.",
+        "keywords": [
+            "Cars.com",
+            "Automotive Marketplace",
+            "Car Listings",
+            "Buy Cars Online",
+            "Sell Cars",
+            "Vehicle Research"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Cars.com offer?",
+            "answer": "Cars.com offers a platform for buying and selling new and used cars, along with research tools and dealer services."
+        },
+        {
+            "question": "Who is the CEO of Cars.com?",
+            "answer": "Alex Vetter is the CEO of Cars.com Inc."
+        },
+        {
+            "question": "Where is Cars.com headquartered?",
+            "answer": "Cars.com is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "When was Cars.com founded?",
+            "answer": "Cars.com was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "KMX",
+        "AN",
+        "CAR",
+        "EDR"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "AAPL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "MQ",
+    "name": "Marqeta, Inc.",
+    "description": "Marqeta, Inc. is a leading card issuing and payment processing platform that empowers businesses to create customized payment solutions. Founded in 2010 by Jason Gardner, Marqeta has revolutionized the payments landscape by offering an open API-centered platform that allows companies to launch their own payment cards and manage transaction flows efficiently. The company's technology facilitates the issuance of virtual and physical cards, enabling businesses across various industries, including fintech, e-commerce, and on-demand services, to streamline their payment processes. Marqeta's client base includes notable companies such as Square, DoorDash, and Instacart, which leverage its platform to enhance their payment experiences and drive customer engagement. With a strong emphasis on innovation, Marqeta continues to expand its capabilities in payment processing, fraud prevention, and data analytics, positioning itself as a crucial player in the ever-evolving financial technology space. The company\u2019s mission is to empower businesses to create their own unique payment experiences while providing the infrastructure to support scalability and security.",
+    "industry": [
+        "Financial Technology",
+        "Payments"
+    ],
+    "headquarters": "Oakland, California, USA",
+    "founded": "2010",
+    "website": "https://www.marqeta.com",
+    "ceo": "Jason Gardner",
+    "social_media": {
+        "twitter": "https://twitter.com/marqeta",
+        "linkedin": "https://www.linkedin.com/company/marqeta/"
+    },
+    "investor_relations": "https://investors.marqeta.com",
+    "key_executives": [
+        {
+            "name": "Jason Gardner",
+            "position": "CEO"
+        },
+        {
+            "name": "Amit Prakash",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/amitprakash/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Card Issuing",
+            "products": [
+                "Virtual Cards",
+                "Physical Cards"
+            ]
+        },
+        {
+            "category": "Payment Processing",
+            "products": [
+                "Transaction Management",
+                "Fraud Prevention"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Marqeta, Inc. | Customized Payment Solutions",
+        "meta_description": "Discover Marqeta, Inc., a leading financial technology company specializing in card issuing and payment processing. Learn how Marqeta empowers businesses with innovative payment solutions.",
+        "keywords": [
+            "Marqeta",
+            "Card Issuing",
+            "Payment Processing",
+            "Fintech",
+            "Payment Solutions",
+            "Virtual Cards"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Marqeta do?",
+            "answer": "Marqeta provides a card issuing and payment processing platform that allows businesses to create customized payment solutions."
+        },
+        {
+            "question": "Who is the CEO of Marqeta?",
+            "answer": "Jason Gardner is the CEO of Marqeta, Inc."
+        },
+        {
+            "question": "Where is Marqeta headquartered?",
+            "answer": "Marqeta is headquartered in Oakland, California, USA."
+        },
+        {
+            "question": "What are Marqeta's main products?",
+            "answer": "Marqeta's main products include virtual and physical cards, along with transaction management and fraud prevention services."
+        },
+        {
+            "question": "When was Marqeta founded?",
+            "answer": "Marqeta was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "FIS",
+        "PYPL",
+        "BLOCK",
+        "ADYEN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "SQ"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "DTAN",
+    "name": "Datanomix, Inc.",
+    "description": "Datanomix, Inc. is a leading provider of advanced analytics and AI-driven solutions designed specifically for the manufacturing industry. Founded in 2017, Datanomix leverages revolutionary technology to transform the way manufacturers understand and optimize their operations. The company's flagship product, the Datanomix Platform, utilizes real-time data collection and machine learning algorithms to provide actionable insights into production performance, enabling manufacturers to increase efficiency, reduce waste, and improve overall productivity. By focusing on user-friendly interfaces and intuitive dashboards, Datanomix empowers manufacturers to make data-driven decisions without the need for extensive data science expertise. The company\u2019s mission is to democratize access to advanced analytics for all manufacturers, regardless of size or technological capability, facilitating a smarter and more productive manufacturing landscape. Datanomix is committed to continuous innovation, frequently updating its platform to incorporate the latest advancements in AI, machine learning, and IoT technologies, ensuring that its clients remain competitive in a rapidly evolving industry.",
+    "industry": [
+        "Manufacturing",
+        "Technology"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "2017",
+    "website": "https://www.datanomix.com",
+    "ceo": "Derek E. Baird",
+    "social_media": {
+        "twitter": "https://twitter.com/datanomix",
+        "linkedin": "https://www.linkedin.com/company/datanomix/"
+    },
+    "investor_relations": "https://www.datanomix.com/investors",
+    "key_executives": [
+        {
+            "name": "Derek E. Baird",
+            "position": "CEO"
+        },
+        {
+            "name": "Katherine J. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Datanomix Platform"
+            ]
+        },
+        {
+            "category": "Industry Insights",
+            "products": [
+                "Manufacturing Performance Reports"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Datanomix, Inc. | Advanced Analytics for Manufacturing",
+        "meta_description": "Explore Datanomix, Inc., a pioneer in manufacturing analytics and AI solutions. Discover how Datanomix transforms manufacturing operations through data-driven insights.",
+        "keywords": [
+            "Datanomix",
+            "Manufacturing Analytics",
+            "AI Solutions",
+            "Production Optimization",
+            "Machine Learning",
+            "Data-Driven Decisions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Datanomix known for?",
+            "answer": "Datanomix is known for its advanced analytics and AI-driven solutions tailored for the manufacturing industry."
+        },
+        {
+            "question": "Who is the CEO of Datanomix?",
+            "answer": "Derek E. Baird is the CEO of Datanomix, Inc."
+        },
+        {
+            "question": "Where is Datanomix headquartered?",
+            "answer": "Datanomix is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What is the main product of Datanomix?",
+            "answer": "Datanomix's main product is the Datanomix Platform, which provides real-time analytics for manufacturing operations."
+        },
+        {
+            "question": "When was Datanomix founded?",
+            "answer": "Datanomix was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "PLNT",
+        "CNC",
+        "FLS",
+        "GE"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "AAPL",
+        "ORCL",
+        "IBM"
+    ]
+}

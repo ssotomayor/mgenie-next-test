@@ -1,0 +1,97 @@
+{
+    "ticker": "CBOE",
+    "name": "Cboe Global Markets, Inc.",
+    "description": "Cboe Global Markets, Inc. is a leading exchange holding company that provides trading across a diverse array of asset classes, including equities, options, futures, and foreign exchange. Founded in 1973 as the Chicago Board Options Exchange, Cboe revolutionized the derivatives market by introducing standardized options contracts. Today, Cboe operates multiple exchanges and platforms, including the Cboe Options Exchange, Cboe Futures Exchange, and Cboe BZX Equities Exchange. The company is known for its innovative products such as the Cboe Volatility Index (VIX), which measures market expectations of near-term volatility. Cboe is dedicated to enhancing market efficiency and providing liquidity while maintaining the highest standards of regulatory compliance. The company leverages advanced technology and a user-friendly trading environment to cater to a global client base, including institutional investors, retail traders, and market makers. Cboe's commitment to innovation is evident in its continuous development of new products and services that meet the evolving needs of market participants. With a strong focus on customer service and education, Cboe plays a vital role in the global financial landscape, fostering transparency and access to capital markets.",
+    "industry": [
+        "Financial Services",
+        "Exchanges"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1973",
+    "website": "https://www.cboe.com",
+    "ceo": "Ed Tilly",
+    "social_media": {
+        "twitter": "https://twitter.com/CboeGlobal",
+        "linkedin": "https://www.linkedin.com/company/cboe-global-markets/"
+    },
+    "investor_relations": "https://ir.cboe.com",
+    "key_executives": [
+        {
+            "name": "Ed Tilly",
+            "position": "CEO"
+        },
+        {
+            "name": "Jason J. D. J. Harrow",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Options",
+            "products": [
+                "Standard Options",
+                "Mini Options",
+                "Flex Options"
+            ]
+        },
+        {
+            "category": "Futures",
+            "products": [
+                "Cboe Volatility Index Futures",
+                "Equity Index Futures"
+            ]
+        },
+        {
+            "category": "Equities",
+            "products": [
+                "Cboe BZX Exchange",
+                "Cboe EDGA Exchange"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cboe Global Markets, Inc. | Innovative Financial Exchange Solutions",
+        "meta_description": "Explore Cboe Global Markets, a leader in financial trading solutions offering a diverse range of products across options, futures, and equities. Discover how Cboe enhances market efficiency.",
+        "keywords": [
+            "Cboe",
+            "Options Trading",
+            "Futures Trading",
+            "Equities",
+            "Financial Exchange",
+            "VIX"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Cboe Global Markets known for?",
+            "answer": "Cboe is known for being a leading exchange that offers trading in options, futures, and equities, including the Cboe Volatility Index (VIX)."
+        },
+        {
+            "question": "Who is the CEO of Cboe?",
+            "answer": "Ed Tilly is the CEO of Cboe Global Markets, Inc."
+        },
+        {
+            "question": "Where is Cboe headquartered?",
+            "answer": "Cboe is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What products does Cboe offer?",
+            "answer": "Cboe offers a range of products including options, futures, and equities trading across multiple exchanges."
+        },
+        {
+            "question": "When was Cboe founded?",
+            "answer": "Cboe was founded in 1973."
+        }
+    ],
+    "competitors": [
+        "ICE",
+        "NDAQ",
+        "CME"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

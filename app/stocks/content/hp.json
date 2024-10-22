@@ -1,0 +1,91 @@
+{
+    "ticker": "HP",
+    "name": "Hewlett Packard Inc.",
+    "description": "Hewlett Packard Inc. (HP) is a global leader in technology solutions, specializing in personal computers, printers, and enterprise products. Founded in 1939 by Bill Hewlett and Dave Packard in a garage in Palo Alto, California, HP has played a pivotal role in shaping the technology landscape. The company provides a wide range of products and services that enhance the way people live and work. HP is particularly known for its innovative computing solutions, including laptops, desktops, and workstations, as well as its line of printers, which are renowned for their quality and reliability. In addition to hardware, HP offers software solutions, managed print services, and a variety of IT services, catering to both individuals and businesses. The company is committed to sustainability and has made significant investments in eco-friendly technologies, aiming to reduce its environmental impact through recycling initiatives and energy-efficient products. HP's mission is to create technology that makes life better for everyone, everywhere, and it continues to innovate in areas like 3D printing, virtual reality, and cloud computing. With a strong heritage of innovation, HP remains a trusted name in technology, serving millions of customers across the globe.",
+    "industry": [
+        "Technology",
+        "Consumer Electronics"
+    ],
+    "headquarters": "Palo Alto, California, USA",
+    "founded": "1939",
+    "website": "https://www.hp.com",
+    "ceo": "Enrique Lores",
+    "social_media": {
+        "twitter": "https://twitter.com/HP",
+        "linkedin": "https://www.linkedin.com/company/hp/"
+    },
+    "investor_relations": "https://investor.hp.com",
+    "key_executives": [
+        {
+            "name": "Enrique Lores",
+            "position": "CEO"
+        },
+        {
+            "name": "Marie Myers",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Computers",
+            "products": [
+                "HP Spectre",
+                "HP Envy",
+                "HP Pavilion"
+            ]
+        },
+        {
+            "category": "Printers",
+            "products": [
+                "HP LaserJet",
+                "HP OfficeJet"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hewlett Packard Inc. | Technology Solutions and Innovations",
+        "meta_description": "Explore Hewlett Packard Inc. (HP), a leader in technology solutions for personal computing and printing. Discover HP's innovative products and commitment to sustainability.",
+        "keywords": [
+            "HP",
+            "Hewlett Packard",
+            "Printers",
+            "Personal Computers",
+            "3D Printing",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does HP specialize in?",
+            "answer": "HP specializes in personal computers, printers, and technology solutions."
+        },
+        {
+            "question": "Who is the CEO of HP?",
+            "answer": "Enrique Lores is the CEO of Hewlett Packard Inc."
+        },
+        {
+            "question": "Where is HP headquartered?",
+            "answer": "HP is headquartered in Palo Alto, California, USA."
+        },
+        {
+            "question": "What are HP's main products?",
+            "answer": "HP's main products include laptops, desktops, printers, and IT services."
+        },
+        {
+            "question": "When was HP founded?",
+            "answer": "HP was founded in 1939."
+        }
+    ],
+    "competitors": [
+        "DELL",
+        "AAPL",
+        "LENOVO",
+        "GOOGL"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "IBM",
+        "CSCO",
+        "INTC"
+    ]
+}

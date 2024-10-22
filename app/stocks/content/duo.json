@@ -1,0 +1,84 @@
+{
+    "ticker": "DUO",
+    "name": "Duo Security, Inc.",
+    "description": "Duo Security, Inc. is a leading provider of cybersecurity solutions, specializing in multi-factor authentication (MFA) and secure access for businesses and organizations. Founded in 2010, Duo Security has established itself as a key player in the realm of identity and access management, helping enterprises protect their sensitive data from unauthorized access and cyber threats. The company's flagship product, Duo Trusted Access, integrates seamlessly with existing applications and systems, providing a user-friendly interface that enhances security without compromising user experience. Duo's solutions are designed to support a wide range of deployment scenarios, including on-premises, cloud, and hybrid environments, making it a versatile choice for organizations of all sizes. With a strong emphasis on zero-trust security models, Duo enables organizations to verify the identity of users and the security posture of devices before granting access to critical resources. Duo Security's commitment to innovation is reflected in its continuous development of advanced features, such as adaptive authentication, endpoint visibility, and access policies based on risk assessment. With a growing customer base and a reputation for excellence in service and support, Duo Security is dedicated to making secure access easy for everyone.",
+    "industry": [
+        "Cybersecurity",
+        "Software"
+    ],
+    "headquarters": "Ann Arbor, Michigan, USA",
+    "founded": "2010",
+    "website": "https://www.duo.com",
+    "ceo": "Ashish Jain",
+    "social_media": {
+        "twitter": "https://twitter.com/duosec",
+        "linkedin": "https://www.linkedin.com/company/duo-security/"
+    },
+    "investor_relations": "https://www.duo.com/investors",
+    "key_executives": [
+        {
+            "name": "Ashish Jain",
+            "position": "CEO"
+        },
+        {
+            "name": "Derek H. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "Duo Trusted Access",
+                "Duo Beyond",
+                "Duo Access"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Duo Security, Inc. | Cybersecurity and Multi-Factor Authentication Solutions",
+        "meta_description": "Explore Duo Security, Inc., a leader in cybersecurity and multi-factor authentication. Discover how Duo protects organizations with innovative secure access solutions.",
+        "keywords": [
+            "Duo Security",
+            "Cybersecurity",
+            "Multi-Factor Authentication",
+            "Secure Access",
+            "Identity Management",
+            "Zero Trust Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Duo Security known for?",
+            "answer": "Duo Security is known for its multi-factor authentication solutions and secure access products that protect organizations from cyber threats."
+        },
+        {
+            "question": "Who is the CEO of Duo Security?",
+            "answer": "Ashish Jain is the CEO of Duo Security, Inc."
+        },
+        {
+            "question": "Where is Duo Security headquartered?",
+            "answer": "Duo Security is headquartered in Ann Arbor, Michigan, USA."
+        },
+        {
+            "question": "What are Duo Security's main products?",
+            "answer": "Duo Security's main products include Duo Trusted Access, Duo Beyond, and Duo Access."
+        },
+        {
+            "question": "When was Duo Security founded?",
+            "answer": "Duo Security was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "OKTA",
+        "SNY",
+        "ZS",
+        "PFPT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

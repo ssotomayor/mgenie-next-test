@@ -1,0 +1,84 @@
+{
+    "ticker": "RCUS",
+    "name": "Recursion Pharmaceuticals, Inc.",
+    "description": "Recursion Pharmaceuticals, Inc. is a biotechnology company that leverages advanced technology and machine learning to accelerate drug discovery and development. Founded in 2013 and based in Salt Lake City, Utah, Recursion is focused on transforming the way diseases are understood and treated. The company applies its proprietary platform, which combines high-throughput biology and data analytics, to analyze the interactions between genes, cells, and compounds, enabling the identification of potential therapeutic candidates more efficiently than traditional methods. Recursion's innovative approach has the potential to revolutionize the pharmaceutical industry by significantly reducing the time and cost associated with bringing new drugs to market. The company is dedicated to addressing a wide range of diseases, including rare genetic disorders and cancer, by uncovering novel therapeutic pathways and developing targeted treatments. Recursion also collaborates with various partners in academia and industry to further enhance its research capabilities and expand its drug pipeline. With a strong commitment to utilizing technology for the advancement of human health, Recursion aims to unlock the power of biology through data-driven insights.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Salt Lake City, Utah, USA",
+    "founded": "2013",
+    "website": "https://www.recursion.com",
+    "ceo": "Chris Gibson",
+    "social_media": {
+        "twitter": "https://twitter.com/RecursionPharma",
+        "linkedin": "https://www.linkedin.com/company/recursion-pharmaceuticals/"
+    },
+    "investor_relations": "https://investors.recursion.com",
+    "key_executives": [
+        {
+            "name": "Chris Gibson",
+            "position": "CEO"
+        },
+        {
+            "name": "Katrina M. E. M. S. K. Wong",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Therapeutics",
+            "products": [
+                "Drug Candidates for Genetic Disorders",
+                "Cancer Therapies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Recursion Pharmaceuticals, Inc. | Drug Discovery through Machine Learning",
+        "meta_description": "Explore Recursion Pharmaceuticals, Inc., a leader in biotechnology focused on accelerating drug discovery using advanced technology and machine learning.",
+        "keywords": [
+            "Recursion Pharmaceuticals",
+            "Biotechnology",
+            "Drug Discovery",
+            "Pharmaceuticals",
+            "Machine Learning",
+            "Genetic Disorders",
+            "Cancer"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Recursion Pharmaceuticals known for?",
+            "answer": "Recursion Pharmaceuticals is known for its innovative approach to drug discovery using machine learning and high-throughput biology."
+        },
+        {
+            "question": "Who is the CEO of Recursion Pharmaceuticals?",
+            "answer": "Chris Gibson is the CEO of Recursion Pharmaceuticals, Inc."
+        },
+        {
+            "question": "Where is Recursion Pharmaceuticals headquartered?",
+            "answer": "Recursion Pharmaceuticals is headquartered in Salt Lake City, Utah, USA."
+        },
+        {
+            "question": "What types of diseases does Recursion target?",
+            "answer": "Recursion targets a wide range of diseases, including rare genetic disorders and cancer."
+        },
+        {
+            "question": "When was Recursion Pharmaceuticals founded?",
+            "answer": "Recursion Pharmaceuticals was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "CRSP",
+        "EDIT",
+        "SGEN",
+        "NVTA"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "BMY",
+        "GILD",
+        "VRTX"
+    ]
+}

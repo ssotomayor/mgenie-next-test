@@ -1,0 +1,87 @@
+{
+    "ticker": "QMOM",
+    "name": "Qraft Technologies",
+    "description": "Qraft Technologies is an innovative financial technology company focused on leveraging artificial intelligence and machine learning to enhance investment strategies and asset management. Founded in 2016, Qraft aims to democratize investing by providing advanced quantitative investment solutions that are accessible to both institutional and retail investors. The company is best known for its AI-driven ETFs (exchange-traded funds), which utilize sophisticated algorithms to analyze vast amounts of market data and identify investment opportunities in real-time. Qraft's flagship product, the Qraft AI-Enhanced U.S. Large Cap Momentum ETF, seeks to outperform traditional benchmarks by dynamically adjusting its portfolio based on AI insights. In addition to its ETF offerings, Qraft also provides various investment advisory services that employ cutting-edge technology to optimize portfolio performance and risk management. The company is committed to transparency and education in the investing space, aiming to empower investors with the tools and knowledge they need to make informed decisions. With a strong focus on research and development, Qraft is continuously exploring new methodologies in AI and data science to stay at the forefront of the financial technology landscape, making investing smarter and more efficient for everyone.",
+    "industry": [
+        "Financial Technology",
+        "Investment Management"
+    ],
+    "headquarters": "Seoul, South Korea",
+    "founded": "2016",
+    "website": "https://www.qraft.ai",
+    "ceo": "Jaehoon Lee",
+    "social_media": {
+        "twitter": "https://twitter.com/QraftAI",
+        "linkedin": "https://www.linkedin.com/company/qraft-technologies/"
+    },
+    "investor_relations": "https://www.qraft.ai/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jaehoon Lee",
+            "position": "CEO"
+        },
+        {
+            "name": "Jisoo Kim",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Exchange-Traded Funds (ETFs)",
+            "products": [
+                "Qraft AI-Enhanced U.S. Large Cap Momentum ETF"
+            ]
+        },
+        {
+            "category": "Investment Advisory Services",
+            "products": [
+                "AI-Driven Portfolio Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Qraft Technologies | AI-Driven Investment Solutions",
+        "meta_description": "Discover Qraft Technologies, a leader in financial technology that leverages AI for smarter investing. Explore innovative ETFs and investment management solutions.",
+        "keywords": [
+            "Qraft",
+            "Financial Technology",
+            "Investment Management",
+            "AI-Driven ETFs",
+            "Machine Learning",
+            "Quantitative Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Qraft Technologies specialize in?",
+            "answer": "Qraft Technologies specializes in AI-driven investment strategies and financial technology solutions."
+        },
+        {
+            "question": "Who is the CEO of Qraft Technologies?",
+            "answer": "Jaehoon Lee is the CEO of Qraft Technologies."
+        },
+        {
+            "question": "Where is Qraft Technologies headquartered?",
+            "answer": "Qraft Technologies is headquartered in Seoul, South Korea."
+        },
+        {
+            "question": "What are Qraft's main products?",
+            "answer": "Qraft's main products include AI-driven ETFs and investment advisory services."
+        },
+        {
+            "question": "When was Qraft Technologies founded?",
+            "answer": "Qraft Technologies was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "ARKK",
+        "SPY",
+        "VTI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "BRRR",
+    "name": "Burrito Brothers, Inc.",
+    "description": "Burrito Brothers, Inc. is a fast-casual restaurant chain specializing in gourmet burritos and Mexican cuisine. Founded in 2010, the company has rapidly expanded its footprint across the United States with a mission to offer fresh, high-quality, and customizable meals that cater to diverse tastes and dietary preferences. Burrito Brothers prides itself on sourcing local ingredients and providing a vibrant dining experience that reflects the rich flavors of Mexican culture. The menu features a variety of burrito options, including classic recipes and innovative creations, as well as tacos, salads, and sides. The restaurant chain emphasizes sustainability and community engagement, participating in local events and supporting food banks. With a commitment to exceptional customer service and a cozy atmosphere, Burrito Brothers aims to be more than just a meal stop; it seeks to cultivate a community of burrito lovers. As the company looks to the future, it plans to expand its menu offerings and explore new markets, all while staying true to its core values of quality, flavor, and community.",
+    "industry": [
+        "Restaurant",
+        "Food & Beverage"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.burritobrothers.com",
+    "ceo": "Sarah Thompson",
+    "social_media": {
+        "twitter": "https://twitter.com/BurritoBrothers",
+        "instagram": "https://www.instagram.com/burritobrothers",
+        "facebook": "https://www.facebook.com/burritobrothers"
+    },
+    "investor_relations": "https://ir.burritobrothers.com",
+    "key_executives": [
+        {
+            "name": "Sarah Thompson",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Reyes",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Burritos",
+            "products": [
+                "Classic Burrito",
+                "Spicy Chicken Burrito",
+                "Vegetarian Burrito",
+                "Breakfast Burrito"
+            ]
+        },
+        {
+            "category": "Tacos",
+            "products": [
+                "Beef Taco",
+                "Fish Taco",
+                "Veggie Taco"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Burrito Brothers, Inc. | Gourmet Burritos and Mexican Cuisine",
+        "meta_description": "Explore Burrito Brothers, Inc., a fast-casual restaurant chain offering gourmet burritos and authentic Mexican cuisine. Discover our menu, mission, and community engagement.",
+        "keywords": [
+            "Burrito Brothers",
+            "Burritos",
+            "Mexican Cuisine",
+            "Fast Casual",
+            "Sustainable Dining"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Burrito Brothers known for?",
+            "answer": "Burrito Brothers is known for its gourmet burritos and high-quality Mexican cuisine."
+        },
+        {
+            "question": "Who is the CEO of Burrito Brothers?",
+            "answer": "Sarah Thompson is the CEO of Burrito Brothers, Inc."
+        },
+        {
+            "question": "Where is Burrito Brothers headquartered?",
+            "answer": "Burrito Brothers is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are some popular menu items?",
+            "answer": "Popular menu items include the Classic Burrito, Spicy Chicken Burrito, and various tacos."
+        },
+        {
+            "question": "When was Burrito Brothers founded?",
+            "answer": "Burrito Brothers was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "QSR",
+        "CMG",
+        "TACO"
+    ],
+    "related_stocks": [
+        "MCD",
+        "YUM",
+        "DNKN"
+    ]
+}

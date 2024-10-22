@@ -1,0 +1,91 @@
+{
+    "ticker": "ARM",
+    "name": "Arm Holdings plc",
+    "description": "Arm Holdings plc is a leading semiconductor and software design company based in the United Kingdom. Established in 1990, Arm specializes in the development of microprocessor technology and related software, primarily for mobile and embedded devices. The company's architecture is central to the design of a vast majority of smartphones and tablets, enabling energy-efficient processing power. Arm's technology is also instrumental in the Internet of Things (IoT), automotive systems, and a variety of consumer electronics. The company operates on a licensing model, allowing other companies to use its designs in their own products, which has fostered widespread adoption of its technology. Arm is known for its innovative approach to chip design, focusing on low power consumption without compromising performance, which has made it a cornerstone of mobile computing. With the rise of artificial intelligence and machine learning, Arm is also expanding its capabilities to support these advanced technologies, positioning itself for future growth in various sectors, including cloud computing and edge devices. Arm's commitment to collaboration and partnerships drives its continuous innovation in processor technology, making it a key player in the semiconductor industry.",
+    "industry": [
+        "Semiconductors",
+        "Software"
+    ],
+    "headquarters": "Cambridge, United Kingdom",
+    "founded": "1990",
+    "website": "https://www.arm.com",
+    "ceo": "Rene Haas",
+    "social_media": {
+        "twitter": "https://twitter.com/ARM",
+        "linkedin": "https://www.linkedin.com/company/arm/"
+    },
+    "investor_relations": "https://www.arm.com/company/investor-relations",
+    "key_executives": [
+        {
+            "name": "Rene Haas",
+            "position": "CEO"
+        },
+        {
+            "name": "Kirk Skaugen",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Microprocessors",
+            "products": [
+                "Cortex-A Series",
+                "Cortex-M Series",
+                "Neoverse"
+            ]
+        },
+        {
+            "category": "Software Development Tools",
+            "products": [
+                "Arm Development Studio",
+                "Arm Compiler"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Arm Holdings plc | Leading Semiconductor & Software Design",
+        "meta_description": "Explore Arm Holdings plc, a leader in semiconductor and software design, specializing in energy-efficient microprocessors for mobile and embedded devices.",
+        "keywords": [
+            "Arm Holdings",
+            "Semiconductors",
+            "Microprocessors",
+            "Embedded Systems",
+            "IoT",
+            "Mobile Computing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Arm Holdings specialize in?",
+            "answer": "Arm Holdings specializes in semiconductor and software design, particularly in microprocessor technologies for mobile and embedded devices."
+        },
+        {
+            "question": "Who is the CEO of Arm Holdings?",
+            "answer": "Rene Haas is the CEO of Arm Holdings plc."
+        },
+        {
+            "question": "Where is Arm Holdings headquartered?",
+            "answer": "Arm Holdings is headquartered in Cambridge, United Kingdom."
+        },
+        {
+            "question": "What are Arm's main products?",
+            "answer": "Arm's main products include Cortex-A and Cortex-M microprocessors, as well as software development tools like Arm Development Studio."
+        },
+        {
+            "question": "When was Arm Holdings founded?",
+            "answer": "Arm Holdings was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "INTC",
+        "QCOM",
+        "AMD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "TSLA"
+    ]
+}

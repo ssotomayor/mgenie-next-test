@@ -1,0 +1,95 @@
+{
+    "ticker": "ADSK",
+    "name": "Autodesk, Inc.",
+    "description": "Autodesk, Inc. is a global leader in design software, providing innovative solutions for professionals in architecture, engineering, construction, manufacturing, media, and entertainment. Founded in 1982 by John Walker and a group of engineers, Autodesk is best known for its flagship product, AutoCAD, a computer-aided design (CAD) software that has revolutionized the way design professionals create and visualize their work. The company's portfolio extends beyond AutoCAD, offering a wide range of software products such as Revit for building information modeling (BIM), Maya for 3D animation and visual effects, and Fusion 360 for product design and manufacturing. Autodesk's mission is to empower innovators everywhere, providing them with the tools they need to design and make anything. With a strong commitment to sustainability, Autodesk is focused on creating software that helps users optimize their designs for efficiency and environmental impact. The company has shifted towards a subscription-based model, making its powerful tools more accessible to a wider audience, and continues to invest in cloud-based solutions to facilitate collaboration and enhance productivity in an increasingly digital world.",
+    "industry": [
+        "Software",
+        "Design",
+        "Engineering"
+    ],
+    "headquarters": "San Rafael, California, USA",
+    "founded": "1982",
+    "website": "https://www.autodesk.com",
+    "ceo": "Andrew Anagnost",
+    "social_media": {
+        "twitter": "https://twitter.com/autodesk",
+        "linkedin": "https://www.linkedin.com/company/autodesk/",
+        "instagram": "https://www.instagram.com/autodesk/",
+        "youtube": "https://www.youtube.com/user/Autodesk"
+    },
+    "investor_relations": "https://investors.autodesk.com",
+    "key_executives": [
+        {
+            "name": "Andrew Anagnost",
+            "position": "CEO"
+        },
+        {
+            "name": "Dawn Naumann",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Design Software",
+            "products": [
+                "AutoCAD",
+                "Revit",
+                "Fusion 360",
+                "Maya"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Autodesk Construction Cloud",
+                "BIM 360"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Autodesk, Inc. | Leading Design Software Solutions",
+        "meta_description": "Explore Autodesk, Inc., the global leader in design software for architecture, engineering, construction, and manufacturing. Learn about our innovative products and commitment to sustainability.",
+        "keywords": [
+            "Autodesk",
+            "Design Software",
+            "AutoCAD",
+            "BIM",
+            "3D Modeling",
+            "Engineering Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Autodesk known for?",
+            "answer": "Autodesk is known for its innovative design software used in architecture, engineering, construction, and manufacturing."
+        },
+        {
+            "question": "Who is the CEO of Autodesk?",
+            "answer": "Andrew Anagnost is the CEO of Autodesk, Inc."
+        },
+        {
+            "question": "Where is Autodesk headquartered?",
+            "answer": "Autodesk is headquartered in San Rafael, California, USA."
+        },
+        {
+            "question": "What are Autodesk's main products?",
+            "answer": "Autodesk's main products include AutoCAD, Revit, Maya, and Fusion 360."
+        },
+        {
+            "question": "When was Autodesk founded?",
+            "answer": "Autodesk was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "MSFT",
+        "PNR",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "CRM",
+        "NOW"
+    ]
+}

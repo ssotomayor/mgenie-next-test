@@ -1,0 +1,88 @@
+{
+    "ticker": "ARMK",
+    "name": "Aramark",
+    "description": "Aramark is a global leader in food, facilities, and uniform services, committed to enhancing the quality of life for those it serves through innovative solutions, exceptional service, and a deep understanding of the needs of its clients. Founded in 1936, Aramark operates in various sectors including education, healthcare, business, and sports, providing tailored services that meet the unique demands of each industry. The company offers a wide range of food services, from catering and meal preparation to vending and retail food operations, focusing on quality and nutrition. In addition to food services, Aramark provides facility management solutions that encompass everything from maintenance and cleaning to energy management and security services. With a strong emphasis on sustainability, Aramark aims to minimize its environmental impact through responsible sourcing, waste reduction, and community engagement initiatives. The company is dedicated to creating memorable experiences for its clients and their customers, making a positive difference in the communities it serves. With operations in North America and around the globe, Aramark continues to be a trusted partner for organizations looking to enhance their service offerings and operational efficiencies.",
+    "industry": [
+        "Food Services",
+        "Facilities Management"
+    ],
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "founded": "1936",
+    "website": "https://www.aramark.com",
+    "ceo": "John Zillmer",
+    "social_media": {
+        "twitter": "https://twitter.com/aramark",
+        "linkedin": "https://www.linkedin.com/company/aramark/",
+        "instagram": "https://www.instagram.com/aramark/"
+    },
+    "investor_relations": "https://investor.aramark.com",
+    "key_executives": [
+        {
+            "name": "John Zillmer",
+            "position": "CEO"
+        },
+        {
+            "name": "R. Kevin McCormick",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Food Services",
+            "products": [
+                "Catering",
+                "Vending",
+                "Retail Food Operations"
+            ]
+        },
+        {
+            "category": "Facility Management",
+            "products": [
+                "Maintenance Services",
+                "Cleaning Services",
+                "Energy Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aramark | Food, Facilities, and Uniform Services",
+        "meta_description": "Explore Aramark, a global leader in food, facilities, and uniform services dedicated to enhancing the quality of life for those it serves.",
+        "keywords": [
+            "Aramark",
+            "Food Services",
+            "Facilities Management",
+            "Catering",
+            "Sustainability",
+            "Uniform Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Aramark provide?",
+            "answer": "Aramark provides food services, facility management, and uniform services."
+        },
+        {
+            "question": "Who is the CEO of Aramark?",
+            "answer": "John Zillmer is the CEO of Aramark."
+        },
+        {
+            "question": "Where is Aramark headquartered?",
+            "answer": "Aramark is headquartered in Philadelphia, Pennsylvania, USA."
+        },
+        {
+            "question": "When was Aramark founded?",
+            "answer": "Aramark was founded in 1936."
+        }
+    ],
+    "competitors": [
+        "SYY",
+        "CDC",
+        "DHI"
+    ],
+    "related_stocks": [
+        "SBUX",
+        "MCD",
+        "YUM",
+        "WEN"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "PGY",
+    "name": "Pagaya Technologies Ltd.",
+    "description": "Pagaya Technologies Ltd. is a leading technology company focused on transforming the financial services industry through advanced data science and artificial intelligence. Founded in 2016, Pagaya specializes in providing innovative funding solutions and investment management services, primarily in the asset-backed securities market. The company uses its proprietary machine learning models to analyze vast amounts of financial data, enabling it to make more accurate credit assessments and improve capital allocation for institutional investors. Pagaya partners with a range of financial institutions, helping them optimize their portfolios and enhance their lending operations. With a mission to democratize access to capital, Pagaya's technology-driven approach aims to streamline the lending process and improve financial inclusion for consumers. The company is committed to leveraging AI to deliver better financial outcomes and foster sustainable growth in the financial sector. Pagaya continues to expand its offerings and partnerships, aiming to reshape how capital flows in the economy.",
+    "industry": [
+        "Financial Technology",
+        "Investment Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2016",
+    "website": "https://www.pagaya.com",
+    "ceo": "Gal Krubiner",
+    "social_media": {
+        "twitter": "https://twitter.com/PagayaTech",
+        "linkedin": "https://www.linkedin.com/company/pagaya-technologies/"
+    },
+    "investor_relations": "https://ir.pagaya.com",
+    "key_executives": [
+        {
+            "name": "Gal Krubiner",
+            "position": "CEO"
+        },
+        {
+            "name": "Eran Nitzan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Management",
+            "products": [
+                "Asset-Backed Securities",
+                "Credit Assessment Solutions"
+            ]
+        },
+        {
+            "category": "Fintech Solutions",
+            "products": [
+                "Lending Platforms",
+                "Data Analytics Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pagaya Technologies Ltd. | Transforming Financial Services with AI",
+        "meta_description": "Explore Pagaya Technologies Ltd., a leader in fintech leveraging AI for investment management and lending solutions. Discover our innovative approach to democratizing access to capital.",
+        "keywords": [
+            "Pagaya",
+            "Fintech",
+            "Artificial Intelligence",
+            "Investment Management",
+            "Lending Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Pagaya known for?",
+            "answer": "Pagaya is known for its advanced data science and AI-driven solutions in financial services, particularly in investment management and lending."
+        },
+        {
+            "question": "Who is the CEO of Pagaya?",
+            "answer": "Gal Krubiner is the CEO of Pagaya Technologies Ltd."
+        },
+        {
+            "question": "Where is Pagaya headquartered?",
+            "answer": "Pagaya is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Pagaya's main products?",
+            "answer": "Pagaya's main products include asset-backed securities, credit assessment solutions, and lending platforms."
+        },
+        {
+            "question": "When was Pagaya founded?",
+            "answer": "Pagaya was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "LC",
+        "UPST",
+        "SOFI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

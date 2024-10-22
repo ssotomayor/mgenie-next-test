@@ -1,0 +1,89 @@
+{
+    "ticker": "SKFRY",
+    "name": "Sikorsky Aircraft Corporation",
+    "description": "Sikorsky Aircraft Corporation, a subsidiary of Lockheed Martin, is a prominent aerospace company specializing in the design and manufacture of helicopters and advanced rotorcraft. Founded in 1925 by Igor Sikorsky, the company has a rich heritage in aviation and is recognized for its innovative contributions to both military and civilian aviation. Sikorsky produces a range of helicopters, including the iconic Black Hawk, which serves as a backbone for military operations around the globe, and the S-92, a versatile helicopter used in various roles, including search and rescue, offshore oil transport, and executive transport. The company is also at the forefront of rotorcraft technology advancements, with a strong focus on increasing efficiency, safety, and operational capabilities. Sikorsky is heavily involved in research and development, aiming to integrate modern technologies such as autonomous flight systems and advanced materials into their aircraft designs. The company\u2019s commitment to excellence and innovation has solidified its position as a leader in the aerospace industry, catering to military, commercial, and governmental customers worldwide.",
+    "industry": [
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "Stratford, Connecticut, USA",
+    "founded": "1925",
+    "website": "https://www.lockheedmartin.com/en-us/products/sikorsky.html",
+    "ceo": "James Taiclet",
+    "social_media": {
+        "twitter": "https://twitter.com/Sikorsky",
+        "linkedin": "https://www.linkedin.com/company/sikorsky/"
+    },
+    "investor_relations": "https://investors.lockheedmartin.com",
+    "key_executives": [
+        {
+            "name": "James Taiclet",
+            "position": "CEO"
+        },
+        {
+            "name": "Dan Schultz",
+            "position": "President, Sikorsky"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Military Helicopters",
+            "products": [
+                "UH-60 Black Hawk",
+                "CH-53K King Stallion"
+            ]
+        },
+        {
+            "category": "Commercial Helicopters",
+            "products": [
+                "S-92",
+                "S-76"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sikorsky Aircraft Corporation | Leader in Helicopter Manufacturing",
+        "meta_description": "Explore Sikorsky Aircraft Corporation, a Lockheed Martin subsidiary known for its advanced helicopters and rotorcraft technology. Discover our military and commercial products.",
+        "keywords": [
+            "Sikorsky",
+            "Helicopters",
+            "Aerospace",
+            "Military Aviation",
+            "S-92",
+            "Black Hawk"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Sikorsky known for?",
+            "answer": "Sikorsky is known for its advanced helicopter designs, including the Black Hawk and S-92."
+        },
+        {
+            "question": "Who is the CEO of Sikorsky?",
+            "answer": "James Taiclet is the CEO of Sikorsky Aircraft Corporation."
+        },
+        {
+            "question": "Where is Sikorsky headquartered?",
+            "answer": "Sikorsky is headquartered in Stratford, Connecticut, USA."
+        },
+        {
+            "question": "What are Sikorsky's main products?",
+            "answer": "Sikorsky's main products include military helicopters like the UH-60 Black Hawk and commercial helicopters like the S-92."
+        },
+        {
+            "question": "When was Sikorsky founded?",
+            "answer": "Sikorsky was founded in 1925."
+        }
+    ],
+    "competitors": [
+        "BA",
+        "NOC",
+        "GD"
+    ],
+    "related_stocks": [
+        "LMT",
+        "BA",
+        "RTX",
+        "GD"
+    ]
+}

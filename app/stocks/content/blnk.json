@@ -1,0 +1,91 @@
+{
+    "ticker": "BLNK",
+    "name": "Blink Charging Co.",
+    "description": "Blink Charging Co. is a leading provider of electric vehicle (EV) charging equipment and services in the United States. Founded in 2009, the company focuses on developing and deploying advanced EV charging solutions to support the growing demand for electric vehicles. Blink offers a comprehensive suite of charging products, including Level 2 charging stations, DC fast chargers, and a robust network of public charging stations. The company aims to facilitate the transition to sustainable transportation by providing accessible and convenient charging options for EV users. Blink's proprietary software allows users to locate charging stations, monitor charging status, and manage their energy consumption seamlessly. With a vision to create a cleaner, greener future, Blink is committed to expanding its charging infrastructure across various sectors, including commercial, residential, and public spaces. As the electric vehicle market continues to expand, Blink Charging Co. is at the forefront, enabling drivers to charge their vehicles conveniently and efficiently while contributing to a sustainable energy ecosystem.",
+    "industry": [
+        "Automotive",
+        "Energy",
+        "Technology"
+    ],
+    "headquarters": "Miami Beach, Florida, USA",
+    "founded": "2009",
+    "website": "https://www.blinkcharging.com",
+    "ceo": "Michael D. Farkas",
+    "social_media": {
+        "twitter": "https://twitter.com/BlinkCharging",
+        "linkedin": "https://www.linkedin.com/company/blink-charging",
+        "instagram": "https://www.instagram.com/blinkcharging/",
+        "youtube": "https://www.youtube.com/c/BlinkChargingCo"
+    },
+    "investor_relations": "https://investors.blinkcharging.com",
+    "key_executives": [
+        {
+            "name": "Michael D. Farkas",
+            "position": "CEO"
+        },
+        {
+            "name": "Brendan Jones",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Charging Stations",
+            "products": [
+                "Blink Level 2 Charging Stations",
+                "Blink DC Fast Chargers"
+            ]
+        },
+        {
+            "category": "Charging Network Services",
+            "products": [
+                "Blink Network",
+                "Mobile App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Blink Charging Co. | Electric Vehicle Charging Solutions",
+        "meta_description": "Discover Blink Charging Co., a leader in electric vehicle charging solutions. Explore Blink's innovative products and services supporting the EV revolution.",
+        "keywords": [
+            "Blink Charging",
+            "Electric Vehicles",
+            "EV Charging Stations",
+            "Sustainable Transportation",
+            "Charging Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Blink Charging do?",
+            "answer": "Blink Charging provides electric vehicle charging equipment and services, including public charging stations and network solutions."
+        },
+        {
+            "question": "Who is the CEO of Blink Charging?",
+            "answer": "Michael D. Farkas is the CEO of Blink Charging Co."
+        },
+        {
+            "question": "Where is Blink Charging headquartered?",
+            "answer": "Blink Charging is headquartered in Miami Beach, Florida, USA."
+        },
+        {
+            "question": "What types of products does Blink offer?",
+            "answer": "Blink offers Level 2 charging stations, DC fast chargers, and a comprehensive charging network."
+        },
+        {
+            "question": "When was Blink Charging founded?",
+            "answer": "Blink Charging was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "CHPT",
+        "EVGO",
+        "TSLA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AMZN"
+    ]
+}

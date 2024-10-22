@@ -1,0 +1,90 @@
+{
+    "ticker": "BKGI",
+    "name": "Baker Hughes Company",
+    "description": "Baker Hughes Company is a global leader in energy technology and is focused on providing solutions to the oil and gas industry. Established in 1907 and headquartered in Houston, Texas, Baker Hughes has over a century of experience in delivering innovative solutions that improve efficiency and sustainability in energy production. The company operates through two main segments: Oilfield Services and Industrial Services. Baker Hughes provides a comprehensive range of services including drilling, completions, production, and subsea solutions. The company is also committed to advancing the energy transition, offering technologies that facilitate lower carbon emissions and enhance the efficiency of energy systems. Baker Hughes plays a pivotal role in developing technologies such as carbon capture, utilization, and storage (CCUS), renewable energy solutions, and digital technologies that optimize energy production processes. With a strong commitment to safety, integrity, and sustainability, Baker Hughes is dedicated to helping customers meet their energy challenges while promoting a more sustainable future. The company's diverse portfolio of projects spans across the globe, ensuring that it remains at the forefront of technological advancements in the energy sector.",
+    "industry": [
+        "Energy",
+        "Oil and Gas"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1907",
+    "website": "https://www.bakerhughes.com",
+    "ceo": "Lorenzo Simonelli",
+    "social_media": {
+        "twitter": "https://twitter.com/BakerHughesCo",
+        "linkedin": "https://www.linkedin.com/company/baker-hughes/"
+    },
+    "investor_relations": "https://ir.bakerhughes.com",
+    "key_executives": [
+        {
+            "name": "Lorenzo Simonelli",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Worrell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oilfield Services",
+            "products": [
+                "Drilling Services",
+                "Completions",
+                "Production"
+            ]
+        },
+        {
+            "category": "Industrial Services",
+            "products": [
+                "Subsea Solutions",
+                "Digital Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baker Hughes Company | Energy Technology and Solutions",
+        "meta_description": "Explore Baker Hughes Company, a leader in energy technology providing innovative solutions for the oil and gas industry. Learn about their products, mission, and impact on the energy sector.",
+        "keywords": [
+            "Baker Hughes",
+            "Energy Technology",
+            "Oil and Gas",
+            "Sustainability",
+            "Drilling Services",
+            "Subsea Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Baker Hughes known for?",
+            "answer": "Baker Hughes is known for providing innovative solutions and technologies for the oil and gas industry."
+        },
+        {
+            "question": "Who is the CEO of Baker Hughes?",
+            "answer": "Lorenzo Simonelli is the CEO of Baker Hughes Company."
+        },
+        {
+            "question": "Where is Baker Hughes headquartered?",
+            "answer": "Baker Hughes is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Baker Hughes' main products?",
+            "answer": "Baker Hughes' main products include drilling services, completions, subsea solutions, and digital technologies."
+        },
+        {
+            "question": "When was Baker Hughes founded?",
+            "answer": "Baker Hughes was founded in 1907."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "HAL",
+        "NOV"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "OXY",
+        "PXD"
+    ]
+}

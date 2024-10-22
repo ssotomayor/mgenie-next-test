@@ -1,0 +1,101 @@
+{
+    "ticker": "CAE",
+    "name": "CAE Inc.",
+    "description": "CAE Inc. is a global leader in training for the civil aviation, defense, and healthcare sectors. Founded in 1947 in Montreal, Canada, CAE has built a reputation for innovation in simulation and training solutions. The company designs and manufactures simulation technologies and provides training services to airlines, pilots, and other professionals in various industries. CAE's advanced flight simulators are used worldwide and are known for their high fidelity and realism, allowing for comprehensive pilot training and assessment. In addition to aviation, CAE has expanded its capabilities into defense, offering simulation and training solutions to military forces globally, enhancing operational readiness and effectiveness. The healthcare division of CAE develops patient simulators and training solutions for medical professionals, contributing to improved patient care and safety. CAE is committed to leveraging cutting-edge technology, including artificial intelligence and data analytics, to enhance its training solutions. With a strong focus on quality and safety, CAE aims to equip its customers with the skills and knowledge needed to succeed in their respective fields, driving progress and innovation across industries.",
+    "industry": [
+        "Simulation",
+        "Training",
+        "Aerospace",
+        "Defense",
+        "Healthcare"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1947",
+    "website": "https://www.cae.com",
+    "ceo": "Marc Parent",
+    "social_media": {
+        "twitter": "https://twitter.com/CAE_INC",
+        "linkedin": "https://www.linkedin.com/company/cae-inc/"
+    },
+    "investor_relations": "https://www.cae.com/investors",
+    "key_executives": [
+        {
+            "name": "Marc Parent",
+            "position": "President and CEO"
+        },
+        {
+            "name": "Hugo B. DeGrandpre",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Civil Aviation",
+            "products": [
+                "Flight Simulators",
+                "Pilot Training Programs"
+            ]
+        },
+        {
+            "category": "Defense",
+            "products": [
+                "Military Simulator Solutions",
+                "Defense Training Services"
+            ]
+        },
+        {
+            "category": "Healthcare",
+            "products": [
+                "Patient Simulators",
+                "Medical Training Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CAE Inc. | Global Leader in Simulation and Training Solutions",
+        "meta_description": "Discover CAE Inc., a leader in simulation and training for civil aviation, defense, and healthcare. Learn about CAE's innovative solutions and commitment to safety.",
+        "keywords": [
+            "CAE",
+            "Simulation",
+            "Training",
+            "Civil Aviation",
+            "Defense",
+            "Healthcare",
+            "Flight Simulators"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CAE specialize in?",
+            "answer": "CAE specializes in simulation and training solutions for civil aviation, defense, and healthcare."
+        },
+        {
+            "question": "Who is the CEO of CAE?",
+            "answer": "Marc Parent is the President and CEO of CAE Inc."
+        },
+        {
+            "question": "Where is CAE headquartered?",
+            "answer": "CAE is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "What are CAE's main products?",
+            "answer": "CAE's main products include flight simulators, military simulation solutions, and patient simulators."
+        },
+        {
+            "question": "When was CAE founded?",
+            "answer": "CAE was founded in 1947."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "BA",
+        "NOC",
+        "GD"
+    ],
+    "related_stocks": [
+        "BA",
+        "RTX",
+        "LMT",
+        "NOC"
+    ]
+}

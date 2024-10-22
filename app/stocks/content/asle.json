@@ -1,0 +1,88 @@
+{
+    "ticker": "ASLE",
+    "name": "Astro Aerospace",
+    "description": "Astro Aerospace is an innovative aerospace company focused on the design and manufacture of next-generation aerial vehicles and drone technology. Founded in 2016, Astro Aerospace aims to revolutionize urban air mobility and personal transportation through cutting-edge engineering and advanced technologies. The company specializes in developing autonomous drones and flying cars that utilize electric vertical takeoff and landing (eVTOL) systems. Astro Aerospace's flagship products are designed to provide efficient, eco-friendly transportation solutions for both commercial and personal use. With a commitment to safety, reliability, and sustainability, Astro Aerospace is at the forefront of the aerospace industry, addressing the growing demand for advanced aerial mobility solutions. The company's vision is to make air travel accessible, affordable, and environmentally friendly, paving the way for a future where urban traffic congestion is alleviated by airborne vehicles. Additionally, Astro Aerospace is actively involved in research and development to enhance its product offerings and explore new markets, including logistics and emergency services.",
+    "industry": [
+        "Aerospace",
+        "Transportation"
+    ],
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2016",
+    "website": "https://www.astrosaero.com",
+    "ceo": "Jeffrey W. Gorman",
+    "social_media": {
+        "twitter": "https://twitter.com/AstroAero",
+        "linkedin": "https://www.linkedin.com/company/astro-aerospace/"
+    },
+    "investor_relations": "https://www.astrosaero.com/investors",
+    "key_executives": [
+        {
+            "name": "Jeffrey W. Gorman",
+            "position": "CEO"
+        },
+        {
+            "name": "Sarah Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aerial Vehicles",
+            "products": [
+                "eVTOL Aircraft",
+                "Autonomous Drones"
+            ]
+        },
+        {
+            "category": "Drone Technology",
+            "products": [
+                "Delivery Drones",
+                "Emergency Response Drones"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Astro Aerospace | Innovating Urban Air Mobility",
+        "meta_description": "Explore Astro Aerospace, a leader in next-generation aerial vehicles and drone technology. Discover our innovative products and commitment to sustainable air travel.",
+        "keywords": [
+            "Astro Aerospace",
+            "eVTOL",
+            "Drones",
+            "Urban Air Mobility",
+            "Sustainable Transportation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Astro Aerospace specialize in?",
+            "answer": "Astro Aerospace specializes in the design and manufacture of eVTOL aircraft and autonomous drones."
+        },
+        {
+            "question": "Who is the CEO of Astro Aerospace?",
+            "answer": "Jeffrey W. Gorman is the CEO of Astro Aerospace."
+        },
+        {
+            "question": "Where is Astro Aerospace headquartered?",
+            "answer": "Astro Aerospace is headquartered in Los Angeles, California, USA."
+        },
+        {
+            "question": "What are the main products of Astro Aerospace?",
+            "answer": "Astro Aerospace's main products include eVTOL aircraft and delivery drones."
+        },
+        {
+            "question": "When was Astro Aerospace founded?",
+            "answer": "Astro Aerospace was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "JOBY",
+        "LILM",
+        "SPCE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "TSLA",
+        "AMZN"
+    ]
+}

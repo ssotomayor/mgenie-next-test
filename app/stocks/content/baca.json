@@ -1,0 +1,100 @@
+{
+    "ticker": "BACA",
+    "name": "Bacardi Limited",
+    "description": "Bacardi Limited is a renowned global spirits company with a rich heritage dating back to its founding in 1862. Known for producing high-quality rum, Bacardi has become one of the most recognized names in the beverage industry. The company is headquartered in Hamilton, Bermuda, and operates in over 170 countries, offering a diverse portfolio of brands that includes Bacardi Rum, Grey Goose Vodka, Bombay Sapphire Gin, and Dewar's Scotch Whisky. Bacardi's dedication to craftsmanship and quality is evident in its production processes, which blend traditional methods with innovative techniques. The brand is committed to sustainability and has implemented various initiatives aimed at reducing its environmental impact and promoting responsible drinking. With a focus on innovation, Bacardi continuously seeks to expand its offerings to meet the evolving tastes of consumers worldwide. The company's mission is to celebrate life every day, everywhere, by bringing people together through its premium spirits, while maintaining its family-owned values and heritage. Bacardi's commitment to excellence and community engagement has established it as a leader in the global spirits market.",
+    "industry": [
+        "Beverages",
+        "Spirits"
+    ],
+    "headquarters": "Hamilton, Bermuda",
+    "founded": "1862",
+    "website": "https://www.bacardi.com",
+    "ceo": "Mahesh Madhavan",
+    "social_media": {
+        "twitter": "https://twitter.com/bacardi",
+        "linkedin": "https://www.linkedin.com/company/bacardi/",
+        "instagram": "https://www.instagram.com/bacardi",
+        "facebook": "https://www.facebook.com/bacardi"
+    },
+    "investor_relations": "https://www.bacardi.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Mahesh Madhavan",
+            "position": "CEO"
+        },
+        {
+            "name": "Diana P. de la Vega",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Rum",
+            "products": [
+                "Bacardi Superior",
+                "Bacardi Gold",
+                "Bacardi Black"
+            ]
+        },
+        {
+            "category": "Vodka",
+            "products": [
+                "Grey Goose"
+            ]
+        },
+        {
+            "category": "Gin",
+            "products": [
+                "Bombay Sapphire"
+            ]
+        },
+        {
+            "category": "Whisky",
+            "products": [
+                "Dewar's White Label"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bacardi Limited | Premium Spirits and Cocktails",
+        "meta_description": "Discover Bacardi Limited, a leader in the global spirits industry known for its premium rum, vodka, gin, and whisky. Explore our brands and commitment to quality.",
+        "keywords": [
+            "Bacardi",
+            "Spirits",
+            "Rum",
+            "Vodka",
+            "Gin",
+            "Whisky",
+            "Cocktails"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Bacardi offer?",
+            "answer": "Bacardi offers a range of products including rum, vodka, gin, and whisky."
+        },
+        {
+            "question": "Who is the CEO of Bacardi?",
+            "answer": "Mahesh Madhavan is the CEO of Bacardi Limited."
+        },
+        {
+            "question": "Where is Bacardi headquartered?",
+            "answer": "Bacardi is headquartered in Hamilton, Bermuda."
+        },
+        {
+            "question": "When was Bacardi founded?",
+            "answer": "Bacardi was founded in 1862."
+        }
+    ],
+    "competitors": [
+        "DEO",
+        "STZ",
+        "BUD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "KO",
+        "PEP",
+        "GIS"
+    ]
+}

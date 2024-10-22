@@ -1,0 +1,105 @@
+{
+    "ticker": "SOFR",
+    "name": "SoFi Technologies, Inc.",
+    "description": "SoFi Technologies, Inc. is a leading financial services company that leverages technology to provide a comprehensive suite of financial products and services. Founded in 2011, SoFi started as a student loan refinancing platform and has since evolved into a multifaceted fintech firm that offers personal loans, mortgages, investment management, and insurance. With a mission to help people achieve financial independence, SoFi aims to make financial services more accessible and user-friendly through its innovative digital platform. The company\u2019s flagship products include SoFi Money, a cash management account, and SoFi Invest, a platform for trading stocks and cryptocurrencies. Additionally, SoFi has made strides in the student loan and personal loan markets, catering to a diverse customer base from young professionals to seasoned investors. The firm is also known for its community engagement initiatives and educational resources, empowering users with knowledge about personal finance. With an emphasis on user experience and customer satisfaction, SoFi continues to expand its offerings while maintaining a strong commitment to helping its members achieve their financial goals.",
+    "industry": [
+        "Financial Services",
+        "Fintech"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2011",
+    "website": "https://www.sofi.com",
+    "ceo": "Anthony Noto",
+    "social_media": {
+        "twitter": "https://twitter.com/SoFi",
+        "linkedin": "https://www.linkedin.com/company/sofi/",
+        "instagram": "https://www.instagram.com/sofi/"
+    },
+    "investor_relations": "https://investors.sofi.com",
+    "key_executives": [
+        {
+            "name": "Anthony Noto",
+            "position": "CEO"
+        },
+        {
+            "name": "Chris Lapointe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Loans",
+            "products": [
+                "Student Loan Refinancing",
+                "Personal Loans",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Investing",
+            "products": [
+                "SoFi Invest",
+                "Cryptocurrency Trading"
+            ]
+        },
+        {
+            "category": "Cash Management",
+            "products": [
+                "SoFi Money"
+            ]
+        },
+        {
+            "category": "Insurance",
+            "products": [
+                "Life Insurance",
+                "Auto Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SoFi Technologies, Inc. | Modern Financial Services",
+        "meta_description": "Explore SoFi Technologies, Inc., a leader in fintech offering innovative financial solutions including loans, investing, and cash management. Join us on the path to financial independence.",
+        "keywords": [
+            "SoFi",
+            "Financial Services",
+            "Fintech",
+            "Student Loans",
+            "Personal Loans",
+            "Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does SoFi offer?",
+            "answer": "SoFi offers a range of services including student loan refinancing, personal loans, mortgages, investment management, and insurance."
+        },
+        {
+            "question": "Who is the CEO of SoFi?",
+            "answer": "The CEO of SoFi Technologies, Inc. is Anthony Noto."
+        },
+        {
+            "question": "Where is SoFi headquartered?",
+            "answer": "SoFi is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What is SoFi Invest?",
+            "answer": "SoFi Invest is a platform that allows users to trade stocks and cryptocurrencies."
+        },
+        {
+            "question": "When was SoFi founded?",
+            "answer": "SoFi was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "UPST",
+        "LC",
+        "LEND",
+        "CASH"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

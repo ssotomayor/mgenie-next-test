@@ -1,0 +1,85 @@
+{
+    "ticker": "EDPFY",
+    "name": "Edison International",
+    "description": "Edison International is a leading energy company, primarily engaged in the generation and distribution of electric power. Founded in 1886, the company operates through its subsidiary, Southern California Edison (SCE), which serves approximately 15 million customers in a 50,000 square-mile service area in Southern California. Edison International is committed to providing reliable and affordable electricity while transitioning to a cleaner energy future. The company is investing heavily in renewable energy sources such as solar and wind, aiming to reduce greenhouse gas emissions and enhance grid resilience. In addition to its focus on clean energy, Edison International prioritizes community engagement, environmental stewardship, and safety in its operations. The company is also actively involved in technological innovation, exploring advancements in energy storage, smart grid technologies, and electric vehicle infrastructure. With a strong vision for sustainability, Edison International is positioned to lead the energy sector into a new era of clean and efficient power generation.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Rosemead, California, USA",
+    "founded": "1886",
+    "website": "https://www.edison.com",
+    "ceo": "Pedro Pizarro",
+    "social_media": {
+        "twitter": "https://twitter.com/edisonintl",
+        "linkedin": "https://www.linkedin.com/company/edison-international"
+    },
+    "investor_relations": "https://www.edison.com/en/investors.html",
+    "key_executives": [
+        {
+            "name": "Pedro Pizarro",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha B. Barlow",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Utility",
+            "products": [
+                "Electricity Generation",
+                "Electricity Distribution"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Solar Energy",
+                "Wind Power"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Edison International | Leading Energy Provider in California",
+        "meta_description": "Explore Edison International, a key player in the energy sector focused on electricity generation and distribution while promoting sustainable energy solutions.",
+        "keywords": [
+            "Edison International",
+            "Electric Utilities",
+            "Renewable Energy",
+            "Sustainable Energy",
+            "California Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Edison International provide?",
+            "answer": "Edison International provides electricity generation and distribution services primarily through its subsidiary, Southern California Edison."
+        },
+        {
+            "question": "Where is Edison International headquartered?",
+            "answer": "Edison International is headquartered in Rosemead, California, USA."
+        },
+        {
+            "question": "What is Edison International's focus on renewable energy?",
+            "answer": "Edison International is committed to increasing its renewable energy portfolio, focusing on solar and wind energy to reduce emissions."
+        },
+        {
+            "question": "When was Edison International founded?",
+            "answer": "Edison International was founded in 1886."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "NEE",
+        "SRE",
+        "XEL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

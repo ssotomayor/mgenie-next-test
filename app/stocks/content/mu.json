@@ -1,0 +1,93 @@
+{
+    "ticker": "MU",
+    "name": "Micron Technology, Inc.",
+    "description": "Micron Technology, Inc. is a global leader in memory and storage solutions, specializing in the design and manufacturing of advanced semiconductor products. Founded in 1978 and headquartered in Boise, Idaho, Micron is known for its innovative memory technologies, including DRAM, NAND flash memory, and solid-state drives (SSDs). The company's products are essential in a wide range of applications, from consumer electronics to enterprise data centers, enabling everything from smartphones to high-performance computing systems. Micron is committed to driving the evolution of memory and storage technology, focusing on performance, reliability, and efficiency, which are critical for the growth of artificial intelligence, cloud computing, and the Internet of Things (IoT). Through significant investments in research and development, Micron strives to deliver cutting-edge solutions that meet the increasing demands of a data-driven world. The company operates in various segments, including Mobile, Computation & Networking, and Storage, providing tailored solutions to its diverse customer base. Micron's mission is to enhance the way the world uses information and technology, positioning itself as a vital player in the semiconductor industry and contributing to advancements in technology that shape the future.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Boise, Idaho, USA",
+    "founded": "1978",
+    "website": "https://www.micron.com",
+    "ceo": "Sanjay Mehrotra",
+    "social_media": {
+        "twitter": "https://twitter.com/MicronTech",
+        "linkedin": "https://www.linkedin.com/company/micron-technology/"
+    },
+    "investor_relations": "https://investors.micron.com",
+    "key_executives": [
+        {
+            "name": "Sanjay Mehrotra",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Adams",
+            "position": "President"
+        },
+        {
+            "name": "Michael L. S. McCoy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Memory Products",
+            "products": [
+                "DRAM",
+                "NAND Flash Memory"
+            ]
+        },
+        {
+            "category": "Storage Solutions",
+            "products": [
+                "Solid-State Drives (SSDs)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Micron Technology, Inc. | Leading Provider of Memory and Storage Solutions",
+        "meta_description": "Explore Micron Technology, Inc., a leader in memory and storage solutions. Discover Micron's innovative semiconductor products and contributions to technology.",
+        "keywords": [
+            "Micron",
+            "Semiconductors",
+            "Memory Solutions",
+            "NAND Flash",
+            "DRAM",
+            "Solid-State Drives"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Micron Technology specialize in?",
+            "answer": "Micron specializes in memory and storage solutions, including DRAM and NAND flash memory."
+        },
+        {
+            "question": "Who is the CEO of Micron Technology?",
+            "answer": "Sanjay Mehrotra is the CEO of Micron Technology, Inc."
+        },
+        {
+            "question": "Where is Micron Technology headquartered?",
+            "answer": "Micron is headquartered in Boise, Idaho, USA."
+        },
+        {
+            "question": "What are Micron's main products?",
+            "answer": "Micron's main products include DRAM, NAND flash memory, and solid-state drives."
+        },
+        {
+            "question": "When was Micron Technology founded?",
+            "answer": "Micron Technology was founded in 1978."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "SSNLF",
+        "TXN",
+        "SWKS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "AMD",
+        "IBM"
+    ]
+}

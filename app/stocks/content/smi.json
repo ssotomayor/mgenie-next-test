@@ -1,0 +1,89 @@
+{
+    "ticker": "SMI",
+    "name": "Semiconductor Manufacturing International Corporation",
+    "description": "Semiconductor Manufacturing International Corporation (SMIC) is one of the leading semiconductor foundries in China, specializing in the production of integrated circuits and providing a range of technology solutions for various applications. Founded in 2000 and headquartered in Shanghai, SMIC has grown to be a pivotal player in the global semiconductor supply chain, catering to a diverse clientele including consumer electronics, telecommunications, automotive, and industrial sectors. The company offers a comprehensive suite of services, from wafer fabrication to advanced packaging solutions, employing cutting-edge technology to meet the demands of the rapidly evolving semiconductor market. SMIC is focused on process technologies ranging from 0.35-micron to 28-nanometer nodes, and is actively investing in research and development to advance its capabilities in more advanced nodes, such as 14nm and below. With a strong emphasis on innovation and quality, SMIC strives to contribute to the global technology ecosystem while also supporting China's ambitions in achieving semiconductor self-sufficiency. The company is committed to sustainability practices throughout its operations, ensuring minimal environmental impact while providing high-quality products and services to its customers.",
+    "industry": [
+        "Semiconductors",
+        "Manufacturing"
+    ],
+    "headquarters": "Shanghai, China",
+    "founded": "2000",
+    "website": "http://www.smics.com",
+    "ceo": "Zhang Zhongmou",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/semiconductor-manufacturing-international-corporation/"
+    },
+    "investor_relations": "http://www.smics.com/eng/investor/index.aspx",
+    "key_executives": [
+        {
+            "name": "Zhang Zhongmou",
+            "position": "CEO"
+        },
+        {
+            "name": "Liang Mong Song",
+            "position": "Co-CEO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wafer Fabrication",
+            "products": [
+                "Logic Devices",
+                "RF Devices",
+                "Mixed Signal",
+                "Analog Devices"
+            ]
+        },
+        {
+            "category": "Advanced Packaging",
+            "products": [
+                "Wafer Level Packaging",
+                "3D IC Packaging"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Semiconductor Manufacturing International Corporation | Leading Foundry Solutions",
+        "meta_description": "Explore SMIC, a leading semiconductor foundry in China providing cutting-edge wafer fabrication and packaging solutions. Discover our commitment to innovation and quality.",
+        "keywords": [
+            "SMIC",
+            "Semiconductors",
+            "Foundry",
+            "Wafer Fabrication",
+            "Integrated Circuits"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SMIC specialize in?",
+            "answer": "SMIC specializes in semiconductor foundry services, including wafer fabrication and advanced packaging."
+        },
+        {
+            "question": "Who is the CEO of SMIC?",
+            "answer": "Zhang Zhongmou is the CEO of Semiconductor Manufacturing International Corporation."
+        },
+        {
+            "question": "Where is SMIC headquartered?",
+            "answer": "SMIC is headquartered in Shanghai, China."
+        },
+        {
+            "question": "What are the main products of SMIC?",
+            "answer": "SMIC's main products include logic devices, RF devices, mixed signal, analog devices, and advanced packaging solutions."
+        },
+        {
+            "question": "When was SMIC founded?",
+            "answer": "SMIC was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "TSM",
+        "UMC",
+        "GLOBALFOUNDRIES"
+    ],
+    "related_stocks": [
+        "INTC",
+        "NVDA",
+        "AMD",
+        "QCOM"
+    ]
+}

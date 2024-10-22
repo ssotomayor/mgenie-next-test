@@ -1,0 +1,91 @@
+{
+    "ticker": "RBRK",
+    "name": "Rubrik, Inc.",
+    "description": "Rubrik, Inc. is a leading cloud data management company that provides an innovative platform for data protection, recovery, and management across hybrid and multi-cloud environments. Founded in 2014 by Bipul Sinha, Arvind Jain, and others, Rubrik is committed to simplifying data management for enterprises through its cutting-edge technology. The company\u2019s platform integrates backup and recovery, cloud management, and data governance, allowing organizations to efficiently protect their data while ensuring compliance and security. Rubrik's solutions are designed to help businesses automate data workflows, facilitate disaster recovery, and leverage cloud capabilities for scalability and flexibility. With a strong focus on customer success, Rubrik empowers organizations to gain insights from their data, optimize their storage costs, and improve operational efficiency. The company's mission is to provide a seamless experience for managing data, enhancing the way businesses operate in the digital age.",
+    "industry": [
+        "Cloud Computing",
+        "Data Management"
+    ],
+    "headquarters": "Palo Alto, California, USA",
+    "founded": "2014",
+    "website": "https://www.rubrik.com",
+    "ceo": "Bipul Sinha",
+    "social_media": {
+        "twitter": "https://twitter.com/rubrikinc",
+        "linkedin": "https://www.linkedin.com/company/rubrik/"
+    },
+    "investor_relations": "https://investors.rubrik.com",
+    "key_executives": [
+        {
+            "name": "Bipul Sinha",
+            "position": "CEO"
+        },
+        {
+            "name": "Dan Rogers",
+            "position": "CRO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Management",
+            "products": [
+                "Cloud Data Management",
+                "Data Protection",
+                "Disaster Recovery"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "Cloud Backup",
+                "Multi-Cloud Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rubrik, Inc. | Cloud Data Management Solutions",
+        "meta_description": "Explore Rubrik, Inc., a leader in cloud data management. Discover innovative solutions for data protection, recovery, and management across hybrid and multi-cloud environments.",
+        "keywords": [
+            "Rubrik",
+            "Cloud Data Management",
+            "Data Protection",
+            "Disaster Recovery",
+            "Hybrid Cloud",
+            "Multi-Cloud"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rubrik specialize in?",
+            "answer": "Rubrik specializes in cloud data management, providing solutions for data protection, recovery, and management."
+        },
+        {
+            "question": "Who is the CEO of Rubrik?",
+            "answer": "Bipul Sinha is the CEO of Rubrik, Inc."
+        },
+        {
+            "question": "Where is Rubrik headquartered?",
+            "answer": "Rubrik is headquartered in Palo Alto, California, USA."
+        },
+        {
+            "question": "What products does Rubrik offer?",
+            "answer": "Rubrik offers products for cloud data management, data protection, and disaster recovery."
+        },
+        {
+            "question": "When was Rubrik founded?",
+            "answer": "Rubrik was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "VEEV",
+        "NETAPP",
+        "DDOG",
+        "CLOU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

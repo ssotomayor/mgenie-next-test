@@ -1,0 +1,90 @@
+{
+    "ticker": "MT",
+    "name": "ArcelorMittal",
+    "description": "ArcelorMittal is the world\u2019s leading integrated steel and mining company, with a presence in more than 60 countries and an industrial footprint in 18 countries. Founded in 2006 through the merger of Arcelor and Mittal Steel, the company is headquartered in Luxembourg and is a major producer of steel, iron ore, and coal. ArcelorMittal produces a wide range of steel products used in various industries including automotive, construction, and appliances, and is committed to sustainable development and reducing its carbon footprint. The company invests heavily in research and development to innovate and improve steel production processes while focusing on recycling and sustainability initiatives. ArcelorMittal aims to provide high-quality products while promoting responsible mining practices, thereby contributing to the global transition to a low-carbon economy. With a strong emphasis on safety, the company strives to maintain the highest standards in its operations and promote a culture of safety among its workforce. ArcelorMittal is committed to delivering value to its stakeholders through operational excellence, strategic investments, and a focus on sustainable practices.",
+    "industry": [
+        "Steel",
+        "Mining"
+    ],
+    "headquarters": "Luxembourg City, Luxembourg",
+    "founded": "2006",
+    "website": "https://corporate.arcelormittal.com",
+    "ceo": "Lakshmi Mittal",
+    "social_media": {
+        "twitter": "https://twitter.com/arcelormittal",
+        "linkedin": "https://www.linkedin.com/company/arcelormittal"
+    },
+    "investor_relations": "https://corporate.arcelormittal.com/investors",
+    "key_executives": [
+        {
+            "name": "Lakshmi Mittal",
+            "position": "CEO"
+        },
+        {
+            "name": "Geert Van Poelvoorde",
+            "position": "CEO of ArcelorMittal Europe"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Steel Products",
+            "products": [
+                "Flat Steel",
+                "Long Steel",
+                "Wire Rod",
+                "Construction Steel"
+            ]
+        },
+        {
+            "category": "Mining Products",
+            "products": [
+                "Iron Ore",
+                "Coking Coal"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ArcelorMittal | World Leader in Steel and Mining",
+        "meta_description": "ArcelorMittal is the world's leading steel and mining company, committed to sustainability and innovation. Learn more about our products and initiatives.",
+        "keywords": [
+            "ArcelorMittal",
+            "Steel",
+            "Mining",
+            "Sustainability",
+            "Lakshmi Mittal"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ArcelorMittal do?",
+            "answer": "ArcelorMittal is a leading integrated steel and mining company that produces steel and iron ore."
+        },
+        {
+            "question": "Who is the CEO of ArcelorMittal?",
+            "answer": "Lakshmi Mittal is the CEO of ArcelorMittal."
+        },
+        {
+            "question": "Where is ArcelorMittal headquartered?",
+            "answer": "ArcelorMittal is headquartered in Luxembourg City, Luxembourg."
+        },
+        {
+            "question": "What products does ArcelorMittal offer?",
+            "answer": "ArcelorMittal offers a range of steel products and mining products, including flat steel, long steel, iron ore, and coking coal."
+        },
+        {
+            "question": "When was ArcelorMittal founded?",
+            "answer": "ArcelorMittal was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "NUE",
+        "STLD",
+        "AKS"
+    ],
+    "related_stocks": [
+        "X",
+        "DE",
+        "FCX",
+        "BHP"
+    ]
+}

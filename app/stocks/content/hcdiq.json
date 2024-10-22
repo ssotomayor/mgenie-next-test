@@ -1,0 +1,98 @@
+{
+    "ticker": "HCDIQ",
+    "name": "Hancock Whitney Corporation",
+    "description": "Hancock Whitney Corporation is a financial services company that provides a wide range of banking and financial solutions to individuals, businesses, and communities. Founded in 1899 and headquartered in Gulfport, Mississippi, Hancock Whitney has grown to become one of the largest regional banks in the United States, offering services that include personal banking, commercial banking, wealth management, and mortgage banking. The bank's mission is to enhance the financial well-being of its customers and communities through a commitment to exceptional service and a focus on local relationships. With a strong emphasis on community involvement and development, Hancock Whitney actively participates in various initiatives aimed at fostering economic growth and social responsibility. The company operates a network of branches across the Gulf South region, including Louisiana, Mississippi, Alabama, and Florida, providing accessible banking solutions to its diverse clientele. Hancock Whitney's innovative approach to banking includes digital banking solutions, mobile banking apps, and personalized financial advice to meet the evolving needs of customers. The bank is dedicated to maintaining high levels of customer satisfaction and aims to be a trusted partner in their financial journey.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Gulfport, Mississippi, USA",
+    "founded": "1899",
+    "website": "https://www.hancockwhitney.com",
+    "ceo": "John M. Hairston",
+    "social_media": {
+        "twitter": "https://twitter.com/hancockwhitney",
+        "linkedin": "https://www.linkedin.com/company/hancock-whitney/",
+        "facebook": "https://www.facebook.com/HancockWhitney"
+    },
+    "investor_relations": "https://www.hancockwhitney.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "John M. Hairston",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy M. Dorr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking",
+                "Commercial Loans",
+                "Treasury Management"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Management",
+                "Retirement Planning",
+                "Trust Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hancock Whitney Corporation | Banking and Financial Services",
+        "meta_description": "Hancock Whitney Corporation offers comprehensive banking and financial services, focusing on personal, business, and wealth management solutions in the Gulf South region.",
+        "keywords": [
+            "Hancock Whitney",
+            "Banking",
+            "Financial Services",
+            "Personal Banking",
+            "Business Banking",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Hancock Whitney provide?",
+            "answer": "Hancock Whitney provides personal banking, business banking, wealth management, and mortgage services."
+        },
+        {
+            "question": "Who is the CEO of Hancock Whitney?",
+            "answer": "John M. Hairston is the CEO of Hancock Whitney Corporation."
+        },
+        {
+            "question": "Where is Hancock Whitney headquartered?",
+            "answer": "Hancock Whitney is headquartered in Gulfport, Mississippi, USA."
+        },
+        {
+            "question": "When was Hancock Whitney founded?",
+            "answer": "Hancock Whitney was founded in 1899."
+        }
+    ],
+    "competitors": [
+        "WFC",
+        "JPM",
+        "USB",
+        "PNC"
+    ],
+    "related_stocks": [
+        "BAC",
+        "C",
+        "SCHW",
+        "AXP"
+    ]
+}

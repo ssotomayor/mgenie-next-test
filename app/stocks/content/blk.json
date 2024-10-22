@@ -1,0 +1,95 @@
+{
+    "ticker": "BLK",
+    "name": "BlackRock, Inc.",
+    "description": "BlackRock, Inc. is a global leader in investment management and risk management, with a commitment to providing innovative financial solutions to clients around the world. Founded in 1988, BlackRock has grown to become the largest asset manager globally, with approximately $9 trillion in assets under management. The firm offers a diverse range of investment products, including mutual funds, exchange-traded funds (ETFs), and alternative investments, catering to institutional and retail investors alike. BlackRock is known for its cutting-edge technology, including Aladdin, its risk management platform, which integrates data, analytics, and portfolio management to help clients navigate complex financial markets. The company's mission is to help clients achieve their investment goals while promoting sustainability and responsible investing practices. BlackRock actively engages in environmental, social, and governance (ESG) initiatives, advocating for sustainable business practices and long-term value creation. With a presence in over 100 countries and a workforce of more than 16,000 employees, BlackRock is committed to delivering superior investment performance and enhancing financial well-being. The firm's vision extends beyond traditional asset management, focusing on innovative solutions that address the challenges of a rapidly changing global economy.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1988",
+    "website": "https://www.blackrock.com",
+    "ceo": "Larry Fink",
+    "social_media": {
+        "twitter": "https://twitter.com/blackrock",
+        "linkedin": "https://www.linkedin.com/company/blackrock/"
+    },
+    "investor_relations": "https://ir.blackrock.com",
+    "key_executives": [
+        {
+            "name": "Larry Fink",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert S. Kapito",
+            "position": "President"
+        },
+        {
+            "name": "Gary Shedlin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Solutions",
+            "products": [
+                "Equity Funds",
+                "Fixed Income Funds",
+                "Multi-Asset Funds",
+                "Alternatives"
+            ]
+        },
+        {
+            "category": "ETFs",
+            "products": [
+                "iShares ETFs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BlackRock, Inc. | Global Investment Management Leader",
+        "meta_description": "Explore BlackRock, Inc., the world's largest asset manager, providing innovative investment solutions and risk management services to clients globally.",
+        "keywords": [
+            "BlackRock",
+            "Investment Management",
+            "Asset Management",
+            "Financial Services",
+            "Larry Fink",
+            "iShares"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is BlackRock known for?",
+            "answer": "BlackRock is known for being the largest asset manager in the world, providing investment and risk management services."
+        },
+        {
+            "question": "Who is the CEO of BlackRock?",
+            "answer": "Larry Fink is the CEO of BlackRock, Inc."
+        },
+        {
+            "question": "Where is BlackRock headquartered?",
+            "answer": "BlackRock is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are BlackRock's main products?",
+            "answer": "BlackRock's main products include equity funds, fixed income funds, multi-asset funds, alternatives, and iShares ETFs."
+        },
+        {
+            "question": "When was BlackRock founded?",
+            "answer": "BlackRock was founded in 1988."
+        }
+    ],
+    "competitors": [
+        "Vanguard",
+        "Fidelity",
+        "State Street",
+        "T. Rowe Price"
+    ],
+    "related_stocks": [
+        "GS",
+        "JPM",
+        "MS",
+        "BLV"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "ticker": "SNCY",
+    "name": "Sun Country Airlines, Inc.",
+    "description": "Sun Country Airlines, Inc. is a prominent American ultra-low-cost carrier that provides passenger and cargo services. Founded in 1982 and headquartered in Minneapolis, Minnesota, the airline has established itself as a key player in the U.S. travel industry, offering affordable flight options to various domestic and international destinations. Sun Country operates a fleet of Boeing 737 aircraft, focusing on leisure travel and charter services, catering primarily to vacationers heading to warm-weather destinations. The airline's business model emphasizes low fares with optional add-ons, allowing customers to customize their travel experience according to their needs. In addition to its scheduled passenger service, Sun Country also partners with travel companies and offers charter services for groups and organizations. The company has a commitment to operational efficiency and customer satisfaction, continually expanding its route network to meet the evolving demands of travelers. Sun Country Airlines also emphasizes sustainability in its operations, aiming to reduce its environmental impact through various initiatives. With a focus on affordability and convenience, the airline is well-positioned to serve the growing market of budget-conscious travelers.",
+    "industry": [
+        "Aviation",
+        "Travel"
+    ],
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "founded": "1982",
+    "website": "https://www.suncountry.com",
+    "ceo": "Drew Wells",
+    "social_media": {
+        "twitter": "https://twitter.com/SunCountryAir",
+        "linkedin": "https://www.linkedin.com/company/sun-country-airlines/"
+    },
+    "investor_relations": "https://investor.suncountry.com",
+    "key_executives": [
+        {
+            "name": "Drew Wells",
+            "position": "CEO"
+        },
+        {
+            "name": "Dave Davis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Domestic Flights",
+                "International Flights",
+                "Charter Services"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Freight Transportation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sun Country Airlines, Inc. | Affordable Air Travel",
+        "meta_description": "Discover Sun Country Airlines, Inc., an ultra-low-cost carrier providing affordable flights to various destinations. Explore our services and travel options.",
+        "keywords": [
+            "Sun Country Airlines",
+            "Low-Cost Carrier",
+            "Air Travel",
+            "Charter Services",
+            "Affordable Flights"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of airline is Sun Country?",
+            "answer": "Sun Country is an ultra-low-cost carrier offering affordable domestic and international flights."
+        },
+        {
+            "question": "Where is Sun Country Airlines headquartered?",
+            "answer": "Sun Country Airlines is headquartered in Minneapolis, Minnesota, USA."
+        },
+        {
+            "question": "When was Sun Country founded?",
+            "answer": "Sun Country was founded in 1982."
+        },
+        {
+            "question": "What kind of services does Sun Country offer?",
+            "answer": "Sun Country offers passenger flights, charter services, and cargo transportation."
+        }
+    ],
+    "competitors": [
+        "ULCC",
+        "SAVE",
+        "ALGT",
+        "JBLU"
+    ],
+    "related_stocks": [
+        "LUV",
+        "DAL",
+        "UAL",
+        "AAL"
+    ]
+}

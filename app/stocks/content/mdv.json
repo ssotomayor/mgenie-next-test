@@ -1,0 +1,86 @@
+{
+    "ticker": "MDV",
+    "name": "Medivis, Inc.",
+    "description": "Medivis, Inc. is a cutting-edge medical technology company specializing in augmented reality (AR) solutions for the healthcare industry. Founded in 2017, Medivis aims to transform surgical procedures and medical training through the integration of AR technology. The company's flagship product, the SurgicalAR platform, provides surgeons with real-time, 3D visualizations of patient anatomy during procedures, enhancing precision and outcomes. Medivis is committed to improving surgical workflows and patient safety by equipping medical professionals with tools that bridge the gap between digital data and physical realities. The company collaborates with leading hospitals and medical institutions to refine its technology and ensure it meets the needs of the evolving healthcare landscape. In addition to its surgical applications, Medivis is actively involved in developing AR-based educational tools for medical students and professionals, enhancing learning experiences through immersive, interactive environments. As the healthcare industry increasingly embraces digital transformation, Medivis positions itself at the forefront of innovation, striving to make advanced medical procedures safer and more efficient.",
+    "industry": [
+        "Healthcare",
+        "Medical Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2017",
+    "website": "https://www.medivis.com",
+    "ceo": "Dr. David E. W. Federman",
+    "social_media": {
+        "twitter": "https://twitter.com/MedivisAR",
+        "linkedin": "https://www.linkedin.com/company/medivis/"
+    },
+    "investor_relations": "https://www.medivis.com/investors",
+    "key_executives": [
+        {
+            "name": "Dr. David E. W. Federman",
+            "position": "CEO"
+        },
+        {
+            "name": "Jessica Lee",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Surgical Solutions",
+            "products": [
+                "SurgicalAR Platform"
+            ]
+        },
+        {
+            "category": "Medical Education",
+            "products": [
+                "AR Training Modules"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Medivis, Inc. | Augmented Reality Solutions for Healthcare",
+        "meta_description": "Discover Medivis, Inc., a leader in augmented reality technology for surgery and medical education. Explore innovative solutions that enhance precision and safety in healthcare.",
+        "keywords": [
+            "Medivis",
+            "Augmented Reality",
+            "Surgical Technology",
+            "Medical Training",
+            "Healthcare Innovation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Medivis specialize in?",
+            "answer": "Medivis specializes in augmented reality solutions for surgery and medical education."
+        },
+        {
+            "question": "Who is the CEO of Medivis?",
+            "answer": "Dr. David E. W. Federman is the CEO of Medivis, Inc."
+        },
+        {
+            "question": "Where is Medivis headquartered?",
+            "answer": "Medivis is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What is the SurgicalAR platform?",
+            "answer": "The SurgicalAR platform is Medivis's flagship product that provides real-time, 3D visualizations of patient anatomy during surgical procedures."
+        },
+        {
+            "question": "When was Medivis founded?",
+            "answer": "Medivis was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "ISRG",
+        "TDOC",
+        "MDT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMGN",
+        "JNJ"
+    ]
+}

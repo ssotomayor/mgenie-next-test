@@ -1,0 +1,88 @@
+{
+    "ticker": "IBMQ",
+    "name": "IBM Quantum",
+    "description": "IBM Quantum is a division of IBM that focuses on advancing quantum computing technology and making it accessible to businesses and researchers. Launched in 2017, IBM Quantum aims to democratize access to quantum computing through the IBM Quantum Experience, a cloud-based platform that allows users to run experiments on real quantum computers. With its pioneering work in quantum algorithms, quantum hardware, and quantum applications, IBM Quantum is at the forefront of the quantum computing revolution, working to solve complex problems beyond the capabilities of classical computers. The division collaborates with various industries, including finance, healthcare, and materials science, to explore how quantum computing can transform these sectors by providing solutions for optimization, simulation, and machine learning. IBM Quantum is also committed to developing a robust quantum ecosystem by providing educational resources, tools, and community engagement initiatives to foster innovation in quantum technologies. Through its open-source frameworks like Qiskit, IBM Quantum encourages collaboration among researchers and developers to accelerate the development of quantum applications. The vision of IBM Quantum is to harness the power of quantum computing to address some of the world's most pressing challenges, driving advancements in science, technology, and industry.",
+    "industry": [
+        "Information Technology",
+        "Quantum Computing"
+    ],
+    "headquarters": "Armonk, New York, USA",
+    "founded": "2017",
+    "website": "https://www.ibm.com/quantum",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBMQuantum",
+        "linkedin": "https://www.linkedin.com/company/ibm-quantum/",
+        "youtube": "https://www.youtube.com/c/IBMQuantum"
+    },
+    "investor_relations": "https://www.ibm.com/investor",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "Dario Gil",
+            "position": "SVP and Director of IBM Research"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Computing Services",
+            "products": [
+                "IBM Quantum Experience",
+                "Qiskit"
+            ]
+        },
+        {
+            "category": "Quantum Hardware",
+            "products": [
+                "IBM Quantum Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IBM Quantum | Leading the Quantum Computing Revolution",
+        "meta_description": "Explore IBM Quantum, a leader in quantum computing technology, providing access to quantum systems and a comprehensive platform for research and development.",
+        "keywords": [
+            "IBM Quantum",
+            "Quantum Computing",
+            "Qiskit",
+            "Quantum Algorithms",
+            "Quantum Hardware"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IBM Quantum known for?",
+            "answer": "IBM Quantum is known for its advancements in quantum computing technology and providing access to quantum computers through the IBM Quantum Experience."
+        },
+        {
+            "question": "Who is the CEO of IBM?",
+            "answer": "Arvind Krishna is the CEO of IBM."
+        },
+        {
+            "question": "Where is IBM Quantum headquartered?",
+            "answer": "IBM Quantum is headquartered in Armonk, New York, USA."
+        },
+        {
+            "question": "What are IBM Quantum's main products?",
+            "answer": "IBM Quantum's main products include the IBM Quantum Experience platform and Qiskit, an open-source quantum computing framework."
+        },
+        {
+            "question": "When was IBM Quantum founded?",
+            "answer": "IBM Quantum was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "MSFT",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "TSLA"
+    ]
+}

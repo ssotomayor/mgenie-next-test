@@ -1,0 +1,102 @@
+{
+    "ticker": "CAJPY",
+    "name": "Canon Inc.",
+    "description": "Canon Inc. is a multinational corporation specializing in imaging and optical products, including cameras, camcorders, printers, and medical equipment. Founded in 1937, Canon has established itself as a leader in the industry, renowned for its innovative technologies and commitment to quality. The company began its journey with the development of Japan's first 35mm focal-plane shutter camera, and since then, it has evolved into a global powerhouse in imaging solutions. Canon's product lines include digital cameras, professional video equipment, and a wide array of printers, including both consumer and commercial-grade models. Additionally, the company has expanded into the fields of healthcare and industrial equipment, providing high-quality imaging solutions for various applications. Canon's mission is to enhance the lives of its customers through innovative technology and to contribute to the advancement of society. The company's ongoing investments in research and development underscore its commitment to pushing the boundaries of imaging technology, enabling users to capture and share their experiences in more meaningful ways. With a strong global presence, Canon continues to adapt to changing market demands while maintaining its dedication to sustainability and corporate social responsibility.",
+    "industry": [
+        "Imaging",
+        "Optics",
+        "Electronics"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1937",
+    "website": "https://www.canon.com",
+    "ceo": "Fujio Mitarai",
+    "social_media": {
+        "twitter": "https://twitter.com/canonusa",
+        "linkedin": "https://www.linkedin.com/company/canon/",
+        "instagram": "https://www.instagram.com/canonusa/",
+        "youtube": "https://www.youtube.com/user/CanonUSA"
+    },
+    "investor_relations": "https://global.canon/en/ir/index.html",
+    "key_executives": [
+        {
+            "name": "Fujio Mitarai",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Toshio Matsumoto",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cameras",
+            "products": [
+                "EOS Digital Cameras",
+                "PowerShot Series",
+                "VIXIA Camcorders"
+            ]
+        },
+        {
+            "category": "Printers",
+            "products": [
+                "PIXMA Printers",
+                "imagePROGRAF Series",
+                "MAXIFY Printers"
+            ]
+        },
+        {
+            "category": "Imaging Solutions",
+            "products": [
+                "Medical Imaging Systems",
+                "Industrial Equipment"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Canon Inc. | Imaging and Optical Solutions",
+        "meta_description": "Explore Canon Inc., a leader in imaging and optical products, offering cameras, printers, and medical equipment. Discover Canon's innovative solutions.",
+        "keywords": [
+            "Canon",
+            "Cameras",
+            "Printers",
+            "Imaging Solutions",
+            "Optical Products",
+            "Fujio Mitarai"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Canon known for?",
+            "answer": "Canon is known for its cameras, printers, and imaging solutions."
+        },
+        {
+            "question": "Who is the CEO of Canon?",
+            "answer": "Fujio Mitarai is the Chairman and CEO of Canon Inc."
+        },
+        {
+            "question": "Where is Canon headquartered?",
+            "answer": "Canon is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Canon's main products?",
+            "answer": "Canon's main products include digital cameras, printers, and medical imaging systems."
+        },
+        {
+            "question": "When was Canon founded?",
+            "answer": "Canon was founded in 1937."
+        }
+    ],
+    "competitors": [
+        "NOKIA",
+        "SONY",
+        "HPQ",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

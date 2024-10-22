@@ -1,0 +1,85 @@
+{
+    "ticker": "GIGGU",
+    "name": "Giga Global Inc.",
+    "description": "Giga Global Inc. is a technology-driven company focused on providing cutting-edge solutions in the field of data analytics and artificial intelligence. Founded in 2015, Giga Global aims to transform industries by leveraging big data to enable smarter decision-making. The company specializes in developing advanced analytics platforms that help organizations harness their data for operational efficiency, predictive modeling, and strategic insights. Giga Global's flagship product, the Giga Analytics Suite, integrates machine learning algorithms and data visualization tools, allowing clients to analyze patterns and trends in real-time. With a commitment to innovation, Giga Global collaborates with various sectors, including healthcare, finance, and retail, to deliver tailored solutions that drive growth and enhance productivity. The company is also dedicated to ethical AI practices and regularly engages in community initiatives to promote technology literacy and accessibility. With a rapidly expanding client base and a robust portfolio of products, Giga Global is positioned as a leader in the data analytics space, aiming to empower businesses to thrive in a data-driven world.",
+    "industry": [
+        "Technology",
+        "Data Analytics",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.gigaglobal.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/GigaGlobalInc",
+        "linkedin": "https://www.linkedin.com/company/gigaglobalinc/"
+    },
+    "investor_relations": "https://ir.gigaglobal.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Giga Analytics Suite",
+                "Predictive Analytics Tool"
+            ]
+        },
+        {
+            "category": "AI Services",
+            "products": [
+                "AI Consulting",
+                "Custom Machine Learning Models"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Giga Global Inc. | Leading Data Analytics and AI Solutions",
+        "meta_description": "Explore Giga Global Inc., a leader in data analytics and artificial intelligence. Discover innovative products and solutions designed to empower businesses.",
+        "keywords": [
+            "Giga Global",
+            "Data Analytics",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Big Data"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Giga Global offer?",
+            "answer": "Giga Global offers data analytics solutions and AI services, including the Giga Analytics Suite and custom machine learning models."
+        },
+        {
+            "question": "Who is the CEO of Giga Global?",
+            "answer": "Jane Doe is the CEO of Giga Global Inc."
+        },
+        {
+            "question": "Where is Giga Global headquartered?",
+            "answer": "Giga Global is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was Giga Global founded?",
+            "answer": "Giga Global was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "PLTR",
+        "SNOW",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CRM"
+    ]
+}

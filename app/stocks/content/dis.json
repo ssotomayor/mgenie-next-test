@@ -1,0 +1,96 @@
+{
+    "ticker": "DIS",
+    "name": "The Walt Disney Company",
+    "description": "The Walt Disney Company is a global entertainment and media conglomerate known for its iconic characters, movies, and theme parks. Founded on October 16, 1923, by Walt Disney and Roy O. Disney, the company has become one of the most recognized and beloved brands in the world. Disney operates through various segments, including Media Networks, Parks, Experiences and Products, Studio Entertainment, and Direct-to-Consumer & International. Its portfolio includes notable franchises such as Marvel, Star Wars, Pixar, and Disney Animation, producing blockbuster films and series that have garnered critical acclaim and commercial success. The company also owns and operates Disneyland and Walt Disney World, two of the most visited vacation destinations globally, offering immersive experiences for families and individuals. In recent years, Disney has expanded into the streaming space with Disney+, which features a vast library of content appealing to all ages. Disney's commitment to storytelling, creativity, and innovation has made it a leader in the entertainment industry, with a mission to entertain, inform, and inspire people around the globe through the power of storytelling.",
+    "industry": [
+        "Entertainment",
+        "Media"
+    ],
+    "headquarters": "Burbank, California, USA",
+    "founded": "1923",
+    "website": "https://www.thewaltdisneycompany.com",
+    "ceo": "Bob Chapek",
+    "social_media": {
+        "twitter": "https://twitter.com/Disney",
+        "linkedin": "https://www.linkedin.com/company/the-walt-disney-company",
+        "instagram": "https://www.instagram.com/disney/",
+        "youtube": "https://www.youtube.com/user/disney"
+    },
+    "investor_relations": "https://www.thewaltdisneycompany.com/investors/",
+    "key_executives": [
+        {
+            "name": "Bob Chapek",
+            "position": "CEO"
+        },
+        {
+            "name": "Christine McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Film and Television",
+            "products": [
+                "Disney+",
+                "Marvel Cinematic Universe",
+                "Star Wars Franchise",
+                "Pixar Films"
+            ]
+        },
+        {
+            "category": "Theme Parks",
+            "products": [
+                "Disneyland",
+                "Walt Disney World",
+                "Disney Cruise Line"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Walt Disney Company | Entertainment and Media Leader",
+        "meta_description": "Explore The Walt Disney Company, a global leader in entertainment and media, known for its iconic characters, films, and theme parks.",
+        "keywords": [
+            "Disney",
+            "Entertainment",
+            "Media",
+            "Disney+",
+            "Marvel",
+            "Star Wars",
+            "Theme Parks"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is The Walt Disney Company known for?",
+            "answer": "The Walt Disney Company is known for its films, television shows, and theme parks, including franchises like Marvel and Star Wars."
+        },
+        {
+            "question": "Who is the CEO of Disney?",
+            "answer": "Bob Chapek is the CEO of The Walt Disney Company."
+        },
+        {
+            "question": "Where is Disney headquartered?",
+            "answer": "Disney is headquartered in Burbank, California, USA."
+        },
+        {
+            "question": "What are Disney's main products?",
+            "answer": "Disney's main products include films and TV shows on Disney+, and attractions in its theme parks."
+        },
+        {
+            "question": "When was Disney founded?",
+            "answer": "Disney was founded on October 16, 1923."
+        }
+    ],
+    "competitors": [
+        "NFLX",
+        "CMCSA",
+        "VIAC",
+        "ATVI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

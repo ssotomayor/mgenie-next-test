@@ -1,0 +1,87 @@
+{
+    "ticker": "FSBD",
+    "name": "First Seacoast Bank",
+    "description": "First Seacoast Bank is a community bank based in New Hampshire that specializes in providing a wide range of financial services to individuals and businesses. Founded in 1890, the bank has a long-standing tradition of serving its local communities with a commitment to personalized service and financial integrity. First Seacoast Bank offers various banking products, including personal and business checking and savings accounts, loans, mortgages, and investment services. The bank places a strong emphasis on customer relationships and community involvement, supporting local events and initiatives that promote economic development. By leveraging modern banking technology, First Seacoast Bank strives to enhance customer experience through online and mobile banking solutions, making banking more accessible and convenient for its clients. The bank's mission is to foster financial well-being for its customers while contributing to the growth and vitality of the communities it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Rochester, New Hampshire, USA",
+    "founded": "1890",
+    "website": "https://www.firstseacoastbank.com",
+    "ceo": "Joseph E. T. McCarthy",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstSeacoast",
+        "linkedin": "https://www.linkedin.com/company/first-seacoast-bank/",
+        "facebook": "https://www.facebook.com/FirstSeacoastBank"
+    },
+    "investor_relations": "https://www.firstseacoastbank.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Joseph E. T. McCarthy",
+            "position": "CEO"
+        },
+        {
+            "name": "John D. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking",
+                "Commercial Loans",
+                "Merchant Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Seacoast Bank | Community Banking in New Hampshire",
+        "meta_description": "Explore First Seacoast Bank, a community bank dedicated to providing personalized banking services to individuals and businesses in New Hampshire. Learn about our products and commitment to the community.",
+        "keywords": [
+            "First Seacoast Bank",
+            "Community Banking",
+            "Personal Banking",
+            "Business Banking",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Seacoast Bank offer?",
+            "answer": "First Seacoast Bank offers personal and business banking services, including checking and savings accounts, loans, and mortgages."
+        },
+        {
+            "question": "Where is First Seacoast Bank located?",
+            "answer": "First Seacoast Bank is headquartered in Rochester, New Hampshire, USA."
+        },
+        {
+            "question": "Who is the CEO of First Seacoast Bank?",
+            "answer": "Joseph E. T. McCarthy is the CEO of First Seacoast Bank."
+        },
+        {
+            "question": "When was First Seacoast Bank founded?",
+            "answer": "First Seacoast Bank was founded in 1890."
+        }
+    ],
+    "competitors": [
+        "TD",
+        "KEY",
+        "CFG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "JPM",
+        "BAC"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "RJF.PRB",
+    "name": "Raymond James Financial, Inc.",
+    "description": "Raymond James Financial, Inc. is a diversified financial services company that provides a wide range of investment and financial planning solutions. Founded in 1962 and headquartered in St. Petersburg, Florida, the firm operates through several segments, including Capital Markets, Private Client Group, and Asset Management. Raymond James is renowned for its commitment to delivering personalized service and comprehensive financial strategies tailored to the unique needs of its clients. The company's wealth management services include investment advice, portfolio management, and retirement planning, catering to individual investors as well as institutions. Additionally, Raymond James Capital Markets offers investment banking, institutional sales and trading, and research services to public and private companies. With a strong focus on client relationships and ethical business practices, Raymond James has built a reputation as a trusted partner in the financial industry. The firm has expanded its reach through strategic acquisitions and a robust network of financial advisors, making it one of the largest independent broker-dealers in the United States. Committed to community involvement and philanthropy, Raymond James actively supports various charitable initiatives and organizations. As the financial landscape continues to evolve, Raymond James remains dedicated to innovation, ensuring that it meets the changing needs of its clients while upholding its core values.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Wealth Management"
+    ],
+    "headquarters": "St. Petersburg, Florida, USA",
+    "founded": "1962",
+    "website": "https://www.raymondjames.com",
+    "ceo": "Paul Reilly",
+    "social_media": {
+        "twitter": "https://twitter.com/raymondjames",
+        "linkedin": "https://www.linkedin.com/company/raymond-james-financial/"
+    },
+    "investor_relations": "https://www.raymondjames.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Paul Reilly",
+            "position": "CEO"
+        },
+        {
+            "name": "Jeffrey D. Julien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advisory Services",
+                "Financial Planning",
+                "Retirement Solutions"
+            ]
+        },
+        {
+            "category": "Capital Markets",
+            "products": [
+                "Investment Banking",
+                "Institutional Sales",
+                "Research Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Raymond James Financial, Inc. | Investment and Financial Services",
+        "meta_description": "Explore Raymond James Financial, Inc., a leading provider of investment and financial services committed to personalized client service and ethical practices.",
+        "keywords": [
+            "Raymond James",
+            "Financial Services",
+            "Investment Banking",
+            "Wealth Management",
+            "Financial Planning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Raymond James offer?",
+            "answer": "Raymond James offers a wide range of services including wealth management, investment banking, and financial planning."
+        },
+        {
+            "question": "Who is the CEO of Raymond James?",
+            "answer": "Paul Reilly is the CEO of Raymond James Financial, Inc."
+        },
+        {
+            "question": "Where is Raymond James headquartered?",
+            "answer": "Raymond James is headquartered in St. Petersburg, Florida, USA."
+        },
+        {
+            "question": "When was Raymond James founded?",
+            "answer": "Raymond James was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "MS",
+        "JPM",
+        "GS",
+        "WFC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

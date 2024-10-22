@@ -1,0 +1,96 @@
+{
+    "ticker": "GLOB",
+    "name": "Globant S.A.",
+    "description": "Globant S.A. is a technology services company that specializes in software development, IT services, and consulting. Founded in 2003 in Buenos Aires, Argentina, by Martin Migoya, Guibert Englebienne, and others, Globant is known for its innovative approach to technology and design. The company is a leader in the field of IT services and has built a reputation for delivering high-quality software solutions that leverage the latest technologies, including artificial intelligence, cloud computing, and agile methodologies. Globant serves a diverse client base, including Fortune 500 companies, across various industries such as finance, healthcare, media, and technology. By combining its deep domain expertise with cutting-edge technology, Globant helps organizations transform their businesses and enhance customer experiences. The company's mission is to empower organizations to become more agile and competitive through the use of technology. In addition to its core services, Globant is also recognized for its commitment to sustainability and social responsibility, actively engaging in initiatives that promote diversity and inclusion within the tech industry.",
+    "industry": [
+        "Information Technology",
+        "Consulting"
+    ],
+    "headquarters": "Buenos Aires, Argentina",
+    "founded": "2003",
+    "website": "https://www.globant.com",
+    "ceo": "Martin Migoya",
+    "social_media": {
+        "twitter": "https://twitter.com/globant",
+        "linkedin": "https://www.linkedin.com/company/globant",
+        "facebook": "https://www.facebook.com/globant"
+    },
+    "investor_relations": "https://investors.globant.com",
+    "key_executives": [
+        {
+            "name": "Martin Migoya",
+            "position": "CEO"
+        },
+        {
+            "name": "Guibert Englebienne",
+            "position": "Co-Founder and Executive Vice President"
+        },
+        {
+            "name": "Gonzalo M. A. Rojas",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software Development",
+            "products": [
+                "Custom Software Development",
+                "Mobile Application Development"
+            ]
+        },
+        {
+            "category": "IT Services",
+            "products": [
+                "Cloud Services",
+                "AI Solutions",
+                "DevOps"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Globant S.A. | Technology Services and Software Development",
+        "meta_description": "Explore Globant S.A., a leader in technology services and software development. Learn about Globant's innovative solutions and its commitment to transforming businesses.",
+        "keywords": [
+            "Globant",
+            "Technology Services",
+            "Software Development",
+            "IT Consulting",
+            "Artificial Intelligence",
+            "Cloud Computing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Globant known for?",
+            "answer": "Globant is known for its software development, IT services, and consulting solutions."
+        },
+        {
+            "question": "Who is the CEO of Globant?",
+            "answer": "Martin Migoya is the CEO of Globant S.A."
+        },
+        {
+            "question": "Where is Globant headquartered?",
+            "answer": "Globant is headquartered in Buenos Aires, Argentina."
+        },
+        {
+            "question": "What are Globant's main services?",
+            "answer": "Globant's main services include custom software development, cloud services, and AI solutions."
+        },
+        {
+            "question": "When was Globant founded?",
+            "answer": "Globant was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "ACN",
+        "CACI",
+        "EPAM",
+        "INFY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

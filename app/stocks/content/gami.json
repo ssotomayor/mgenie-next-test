@@ -1,0 +1,89 @@
+{
+    "ticker": "GAMI",
+    "name": "GameStop Corp.",
+    "description": "GameStop Corp. is a leading retail company that specializes in video games, consumer electronics, and gaming merchandise. Founded in 1984, GameStop has evolved from a traditional brick-and-mortar store to become a pivotal player in the gaming industry. The company operates thousands of stores across the United States and internationally, providing gamers with a wide array of products, including the latest video game consoles, accessories, and a vast selection of new and pre-owned games. In recent years, GameStop has also embraced e-commerce, expanding its online presence to cater to a growing digital audience. The company made headlines in early 2021 due to a significant surge in stock price driven by retail investor interest, sparking discussions about market dynamics and the influence of social media on trading. GameStop's mission is to empower gamers by enhancing their gaming experience through innovative products, exceptional customer service, and a passionate community. With an ongoing focus on adapting to the changing landscape of gaming, GameStop continues to explore opportunities in digital content and subscription services, positioning itself for future growth in a rapidly evolving market.",
+    "industry": [
+        "Retail",
+        "Video Games"
+    ],
+    "headquarters": "Grapevine, Texas, USA",
+    "founded": "1984",
+    "website": "https://www.gamestop.com",
+    "ceo": "Matt Furlong",
+    "social_media": {
+        "twitter": "https://twitter.com/GameStop",
+        "linkedin": "https://www.linkedin.com/company/gamestop/"
+    },
+    "investor_relations": "https://investor.gamestop.com",
+    "key_executives": [
+        {
+            "name": "Matt Furlong",
+            "position": "CEO"
+        },
+        {
+            "name": "Jim Bell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Video Games",
+            "products": [
+                "PlayStation",
+                "Xbox",
+                "Nintendo Switch"
+            ]
+        },
+        {
+            "category": "Gaming Accessories",
+            "products": [
+                "Controllers",
+                "Headsets"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GameStop Corp. | Your Gaming Destination",
+        "meta_description": "Explore GameStop Corp., a leading retailer in video games and gaming accessories. Discover the latest consoles, games, and merchandise for gamers of all ages.",
+        "keywords": [
+            "GameStop",
+            "Video Games",
+            "Gaming Accessories",
+            "Game Consoles",
+            "GameStop Stock"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does GameStop sell?",
+            "answer": "GameStop sells video games, consoles, and gaming accessories, both new and pre-owned."
+        },
+        {
+            "question": "Who is the CEO of GameStop?",
+            "answer": "Matt Furlong is the CEO of GameStop Corp."
+        },
+        {
+            "question": "Where is GameStop headquartered?",
+            "answer": "GameStop is headquartered in Grapevine, Texas, USA."
+        },
+        {
+            "question": "What are GameStop's main products?",
+            "answer": "GameStop's main products include video game consoles, new and used video games, and gaming accessories."
+        },
+        {
+            "question": "When was GameStop founded?",
+            "answer": "GameStop was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "BBY",
+        "AMZN",
+        "WMT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "SONY"
+    ]
+}

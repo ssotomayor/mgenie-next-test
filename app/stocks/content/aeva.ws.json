@@ -1,0 +1,87 @@
+{
+    "ticker": "AEVA.WS",
+    "name": "Aeva, Inc.",
+    "description": "Aeva, Inc. is a technology company that specializes in developing innovative sensing and perception systems for autonomous vehicles and various industrial applications. Founded in 2017 by Mina Rezk and Soroush Salehian, Aeva focuses on delivering advanced LiDAR technology that integrates both 3D imaging and motion sensing capabilities. This groundbreaking approach enhances the ability of vehicles to perceive their environment in real-time, enabling safer navigation and improved decision-making for autonomous systems. Aeva\u2019s unique technology employs a frequency-modulated continuous wave (FMCW) LiDAR that captures detailed depth information while also measuring the speed of detected objects, providing a significant advantage over traditional LiDAR systems. The company aims to revolutionize the automotive industry by making autonomous driving safer and more reliable. Beyond automotive applications, Aeva\u2019s technology is also applicable in robotics, logistics, and smart infrastructure, emphasizing its versatility and potential impact across various sectors. With a commitment to innovation and quality, Aeva is poised to lead the charge in the next generation of sensing technologies, contributing to the development of smarter and safer environments.",
+    "industry": [
+        "Technology",
+        "Automotive"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "2017",
+    "website": "https://www.aeva.com",
+    "ceo": "Mina Rezk",
+    "social_media": {
+        "twitter": "https://twitter.com/AevaInc",
+        "linkedin": "https://www.linkedin.com/company/aeva-inc/"
+    },
+    "investor_relations": "https://ir.aeva.com",
+    "key_executives": [
+        {
+            "name": "Mina Rezk",
+            "position": "CEO"
+        },
+        {
+            "name": "Soroush Salehian",
+            "position": "Co-founder & CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "LiDAR Technology",
+            "products": [
+                "FMCW LiDAR"
+            ]
+        },
+        {
+            "category": "Perception Systems",
+            "products": [
+                "3D Imaging Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aeva, Inc. | Advanced LiDAR and Sensing Technologies",
+        "meta_description": "Explore Aeva, Inc., a leader in LiDAR technology and perception systems for autonomous vehicles. Discover how Aeva is revolutionizing safety and efficiency in transportation.",
+        "keywords": [
+            "Aeva",
+            "LiDAR",
+            "Autonomous Vehicles",
+            "Sensing Technology",
+            "3D Imaging",
+            "Mina Rezk"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Aeva known for?",
+            "answer": "Aeva is known for its innovative LiDAR technology and advanced sensing systems for autonomous vehicles."
+        },
+        {
+            "question": "Who is the CEO of Aeva?",
+            "answer": "Mina Rezk is the CEO of Aeva, Inc."
+        },
+        {
+            "question": "Where is Aeva headquartered?",
+            "answer": "Aeva is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What are Aeva's main products?",
+            "answer": "Aeva's main products include FMCW LiDAR and 3D imaging solutions."
+        },
+        {
+            "question": "When was Aeva founded?",
+            "answer": "Aeva was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "LIDR",
+        "NVDA",
+        "TSLA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

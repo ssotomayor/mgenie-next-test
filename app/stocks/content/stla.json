@@ -1,0 +1,97 @@
+{
+    "ticker": "STLA",
+    "name": "Stellantis N.V.",
+    "description": "Stellantis N.V. is a global automotive manufacturing corporation formed from the merger of Fiat Chrysler Automobiles and the PSA Group in January 2021. Headquartered in Amsterdam, Netherlands, Stellantis has a rich heritage and a diverse portfolio of iconic brands including Jeep, Dodge, Chrysler, Fiat, Peugeot, Citro\u00ebn, and Opel. The company is committed to delivering innovative mobility solutions and sustainable transportation options, focusing on electrification and advanced technologies. Stellantis aims to reduce its carbon footprint and has set ambitious targets to electrify its vehicle lineup, investing heavily in electric and hybrid vehicles. With a strong presence in over 130 markets, Stellantis leverages its global scale to drive efficiencies and expand its customer offerings. The company is also actively involved in autonomous driving technologies and connectivity, aiming to enhance the driving experience and meet the evolving needs of consumers. Stellantis prioritizes customer satisfaction while striving to maintain profitable growth through strategic partnerships and investments in future mobility.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Amsterdam, Netherlands",
+    "founded": "2021",
+    "website": "https://www.stellantis.com",
+    "ceo": "Carlos Tavares",
+    "social_media": {
+        "twitter": "https://twitter.com/Stellantis",
+        "linkedin": "https://www.linkedin.com/company/stellantis/"
+    },
+    "investor_relations": "https://www.stellantis.com/investors",
+    "key_executives": [
+        {
+            "name": "Carlos Tavares",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard Palmer",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/richard-palmer-9b6a0b1b/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Vehicles",
+            "products": [
+                "Jeep Wrangler",
+                "Dodge Charger",
+                "Chrysler Pacifica",
+                "Peugeot 3008",
+                "Citro\u00ebn C5 Aircross"
+            ]
+        },
+        {
+            "category": "Commercial Vehicles",
+            "products": [
+                "Ram ProMaster",
+                "Fiat Ducato"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Stellantis N.V. | Global Automotive Leader",
+        "meta_description": "Explore Stellantis N.V., a global automotive leader formed from the merger of FCA and PSA, offering a diverse range of vehicles and committing to sustainable mobility.",
+        "keywords": [
+            "Stellantis",
+            "Automotive",
+            "Electric Vehicles",
+            "Sustainable Transportation",
+            "Fiat",
+            "Chrysler",
+            "Peugeot",
+            "Jeep"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Stellantis known for?",
+            "answer": "Stellantis is known for its wide range of automotive brands and commitment to electrification and sustainable mobility."
+        },
+        {
+            "question": "Who is the CEO of Stellantis?",
+            "answer": "Carlos Tavares is the CEO of Stellantis N.V."
+        },
+        {
+            "question": "Where is Stellantis headquartered?",
+            "answer": "Stellantis is headquartered in Amsterdam, Netherlands."
+        },
+        {
+            "question": "What are Stellantis's main products?",
+            "answer": "Stellantis's main products include passenger vehicles like Jeep Wrangler, Dodge Charger, and commercial vehicles like Ram ProMaster."
+        },
+        {
+            "question": "When was Stellantis founded?",
+            "answer": "Stellantis was founded in 2021."
+        }
+    ],
+    "competitors": [
+        "FCA",
+        "GM",
+        "FORD",
+        "TM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "GAB",
+    "name": "Gabelli Asset Management Inc.",
+    "description": "Gabelli Asset Management Inc. is a leading investment management company that specializes in providing investment advisory services and managing investment funds. Founded in 1977 by Mario Gabelli, the firm is known for its value-oriented investment philosophy and focus on fundamental analysis. Gabelli Asset Management offers a range of investment products, including mutual funds, closed-end funds, and separate accounts, catering to both individual and institutional investors. The company's investment strategies emphasize long-term growth, capital preservation, and the identification of undervalued securities across various sectors, including media, telecommunications, consumer goods, and technology. With a commitment to delivering superior investment performance, Gabelli Asset Management leverages its experienced team of analysts and portfolio managers to uncover unique investment opportunities. The firm is also recognized for its insightful research and financial analysis, which aids investors in making informed decisions. As an industry leader, Gabelli Asset Management strives to create value for its clients by adhering to its core principles of integrity, transparency, and excellence in investment management.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "Rye, New York, USA",
+    "founded": "1977",
+    "website": "https://www.gabelli.com",
+    "ceo": "Mario Gabelli",
+    "social_media": {
+        "twitter": "https://twitter.com/gabelliinv",
+        "linkedin": "https://www.linkedin.com/company/gabelli-asset-management/"
+    },
+    "investor_relations": "https://www.gabelli.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Mario Gabelli",
+            "position": "CEO"
+        },
+        {
+            "name": "Bruce N. Alpert",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mutual Funds",
+            "products": [
+                "Gabelli Equity Trust",
+                "Gabelli Global Utility & Income Trust"
+            ]
+        },
+        {
+            "category": "Closed-End Funds",
+            "products": [
+                "Gabelli Dividend & Income Trust"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Gabelli Asset Management Inc. | Investment Management Services",
+        "meta_description": "Explore Gabelli Asset Management Inc., a leader in investment management. Discover their investment philosophy, funds, and commitment to value creation.",
+        "keywords": [
+            "Gabelli",
+            "Investment Management",
+            "Value Investing",
+            "Mutual Funds",
+            "Closed-End Funds",
+            "Mario Gabelli"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Gabelli Asset Management provide?",
+            "answer": "Gabelli Asset Management provides investment advisory services and manages mutual funds and closed-end funds."
+        },
+        {
+            "question": "Who is the founder of Gabelli Asset Management?",
+            "answer": "Mario Gabelli founded Gabelli Asset Management in 1977."
+        },
+        {
+            "question": "Where is Gabelli Asset Management headquartered?",
+            "answer": "Gabelli Asset Management is headquartered in Rye, New York, USA."
+        },
+        {
+            "question": "What types of investment products does Gabelli offer?",
+            "answer": "Gabelli offers mutual funds, closed-end funds, and separate accounts."
+        },
+        {
+            "question": "What is Gabelli's investment philosophy?",
+            "answer": "Gabelli follows a value-oriented investment philosophy focusing on fundamental analysis and long-term growth."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "TROW",
+        "VTI",
+        "IVZ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+    ]
+}

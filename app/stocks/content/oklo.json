@@ -1,0 +1,80 @@
+{
+    "ticker": "OKLO",
+    "name": "Oklo Inc.",
+    "description": "Oklo Inc. is an innovative company at the forefront of the small modular reactor (SMR) technology space, dedicated to revolutionizing the way nuclear energy is produced and utilized. Founded in 2013, Oklo is committed to providing clean, reliable, and cost-effective energy solutions that can significantly reduce carbon emissions. The company's flagship product is the Aurora, a compact nuclear reactor designed to generate power with minimal environmental impact. This advanced reactor technology not only enhances safety but also allows for greater operational flexibility and efficiency. Oklo's mission centers around making nuclear energy more accessible and sustainable, addressing the growing global demand for clean energy sources. By leveraging cutting-edge engineering and a commitment to innovation, Oklo aims to play a crucial role in the transition to a low-carbon energy future. The company collaborates with various stakeholders, including government agencies and private partners, to facilitate the development and deployment of its technology across diverse energy markets. As part of its vision, Oklo is also focused on educating the public about the benefits of nuclear energy, thereby fostering a more informed dialogue about its role in combating climate change.",
+    "industry": [
+        "Energy",
+        "Nuclear Technology"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "2013",
+    "website": "https://www.oklo.com",
+    "ceo": "Jacob DeWitte",
+    "social_media": {
+        "twitter": "https://twitter.com/OkloInc",
+        "linkedin": "https://www.linkedin.com/company/oklo-inc/"
+    },
+    "investor_relations": "https://www.oklo.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jacob DeWitte",
+            "position": "CEO"
+        },
+        {
+            "name": "Kimberly D. Hurst",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Nuclear Reactors",
+            "products": [
+                "Aurora"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Oklo Inc. | Pioneering Small Modular Reactor Technology",
+        "meta_description": "Discover Oklo Inc., a leader in small modular reactor technology committed to providing clean and reliable nuclear energy solutions. Learn about our innovative Aurora reactor.",
+        "keywords": [
+            "Oklo",
+            "Small Modular Reactors",
+            "Nuclear Energy",
+            "Clean Energy",
+            "Aurora Reactor"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Oklo known for?",
+            "answer": "Oklo is known for its development of small modular reactor technology, specifically the Aurora reactor."
+        },
+        {
+            "question": "Who is the CEO of Oklo?",
+            "answer": "Jacob DeWitte is the CEO of Oklo Inc."
+        },
+        {
+            "question": "Where is Oklo headquartered?",
+            "answer": "Oklo is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What is the main product of Oklo?",
+            "answer": "The main product of Oklo is the Aurora, a compact nuclear reactor designed for clean energy production."
+        },
+        {
+            "question": "When was Oklo founded?",
+            "answer": "Oklo was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "NEE",
+        "BE",
+        "EXC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

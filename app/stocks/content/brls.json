@@ -1,0 +1,96 @@
+{
+    "ticker": "BRLS",
+    "name": "Bristol Myers Squibb Company",
+    "description": "Bristol Myers Squibb Company is a global biopharmaceutical company dedicated to discovering, developing, and delivering innovative medicines that help patients prevail over serious diseases. With a rich history dating back to 1887, the company is headquartered in New York City and is recognized for its commitment to scientific research and innovation in the fields of oncology, immunology, cardiovascular disease, and fibrosis. Bristol Myers Squibb's portfolio includes a variety of well-known therapies, such as Opdivo, a groundbreaking cancer immunotherapy, and Eliquis, an anticoagulant used to reduce the risk of stroke and blood clots. The company places a strong emphasis on patient-centricity, ensuring that its drug development processes are guided by the needs of patients and health care providers. Bristol Myers Squibb is also engaged in a number of collaborations and partnerships with academic institutions, biotech firms, and other pharmaceutical companies to advance its research initiatives. The company's mission is to provide the best possible outcomes for patients through the development of novel treatment options, while also maintaining high ethical standards in its operations.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1887",
+    "website": "https://www.bms.com",
+    "ceo": "Giovanni Caforio",
+    "social_media": {
+        "twitter": "https://twitter.com/bmsnews",
+        "linkedin": "https://www.linkedin.com/company/bristol-myers-squibb/"
+    },
+    "investor_relations": "https://investors.bms.com",
+    "key_executives": [
+        {
+            "name": "Giovanni Caforio",
+            "position": "CEO"
+        },
+        {
+            "name": "David Elkins",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "Opdivo",
+                "Yervoy"
+            ]
+        },
+        {
+            "category": "Cardiovascular",
+            "products": [
+                "Eliquis",
+                "Pradaxa"
+            ]
+        },
+        {
+            "category": "Immunology",
+            "products": [
+                "Orencia",
+                "Abilify"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bristol Myers Squibb | Innovative Medicines for Serious Diseases",
+        "meta_description": "Explore Bristol Myers Squibb, a global biopharmaceutical leader committed to innovative medicines. Learn about our research and therapies for oncology, immunology, and more.",
+        "keywords": [
+            "Bristol Myers Squibb",
+            "Pharmaceuticals",
+            "Biotechnology",
+            "Cancer Treatment",
+            "Innovative Medicines"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Bristol Myers Squibb known for?",
+            "answer": "Bristol Myers Squibb is known for its innovative medicines in oncology, immunology, cardiovascular disease, and fibrosis."
+        },
+        {
+            "question": "Who is the CEO of Bristol Myers Squibb?",
+            "answer": "Giovanni Caforio is the CEO of Bristol Myers Squibb Company."
+        },
+        {
+            "question": "Where is Bristol Myers Squibb headquartered?",
+            "answer": "Bristol Myers Squibb is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are some of Bristol Myers Squibb's main products?",
+            "answer": "Some of Bristol Myers Squibb's main products include Opdivo, Eliquis, Yervoy, and Orencia."
+        },
+        {
+            "question": "When was Bristol Myers Squibb founded?",
+            "answer": "Bristol Myers Squibb was founded in 1887."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "MRK",
+        "AMGN"
+    ],
+    "related_stocks": [
+        "ABBV",
+        "GILD",
+        "VRTX",
+        "BMY"
+    ]
+}

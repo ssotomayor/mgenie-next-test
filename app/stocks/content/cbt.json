@@ -1,0 +1,94 @@
+{
+    "ticker": "CBT",
+    "name": "Cabot Corporation",
+    "description": "Cabot Corporation is a global specialty chemicals and performance materials company, recognized for its innovative solutions in various industries. Founded in 1882, Cabot has a rich history of developing high-performance products that enhance the quality of life and contribute to sustainable development. The company operates through multiple segments, including Reinforcement Materials, Performance Chemicals, and Specialty Fluids. Its Reinforcement Materials segment produces carbon black, which is essential for tire and rubber products, improving durability and performance. Cabot's Performance Chemicals segment offers a wide range of products, including fumed silica, which is used in applications such as coatings, sealants, and adhesives, enhancing their properties. The Specialty Fluids segment provides engineered fluids for various applications, including oil and gas drilling, industrial lubricants, and specialty applications. With a commitment to sustainability, Cabot Corporation focuses on reducing its environmental footprint and creating value through innovative technologies. The company invests in research and development to drive advancements in materials science and offers products that meet the evolving needs of its customers.",
+    "industry": [
+        "Chemicals",
+        "Materials"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "1882",
+    "website": "https://www.cabotcorp.com",
+    "ceo": "Sean Keohane",
+    "social_media": {
+        "twitter": "https://twitter.com/CabotCorp",
+        "linkedin": "https://www.linkedin.com/company/cabot-corporation"
+    },
+    "investor_relations": "https://www.cabotcorp.com/investors",
+    "key_executives": [
+        {
+            "name": "Sean Keohane",
+            "position": "CEO"
+        },
+        {
+            "name": "William P. McCaffrey",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Reinforcement Materials",
+            "products": [
+                "Carbon Black"
+            ]
+        },
+        {
+            "category": "Performance Chemicals",
+            "products": [
+                "Fumed Silica",
+                "Conductive Carbon Black"
+            ]
+        },
+        {
+            "category": "Specialty Fluids",
+            "products": [
+                "Engineered Fluids"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cabot Corporation | Specialty Chemicals and Performance Materials",
+        "meta_description": "Explore Cabot Corporation, a leader in specialty chemicals and performance materials, providing innovative solutions for diverse industries.",
+        "keywords": [
+            "Cabot Corporation",
+            "Specialty Chemicals",
+            "Carbon Black",
+            "Performance Materials",
+            "Fumed Silica",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Cabot Corporation do?",
+            "answer": "Cabot Corporation specializes in specialty chemicals and performance materials, providing innovative solutions across various industries."
+        },
+        {
+            "question": "Who is the CEO of Cabot Corporation?",
+            "answer": "Sean Keohane is the CEO of Cabot Corporation."
+        },
+        {
+            "question": "Where is Cabot Corporation headquartered?",
+            "answer": "Cabot Corporation is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "What are Cabot's main products?",
+            "answer": "Cabot's main products include carbon black, fumed silica, and engineered fluids."
+        },
+        {
+            "question": "When was Cabot Corporation founded?",
+            "answer": "Cabot Corporation was founded in 1882."
+        }
+    ],
+    "competitors": [
+        "HUN",
+        "EMN",
+        "LYB"
+    ],
+    "related_stocks": [
+        "DD",
+        "DOW",
+        "APD",
+        "IFF"
+    ]
+}

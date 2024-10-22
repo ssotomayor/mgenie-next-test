@@ -1,0 +1,89 @@
+{
+    "ticker": "NTTYY",
+    "name": "NTT Group",
+    "description": "NTT Group is a leading global telecommunications company based in Japan, renowned for its innovation and comprehensive range of services. Founded in 1952, the company has evolved from a national telephone service provider into a diversified technology and communications giant. NTT Group operates through several subsidiaries, including NTT Communications, NTT Data, and NTT Docomo, providing a wide array of services such as fixed and mobile communications, data centers, cloud services, and cybersecurity solutions. With a strong focus on research and development, NTT Group aims to drive digital transformation and contribute to societal advancements through technology. The company is dedicated to sustainability and has committed to achieving net zero emissions by 2040, as part of its broader mission to create a more connected and sustainable world. NTT Group's global presence spans over 80 countries, making it a key player in the international telecommunications landscape. Its innovative solutions are designed to meet the evolving needs of businesses and consumers, empowering them to navigate the complexities of the digital age. As the company continues to expand its capabilities in areas like 5G, IoT, and AI, it remains committed to enhancing the quality of life for people and communities around the globe.",
+    "industry": [
+        "Telecommunications",
+        "Information Technology"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1952",
+    "website": "https://www.ntt.com",
+    "ceo": "Akira Shimada",
+    "social_media": {
+        "twitter": "https://twitter.com/NTT_GROUP",
+        "linkedin": "https://www.linkedin.com/company/nttgroup/"
+    },
+    "investor_relations": "https://www.ntt.co.jp/en/ir/index.html",
+    "key_executives": [
+        {
+            "name": "Akira Shimada",
+            "position": "CEO"
+        },
+        {
+            "name": "Jun Sawada",
+            "position": "Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications Services",
+            "products": [
+                "Fixed Line Services",
+                "Mobile Services",
+                "Data Center Services"
+            ]
+        },
+        {
+            "category": "IT Services",
+            "products": [
+                "Cloud Services",
+                "Cybersecurity Solutions",
+                "IoT Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NTT Group | Leading Telecommunications and IT Services",
+        "meta_description": "Explore NTT Group, a global leader in telecommunications and IT services, dedicated to innovation and sustainability. Discover our solutions for digital transformation.",
+        "keywords": [
+            "NTT Group",
+            "Telecommunications",
+            "IT Services",
+            "Cloud Computing",
+            "5G",
+            "IoT",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does NTT Group provide?",
+            "answer": "NTT Group provides telecommunications services, IT services, cloud solutions, and cybersecurity solutions."
+        },
+        {
+            "question": "Who is the CEO of NTT Group?",
+            "answer": "Akira Shimada is the CEO of NTT Group."
+        },
+        {
+            "question": "Where is NTT Group headquartered?",
+            "answer": "NTT Group is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "When was NTT Group founded?",
+            "answer": "NTT Group was founded in 1952."
+        }
+    ],
+    "competitors": [
+        "VZ",
+        "T",
+        "TMUS",
+        "NTTYY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

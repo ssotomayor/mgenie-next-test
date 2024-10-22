@@ -1,0 +1,90 @@
+{
+    "ticker": "MAXN",
+    "name": "Maxar Technologies Inc.",
+    "description": "Maxar Technologies Inc. is a leading provider of satellite imagery, geospatial data, and analytics, helping organizations around the globe manage and visualize their data efficiently. Founded in 1969 and headquartered in Westminster, Colorado, Maxar combines advanced satellite technology with machine learning and AI to supply high-resolution Earth imagery and data solutions for various industries, including defense, government, and commercial sectors. The company's extensive satellite constellation enables it to capture high-quality images that support applications in urban planning, agriculture, disaster response, and climate monitoring. Maxar's commitment to innovation is evident through its investment in next-generation satellite technology and its focus on delivering actionable insights to clients. The company operates with a vision to illuminate and empower its customers with the most reliable and precise geospatial intelligence, making informed decisions based on real-time data. Maxar also emphasizes sustainability and the importance of responsible data usage, ensuring that its operations align with environmental and societal goals.",
+    "industry": [
+        "Aerospace",
+        "Geospatial Technology"
+    ],
+    "headquarters": "Westminster, Colorado, USA",
+    "founded": "1969",
+    "website": "https://www.maxar.com",
+    "ceo": "Dan Jablonsky",
+    "social_media": {
+        "twitter": "https://twitter.com/Maxar",
+        "linkedin": "https://www.linkedin.com/company/maxar-technologies/"
+    },
+    "investor_relations": "https://investors.maxar.com",
+    "key_executives": [
+        {
+            "name": "Dan Jablonsky",
+            "position": "CEO"
+        },
+        {
+            "name": "Biggs Porter",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Imagery",
+            "products": [
+                "WorldView Satellites",
+                "GeoIQ Analytics"
+            ]
+        },
+        {
+            "category": "Geospatial Solutions",
+            "products": [
+                "Earth Intelligence",
+                "Satellite Operations"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Maxar Technologies Inc. | Satellite Imagery and Geospatial Solutions",
+        "meta_description": "Explore Maxar Technologies Inc., a leader in satellite imagery and geospatial data solutions, providing critical insights for defense, government, and commercial applications.",
+        "keywords": [
+            "Maxar",
+            "Satellite Imagery",
+            "Geospatial Data",
+            "Earth Observation",
+            "Remote Sensing",
+            "AI in Geospatial"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Maxar known for?",
+            "answer": "Maxar is known for its high-resolution satellite imagery and geospatial data analytics."
+        },
+        {
+            "question": "Who is the CEO of Maxar?",
+            "answer": "Dan Jablonsky is the CEO of Maxar Technologies Inc."
+        },
+        {
+            "question": "Where is Maxar headquartered?",
+            "answer": "Maxar is headquartered in Westminster, Colorado, USA."
+        },
+        {
+            "question": "What are Maxar's main products?",
+            "answer": "Maxar's main products include satellite imagery from WorldView satellites and geospatial analytics through GeoIQ."
+        },
+        {
+            "question": "When was Maxar founded?",
+            "answer": "Maxar was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "NOC",
+        "BA",
+        "SPCE"
+    ],
+    "related_stocks": [
+        "GD",
+        "RTX",
+        "HII",
+        "VSTO"
+    ]
+}

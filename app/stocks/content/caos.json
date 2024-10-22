@@ -1,0 +1,96 @@
+{
+    "ticker": "CAOS",
+    "name": "Chaos Corp.",
+    "description": "Chaos Corp. is an innovative technology company focused on developing advanced software solutions for the entertainment and gaming industries. Founded in 2010, Chaos aims to empower creators and developers with tools that enhance productivity and creativity. The company is best known for its flagship product, V-Ray, a powerful rendering engine that is widely used in architectural visualization, film production, and video game development. V-Ray enables artists to create photorealistic images and animations, making it a staple in professional studios worldwide. Chaos Corp. also offers a range of other products, including Phoenix, a simulation tool for fluid dynamics, and Chaos Cloud, which provides cloud-based rendering services to streamline workflows. With a mission to push the boundaries of what is possible in digital content creation, Chaos Corp. continues to innovate and expand its product offerings. The company invests heavily in research and development to stay at the forefront of technology, ensuring that its users have access to the latest advancements in rendering and simulation. With a strong global presence, Chaos Corp. serves a diverse clientele, from individual artists to large production studios, helping them bring their creative visions to life.",
+    "industry": [
+        "Software",
+        "Entertainment",
+        "Gaming"
+    ],
+    "headquarters": "Sofia, Bulgaria",
+    "founded": "2010",
+    "website": "https://www.chaos.com",
+    "ceo": "Peter Mitev",
+    "social_media": {
+        "twitter": "https://twitter.com/chaosgroup",
+        "linkedin": "https://www.linkedin.com/company/chaos-group/",
+        "instagram": "https://www.instagram.com/chaosgroup/",
+        "youtube": "https://www.youtube.com/user/ChaosGroupTV"
+    },
+    "investor_relations": "https://www.chaos.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Peter Mitev",
+            "position": "CEO"
+        },
+        {
+            "name": "Vlado Koylazov",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Rendering Software",
+            "products": [
+                "V-Ray",
+                "V-Ray for Unreal"
+            ]
+        },
+        {
+            "category": "Simulation Software",
+            "products": [
+                "Phoenix"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Chaos Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Chaos Corp. | Advanced Rendering and Simulation Solutions",
+        "meta_description": "Discover Chaos Corp., a leader in rendering and simulation technology for the entertainment and gaming industries. Explore innovative products that transform digital content creation.",
+        "keywords": [
+            "Chaos Corp",
+            "V-Ray",
+            "Rendering Software",
+            "Simulation Software",
+            "Digital Content Creation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is V-Ray?",
+            "answer": "V-Ray is a rendering engine developed by Chaos Corp. that provides photorealistic rendering capabilities for artists and designers."
+        },
+        {
+            "question": "Who is the CEO of Chaos Corp?",
+            "answer": "Peter Mitev is the CEO of Chaos Corp."
+        },
+        {
+            "question": "Where is Chaos Corp headquartered?",
+            "answer": "Chaos Corp. is headquartered in Sofia, Bulgaria."
+        },
+        {
+            "question": "What products does Chaos Corp offer?",
+            "answer": "Chaos Corp. offers products such as V-Ray, Phoenix, and Chaos Cloud."
+        },
+        {
+            "question": "When was Chaos Corp founded?",
+            "answer": "Chaos Corp. was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "MSFT",
+        "NVIDIA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

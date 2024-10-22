@@ -1,0 +1,92 @@
+{
+    "ticker": "HEINY",
+    "name": "Heineken N.V.",
+    "description": "Heineken N.V. is a leading global brewer based in Amsterdam, Netherlands. Established in 1864, Heineken has grown to become one of the largest beer producers in the world, known for its high-quality lagers and a diverse portfolio of over 300 beer brands, including the flagship Heineken\u00ae beer, Amstel, and Desperados. Heineken's commitment to sustainability and social responsibility is reflected in its efforts to reduce its environmental impact and promote responsible drinking. The company operates in more than 70 countries, with a strong presence in Europe, the Americas, Asia, and Africa. Heineken is not only focused on brewing but also on innovation in product development, including the expansion of non-alcoholic and low-alcohol beverages to cater to changing consumer preferences. The company's mission is to brew the happiest moments for everyone, everywhere, and to create a sustainable future for the communities it serves. With a rich heritage and a forward-looking approach, Heineken continues to adapt to the evolving global market while maintaining its commitment to quality and excellence.",
+    "industry": [
+        "Beverages",
+        "Alcoholic Beverages"
+    ],
+    "headquarters": "Amsterdam, Netherlands",
+    "founded": "1864",
+    "website": "https://www.theheinekencompany.com",
+    "ceo": "Dolf van den Brink",
+    "social_media": {
+        "twitter": "https://twitter.com/Heineken",
+        "linkedin": "https://www.linkedin.com/company/heineken/"
+    },
+    "investor_relations": "https://www.theheinekencompany.com/investors",
+    "key_executives": [
+        {
+            "name": "Dolf van den Brink",
+            "position": "CEO"
+        },
+        {
+            "name": "Laurent Dereux",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beer",
+            "products": [
+                "Heineken\u00ae",
+                "Amstel",
+                "Desperados",
+                "Sol"
+            ]
+        },
+        {
+            "category": "Non-Alcoholic Beverages",
+            "products": [
+                "Heineken 0.0",
+                "Amstel Radler"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Heineken N.V. | Leading Global Brewer",
+        "meta_description": "Explore Heineken N.V., a leading global brewer known for its quality beer brands and commitment to sustainability. Discover Heineken's diverse portfolio and innovative products.",
+        "keywords": [
+            "Heineken",
+            "Beer",
+            "Beverages",
+            "Sustainability",
+            "Alcoholic Beverages",
+            "Non-Alcoholic Beer"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Heineken known for?",
+            "answer": "Heineken is known for its high-quality beers and a diverse portfolio of over 300 brands."
+        },
+        {
+            "question": "Who is the CEO of Heineken?",
+            "answer": "Dolf van den Brink is the CEO of Heineken N.V."
+        },
+        {
+            "question": "Where is Heineken headquartered?",
+            "answer": "Heineken is headquartered in Amsterdam, Netherlands."
+        },
+        {
+            "question": "What are Heineken's main products?",
+            "answer": "Heineken's main products include Heineken\u00ae, Amstel, Desperados, and non-alcoholic options like Heineken 0.0."
+        },
+        {
+            "question": "When was Heineken founded?",
+            "answer": "Heineken was founded in 1864."
+        }
+    ],
+    "competitors": [
+        "BUD",
+        "SAM",
+        "STZ",
+        "DAN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "PG",
+        "KO",
+        "PEP"
+    ]
+}

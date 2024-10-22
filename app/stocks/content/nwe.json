@@ -1,0 +1,87 @@
+{
+    "ticker": "NWE",
+    "name": "NorthWestern Corporation",
+    "description": "NorthWestern Corporation, operating under the ticker symbol NWE, is a diversified utility company that provides electric and natural gas services to residential, commercial, and industrial customers in the United States. Founded in 1923, the company primarily serves customers in Montana, South Dakota, and Nebraska. NorthWestern is committed to delivering safe, reliable, and affordable energy while also focusing on sustainable practices and innovation in the energy sector. The company plays a vital role in its communities, investing in infrastructure and renewable energy initiatives. NorthWestern's electric generation fleet includes a mix of coal, natural gas, and renewable energy sources, including wind and hydroelectric power. The company is actively working to expand its renewable energy portfolio to meet the growing demand for clean energy solutions. In addition to its utility operations, NorthWestern Corporation is involved in community development and energy efficiency programs that support sustainable growth. The company's mission is to power the lives of its customers with integrity and respect while contributing positively to the environment and the economy.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Sioux Falls, South Dakota, USA",
+    "founded": "1923",
+    "website": "https://www.northwesternenergy.com",
+    "ceo": "Brian Bird",
+    "social_media": {
+        "twitter": "https://twitter.com/NWEnergy",
+        "linkedin": "https://www.linkedin.com/company/northwestern-energy/"
+    },
+    "investor_relations": "https://investors.northwesternenergy.com",
+    "key_executives": [
+        {
+            "name": "Brian Bird",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian K. Krueger",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Services",
+            "services": [
+                "Residential Electric",
+                "Commercial Electric",
+                "Industrial Electric"
+            ]
+        },
+        {
+            "category": "Natural Gas Services",
+            "services": [
+                "Residential Natural Gas",
+                "Commercial Natural Gas",
+                "Industrial Natural Gas"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NorthWestern Corporation | Diversified Utility Services",
+        "meta_description": "Explore NorthWestern Corporation, a leading utility provider of electric and natural gas services in the U.S. Discover their commitment to renewable energy and customer service.",
+        "keywords": [
+            "NorthWestern Corporation",
+            "Electric Utility",
+            "Natural Gas Utility",
+            "Renewable Energy",
+            "Utilities"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does NorthWestern Corporation provide?",
+            "answer": "NorthWestern Corporation provides electric and natural gas services to residential, commercial, and industrial customers."
+        },
+        {
+            "question": "Where is NorthWestern Corporation headquartered?",
+            "answer": "NorthWestern Corporation is headquartered in Sioux Falls, South Dakota, USA."
+        },
+        {
+            "question": "What is NorthWestern's commitment to renewable energy?",
+            "answer": "NorthWestern is actively expanding its renewable energy portfolio, including wind and hydroelectric power."
+        },
+        {
+            "question": "When was NorthWestern Corporation founded?",
+            "answer": "NorthWestern Corporation was founded in 1923."
+        }
+    ],
+    "competitors": [
+        "AES",
+        "ED",
+        "SRE",
+        "DUK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

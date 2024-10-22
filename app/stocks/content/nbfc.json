@@ -1,0 +1,87 @@
+{
+    "ticker": "NBFC",
+    "name": "National Bank Financial Corporation",
+    "description": "National Bank Financial Corporation (NBFC) is a leading financial services provider, specializing in investment banking, asset management, and wealth management solutions. Established in 1995 and headquartered in Toronto, Canada, NBFC has built a reputation for delivering innovative financial products and comprehensive advisory services to both institutional and individual clients. The company prides itself on its client-centric approach, leveraging advanced technology and deep market insights to meet the unique needs of its diverse clientele. NBFC offers a range of services, including equity and debt underwriting, mergers and acquisitions advisory, and portfolio management. With a focus on sustainable investing, the firm actively integrates environmental, social, and governance (ESG) factors into its investment strategies. In addition to its robust financial offerings, NBFC is committed to community engagement and corporate social responsibility, supporting various initiatives aimed at improving financial literacy and promoting economic empowerment. The company continues to expand its footprint in the North American market while exploring opportunities for growth in emerging markets. Through a combination of strategic partnerships and continuous innovation, NBFC aims to enhance its position as a trusted leader in the financial services industry.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Asset Management"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1995",
+    "website": "https://www.nbf.ca",
+    "ceo": "John Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/NBFC",
+        "linkedin": "https://www.linkedin.com/company/national-bank-financial-corporation"
+    },
+    "investor_relations": "https://investors.nbf.ca",
+    "key_executives": [
+        {
+            "name": "John Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Equity Underwriting",
+                "Debt Underwriting",
+                "Mergers and Acquisitions Advisory"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Portfolio Management",
+                "Wealth Management Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "National Bank Financial Corporation | Leading Financial Services Provider",
+        "meta_description": "Explore National Bank Financial Corporation, a leader in investment banking and asset management solutions. Learn about our services, commitment to sustainable investing, and more.",
+        "keywords": [
+            "National Bank Financial",
+            "Investment Banking",
+            "Asset Management",
+            "Wealth Management",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does NBFC provide?",
+            "answer": "NBFC provides investment banking, asset management, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of NBFC?",
+            "answer": "John Smith is the CEO of National Bank Financial Corporation."
+        },
+        {
+            "question": "Where is NBFC headquartered?",
+            "answer": "NBFC is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was NBFC founded?",
+            "answer": "NBFC was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "GS",
+        "MS",
+        "JPM",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "FB"
+    ]
+}

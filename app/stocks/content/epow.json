@@ -1,0 +1,82 @@
+{
+    "ticker": "EPOW",
+    "name": "Energous Corporation",
+    "description": "Energous Corporation is a leading developer of wireless charging technology for electronic devices, focused on the innovation of power-at-a-distance solutions. Founded in 2012 and headquartered in San Jose, California, Energous is at the forefront of revolutionizing how devices are charged wirelessly. The company\u2019s proprietary WattUp technology enables the transmission of power through the air, allowing devices to charge without the need for direct contact with a charging pad. This groundbreaking technology offers convenience and flexibility, catering to a wide range of applications including smartphones, wearables, and IoT devices. Energous has made significant strides in securing partnerships with industry leaders to integrate its technology into their products, positioning itself as a key player in the wireless power market. The company aims to enhance the user experience by eliminating the limitations of traditional charging methods, making it easier for consumers to keep their devices powered. With a commitment to innovation and sustainability, Energous is not only advancing charging technology but also addressing the growing need for efficient power solutions in an increasingly connected world.",
+    "industry": [
+        "Technology",
+        "Wireless Charging"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2012",
+    "website": "https://www.energous.com",
+    "ceo": "Cesar Johnston",
+    "social_media": {
+        "twitter": "https://twitter.com/energous",
+        "linkedin": "https://www.linkedin.com/company/energous-corporation",
+        "instagram": "https://www.instagram.com/energouscorp",
+        "youtube": "https://www.youtube.com/user/EnergousCorp"
+    },
+    "investor_relations": "https://investors.energous.com",
+    "key_executives": [
+        {
+            "name": "Cesar Johnston",
+            "position": "CEO"
+        },
+        {
+            "name": "Mikey C. Rachlinski",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wireless Charging Technology",
+            "products": [
+                "WattUp Mid Field",
+                "WattUp Near Field"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Energous Corporation | Wireless Charging Solutions",
+        "meta_description": "Explore Energous Corporation, a pioneer in wireless charging technology. Discover our innovative WattUp solutions and their applications in the connected world.",
+        "keywords": [
+            "Energous",
+            "Wireless Charging",
+            "WattUp",
+            "Power Solutions",
+            "IoT Charging"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Energous Corporation specialize in?",
+            "answer": "Energous Corporation specializes in wireless charging technology, particularly through its WattUp solutions."
+        },
+        {
+            "question": "Who is the CEO of Energous Corporation?",
+            "answer": "Cesar Johnston is the CEO of Energous Corporation."
+        },
+        {
+            "question": "Where is Energous headquartered?",
+            "answer": "Energous is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Energous' main products?",
+            "answer": "Energous' main products include WattUp Mid Field and WattUp Near Field wireless charging technologies."
+        },
+        {
+            "question": "When was Energous Corporation founded?",
+            "answer": "Energous Corporation was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "AAPL",
+        "AMZN",
+        "SPOT"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "GOOGL",
+        "MSFT"
+    ]
+}

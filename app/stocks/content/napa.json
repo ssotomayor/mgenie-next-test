@@ -1,0 +1,94 @@
+{
+    "ticker": "NAPA",
+    "name": "Napa Auto Parts",
+    "description": "Napa Auto Parts is a leading retailer and distributor of automotive replacement parts, accessories, and service items in North America. Established in 1925, NAPA has built a strong reputation for its commitment to quality and customer service, serving both professional mechanics and do-it-yourself enthusiasts. The company offers an extensive range of products, including engines, brakes, batteries, and lighting, as well as a variety of tools and equipment. With over 6,000 locations across the United States and Canada, NAPA provides convenient access to a vast inventory of automotive parts and supplies. The company is also known for its robust network of independent auto parts stores, which are supported by a strong distribution system. In addition to its retail operations, NAPA offers a suite of services including repair shop management solutions, training, and marketing support for automotive professionals. NAPA is dedicated to enhancing the customer experience through innovative solutions and a strong focus on performance and reliability. The company continues to expand its product offerings and enhance its technology services, ensuring that it remains at the forefront of the automotive aftermarket industry.",
+    "industry": [
+        "Automotive Parts",
+        "Retail"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1925",
+    "website": "https://www.napaonline.com",
+    "ceo": "Paul Donahue",
+    "social_media": {
+        "twitter": "https://twitter.com/NAPAonline",
+        "facebook": "https://www.facebook.com/NAPAAutoParts",
+        "instagram": "https://www.instagram.com/napaautoparts/"
+    },
+    "investor_relations": "https://www.napaonline.com/en/investor-relations",
+    "key_executives": [
+        {
+            "name": "Paul Donahue",
+            "position": "CEO"
+        },
+        {
+            "name": "Jim McCarthy",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automotive Parts",
+            "products": [
+                "Batteries",
+                "Brakes",
+                "Engine Components",
+                "Lighting"
+            ]
+        },
+        {
+            "category": "Tools and Equipment",
+            "products": [
+                "Hand Tools",
+                "Power Tools",
+                "Diagnostic Equipment"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Napa Auto Parts | Quality Automotive Replacement Parts",
+        "meta_description": "Explore Napa Auto Parts, a leader in automotive replacement parts and accessories. Discover our extensive product range and exceptional customer service.",
+        "keywords": [
+            "Napa Auto Parts",
+            "Automotive Parts",
+            "Car Accessories",
+            "Auto Repair",
+            "Batteries",
+            "Brakes"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does NAPA stand for?",
+            "answer": "NAPA stands for the National Automotive Parts Association."
+        },
+        {
+            "question": "Where is NAPA headquartered?",
+            "answer": "NAPA is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What types of products does NAPA offer?",
+            "answer": "NAPA offers a wide range of automotive parts, tools, and accessories."
+        },
+        {
+            "question": "When was NAPA founded?",
+            "answer": "NAPA was founded in 1925."
+        },
+        {
+            "question": "How many NAPA locations are there?",
+            "answer": "NAPA has over 6,000 locations across the United States and Canada."
+        }
+    ],
+    "competitors": [
+        "AAP",
+        "ORLY",
+        "AZO",
+        "GPC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "TSLA"
+    ]
+}

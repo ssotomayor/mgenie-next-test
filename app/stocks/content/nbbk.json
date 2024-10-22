@@ -1,0 +1,88 @@
+{
+    "ticker": "NBBK",
+    "name": "Northeast Bank",
+    "description": "Northeast Bank is a leading community bank based in Maine, dedicated to providing personalized banking services and tailored financial solutions to individuals and businesses. Established in 1872, Northeast Bank has a rich history of serving the local community and has evolved over the years to meet the changing needs of its customers. The bank offers a wide range of services including personal banking, business banking, mortgage lending, and investment services. With a strong commitment to customer service and community involvement, Northeast Bank aims to enhance the financial well-being of its clients while contributing to the economic growth of the region. The bank prides itself on its innovative approach to banking, utilizing technology to improve customer experience and streamline operations. As part of its mission, Northeast Bank focuses on building long-term relationships with its customers, offering expert financial guidance and support to help them achieve their financial goals. With multiple branch locations across Maine and a focus on local engagement, Northeast Bank stands as a pillar of strength and reliability in the community banking sector.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Auburn, Maine, USA",
+    "founded": "1872",
+    "website": "https://www.northeastbank.com",
+    "ceo": "Richard Wayne",
+    "social_media": {
+        "twitter": "https://twitter.com/NortheastBank",
+        "linkedin": "https://www.linkedin.com/company/northeast-bank/"
+    },
+    "investor_relations": "https://www.northeastbank.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Richard Wayne",
+            "position": "CEO"
+        },
+        {
+            "name": "Joseph D. Dyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking",
+                "Business Loans",
+                "Merchant Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Northeast Bank | Community Banking Solutions in Maine",
+        "meta_description": "Explore Northeast Bank, a community bank in Maine offering personalized banking solutions. Learn about our services, commitment to the community, and financial expertise.",
+        "keywords": [
+            "Northeast Bank",
+            "Community Banking",
+            "Financial Services",
+            "Maine Banking",
+            "Personal Loans",
+            "Business Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Northeast Bank offer?",
+            "answer": "Northeast Bank offers personal banking, business banking, mortgage lending, and investment services."
+        },
+        {
+            "question": "Who is the CEO of Northeast Bank?",
+            "answer": "Richard Wayne is the CEO of Northeast Bank."
+        },
+        {
+            "question": "Where is Northeast Bank headquartered?",
+            "answer": "Northeast Bank is headquartered in Auburn, Maine, USA."
+        },
+        {
+            "question": "When was Northeast Bank founded?",
+            "answer": "Northeast Bank was founded in 1872."
+        }
+    ],
+    "competitors": [
+        "PNC",
+        "KEY",
+        "CUBI",
+        "FHN"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "GS"
+    ]
+}

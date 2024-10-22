@@ -1,0 +1,100 @@
+{
+    "ticker": "FTCI",
+    "name": "FTI Consulting, Inc.",
+    "description": "FTI Consulting, Inc. is a global business advisory firm that specializes in providing expert services in the areas of finance, litigation, and corporate finance. Founded in 1982 and headquartered in Washington, D.C., FTI Consulting leverages deep industry knowledge and analytical capabilities to help organizations manage complex challenges, mitigate risks, and enhance business performance. The firm operates in four main segments: Corporate Finance & Restructuring, Forensic and Litigation Consulting, Economic Consulting, and Strategic Communications. FTI's team of professionals includes forensic accountants, financial analysts, economists, and communications experts who work collaboratively to deliver tailored solutions for clients across various industries, including energy, healthcare, and technology. The company is known for its commitment to integrity, excellence, and innovation, providing insights that help clients navigate critical business issues and achieve their strategic objectives. FTI Consulting's reputation as a trusted advisor is built on its ability to deliver high-impact results, making it a preferred partner for businesses facing complex challenges in today's dynamic market environment.",
+    "industry": [
+        "Business Consulting",
+        "Financial Advisory"
+    ],
+    "headquarters": "Washington, D.C., USA",
+    "founded": "1982",
+    "website": "https://www.fticonsulting.com",
+    "ceo": "Cameron K. Findlay",
+    "social_media": {
+        "twitter": "https://twitter.com/FTIConsulting",
+        "linkedin": "https://www.linkedin.com/company/fti-consulting/"
+    },
+    "investor_relations": "https://ir.fticonsulting.com",
+    "key_executives": [
+        {
+            "name": "Cameron K. Findlay",
+            "position": "CEO"
+        },
+        {
+            "name": "David W. Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Corporate Finance & Restructuring",
+            "services": [
+                "Financial Advisory",
+                "Restructuring Services"
+            ]
+        },
+        {
+            "category": "Forensic and Litigation Consulting",
+            "services": [
+                "Forensic Accounting",
+                "Expert Witness Services"
+            ]
+        },
+        {
+            "category": "Economic Consulting",
+            "services": [
+                "Economic Analysis",
+                "Antitrust Consulting"
+            ]
+        },
+        {
+            "category": "Strategic Communications",
+            "services": [
+                "Crisis Management",
+                "Public Relations"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FTI Consulting, Inc. | Global Business Advisory Services",
+        "meta_description": "FTI Consulting, Inc. provides expert financial and business advisory services. Discover how FTI can help you navigate complex challenges and enhance performance.",
+        "keywords": [
+            "FTI Consulting",
+            "Business Advisory",
+            "Financial Services",
+            "Litigation Support",
+            "Corporate Finance",
+            "Crisis Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does FTI Consulting offer?",
+            "answer": "FTI Consulting offers services in corporate finance, forensic and litigation consulting, economic consulting, and strategic communications."
+        },
+        {
+            "question": "Who is the CEO of FTI Consulting?",
+            "answer": "Cameron K. Findlay is the CEO of FTI Consulting, Inc."
+        },
+        {
+            "question": "Where is FTI Consulting headquartered?",
+            "answer": "FTI Consulting is headquartered in Washington, D.C., USA."
+        },
+        {
+            "question": "When was FTI Consulting founded?",
+            "answer": "FTI Consulting was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "ALGN",
+        "KPMG",
+        "Deloitte",
+        "EY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

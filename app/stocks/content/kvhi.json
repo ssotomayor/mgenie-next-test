@@ -1,0 +1,92 @@
+{
+    "ticker": "KVHI",
+    "name": "KVH Industries, Inc.",
+    "description": "KVH Industries, Inc. is a global leader in mobile satellite communications and inertial navigation systems. Founded in 1982, KVH has established itself as a reliable provider of services and solutions for the maritime, defense, and mobile sectors. The company specializes in delivering high-speed internet, television, and voice communications to vessels at sea, ensuring connectivity for both commercial shipping and recreational boating. KVH's flagship product, the TracPhone system, utilizes advanced satellite technology to provide seamless communication services to users worldwide. Additionally, KVH has developed a suite of inertial sensors and navigation systems, which are essential for various applications, including autonomous vehicles and robotics. With a focus on innovation, KVH invests heavily in research and development to enhance its product offerings and maintain its competitive edge in the rapidly evolving technology landscape. The company's mission is to provide customers with the ability to stay connected anywhere in the world while optimizing their operations through state-of-the-art technology.",
+    "industry": [
+        "Telecommunications",
+        "Aerospace",
+        "Maritime"
+    ],
+    "headquarters": "Middletown, Rhode Island, USA",
+    "founded": "1982",
+    "website": "https://www.kvh.com",
+    "ceo": "Martin Kits van Heyningen",
+    "social_media": {
+        "twitter": "https://twitter.com/KVHIndustries",
+        "linkedin": "https://www.linkedin.com/company/kvh-industries/"
+    },
+    "investor_relations": "https://investors.kvh.com",
+    "key_executives": [
+        {
+            "name": "Martin Kits van Heyningen",
+            "position": "CEO"
+        },
+        {
+            "name": "Gary H. D. D. O'Dell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Communications",
+            "products": [
+                "TracPhone",
+                "V7HTS",
+                "V11HTS"
+            ]
+        },
+        {
+            "category": "Inertial Navigation Systems",
+            "products": [
+                "Clyde",
+                "DSP-1760"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KVH Industries, Inc. | Mobile Satellite Communications and Navigation",
+        "meta_description": "Explore KVH Industries, a leader in mobile satellite communications and inertial navigation systems. Discover our innovative products and services designed for maritime and defense applications.",
+        "keywords": [
+            "KVH",
+            "Satellite Communications",
+            "Inertial Navigation",
+            "Maritime Connectivity",
+            "TracPhone",
+            "Mobile Internet"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is KVH known for?",
+            "answer": "KVH is known for its mobile satellite communications and inertial navigation systems, providing connectivity solutions for maritime and defense markets."
+        },
+        {
+            "question": "Who is the CEO of KVH?",
+            "answer": "Martin Kits van Heyningen is the CEO of KVH Industries, Inc."
+        },
+        {
+            "question": "Where is KVH headquartered?",
+            "answer": "KVH is headquartered in Middletown, Rhode Island, USA."
+        },
+        {
+            "question": "What are KVH's main products?",
+            "answer": "KVH's main products include the TracPhone satellite communication systems and various inertial navigation systems."
+        },
+        {
+            "question": "When was KVH founded?",
+            "answer": "KVH was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "IRDM",
+        "LHX",
+        "SPIR",
+        "HRS"
+    ],
+    "related_stocks": [
+        "T",
+        "VZ",
+        "LMT",
+        "BA"
+    ]
+}

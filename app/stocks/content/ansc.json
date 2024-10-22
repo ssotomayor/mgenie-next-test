@@ -1,0 +1,90 @@
+{
+    "ticker": "ANSC",
+    "name": "Ansys, Inc.",
+    "description": "Ansys, Inc. is a global leader in engineering simulation software, empowering organizations to innovate and optimize their designs across various industries. Founded in 1970, Ansys provides a comprehensive suite of simulation solutions that enable engineers to predict how their products will perform in the real world. The company's software portfolio includes tools for finite element analysis (FEA), computational fluid dynamics (CFD), electronic design automation (EDA), and more. Ansys serves a diverse range of sectors, including aerospace, automotive, defense, energy, and healthcare, helping clients accelerate product development and reduce costs. With a commitment to advancing simulation technology, Ansys continuously invests in research and development to enhance its offerings, including integrations with artificial intelligence and machine learning. The company promotes a collaborative approach, allowing teams to work together seamlessly through cloud-based platforms. Ansys's mission is to enable engineering excellence, driving innovation and efficiency in the product development lifecycle.",
+    "industry": [
+        "Software",
+        "Engineering"
+    ],
+    "headquarters": "Canonsburg, Pennsylvania, USA",
+    "founded": "1970",
+    "website": "https://www.ansys.com",
+    "ceo": "Ajei Gopal",
+    "social_media": {
+        "twitter": "https://twitter.com/ansys",
+        "linkedin": "https://www.linkedin.com/company/ansys"
+    },
+    "investor_relations": "https://investors.ansys.com",
+    "key_executives": [
+        {
+            "name": "Ajei Gopal",
+            "position": "CEO"
+        },
+        {
+            "name": "Maria Shields",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Simulation Software",
+            "products": [
+                "Ansys Mechanical",
+                "Ansys Fluent",
+                "Ansys HFSS",
+                "Ansys Discovery"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "Ansys Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ansys, Inc. | Leading Engineering Simulation Software",
+        "meta_description": "Explore Ansys, Inc., a leader in engineering simulation software that empowers innovation and efficiency across industries. Discover their products and impact on engineering.",
+        "keywords": [
+            "Ansys",
+            "Engineering Simulation",
+            "Finite Element Analysis",
+            "Computational Fluid Dynamics",
+            "Aerospace",
+            "Automotive"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Ansys specialize in?",
+            "answer": "Ansys specializes in engineering simulation software, providing tools for predicting product performance in real-world conditions."
+        },
+        {
+            "question": "Who is the CEO of Ansys?",
+            "answer": "Ajei Gopal is the CEO of Ansys, Inc."
+        },
+        {
+            "question": "Where is Ansys headquartered?",
+            "answer": "Ansys is headquartered in Canonsburg, Pennsylvania, USA."
+        },
+        {
+            "question": "What are some key products of Ansys?",
+            "answer": "Key products include Ansys Mechanical, Ansys Fluent, Ansys HFSS, and Ansys Discovery."
+        },
+        {
+            "question": "When was Ansys founded?",
+            "answer": "Ansys was founded in 1970."
+        }
+    ],
+    "competitors": [
+        "CDNS",
+        "SNPS",
+        "FLIR"
+    ],
+    "related_stocks": [
+        "ADBE",
+        "MSFT",
+        "ORCL",
+        "IBM"
+    ]
+}

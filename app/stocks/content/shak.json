@@ -1,0 +1,94 @@
+{
+    "ticker": "SHAK",
+    "name": "Shake Shack Inc.",
+    "description": "Shake Shack Inc. is a modern-day roadside burger stand known for its high-quality, delicious food and a commitment to using fresh, premium ingredients. Founded in 2004 by Danny Meyer and his team, Shake Shack started as a food cart in New York City's Madison Square Park, serving up ShackBurgers, crinkle-cut fries, and hand-spun shakes to enthusiastic customers. Over the years, the brand has grown into a beloved global chain with locations across the United States and international markets. Shake Shack prides itself on its menu, which features a variety of items including burgers, hot dogs, chicken sandwiches, and vegetarian options, all made with 100% all-natural Angus beef, antibiotic-free chicken, and cage-free eggs. The company also emphasizes sustainability, sourcing ingredients from responsible suppliers and implementing eco-friendly practices in its operations. Shake Shack's vibrant and modern restaurant designs create a welcoming atmosphere for guests, making it a popular destination for food lovers. With a focus on community engagement and philanthropy, Shake Shack continues to expand its reach while maintaining its commitment to quality and customer satisfaction.",
+    "industry": [
+        "Fast Casual Dining",
+        "Restaurant"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2004",
+    "website": "https://www.shakeshack.com",
+    "ceo": "Randy Garutti",
+    "social_media": {
+        "twitter": "https://twitter.com/shakeshack",
+        "linkedin": "https://www.linkedin.com/company/shake-shack/",
+        "instagram": "https://www.instagram.com/shakeshack/",
+        "facebook": "https://www.facebook.com/shakeshack"
+    },
+    "investor_relations": "https://ir.shakeshack.com",
+    "key_executives": [
+        {
+            "name": "Randy Garutti",
+            "position": "CEO"
+        },
+        {
+            "name": "Catherine D'Amato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Burgers",
+            "products": [
+                "ShackBurger",
+                "SmokeShack",
+                "ShroomBurger"
+            ]
+        },
+        {
+            "category": "Fries",
+            "products": [
+                "Crinkle-Cut Fries"
+            ]
+        },
+        {
+            "category": "Shakes",
+            "products": [
+                "Vanilla Shake",
+                "Chocolate Shake"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Shake Shack Inc. | Quality Burgers & Fast Casual Dining",
+        "meta_description": "Explore Shake Shack, a modern-day roadside burger stand known for its high-quality food made from fresh ingredients. Discover our menu and locations.",
+        "keywords": [
+            "Shake Shack",
+            "Burgers",
+            "Fast Casual Dining",
+            "Shakes",
+            "Crinkle-Cut Fries"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Shake Shack known for?",
+            "answer": "Shake Shack is known for its delicious burgers, hot dogs, shakes, and crinkle-cut fries made from high-quality ingredients."
+        },
+        {
+            "question": "Where is Shake Shack headquartered?",
+            "answer": "Shake Shack is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Shake Shack founded?",
+            "answer": "Shake Shack was founded in 2004."
+        },
+        {
+            "question": "What are some popular menu items at Shake Shack?",
+            "answer": "Popular menu items include the ShackBurger, SmokeShack, ShroomBurger, and Crinkle-Cut Fries."
+        }
+    ],
+    "competitors": [
+        "MCD",
+        "WEN",
+        "CMG",
+        "DQ"
+    ],
+    "related_stocks": [
+        "SBUX",
+        "DPZ",
+        "YUM",
+        "KFC"
+    ]
+}

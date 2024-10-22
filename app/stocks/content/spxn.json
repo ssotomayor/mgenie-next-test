@@ -1,0 +1,89 @@
+{
+    "ticker": "SPXN",
+    "name": "SPX Corporation",
+    "description": "SPX Corporation is a diversified global supplier of highly engineered, specialized solutions. Founded in 1911 and headquartered in Charlotte, North Carolina, SPX Corporation operates through two primary segments: Detection & Measurement and HVAC. The company is recognized for its innovative products and services in critical industries including utilities, telecommunications, food and beverage, and commercial heating and cooling. SPX\u2019s Detection & Measurement segment offers advanced solutions for diagnostics and testing, while its HVAC segment provides energy-efficient heating, ventilation, and air conditioning systems. SPX Corporation is committed to sustainability and continuous improvement, leveraging technology to deliver high-quality products that enhance operational efficiency and reduce environmental impact. With a dedicated workforce and a focus on customer satisfaction, SPX aims to be a trusted partner for its clients, delivering solutions that meet their evolving needs. The company has a strong track record of strategic acquisitions and investments that bolster its capabilities and market presence, positioning it as a leader in its field.",
+    "industry": [
+        "Manufacturing",
+        "Engineering"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1911",
+    "website": "https://www.spx.com",
+    "ceo": "Gene Lowe",
+    "social_media": {
+        "twitter": "https://twitter.com/SPXCorp",
+        "linkedin": "https://www.linkedin.com/company/spx-corporation/"
+    },
+    "investor_relations": "https://investors.spx.com",
+    "key_executives": [
+        {
+            "name": "Gene Lowe",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael D. Hines",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Detection & Measurement",
+            "products": [
+                "Flow Measurement Systems",
+                "Pressure Measurement Instruments"
+            ]
+        },
+        {
+            "category": "HVAC",
+            "products": [
+                "Commercial HVAC Systems",
+                "Chillers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SPX Corporation | Innovative Solutions for Critical Industries",
+        "meta_description": "Learn about SPX Corporation, a leader in engineered solutions for utilities, HVAC, and more. Discover our commitment to quality and sustainability.",
+        "keywords": [
+            "SPX Corporation",
+            "Engineering Solutions",
+            "HVAC",
+            "Detection and Measurement",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SPX Corporation do?",
+            "answer": "SPX Corporation provides specialized solutions in detection & measurement and HVAC systems for various industries."
+        },
+        {
+            "question": "Who is the CEO of SPX Corporation?",
+            "answer": "Gene Lowe is the CEO of SPX Corporation."
+        },
+        {
+            "question": "Where is SPX Corporation headquartered?",
+            "answer": "SPX Corporation is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are SPX's main product categories?",
+            "answer": "SPX's main product categories include Detection & Measurement systems and HVAC systems."
+        },
+        {
+            "question": "When was SPX Corporation founded?",
+            "answer": "SPX Corporation was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "ITT",
+        "EME",
+        "RMD",
+        "DHR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

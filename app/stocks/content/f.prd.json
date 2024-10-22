@@ -1,0 +1,96 @@
+{
+    "ticker": "F.PRD",
+    "name": "Ford Motor Company - Preferred Shares",
+    "description": "Ford Motor Company is an iconic American automotive manufacturer founded in 1903 by Henry Ford. It revolutionized the auto industry with the introduction of assembly line production techniques and is known for its innovative approach to manufacturing and design. Ford produces a wide range of vehicles, including trucks, SUVs, and electric vehicles, and has a strong commitment to sustainability and innovation. The company's portfolio includes well-known models such as the Ford F-150, Mustang, and Explorer. Ford has made significant investments in electric vehicle technology, with plans to electrify its lineup to meet the growing demand for environmentally friendly transportation. The company aims to lead in EV technology, with initiatives such as the Ford Mustang Mach-E and the all-electric Ford F-150 Lightning. Alongside its automotive operations, Ford is also involved in mobility services and advanced driver-assistance technologies, striving to create safer and more efficient transportation solutions. With a legacy of over a century, Ford continues to be a major player in the global automotive industry, focusing on innovation, quality, and customer satisfaction.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Dearborn, Michigan, USA",
+    "founded": "1903",
+    "website": "https://www.ford.com",
+    "ceo": "Jim Farley",
+    "social_media": {
+        "twitter": "https://twitter.com/Ford",
+        "linkedin": "https://www.linkedin.com/company/fordmotorcompany/",
+        "instagram": "https://www.instagram.com/ford/",
+        "youtube": "https://www.youtube.com/user/Ford"
+    },
+    "investor_relations": "https://investor.ford.com",
+    "key_executives": [
+        {
+            "name": "Jim Farley",
+            "position": "CEO"
+        },
+        {
+            "name": "John Lawler",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "Mustang Mach-E",
+                "F-150 Lightning"
+            ]
+        },
+        {
+            "category": "Trucks",
+            "products": [
+                "Ford F-150"
+            ]
+        },
+        {
+            "category": "SUVs",
+            "products": [
+                "Ford Explorer"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ford Motor Company | Innovating the Future of Mobility",
+        "meta_description": "Explore Ford Motor Company, a leader in the automotive industry known for its innovative vehicles and commitment to sustainability. Discover Ford's electric vehicles and iconic models.",
+        "keywords": [
+            "Ford",
+            "Electric Vehicles",
+            "F-150",
+            "Mustang",
+            "Sustainability",
+            "Automotive Innovation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Ford known for?",
+            "answer": "Ford is known for its automobiles, including trucks, SUVs, and electric vehicles."
+        },
+        {
+            "question": "Who is the CEO of Ford?",
+            "answer": "Jim Farley is the CEO of Ford Motor Company."
+        },
+        {
+            "question": "Where is Ford headquartered?",
+            "answer": "Ford is headquartered in Dearborn, Michigan, USA."
+        },
+        {
+            "question": "What are Ford's main products?",
+            "answer": "Ford's main products include the F-150, Mustang, and Explorer, along with a growing range of electric vehicles."
+        },
+        {
+            "question": "When was Ford founded?",
+            "answer": "Ford was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "GM",
+        "FCAU",
+        "TSLA",
+        "RIVN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

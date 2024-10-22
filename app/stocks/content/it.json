@@ -1,0 +1,95 @@
+{
+    "ticker": "IT",
+    "name": "Gartner, Inc.",
+    "description": "Gartner, Inc. is a global research and advisory company that provides insights, advice, and tools for leaders in IT, marketing, supply chain, and other fields. Founded in 1979 by Gideon Gartner, the company has grown to become a trusted resource for organizations seeking to make informed decisions in a rapidly changing business landscape. Gartner is best known for its research reports, including the Magic Quadrant, which evaluates technology providers based on their completeness of vision and ability to execute. The firm serves a diverse client base, including large enterprises, small businesses, and government organizations, helping them navigate challenges and leverage technology for growth. With a strong focus on innovation, Gartner also offers consulting services, executive programs, and events where industry leaders can exchange ideas and strategies. The company is committed to providing actionable insights that drive business success and has a global presence with offices in North America, Europe, and Asia. Gartner's mission is to help clients make smarter decisions and achieve better outcomes by leveraging its deep industry expertise and research capabilities.",
+    "industry": [
+        "Research",
+        "Advisory"
+    ],
+    "headquarters": "Stamford, Connecticut, USA",
+    "founded": "1979",
+    "website": "https://www.gartner.com",
+    "ceo": "Gene Hall",
+    "social_media": {
+        "twitter": "https://twitter.com/gartner_inc",
+        "linkedin": "https://www.linkedin.com/company/gartner/"
+    },
+    "investor_relations": "https://investor.gartner.com",
+    "key_executives": [
+        {
+            "name": "Gene Hall",
+            "position": "CEO"
+        },
+        {
+            "name": "Craig Safian",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Research Services",
+            "products": [
+                "Market Research",
+                "Competitive Analysis"
+            ]
+        },
+        {
+            "category": "Advisory Services",
+            "products": [
+                "Consulting",
+                "Executive Programs"
+            ]
+        },
+        {
+            "category": "Events",
+            "products": [
+                "Symposiums",
+                "Conferences"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Gartner, Inc. | Research and Advisory Services",
+        "meta_description": "Explore Gartner, Inc., a leading global research and advisory company. Discover insights, advice, and tools for business leaders in IT and other fields.",
+        "keywords": [
+            "Gartner",
+            "Research",
+            "Advisory Services",
+            "Market Research",
+            "Consulting"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Gartner known for?",
+            "answer": "Gartner is known for its research reports, advisory services, and consulting in the technology and business sectors."
+        },
+        {
+            "question": "Who is the CEO of Gartner?",
+            "answer": "Gene Hall is the CEO of Gartner, Inc."
+        },
+        {
+            "question": "Where is Gartner headquartered?",
+            "answer": "Gartner is headquartered in Stamford, Connecticut, USA."
+        },
+        {
+            "question": "What types of services does Gartner provide?",
+            "answer": "Gartner provides research services, advisory services, and hosts various events for business leaders."
+        },
+        {
+            "question": "When was Gartner founded?",
+            "answer": "Gartner was founded in 1979."
+        }
+    ],
+    "competitors": [
+        "MCO",
+        "SPGI",
+        "CONE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

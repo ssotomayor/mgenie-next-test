@@ -1,0 +1,91 @@
+{
+    "ticker": "DUKH",
+    "name": "Duke Energy Corporation",
+    "description": "Duke Energy Corporation is one of the largest electric power holding companies in the United States, serving approximately 7.7 million customers across the Southeast and Midwest regions. Founded in 1904 and headquartered in Charlotte, North Carolina, Duke Energy operates a diverse energy portfolio that includes a mix of regulated and unregulated power generation facilities. The company is committed to providing reliable, affordable, and sustainable energy solutions, with significant investments in renewable energy sources such as solar and wind power. Duke Energy has set ambitious goals to reduce carbon emissions and transition towards a cleaner energy future, aiming for net-zero emissions by 2050. In addition to its focus on clean energy, Duke Energy is involved in various community initiatives, supporting economic development, education, and environmental stewardship. The company prioritizes innovation in energy technology, exploring advancements in smart grid solutions and energy storage systems. Through its commitment to sustainability and corporate responsibility, Duke Energy strives to create a positive impact on the communities it serves while ensuring a reliable energy supply for its customers.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.duke-energy.com",
+    "ceo": "Lynn Good",
+    "social_media": {
+        "twitter": "https://twitter.com/DukeEnergy",
+        "linkedin": "https://www.linkedin.com/company/duke-energy/",
+        "facebook": "https://www.facebook.com/DukeEnergy"
+    },
+    "investor_relations": "https://investors.duke-energy.com",
+    "key_executives": [
+        {
+            "name": "Lynn Good",
+            "position": "CEO"
+        },
+        {
+            "name": "Diane Turchetta",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Coal",
+                "Natural Gas",
+                "Nuclear",
+                "Renewable Energy"
+            ]
+        },
+        {
+            "category": "Energy Services",
+            "products": [
+                "Energy Efficiency Programs",
+                "Smart Home Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Duke Energy Corporation | Sustainable Energy Solutions",
+        "meta_description": "Explore Duke Energy Corporation, a leading energy provider focused on sustainable solutions and community support. Learn more about their initiatives in renewable energy and corporate responsibility.",
+        "keywords": [
+            "Duke Energy",
+            "Electricity",
+            "Renewable Energy",
+            "Sustainable Energy",
+            "Utilities"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Duke Energy provide?",
+            "answer": "Duke Energy provides electricity generation, distribution, and energy efficiency services."
+        },
+        {
+            "question": "Who is the CEO of Duke Energy?",
+            "answer": "Lynn Good is the CEO of Duke Energy Corporation."
+        },
+        {
+            "question": "Where is Duke Energy headquartered?",
+            "answer": "Duke Energy is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are Duke Energy's main energy sources?",
+            "answer": "Duke Energy's main energy sources include coal, natural gas, nuclear, and renewable energy."
+        },
+        {
+            "question": "When was Duke Energy founded?",
+            "answer": "Duke Energy was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "SO",
+        "EXC",
+        "DTE"
+    ],
+    "related_stocks": [
+        "AEP",
+        "NEE",
+        "FE",
+        "SRE"
+    ]
+}

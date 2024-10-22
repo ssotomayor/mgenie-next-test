@@ -1,0 +1,101 @@
+{
+    "ticker": "KWR",
+    "name": "Keurig Dr Pepper Inc.",
+    "description": "Keurig Dr Pepper Inc. is a leading beverage company in North America, renowned for its diverse portfolio of hot and cold beverages. Founded in 2018 through the merger of Keurig Green Mountain and Dr Pepper Snapple Group, the company combines the innovative single-serve coffee systems of Keurig with the iconic soft drink brands of Dr Pepper. Keurig Dr Pepper's mission is to be the beverage of choice for every occasion, offering consumers a wide range of products from coffee, soft drinks, and teas to juices and flavored waters. The company is committed to sustainability and responsible sourcing, with initiatives aimed at reducing its environmental footprint and enhancing the quality of life in the communities it serves. With a focus on innovation, Keurig Dr Pepper continues to introduce new flavors and products, adapting to changing consumer preferences and trends. The company operates a robust distribution network, making its products available in various retail channels, including supermarkets, convenience stores, and online platforms. Keurig Dr Pepper's dedication to quality and customer satisfaction has made it a household name in the beverage industry.",
+    "industry": [
+        "Beverages",
+        "Food and Beverage"
+    ],
+    "headquarters": "Frisco, Texas, USA",
+    "founded": "2018",
+    "website": "https://www.keurigdrpepper.com",
+    "ceo": "Bob Gamgort",
+    "social_media": {
+        "twitter": "https://twitter.com/KeurigDrPepper",
+        "linkedin": "https://www.linkedin.com/company/keurig-dr-pepper/",
+        "facebook": "https://www.facebook.com/KeurigDrPepper/",
+        "instagram": "https://www.instagram.com/keurigdrpepper/"
+    },
+    "investor_relations": "https://investors.keurigdrpepper.com",
+    "key_executives": [
+        {
+            "name": "Bob Gamgort",
+            "position": "CEO"
+        },
+        {
+            "name": "Oren A. Cohen",
+            "position": "CFO"
+        },
+        {
+            "name": "Diana M. P. Wong",
+            "position": "Chief Marketing Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Coffee",
+            "products": [
+                "Keurig K-Cup Pods",
+                "Green Mountain Coffee",
+                "Peet's Coffee"
+            ]
+        },
+        {
+            "category": "Soft Drinks",
+            "products": [
+                "Dr Pepper",
+                "7UP",
+                "A&W Root Beer"
+            ]
+        },
+        {
+            "category": "Tea and Other Beverages",
+            "products": [
+                "Snapple",
+                "Canada Dry",
+                "Mott's"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Keurig Dr Pepper Inc. | Leading Beverage Company",
+        "meta_description": "Explore Keurig Dr Pepper Inc., a top beverage company offering a wide range of coffee, soft drinks, and teas. Discover our commitment to quality and sustainability.",
+        "keywords": [
+            "Keurig",
+            "Dr Pepper",
+            "Beverages",
+            "Coffee",
+            "Soft Drinks",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of beverages does Keurig Dr Pepper offer?",
+            "answer": "Keurig Dr Pepper offers a variety of beverages including coffee, soft drinks, teas, and flavored waters."
+        },
+        {
+            "question": "When was Keurig Dr Pepper founded?",
+            "answer": "Keurig Dr Pepper was founded in 2018."
+        },
+        {
+            "question": "Where is Keurig Dr Pepper headquartered?",
+            "answer": "Keurig Dr Pepper is headquartered in Frisco, Texas, USA."
+        },
+        {
+            "question": "Who is the CEO of Keurig Dr Pepper?",
+            "answer": "Bob Gamgort is the CEO of Keurig Dr Pepper Inc."
+        }
+    ],
+    "competitors": [
+        "KO",
+        "PEP",
+        "SBUX"
+    ],
+    "related_stocks": [
+        "CAG",
+        "GIS",
+        "MDLZ",
+        "HSY"
+    ]
+}

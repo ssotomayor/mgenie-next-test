@@ -1,0 +1,91 @@
+{
+    "ticker": "BALL",
+    "name": "Ball Corporation",
+    "description": "Ball Corporation is a global leader in metal packaging and aerospace technologies, dedicated to sustainability and innovation. Founded in 1880, the company started as a glass jar manufacturer and has evolved into a major player in the production of aluminum packaging for beverages, food, and household products. Ball's commitment to sustainable practices is evident in its efforts to minimize waste and reduce carbon emissions across its operations. The company operates numerous manufacturing facilities worldwide, producing billions of cans annually, which are designed to be infinitely recyclable. In addition to packaging, Ball Corporation is involved in aerospace, providing aerospace systems and services for government and commercial customers. The company's mission is to deliver innovative packaging solutions while promoting a circular economy and responsible resource management. With a strong emphasis on research and development, Ball continues to lead the industry in advancing packaging technology, enhancing product performance, and meeting customer needs effectively. As consumer demand shifts towards sustainable packaging options, Ball Corporation is well-positioned to capitalize on this growing trend, reinforcing its status as a responsible corporate leader in packaging solutions.",
+    "industry": [
+        "Packaging",
+        "Aerospace"
+    ],
+    "headquarters": "Broomfield, Colorado, USA",
+    "founded": "1880",
+    "website": "https://www.ball.com",
+    "ceo": "John A. Hayes",
+    "social_media": {
+        "twitter": "https://twitter.com/BallCorp",
+        "linkedin": "https://www.linkedin.com/company/ball-corporation/",
+        "instagram": "https://www.instagram.com/ballcorporation/"
+    },
+    "investor_relations": "https://investors.ball.com",
+    "key_executives": [
+        {
+            "name": "John A. Hayes",
+            "position": "CEO"
+        },
+        {
+            "name": "Daniel W. Fisher",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Metal Packaging",
+            "products": [
+                "Aluminum Cans",
+                "Glass Jars",
+                "Aerosol Containers"
+            ]
+        },
+        {
+            "category": "Aerospace",
+            "products": [
+                "Satellite Systems",
+                "Launch Vehicles"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ball Corporation | Sustainable Metal Packaging Solutions",
+        "meta_description": "Explore Ball Corporation, a leader in metal packaging and aerospace technologies, committed to sustainability and innovation in packaging solutions.",
+        "keywords": [
+            "Ball Corporation",
+            "Metal Packaging",
+            "Sustainable Packaging",
+            "Aerospace Technology",
+            "Aluminum Cans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Ball Corporation specialize in?",
+            "answer": "Ball Corporation specializes in metal packaging for beverages, food, and household products, as well as aerospace technologies."
+        },
+        {
+            "question": "Who is the CEO of Ball Corporation?",
+            "answer": "John A. Hayes is the CEO of Ball Corporation."
+        },
+        {
+            "question": "Where is Ball Corporation headquartered?",
+            "answer": "Ball Corporation is headquartered in Broomfield, Colorado, USA."
+        },
+        {
+            "question": "What are Ball Corporation's main products?",
+            "answer": "Ball Corporation's main products include aluminum cans, glass jars, and aerospace systems."
+        },
+        {
+            "question": "When was Ball Corporation founded?",
+            "answer": "Ball Corporation was founded in 1880."
+        }
+    ],
+    "competitors": [
+        "CAG",
+        "COKE",
+        "CPB",
+        "PEP"
+    ],
+    "related_stocks": [
+        "MO",
+        "ADM",
+        "GIS",
+        "K"
+    ]
+}

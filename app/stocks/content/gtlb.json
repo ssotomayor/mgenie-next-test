@@ -1,0 +1,84 @@
+{
+    "ticker": "GTLB",
+    "name": "GitLab, Inc.",
+    "description": "GitLab, Inc. is a leading provider of DevOps software, enabling organizations to streamline their software development and deployment processes. Founded in 2011 by Dmitriy Zaporozhets and Valery Sizov, GitLab offers an integrated platform that combines source code management, continuous integration and deployment, and project management tools. The platform supports both public and private repositories, making it a versatile choice for teams of all sizes. GitLab promotes collaboration among developers, providing features such as merge request reviews, issue tracking, and CI/CD pipelines. The company's mission is to make it easier for teams to develop software and improve productivity through automation and integration. With a strong focus on open-source principles, GitLab also encourages community contributions and transparency. The company has gained significant traction among enterprises and startups alike, becoming an essential tool in the modern software development lifecycle. With its comprehensive suite of tools, GitLab empowers teams to deliver software faster and with higher quality, fostering innovation and efficiency in the tech industry.",
+    "industry": [
+        "Software",
+        "DevOps"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2011",
+    "website": "https://about.gitlab.com",
+    "ceo": "Sid Sijbrandij",
+    "social_media": {
+        "twitter": "https://twitter.com/gitlab",
+        "linkedin": "https://www.linkedin.com/company/gitlab",
+        "github": "https://github.com/gitlabhq"
+    },
+    "investor_relations": "https://investors.gitlab.com",
+    "key_executives": [
+        {
+            "name": "Sid Sijbrandij",
+            "position": "CEO"
+        },
+        {
+            "name": "Cynthia Gaylor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "DevOps Platform",
+            "products": [
+                "Source Code Management",
+                "CI/CD",
+                "Project Management",
+                "Security Testing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GitLab, Inc. | DevOps Platform for Software Development",
+        "meta_description": "Explore GitLab, Inc., the leading DevOps platform that streamlines software development and enhances collaboration. Learn about GitLab's innovative tools and solutions.",
+        "keywords": [
+            "GitLab",
+            "DevOps",
+            "Software Development",
+            "CI/CD",
+            "Source Code Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is GitLab known for?",
+            "answer": "GitLab is known for its all-in-one DevOps platform that integrates source code management, CI/CD, and project management."
+        },
+        {
+            "question": "Who is the CEO of GitLab?",
+            "answer": "Sid Sijbrandij is the CEO of GitLab, Inc."
+        },
+        {
+            "question": "Where is GitLab headquartered?",
+            "answer": "GitLab is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are GitLab's main products?",
+            "answer": "GitLab's main products include Source Code Management, CI/CD, Project Management, and Security Testing tools."
+        },
+        {
+            "question": "When was GitLab founded?",
+            "answer": "GitLab was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ATLK",
+        "FISV"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

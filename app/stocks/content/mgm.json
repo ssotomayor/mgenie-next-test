@@ -1,0 +1,102 @@
+{
+    "ticker": "MGM",
+    "name": "MGM Resorts International",
+    "description": "MGM Resorts International is a leading global entertainment and hospitality company based in Paradise, Nevada. Founded in 1986, MGM operates a portfolio of destination resorts, including some of the most iconic hotels and casinos on the Las Vegas Strip, such as the Bellagio, MGM Grand, and Mandalay Bay. The company focuses on providing a premium guest experience through innovative entertainment offerings, luxurious accommodations, and world-class dining options. With a commitment to sustainability and community engagement, MGM has implemented various initiatives aimed at reducing its environmental impact and enhancing the well-being of the communities it serves. MGM also owns and operates numerous entertainment venues, including theaters, arenas, and nightclubs, hosting top-tier performances and events. The company is dedicated to creating memorable experiences for its guests while driving growth in the hospitality and gaming industries.",
+    "industry": [
+        "Hospitality",
+        "Entertainment",
+        "Gaming"
+    ],
+    "headquarters": "Paradise, Nevada, USA",
+    "founded": "1986",
+    "website": "https://www.mgmresorts.com",
+    "ceo": "Bill Hornbuckle",
+    "social_media": {
+        "twitter": "https://twitter.com/MGMResorts",
+        "linkedin": "https://www.linkedin.com/company/mgm-resorts-international/",
+        "instagram": "https://www.instagram.com/mgmresorts",
+        "facebook": "https://www.facebook.com/MGMResorts"
+    },
+    "investor_relations": "https://investors.mgmresorts.com",
+    "key_executives": [
+        {
+            "name": "Bill Hornbuckle",
+            "position": "CEO"
+        },
+        {
+            "name": "Cory J. Morris",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Resorts and Hotels",
+            "products": [
+                "Bellagio",
+                "MGM Grand",
+                "Mandalay Bay",
+                "The Mirage"
+            ]
+        },
+        {
+            "category": "Gaming",
+            "products": [
+                "Casino Gaming",
+                "Sports Betting"
+            ]
+        },
+        {
+            "category": "Entertainment",
+            "products": [
+                "Live Shows",
+                "Nightclubs",
+                "Dining Experiences"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MGM Resorts International | Premier Entertainment and Hospitality",
+        "meta_description": "Explore MGM Resorts International, a leader in the entertainment and hospitality industry, featuring luxury hotels, casinos, and world-class entertainment experiences.",
+        "keywords": [
+            "MGM Resorts",
+            "Las Vegas",
+            "Hotels",
+            "Casinos",
+            "Entertainment",
+            "Luxury Accommodations"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is MGM Resorts known for?",
+            "answer": "MGM Resorts is known for its luxury hotels, casinos, and entertainment venues in Las Vegas and beyond."
+        },
+        {
+            "question": "Who is the CEO of MGM Resorts?",
+            "answer": "Bill Hornbuckle is the CEO of MGM Resorts International."
+        },
+        {
+            "question": "Where is MGM Resorts headquartered?",
+            "answer": "MGM Resorts is headquartered in Paradise, Nevada, USA."
+        },
+        {
+            "question": "What are MGM Resorts' main properties?",
+            "answer": "MGM Resorts' main properties include Bellagio, MGM Grand, Mandalay Bay, and The Mirage."
+        },
+        {
+            "question": "When was MGM Resorts founded?",
+            "answer": "MGM Resorts was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "WYNN",
+        "LVS",
+        "CZR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

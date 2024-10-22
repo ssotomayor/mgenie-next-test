@@ -1,0 +1,90 @@
+{
+    "ticker": "INOV",
+    "name": "Inovio Pharmaceuticals, Inc.",
+    "description": "Inovio Pharmaceuticals, Inc. is a biotechnology company focused on developing innovative DNA-based therapies and vaccines to treat and prevent diseases, including cancer and infectious diseases. Founded in 2000 and headquartered in Plymouth Meeting, Pennsylvania, Inovio leverages its proprietary DNA medicine platform, which employs a unique delivery approach to facilitate the rapid synthesis of therapeutic proteins in the body. The company's leading product candidates include INO-4800, a vaccine targeting COVID-19, and several immunotherapies aimed at treating cancers such as cervical and prostate cancer. Inovio's approach aims to harness the body's immune system to elicit a targeted response against specific pathogens or tumors, making it a frontrunner in the field of immunotherapy. The company is committed to advancing its pipeline through clinical trials and strategic partnerships, seeking to bring its groundbreaking therapies to patients worldwide. With a strong emphasis on innovation and scientific rigor, Inovio is positioned to make significant contributions to global health, particularly in the areas of vaccine and cancer treatment development.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Plymouth Meeting, Pennsylvania, USA",
+    "founded": "2000",
+    "website": "https://www.inovio.com",
+    "ceo": "Joseph Kim",
+    "social_media": {
+        "twitter": "https://twitter.com/inovio",
+        "linkedin": "https://www.linkedin.com/company/inovio-pharmaceuticals/"
+    },
+    "investor_relations": "https://investors.inovio.com",
+    "key_executives": [
+        {
+            "name": "Joseph Kim",
+            "position": "CEO"
+        },
+        {
+            "name": "Helen Sabzevari",
+            "position": "President and COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "INO-4800",
+                "VGX-3100"
+            ]
+        },
+        {
+            "category": "Immunotherapies",
+            "products": [
+                "INO-1400",
+                "INO-1800"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Inovio Pharmaceuticals, Inc. | Innovative DNA-Based Therapies and Vaccines",
+        "meta_description": "Explore Inovio Pharmaceuticals, Inc., a leader in DNA medicine focused on developing therapies and vaccines for cancer and infectious diseases.",
+        "keywords": [
+            "Inovio",
+            "DNA Medicines",
+            "Vaccines",
+            "Immunotherapy",
+            "Cancer Treatment",
+            "COVID-19 Vaccine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Inovio Pharmaceuticals focus on?",
+            "answer": "Inovio Pharmaceuticals focuses on developing DNA-based therapies and vaccines for cancer and infectious diseases."
+        },
+        {
+            "question": "Who is the CEO of Inovio Pharmaceuticals?",
+            "answer": "Joseph Kim is the CEO of Inovio Pharmaceuticals, Inc."
+        },
+        {
+            "question": "Where is Inovio headquartered?",
+            "answer": "Inovio is headquartered in Plymouth Meeting, Pennsylvania, USA."
+        },
+        {
+            "question": "What are Inovio's main products?",
+            "answer": "Inovio's main products include the COVID-19 vaccine candidate INO-4800 and cancer immunotherapy VGX-3100."
+        },
+        {
+            "question": "When was Inovio founded?",
+            "answer": "Inovio was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "NVAX",
+        "BNTX",
+        "ZIOP"
+    ],
+    "related_stocks": [
+        "PFE",
+        "JNJ",
+        "GILD",
+        "AMGN"
+    ]
+}

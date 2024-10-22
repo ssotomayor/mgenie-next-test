@@ -1,0 +1,85 @@
+{
+    "ticker": "BSCU",
+    "name": "Biscayne Capital, Inc.",
+    "description": "Biscayne Capital, Inc. is a financial services firm specializing in investment management and advisory services. Founded in 2010, the company aims to provide tailored investment solutions to individuals, families, and institutions. With a focus on long-term value creation, Biscayne Capital employs a disciplined approach to portfolio management, leveraging extensive market research and economic analysis. The firm offers a range of services, including wealth management, financial planning, and retirement strategies, designed to help clients achieve their financial goals. Biscayne Capital's team of experienced professionals is committed to understanding each client's unique needs and risk tolerance, ensuring personalized service and investment strategies. The company also emphasizes transparency and education, empowering clients with the knowledge needed to make informed financial decisions. As a firm rooted in integrity and client-centric values, Biscayne Capital is dedicated to building lasting relationships and delivering exceptional service in the ever-evolving financial landscape.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "Miami, Florida, USA",
+    "founded": "2010",
+    "website": "https://www.biscaynecapital.com",
+    "ceo": "Carlos Martinez",
+    "social_media": {
+        "twitter": "https://twitter.com/BiscayneCapital",
+        "linkedin": "https://www.linkedin.com/company/biscayne-capital/"
+    },
+    "investor_relations": "https://ir.biscaynecapital.com",
+    "key_executives": [
+        {
+            "name": "Carlos Martinez",
+            "position": "CEO"
+        },
+        {
+            "name": "Maria Rodriguez",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Management",
+            "products": [
+                "Equity Funds",
+                "Fixed Income Funds",
+                "Balanced Funds"
+            ]
+        },
+        {
+            "category": "Advisory Services",
+            "products": [
+                "Wealth Management",
+                "Financial Planning",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Biscayne Capital, Inc. | Investment Management and Advisory Services",
+        "meta_description": "Explore Biscayne Capital, Inc., a leading financial services firm providing investment management and advisory solutions tailored to clients' needs.",
+        "keywords": [
+            "Biscayne Capital",
+            "Investment Management",
+            "Wealth Management",
+            "Financial Planning",
+            "Retirement Strategies"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Biscayne Capital offer?",
+            "answer": "Biscayne Capital offers investment management, wealth management, financial planning, and retirement strategies."
+        },
+        {
+            "question": "Who is the CEO of Biscayne Capital?",
+            "answer": "Carlos Martinez is the CEO of Biscayne Capital, Inc."
+        },
+        {
+            "question": "Where is Biscayne Capital headquartered?",
+            "answer": "Biscayne Capital is headquartered in Miami, Florida, USA."
+        },
+        {
+            "question": "When was Biscayne Capital founded?",
+            "answer": "Biscayne Capital was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "TROW",
+        "AMP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

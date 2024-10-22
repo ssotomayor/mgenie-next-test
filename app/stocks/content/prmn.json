@@ -1,0 +1,88 @@
+{
+    "ticker": "PRMN",
+    "name": "Prism Technologies, Inc.",
+    "description": "Prism Technologies, Inc. is a leading innovator in the field of advanced imaging and data analytics solutions. Founded in 2010, the company focuses on developing cutting-edge technologies that enhance visual data interpretation and decision-making across various industries, including healthcare, security, and manufacturing. With a mission to empower organizations through data-driven insights, Prism Technologies specializes in products that utilize artificial intelligence and machine learning to analyze imagery and video streams in real-time. Their flagship products include the Prism Vision Suite, a comprehensive platform for healthcare imaging analysis, and the Prism Surveillance Engine, designed to enhance security operations by providing actionable intelligence from surveillance footage. The company is committed to pushing the boundaries of technology while ensuring user-friendly interfaces and robust performance. With a strong emphasis on research and development, Prism Technologies collaborates with academic institutions and industry leaders to stay at the forefront of innovation. Their vision is to transform how businesses utilize visual data, enabling smarter decisions that drive efficiency and effectiveness in operations.",
+    "industry": [
+        "Technology",
+        "Data Analytics",
+        "Imaging"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.prismtechnologies.com",
+    "ceo": "Jessica Morgan",
+    "social_media": {
+        "twitter": "https://twitter.com/PrismTech",
+        "linkedin": "https://www.linkedin.com/company/prism-technologies/"
+    },
+    "investor_relations": "https://ir.prismtechnologies.com",
+    "key_executives": [
+        {
+            "name": "Jessica Morgan",
+            "position": "CEO"
+        },
+        {
+            "name": "David Chen",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Healthcare Imaging",
+            "products": [
+                "Prism Vision Suite"
+            ]
+        },
+        {
+            "category": "Surveillance Solutions",
+            "products": [
+                "Prism Surveillance Engine"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Prism Technologies, Inc. | Advanced Imaging and Data Analytics Solutions",
+        "meta_description": "Explore Prism Technologies, Inc., a leader in advanced imaging solutions and data analytics. Discover our innovative products and commitment to enhancing decision-making across industries.",
+        "keywords": [
+            "Prism Technologies",
+            "Data Analytics",
+            "Imaging Solutions",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Healthcare Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Prism Technologies specialize in?",
+            "answer": "Prism Technologies specializes in advanced imaging and data analytics solutions utilizing AI and machine learning."
+        },
+        {
+            "question": "Who is the CEO of Prism Technologies?",
+            "answer": "Jessica Morgan is the CEO of Prism Technologies, Inc."
+        },
+        {
+            "question": "Where is Prism Technologies headquartered?",
+            "answer": "Prism Technologies is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are Prism Technologies' main products?",
+            "answer": "Main products include the Prism Vision Suite for healthcare imaging and the Prism Surveillance Engine for security applications."
+        },
+        {
+            "question": "When was Prism Technologies founded?",
+            "answer": "Prism Technologies was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AAPL",
+        "MSFT",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "AMZN",
+        "IBM",
+        "CSCO"
+    ]
+}

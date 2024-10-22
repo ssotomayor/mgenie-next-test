@@ -1,0 +1,92 @@
+{
+    "ticker": "AMBA",
+    "name": "Ambarella, Inc.",
+    "description": "Ambarella, Inc. is a leading developer of advanced video compression and image processing solutions, specializing in high-definition video technology. Founded in 2004, the company has established itself as a pioneer in the field of video analytics, machine learning, and computer vision. Ambarella's cutting-edge SoCs (System on Chips) are utilized in a variety of applications, including security cameras, automotive cameras, drones, and sports cameras. The company is recognized for its innovative technology that enables the processing of high-resolution video streams while maintaining low power consumption, making it a preferred choice for manufacturers in the rapidly evolving landscape of smart devices and surveillance systems. Ambarella's products not only enhance video quality but also integrate advanced features like facial recognition, object detection, and real-time analytics, allowing for enhanced security and operational efficiency. As the demand for smarter and more efficient video solutions continues to grow, Ambarella remains committed to pushing the boundaries of technology to deliver superior performance and reliability. The company is strategically positioned to capitalize on the increasing adoption of AI and IoT technologies in various sectors, including automotive, consumer electronics, and smart cities.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "2004",
+    "website": "https://www.ambarella.com",
+    "ceo": "Fermi Wang",
+    "social_media": {
+        "twitter": "https://twitter.com/AmbarellaInc",
+        "linkedin": "https://www.linkedin.com/company/ambarella/"
+    },
+    "investor_relations": "https://investors.ambarella.com",
+    "key_executives": [
+        {
+            "name": "Fermi Wang",
+            "position": "CEO"
+        },
+        {
+            "name": "Yossi Cohen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Video Processing SoCs",
+            "products": [
+                "CV22",
+                "H22",
+                "A12"
+            ]
+        },
+        {
+            "category": "Camera Solutions",
+            "products": [
+                "Security Cameras",
+                "Automotive Cameras",
+                "Drone Cameras"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ambarella, Inc. | Advanced Video Processing and Image Technology",
+        "meta_description": "Explore Ambarella, Inc., a leader in video compression and image processing technology. Discover our innovative products and solutions for a smarter world.",
+        "keywords": [
+            "Ambarella",
+            "Video Processing",
+            "Image Technology",
+            "Computer Vision",
+            "AI",
+            "IoT"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Ambarella specialize in?",
+            "answer": "Ambarella specializes in advanced video compression and image processing technology."
+        },
+        {
+            "question": "Who is the CEO of Ambarella?",
+            "answer": "Fermi Wang is the CEO of Ambarella, Inc."
+        },
+        {
+            "question": "Where is Ambarella headquartered?",
+            "answer": "Ambarella is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are Ambarella's main products?",
+            "answer": "Ambarella's main products include video processing SoCs and camera solutions for various applications."
+        },
+        {
+            "question": "When was Ambarella founded?",
+            "answer": "Ambarella was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "AVGO",
+        "QCOM",
+        "INTC"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

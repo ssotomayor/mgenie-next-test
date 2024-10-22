@@ -1,0 +1,88 @@
+{
+    "ticker": "SOMLY",
+    "name": "Somali Tech Solutions, Inc.",
+    "description": "Somali Tech Solutions, Inc. is a leading technology firm focused on providing innovative software solutions and IT services tailored to the needs of businesses and organizations in various sectors. Founded in 2010, the company has rapidly grown to become a trusted partner in digital transformation, specializing in cloud computing, data analytics, and cybersecurity. Somali Tech Solutions is dedicated to empowering clients with cutting-edge technology that enhances operational efficiency and drives growth. Their product offerings include enterprise software development, mobile application solutions, and bespoke IT consulting services. Somali Tech Solutions prides itself on its customer-centric approach, ensuring that all solutions are customized to meet the unique requirements of each client. With a mission to leverage technology for social and economic advancement, the company actively engages in community initiatives and educational programs aimed at promoting digital literacy in underserved regions. The firm is also committed to sustainability, implementing eco-friendly practices within its operations and encouraging clients to adopt green technologies. As Somali Tech Solutions continues to expand its global footprint, it remains focused on innovation and excellence, consistently delivering high-quality solutions that foster success for its clients.",
+    "industry": [
+        "Information Technology",
+        "Software Development"
+    ],
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "founded": "2010",
+    "website": "https://www.somalitechsolutions.com",
+    "ceo": "Fatima Ali",
+    "social_media": {
+        "twitter": "https://twitter.com/SomaliTech",
+        "linkedin": "https://www.linkedin.com/company/somali-tech-solutions"
+    },
+    "investor_relations": "https://ir.somalitechsolutions.com",
+    "key_executives": [
+        {
+            "name": "Fatima Ali",
+            "position": "CEO"
+        },
+        {
+            "name": "Mohamed Abdullahi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software Solutions",
+            "products": [
+                "Enterprise Resource Planning (ERP)",
+                "Customer Relationship Management (CRM)",
+                "Mobile Applications"
+            ]
+        },
+        {
+            "category": "IT Services",
+            "products": [
+                "Cloud Computing Services",
+                "Cybersecurity Solutions",
+                "Data Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Somali Tech Solutions, Inc. | Innovative Software & IT Services",
+        "meta_description": "Explore Somali Tech Solutions, Inc., a leader in innovative software development and IT services. Discover our solutions that empower businesses and enhance digital transformation.",
+        "keywords": [
+            "Somali Tech Solutions",
+            "Software Development",
+            "IT Services",
+            "Cloud Computing",
+            "Cybersecurity",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Somali Tech Solutions offer?",
+            "answer": "Somali Tech Solutions offers software development, IT consulting, cloud computing, data analytics, and cybersecurity services."
+        },
+        {
+            "question": "Who is the CEO of Somali Tech Solutions?",
+            "answer": "Fatima Ali is the CEO of Somali Tech Solutions, Inc."
+        },
+        {
+            "question": "Where is Somali Tech Solutions headquartered?",
+            "answer": "Somali Tech Solutions is headquartered in Minneapolis, Minnesota, USA."
+        },
+        {
+            "question": "When was Somali Tech Solutions founded?",
+            "answer": "Somali Tech Solutions was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ADBE",
+        "SAP",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

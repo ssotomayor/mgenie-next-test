@@ -1,0 +1,100 @@
+{
+    "ticker": "MMM",
+    "name": "3M Company",
+    "description": "3M Company, founded in 1902, is a multinational conglomerate based in Maplewood, Minnesota, USA. Renowned for its innovative spirit, 3M operates in various sectors, including healthcare, consumer goods, electronics, and industrial products. The company has a diverse portfolio that encompasses over 60,000 products, ranging from adhesives and abrasives to medical supplies and personal protective equipment. 3M is particularly noted for its commitment to research and development, investing significantly in innovation to create solutions that address global challenges. Its well-known brands include Post-it Notes, Scotch Tape, and Nexcare. The company's mission is to improve lives through innovative solutions while maintaining a strong focus on sustainability and environmental responsibility. 3M\u2019s dedication to quality and innovation has earned it a reputation as a trusted partner across industries, making it a leader in the manufacturing sector. The company continues to leverage its science and technology expertise to develop products that enhance daily living and workplace safety, aiming to contribute positively to society and the economy.",
+    "industry": [
+        "Manufacturing",
+        "Healthcare",
+        "Consumer Goods",
+        "Electronics"
+    ],
+    "headquarters": "Maplewood, Minnesota, USA",
+    "founded": "1902",
+    "website": "https://www.3m.com",
+    "ceo": "Mike Roman",
+    "social_media": {
+        "twitter": "https://twitter.com/3M",
+        "linkedin": "https://www.linkedin.com/company/3m/"
+    },
+    "investor_relations": "https://investors.3m.com",
+    "key_executives": [
+        {
+            "name": "Mike Roman",
+            "position": "CEO"
+        },
+        {
+            "name": "Monish Patolawala",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Healthcare",
+            "products": [
+                "Medical Drapes",
+                "N95 Respirators"
+            ]
+        },
+        {
+            "category": "Consumer Products",
+            "products": [
+                "Post-it Notes",
+                "Scotch Tape"
+            ]
+        },
+        {
+            "category": "Industrial",
+            "products": [
+                "Adhesives",
+                "Abrasives"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "3M Company | Innovation and Sustainability",
+        "meta_description": "Explore 3M Company, a global leader in manufacturing and innovation. Discover how 3M's diverse products and commitment to sustainability enhance lives worldwide.",
+        "keywords": [
+            "3M",
+            "Manufacturing",
+            "Healthcare Products",
+            "Consumer Goods",
+            "Innovation",
+            "Sustainability",
+            "Post-it Notes"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is 3M known for?",
+            "answer": "3M is known for its diverse range of products in healthcare, consumer goods, and industrial solutions, including brands like Post-it and Scotch."
+        },
+        {
+            "question": "Who is the CEO of 3M?",
+            "answer": "Mike Roman is the CEO of 3M Company."
+        },
+        {
+            "question": "Where is 3M headquartered?",
+            "answer": "3M is headquartered in Maplewood, Minnesota, USA."
+        },
+        {
+            "question": "What are some of 3M's main products?",
+            "answer": "3M's main products include medical supplies, adhesives, abrasives, and consumer products like Post-it Notes."
+        },
+        {
+            "question": "When was 3M founded?",
+            "answer": "3M was founded in 1902."
+        }
+    ],
+    "competitors": [
+        "HON",
+        "GE",
+        "DOW",
+        "UNP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "JNJ"
+    ]
+}

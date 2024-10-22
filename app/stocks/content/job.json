@@ -1,0 +1,90 @@
+{
+    "ticker": "JOB",
+    "name": "Jobcase, Inc.",
+    "description": "Jobcase, Inc. is a social media platform focused on connecting the workforce with job opportunities and resources. Founded in 2014, Jobcase aims to empower millions of workers by providing a community-driven platform where users can share experiences, seek advice, and find employment opportunities tailored to their skills and needs. The platform serves as a valuable resource for job seekers, offering tools such as resume building, skill assessments, and access to a vast network of employers. Jobcase's mission is to make the job search process more inclusive and accessible, particularly for those who may be underrepresented in the workforce. The company leverages technology to create a personalized experience for users, utilizing data analytics to match job seekers with relevant opportunities. Additionally, Jobcase fosters a sense of community by allowing users to connect with peers, share insights, and support each other through the job search journey. With its focus on empowerment and community, Jobcase is redefining the way people navigate their careers and find meaningful work.",
+    "industry": [
+        "Technology",
+        "Human Resources"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "2014",
+    "website": "https://www.jobcase.com",
+    "ceo": "Fred Goff",
+    "social_media": {
+        "twitter": "https://twitter.com/jobcase",
+        "linkedin": "https://www.linkedin.com/company/jobcase/",
+        "facebook": "https://www.facebook.com/jobcase"
+    },
+    "investor_relations": "https://www.jobcase.com/investors",
+    "key_executives": [
+        {
+            "name": "Fred Goff",
+            "position": "CEO"
+        },
+        {
+            "name": "Dawn O'Connor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Job Search Tools",
+            "products": [
+                "Resume Builder",
+                "Skill Assessments",
+                "Job Matching"
+            ]
+        },
+        {
+            "category": "Community Support",
+            "products": [
+                "Forums",
+                "Peer Networking"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Jobcase, Inc. | Empowering Job Seekers Through Community",
+        "meta_description": "Jobcase, Inc. connects job seekers with opportunities while fostering a supportive community. Explore resources for your job search and career growth.",
+        "keywords": [
+            "Jobcase",
+            "Job Search",
+            "Employment",
+            "Career Resources",
+            "Job Opportunities"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Jobcase?",
+            "answer": "Jobcase is a social media platform that connects job seekers with employment opportunities and resources."
+        },
+        {
+            "question": "Who is the CEO of Jobcase?",
+            "answer": "Fred Goff is the CEO of Jobcase, Inc."
+        },
+        {
+            "question": "Where is Jobcase headquartered?",
+            "answer": "Jobcase is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What tools does Jobcase offer?",
+            "answer": "Jobcase offers tools like a resume builder, skill assessments, and job matching services."
+        },
+        {
+            "question": "When was Jobcase founded?",
+            "answer": "Jobcase was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "LINK",
+        "ZIP",
+        "HIRE"
+    ],
+    "related_stocks": [
+        "SNAP",
+        "FB",
+        "TWTR",
+        "LNKD"
+    ]
+}

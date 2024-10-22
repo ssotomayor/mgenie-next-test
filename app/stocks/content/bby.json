@@ -1,0 +1,94 @@
+{
+    "ticker": "BBY",
+    "name": "Best Buy Co., Inc.",
+    "description": "Best Buy Co., Inc. is a leading retailer of consumer electronics and appliances in North America. Founded in 1966, Best Buy has grown from a small audio specialty store into a multi-billion dollar enterprise with a wide range of products and services. The company operates over 1,000 retail locations across the United States, Canada, and Mexico, offering a diverse selection of electronics, including computers, televisions, mobile phones, and home appliances. Best Buy is not only known for its vast product assortment but also for its commitment to customer service, providing expert advice and support through its knowledgeable staff. Additionally, Best Buy has embraced the digital transformation, enhancing its online shopping experience and offering services such as same-day delivery and curbside pickup. The company also focuses on sustainability, implementing programs to recycle electronics and reduce its carbon footprint. With a mission to enrich lives through technology, Best Buy continues to adapt to changing consumer preferences and the evolving retail landscape, ensuring it remains a key player in the electronics retail market.",
+    "industry": [
+        "Retail",
+        "Consumer Electronics"
+    ],
+    "headquarters": "Richfield, Minnesota, USA",
+    "founded": "1966",
+    "website": "https://www.bestbuy.com",
+    "ceo": "Corie Barry",
+    "social_media": {
+        "twitter": "https://twitter.com/BestBuy",
+        "linkedin": "https://www.linkedin.com/company/best-buy/",
+        "facebook": "https://www.facebook.com/bestbuy",
+        "instagram": "https://www.instagram.com/bestbuy/"
+    },
+    "investor_relations": "https://investor.bestbuy.com",
+    "key_executives": [
+        {
+            "name": "Corie Barry",
+            "position": "CEO"
+        },
+        {
+            "name": "Matt Bilunas",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Electronics",
+            "products": [
+                "Televisions",
+                "Computers",
+                "Mobile Phones",
+                "Cameras"
+            ]
+        },
+        {
+            "category": "Home Appliances",
+            "products": [
+                "Refrigerators",
+                "Washing Machines",
+                "Microwaves"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Best Buy Co., Inc. | Leading Retailer of Consumer Electronics",
+        "meta_description": "Discover Best Buy Co., Inc., a top retailer in consumer electronics and appliances, known for its vast product selection and exceptional customer service.",
+        "keywords": [
+            "Best Buy",
+            "Consumer Electronics",
+            "Retail",
+            "Home Appliances",
+            "Electronics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Best Buy known for?",
+            "answer": "Best Buy is known for its extensive range of consumer electronics and home appliances, as well as its commitment to customer service."
+        },
+        {
+            "question": "Who is the CEO of Best Buy?",
+            "answer": "Corie Barry is the CEO of Best Buy Co., Inc."
+        },
+        {
+            "question": "Where is Best Buy headquartered?",
+            "answer": "Best Buy is headquartered in Richfield, Minnesota, USA."
+        },
+        {
+            "question": "What are Best Buy's main products?",
+            "answer": "Best Buy's main products include televisions, computers, mobile phones, and home appliances like refrigerators and washing machines."
+        },
+        {
+            "question": "When was Best Buy founded?",
+            "answer": "Best Buy was founded in 1966."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "WMT",
+        "COST",
+        "TGT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "NFLX"
+    ]
+}

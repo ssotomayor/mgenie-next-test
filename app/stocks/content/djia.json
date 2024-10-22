@@ -1,0 +1,69 @@
+{
+    "ticker": "DJIA",
+    "name": "Dow Jones Industrial Average",
+    "description": "The Dow Jones Industrial Average (DJIA) is one of the most widely recognized stock market indices in the world. Established in 1896 by Charles Dow and Edward Jones, the DJIA serves as a benchmark for the overall performance of the industrial sector of the U.S. economy. It consists of 30 large, publicly traded companies, which are selected to represent a diverse range of industries, excluding transportation and utilities. The DJIA is a price-weighted index, meaning that companies with higher stock prices have a greater impact on the index's value than those with lower stock prices. This index is often used by investors, analysts, and economists as a gauge of market performance and economic health. Over the years, the DJIA has evolved, with changes in its constituent companies reflecting shifts in the economy and the business landscape. High-profile companies in the index include household names like Apple, Microsoft, and Coca-Cola. The DJIA is published by S&P Dow Jones Indices and is an essential tool for both institutional and retail investors seeking to assess market trends and investment opportunities. Its long history and status as a leading indicator of U.S. stock market performance make it a staple in financial reporting and investment strategy.",
+    "industry": [
+        "Financial Services",
+        "Investment"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1896",
+    "website": "https://www.djindexes.com",
+    "key_executives": [
+        {
+            "name": "Ari Wald",
+            "position": "Managing Director",
+            "social_media": {}
+        },
+        {
+            "name": "David Blitzer",
+            "position": "Managing Director",
+            "social_media": {}
+        }
+    ],
+    "seo": {
+        "meta_title": "Dow Jones Industrial Average | Leading U.S. Stock Market Index",
+        "meta_description": "Explore the Dow Jones Industrial Average (DJIA), a key indicator of U.S. stock market performance and economic health, consisting of 30 major companies.",
+        "keywords": [
+            "DJIA",
+            "Dow Jones",
+            "Stock Market",
+            "Index",
+            "Financial Services",
+            "Investment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is the Dow Jones Industrial Average?",
+            "answer": "The Dow Jones Industrial Average is a stock market index that measures the stock performance of 30 large companies listed on stock exchanges in the United States."
+        },
+        {
+            "question": "How many companies are in the DJIA?",
+            "answer": "The DJIA comprises 30 large, publicly traded companies."
+        },
+        {
+            "question": "When was the DJIA founded?",
+            "answer": "The DJIA was founded in 1896."
+        },
+        {
+            "question": "What does the DJIA represent?",
+            "answer": "The DJIA represents a price-weighted average of 30 significant stocks traded on the New York Stock Exchange and the NASDAQ."
+        },
+        {
+            "question": "How is the DJIA calculated?",
+            "answer": "The DJIA is calculated by summing the prices of the 30 component stocks and dividing by a divisor, which adjusts for stock splits and other factors."
+        }
+    ],
+    "competitors": [
+        "SPY",
+        "COMP",
+        "NDX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

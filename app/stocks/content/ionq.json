@@ -1,0 +1,88 @@
+{
+    "ticker": "IONQ",
+    "name": "IonQ, Inc.",
+    "description": "IonQ, Inc. is a leading innovator in the quantum computing industry, recognized for its pioneering work in developing powerful quantum computers. Founded in 2015 by Christopher Monroe and Jungsang Kim, IonQ is committed to making quantum computing accessible and useful for a wide range of applications, from materials science to pharmaceuticals and complex optimization problems. The company's technology is based on trapped ion quantum computing, which allows for high-fidelity qubits and long coherence times, making IonQ's systems some of the most advanced in the field. IonQ's quantum computers are available through cloud platforms, enabling researchers and businesses to harness quantum capabilities without the need for specialized hardware. As a part of its mission, IonQ aims to democratize access to quantum computing and drive advancements in various industries, addressing some of the most complex challenges facing humanity today. The company is also dedicated to fostering collaboration with academic institutions and industry partners to accelerate quantum research and development.",
+    "industry": [
+        "Quantum Computing",
+        "Technology"
+    ],
+    "headquarters": "College Park, Maryland, USA",
+    "founded": "2015",
+    "website": "https://ionq.com",
+    "ceo": "Peter Chapman",
+    "social_media": {
+        "twitter": "https://twitter.com/IonQ",
+        "linkedin": "https://www.linkedin.com/company/ionq/",
+        "youtube": "https://www.youtube.com/channel/UCBDzWZy7D9lD4nq4m3y9y7g"
+    },
+    "investor_relations": "https://investors.ionq.com",
+    "key_executives": [
+        {
+            "name": "Peter Chapman",
+            "position": "CEO"
+        },
+        {
+            "name": "Chad Rigetti",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Computers",
+            "products": [
+                "IonQ Harmony",
+                "IonQ Aria"
+            ]
+        },
+        {
+            "category": "Quantum Cloud Services",
+            "products": [
+                "IonQ Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IonQ, Inc. | Leading Quantum Computing Solutions",
+        "meta_description": "Explore IonQ, Inc., a leader in quantum computing. Discover advanced quantum computers and cloud services designed to solve complex problems across industries.",
+        "keywords": [
+            "IonQ",
+            "Quantum Computing",
+            "Quantum Technology",
+            "Trapped Ion Technology",
+            "Quantum Cloud Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IonQ known for?",
+            "answer": "IonQ is known for its advanced quantum computing technology based on trapped ions."
+        },
+        {
+            "question": "Who is the CEO of IonQ?",
+            "answer": "Peter Chapman is the CEO of IonQ, Inc."
+        },
+        {
+            "question": "Where is IonQ headquartered?",
+            "answer": "IonQ is headquartered in College Park, Maryland, USA."
+        },
+        {
+            "question": "What are IonQ's main products?",
+            "answer": "IonQ's main products include IonQ Harmony and IonQ Aria, as well as quantum cloud services."
+        },
+        {
+            "question": "When was IonQ founded?",
+            "answer": "IonQ was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "GOOG",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "AMD",
+        "INTC"
+    ]
+}

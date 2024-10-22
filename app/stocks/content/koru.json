@@ -1,0 +1,88 @@
+{
+    "ticker": "KORU",
+    "name": "Koru, Inc.",
+    "description": "Koru, Inc. is an innovative technology company specializing in the development of advanced software solutions for the education sector. Founded in 2015, Koru aims to transform how educational institutions engage with students and streamline administrative processes. The company leverages cutting-edge technology such as artificial intelligence and machine learning to create personalized learning experiences that enhance student outcomes. Koru's flagship platform offers a suite of tools including learning management systems, data analytics for performance tracking, and resources designed to foster collaboration among educators and learners alike. With a focus on accessibility and user-friendly design, Koru empowers institutions to provide quality education that meets the needs of a diverse student body. The company is committed to reshaping the educational landscape and ensuring that every student has the opportunity to succeed through tailored educational experiences and robust support systems.",
+    "industry": [
+        "Technology",
+        "Education"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.koru.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/koru_inc",
+        "linkedin": "https://www.linkedin.com/company/koru-inc"
+    },
+    "investor_relations": "https://ir.koru.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Learning Management Systems",
+            "products": [
+                "Koru Learn",
+                "Koru Assess"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Koru Insights",
+                "Koru Dashboards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Koru, Inc. | Transforming Education through Technology",
+        "meta_description": "Discover Koru, Inc., a leader in educational technology solutions. Explore our innovative platforms that enhance learning experiences and improve student success.",
+        "keywords": [
+            "Koru",
+            "Educational Technology",
+            "Learning Management Systems",
+            "Data Analytics",
+            "Personalized Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Koru do?",
+            "answer": "Koru develops advanced software solutions for the education sector to enhance learning experiences and streamline administrative processes."
+        },
+        {
+            "question": "Who is the CEO of Koru?",
+            "answer": "Jane Doe is the CEO of Koru, Inc."
+        },
+        {
+            "question": "Where is Koru headquartered?",
+            "answer": "Koru is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What products does Koru offer?",
+            "answer": "Koru offers learning management systems and data analytics tools designed for educational institutions."
+        },
+        {
+            "question": "When was Koru founded?",
+            "answer": "Koru was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "EDU",
+        "TTCF",
+        "PLTR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

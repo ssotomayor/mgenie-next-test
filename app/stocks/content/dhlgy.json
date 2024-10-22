@@ -1,0 +1,99 @@
+{
+    "ticker": "DHLGY",
+    "name": "Deutsche Post AG",
+    "description": "Deutsche Post AG, commonly known as DHL, is a global leader in logistics and mail services, operating in over 220 countries and territories worldwide. Founded in 1995, the company has established itself as a vital player in the industry, providing comprehensive solutions that encompass international express delivery, freight transportation, supply chain management, and e-commerce logistics. DHL is renowned for its commitment to sustainable logistics, utilizing advanced technologies and innovative practices to minimize its environmental impact. The company aims to achieve zero emissions by 2050, implementing initiatives such as electric vehicles and green packaging solutions. DHL operates several divisions, including DHL Express, DHL Parcel, DHL eCommerce Solutions, and DHL Freight, each serving distinct market needs. With a strong focus on customer satisfaction, DHL leverages its extensive network and expertise to deliver reliable and efficient services tailored to various industries. The company's mission is to connect people and improve lives through its logistics solutions, fostering economic growth and enhancing global trade.",
+    "industry": [
+        "Logistics",
+        "Transportation"
+    ],
+    "headquarters": "Bonn, Germany",
+    "founded": "1995",
+    "website": "https://www.dhl.com",
+    "ceo": "Frank Appel",
+    "social_media": {
+        "twitter": "https://twitter.com/dhl",
+        "linkedin": "https://www.linkedin.com/company/deutsche-post-dhl-group",
+        "instagram": "https://www.instagram.com/dhlglobal/"
+    },
+    "investor_relations": "https://investors.dhl.com",
+    "key_executives": [
+        {
+            "name": "Frank Appel",
+            "position": "CEO"
+        },
+        {
+            "name": "John Pearson",
+            "position": "CEO, DHL Express"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Express Delivery",
+            "products": [
+                "International Express",
+                "Domestic Express"
+            ]
+        },
+        {
+            "category": "Freight Services",
+            "products": [
+                "Air Freight",
+                "Ocean Freight",
+                "Road Freight"
+            ]
+        },
+        {
+            "category": "Supply Chain Management",
+            "products": [
+                "Warehousing",
+                "Distribution",
+                "Customs Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Deutsche Post AG | Global Logistics and Mail Services",
+        "meta_description": "Explore Deutsche Post AG, a leader in logistics and mail services. Discover DHL's innovative solutions, commitment to sustainability, and global reach.",
+        "keywords": [
+            "DHL",
+            "Logistics",
+            "Express Delivery",
+            "Supply Chain Management",
+            "E-commerce Logistics",
+            "Transportation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does DHL offer?",
+            "answer": "DHL offers international express delivery, freight transportation, supply chain management, and e-commerce logistics."
+        },
+        {
+            "question": "Who is the CEO of Deutsche Post AG?",
+            "answer": "Frank Appel is the CEO of Deutsche Post AG."
+        },
+        {
+            "question": "Where is DHL headquartered?",
+            "answer": "DHL is headquartered in Bonn, Germany."
+        },
+        {
+            "question": "What is DHL's commitment to sustainability?",
+            "answer": "DHL aims to achieve zero emissions by 2050 through initiatives like electric vehicles and green logistics."
+        },
+        {
+            "question": "When was DHL founded?",
+            "answer": "DHL was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "UPS",
+        "FDX",
+        "RCL"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "TGT",
+        "WMT",
+        "FDX"
+    ]
+}

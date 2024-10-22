@@ -1,0 +1,102 @@
+{
+    "ticker": "GSK",
+    "name": "GlaxoSmithKline plc",
+    "description": "GlaxoSmithKline plc (GSK) is a global healthcare company that focuses on the research, development, and manufacturing of pharmaceuticals, vaccines, and consumer healthcare products. Founded in 2000 through the merger of Glaxo Wellcome and SmithKline Beecham, GSK is headquartered in Brentford, London, United Kingdom. The company operates across three main business segments: Pharmaceuticals, Vaccines, and Consumer Healthcare. GSK's pharmaceutical division is dedicated to producing medicines that address a range of conditions, including respiratory diseases, HIV, and oncology. Their vaccines division is known for developing and producing a variety of vaccines that protect against infectious diseases such as influenza, meningitis, and hepatitis. GSK also offers an extensive portfolio of consumer health products, including over-the-counter medications, oral health products, and wellness supplements. GSK is committed to innovation and invests heavily in research and development to discover new treatments and improve existing ones. With a strong emphasis on sustainability and social responsibility, GSK aims to make a positive impact on global health by ensuring access to medicines and vaccines in underserved populations. The company continues to evolve, focusing on digital health technologies and personalized medicine to enhance patient outcomes and healthcare delivery.",
+    "industry": [
+        "Pharmaceuticals",
+        "Healthcare",
+        "Biotechnology"
+    ],
+    "headquarters": "Brentford, London, United Kingdom",
+    "founded": "2000",
+    "website": "https://www.gsk.com",
+    "ceo": "Emma Walmsley",
+    "social_media": {
+        "twitter": "https://twitter.com/GSK",
+        "linkedin": "https://www.linkedin.com/company/glaxosmithkline/"
+    },
+    "investor_relations": "https://www.gsk.com/en-gb/investors/",
+    "key_executives": [
+        {
+            "name": "Emma Walmsley",
+            "position": "CEO"
+        },
+        {
+            "name": "Iain Mackay",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pharmaceuticals",
+            "products": [
+                "Seretide",
+                "Tafinlar",
+                "Jemperli"
+            ]
+        },
+        {
+            "category": "Vaccines",
+            "products": [
+                "Shingrix",
+                "Synflorix",
+                "Bexsero"
+            ]
+        },
+        {
+            "category": "Consumer Healthcare",
+            "products": [
+                "Sensodyne",
+                "Panadol",
+                "Voltaren"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GlaxoSmithKline plc | Global Healthcare Innovations",
+        "meta_description": "Explore GlaxoSmithKline plc, a leading global healthcare company dedicated to delivering innovative pharmaceuticals, vaccines, and consumer health products.",
+        "keywords": [
+            "GlaxoSmithKline",
+            "Pharmaceuticals",
+            "Vaccines",
+            "Healthcare",
+            "Consumer Health",
+            "Emma Walmsley",
+            "GSK"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does GSK specialize in?",
+            "answer": "GSK specializes in pharmaceuticals, vaccines, and consumer healthcare products."
+        },
+        {
+            "question": "Who is the CEO of GSK?",
+            "answer": "Emma Walmsley is the CEO of GlaxoSmithKline plc."
+        },
+        {
+            "question": "Where is GSK headquartered?",
+            "answer": "GSK is headquartered in Brentford, London, United Kingdom."
+        },
+        {
+            "question": "What are GSK's main product categories?",
+            "answer": "GSK's main product categories include Pharmaceuticals, Vaccines, and Consumer Healthcare."
+        },
+        {
+            "question": "When was GSK founded?",
+            "answer": "GSK was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "MRK",
+        "NVS",
+        "AZN"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "ABBV",
+        "BMY",
+        "SNY"
+    ]
+}

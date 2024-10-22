@@ -1,0 +1,89 @@
+{
+    "ticker": "JMHI",
+    "name": "Jumio Corporation",
+    "description": "Jumio Corporation is a leading provider of AI-powered identity verification and authentication solutions. Founded in 2010, Jumio aims to help businesses around the globe mitigate fraud and ensure compliance by verifying the identities of their users in real-time. The company's advanced technology leverages machine learning and computer vision to analyze thousands of data points, ensuring that users are who they claim to be. Jumio's platform supports a wide range of identity documents, including passports, driver's licenses, and ID cards, and is utilized in various sectors, including financial services, online gaming, and e-commerce. By prioritizing user experience, Jumio provides a seamless verification process that enhances customer onboarding while reducing friction. The company's commitment to innovation and security has positioned it as a trusted partner for organizations looking to enhance their identity verification processes. With a strong emphasis on data privacy and regulatory compliance, Jumio adheres to stringent security standards, making it a go-to solution for businesses that require reliable and efficient identity verification.",
+    "industry": [
+        "Technology",
+        "Cybersecurity"
+    ],
+    "headquarters": "Palo Alto, California, USA",
+    "founded": "2010",
+    "website": "https://www.jumio.com",
+    "ceo": "Robert Prigge",
+    "social_media": {
+        "twitter": "https://twitter.com/jumio",
+        "linkedin": "https://www.linkedin.com/company/jumio",
+        "facebook": "https://www.facebook.com/jumio"
+    },
+    "investor_relations": "https://www.jumio.com/investors/",
+    "key_executives": [
+        {
+            "name": "Robert Prigge",
+            "position": "CEO"
+        },
+        {
+            "name": "Gavin E. M. R. S. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Identity Verification",
+            "products": [
+                "Jumio Identity Verification",
+                "Jumio Authentication"
+            ]
+        },
+        {
+            "category": "Fraud Detection",
+            "products": [
+                "Jumio Fraud Detection Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Jumio Corporation | AI-Powered Identity Verification Solutions",
+        "meta_description": "Discover Jumio Corporation, a leader in AI-powered identity verification and authentication. Explore Jumio's innovative solutions designed to reduce fraud and enhance compliance.",
+        "keywords": [
+            "Jumio",
+            "Identity Verification",
+            "Fraud Prevention",
+            "AI Solutions",
+            "Compliance",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Jumio specialize in?",
+            "answer": "Jumio specializes in AI-powered identity verification and authentication solutions."
+        },
+        {
+            "question": "Who is the CEO of Jumio?",
+            "answer": "Robert Prigge is the CEO of Jumio Corporation."
+        },
+        {
+            "question": "Where is Jumio headquartered?",
+            "answer": "Jumio is headquartered in Palo Alto, California, USA."
+        },
+        {
+            "question": "What industries does Jumio serve?",
+            "answer": "Jumio serves various industries including financial services, online gaming, and e-commerce."
+        },
+        {
+            "question": "When was Jumio founded?",
+            "answer": "Jumio was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "IDN",
+        "MFA",
+        "TRU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

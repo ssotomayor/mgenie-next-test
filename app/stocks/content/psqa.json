@@ -1,0 +1,87 @@
+{
+    "ticker": "PSQA",
+    "name": "ProSphere Technologies, Inc.",
+    "description": "ProSphere Technologies, Inc. is an innovative provider of IT solutions and services, focusing on delivering high-quality technology solutions to government and commercial clients. Founded in 2010 and headquartered in Alexandria, Virginia, ProSphere specializes in software development, cloud computing, cybersecurity, and IT consulting. The company's mission is to empower organizations to achieve their goals through smart technology solutions that enhance operational efficiency and security. ProSphere has established a strong reputation for its agile methodologies, which allow for rapid delivery and adaptability to changing client needs. Their diverse portfolio includes custom software development, systems integration, and IT infrastructure management, catering to a wide range of industries including defense, federal agencies, and commercial enterprises. With a commitment to excellence and customer satisfaction, ProSphere leverages the latest technologies to provide innovative solutions that meet the complex demands of its clients. The company is also dedicated to fostering a culture of collaboration and continuous improvement among its team members, ensuring that they stay at the forefront of the technology landscape.",
+    "industry": [
+        "Information Technology",
+        "Cybersecurity",
+        "Consulting"
+    ],
+    "headquarters": "Alexandria, Virginia, USA",
+    "founded": "2010",
+    "website": "https://www.prosphere.com",
+    "ceo": "John Doe",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/prosphere-technologies"
+    },
+    "investor_relations": "https://www.prosphere.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "John Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Solutions",
+            "products": [
+                "Custom Software Development",
+                "Cloud Solutions",
+                "Cybersecurity Services"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "IT Consulting",
+                "Systems Integration"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ProSphere Technologies, Inc. | Innovative IT Solutions and Services",
+        "meta_description": "Explore ProSphere Technologies, Inc., a leader in IT solutions and services. Discover how ProSphere empowers organizations with innovative technology for success.",
+        "keywords": [
+            "ProSphere",
+            "IT Solutions",
+            "Cybersecurity",
+            "Software Development",
+            "Cloud Computing",
+            "Consulting Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ProSphere offer?",
+            "answer": "ProSphere offers IT solutions including custom software development, cloud computing, cybersecurity services, and IT consulting."
+        },
+        {
+            "question": "Who is the CEO of ProSphere?",
+            "answer": "John Doe is the CEO of ProSphere Technologies, Inc."
+        },
+        {
+            "question": "Where is ProSphere headquartered?",
+            "answer": "ProSphere is headquartered in Alexandria, Virginia, USA."
+        },
+        {
+            "question": "When was ProSphere founded?",
+            "answer": "ProSphere was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "CSRA",
+        "MAXIMUS",
+        "CACI",
+        "SAIC"
+    ],
+    "related_stocks": [
+        "IBM",
+        "MSFT",
+        "ORCL",
+        "INTC"
+    ]
+}

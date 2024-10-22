@@ -1,0 +1,89 @@
+{
+    "ticker": "JBL",
+    "name": "Jabil Inc.",
+    "description": "Jabil Inc. is a global leader in advanced manufacturing solutions, providing comprehensive electronics design, production, and supply chain services. Founded in 1966 and headquartered in St. Petersburg, Florida, Jabil has established itself as a key partner to many of the world's leading brands across various industries, including healthcare, automotive, aerospace, and consumer electronics. The company operates in a diverse range of markets, offering innovative and efficient solutions that drive customer success. Jabil's capabilities include product design, engineering, manufacturing, and logistics, allowing it to deliver high-quality products at scale. With a strong focus on sustainability and operational excellence, Jabil is dedicated to reducing its environmental footprint while delivering value to its customers. Jabil's extensive global footprint includes over 100 facilities in 30 countries, enabling it to leverage local expertise and resources to meet the dynamic needs of its clients. The company is committed to continuous improvement and innovation, investing in advanced technologies such as automation and IoT to enhance its manufacturing processes. Jabil's mission is to empower customers by providing exceptional services and solutions that enhance their competitiveness in the marketplace.",
+    "industry": [
+        "Manufacturing",
+        "Electronics"
+    ],
+    "headquarters": "St. Petersburg, Florida, USA",
+    "founded": "1966",
+    "website": "https://www.jabil.com",
+    "ceo": "Mark Mondello",
+    "social_media": {
+        "twitter": "https://twitter.com/Jabil",
+        "linkedin": "https://www.linkedin.com/company/jabil/"
+    },
+    "investor_relations": "https://investor.jabil.com",
+    "key_executives": [
+        {
+            "name": "Mark Mondello",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael E. K. McGarry",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electronics Manufacturing Services",
+            "products": [
+                "Printed Circuit Board Assembly",
+                "Box Build Services"
+            ]
+        },
+        {
+            "category": "Supply Chain Solutions",
+            "products": [
+                "Logistics Management",
+                "Procurement Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Jabil Inc. | Advanced Manufacturing Solutions",
+        "meta_description": "Explore Jabil Inc., a leader in advanced manufacturing and supply chain solutions. Discover our services and commitment to innovation and sustainability.",
+        "keywords": [
+            "Jabil",
+            "Electronics Manufacturing",
+            "Supply Chain Solutions",
+            "Advanced Manufacturing",
+            "Contract Manufacturing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Jabil do?",
+            "answer": "Jabil provides advanced manufacturing services and supply chain solutions across various industries."
+        },
+        {
+            "question": "Who is the CEO of Jabil?",
+            "answer": "Mark Mondello is the CEO of Jabil Inc."
+        },
+        {
+            "question": "Where is Jabil headquartered?",
+            "answer": "Jabil is headquartered in St. Petersburg, Florida, USA."
+        },
+        {
+            "question": "What are Jabil's main services?",
+            "answer": "Jabil's main services include electronics manufacturing, supply chain management, and product design."
+        },
+        {
+            "question": "When was Jabil founded?",
+            "answer": "Jabil was founded in 1966."
+        }
+    ],
+    "competitors": [
+        "FOXCONN",
+        "Flex",
+        "Celestica",
+        "Sanmina"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

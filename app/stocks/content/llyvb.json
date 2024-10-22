@@ -1,0 +1,104 @@
+{
+    "ticker": "LLYVB",
+    "name": "Eli Lilly and Company",
+    "description": "Eli Lilly and Company is a global healthcare leader focused on delivering innovative medicines that meet the diverse needs of patients worldwide. Founded in 1876 by Colonel Eli Lilly, the company has a rich history of scientific discovery and a commitment to improving patient outcomes through cutting-edge research and development. Eli Lilly is renowned for its contributions to diabetes care, oncology, immunology, and neurodegenerative diseases. Its portfolio includes well-known products such as insulin for diabetes management, cancer therapies like Verzenio and Taltz, as well as treatments for Alzheimer's disease. The company's dedication to research is evident in its extensive pipeline of new therapies aimed at addressing unmet medical needs. With a strong emphasis on sustainability and corporate responsibility, Eli Lilly actively engages in initiatives to enhance global health and access to medicine. The company operates in more than 120 countries and continues to invest in partnerships with healthcare providers and organizations to drive innovation and improve health outcomes. Eli Lilly's mission is to make life better for people around the world by transforming scientific breakthroughs into meaningful treatments.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "1876",
+    "website": "https://www.lilly.com",
+    "ceo": "David A. Ricks",
+    "social_media": {
+        "twitter": "https://twitter.com/lillypad",
+        "linkedin": "https://www.linkedin.com/company/eli-lilly-and-company/",
+        "instagram": "https://www.instagram.com/lillypad/"
+    },
+    "investor_relations": "https://investor.lilly.com",
+    "key_executives": [
+        {
+            "name": "David A. Ricks",
+            "position": "CEO"
+        },
+        {
+            "name": "Josh Smiley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Diabetes Care",
+            "products": [
+                "Humalog",
+                "Trulicity"
+            ]
+        },
+        {
+            "category": "Oncology",
+            "products": [
+                "Verzenio",
+                "Cyramza"
+            ]
+        },
+        {
+            "category": "Immunology",
+            "products": [
+                "Taltz",
+                "Olumiant"
+            ]
+        },
+        {
+            "category": "Neurodegenerative Diseases",
+            "products": [
+                "Donanemab"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eli Lilly and Company | Innovative Medicines for Patients",
+        "meta_description": "Explore Eli Lilly and Company, a leader in pharmaceuticals committed to delivering innovative medicines for diabetes, oncology, and more.",
+        "keywords": [
+            "Eli Lilly",
+            "Pharmaceuticals",
+            "Diabetes Care",
+            "Oncology",
+            "Immunology",
+            "Neurodegenerative Diseases"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Eli Lilly known for?",
+            "answer": "Eli Lilly is known for its innovative medicines in diabetes care, oncology, immunology, and neurodegenerative diseases."
+        },
+        {
+            "question": "Who is the CEO of Eli Lilly?",
+            "answer": "David A. Ricks is the CEO of Eli Lilly and Company."
+        },
+        {
+            "question": "Where is Eli Lilly headquartered?",
+            "answer": "Eli Lilly is headquartered in Indianapolis, Indiana, USA."
+        },
+        {
+            "question": "What are some of Eli Lilly's main products?",
+            "answer": "Main products include Humalog, Trulicity, Verzenio, Taltz, and Donanemab."
+        },
+        {
+            "question": "When was Eli Lilly founded?",
+            "answer": "Eli Lilly was founded in 1876."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "ABBV",
+        "NVS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

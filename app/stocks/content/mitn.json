@@ -1,0 +1,88 @@
+{
+    "ticker": "MITN",
+    "name": "Mitchell International, Inc.",
+    "description": "Mitchell International, Inc. is a leading provider of technology and information solutions for the Property & Casualty (P&C) insurance and collision repair industries. Established in 1946, Mitchell has a rich history of innovation and customer service, driven by a mission to simplify complex processes through technology. The company's core offerings include claims management systems, automotive repair information, and advanced analytics that empower insurers and repair facilities to optimize their operations and enhance customer satisfaction. Mitchell's flagship products, such as the Mitchell Cloud and the Mitchell RepairCenter, are designed to streamline workflows and improve collaboration between insurers and repairers. The company also provides comprehensive data solutions that leverage artificial intelligence and machine learning to deliver actionable insights, helping clients make informed decisions and mitigate risks. As the insurance landscape evolves, Mitchell continues to invest in cutting-edge technologies and services that support digital transformation and drive efficiencies in the claims process. With a strong commitment to excellence, Mitchell International aims to lead the industry in delivering innovative solutions that create value for its customers and stakeholders.",
+    "industry": [
+        "Insurance Technology",
+        "Automotive Repair"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "1946",
+    "website": "https://www.mitchell.com",
+    "ceo": "Alex Sun",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/mitchell-international/"
+    },
+    "investor_relations": "https://www.mitchell.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Alex Sun",
+            "position": "CEO"
+        },
+        {
+            "name": "Jim O'Connor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Claims Management",
+            "products": [
+                "Mitchell Cloud",
+                "Mitchell WorkCenter"
+            ]
+        },
+        {
+            "category": "Automotive Repair",
+            "products": [
+                "Mitchell RepairCenter",
+                "Collision Repair Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Mitchell International, Inc. | Solutions for Insurance and Automotive Industries",
+        "meta_description": "Explore Mitchell International, Inc., a leader in technology solutions for the insurance and automotive sectors. Discover innovative products and services that streamline claims management and automotive repair.",
+        "keywords": [
+            "Mitchell International",
+            "Insurance Technology",
+            "Claims Management",
+            "Automotive Repair",
+            "Collision Repair",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Mitchell International specialize in?",
+            "answer": "Mitchell International specializes in technology and information solutions for the property & casualty insurance and collision repair industries."
+        },
+        {
+            "question": "Who is the CEO of Mitchell International?",
+            "answer": "Alex Sun is the CEO of Mitchell International, Inc."
+        },
+        {
+            "question": "Where is Mitchell International headquartered?",
+            "answer": "Mitchell International is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What are the main products offered by Mitchell?",
+            "answer": "Mitchell's main products include claims management systems and automotive repair solutions."
+        },
+        {
+            "question": "When was Mitchell International founded?",
+            "answer": "Mitchell International was founded in 1946."
+        }
+    ],
+    "competitors": [
+        "CNC",
+        "CARR",
+        "KNSY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

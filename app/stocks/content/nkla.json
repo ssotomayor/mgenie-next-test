@@ -1,0 +1,90 @@
+{
+    "ticker": "NKLA",
+    "name": "Nikola Corporation",
+    "description": "Nikola Corporation is a pioneering company in the clean transportation sector, focusing on the development and production of electric and hydrogen-powered vehicles. Founded in 2014 by Trevor Milton, Nikola aims to revolutionize the trucking and commercial vehicle markets by providing zero-emissions solutions that significantly reduce the carbon footprint of freight transport. The company gained attention with its ambitious plans for hydrogen fuel cell technology and electric battery vehicles, including the Nikola Tre, a battery-electric truck designed for regional transport, and the Nikola Two, a hydrogen fuel cell semi-truck built for long-haul routes. Nikola also aims to create a comprehensive infrastructure for hydrogen fueling stations to support its vehicles, facilitating the transition to sustainable transport. The company's mission is to lead the charge towards a sustainable future by harnessing innovative technologies in the automotive industry, contributing to cleaner air and a reduction in greenhouse gas emissions. However, Nikola's journey has not been without challenges, including scrutiny over its business practices and technology claims, which the company is striving to overcome as it moves forward with its vision.",
+    "industry": [
+        "Automotive",
+        "Transportation"
+    ],
+    "headquarters": "Phoenix, Arizona, USA",
+    "founded": "2014",
+    "website": "https://nikolamotor.com",
+    "ceo": "Mark Russell",
+    "social_media": {
+        "twitter": "https://twitter.com/NikolaCorp",
+        "linkedin": "https://www.linkedin.com/company/nikolacorp/",
+        "instagram": "https://www.instagram.com/nikolacorp/",
+        "youtube": "https://www.youtube.com/c/NikolaMotorCompany"
+    },
+    "investor_relations": "https://investors.nikolamotor.com",
+    "key_executives": [
+        {
+            "name": "Mark Russell",
+            "position": "CEO"
+        },
+        {
+            "name": "Kim Brady",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "Nikola Tre",
+                "Nikola Two"
+            ]
+        },
+        {
+            "category": "Hydrogen Solutions",
+            "products": [
+                "Hydrogen Fuel Cell Trucks"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nikola Corporation | Revolutionizing Clean Transportation",
+        "meta_description": "Explore Nikola Corporation, a leader in electric and hydrogen-powered vehicles. Discover their innovative technologies and commitment to sustainable transport solutions.",
+        "keywords": [
+            "Nikola",
+            "Electric Vehicles",
+            "Hydrogen Trucks",
+            "Sustainable Transportation",
+            "Zero Emissions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Nikola known for?",
+            "answer": "Nikola is known for its electric and hydrogen-powered vehicles, particularly in the trucking industry."
+        },
+        {
+            "question": "Who is the CEO of Nikola?",
+            "answer": "Mark Russell is the CEO of Nikola Corporation."
+        },
+        {
+            "question": "Where is Nikola headquartered?",
+            "answer": "Nikola is headquartered in Phoenix, Arizona, USA."
+        },
+        {
+            "question": "What are Nikola's main products?",
+            "answer": "Nikola's main products include the Nikola Tre and Nikola Two electric trucks, along with hydrogen fuel cell solutions."
+        },
+        {
+            "question": "When was Nikola founded?",
+            "answer": "Nikola was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "TSLA",
+        "F",
+        "BYDDY",
+        "GM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

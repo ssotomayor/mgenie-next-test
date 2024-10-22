@@ -1,0 +1,88 @@
+{
+    "ticker": "CFB",
+    "name": "CF Bankshares Inc.",
+    "description": "CF Bankshares Inc. is a financial services company headquartered in Columbus, Ohio. Established in 1996, the company operates through its wholly-owned subsidiary, CF Bank, which provides a wide range of banking services to individuals and businesses. CF Bank offers various products including checking and savings accounts, mortgages, personal loans, commercial lending, and treasury management services. The bank is committed to delivering exceptional customer service and developing personalized banking solutions tailored to the specific needs of its clients. CF Bank prides itself on being a community-focused institution, actively participating in local initiatives and supporting economic development in the regions it serves. With a strong emphasis on technology, CF Bank is continually enhancing its digital banking capabilities, ensuring that customers can access their accounts and conduct transactions seamlessly online. The company's mission is to empower customers through financial education and personalized service, ultimately fostering long-term relationships built on trust and integrity. As CF Bank continues to grow, it remains dedicated to its core values of community involvement, client-centric service, and innovative banking solutions.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Columbus, Ohio, USA",
+    "founded": "1996",
+    "website": "https://www.cfbancorp.com",
+    "ceo": "William A. H. Heller",
+    "social_media": {
+        "twitter": "https://twitter.com/CFBank",
+        "linkedin": "https://www.linkedin.com/company/cf-bankshares/"
+    },
+    "investor_relations": "https://www.cfbancorp.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "William A. H. Heller",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark A. Dyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Commercial Loans",
+                "Treasury Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CF Bankshares Inc. | Community-Focused Financial Services",
+        "meta_description": "Explore CF Bankshares Inc., a community-focused financial institution offering a range of personalized banking services for individuals and businesses.",
+        "keywords": [
+            "CF Bankshares",
+            "CF Bank",
+            "Banking",
+            "Financial Services",
+            "Personal Banking",
+            "Commercial Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CF Bank offer?",
+            "answer": "CF Bank offers personal banking services, including checking and savings accounts, mortgages, and personal loans, as well as commercial banking services."
+        },
+        {
+            "question": "Who is the CEO of CF Bankshares?",
+            "answer": "William A. H. Heller is the CEO of CF Bankshares Inc."
+        },
+        {
+            "question": "Where is CF Bank headquartered?",
+            "answer": "CF Bank is headquartered in Columbus, Ohio, USA."
+        },
+        {
+            "question": "When was CF Bankshares founded?",
+            "answer": "CF Bankshares was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "FRC",
+        "HBAN",
+        "CFR",
+        "KEY"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

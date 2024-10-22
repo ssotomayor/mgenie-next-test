@@ -1,0 +1,91 @@
+{
+    "ticker": "ENG",
+    "name": "ENGlobal Corporation",
+    "description": "ENGlobal Corporation is a leading provider of engineering and project management services in the energy sector, specializing in the oil, gas, and renewable energy industries. Founded in 1985 and headquartered in Houston, Texas, ENGlobal offers a comprehensive range of services including engineering, procurement, construction management, and automation solutions. The company is recognized for its expertise in delivering complex projects on time and within budget, driving operational efficiency and safety. With a strong focus on technological innovation, ENGlobal leverages advanced engineering practices and state-of-the-art software to optimize project delivery and enhance client satisfaction. Its diverse clientele includes major oil and gas companies, government entities, and renewable energy developers. ENGlobal is committed to sustainability and plays a crucial role in supporting the transition to cleaner energy sources through its work in renewable energy projects. The company aims to provide value to its customers by combining technical proficiency with a collaborative approach to project execution, ensuring that all stakeholders are aligned throughout the project lifecycle.",
+    "industry": [
+        "Engineering",
+        "Energy"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1985",
+    "website": "https://www.englobal.com",
+    "ceo": "Mark A. Hess",
+    "social_media": {
+        "twitter": "https://twitter.com/ENGlobalCorp",
+        "linkedin": "https://www.linkedin.com/company/englobal-corporation/"
+    },
+    "investor_relations": "https://www.englobal.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Mark A. Hess",
+            "position": "CEO"
+        },
+        {
+            "name": "William J. Bock",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Engineering Services",
+            "products": [
+                "Project Management",
+                "Process Engineering",
+                "Electrical Engineering"
+            ]
+        },
+        {
+            "category": "Automation Services",
+            "products": [
+                "Control Systems",
+                "Instrumentation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ENGlobal Corporation | Engineering and Project Management Services",
+        "meta_description": "Explore ENGlobal Corporation, a leader in engineering and project management for the energy sector. Discover our services and commitment to innovative energy solutions.",
+        "keywords": [
+            "ENGlobal",
+            "Engineering",
+            "Project Management",
+            "Energy Services",
+            "Oil and Gas",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ENGlobal provide?",
+            "answer": "ENGlobal provides engineering, project management, procurement, and automation services for the energy sector."
+        },
+        {
+            "question": "Who is the CEO of ENGlobal?",
+            "answer": "Mark A. Hess is the CEO of ENGlobal Corporation."
+        },
+        {
+            "question": "Where is ENGlobal headquartered?",
+            "answer": "ENGlobal is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What industries does ENGlobal serve?",
+            "answer": "ENGlobal serves the oil, gas, and renewable energy industries."
+        },
+        {
+            "question": "When was ENGlobal founded?",
+            "answer": "ENGlobal was founded in 1985."
+        }
+    ],
+    "competitors": [
+        "FLR",
+        "KBR",
+        "WOR",
+        "HII"
+    ],
+    "related_stocks": [
+        "SLB",
+        "VLO",
+        "MPC",
+        "XOM"
+    ]
+}

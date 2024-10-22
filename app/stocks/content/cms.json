@@ -1,0 +1,90 @@
+{
+    "ticker": "CMS",
+    "name": "CMS Energy Corporation",
+    "description": "CMS Energy Corporation is a leading energy company based in the United States, primarily engaged in the generation and distribution of electricity and the supply of natural gas. Founded in 1987 and headquartered in Jackson, Michigan, CMS Energy operates through its subsidiaries, including Consumers Energy, which serves over 6 million residents in Michigan. The company is committed to providing reliable energy while advancing its clean energy initiatives, focusing on sustainability and reducing carbon emissions. CMS Energy is actively transitioning to a cleaner energy future by investing in renewable energy sources such as solar and wind power, aiming to achieve a net zero carbon footprint by 2040. The company prioritizes energy efficiency and has implemented various programs to help customers reduce energy consumption. With a strong emphasis on innovation and community engagement, CMS Energy plays a vital role in advancing smart grid technology and enhancing energy sustainability in the regions it serves.",
+    "industry": [
+        "Energy",
+        "Utilities"
+    ],
+    "headquarters": "Jackson, Michigan, USA",
+    "founded": "1987",
+    "website": "https://www.cmsenergy.com",
+    "ceo": "Patricia Poppe",
+    "social_media": {
+        "twitter": "https://twitter.com/cmsenergy",
+        "linkedin": "https://www.linkedin.com/company/cms-energy/"
+    },
+    "investor_relations": "https://investors.cmsenergy.com",
+    "key_executives": [
+        {
+            "name": "Patricia Poppe",
+            "position": "CEO"
+        },
+        {
+            "name": "David A. Mengebier",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Natural Gas Plants",
+                "Renewable Energy Sources"
+            ]
+        },
+        {
+            "category": "Natural Gas Distribution",
+            "products": [
+                "Natural Gas Supply",
+                "Energy Efficiency Programs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CMS Energy Corporation | Leading Energy Provider in Michigan",
+        "meta_description": "Learn about CMS Energy Corporation, a prominent energy company dedicated to providing reliable electricity and natural gas while focusing on sustainable practices and renewable energy.",
+        "keywords": [
+            "CMS Energy",
+            "Electricity",
+            "Natural Gas",
+            "Renewable Energy",
+            "Sustainability",
+            "Consumers Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CMS Energy do?",
+            "answer": "CMS Energy is involved in the generation and distribution of electricity and the supply of natural gas, primarily in Michigan."
+        },
+        {
+            "question": "Who is the CEO of CMS Energy?",
+            "answer": "Patricia Poppe is the CEO of CMS Energy Corporation."
+        },
+        {
+            "question": "Where is CMS Energy headquartered?",
+            "answer": "CMS Energy is headquartered in Jackson, Michigan, USA."
+        },
+        {
+            "question": "What are CMS Energy's main initiatives?",
+            "answer": "CMS Energy is focused on sustainability and transitioning to renewable energy sources, aiming for a net zero carbon footprint by 2040."
+        },
+        {
+            "question": "When was CMS Energy founded?",
+            "answer": "CMS Energy was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "DTE",
+        "ED",
+        "EXC",
+        "NEE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

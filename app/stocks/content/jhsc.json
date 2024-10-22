@@ -1,0 +1,93 @@
+{
+    "ticker": "JHSC",
+    "name": "John Hancock Investment Management",
+    "description": "John Hancock Investment Management is a leading provider of investment management and financial services, operating as a subsidiary of Manulife Financial Corporation. Founded in 1862, the company has a long-standing reputation for delivering innovative investment solutions and financial products to individuals and institutions. With a focus on long-term growth, John Hancock offers a diverse range of investment strategies across various asset classes, including equities, fixed income, and alternatives. The firm is committed to responsible investing, integrating environmental, social, and governance (ESG) factors into its investment processes to align with the values of its clients. John Hancock is also known for its wealth management services, providing comprehensive solutions that include investment advice, retirement planning, and estate planning. Leveraging advanced technology and a team of experienced professionals, the company aims to help clients achieve their financial goals while navigating the complexities of today's investment landscape. The mission of John Hancock Investment Management is to empower clients to make informed investment decisions and build lasting wealth through tailored investment strategies and exceptional service.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "1862",
+    "website": "https://www.johnhancock.com",
+    "ceo": "Marianne Harrison",
+    "social_media": {
+        "twitter": "https://twitter.com/JohnHancock",
+        "linkedin": "https://www.linkedin.com/company/john-hancock/",
+        "facebook": "https://www.facebook.com/JohnHancock/"
+    },
+    "investor_relations": "https://www.johnhancock.com/investor-relations.html",
+    "key_executives": [
+        {
+            "name": "Marianne Harrison",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha D. Voss",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Strategies",
+            "products": [
+                "Equity Funds",
+                "Fixed Income Funds",
+                "Alternative Investments"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Retirement Planning",
+                "Estate Planning",
+                "Investment Advisory"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "John Hancock Investment Management | Investment Solutions and Wealth Management",
+        "meta_description": "Explore John Hancock Investment Management's innovative investment solutions and wealth management services. Learn how we can help you achieve your financial goals.",
+        "keywords": [
+            "John Hancock",
+            "Investment Management",
+            "Wealth Management",
+            "Financial Services",
+            "Retirement Planning",
+            "ESG Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does John Hancock Investment Management offer?",
+            "answer": "John Hancock Investment Management offers investment strategies, wealth management services, retirement planning, and estate planning."
+        },
+        {
+            "question": "Who is the CEO of John Hancock Investment Management?",
+            "answer": "Marianne Harrison is the CEO of John Hancock Investment Management."
+        },
+        {
+            "question": "Where is John Hancock headquartered?",
+            "answer": "John Hancock is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "What types of investment products are available?",
+            "answer": "John Hancock offers equity funds, fixed income funds, and alternative investments."
+        },
+        {
+            "question": "When was John Hancock founded?",
+            "answer": "John Hancock was founded in 1862."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "VFIAX",
+        "TROW",
+        "AMP"
+    ],
+    "related_stocks": [
+        "MFC",
+        "GS",
+        "MS",
+        "JPM"
+    ]
+}

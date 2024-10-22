@@ -1,0 +1,93 @@
+{
+    "ticker": "SO",
+    "name": "Southern Company",
+    "description": "Southern Company is one of the largest energy providers in the United States, serving approximately 9 million customers across the Southeast. Founded in 1925 and headquartered in Atlanta, Georgia, Southern Company operates through its subsidiaries, which include Georgia Power, Alabama Power, and Mississippi Power. The company is primarily engaged in the generation, transmission, and distribution of electricity, and it is known for its diverse energy portfolio, which includes nuclear, natural gas, coal, and renewable sources like solar and wind. Southern Company is committed to providing reliable and affordable energy while also advancing clean energy technologies and sustainability initiatives. The company invests heavily in infrastructure and innovative solutions to enhance grid resilience and reduce carbon emissions. Additionally, Southern Company is focused on integrating renewable energy into its operations and has set ambitious goals to achieve net-zero carbon emissions by 2050. With a strong emphasis on community engagement, Southern Company supports various programs and initiatives aimed at improving local economies and environmental stewardship.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1925",
+    "website": "https://www.southerncompany.com",
+    "ceo": "Thomas A. Fanning",
+    "social_media": {
+        "twitter": "https://twitter.com/southerncompany",
+        "linkedin": "https://www.linkedin.com/company/southern-company/",
+        "facebook": "https://www.facebook.com/southerncompany"
+    },
+    "investor_relations": "https://investors.southerncompany.com",
+    "key_executives": [
+        {
+            "name": "Thomas A. Fanning",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew W. Evans",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Nuclear",
+                "Natural Gas",
+                "Coal",
+                "Renewables"
+            ]
+        },
+        {
+            "category": "Energy Solutions",
+            "products": [
+                "Energy Efficiency Programs",
+                "Smart Grid Technology"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Southern Company | Leading Energy Provider in the Southeast",
+        "meta_description": "Explore Southern Company, a major energy provider committed to sustainable and clean energy solutions across the Southeast. Learn about our services, initiatives, and vision for a greener future.",
+        "keywords": [
+            "Southern Company",
+            "Energy Provider",
+            "Utilities",
+            "Clean Energy",
+            "Renewable Energy",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Southern Company do?",
+            "answer": "Southern Company is an energy provider that generates and distributes electricity to millions of customers across the Southeast."
+        },
+        {
+            "question": "Who is the CEO of Southern Company?",
+            "answer": "Thomas A. Fanning is the CEO of Southern Company."
+        },
+        {
+            "question": "Where is Southern Company headquartered?",
+            "answer": "Southern Company is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What types of energy does Southern Company produce?",
+            "answer": "Southern Company produces electricity from nuclear, natural gas, coal, and renewable sources."
+        },
+        {
+            "question": "When was Southern Company founded?",
+            "answer": "Southern Company was founded in 1925."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "EXC",
+        "XEL",
+        "AES"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

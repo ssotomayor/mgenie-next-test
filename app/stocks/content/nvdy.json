@@ -1,0 +1,93 @@
+{
+    "ticker": "NVDY",
+    "name": "NVIDIA Corporation",
+    "description": "NVIDIA Corporation is a global leader in artificial intelligence (AI) computing, graphics processing units (GPUs), and deep learning technologies. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, NVIDIA initially made its mark in the gaming industry with its innovative graphics cards, such as the GeForce series. Over the years, the company has expanded its focus to include AI, data center solutions, and autonomous vehicles. NVIDIA's GPUs power a wide range of applications, from gaming and professional visualization to high-performance computing and deep learning. With the rise of AI and machine learning, NVIDIA has positioned itself at the forefront of this technological revolution, providing tools and platforms like the NVIDIA CUDA parallel computing platform and the TensorRT inference optimizer. The company's commitment to research and development has led to significant advancements in AI capabilities, making it an essential player in fields such as healthcare, automotive, and robotics. NVIDIA continues to drive innovation with its cutting-edge technology solutions, aiming to shape the future of computing and AI applications.",
+    "industry": [
+        "Technology",
+        "Semiconductors",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1993",
+    "website": "https://www.nvidia.com",
+    "ceo": "Jensen Huang",
+    "social_media": {
+        "twitter": "https://twitter.com/nvidia",
+        "linkedin": "https://www.linkedin.com/company/nvidia/"
+    },
+    "investor_relations": "https://investor.nvidia.com/",
+    "key_executives": [
+        {
+            "name": "Jensen Huang",
+            "position": "CEO"
+        },
+        {
+            "name": "Colette Kress",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Graphics Processing Units",
+            "products": [
+                "GeForce RTX",
+                "Quadro RTX",
+                "Tesla"
+            ]
+        },
+        {
+            "category": "AI and Deep Learning",
+            "products": [
+                "NVIDIA AI Platform",
+                "TensorRT",
+                "NVIDIA DGX Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NVIDIA Corporation | AI Computing and Graphics Processing",
+        "meta_description": "Explore NVIDIA Corporation, a leader in AI computing and graphics technology. Discover NVIDIA's innovative products and its impact on gaming, AI, and deep learning.",
+        "keywords": [
+            "NVIDIA",
+            "AI Computing",
+            "Graphics Processing",
+            "Deep Learning",
+            "Jensen Huang",
+            "GeForce RTX",
+            "NVIDIA AI"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is NVIDIA known for?",
+            "answer": "NVIDIA is known for its graphics processing units (GPUs) and artificial intelligence computing technologies."
+        },
+        {
+            "question": "Who is the CEO of NVIDIA?",
+            "answer": "Jensen Huang is the CEO of NVIDIA Corporation."
+        },
+        {
+            "question": "Where is NVIDIA headquartered?",
+            "answer": "NVIDIA is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are NVIDIA's main products?",
+            "answer": "NVIDIA's main products include GeForce RTX GPUs, Quadro RTX, and AI platforms like TensorRT."
+        },
+        {
+            "question": "When was NVIDIA founded?",
+            "answer": "NVIDIA was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "AMD",
+        "INTC",
+        "TSM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

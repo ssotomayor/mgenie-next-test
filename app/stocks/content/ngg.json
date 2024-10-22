@@ -1,0 +1,89 @@
+{
+    "ticker": "NGG",
+    "name": "National Grid plc",
+    "description": "National Grid plc is a leading global utility company that plays a vital role in the energy sector, providing essential services in electricity and gas transmission and distribution. Established in 1990 and headquartered in London, United Kingdom, National Grid operates in the United Kingdom and the northeastern United States, serving millions of customers. The company is committed to ensuring that electricity and gas are delivered safely, reliably, and efficiently. National Grid manages and maintains critical energy infrastructure, including high-voltage electricity transmission networks and gas distribution networks, which are essential to the functioning of modern society. With a strong focus on sustainability, National Grid is actively investing in renewable energy sources and technologies to support the transition to a low-carbon economy. The company is also involved in innovative projects aimed at integrating clean energy solutions and enhancing energy efficiency. National Grid's mission is to connect people to the energy they need, while continuously pursuing advancements that support environmental stewardship and community engagement. The company is recognized for its commitment to reliability, customer service, and long-term value creation for shareholders.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1990",
+    "website": "https://www.nationalgrid.com",
+    "ceo": "John Pettigrew",
+    "social_media": {
+        "twitter": "https://twitter.com/nationalgrid",
+        "linkedin": "https://www.linkedin.com/company/national-grid/"
+    },
+    "investor_relations": "https://www.nationalgrid.com/investors",
+    "key_executives": [
+        {
+            "name": "John Pettigrew",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew G. McDonald",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Transmission",
+            "products": [
+                "High-Voltage Transmission Lines"
+            ]
+        },
+        {
+            "category": "Gas Distribution",
+            "products": [
+                "Gas Distribution Networks"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "National Grid plc | Leading Utility Company",
+        "meta_description": "Explore National Grid plc, a global leader in electricity and gas transmission. Discover our commitment to sustainability, innovation, and energy efficiency.",
+        "keywords": [
+            "National Grid",
+            "Utilities",
+            "Energy",
+            "Electricity",
+            "Gas",
+            "Renewable Energy",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does National Grid provide?",
+            "answer": "National Grid provides electricity and gas transmission and distribution services."
+        },
+        {
+            "question": "Where is National Grid headquartered?",
+            "answer": "National Grid is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "Who is the CEO of National Grid?",
+            "answer": "John Pettigrew is the CEO of National Grid plc."
+        },
+        {
+            "question": "When was National Grid founded?",
+            "answer": "National Grid was founded in 1990."
+        },
+        {
+            "question": "What is National Grid's commitment to sustainability?",
+            "answer": "National Grid is committed to investing in renewable energy and enhancing energy efficiency to support a low-carbon economy."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "FE",
+        "SO",
+        "AEP"
+    ],
+    "related_stocks": [
+        "ED",
+        "XEL",
+        "PEG",
+        "AWK"
+    ]
+}

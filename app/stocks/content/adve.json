@@ -1,0 +1,91 @@
+{
+    "ticker": "ADVE",
+    "name": "Advanced Energy Industries, Inc.",
+    "description": "Advanced Energy Industries, Inc. is a global leader in the design and manufacturing of innovative power and control technologies. Founded in 1981 and headquartered in Fort Collins, Colorado, the company specializes in providing advanced energy solutions for a wide range of industries, including semiconductor and solar photovoltaic manufacturing, industrial and medical equipment, and data centers. With a commitment to excellence, Advanced Energy offers a diverse portfolio of products that includes precision power conversion and control systems, as well as thermal management solutions. The company's technologies are critical in enhancing the efficiency and reliability of energy systems, thus driving the transition to more sustainable energy practices. Advanced Energy's mission is to empower its customers with innovative solutions that lead to improved performance while minimizing environmental impact. The company continues to invest heavily in research and development to ensure that it remains at the forefront of technological advancements in the energy sector.",
+    "industry": [
+        "Energy",
+        "Semiconductors",
+        "Manufacturing"
+    ],
+    "headquarters": "Fort Collins, Colorado, USA",
+    "founded": "1981",
+    "website": "https://www.advancedenergy.com",
+    "ceo": "Yuval Wasserman",
+    "social_media": {
+        "twitter": "https://twitter.com/AdvEnergy",
+        "linkedin": "https://www.linkedin.com/company/advanced-energy-industries/"
+    },
+    "investor_relations": "https://investors.advancedenergy.com",
+    "key_executives": [
+        {
+            "name": "Yuval Wasserman",
+            "position": "CEO"
+        },
+        {
+            "name": "Gregg E. B. Lutz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Power Solutions",
+            "products": [
+                "DC Power Supplies",
+                "RF Power Generators",
+                "Plasma Power Systems"
+            ]
+        },
+        {
+            "category": "Thermal Solutions",
+            "products": [
+                "Thermal Controllers",
+                "Cooling Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Advanced Energy Industries, Inc. | Power and Control Technologies",
+        "meta_description": "Explore Advanced Energy Industries, Inc., a leader in power and control technologies. Discover innovative energy solutions for various industries.",
+        "keywords": [
+            "Advanced Energy",
+            "Power Solutions",
+            "Energy Technologies",
+            "Thermal Management",
+            "Semiconductor Manufacturing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Advanced Energy do?",
+            "answer": "Advanced Energy specializes in power and control technologies for various industries including semiconductor manufacturing and solar energy."
+        },
+        {
+            "question": "Who is the CEO of Advanced Energy?",
+            "answer": "Yuval Wasserman is the CEO of Advanced Energy Industries, Inc."
+        },
+        {
+            "question": "Where is Advanced Energy headquartered?",
+            "answer": "Advanced Energy is headquartered in Fort Collins, Colorado, USA."
+        },
+        {
+            "question": "What products does Advanced Energy offer?",
+            "answer": "The main products include DC Power Supplies, RF Power Generators, Thermal Controllers, and Cooling Systems."
+        },
+        {
+            "question": "When was Advanced Energy founded?",
+            "answer": "Advanced Energy was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "FFIV",
+        "AMAT",
+        "LRCX",
+        "MRCY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA"
+    ]
+}

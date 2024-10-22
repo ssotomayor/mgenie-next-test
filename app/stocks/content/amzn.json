@@ -1,0 +1,94 @@
+{
+    "ticker": "AMZN",
+    "name": "Amazon.com, Inc.",
+    "description": "Amazon.com, Inc. is a global leader in e-commerce and cloud computing, founded by Jeff Bezos in 1994. Initially launched as an online bookstore, Amazon has since expanded its offerings to include a vast array of products and services, transforming the way consumers shop. The company is known for its customer-centric approach, which emphasizes convenience, low prices, and fast shipping. Amazon's retail platform features millions of products across countless categories, making it a go-to destination for online shoppers worldwide. In addition to its retail operations, Amazon has made significant strides in technology and cloud services through Amazon Web Services (AWS), which provides a comprehensive suite of cloud solutions for businesses of all sizes. AWS has become a critical revenue driver for the company, serving as a backbone for many online applications and services. Furthermore, Amazon has ventured into various sectors, including digital streaming with Amazon Prime Video, smart home technology with Alexa, and groceries with Amazon Fresh and Whole Foods Market. With a commitment to innovation and a focus on long-term growth, Amazon is continually exploring new business opportunities and technologies, striving to maintain its position as a pioneer in the digital marketplace.",
+    "industry": [
+        "E-commerce",
+        "Cloud Computing",
+        "Technology"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "1994",
+    "website": "https://www.amazon.com",
+    "ceo": "Andy Jassy",
+    "social_media": {
+        "twitter": "https://twitter.com/amazon",
+        "linkedin": "https://www.linkedin.com/company/amazon/"
+    },
+    "investor_relations": "https://ir.aboutamazon.com",
+    "key_executives": [
+        {
+            "name": "Andy Jassy",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Olsavsky",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "E-commerce",
+            "products": [
+                "Amazon Prime",
+                "Amazon Music",
+                "Kindle",
+                "Fire TV"
+            ]
+        },
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "Amazon Web Services",
+                "Amazon S3",
+                "Amazon EC2"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Amazon.com, Inc. | E-commerce and Cloud Computing Leader",
+        "meta_description": "Explore Amazon.com, Inc., the leader in e-commerce and cloud computing. Discover Amazon's innovative products, services, and commitment to customer satisfaction.",
+        "keywords": [
+            "Amazon",
+            "E-commerce",
+            "Cloud Computing",
+            "AWS",
+            "Amazon Prime",
+            "Online Shopping"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Amazon known for?",
+            "answer": "Amazon is known for its extensive e-commerce platform and its cloud computing services through AWS."
+        },
+        {
+            "question": "Who is the CEO of Amazon?",
+            "answer": "Andy Jassy is the CEO of Amazon.com, Inc."
+        },
+        {
+            "question": "Where is Amazon headquartered?",
+            "answer": "Amazon is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What are Amazon's main products?",
+            "answer": "Amazon's main products include Amazon Prime, Kindle, Fire TV, and AWS services."
+        },
+        {
+            "question": "When was Amazon founded?",
+            "answer": "Amazon was founded in 1994."
+        }
+    ],
+    "competitors": [
+        "WMT",
+        "EBAY",
+        "SHOP",
+        "NFLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "TSLA"
+    ]
+}

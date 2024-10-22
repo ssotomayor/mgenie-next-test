@@ -1,0 +1,90 @@
+{
+    "ticker": "QTUM",
+    "name": "Qtum Foundation",
+    "description": "Qtum Foundation is a blockchain technology company that aims to combine the best features of Bitcoin and Ethereum to create a robust platform for decentralized applications (dApps) and smart contracts. Founded in 2017, Qtum has developed a unique Proof-of-Stake consensus model that enhances scalability and efficiency while maintaining security and reliability. The Qtum blockchain enables developers to build smart contracts that can interact with existing blockchain ecosystems, making it versatile for a wide range of applications, from financial services to supply chain management. Qtum is particularly focused on creating a bridge between traditional businesses and blockchain technology, facilitating the adoption of decentralized solutions across various industries. The foundation also emphasizes community engagement and developer support through educational initiatives, hackathons, and grants to foster innovation within the blockchain space. With a commitment to ensuring a user-friendly experience and real-world applications, Qtum continues to evolve as a leading player in the blockchain industry.",
+    "industry": [
+        "Blockchain",
+        "Cryptocurrency"
+    ],
+    "headquarters": "Singapore",
+    "founded": "2017",
+    "website": "https://qtum.org",
+    "ceo": "Patrick Dai",
+    "social_media": {
+        "twitter": "https://twitter.com/QtumOfficial",
+        "linkedin": "https://www.linkedin.com/company/qtum/",
+        "medium": "https://qtum.medium.com/"
+    },
+    "investor_relations": "https://qtum.org/en/investors",
+    "key_executives": [
+        {
+            "name": "Patrick Dai",
+            "position": "CEO"
+        },
+        {
+            "name": "Jordan Earls",
+            "position": "Co-founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Platform",
+            "products": [
+                "Qtum Core",
+                "Qtum Wallet"
+            ]
+        },
+        {
+            "category": "Smart Contracts",
+            "products": [
+                "Qtum Smart Contracts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Qtum Foundation | Blockchain Technology and Smart Contracts",
+        "meta_description": "Explore Qtum Foundation, a leading blockchain platform integrating the best of Bitcoin and Ethereum for decentralized applications and smart contracts.",
+        "keywords": [
+            "Qtum",
+            "Blockchain",
+            "Smart Contracts",
+            "Cryptocurrency",
+            "Decentralized Applications",
+            "Proof-of-Stake"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Qtum?",
+            "answer": "Qtum is a blockchain platform that combines Bitcoin and Ethereum features to enable smart contracts and decentralized applications."
+        },
+        {
+            "question": "Who is the CEO of Qtum?",
+            "answer": "Patrick Dai is the CEO of the Qtum Foundation."
+        },
+        {
+            "question": "Where is Qtum headquartered?",
+            "answer": "Qtum is headquartered in Singapore."
+        },
+        {
+            "question": "What are the main products of Qtum?",
+            "answer": "Qtum's main products include the Qtum Core blockchain and the Qtum Wallet for managing cryptocurrency."
+        },
+        {
+            "question": "When was Qtum founded?",
+            "answer": "Qtum was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "ETH",
+        "BNB",
+        "ADA",
+        "SOL"
+    ],
+    "related_stocks": [
+        "BTC",
+        "XRP",
+        "LTC",
+        "DOT"
+    ]
+}

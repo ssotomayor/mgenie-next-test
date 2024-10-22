@@ -1,0 +1,88 @@
+{
+    "ticker": "ASMF",
+    "name": "Astra Space, Inc.",
+    "description": "Astra Space, Inc. is an American aerospace manufacturer and small satellite launch service provider founded in 2016. The company focuses on providing reliable, low-cost access to space for small satellites, supporting the burgeoning demand for satellite-based services in communications, Earth observation, and scientific research. Astra's innovative rocket design, which emphasizes simplicity and efficiency, aims to revolutionize the launch industry by making space more accessible to a broader range of customers, including commercial businesses, government agencies, and research institutions. The company has successfully conducted multiple test flights and is working towards achieving operational status with its launch vehicles. Astra's mission is to enable the next generation of space exploration and technology by drastically reducing the cost and complexity of satellite launches. The company believes that small satellites will play a critical role in the future of technology and aims to be a leader in this rapidly growing sector. With a strong engineering team and a commitment to innovation, Astra Space is poised to make significant contributions to the aerospace industry.",
+    "industry": [
+        "Aerospace",
+        "Space Technology"
+    ],
+    "headquarters": "Alameda, California, USA",
+    "founded": "2016",
+    "website": "https://www.astra.com",
+    "ceo": "Chris Kemp",
+    "social_media": {
+        "twitter": "https://twitter.com/Astra",
+        "linkedin": "https://www.linkedin.com/company/astra-space/",
+        "youtube": "https://www.youtube.com/c/AstraSpace"
+    },
+    "investor_relations": "https://ir.astra.com",
+    "key_executives": [
+        {
+            "name": "Chris Kemp",
+            "position": "CEO"
+        },
+        {
+            "name": "Katherine M. Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Launch Services",
+            "products": [
+                "Rocket 3.0"
+            ]
+        },
+        {
+            "category": "Satellite Services",
+            "products": [
+                "Satellite Deployment"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Astra Space, Inc. | Affordable Small Satellite Launch Services",
+        "meta_description": "Explore Astra Space, Inc., a leader in small satellite launch services. Learn about Astra's innovative rockets and commitment to making space accessible.",
+        "keywords": [
+            "Astra",
+            "Aerospace",
+            "Space Launch",
+            "Small Satellites",
+            "Satellite Deployment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Astra provide?",
+            "answer": "Astra provides small satellite launch services and satellite deployment solutions."
+        },
+        {
+            "question": "Who is the CEO of Astra?",
+            "answer": "Chris Kemp is the CEO of Astra Space, Inc."
+        },
+        {
+            "question": "Where is Astra headquartered?",
+            "answer": "Astra is headquartered in Alameda, California, USA."
+        },
+        {
+            "question": "What is Astra's main product?",
+            "answer": "Astra's main product is the Rocket 3.0, designed for small satellite launches."
+        },
+        {
+            "question": "When was Astra founded?",
+            "answer": "Astra was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "SPCE",
+        "RLX",
+        "NOK",
+        "MAXR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

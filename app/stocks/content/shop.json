@@ -1,0 +1,93 @@
+{
+    "ticker": "SHOP",
+    "name": "Shopify Inc.",
+    "description": "Shopify Inc. is a leading global e-commerce platform that empowers businesses of all sizes to create, manage, and scale their online stores. Founded in 2006 by Tobias L\u00fctke, Daniel Weinand, and Scott Lake, Shopify was born out of the founders' desire to build a better online shopping experience. The platform provides a comprehensive suite of tools that enable merchants to set up their storefronts, manage inventory, process payments, and market their products efficiently. With features like customizable website templates, mobile optimization, and integrated payment processing, Shopify caters to a diverse range of industries, including retail, fashion, food, and technology. The company is also known for its commitment to innovation, regularly updating its offerings to include advanced solutions such as Shopify Plus for high-volume merchants and Shopify POS for in-store sales. Shopify's mission is to make commerce better for everyone by removing barriers to entrepreneurship and enabling merchants to thrive in a digital-first economy. As e-commerce continues to grow globally, Shopify remains at the forefront, providing the necessary tools and support for businesses to succeed online.",
+    "industry": [
+        "E-commerce",
+        "Technology"
+    ],
+    "headquarters": "Ottawa, Ontario, Canada",
+    "founded": "2006",
+    "website": "https://www.shopify.com",
+    "ceo": "Tobias L\u00fctke",
+    "social_media": {
+        "twitter": "https://twitter.com/shopify",
+        "linkedin": "https://www.linkedin.com/company/shopify/",
+        "instagram": "https://www.instagram.com/shopify/",
+        "youtube": "https://www.youtube.com/user/shopify"
+    },
+    "investor_relations": "https://investors.shopify.com",
+    "key_executives": [
+        {
+            "name": "Tobias L\u00fctke",
+            "position": "CEO"
+        },
+        {
+            "name": "Amy Shapiro",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "E-commerce Solutions",
+            "products": [
+                "Shopify Basic",
+                "Shopify",
+                "Shopify Advanced",
+                "Shopify Plus"
+            ]
+        },
+        {
+            "category": "Point of Sale",
+            "products": [
+                "Shopify POS"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Shopify Inc. | E-commerce Solutions for Businesses",
+        "meta_description": "Explore Shopify Inc., a leading e-commerce platform that empowers businesses with tools to create and manage online stores. Discover innovative solutions for a digital-first economy.",
+        "keywords": [
+            "Shopify",
+            "E-commerce",
+            "Online Store",
+            "Digital Commerce",
+            "Shopify Plus",
+            "Shopify POS"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Shopify known for?",
+            "answer": "Shopify is known for providing a platform that enables businesses to create and manage their online stores."
+        },
+        {
+            "question": "Who is the CEO of Shopify?",
+            "answer": "Tobias L\u00fctke is the CEO of Shopify Inc."
+        },
+        {
+            "question": "Where is Shopify headquartered?",
+            "answer": "Shopify is headquartered in Ottawa, Ontario, Canada."
+        },
+        {
+            "question": "What are Shopify's main products?",
+            "answer": "Shopify's main products include Shopify Basic, Shopify, Shopify Advanced, Shopify Plus, and Shopify POS."
+        },
+        {
+            "question": "When was Shopify founded?",
+            "answer": "Shopify was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "SQ",
+        "ETSY",
+        "AMZN",
+        "BIGC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NFLX"
+    ]
+}

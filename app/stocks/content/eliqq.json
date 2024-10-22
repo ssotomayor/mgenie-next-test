@@ -1,0 +1,97 @@
+{
+    "ticker": "ELIQQ",
+    "name": "Eli Lilly and Company",
+    "description": "Eli Lilly and Company is a global leader in the pharmaceutical industry, dedicated to the discovery and development of innovative medicines that help improve patient outcomes. Founded in 1876 by Colonel Eli Lilly, the company has a long-standing commitment to creating solutions for some of the world's most pressing health challenges, including diabetes, oncology, immunology, and neurodegenerative diseases. Eli Lilly is well-known for its breakthrough medications, such as insulin products, antidepressants, and cancer therapies, including Trulicity and Verzenio. The company\u2019s research and development efforts are guided by the principle of patient-centricity, ensuring that all innovations are aimed at improving the lives of patients around the world. Eli Lilly actively collaborates with healthcare professionals, researchers, and institutions to foster innovation and accelerate the delivery of new therapies. With a focus on sustainability and social responsibility, Eli Lilly strives to make a positive impact on global health while also addressing environmental challenges. The company is headquartered in Indianapolis, Indiana, and operates in more than 120 countries worldwide, making it a key player in the global healthcare landscape.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "1876",
+    "website": "https://www.lilly.com",
+    "ceo": "David A. Ricks",
+    "social_media": {
+        "twitter": "https://twitter.com/LillyPad",
+        "linkedin": "https://www.linkedin.com/company/eli-lilly-and-company/",
+        "instagram": "https://www.instagram.com/lillypad/"
+    },
+    "investor_relations": "https://investor.lilly.com",
+    "key_executives": [
+        {
+            "name": "David A. Ricks",
+            "position": "CEO"
+        },
+        {
+            "name": "Joshua L. Smiley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Diabetes Care",
+            "products": [
+                "Insulin Lispro",
+                "Trulicity"
+            ]
+        },
+        {
+            "category": "Oncology",
+            "products": [
+                "Verzenio",
+                "Cyramza"
+            ]
+        },
+        {
+            "category": "Neurodegenerative Diseases",
+            "products": [
+                "Olumiant",
+                "Emgality"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eli Lilly and Company | Innovative Pharmaceuticals",
+        "meta_description": "Explore Eli Lilly and Company, a leader in the pharmaceutical industry dedicated to developing innovative medicines for various health conditions.",
+        "keywords": [
+            "Eli Lilly",
+            "Pharmaceuticals",
+            "Diabetes Care",
+            "Oncology",
+            "Innovative Medicines"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Eli Lilly known for?",
+            "answer": "Eli Lilly is known for its innovative medicines in diabetes care, oncology, and neurodegenerative diseases."
+        },
+        {
+            "question": "Who is the CEO of Eli Lilly?",
+            "answer": "David A. Ricks is the CEO of Eli Lilly and Company."
+        },
+        {
+            "question": "Where is Eli Lilly headquartered?",
+            "answer": "Eli Lilly is headquartered in Indianapolis, Indiana, USA."
+        },
+        {
+            "question": "What are Eli Lilly's main products?",
+            "answer": "Eli Lilly's main products include Trulicity, Verzenio, and various insulin products."
+        },
+        {
+            "question": "When was Eli Lilly founded?",
+            "answer": "Eli Lilly was founded in 1876."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "MRK",
+        "ABBV"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

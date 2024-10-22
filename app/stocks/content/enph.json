@@ -1,0 +1,94 @@
+{
+    "ticker": "ENPH",
+    "name": "Enphase Energy, Inc.",
+    "description": "Enphase Energy, Inc. is a leading energy technology company that specializes in solar microinverters, energy management technology, and storage systems. Founded in 2006 and headquartered in Fremont, California, Enphase revolutionized the solar energy industry with its advanced microinverter technology, which converts solar energy at the module level, enhancing the efficiency and reliability of solar power systems. The company's products are designed to optimize energy production, simplify installation, and provide real-time monitoring through its proprietary software platform. Enphase is also focused on energy storage solutions, offering the Enphase Storage system that allows homeowners to store solar energy for use during peak hours or outages. With a commitment to sustainability and innovation, Enphase plays a significant role in the global transition to renewable energy, empowering customers to generate, store, and manage their energy effectively. The company continues to expand its product offerings and enhance its technology, further solidifying its position as a key player in the clean energy sector.",
+    "industry": [
+        "Renewable Energy",
+        "Solar Energy"
+    ],
+    "headquarters": "Fremont, California, USA",
+    "founded": "2006",
+    "website": "https://www.enphase.com",
+    "ceo": "Badri Kothandaraman",
+    "social_media": {
+        "twitter": "https://twitter.com/Enphase",
+        "linkedin": "https://www.linkedin.com/company/enphase-energy"
+    },
+    "investor_relations": "https://ir.enphase.com",
+    "key_executives": [
+        {
+            "name": "Badri Kothandaraman",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric Branderiz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Microinverters",
+            "products": [
+                "Enphase IQ 7",
+                "Enphase IQ 8"
+            ]
+        },
+        {
+            "category": "Energy Storage",
+            "products": [
+                "Enphase Storage"
+            ]
+        },
+        {
+            "category": "Energy Management",
+            "products": [
+                "Enphase Enlighten"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enphase Energy, Inc. | Leading Solar Technology and Energy Management Solutions",
+        "meta_description": "Explore Enphase Energy, Inc., a pioneer in solar microinverters and energy management systems. Learn about Enphase's innovative products and commitment to renewable energy.",
+        "keywords": [
+            "Enphase Energy",
+            "Solar Microinverters",
+            "Energy Storage",
+            "Renewable Energy",
+            "Clean Energy",
+            "Solar Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Enphase Energy known for?",
+            "answer": "Enphase Energy is known for its innovative solar microinverters and energy management technology."
+        },
+        {
+            "question": "Who is the CEO of Enphase Energy?",
+            "answer": "Badri Kothandaraman is the CEO of Enphase Energy, Inc."
+        },
+        {
+            "question": "Where is Enphase Energy headquartered?",
+            "answer": "Enphase Energy is headquartered in Fremont, California, USA."
+        },
+        {
+            "question": "What are the main products of Enphase Energy?",
+            "answer": "Enphase's main products include microinverters, energy storage systems, and energy management software."
+        },
+        {
+            "question": "When was Enphase Energy founded?",
+            "answer": "Enphase Energy was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "SPWR",
+        "SEDG",
+        "RUN"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "NEE",
+        "NIO",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "FRST",
+    "name": "First Trust Advisors L.P.",
+    "description": "First Trust Advisors L.P. is a leading investment management firm that specializes in a wide array of investment products, including mutual funds, exchange-traded funds (ETFs), and closed-end funds. Founded in 1991, First Trust is committed to providing innovative investment solutions that cater to both institutional and individual investors. The firm is known for its fundamental research-driven approach, which emphasizes rigorous analysis and strategic asset allocation to help clients achieve their financial goals. First Trust's product offerings encompass various asset classes, including equities, fixed income, and alternative investments. The company is particularly recognized for its expertise in ETFs, with a diverse suite of products that focus on sectors, styles, and global markets. First Trust is dedicated to transparency, education, and client service, ensuring that investors have the resources they need to make informed decisions. The firm prides itself on its strong investment performance and a commitment to fostering long-term relationships with its clients. With a focus on innovation and proactive investment strategies, First Trust continues to navigate the evolving financial landscape, aiming to deliver superior investment experiences.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "Wheaton, Illinois, USA",
+    "founded": "1991",
+    "website": "https://www.ftportfolios.com",
+    "ceo": "Jim O'Connor",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstTrust",
+        "linkedin": "https://www.linkedin.com/company/first-trust-advisors-lp/"
+    },
+    "investor_relations": "https://www.ftportfolios.com/InvestorRelations",
+    "key_executives": [
+        {
+            "name": "Jim O'Connor",
+            "position": "CEO"
+        },
+        {
+            "name": "Ryan Issakainen",
+            "position": "Senior Vice President",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/ryanissakainen/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Exchange-Traded Funds (ETFs)",
+            "products": [
+                "First Trust NASDAQ-100 Technology Sector Index Fund",
+                "First Trust Cloud Computing ETF"
+            ]
+        },
+        {
+            "category": "Mutual Funds",
+            "products": [
+                "First Trust Enhanced Equity Income Fund",
+                "First Trust Multi-Asset Diversified Income Fund"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Trust Advisors L.P. | Innovative Investment Solutions",
+        "meta_description": "Explore First Trust Advisors L.P., a leading investment management firm specializing in ETFs, mutual funds, and closed-end funds. Discover innovative investment solutions.",
+        "keywords": [
+            "First Trust",
+            "Investment Management",
+            "ETFs",
+            "Mutual Funds",
+            "Financial Services",
+            "Asset Allocation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is First Trust known for?",
+            "answer": "First Trust is known for its innovative investment products, including ETFs and mutual funds, focusing on fundamental research and strategic asset allocation."
+        },
+        {
+            "question": "Who is the CEO of First Trust?",
+            "answer": "Jim O'Connor is the CEO of First Trust Advisors L.P."
+        },
+        {
+            "question": "Where is First Trust headquartered?",
+            "answer": "First Trust is headquartered in Wheaton, Illinois, USA."
+        },
+        {
+            "question": "What types of products does First Trust offer?",
+            "answer": "First Trust offers a variety of investment products, including ETFs, mutual funds, and closed-end funds."
+        },
+        {
+            "question": "When was First Trust founded?",
+            "answer": "First Trust was founded in 1991."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "IVZ",
+        "TROW",
+        "VFI"
+    ],
+    "related_stocks": [
+        "SPY",
+        "IVV",
+        "VOO",
+        "QQQ"
+    ]
+}

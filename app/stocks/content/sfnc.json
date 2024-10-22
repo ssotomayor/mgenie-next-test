@@ -1,0 +1,86 @@
+{
+    "ticker": "SFNC",
+    "name": "Southern Financial Corporation",
+    "description": "Southern Financial Corporation is a financial services company headquartered in the United States, specializing in commercial banking, consumer banking, and investment services. Founded in 2002, the company has built a reputation for providing personalized financial solutions to individuals and businesses across its operational regions. Southern Financial operates a network of branches, delivering a wide range of products including savings and checking accounts, mortgages, personal loans, and business financing options. Additionally, the company offers investment services such as wealth management, retirement planning, and financial advisory to help clients achieve their financial goals. With a strong emphasis on customer service and community involvement, Southern Financial strives to build lasting relationships with its clients, ensuring they receive tailored solutions that meet their unique needs. The company is committed to leveraging technology to enhance customer experience, offering online and mobile banking services that provide convenience and accessibility. As a community-focused institution, Southern Financial actively supports local initiatives and economic development, reinforcing its commitment to the communities it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "2002",
+    "website": "https://www.southernfinancial.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/SouthernFinCorp",
+        "linkedin": "https://www.linkedin.com/company/southern-financial-corporation/"
+    },
+    "investor_relations": "https://ir.southernfinancial.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Savings Accounts",
+                "Checking Accounts",
+                "Mortgages",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Wealth Management",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Southern Financial Corporation | Banking and Financial Solutions",
+        "meta_description": "Explore Southern Financial Corporation, a leader in personalized banking and investment services. Discover our commitment to customer service and community support.",
+        "keywords": [
+            "Southern Financial",
+            "Banking",
+            "Financial Services",
+            "Investments",
+            "Wealth Management",
+            "Mortgages"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Southern Financial Corporation offer?",
+            "answer": "Southern Financial offers a range of services including banking, mortgages, personal loans, and investment services."
+        },
+        {
+            "question": "Who is the CEO of Southern Financial Corporation?",
+            "answer": "Jane Doe is the CEO of Southern Financial Corporation."
+        },
+        {
+            "question": "Where is Southern Financial Corporation headquartered?",
+            "answer": "Southern Financial Corporation is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "When was Southern Financial Corporation founded?",
+            "answer": "Southern Financial Corporation was founded in 2002."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "WFC"
+    ],
+    "related_stocks": [
+        "C",
+        "GS",
+        "MS"
+    ]
+}

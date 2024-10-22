@@ -1,0 +1,94 @@
+{
+    "ticker": "EHI.RT",
+    "name": "EHI, Inc.",
+    "description": "EHI, Inc. is a leading provider of innovative health tech solutions aimed at enhancing patient care and improving health outcomes. Established in 2010, EHI focuses on the integration of technology into healthcare, offering a suite of products designed to streamline operations for healthcare providers while empowering patients with valuable health data. The company specializes in telehealth services, electronic health records (EHR), and mobile health applications that facilitate remote monitoring and personalized care. EHI\u2019s flagship product, the EHI Health Hub, combines advanced analytics with user-friendly interfaces to provide healthcare professionals with real-time insights into patient health metrics. EHI is committed to addressing the challenges faced by the healthcare industry, such as accessibility and data security, through cutting-edge solutions that adhere to regulatory standards. With a mission to transform healthcare delivery, EHI collaborates with various healthcare institutions, ensuring that their solutions are tailored to meet the unique needs of each provider. Their growing portfolio also includes AI-driven tools for predictive analytics and patient engagement, which are pivotal in the ongoing evolution of healthcare services. EHI aims to enhance the overall patient experience by making healthcare more accessible, efficient, and effective.",
+    "industry": [
+        "Healthcare",
+        "Health Tech"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.ehi.com",
+    "ceo": "Jessica Lee",
+    "social_media": {
+        "twitter": "https://twitter.com/EHI_Inc",
+        "linkedin": "https://www.linkedin.com/company/ehi-inc/"
+    },
+    "investor_relations": "https://ir.ehi.com",
+    "key_executives": [
+        {
+            "name": "Jessica Lee",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telehealth Services",
+            "products": [
+                "EHI Telehealth Platform"
+            ]
+        },
+        {
+            "category": "Electronic Health Records",
+            "products": [
+                "EHI EHR System"
+            ]
+        },
+        {
+            "category": "Mobile Health Applications",
+            "products": [
+                "EHI Health App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "EHI, Inc. | Innovative Health Tech Solutions",
+        "meta_description": "Explore EHI, Inc., a leader in health tech solutions transforming patient care with telehealth, EHR, and mobile applications.",
+        "keywords": [
+            "EHI",
+            "Health Tech",
+            "Telehealth",
+            "Electronic Health Records",
+            "Patient Engagement",
+            "Healthcare Innovation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does EHI specialize in?",
+            "answer": "EHI specializes in telehealth services, electronic health records, and mobile health applications."
+        },
+        {
+            "question": "Who is the CEO of EHI?",
+            "answer": "Jessica Lee is the CEO of EHI, Inc."
+        },
+        {
+            "question": "Where is EHI headquartered?",
+            "answer": "EHI is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are EHI's main products?",
+            "answer": "EHI's main products include the EHI Telehealth Platform, EHI EHR System, and EHI Health App."
+        },
+        {
+            "question": "When was EHI founded?",
+            "answer": "EHI was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "ILMN",
+        "DGX",
+        "LH"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

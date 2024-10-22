@@ -1,0 +1,97 @@
+{
+    "ticker": "NWSA",
+    "name": "News Corp",
+    "description": "News Corp is a global, diversified media and information services company headquartered in New York City. Founded in 1979 by Rupert Murdoch, News Corp operates through various segments, including News and Information Services, Book Publishing, Digital Real Estate Services, and Cable Network Programming. The company is known for its wide array of media properties, which include prestigious newspapers like The Wall Street Journal, The Times, and The Sun, as well as notable book publishing brands such as HarperCollins. News Corp has a significant digital presence, with a strong focus on expanding its digital subscriptions and online services. The company is committed to providing high-quality journalism and information, leveraging technology to reach audiences globally. With a mission to inform, entertain, and educate, News Corp continues to adapt to the changing media landscape, emphasizing digital transformation and innovation. It invests in emerging technologies and platforms to enhance user engagement and monetization strategies, ensuring its relevance in the fast-evolving media environment. Additionally, News Corp is involved in various philanthropic efforts, promoting literacy and education through its publishing initiatives.",
+    "industry": [
+        "Media",
+        "Publishing",
+        "Digital Services"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1979",
+    "website": "https://www.newscorp.com",
+    "ceo": "Robert Thomson",
+    "social_media": {
+        "twitter": "https://twitter.com/Newscorp",
+        "linkedin": "https://www.linkedin.com/company/news-corp/"
+    },
+    "investor_relations": "https://ir.newscorp.com",
+    "key_executives": [
+        {
+            "name": "Robert Thomson",
+            "position": "CEO"
+        },
+        {
+            "name": "Lachlan Murdoch",
+            "position": "Executive Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "News and Information Services",
+            "products": [
+                "The Wall Street Journal",
+                "The Times",
+                "The Sun"
+            ]
+        },
+        {
+            "category": "Book Publishing",
+            "products": [
+                "HarperCollins"
+            ]
+        },
+        {
+            "category": "Digital Real Estate Services",
+            "products": [
+                "Realtor.com"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "News Corp | Global Media and Information Company",
+        "meta_description": "Explore News Corp, a leading global media company dedicated to delivering high-quality journalism and information across various platforms. Discover its diverse range of products and services.",
+        "keywords": [
+            "News Corp",
+            "Media",
+            "Publishing",
+            "Digital Services",
+            "Rupert Murdoch",
+            "The Wall Street Journal",
+            "HarperCollins"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is News Corp known for?",
+            "answer": "News Corp is known for its leading newspapers, book publishing, and digital media services."
+        },
+        {
+            "question": "Who is the CEO of News Corp?",
+            "answer": "Robert Thomson is the CEO of News Corp."
+        },
+        {
+            "question": "Where is News Corp headquartered?",
+            "answer": "News Corp is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are News Corp's main products?",
+            "answer": "News Corp's main products include The Wall Street Journal, The Times, The Sun, and HarperCollins."
+        },
+        {
+            "question": "When was News Corp founded?",
+            "answer": "News Corp was founded in 1979."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "CMCSA",
+        "VIAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

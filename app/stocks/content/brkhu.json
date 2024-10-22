@@ -1,0 +1,95 @@
+{
+    "ticker": "BRKHU",
+    "name": "Berkshire Hathaway Inc.",
+    "description": "Berkshire Hathaway Inc. is a multinational conglomerate holding company led by renowned investor Warren Buffett. Founded in 1839, the company has evolved from its origins in the textile industry to become one of the largest and most respected companies in the world. Berkshire Hathaway's diverse portfolio includes substantial investments in various sectors such as insurance, utilities, energy, manufacturing, retail, and more. Notable subsidiaries include GEICO, BNSF Railway, and Dairy Queen, among others. The company is well-known for its unique investment philosophy, which emphasizes long-term value creation and a focus on acquiring companies with strong competitive advantages. Berkshire Hathaway also has a reputation for its shareholder-friendly practices, including its annual meeting that attracts thousands of investors from around the globe. With a commitment to prudent financial management and a keen eye for strategic acquisitions, Berkshire Hathaway continues to grow its influence and remains a significant player in the global economy.",
+    "industry": [
+        "Financial Services",
+        "Insurance",
+        "Conglomerate"
+    ],
+    "headquarters": "Omaha, Nebraska, USA",
+    "founded": "1839",
+    "website": "https://www.berkshirehathaway.com",
+    "ceo": "Warren Buffett",
+    "social_media": {
+        "twitter": "https://twitter.com/BerkshireHathaway",
+        "linkedin": "https://www.linkedin.com/company/berkshire-hathaway/"
+    },
+    "investor_relations": "https://www.berkshirehathaway.com/investor-relations.html",
+    "key_executives": [
+        {
+            "name": "Warren Buffett",
+            "position": "CEO"
+        },
+        {
+            "name": "Charlie Munger",
+            "position": "Vice Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance",
+            "products": [
+                "GEICO",
+                "Berkshire Hathaway Reinsurance Group"
+            ]
+        },
+        {
+            "category": "Utilities and Energy",
+            "products": [
+                "Berkshire Hathaway Energy"
+            ]
+        },
+        {
+            "category": "Manufacturing",
+            "products": [
+                "Precision Castparts",
+                "Marmon Holdings"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Berkshire Hathaway Inc. | Diversified Investments and Insurance",
+        "meta_description": "Explore Berkshire Hathaway Inc., a leader in diversified investments and insurance. Learn about the company's unique investment strategies and its subsidiaries.",
+        "keywords": [
+            "Berkshire Hathaway",
+            "Warren Buffett",
+            "Insurance",
+            "Investments",
+            "Conglomerate"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Berkshire Hathaway known for?",
+            "answer": "Berkshire Hathaway is known for its diverse portfolio of businesses and investments, particularly in insurance and utility sectors."
+        },
+        {
+            "question": "Who is the CEO of Berkshire Hathaway?",
+            "answer": "Warren Buffett is the CEO of Berkshire Hathaway Inc."
+        },
+        {
+            "question": "Where is Berkshire Hathaway headquartered?",
+            "answer": "Berkshire Hathaway is headquartered in Omaha, Nebraska, USA."
+        },
+        {
+            "question": "What are Berkshire Hathaway's main subsidiaries?",
+            "answer": "Berkshire Hathaway's main subsidiaries include GEICO, BNSF Railway, and Dairy Queen."
+        },
+        {
+            "question": "When was Berkshire Hathaway founded?",
+            "answer": "Berkshire Hathaway was founded in 1839."
+        }
+    ],
+    "competitors": [
+        "BRK.B",
+        "AIG",
+        "MET"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "KO",
+        "AMZN",
+        "JNJ"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "ticker": "RKLB",
+    "name": "Rocket Lab USA, Inc.",
+    "description": "Rocket Lab USA, Inc. is a prominent aerospace manufacturer and small satellite launch service provider, dedicated to revolutionizing access to space. Founded in 2006 by Peter Beck in New Zealand, Rocket Lab has established itself as a leader in the small satellite launch market, providing reliable and cost-effective solutions for customers around the globe. The company is known for its Electron rocket, which is designed to deliver small payloads to orbit, and has successfully completed numerous missions since its first launch in 2017. Rocket Lab also offers Photon, a satellite platform that enables customers to develop and deploy their own satellites quickly and efficiently. With a commitment to innovation and technology, Rocket Lab is at the forefront of the growing space economy, working with commercial clients, government agencies, and international partners to support satellite deployment and various space missions. The company's mission is to provide frequent and affordable access to space, thereby enabling a new era of exploration and commercialization.",
+    "industry": [
+        "Aerospace",
+        "Satellite",
+        "Space"
+    ],
+    "headquarters": "Long Beach, California, USA",
+    "founded": "2006",
+    "website": "https://www.rocketlabusa.com",
+    "ceo": "Peter Beck",
+    "social_media": {
+        "twitter": "https://twitter.com/RocketLab",
+        "linkedin": "https://www.linkedin.com/company/rocket-lab/"
+    },
+    "investor_relations": "https://investors.rocketlabusa.com",
+    "key_executives": [
+        {
+            "name": "Peter Beck",
+            "position": "CEO"
+        },
+        {
+            "name": "Lauren A. H. Hayward",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Launch Services",
+            "products": [
+                "Electron Rocket",
+                "Photon Satellite"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rocket Lab USA, Inc. | Small Satellite Launch Services",
+        "meta_description": "Discover Rocket Lab USA, Inc., a leader in small satellite launch services. Learn about their Electron rocket and Photon satellite platform, and their role in the space industry.",
+        "keywords": [
+            "Rocket Lab",
+            "Small Satellites",
+            "Electron Rocket",
+            "Photon Satellite",
+            "Space Launch",
+            "Aerospace"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Rocket Lab known for?",
+            "answer": "Rocket Lab is known for its small satellite launch services and the Electron rocket."
+        },
+        {
+            "question": "Who is the CEO of Rocket Lab?",
+            "answer": "Peter Beck is the CEO of Rocket Lab USA, Inc."
+        },
+        {
+            "question": "Where is Rocket Lab headquartered?",
+            "answer": "Rocket Lab is headquartered in Long Beach, California, USA."
+        },
+        {
+            "question": "What are Rocket Lab's main products?",
+            "answer": "Rocket Lab's main products include the Electron rocket and the Photon satellite platform."
+        },
+        {
+            "question": "When was Rocket Lab founded?",
+            "answer": "Rocket Lab was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "SPCE",
+        "AERW",
+        "NOK",
+        "MAXR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NFLX"
+    ]
+}

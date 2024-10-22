@@ -1,0 +1,89 @@
+{
+    "ticker": "PRENW",
+    "name": "Prenetics Global Limited",
+    "description": "Prenetics Global Limited is a leading genomics and diagnostic company that harnesses the power of genetic information to improve healthcare and wellness. Founded in 2014, Prenetics specializes in providing advanced genetic testing services to consumers and healthcare providers. The company's flagship product, the Circle DNA test, offers comprehensive insights into an individual's genetic predispositions, health risks, and inherited traits. Prenetics aims to empower individuals with actionable health information, allowing them to make informed decisions about their health and lifestyle. The company focuses on precision medicine and is dedicated to developing innovative solutions that enhance patient care and outcomes. By leveraging cutting-edge technology and a robust database of genetic information, Prenetics is at the forefront of the personalized medicine movement. Additionally, Prenetics has expanded its offerings to include COVID-19 testing solutions, which have been pivotal during the global pandemic. With a mission to democratize access to genetic information, Prenetics is committed to enabling a healthier future for all through education, innovation, and accessibility.",
+    "industry": [
+        "Healthcare",
+        "Genomics",
+        "Diagnostics"
+    ],
+    "headquarters": "Hong Kong, China",
+    "founded": "2014",
+    "website": "https://www.prenetics.com",
+    "ceo": "Danny Yeung",
+    "social_media": {
+        "twitter": "https://twitter.com/prenetics",
+        "linkedin": "https://www.linkedin.com/company/prenetics/"
+    },
+    "investor_relations": "https://investors.prenetics.com",
+    "key_executives": [
+        {
+            "name": "Danny Yeung",
+            "position": "CEO"
+        },
+        {
+            "name": "Kenny Koo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Genetic Testing",
+            "products": [
+                "Circle DNA Test"
+            ]
+        },
+        {
+            "category": "COVID-19 Testing",
+            "products": [
+                "RT-PCR Test",
+                "Antigen Test"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Prenetics Global Limited | Genomics and Diagnostic Solutions",
+        "meta_description": "Explore Prenetics Global Limited, a leader in genomics and diagnostics offering innovative testing solutions to enhance healthcare and wellness.",
+        "keywords": [
+            "Prenetics",
+            "Genetic Testing",
+            "Health Diagnostics",
+            "Personalized Medicine",
+            "Circle DNA",
+            "COVID-19 Testing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Prenetics provide?",
+            "answer": "Prenetics provides genetic testing services and COVID-19 testing solutions."
+        },
+        {
+            "question": "Who is the CEO of Prenetics?",
+            "answer": "Danny Yeung is the CEO of Prenetics Global Limited."
+        },
+        {
+            "question": "Where is Prenetics headquartered?",
+            "answer": "Prenetics is headquartered in Hong Kong, China."
+        },
+        {
+            "question": "What is the Circle DNA test?",
+            "answer": "The Circle DNA test is a comprehensive genetic test that provides insights into health risks and inherited traits."
+        },
+        {
+            "question": "When was Prenetics founded?",
+            "answer": "Prenetics was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "NOVA",
+        "GHDX",
+        "AMGN"
+    ],
+    "related_stocks": [
+        "TWTR",
+        "AMZN",
+        "AAPL",
+        "GOOGL"
+    ]
+}

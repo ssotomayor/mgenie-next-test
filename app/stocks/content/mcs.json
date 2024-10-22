@@ -1,0 +1,85 @@
+{
+    "ticker": "MCS",
+    "name": "Marcus Corporation",
+    "description": "The Marcus Corporation is a leading entertainment and lodging company based in the United States, primarily focused on the development and operation of movie theaters and hotels. Founded in 1935 by Ben Marcus, the company has grown from a single movie theater in Wisconsin to a significant player in the entertainment and hospitality industry. Marcus Theaters operates over 1,100 screens in 89 locations across the U.S., offering a variety of entertainment experiences including luxury seating, enhanced food and beverage options, and state-of-the-art projection and sound technology. In addition to its cinema operations, the company owns and manages a diverse portfolio of hotels and resorts under the Marcus Hotels and Resorts division, which includes various brands that cater to both leisure and business travelers. The Marcus Corporation is committed to delivering exceptional guest experiences and is known for its dedication to community involvement and sustainability initiatives. With a focus on innovation, the company continues to adapt to changing consumer preferences, investing in technology and enhancing its offerings to meet the demands of today's entertainment and hospitality markets.",
+    "industry": [
+        "Entertainment",
+        "Hospitality"
+    ],
+    "headquarters": "Milwaukee, Wisconsin, USA",
+    "founded": "1935",
+    "website": "https://www.marcuscorp.com",
+    "ceo": "Gregory Marcus",
+    "social_media": {
+        "twitter": "https://twitter.com/marcuscorp",
+        "linkedin": "https://www.linkedin.com/company/marcus-corporation/"
+    },
+    "investor_relations": "https://investors.marcuscorp.com",
+    "key_executives": [
+        {
+            "name": "Gregory Marcus",
+            "position": "CEO"
+        },
+        {
+            "name": "Douglas A. Neis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Entertainment",
+            "products": [
+                "Marcus Theaters",
+                "Luxury Seating",
+                "Food and Beverage Options"
+            ]
+        },
+        {
+            "category": "Hospitality",
+            "products": [
+                "Marcus Hotels and Resorts",
+                "Franchise Opportunities"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Marcus Corporation | Entertainment and Hospitality Solutions",
+        "meta_description": "Explore Marcus Corporation, a leader in entertainment and lodging. Discover our theaters, hotels, and commitment to exceptional guest experiences.",
+        "keywords": [
+            "Marcus Corporation",
+            "Entertainment",
+            "Movie Theaters",
+            "Hotels",
+            "Hospitality",
+            "Gregory Marcus"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Marcus Corporation provide?",
+            "answer": "Marcus Corporation provides entertainment services through its theaters and hospitality services through its hotels and resorts."
+        },
+        {
+            "question": "Who is the CEO of Marcus Corporation?",
+            "answer": "Gregory Marcus is the CEO of Marcus Corporation."
+        },
+        {
+            "question": "Where is Marcus Corporation headquartered?",
+            "answer": "Marcus Corporation is headquartered in Milwaukee, Wisconsin, USA."
+        },
+        {
+            "question": "When was Marcus Corporation founded?",
+            "answer": "Marcus Corporation was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "AMC",
+        "CNK",
+        "HLX"
+    ],
+    "related_stocks": [
+        "DIS",
+        "CMCSA",
+        "SNE"
+    ]
+}

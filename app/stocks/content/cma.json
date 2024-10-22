@@ -1,0 +1,93 @@
+{
+    "ticker": "CMA",
+    "name": "Comerica Incorporated",
+    "description": "Comerica Incorporated is a financial services company headquartered in Dallas, Texas, that operates primarily in the United States and Canada. Founded in 1849, Comerica offers a wide range of banking and financial solutions, including personal banking, commercial banking, and wealth management services. The company is well-known for its focus on small to medium-sized businesses and its commitment to supporting local communities through various initiatives. Comerica operates more than 400 banking centers across several states, primarily in Michigan, Texas, and California. The bank's services include checking and savings accounts, loans, credit cards, and investment products, as well as specialized services for industries such as technology, healthcare, and manufacturing. With a long history of stability and customer service, Comerica aims to empower its clients to achieve their financial goals while navigating an ever-evolving economic landscape. The company's commitment to innovation and technology also positions it as a competitive player in the digital banking space, catering to customers' needs in the modern financial environment.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Dallas, Texas, USA",
+    "founded": "1849",
+    "website": "https://www.comerica.com",
+    "ceo": "Curtis C. Farmer",
+    "social_media": {
+        "twitter": "https://twitter.com/Comerica",
+        "linkedin": "https://www.linkedin.com/company/comerica/"
+    },
+    "investor_relations": "https://investors.comerica.com",
+    "key_executives": [
+        {
+            "name": "Curtis C. Farmer",
+            "position": "CEO"
+        },
+        {
+            "name": "Linda A. D. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Business Loans",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advisory",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Comerica Incorporated | Banking and Financial Services",
+        "meta_description": "Explore Comerica Incorporated, offering a wide range of banking and financial services for personal and commercial clients. Discover their commitment to community and innovation.",
+        "keywords": [
+            "Comerica",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Commercial Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Comerica offer?",
+            "answer": "Comerica offers personal banking, commercial banking, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of Comerica?",
+            "answer": "Curtis C. Farmer is the CEO of Comerica Incorporated."
+        },
+        {
+            "question": "Where is Comerica headquartered?",
+            "answer": "Comerica is headquartered in Dallas, Texas, USA."
+        },
+        {
+            "question": "When was Comerica founded?",
+            "answer": "Comerica was founded in 1849."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ],
+    "related_stocks": [
+        "AXP",
+        "USB",
+        "BK",
+        "PNC"
+    ]
+}

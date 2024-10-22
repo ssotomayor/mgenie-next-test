@@ -1,0 +1,92 @@
+{
+    "ticker": "IP",
+    "name": "International Paper Company",
+    "description": "International Paper Company is a global leader in the packaging and paper products industry. Founded in 1898, the company has built a strong reputation for quality and sustainability within the marketplace. Headquartered in Memphis, Tennessee, International Paper operates in more than 24 countries and employs over 50,000 people worldwide. The company produces a range of products, including containerboard, corrugated packaging, and printing papers, while also providing innovative solutions tailored to meet the diverse needs of its customers. A key aspect of International Paper's mission is to promote sustainability and responsible forestry practices; the company has made significant commitments to reduce its carbon footprint and improve the recyclability of its products. International Paper's strategic focus includes leveraging technology and innovation to enhance productivity and customer engagement, ensuring that it remains at the forefront of industry trends. As a result, the company plays a vital role in the packaging supply chain, serving key sectors such as food and beverage, e-commerce, and electronics. With a commitment to safety, quality, and environmental stewardship, International Paper continues to lead the industry toward a more sustainable future.",
+    "industry": [
+        "Packaging",
+        "Paper Products"
+    ],
+    "headquarters": "Memphis, Tennessee, USA",
+    "founded": "1898",
+    "website": "https://www.internationalpaper.com",
+    "ceo": "Mark Sutton",
+    "social_media": {
+        "twitter": "https://twitter.com/IntlPaperCo",
+        "linkedin": "https://www.linkedin.com/company/international-paper/"
+    },
+    "investor_relations": "https://investor.internationalpaper.com",
+    "key_executives": [
+        {
+            "name": "Mark Sutton",
+            "position": "CEO"
+        },
+        {
+            "name": "Diana Sands",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/diana-sands-2a45b2/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Packaging",
+            "products": [
+                "Containerboard",
+                "Corrugated Packaging"
+            ]
+        },
+        {
+            "category": "Paper",
+            "products": [
+                "Printing Papers",
+                "Specialty Papers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "International Paper Company | Sustainable Packaging and Paper Solutions",
+        "meta_description": "Explore International Paper Company, a leader in sustainable packaging and paper products. Learn about our commitment to innovation, quality, and environmental stewardship.",
+        "keywords": [
+            "International Paper",
+            "Packaging",
+            "Paper Products",
+            "Sustainability",
+            "Containerboard",
+            "Corrugated Packaging"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does International Paper produce?",
+            "answer": "International Paper produces containerboard, corrugated packaging, and various printing and specialty papers."
+        },
+        {
+            "question": "Who is the CEO of International Paper?",
+            "answer": "Mark Sutton is the CEO of International Paper Company."
+        },
+        {
+            "question": "Where is International Paper headquartered?",
+            "answer": "International Paper is headquartered in Memphis, Tennessee, USA."
+        },
+        {
+            "question": "When was International Paper founded?",
+            "answer": "International Paper was founded in 1898."
+        },
+        {
+            "question": "What is International Paper's commitment to sustainability?",
+            "answer": "International Paper is committed to sustainability through responsible forestry practices and reducing its carbon footprint."
+        }
+    ],
+    "competitors": [
+        "PKG",
+        "WRK",
+        "GPK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "XOM",
+        "CSCO",
+        "JNJ"
+    ]
+}

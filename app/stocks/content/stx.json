@@ -1,0 +1,99 @@
+{
+    "ticker": "STX",
+    "name": "Seagate Technology Holdings plc",
+    "description": "Seagate Technology Holdings plc is a leading provider of data storage solutions, known for its innovative hard disk drives (HDDs) and solid-state drives (SSDs). Founded in 1979, Seagate has played a pivotal role in the evolution of data storage technology, enabling the digital storage of vast amounts of information for personal, enterprise, and cloud computing applications. The company's products are essential for various industries, including consumer electronics, data centers, and enterprise storage solutions. Seagate is committed to advancing data storage technology, focusing on high-capacity, high-performance products that meet the growing demands of data generation and storage. With a global presence and a dedication to sustainability, Seagate aims to drive digital transformation by providing reliable solutions that empower individuals and organizations to harness the power of their data. The company continually invests in research and development to innovate and enhance its product offerings, ensuring that it remains at the forefront of the storage industry.",
+    "industry": [
+        "Technology",
+        "Data Storage"
+    ],
+    "headquarters": "Fremont, California, USA",
+    "founded": "1979",
+    "website": "https://www.seagate.com",
+    "ceo": "Dave Mosley",
+    "social_media": {
+        "twitter": "https://twitter.com/Seagate",
+        "linkedin": "https://www.linkedin.com/company/seagate-technology/"
+    },
+    "investor_relations": "https://www.seagate.com/investors/",
+    "key_executives": [
+        {
+            "name": "Dave Mosley",
+            "position": "CEO"
+        },
+        {
+            "name": "Glen A. S. A. A. Who B. De S. R. L.",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Hard Disk Drives",
+            "products": [
+                "Barracuda",
+                "IronWolf",
+                "SkyHawk"
+            ]
+        },
+        {
+            "category": "Solid-State Drives",
+            "products": [
+                "FireCuda",
+                "Skyhawk",
+                "Barracuda SSD"
+            ]
+        },
+        {
+            "category": "Cloud Storage",
+            "products": [
+                "Seagate Cloud",
+                "Lyve Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Seagate Technology Holdings plc | Data Storage Solutions",
+        "meta_description": "Explore Seagate Technology, a leader in data storage solutions. Discover innovative HDDs and SSDs that empower individuals and organizations in the digital age.",
+        "keywords": [
+            "Seagate",
+            "Data Storage",
+            "Hard Disk Drives",
+            "Solid State Drives",
+            "Cloud Storage",
+            "Barracuda",
+            "IronWolf"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Seagate specialize in?",
+            "answer": "Seagate specializes in data storage solutions, including hard disk drives (HDDs) and solid-state drives (SSDs)."
+        },
+        {
+            "question": "Who is the CEO of Seagate?",
+            "answer": "Dave Mosley is the CEO of Seagate Technology Holdings plc."
+        },
+        {
+            "question": "Where is Seagate headquartered?",
+            "answer": "Seagate is headquartered in Fremont, California, USA."
+        },
+        {
+            "question": "What are Seagate's main products?",
+            "answer": "Seagate's main products include Barracuda HDDs, IronWolf HDDs, FireCuda SSDs, and cloud storage solutions."
+        },
+        {
+            "question": "When was Seagate founded?",
+            "answer": "Seagate was founded in 1979."
+        }
+    ],
+    "competitors": [
+        "WDC",
+        "NTAP",
+        "HPE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

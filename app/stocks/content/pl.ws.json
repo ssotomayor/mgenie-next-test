@@ -1,0 +1,90 @@
+{
+    "ticker": "PL.WS",
+    "name": "Planet Labs PBC",
+    "description": "Planet Labs PBC is a private Earth imaging company that operates the largest fleet of Earth observation satellites, enabling global monitoring and analysis of the planet's surface. Founded in 2010 by a team of former NASA scientists and engineers, Planet's mission is to democratize access to satellite imagery and provide insights that empower organizations to make informed decisions. The company leverages its advanced satellite technology, including its Dove satellites, which capture high-resolution images of the Earth daily. By offering a wide array of data and analytics solutions, Planet serves various sectors, including agriculture, forestry, mapping, and disaster response. Their platform allows users to access geospatial data, create custom analyses, and gain valuable insights into environmental changes and trends. Planet's commitment to innovation is reflected in its continuous investment in satellite technology and data processing capabilities, making it a key player in the geospatial intelligence industry. With a focus on sustainability, Planet aims to help organizations address global challenges such as climate change, resource management, and urbanization through actionable data.",
+    "industry": [
+        "Aerospace",
+        "Geospatial Intelligence"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.planet.com",
+    "ceo": "Will Marshall",
+    "social_media": {
+        "twitter": "https://twitter.com/planetlabs",
+        "linkedin": "https://www.linkedin.com/company/planet-labs/"
+    },
+    "investor_relations": "https://investors.planet.com",
+    "key_executives": [
+        {
+            "name": "Will Marshall",
+            "position": "CEO"
+        },
+        {
+            "name": "Catherine Giguere",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Imagery",
+            "products": [
+                "Dove Satellites",
+                "PlanetScope",
+                "SkySat"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Planet API",
+                "Planet Explorer"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Planet Labs PBC | Earth Imaging and Data Solutions",
+        "meta_description": "Explore Planet Labs PBC, the leading Earth imaging company with a fleet of satellites providing real-time geospatial data and analytics for various industries.",
+        "keywords": [
+            "Planet Labs",
+            "Earth Imaging",
+            "Satellite Data",
+            "Geospatial Intelligence",
+            "Dove Satellites",
+            "PlanetScope"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Planet Labs do?",
+            "answer": "Planet Labs provides satellite imagery and geospatial data solutions to help organizations monitor and analyze the Earth's surface."
+        },
+        {
+            "question": "Who is the CEO of Planet Labs?",
+            "answer": "Will Marshall is the CEO of Planet Labs PBC."
+        },
+        {
+            "question": "Where is Planet Labs headquartered?",
+            "answer": "Planet Labs is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Planet Labs' main products?",
+            "answer": "Planet Labs' main products include Dove Satellites, PlanetScope, and Planet API."
+        },
+        {
+            "question": "When was Planet Labs founded?",
+            "answer": "Planet Labs was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "MAXR",
+        "SPCE",
+        "NDAQ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

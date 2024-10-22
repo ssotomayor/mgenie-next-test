@@ -1,0 +1,90 @@
+{
+    "ticker": "HUBCZ",
+    "name": "Hub Cybersecurity Ltd.",
+    "description": "Hub Cybersecurity Ltd. specializes in providing advanced cybersecurity solutions designed to protect sensitive data and critical infrastructure from cyber threats. Founded with a mission to safeguard enterprises against the evolving landscape of cyberattacks, Hub Cybersecurity leverages state-of-the-art technology and a team of seasoned experts to deliver a comprehensive suite of services. These services include threat detection and response, risk assessment, compliance management, and incident response. The company's innovative approach combines artificial intelligence and machine learning to enhance its security protocols and ensure that clients can maintain business continuity in the face of potential breaches. Hub Cybersecurity is particularly focused on serving clients within highly regulated industries such as finance, healthcare, and government, where data protection is paramount. As cyber threats become increasingly sophisticated, Hub Cybersecurity remains committed to developing cutting-edge solutions that not only address current challenges but also anticipate future risks. Their vision is to create a secure digital environment where organizations can operate confidently, knowing that their data is protected by the best cybersecurity practices available.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2017",
+    "website": "https://www.hubcybersecurity.com",
+    "ceo": "Yossi Atias",
+    "social_media": {
+        "twitter": "https://twitter.com/hubcybersec",
+        "linkedin": "https://www.linkedin.com/company/hub-cybersecurity/"
+    },
+    "investor_relations": "https://ir.hubcybersecurity.com",
+    "key_executives": [
+        {
+            "name": "Yossi Atias",
+            "position": "CEO"
+        },
+        {
+            "name": "Ruthie Cohen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cybersecurity Services",
+            "products": [
+                "Threat Detection",
+                "Incident Response",
+                "Risk Assessment"
+            ]
+        },
+        {
+            "category": "Compliance Solutions",
+            "products": [
+                "GDPR Compliance",
+                "HIPAA Compliance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hub Cybersecurity Ltd. | Advanced Cybersecurity Solutions",
+        "meta_description": "Explore Hub Cybersecurity Ltd., a leader in cybersecurity solutions dedicated to protecting sensitive data and critical infrastructure from cyber threats.",
+        "keywords": [
+            "Hub Cybersecurity",
+            "Cybersecurity",
+            "Data Protection",
+            "Threat Detection",
+            "Risk Assessment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Hub Cybersecurity offer?",
+            "answer": "Hub Cybersecurity offers a range of services including threat detection, incident response, and risk assessment."
+        },
+        {
+            "question": "Who is the CEO of Hub Cybersecurity?",
+            "answer": "Yossi Atias is the CEO of Hub Cybersecurity Ltd."
+        },
+        {
+            "question": "Where is Hub Cybersecurity headquartered?",
+            "answer": "Hub Cybersecurity is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What industries does Hub Cybersecurity serve?",
+            "answer": "Hub Cybersecurity primarily serves clients in finance, healthcare, and government sectors."
+        },
+        {
+            "question": "When was Hub Cybersecurity founded?",
+            "answer": "Hub Cybersecurity was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "PNT",
+        "CRWD",
+        "ZS",
+        "OKTA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

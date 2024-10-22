@@ -1,0 +1,93 @@
+{
+    "ticker": "KDDIY",
+    "name": "KDDI Corporation",
+    "description": "KDDI Corporation is a leading telecommunications company based in Japan, known for its provision of comprehensive communication services including mobile, fixed-line, and broadband solutions. Established in 2000 through the merger of several telecommunications companies, KDDI operates under the motto 'Your Value Partner,' emphasizing its commitment to enhancing customer experiences and providing innovative technologies. The company offers a wide range of services, including wireless communication through its au brand, fixed-line services, and data center operations. KDDI is also actively involved in advancing IoT (Internet of Things) solutions and cloud technologies, positioning itself as a key player in the digital transformation of businesses. With a strong focus on sustainability, KDDI aims to contribute to society through its technological innovations while driving economic growth. The company has also expanded its global presence, providing services to various international markets and collaborating with global partners to enhance its service offerings.",
+    "industry": [
+        "Telecommunications",
+        "Information Technology"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "2000",
+    "website": "https://www.kddi.com",
+    "ceo": "Makoto Takahashi",
+    "social_media": {
+        "twitter": "https://twitter.com/kddi",
+        "linkedin": "https://www.linkedin.com/company/kddi-corporation/",
+        "facebook": "https://www.facebook.com/kddi.en/"
+    },
+    "investor_relations": "https://www.kddi.com/english/ir/",
+    "key_executives": [
+        {
+            "name": "Makoto Takahashi",
+            "position": "CEO"
+        },
+        {
+            "name": "Tetsuya Nakamura",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mobile Services",
+            "products": [
+                "au Mobile",
+                "MVNO Services"
+            ]
+        },
+        {
+            "category": "Fixed-Line Services",
+            "products": [
+                "Fiber Optic Services",
+                "VoIP Services"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "KDDI Cloud",
+                "IoT Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KDDI Corporation | Leading Telecommunications Provider in Japan",
+        "meta_description": "Explore KDDI Corporation, a major telecommunications company in Japan offering mobile, fixed-line, and cloud services. Learn about KDDI's innovative solutions and commitment to sustainability.",
+        "keywords": [
+            "KDDI",
+            "Telecommunications",
+            "Mobile Services",
+            "Cloud Solutions",
+            "IoT",
+            "Japan"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does KDDI provide?",
+            "answer": "KDDI provides mobile, fixed-line, broadband, and cloud services."
+        },
+        {
+            "question": "Who is the CEO of KDDI?",
+            "answer": "Makoto Takahashi is the CEO of KDDI Corporation."
+        },
+        {
+            "question": "Where is KDDI headquartered?",
+            "answer": "KDDI is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "When was KDDI founded?",
+            "answer": "KDDI was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "NTTYY",
+        "SOFTBANK",
+        "DOCOMO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

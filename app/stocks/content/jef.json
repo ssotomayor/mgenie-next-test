@@ -1,0 +1,92 @@
+{
+    "ticker": "JEF",
+    "name": "Jefferies Financial Group Inc.",
+    "description": "Jefferies Financial Group Inc. is a diversified financial services company that provides a wide range of investment banking, capital markets, and asset management services. Founded in 1962, Jefferies has grown to become a leading global investment bank with a deep commitment to integrity, innovation, and excellence. The company focuses on providing superior client service and has built a reputation for its expertise in mergers and acquisitions, equity and debt offerings, and restructuring advisory. Jefferies serves a diverse client base, including corporations, financial sponsors, and institutional investors, and operates in various sectors such as technology, healthcare, energy, and consumer products. The firm is headquartered in New York City and has a global presence, with offices in key financial centers worldwide. With a focus on building long-term relationships and delivering tailored solutions, Jefferies continues to expand its capabilities and market reach, while maintaining a culture of collaboration and entrepreneurial spirit.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Asset Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1962",
+    "website": "https://www.jefferies.com",
+    "ceo": "Rich Handler",
+    "social_media": {
+        "twitter": "https://twitter.com/Jefferies",
+        "linkedin": "https://www.linkedin.com/company/jefferies/"
+    },
+    "investor_relations": "https://www.jefferies.com/Investor-Relations",
+    "key_executives": [
+        {
+            "name": "Rich Handler",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Friedman",
+            "position": "President"
+        },
+        {
+            "name": "Daniel J. L. Schreiber",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions Advisory",
+                "Equity Capital Markets",
+                "Debt Capital Markets"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Private Equity",
+                "Public Equity",
+                "Credit Funds"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Jefferies Financial Group Inc. | Global Investment Banking and Asset Management",
+        "meta_description": "Discover Jefferies Financial Group, a leading global investment bank providing services in investment banking, capital markets, and asset management.",
+        "keywords": [
+            "Jefferies",
+            "Investment Banking",
+            "Financial Services",
+            "Capital Markets",
+            "Asset Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Jefferies provide?",
+            "answer": "Jefferies provides investment banking, capital markets, and asset management services."
+        },
+        {
+            "question": "Who is the CEO of Jefferies?",
+            "answer": "Rich Handler is the CEO of Jefferies Financial Group Inc."
+        },
+        {
+            "question": "Where is Jefferies headquartered?",
+            "answer": "Jefferies is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Jefferies founded?",
+            "answer": "Jefferies was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "GS",
+        "MS",
+        "Lazard",
+        "RBC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "WFC"
+    ]
+}

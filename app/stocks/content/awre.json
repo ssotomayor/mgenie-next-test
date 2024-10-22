@@ -1,0 +1,91 @@
+{
+    "ticker": "AWRE",
+    "name": "Aware, Inc.",
+    "description": "Aware, Inc. is a leading provider of biometrics software and services, specializing in identity verification solutions that enhance security and improve user experiences. Founded in 1986, Aware has developed a robust portfolio of biometric technologies, including fingerprint recognition, facial recognition, and iris recognition, serving a diverse range of industries from government and law enforcement to commercial enterprises. The company's software platforms enable organizations to seamlessly integrate biometric authentication into their systems, facilitating secure access to sensitive data and transactions. Aware's commitment to innovation is evident in its ongoing research and development efforts, aimed at advancing biometric technologies and adapting to the evolving landscape of digital security threats. With a strong focus on customer satisfaction, Aware works closely with clients to tailor solutions that meet their specific needs while ensuring compliance with industry standards. The company's mission is to provide cutting-edge biometric solutions that empower organizations to protect their assets and enhance operational efficiency.",
+    "industry": [
+        "Technology",
+        "Biometrics",
+        "Security"
+    ],
+    "headquarters": "Bedford, Massachusetts, USA",
+    "founded": "1986",
+    "website": "https://www.aware.com",
+    "ceo": "Richard D. Sweeney",
+    "social_media": {
+        "twitter": "https://twitter.com/AwareInc",
+        "linkedin": "https://www.linkedin.com/company/aware-inc/"
+    },
+    "investor_relations": "https://www.aware.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Richard D. Sweeney",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael L. Shea",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Biometric Software",
+            "products": [
+                "Fingerprint Recognition",
+                "Facial Recognition",
+                "Iris Recognition"
+            ]
+        },
+        {
+            "category": "Identity Verification Solutions",
+            "products": [
+                "Identity as a Service (IDaaS)",
+                "Biometric SDKs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aware, Inc. | Leading Biometrics Solutions for Secure Identity Verification",
+        "meta_description": "Explore Aware, Inc., a leader in biometrics software and identity verification solutions. Discover Aware's innovative technologies and their impact on security.",
+        "keywords": [
+            "Aware",
+            "Biometrics",
+            "Identity Verification",
+            "Fingerprint Recognition",
+            "Facial Recognition",
+            "Iris Recognition"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Aware, Inc. specialize in?",
+            "answer": "Aware, Inc. specializes in biometrics software and identity verification solutions."
+        },
+        {
+            "question": "Who is the CEO of Aware, Inc.?",
+            "answer": "Richard D. Sweeney is the CEO of Aware, Inc."
+        },
+        {
+            "question": "Where is Aware headquartered?",
+            "answer": "Aware is headquartered in Bedford, Massachusetts, USA."
+        },
+        {
+            "question": "What are Aware's main products?",
+            "answer": "Aware's main products include biometric software for fingerprint, facial, and iris recognition."
+        },
+        {
+            "question": "When was Aware founded?",
+            "answer": "Aware was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "IDN",
+        "NEE",
+        "SSNC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

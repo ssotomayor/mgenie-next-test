@@ -1,0 +1,80 @@
+{
+    "ticker": "BEEP",
+    "name": "Beep, Inc.",
+    "description": "Beep, Inc. is a leading provider of autonomous shuttle solutions, dedicated to transforming the way people move in urban environments. Founded in 2016 and headquartered in Orlando, Florida, Beep focuses on providing safe, reliable, and eco-friendly transportation options that enhance mobility for communities and businesses. The company specializes in deploying electric, autonomous shuttle services that connect residents and visitors to key locations such as shopping centers, schools, and recreational areas. Beep's shuttles are equipped with advanced technology to ensure safety and efficiency, making use of innovative navigation systems and real-time data analytics. The company is committed to sustainability, aiming to reduce carbon emissions and traffic congestion through its transport solutions. Beep's mission is to create smarter cities through its autonomous transportation systems, contributing to a future where mobility is seamless, inclusive, and environmentally friendly. As part of its services, Beep collaborates with various municipalities and private enterprises to create customized transportation solutions that meet the specific needs of each community.",
+    "industry": [
+        "Transportation",
+        "Technology"
+    ],
+    "headquarters": "Orlando, Florida, USA",
+    "founded": "2016",
+    "website": "https://www.beepinc.com",
+    "ceo": "Joe Moye",
+    "social_media": {
+        "twitter": "https://twitter.com/BeepInc",
+        "linkedin": "https://www.linkedin.com/company/beep-inc/"
+    },
+    "investor_relations": "https://www.beepinc.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Joe Moye",
+            "position": "CEO"
+        },
+        {
+            "name": "Kari S. G. B. G. M. L.",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Autonomous Shuttles",
+            "products": [
+                "Beep Shuttle"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Beep, Inc. | Autonomous Shuttle Solutions for Smart Cities",
+        "meta_description": "Explore Beep, Inc., a leader in autonomous shuttle technology. Discover how Beep is transforming urban mobility with eco-friendly transportation solutions.",
+        "keywords": [
+            "Beep",
+            "Autonomous Shuttles",
+            "Smart Cities",
+            "Electric Transportation",
+            "Urban Mobility"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Beep, Inc. do?",
+            "answer": "Beep, Inc. provides autonomous shuttle solutions aimed at enhancing urban mobility."
+        },
+        {
+            "question": "Who is the CEO of Beep?",
+            "answer": "Joe Moye is the CEO of Beep, Inc."
+        },
+        {
+            "question": "Where is Beep headquartered?",
+            "answer": "Beep is headquartered in Orlando, Florida, USA."
+        },
+        {
+            "question": "What type of vehicles does Beep operate?",
+            "answer": "Beep operates electric autonomous shuttles designed for urban transportation."
+        },
+        {
+            "question": "When was Beep founded?",
+            "answer": "Beep was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "OTMO",
+        "LIDR",
+        "NIO"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "GOOGL",
+        "AAPL",
+        "AMZN"
+    ]
+}

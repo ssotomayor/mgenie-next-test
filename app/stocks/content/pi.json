@@ -1,0 +1,94 @@
+{
+    "ticker": "PI",
+    "name": "Impinj, Inc.",
+    "description": "Impinj, Inc. is a leading provider of RAIN RFID solutions, enabling businesses to connect everyday items to the Internet, thereby enhancing visibility and operational efficiency. Founded in 2000 and headquartered in Seattle, Washington, Impinj focuses on creating a seamless flow of information between people and the objects they use. The company's innovative technology allows organizations to track, manage, and authenticate products, assets, and inventory in real-time. Impinj's solutions are used across various industries, including retail, healthcare, logistics, and manufacturing, facilitating smarter supply chains and improved customer experiences. The company's flagship offerings include the Impinj platform, which encompasses RFID readers, antennas, and software, enabling comprehensive item-level tracking. With a commitment to advancing the Internet of Things (IoT), Impinj is at the forefront of providing solutions that foster digital transformation and data-driven decision-making in businesses. The company continues to invest in innovation, focusing on enhancing RFID technology, developing new applications, and expanding its global reach to meet the evolving needs of its customers.",
+    "industry": [
+        "Technology",
+        "Internet of Things",
+        "RFID Solutions"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "2000",
+    "website": "https://www.impinj.com",
+    "ceo": "Chris Diorio",
+    "social_media": {
+        "twitter": "https://twitter.com/impinj",
+        "linkedin": "https://www.linkedin.com/company/impinj/"
+    },
+    "investor_relations": "https://investors.impinj.com",
+    "key_executives": [
+        {
+            "name": "Chris Diorio",
+            "position": "CEO"
+        },
+        {
+            "name": "Rajeev Kumar",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/rajeevkumar/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "RFID Solutions",
+            "products": [
+                "Impinj Readers",
+                "Impinj Antennas",
+                "Impinj Software"
+            ]
+        },
+        {
+            "category": "IoT Solutions",
+            "products": [
+                "ItemSense",
+                "IoT Connect"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Impinj, Inc. | RAIN RFID Solutions and IoT",
+        "meta_description": "Discover Impinj, Inc., a leader in RAIN RFID solutions that connects everyday items to the Internet. Explore Impinj's innovative technology and impact on industries.",
+        "keywords": [
+            "Impinj",
+            "RAIN RFID",
+            "Internet of Things",
+            "RFID Solutions",
+            "IoT",
+            "Supply Chain Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Impinj specialize in?",
+            "answer": "Impinj specializes in RAIN RFID solutions that connect everyday items to the Internet."
+        },
+        {
+            "question": "Who is the CEO of Impinj?",
+            "answer": "Chris Diorio is the CEO of Impinj, Inc."
+        },
+        {
+            "question": "Where is Impinj headquartered?",
+            "answer": "Impinj is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What are the main products offered by Impinj?",
+            "answer": "Impinj's main products include RFID readers, antennas, and software solutions."
+        },
+        {
+            "question": "When was Impinj founded?",
+            "answer": "Impinj was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "AVAV",
+        "MSTR",
+        "NVTK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

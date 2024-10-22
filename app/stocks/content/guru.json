@@ -1,0 +1,83 @@
+{
+    "ticker": "GURU",
+    "name": "Guru Capital, Inc.",
+    "description": "Guru Capital, Inc. is a technology-driven investment firm focused on providing innovative solutions in the asset management industry. Founded in 2015, Guru leverages advanced analytics and machine learning to enhance investment strategies and decisions. The firm specializes in quantitative research and employs a data-centric approach to identify investment opportunities across various sectors. With a commitment to transparency and performance, Guru aims to empower investors with tools that help optimize their portfolios and achieve their financial goals. The company offers a range of services, including algorithmic trading solutions, portfolio management, and investment advisory services. By integrating technology with financial expertise, Guru seeks to revolutionize the way investments are managed and to facilitate better outcomes for its clients. The firm is headquartered in New York City and serves a diverse clientele, including institutional investors and high-net-worth individuals. Guru's mission is to democratize access to advanced investment techniques and to provide clients with the knowledge and resources necessary to make informed financial decisions.",
+    "industry": [
+        "Investment Management",
+        "Financial Technology"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2015",
+    "website": "https://www.gurucapital.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/GuruCapital",
+        "linkedin": "https://www.linkedin.com/company/guru-capital"
+    },
+    "investor_relations": "https://www.gurucapital.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Solutions",
+            "products": [
+                "Algorithmic Trading",
+                "Portfolio Management",
+                "Investment Advisory"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Guru Capital, Inc. | Innovative Investment Solutions",
+        "meta_description": "Discover Guru Capital, Inc., a technology-driven investment firm specializing in quantitative research and advanced analytics. Explore our innovative investment solutions and strategies.",
+        "keywords": [
+            "Guru Capital",
+            "Investment Management",
+            "Financial Technology",
+            "Algorithmic Trading",
+            "Portfolio Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Guru Capital known for?",
+            "answer": "Guru Capital is known for its innovative investment solutions and technology-driven approach to asset management."
+        },
+        {
+            "question": "Who is the CEO of Guru Capital?",
+            "answer": "Jane Doe is the CEO of Guru Capital, Inc."
+        },
+        {
+            "question": "Where is Guru Capital headquartered?",
+            "answer": "Guru Capital is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What services does Guru Capital offer?",
+            "answer": "Guru Capital offers algorithmic trading, portfolio management, and investment advisory services."
+        },
+        {
+            "question": "When was Guru Capital founded?",
+            "answer": "Guru Capital was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "TROW",
+        "AMP",
+        "IVZ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

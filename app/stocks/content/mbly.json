@@ -1,0 +1,88 @@
+{
+    "ticker": "MBLY",
+    "name": "Mobileye Global Inc.",
+    "description": "Mobileye Global Inc. is a leader in the development of advanced driver-assistance systems (ADAS) and autonomous driving technologies. Founded in 1999 by Amnon Shashua and Ziv Aviram, Mobileye's mission is to make roads safer through innovative technology that enhances vehicle safety and enables autonomous driving capabilities. The company utilizes a unique combination of computer vision, machine learning, and data analysis to create solutions that help prevent accidents and enhance the driving experience. Mobileye's flagship products include the EyeQ family of system-on-chip (SoC) products, which power a wide range of ADAS features such as lane departure warnings, collision avoidance, and adaptive cruise control. Mobileye's technology is integrated into millions of vehicles worldwide, collaborating with major automotive manufacturers to bring advanced safety features to the market. In addition to its work in ADAS, Mobileye is at the forefront of the development of fully autonomous driving systems, leveraging its extensive mapping and localization technologies to pave the way for the future of mobility. As the automotive industry shifts towards electrification and autonomous driving, Mobileye is well-positioned to lead the charge in creating safer and more intelligent vehicles.",
+    "industry": [
+        "Automotive Technology",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Jerusalem, Israel",
+    "founded": "1999",
+    "website": "https://www.mobileye.com",
+    "ceo": "Amnon Shashua",
+    "social_media": {
+        "twitter": "https://twitter.com/Mobileye",
+        "linkedin": "https://www.linkedin.com/company/mobileye/"
+    },
+    "investor_relations": "https://ir.mobileye.com",
+    "key_executives": [
+        {
+            "name": "Amnon Shashua",
+            "position": "CEO"
+        },
+        {
+            "name": "Markus Schaefer",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "ADAS",
+            "products": [
+                "EyeQ SoC",
+                "Mobileye 8 Connect"
+            ]
+        },
+        {
+            "category": "Autonomous Driving",
+            "products": [
+                "Road Experience Management",
+                "Self-Driving Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Mobileye Global Inc. | Advanced Driver-Assistance Systems and Autonomous Driving",
+        "meta_description": "Explore Mobileye Global Inc., a leader in advanced driver-assistance systems and autonomous driving technologies. Learn about Mobileye's innovative solutions for vehicle safety.",
+        "keywords": [
+            "Mobileye",
+            "ADAS",
+            "Autonomous Driving",
+            "Vehicle Safety",
+            "Computer Vision",
+            "EyeQ"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Mobileye known for?",
+            "answer": "Mobileye is known for its advanced driver-assistance systems and technologies that enhance vehicle safety and enable autonomous driving."
+        },
+        {
+            "question": "Who is the CEO of Mobileye?",
+            "answer": "Amnon Shashua is the CEO of Mobileye Global Inc."
+        },
+        {
+            "question": "Where is Mobileye headquartered?",
+            "answer": "Mobileye is headquartered in Jerusalem, Israel."
+        },
+        {
+            "question": "What are Mobileye's main products?",
+            "answer": "Mobileye's main products include the EyeQ series of SoCs and various technologies for ADAS and autonomous driving."
+        },
+        {
+            "question": "When was Mobileye founded?",
+            "answer": "Mobileye was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "TSLA",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

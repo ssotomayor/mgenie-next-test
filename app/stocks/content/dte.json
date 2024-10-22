@@ -1,0 +1,88 @@
+{
+    "ticker": "DTE",
+    "name": "DTE Energy Company",
+    "description": "DTE Energy Company is a diversified energy company based in Detroit, Michigan, that provides a wide range of energy-related services to customers. Founded in 1903, DTE has grown to become one of the largest energy companies in the United States, primarily serving the states of Michigan. The company operates through two main segments: Electric and Gas. The Electric segment generates, transmits, and distributes electricity to over 2.2 million customers, while the Gas segment serves approximately 1.3 million customers with natural gas services. DTE is committed to sustainable practices and is actively investing in renewable energy sources, including wind and solar power, to reduce its carbon footprint and enhance energy efficiency. The company has set ambitious goals for reducing greenhouse gas emissions and transitioning to cleaner energy solutions. Additionally, DTE engages in various community initiatives and investments to support economic development and environmental stewardship in the regions it serves. Through innovation and a focus on customer satisfaction, DTE Energy continues to lead in the energy sector, balancing the needs of customers, the environment, and its stakeholders.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Detroit, Michigan, USA",
+    "founded": "1903",
+    "website": "https://www.dteenergy.com",
+    "ceo": "Jerry Norcia",
+    "social_media": {
+        "twitter": "https://twitter.com/DTE_Energy",
+        "linkedin": "https://www.linkedin.com/company/dte-energy/"
+    },
+    "investor_relations": "https://investors.dteenergy.com",
+    "key_executives": [
+        {
+            "name": "Jerry Norcia",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina O'Brien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Services",
+            "products": [
+                "Residential Electric",
+                "Commercial Electric",
+                "Industrial Electric"
+            ]
+        },
+        {
+            "category": "Gas Services",
+            "products": [
+                "Residential Gas",
+                "Commercial Gas",
+                "Industrial Gas"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DTE Energy Company | Leading Energy Provider",
+        "meta_description": "DTE Energy Company is a major energy provider in the U.S., offering electric and gas services while focusing on sustainability and innovation. Learn more about our services and commitment to cleaner energy.",
+        "keywords": [
+            "DTE Energy",
+            "Electricity",
+            "Natural Gas",
+            "Renewable Energy",
+            "Sustainability",
+            "Energy Efficiency"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does DTE Energy provide?",
+            "answer": "DTE Energy provides electric and natural gas services to residential, commercial, and industrial customers."
+        },
+        {
+            "question": "Who is the CEO of DTE Energy?",
+            "answer": "Jerry Norcia is the CEO of DTE Energy Company."
+        },
+        {
+            "question": "Where is DTE Energy headquartered?",
+            "answer": "DTE Energy is headquartered in Detroit, Michigan, USA."
+        },
+        {
+            "question": "When was DTE Energy founded?",
+            "answer": "DTE Energy was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "AEP",
+        "SO",
+        "XEL"
+    ],
+    "related_stocks": [
+        "NEE",
+        "ED",
+        "ES",
+        "FE"
+    ]
+}

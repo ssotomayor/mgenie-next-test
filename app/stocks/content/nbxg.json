@@ -1,0 +1,86 @@
+{
+    "ticker": "NBXG",
+    "name": "Nabors Industries Ltd.",
+    "description": "Nabors Industries Ltd. is a leading provider of advanced technology and drilling services to the oil and gas industry. Founded in 1952 and headquartered in Houston, Texas, Nabors operates one of the world's largest fleets of land-based drilling rigs and is a key player in the offshore drilling market. The company specializes in providing performance-driven drilling solutions with a focus on safety, efficiency, and innovation. Nabors' advanced technologies, such as automated drilling systems and data analytics, enhance operational performance and reduce costs for its clients. The company also offers well-servicing, completion, and production services, making it a comprehensive service provider in the energy sector. Nabors is committed to sustainability and strives to reduce the environmental impact of its operations while maintaining high safety standards. With a strong global presence in key oil-producing regions, Nabors continues to expand its capabilities and adapt to the evolving energy landscape, positioning itself as a leader in the future of drilling and energy technology.",
+    "industry": [
+        "Oil & Gas",
+        "Energy"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1952",
+    "website": "https://www.nabors.com",
+    "ceo": "Anthony G. Petrello",
+    "social_media": {
+        "twitter": "https://twitter.com/Nabors_Industries",
+        "linkedin": "https://www.linkedin.com/company/nabors-industries"
+    },
+    "investor_relations": "https://investors.nabors.com",
+    "key_executives": [
+        {
+            "name": "Anthony G. Petrello",
+            "position": "CEO"
+        },
+        {
+            "name": "William Restrepo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Drilling Services",
+            "products": [
+                "Land Rigs",
+                "Offshore Rigs",
+                "Directional Drilling"
+            ]
+        },
+        {
+            "category": "Technology Services",
+            "products": [
+                "Automated Drilling Systems",
+                "Data Analytics Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nabors Industries Ltd. | Leading Drilling Services Provider",
+        "meta_description": "Explore Nabors Industries Ltd., a leading provider of drilling services and technology for the oil and gas industry. Discover our innovative solutions and commitment to efficiency and safety.",
+        "keywords": [
+            "Nabors Industries",
+            "Drilling Services",
+            "Oil and Gas",
+            "Energy Technology",
+            "Automated Drilling"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Nabors Industries provide?",
+            "answer": "Nabors Industries provides drilling services, well-servicing, completion, and production services."
+        },
+        {
+            "question": "Who is the CEO of Nabors Industries?",
+            "answer": "Anthony G. Petrello is the CEO of Nabors Industries Ltd."
+        },
+        {
+            "question": "Where is Nabors Industries headquartered?",
+            "answer": "Nabors Industries is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Nabors Industries founded?",
+            "answer": "Nabors Industries was founded in 1952."
+        }
+    ],
+    "competitors": [
+        "HAL",
+        "SLB",
+        "DO",
+        "NBR"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "OXY",
+        "BP"
+    ]
+}

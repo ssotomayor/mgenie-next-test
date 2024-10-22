@@ -1,0 +1,89 @@
+{
+    "ticker": "SBXC",
+    "name": "SkyBox Security, Inc.",
+    "description": "SkyBox Security, Inc. is a leading cybersecurity firm focused on delivering comprehensive security solutions for organizations around the globe. Founded in 2003, SkyBox specializes in providing advanced visibility and risk management across IT and cloud environments. The company develops innovative software products that help enterprises analyze and manage their security posture, automate compliance processes, and reduce the attack surface. SkyBox's flagship product, the SkyBox Security Suite, integrates network security management and vulnerability management, enabling organizations to visualize their security infrastructure and understand the impact of vulnerabilities in real-time. With a commitment to improving enterprise security, SkyBox continually invests in research and development to adapt to emerging threats and evolving technologies. The company serves a diverse range of industries, including finance, healthcare, and government, and aims to empower its clients with the insights needed to make informed security decisions. As cybersecurity challenges grow in complexity, SkyBox remains dedicated to providing actionable intelligence and innovative solutions that help organizations stay one step ahead of cyber threats.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2003",
+    "website": "https://www.skyboxsecurity.com",
+    "ceo": "Gidi Cohen",
+    "social_media": {
+        "twitter": "https://twitter.com/SkyBoxSecurity",
+        "linkedin": "https://www.linkedin.com/company/skybox-security/"
+    },
+    "investor_relations": "https://www.skyboxsecurity.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Gidi Cohen",
+            "position": "CEO"
+        },
+        {
+            "name": "Nir Gaist",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Security Management",
+            "products": [
+                "SkyBox Security Suite",
+                "Threat Intelligence"
+            ]
+        },
+        {
+            "category": "Compliance Automation",
+            "products": [
+                "Compliance Manager",
+                "Risk Assessment Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SkyBox Security, Inc. | Advanced Cybersecurity Solutions",
+        "meta_description": "Explore SkyBox Security, Inc., a leader in cybersecurity providing solutions for risk management, compliance, and security visibility. Stay ahead of cyber threats.",
+        "keywords": [
+            "SkyBox Security",
+            "Cybersecurity",
+            "Risk Management",
+            "Compliance Solutions",
+            "Threat Intelligence"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SkyBox Security do?",
+            "answer": "SkyBox Security provides advanced cybersecurity solutions that help organizations manage risk and compliance, and improve their security posture."
+        },
+        {
+            "question": "Who is the CEO of SkyBox Security?",
+            "answer": "Gidi Cohen is the CEO of SkyBox Security, Inc."
+        },
+        {
+            "question": "Where is SkyBox Security headquartered?",
+            "answer": "SkyBox Security is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are SkyBox Security's main products?",
+            "answer": "SkyBox Security's main products include the SkyBox Security Suite and various compliance automation tools."
+        },
+        {
+            "question": "When was SkyBox Security founded?",
+            "answer": "SkyBox Security was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "PANW",
+        "FTNT",
+        "CRWD",
+        "ZS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

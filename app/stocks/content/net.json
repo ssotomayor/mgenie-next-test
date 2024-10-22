@@ -1,0 +1,93 @@
+{
+    "ticker": "NET",
+    "name": "Cloudflare, Inc.",
+    "description": "Cloudflare, Inc. is a leading provider of web infrastructure and website security services, founded in 2009. The company's mission is to help build a better Internet by providing a range of services that improve the performance, security, and reliability of websites and applications. Cloudflare operates a global network that spans over 200 cities worldwide, delivering content quickly through its content delivery network (CDN) while also protecting against various online threats such as DDoS attacks, malicious bots, and data breaches. The company offers a suite of products that include DNS resolution, SSL/TLS encryption, firewall protection, and performance optimization tools. With a commitment to innovation, Cloudflare continuously enhances its platform to support developers and businesses of all sizes, ensuring that they can deliver fast, secure, and reliable online experiences. The company also emphasizes transparency and privacy, advocating for a safer Internet for users and organizations alike. Cloudflare's scalable solutions are utilized by millions of websites, from small personal blogs to large enterprise applications, making it an integral part of the modern web.",
+    "industry": [
+        "Technology",
+        "Cybersecurity",
+        "Cloud Computing"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2009",
+    "website": "https://www.cloudflare.com",
+    "ceo": "Matthew Prince",
+    "social_media": {
+        "twitter": "https://twitter.com/Cloudflare",
+        "linkedin": "https://www.linkedin.com/company/cloudflare/"
+    },
+    "investor_relations": "https://www.cloudflare.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Matthew Prince",
+            "position": "CEO"
+        },
+        {
+            "name": "Michelle Zatlyn",
+            "position": "Co-Founder & President"
+        },
+        {
+            "name": "Thomas Seifert",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Web Performance",
+            "products": [
+                "Content Delivery Network (CDN)",
+                "Load Balancing",
+                "SSL/TLS"
+            ]
+        },
+        {
+            "category": "Security",
+            "products": [
+                "DDoS Protection",
+                "Web Application Firewall (WAF)",
+                "Bot Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cloudflare, Inc. | Web Infrastructure and Security Services",
+        "meta_description": "Discover Cloudflare, Inc., a leader in web infrastructure and security, providing solutions to enhance performance and protect websites from threats.",
+        "keywords": [
+            "Cloudflare",
+            "Web Security",
+            "DDoS Protection",
+            "Content Delivery Network",
+            "Internet Performance",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Cloudflare provide?",
+            "answer": "Cloudflare provides web infrastructure and security services, including CDN, DDoS protection, and web application firewall."
+        },
+        {
+            "question": "Who is the CEO of Cloudflare?",
+            "answer": "Matthew Prince is the CEO of Cloudflare, Inc."
+        },
+        {
+            "question": "Where is Cloudflare headquartered?",
+            "answer": "Cloudflare is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was Cloudflare founded?",
+            "answer": "Cloudflare was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "AKAM",
+        "MSFT",
+        "AMZN",
+        "CHKP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "ORCL",
+        "NOW"
+    ]
+}

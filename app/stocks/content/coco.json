@@ -1,0 +1,99 @@
+{
+    "ticker": "COCO",
+    "name": "Coco-Cola Company",
+    "description": "Coco-Cola Company is a leading global beverage manufacturer and distributor, renowned for its iconic soft drink brands, including Coca-Cola, Diet Coke, and Coca-Cola Zero Sugar. Founded in 1886, the company has evolved from a small pharmacy concoction to a global powerhouse in the beverage industry. With a presence in over 200 countries, Coco-Cola is committed to refreshing the world, inspiring moments of optimism and happiness, and creating value for its stakeholders. The company\u2019s portfolio includes sparkling beverages, juices, plant-based drinks, dairy, and plant-based protein drinks, as well as water and sports drinks. In recent years, Coco-Cola has focused on expanding its product range to meet consumer demand for healthier options, introducing low and no-calorie drinks, and investing in sustainable packaging solutions. The company is dedicated to reducing its environmental impact and has set ambitious goals for water conservation, recycling, and carbon emissions reduction. Coco-Cola's marketing campaigns are widely recognized for their creativity and effectiveness, often leveraging social media and celebrity endorsements to connect with consumers. As a leader in the beverage market, Coco-Cola continues to innovate and adapt to changing consumer preferences while maintaining its long-standing commitment to quality and sustainability.",
+    "industry": [
+        "Beverage",
+        "Consumer Goods"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1886",
+    "website": "https://www.coca-cola.com",
+    "ceo": "James Quincey",
+    "social_media": {
+        "twitter": "https://twitter.com/CocaCola",
+        "linkedin": "https://www.linkedin.com/company/the-coca-cola-company/",
+        "instagram": "https://www.instagram.com/cocacola/",
+        "youtube": "https://www.youtube.com/user/cocacola"
+    },
+    "investor_relations": "https://investors.coca-cola.com",
+    "key_executives": [
+        {
+            "name": "James Quincey",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Soft Drinks",
+            "products": [
+                "Coca-Cola",
+                "Diet Coke",
+                "Coca-Cola Zero Sugar"
+            ]
+        },
+        {
+            "category": "Juices and Other Beverages",
+            "products": [
+                "Minute Maid",
+                "Simply Orange"
+            ]
+        },
+        {
+            "category": "Water and Sports Drinks",
+            "products": [
+                "Dasani",
+                "Powerade"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Coco-Cola Company | Leading Global Beverage Manufacturer",
+        "meta_description": "Explore Coco-Cola Company, a global leader in beverages with a commitment to sustainability, innovation, and refreshing the world.",
+        "keywords": [
+            "Coco-Cola",
+            "Beverages",
+            "Soft Drinks",
+            "Sustainability",
+            "Coca-Cola Zero",
+            "Minute Maid"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Coco-Cola known for?",
+            "answer": "Coco-Cola is known for its iconic soft drinks, including Coca-Cola, Diet Coke, and its commitment to sustainability."
+        },
+        {
+            "question": "Who is the CEO of Coco-Cola?",
+            "answer": "James Quincey is the CEO of Coco-Cola Company."
+        },
+        {
+            "question": "Where is Coco-Cola headquartered?",
+            "answer": "Coco-Cola is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What are Coco-Cola's main products?",
+            "answer": "Coco-Cola's main products include Coca-Cola, Diet Coke, Minute Maid juices, and Dasani water."
+        },
+        {
+            "question": "When was Coco-Cola founded?",
+            "answer": "Coco-Cola was founded in 1886."
+        }
+    ],
+    "competitors": [
+        "PEP",
+        "MNST",
+        "DAN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

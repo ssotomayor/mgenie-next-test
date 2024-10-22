@@ -1,0 +1,94 @@
+{
+    "ticker": "NTDOY",
+    "name": "Nintendo Co., Ltd.",
+    "description": "Nintendo Co., Ltd. is a renowned Japanese multinational consumer electronics and video game company headquartered in Kyoto, Japan. Founded in 1889 by Fusajiro Yamauchi, Nintendo originally started as a playing card company before evolving into a major player in the entertainment industry. Over the decades, Nintendo has become synonymous with gaming, known for its iconic franchises such as Super Mario, The Legend of Zelda, and Pok\u00e9mon. The company has consistently innovated in the gaming space, from the early days of the Nintendo Entertainment System (NES) to the revolutionary Wii console and the hybrid Nintendo Switch, which allows players to enjoy gaming both at home and on the go. Nintendo's commitment to creativity and fun is reflected in its wide array of games and family-friendly content, making it a favorite among gamers of all ages. In addition to hardware, Nintendo's software development is a key aspect of its business, with successful titles that not only entertain but also foster community and engagement among players worldwide. With a strong emphasis on intellectual property and a fanbase that spans generations, Nintendo continues to be a leader in the gaming industry, constantly adapting to new trends and technologies while maintaining the charm and quality that has defined its brand for over a century.",
+    "industry": [
+        "Video Games",
+        "Consumer Electronics"
+    ],
+    "headquarters": "Kyoto, Japan",
+    "founded": "1889",
+    "website": "https://www.nintendo.com",
+    "ceo": "Shuntaro Furukawa",
+    "social_media": {
+        "twitter": "https://twitter.com/Nintendo",
+        "linkedin": "https://www.linkedin.com/company/nintendo/"
+    },
+    "investor_relations": "https://www.nintendo.co.jp/ir/en/index.html",
+    "key_executives": [
+        {
+            "name": "Shuntaro Furukawa",
+            "position": "President",
+            "social_media": {}
+        },
+        {
+            "name": "Koji Miyake",
+            "position": "CFO",
+            "social_media": {}
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consoles",
+            "products": [
+                "Nintendo Switch",
+                "Nintendo Switch Lite",
+                "Nintendo 3DS"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "products": [
+                "Super Mario Odyssey",
+                "The Legend of Zelda: Breath of the Wild",
+                "Animal Crossing: New Horizons"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nintendo Co., Ltd. | Innovative Video Games and Consoles",
+        "meta_description": "Explore Nintendo Co., Ltd., a leader in video games and consoles. Discover iconic franchises, innovative gameplay, and the legacy of Nintendo.",
+        "keywords": [
+            "Nintendo",
+            "Video Games",
+            "Gaming Consoles",
+            "Super Mario",
+            "Zelda",
+            "Pok\u00e9mon"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Nintendo known for?",
+            "answer": "Nintendo is known for its video game consoles and iconic game franchises like Super Mario and The Legend of Zelda."
+        },
+        {
+            "question": "Who is the CEO of Nintendo?",
+            "answer": "Shuntaro Furukawa is the President of Nintendo Co., Ltd."
+        },
+        {
+            "question": "Where is Nintendo headquartered?",
+            "answer": "Nintendo is headquartered in Kyoto, Japan."
+        },
+        {
+            "question": "What are Nintendo's main products?",
+            "answer": "Nintendo's main products include video game consoles like the Nintendo Switch and popular games like Super Mario and Pok\u00e9mon."
+        },
+        {
+            "question": "When was Nintendo founded?",
+            "answer": "Nintendo was founded in 1889."
+        }
+    ],
+    "competitors": [
+        "SONY",
+        "MSFT",
+        "ATVI",
+        "EA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "DIS"
+    ]
+}

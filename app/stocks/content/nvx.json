@@ -1,0 +1,83 @@
+{
+    "ticker": "NVX",
+    "name": "Novavax, Inc.",
+    "description": "Novavax, Inc. is a biotechnology company dedicated to developing innovative vaccines to combat infectious diseases. Founded in 1987 and headquartered in Gaithersburg, Maryland, Novavax has emerged as a leader in the field of vaccine development, leveraging its proprietary nanoparticle technology to create safe and effective vaccines. The company's flagship product, NVX-CoV2373, is a recombinant protein vaccine designed to protect against COVID-19 and has been pivotal in global vaccination efforts. Novavax's approach combines advanced scientific research with a commitment to public health, aiming to address significant health challenges worldwide. In addition to its COVID-19 vaccine, Novavax is also working on vaccines for other infectious diseases, including influenza and respiratory syncytial virus (RSV). The company collaborates with various government agencies, international organizations, and pharmaceutical partners to accelerate the development and distribution of its vaccine candidates. Novavax's mission is to improve health outcomes globally by providing innovative solutions to prevent the spread of infectious diseases.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Gaithersburg, Maryland, USA",
+    "founded": "1987",
+    "website": "https://www.novavax.com",
+    "ceo": "Stanley C. Erck",
+    "social_media": {
+        "twitter": "https://twitter.com/Novavax",
+        "linkedin": "https://www.linkedin.com/company/novavax/"
+    },
+    "investor_relations": "https://investors.novavax.com",
+    "key_executives": [
+        {
+            "name": "Stanley C. Erck",
+            "position": "CEO"
+        },
+        {
+            "name": "John Trizzino",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "NVX-CoV2373 (COVID-19 Vaccine)",
+                "NanoFlu (Influenza Vaccine)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Novavax, Inc. | Innovative Vaccine Development",
+        "meta_description": "Learn about Novavax, Inc., a biotechnology company specializing in vaccine development for infectious diseases, including COVID-19 and influenza.",
+        "keywords": [
+            "Novavax",
+            "Vaccines",
+            "COVID-19 Vaccine",
+            "Biotechnology",
+            "Infectious Diseases",
+            "Nanoparticle Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Novavax known for?",
+            "answer": "Novavax is known for its innovative vaccine development, particularly for COVID-19 and influenza."
+        },
+        {
+            "question": "Who is the CEO of Novavax?",
+            "answer": "Stanley C. Erck is the CEO of Novavax, Inc."
+        },
+        {
+            "question": "Where is Novavax headquartered?",
+            "answer": "Novavax is headquartered in Gaithersburg, Maryland, USA."
+        },
+        {
+            "question": "What are Novavax's main products?",
+            "answer": "Novavax's main products include NVX-CoV2373 (COVID-19 Vaccine) and NanoFlu (Influenza Vaccine)."
+        },
+        {
+            "question": "When was Novavax founded?",
+            "answer": "Novavax was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "PFE",
+        "JNJ",
+        "AZN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "ticker": "PET",
+    "name": "Petco Health and Wellness Company, Inc.",
+    "description": "Petco Health and Wellness Company, Inc. is a leading pet health and wellness retailer that provides a comprehensive range of products and services to enhance the lives of pets and their owners. Founded in 1965 and headquartered in San Diego, California, Petco operates over 1,500 locations across the United States, Mexico, and Puerto Rico. The company offers a wide selection of pet food, supplies, and accessories, as well as services such as grooming, training, and veterinary care. Petco is committed to promoting the health and well-being of pets through its innovative offerings, including its own line of pet food that emphasizes high-quality ingredients and holistic nutrition. Additionally, Petco champions animal welfare initiatives and partners with local organizations to support pet adoption and responsible pet ownership. With a focus on customer experience, Petco aims to be a trusted partner for pet parents, offering expert advice and a community-driven approach to pet care. The company's mission is to improve the lives of pets, creating healthier and happier lives for pets and their families.",
+    "industry": [
+        "Retail",
+        "Pet Care"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "1965",
+    "website": "https://www.petco.com",
+    "ceo": "Ron Coughlin",
+    "social_media": {
+        "twitter": "https://twitter.com/Petco",
+        "linkedin": "https://www.linkedin.com/company/petco/",
+        "instagram": "https://www.instagram.com/petco/",
+        "facebook": "https://www.facebook.com/petco"
+    },
+    "investor_relations": "https://investors.petco.com",
+    "key_executives": [
+        {
+            "name": "Ron Coughlin",
+            "position": "CEO"
+        },
+        {
+            "name": "Mike Nuzzo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pet Food",
+            "products": [
+                "Dry Dog Food",
+                "Wet Cat Food",
+                "Grain-Free Options"
+            ]
+        },
+        {
+            "category": "Pet Supplies",
+            "products": [
+                "Toys",
+                "Collars and Leashes",
+                "Grooming Supplies"
+            ]
+        },
+        {
+            "category": "Services",
+            "products": [
+                "Grooming",
+                "Training Classes",
+                "Veterinary Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Petco Health and Wellness Company | Pet Supplies and Services",
+        "meta_description": "Discover Petco Health and Wellness Company, your destination for quality pet food, supplies, and wellness services. Join us in enhancing the lives of pets and their owners.",
+        "keywords": [
+            "Petco",
+            "Pet Supplies",
+            "Pet Food",
+            "Pet Wellness",
+            "Pet Care Services",
+            "Grooming",
+            "Pet Training"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Petco offer?",
+            "answer": "Petco offers a range of pet food, supplies, and services including grooming, training, and veterinary care."
+        },
+        {
+            "question": "Who is the CEO of Petco?",
+            "answer": "Ron Coughlin is the CEO of Petco Health and Wellness Company, Inc."
+        },
+        {
+            "question": "Where is Petco headquartered?",
+            "answer": "Petco is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What are Petco's main product categories?",
+            "answer": "Petco's main product categories include pet food, pet supplies, and various pet services."
+        },
+        {
+            "question": "When was Petco founded?",
+            "answer": "Petco was founded in 1965."
+        }
+    ],
+    "competitors": [
+        "CHWY",
+        "WOOF",
+        "TSN"
+    ],
+    "related_stocks": [
+        "PETQ",
+        "CVS",
+        "WMT",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "GME",
+    "name": "GameStop Corp.",
+    "description": "GameStop Corp. is a leading retailer of video games, gaming consoles, and consumer electronics. Founded in 1984, the company has evolved from a traditional brick-and-mortar retailer to a significant player in the gaming industry, particularly through its online presence. GameStop operates thousands of stores across the United States and internationally, providing a wide range of gaming products, including new and pre-owned video games, consoles, accessories, and collectibles. The company is particularly known for its strong community engagement and focus on gaming culture, often hosting events and promotions that resonate with gamers. In recent years, GameStop gained significant attention due to its stock volatility and involvement in the meme stock phenomenon, leading to an unprecedented surge in stock price driven largely by retail investors. This event highlighted the influence of social media and online forums on stock trading and investment trends. GameStop is also transforming its business model to adapt to the evolving landscape of gaming, with initiatives to enhance its digital offerings and e-commerce capabilities. The company's mission is to deliver an unparalleled gaming experience for its customers while navigating the challenges posed by a rapidly changing industry.",
+    "industry": [
+        "Retail",
+        "Video Games"
+    ],
+    "headquarters": "Grapevine, Texas, USA",
+    "founded": "1984",
+    "website": "https://www.gamestop.com",
+    "ceo": "Matt Furlong",
+    "social_media": {
+        "twitter": "https://twitter.com/GameStop",
+        "linkedin": "https://www.linkedin.com/company/gamestop/"
+    },
+    "investor_relations": "https://investor.Gamestop.com",
+    "key_executives": [
+        {
+            "name": "Matt Furlong",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Recupero",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Video Games",
+            "products": [
+                "PlayStation",
+                "Xbox",
+                "Nintendo Switch"
+            ]
+        },
+        {
+            "category": "Gaming Accessories",
+            "products": [
+                "Controllers",
+                "Headsets",
+                "Gaming Chairs"
+            ]
+        },
+        {
+            "category": "Collectibles",
+            "products": [
+                "Action Figures",
+                "Trading Cards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GameStop Corp. | Video Game Retail and E-commerce",
+        "meta_description": "Explore GameStop Corp., a leading retailer in the video game industry, offering a wide range of gaming products and collectibles.",
+        "keywords": [
+            "GameStop",
+            "Video Games",
+            "Gaming Retail",
+            "Game Consoles",
+            "Collectibles"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does GameStop sell?",
+            "answer": "GameStop sells video games, gaming consoles, accessories, and collectibles."
+        },
+        {
+            "question": "Who is the CEO of GameStop?",
+            "answer": "Matt Furlong is the CEO of GameStop Corp."
+        },
+        {
+            "question": "Where is GameStop headquartered?",
+            "answer": "GameStop is headquartered in Grapevine, Texas, USA."
+        },
+        {
+            "question": "When was GameStop founded?",
+            "answer": "GameStop was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "WMT",
+        "BBY"
+    ],
+    "related_stocks": [
+        "AMD",
+        "NVDA",
+        "MSFT",
+        "ATVI"
+    ]
+}

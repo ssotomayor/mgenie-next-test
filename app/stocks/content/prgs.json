@@ -1,0 +1,90 @@
+{
+    "ticker": "PRGS",
+    "name": "Progress Software Corporation",
+    "description": "Progress Software Corporation is a global leader in application development and deployment technologies, providing a comprehensive suite of products that enable developers and IT teams to build, deploy, and manage applications seamlessly. Founded in 1981, Progress has developed a strong reputation for delivering innovative solutions that empower organizations to transform their digital experiences. The company's flagship product, the Telerik platform, offers tools for modern web and mobile app development, allowing developers to create high-performance applications with ease. Additionally, Progress provides robust data connectivity solutions, including the DataDirect product line, which ensures seamless integration with various data sources. Progress's mission is to simplify the development process and enhance productivity while ensuring that businesses can adapt to changing market demands. The company is committed to continuous innovation, investing in AI, machine learning, and cloud technologies to help organizations unlock the full potential of their applications. With a strong focus on customer success, Progress Software boasts a diverse client base across various industries, including finance, healthcare, and government.",
+    "industry": [
+        "Software",
+        "Technology"
+    ],
+    "headquarters": "Bedford, Massachusetts, USA",
+    "founded": "1981",
+    "website": "https://www.progress.com",
+    "ceo": "Yogesh Gupta",
+    "social_media": {
+        "twitter": "https://twitter.com/progresssw",
+        "linkedin": "https://www.linkedin.com/company/progress-software/"
+    },
+    "investor_relations": "https://investors.progress.com",
+    "key_executives": [
+        {
+            "name": "Yogesh Gupta",
+            "position": "CEO"
+        },
+        {
+            "name": "Karen Tegan Padir",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Development Tools",
+            "products": [
+                "Telerik",
+                "Kendo UI",
+                "NativeScript"
+            ]
+        },
+        {
+            "category": "Data Connectivity",
+            "products": [
+                "DataDirect",
+                "Progress OpenEdge"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Progress Software Corporation | Application Development and Deployment Solutions",
+        "meta_description": "Explore Progress Software Corporation, a leader in application development solutions. Learn about Progress's innovative products for building high-performance applications.",
+        "keywords": [
+            "Progress Software",
+            "Application Development",
+            "Telerik",
+            "Data Connectivity",
+            "Software Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Progress Software do?",
+            "answer": "Progress Software provides tools and technologies for application development and data connectivity."
+        },
+        {
+            "question": "Who is the CEO of Progress Software?",
+            "answer": "Yogesh Gupta is the CEO of Progress Software Corporation."
+        },
+        {
+            "question": "Where is Progress Software headquartered?",
+            "answer": "Progress Software is headquartered in Bedford, Massachusetts, USA."
+        },
+        {
+            "question": "What are Progress's main products?",
+            "answer": "Progress's main products include Telerik, Kendo UI, DataDirect, and Progress OpenEdge."
+        },
+        {
+            "question": "When was Progress Software founded?",
+            "answer": "Progress Software was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ADBE",
+        "IBM",
+        "ATVI"
+    ],
+    "related_stocks": [
+        "ORCL",
+        "SAP",
+        "NOW",
+        "CRM"
+    ]
+}

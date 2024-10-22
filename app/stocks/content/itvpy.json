@@ -1,0 +1,92 @@
+{
+    "ticker": "ITVPY",
+    "name": "ITV PLC",
+    "description": "ITV PLC is a British media company and one of the largest commercial broadcasters in the United Kingdom. Founded in 1955, ITV has evolved from a regional television provider to a major player in the global media landscape, offering a diverse range of content across various platforms. The company operates multiple television channels, including ITV, ITV2, ITV3, ITV4, and ITVBe, and produces a mix of entertainment, drama, news, and sports programming. ITV is known for producing iconic shows such as 'Coronation Street,' 'Love Island,' and 'I'm a Celebrity... Get Me Out of Here!'. In addition to television, ITV has expanded its digital presence through ITV Hub, its on-demand streaming service, which provides viewers with access to a vast library of content. The company is also involved in advertising sales, leveraging its extensive audience reach to drive revenue for its partners. With a commitment to innovation, ITV is actively exploring opportunities in new media and technology, including partnerships with streaming services and investments in original content production. ITV's mission is to entertain and inform, providing high-quality programming that resonates with viewers across the UK and beyond.",
+    "industry": [
+        "Media",
+        "Broadcasting"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1955",
+    "website": "https://www.itv.com",
+    "ceo": "Carolyn McCall",
+    "social_media": {
+        "twitter": "https://twitter.com/ITV",
+        "linkedin": "https://www.linkedin.com/company/itv/"
+    },
+    "investor_relations": "https://www.itvplc.com/investors",
+    "key_executives": [
+        {
+            "name": "Carolyn McCall",
+            "position": "CEO"
+        },
+        {
+            "name": "Iain Coucher",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Television Channels",
+            "products": [
+                "ITV",
+                "ITV2",
+                "ITV3",
+                "ITV4",
+                "ITVBe"
+            ]
+        },
+        {
+            "category": "Digital Services",
+            "products": [
+                "ITV Hub"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ITV PLC | British Media and Broadcasting Company",
+        "meta_description": "Explore ITV PLC, a leading UK broadcaster known for its diverse programming and innovation in media. Discover ITV's channels, digital services, and commitment to quality content.",
+        "keywords": [
+            "ITV",
+            "Broadcasting",
+            "Television",
+            "Media",
+            "UK TV",
+            "Streaming",
+            "Entertainment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is ITV known for?",
+            "answer": "ITV is known for its wide range of television programming, including popular series and live events."
+        },
+        {
+            "question": "Who is the CEO of ITV?",
+            "answer": "Carolyn McCall is the CEO of ITV PLC."
+        },
+        {
+            "question": "Where is ITV headquartered?",
+            "answer": "ITV is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are ITV's main products?",
+            "answer": "ITV's main products include its television channels and the ITV Hub streaming service."
+        },
+        {
+            "question": "When was ITV founded?",
+            "answer": "ITV was founded in 1955."
+        }
+    ],
+    "competitors": [
+        "BBC",
+        "CMCSA",
+        "DIS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "NFLX"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "IDT",
+    "name": "IDT Corporation",
+    "description": "IDT Corporation is a diversified telecommunications and payment services company that has been a leader in the prepaid calling card industry since its inception in 1990. Headquartered in Newark, New Jersey, IDT provides a range of services that include telecommunications, payment solutions, and energy services. The company operates through various segments, including IDT Telecom, which offers international long-distance services and prepaid phone cards, and IDT Energy, which provides energy supply services to residential and commercial customers. IDT is also involved in the rapidly growing fintech space, offering services such as mobile payments and international remittances. With a commitment to innovation and customer satisfaction, IDT leverages advanced technology to enhance its service offerings and streamline operations. Through its subsidiaries, IDT serves millions of customers worldwide, focusing on providing high-quality services at competitive prices. IDT's mission is to empower people and businesses through affordable communications and payment solutions, making it easier for them to connect and transact globally.",
+    "industry": [
+        "Telecommunications",
+        "Financial Services"
+    ],
+    "headquarters": "Newark, New Jersey, USA",
+    "founded": "1990",
+    "website": "https://www.idt.net",
+    "ceo": "Shmuel Jonas",
+    "social_media": {
+        "twitter": "https://twitter.com/IDT_Corporation",
+        "linkedin": "https://www.linkedin.com/company/idt-corporation/"
+    },
+    "investor_relations": "https://www.idt.net/investor-relations",
+    "key_executives": [
+        {
+            "name": "Shmuel Jonas",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard J. D'Amato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications",
+            "products": [
+                "International Calling",
+                "Prepaid Phone Cards"
+            ]
+        },
+        {
+            "category": "Payment Solutions",
+            "products": [
+                "Mobile Payments",
+                "International Remittances"
+            ]
+        },
+        {
+            "category": "Energy Services",
+            "products": [
+                "Energy Supply"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IDT Corporation | Telecommunications and Payment Solutions",
+        "meta_description": "Explore IDT Corporation, a leader in telecommunications and payment services. Discover our innovative solutions for global connectivity and financial transactions.",
+        "keywords": [
+            "IDT",
+            "Telecommunications",
+            "Payment Solutions",
+            "International Calling",
+            "Prepaid Phone Cards",
+            "Energy Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does IDT offer?",
+            "answer": "IDT offers telecommunications services, payment solutions, and energy supply services."
+        },
+        {
+            "question": "Who is the CEO of IDT Corporation?",
+            "answer": "Shmuel Jonas is the CEO of IDT Corporation."
+        },
+        {
+            "question": "Where is IDT headquartered?",
+            "answer": "IDT is headquartered in Newark, New Jersey, USA."
+        },
+        {
+            "question": "When was IDT founded?",
+            "answer": "IDT was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "VZ",
+        "T",
+        "TMUS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

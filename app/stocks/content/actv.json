@@ -1,0 +1,80 @@
+{
+    "ticker": "ACTV",
+    "name": "ActiveViam",
+    "description": "ActiveViam is a leading provider of real-time data analytics and decision-making solutions for businesses worldwide. Founded in 2005, the company specializes in developing innovative software that enables organizations to harness the power of their data to make informed, strategic decisions. ActiveViam's flagship product, ActiveViam Analytics, offers dynamic data visualization, advanced analytics, and real-time reporting capabilities, allowing users to explore complex datasets with ease. The company's solutions are widely used across various industries, including finance, retail, and logistics, to optimize operations, enhance customer experiences, and improve overall performance. ActiveViam is dedicated to empowering businesses to become data-driven, providing them with the tools they need to unlock insights and drive growth. With a strong emphasis on user experience and flexibility, ActiveViam continues to evolve its offerings to meet the changing needs of its clients, establishing itself as a trusted partner in the realm of data analytics.",
+    "industry": [
+        "Software",
+        "Data Analytics"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2005",
+    "website": "https://www.activeviam.com",
+    "ceo": "Jean-Fran\u00e7ois Pichon",
+    "social_media": {
+        "twitter": "https://twitter.com/ActiveViam",
+        "linkedin": "https://www.linkedin.com/company/activeviam/"
+    },
+    "investor_relations": "https://www.activeviam.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jean-Fran\u00e7ois Pichon",
+            "position": "CEO"
+        },
+        {
+            "name": "Pierre H. F. Gandon",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Analytics Solutions",
+            "products": [
+                "ActiveViam Analytics",
+                "ActiveViam Dashboards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ActiveViam | Real-Time Data Analytics Solutions",
+        "meta_description": "Discover ActiveViam, a leader in real-time data analytics and decision-making solutions. Empower your business with innovative software to unlock the full potential of your data.",
+        "keywords": [
+            "ActiveViam",
+            "Data Analytics",
+            "Real-Time Analytics",
+            "Business Intelligence",
+            "Data Visualization"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ActiveViam specialize in?",
+            "answer": "ActiveViam specializes in real-time data analytics and decision-making solutions."
+        },
+        {
+            "question": "Who is the CEO of ActiveViam?",
+            "answer": "Jean-Fran\u00e7ois Pichon is the CEO of ActiveViam."
+        },
+        {
+            "question": "Where is ActiveViam headquartered?",
+            "answer": "ActiveViam is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are the main products of ActiveViam?",
+            "answer": "ActiveViam's main products include ActiveViam Analytics and ActiveViam Dashboards."
+        },
+        {
+            "question": "When was ActiveViam founded?",
+            "answer": "ActiveViam was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ORCL",
+        "SAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN"
+    ]
+}

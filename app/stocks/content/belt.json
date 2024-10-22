@@ -1,0 +1,99 @@
+{
+    "ticker": "BELT",
+    "name": "Belden Inc.",
+    "description": "Belden Inc. is a global leader in signal transmission solutions, providing a comprehensive range of high-quality cables, connectivity products, and networking equipment. Founded in 1902, Belden serves diverse markets including industrial, enterprise, broadcast, and security sectors. The company is renowned for its innovative approaches to connectivity and networking, enabling reliable data transmission in critical applications. Belden's portfolio includes a wide array of products such as copper and fiber optic cables, data and audio/video connectivity solutions, and industrial networking equipment. With a strong focus on quality and performance, Belden empowers customers to achieve greater operational efficiency and productivity. The company has established a global presence with manufacturing facilities, distribution centers, and a dedicated workforce that ensures timely delivery and responsive service. Belden is committed to sustainability and strives to minimize its environmental impact through responsible manufacturing practices and product design. As industries increasingly rely on the Internet of Things (IoT) and automation, Belden is positioned to play a pivotal role in shaping the future of secure and efficient connectivity solutions.",
+    "industry": [
+        "Telecommunications",
+        "Networking",
+        "Manufacturing"
+    ],
+    "headquarters": "Richmond, Indiana, USA",
+    "founded": "1902",
+    "website": "https://www.belden.com",
+    "ceo": "Roel Vestjens",
+    "social_media": {
+        "twitter": "https://twitter.com/beldeninc",
+        "linkedin": "https://www.linkedin.com/company/beldeninc",
+        "facebook": "https://www.facebook.com/beldeninc"
+    },
+    "investor_relations": "https://investor.belden.com",
+    "key_executives": [
+        {
+            "name": "Roel Vestjens",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha W. H. Wong",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cables",
+            "products": [
+                "Copper Cables",
+                "Fiber Optic Cables"
+            ]
+        },
+        {
+            "category": "Connectivity Solutions",
+            "products": [
+                "Data Connectors",
+                "Audio/Video Connectors"
+            ]
+        },
+        {
+            "category": "Networking Equipment",
+            "products": [
+                "Industrial Switches",
+                "Wireless Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Belden Inc. | Signal Transmission Solutions",
+        "meta_description": "Explore Belden Inc., a leader in signal transmission solutions. Discover high-quality cables, connectivity products, and networking equipment.",
+        "keywords": [
+            "Belden",
+            "Signal Transmission",
+            "Networking",
+            "Cables",
+            "Connectivity Solutions",
+            "Industrial Networking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Belden specialize in?",
+            "answer": "Belden specializes in signal transmission solutions, including cables, connectivity products, and networking equipment."
+        },
+        {
+            "question": "Who is the CEO of Belden?",
+            "answer": "Roel Vestjens is the CEO of Belden Inc."
+        },
+        {
+            "question": "Where is Belden headquartered?",
+            "answer": "Belden is headquartered in Richmond, Indiana, USA."
+        },
+        {
+            "question": "What are Belden's main products?",
+            "answer": "Belden's main products include copper and fiber optic cables, data connectors, and industrial networking equipment."
+        },
+        {
+            "question": "When was Belden founded?",
+            "answer": "Belden was founded in 1902."
+        }
+    ],
+    "competitors": [
+        "MO",
+        "NVT",
+        "FLEX",
+        "TEL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "CSCO",
+        "IBM",
+        "ORCL"
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "ticker": "CART",
+    "name": "Cart.com, Inc.",
+    "description": "Cart.com, Inc. is a leading e-commerce solutions provider that empowers businesses to build, manage, and scale their online stores effectively. Founded in 2020, Cart.com aims to simplify the complexities of e-commerce by offering a comprehensive platform that integrates website development, order management, fulfillment, and customer engagement tools. The company's mission is to enable retailers of all sizes to thrive in the digital marketplace by providing them with the resources and technology needed to succeed. With its user-friendly interface and powerful backend systems, Cart.com supports merchants from the initial setup of their online store to the management of logistics and customer service. Additionally, Cart.com offers analytics and reporting features that help businesses make informed decisions based on their performance metrics. The company is committed to innovation and continuously enhances its platform to meet the evolving needs of e-commerce. By focusing on customer satisfaction and operational efficiency, Cart.com positions itself as a vital partner for businesses looking to enhance their online presence and drive sales.",
+    "industry": [
+        "E-commerce",
+        "Technology"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2020",
+    "website": "https://www.cart.com",
+    "ceo": "Omar Akhtar",
+    "social_media": {
+        "twitter": "https://twitter.com/cartdotcom",
+        "linkedin": "https://www.linkedin.com/company/cartdotcom/"
+    },
+    "investor_relations": "https://www.cart.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Omar Akhtar",
+            "position": "CEO"
+        },
+        {
+            "name": "Katrina Wong",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "E-commerce Platform",
+            "products": [
+                "Online Store Builder",
+                "Order Management System",
+                "Customer Engagement Tools"
+            ]
+        },
+        {
+            "category": "Logistics Solutions",
+            "products": [
+                "Fulfillment Services",
+                "Shipping Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cart.com | Leading E-commerce Solutions Provider",
+        "meta_description": "Discover Cart.com, a comprehensive platform for building and managing online stores. Explore our e-commerce solutions designed to help businesses thrive.",
+        "keywords": [
+            "Cart.com",
+            "E-commerce Solutions",
+            "Online Store",
+            "Order Management",
+            "Logistics",
+            "Customer Engagement"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Cart.com offer?",
+            "answer": "Cart.com offers a comprehensive e-commerce platform that includes online store building, order management, fulfillment, and customer engagement tools."
+        },
+        {
+            "question": "Who is the CEO of Cart.com?",
+            "answer": "Omar Akhtar is the CEO of Cart.com, Inc."
+        },
+        {
+            "question": "Where is Cart.com headquartered?",
+            "answer": "Cart.com is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "When was Cart.com founded?",
+            "answer": "Cart.com was founded in 2020."
+        }
+    ],
+    "competitors": [
+        "SHOP",
+        "WIX",
+        "SQ"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "EBAY"
+    ]
+}

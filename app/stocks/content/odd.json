@@ -1,0 +1,89 @@
+{
+    "ticker": "ODD",
+    "name": "Oddity Tech Ltd.",
+    "description": "Oddity Tech Ltd. is a leading player in the technology and beauty industry, specializing in the development of innovative beauty products and digital solutions. Founded in 2020, Oddity leverages cutting-edge technology to create personalized beauty experiences that cater to the unique preferences of consumers. The company's flagship brand, IL MAKIAGE, is renowned for its high-performance makeup products and advanced color-matching technology, which allows customers to find their perfect foundation shade online. Oddity also focuses on enhancing the shopping experience through augmented reality (AR) and artificial intelligence (AI), providing users with tools to visualize products on themselves before making a purchase. The company is committed to sustainability and aims to reduce its environmental footprint by utilizing eco-friendly packaging and promoting responsible sourcing of ingredients. With a mission to empower consumers to express their individuality and enhance their beauty journeys, Oddity Tech continues to push the boundaries of what is possible in the beauty industry through innovation and technology.",
+    "industry": [
+        "Technology",
+        "Beauty"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2020",
+    "website": "https://www.odditytech.com",
+    "ceo": "Fara Homidi",
+    "social_media": {
+        "twitter": "https://twitter.com/odditytech",
+        "instagram": "https://www.instagram.com/odditytech/"
+    },
+    "investor_relations": "https://ir.odditytech.com",
+    "key_executives": [
+        {
+            "name": "Fara Homidi",
+            "position": "CEO"
+        },
+        {
+            "name": "Maya Kahlon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beauty Products",
+            "products": [
+                "Foundation",
+                "Mascara",
+                "Lipstick"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "AR Beauty Apps",
+                "AI Shade Matching"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Oddity Tech Ltd. | Innovative Beauty Technology",
+        "meta_description": "Explore Oddity Tech Ltd., a pioneer in the beauty and technology sectors. Discover our innovative products, mission, and commitment to sustainability.",
+        "keywords": [
+            "Oddity Tech",
+            "Beauty Technology",
+            "IL MAKIAGE",
+            "Personalized Beauty",
+            "Sustainable Beauty"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Oddity Tech specialize in?",
+            "answer": "Oddity Tech specializes in innovative beauty products and digital solutions using advanced technology."
+        },
+        {
+            "question": "Who is the CEO of Oddity Tech?",
+            "answer": "Fara Homidi is the CEO of Oddity Tech Ltd."
+        },
+        {
+            "question": "Where is Oddity Tech headquartered?",
+            "answer": "Oddity Tech is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Oddity Tech's main products?",
+            "answer": "Oddity Tech's main products include makeup items like foundation and mascara, as well as digital solutions such as AR beauty apps."
+        },
+        {
+            "question": "When was Oddity Tech founded?",
+            "answer": "Oddity Tech was founded in 2020."
+        }
+    ],
+    "competitors": [
+        "REV",
+        "L'Or\u00e9al",
+        "ESTE"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

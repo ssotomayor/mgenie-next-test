@@ -1,0 +1,92 @@
+{
+    "ticker": "GPRO",
+    "name": "GoPro, Inc.",
+    "description": "GoPro, Inc. is a leading technology company that specializes in capturing and sharing immersive experiences through its innovative cameras and software solutions. Founded in 2002 by Nick Woodman, GoPro initially gained fame for its compact, durable action cameras designed for outdoor and extreme sports enthusiasts. Over the years, the company has expanded its product lineup to include a range of cameras, including the HERO series, which feature high-resolution video capabilities and advanced stabilization technology. GoPro has also developed a robust ecosystem that includes editing software, mobile applications, and a cloud-based service for storing and sharing videos and photos. The company's mission is to help people capture and share life's most meaningful moments, making it easier for users to tell their stories through stunning visuals. GoPro's products are widely recognized for their quality and versatility, appealing to both amateur and professional content creators. Beyond hardware, GoPro has invested in software solutions that enhance the user experience, allowing for seamless editing and sharing of content across various platforms. The company continues to innovate, exploring opportunities in areas such as virtual reality and live streaming to further engage its community of users.",
+    "industry": [
+        "Consumer Electronics",
+        "Photography"
+    ],
+    "headquarters": "San Mateo, California, USA",
+    "founded": "2002",
+    "website": "https://www.gopro.com",
+    "ceo": "Nick Woodman",
+    "social_media": {
+        "twitter": "https://twitter.com/GoPro",
+        "linkedin": "https://www.linkedin.com/company/gopro",
+        "instagram": "https://www.instagram.com/gopro",
+        "youtube": "https://www.youtube.com/user/GoProCamera"
+    },
+    "investor_relations": "https://investor.gopro.com",
+    "key_executives": [
+        {
+            "name": "Nick Woodman",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian McGee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cameras",
+            "products": [
+                "HERO10 Black",
+                "HERO9 Black",
+                "MAX"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "GoPro App",
+                "Quik"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GoPro, Inc. | Capture and Share Your World",
+        "meta_description": "Explore GoPro, Inc. and discover innovative action cameras, software, and accessories designed to help you capture and share your adventures.",
+        "keywords": [
+            "GoPro",
+            "Action Cameras",
+            "Photography",
+            "Video Editing",
+            "Extreme Sports",
+            "Adventure"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is GoPro known for?",
+            "answer": "GoPro is known for its action cameras and software that enable users to capture and share high-quality video and photos."
+        },
+        {
+            "question": "Who is the CEO of GoPro?",
+            "answer": "Nick Woodman is the CEO of GoPro, Inc."
+        },
+        {
+            "question": "Where is GoPro headquartered?",
+            "answer": "GoPro is headquartered in San Mateo, California, USA."
+        },
+        {
+            "question": "What are GoPro's main products?",
+            "answer": "GoPro's main products include the HERO series cameras and editing software like the GoPro App and Quik."
+        },
+        {
+            "question": "When was GoPro founded?",
+            "answer": "GoPro was founded in 2002."
+        }
+    ],
+    "competitors": [
+        "DJI",
+        "SNE",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "TSLA"
+    ]
+}

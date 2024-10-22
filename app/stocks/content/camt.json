@@ -1,0 +1,88 @@
+{
+    "ticker": "CAMT",
+    "name": "Camtek Ltd.",
+    "description": "Camtek Ltd. is a leading provider of automated inspection and metrology equipment for the semiconductor industry. Founded in 1987 and headquartered in Migdal HaEmek, Israel, Camtek specializes in the development and manufacturing of advanced solutions that enhance the production process and improve yield in semiconductor manufacturing. The company offers a range of products, including inspection systems, metrology tools, and software solutions that cater to the needs of semiconductor manufacturers worldwide. Camtek's cutting-edge technology is designed to identify defects and ensure the integrity of critical components, making it an essential partner for its clients in the fast-paced world of electronics. Over the years, Camtek has established a reputation for innovation and quality, consistently delivering state-of-the-art solutions that help clients optimize their production processes and achieve higher efficiency. The company's commitment to research and development allows it to stay at the forefront of the industry, adapting to changing technologies and market demands. As the semiconductor market continues to grow, driven by advancements in electronics, artificial intelligence, and 5G technology, Camtek is well-positioned to capitalize on these trends and expand its global footprint.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Migdal HaEmek, Israel",
+    "founded": "1987",
+    "website": "https://www.camtek.com",
+    "ceo": "Rafi Amit",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/camtek/"
+    },
+    "investor_relations": "https://www.camtek.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Rafi Amit",
+            "position": "CEO"
+        },
+        {
+            "name": "Yossi Cohen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Inspection Systems",
+            "products": [
+                "FLEX",
+                "EAGLE"
+            ]
+        },
+        {
+            "category": "Metrology Tools",
+            "products": [
+                "SPYDER",
+                "GEMINI"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Camtek Ltd. | Automated Inspection and Metrology Solutions",
+        "meta_description": "Explore Camtek Ltd., a leader in semiconductor inspection and metrology solutions. Discover how Camtek's innovative technologies optimize production processes.",
+        "keywords": [
+            "Camtek",
+            "Semiconductor Inspection",
+            "Metrology",
+            "Automated Systems",
+            "Technology Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Camtek specialize in?",
+            "answer": "Camtek specializes in automated inspection and metrology equipment for the semiconductor industry."
+        },
+        {
+            "question": "Who is the CEO of Camtek?",
+            "answer": "Rafi Amit is the CEO of Camtek Ltd."
+        },
+        {
+            "question": "Where is Camtek headquartered?",
+            "answer": "Camtek is headquartered in Migdal HaEmek, Israel."
+        },
+        {
+            "question": "What are Camtek's main products?",
+            "answer": "Camtek's main products include inspection systems like FLEX and EAGLE, and metrology tools like SPYDER and GEMINI."
+        },
+        {
+            "question": "When was Camtek founded?",
+            "answer": "Camtek was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "AMAT",
+        "ASML",
+        "KLA",
+        "LRCX"
+    ],
+    "related_stocks": [
+        "INTC",
+        "NVDA",
+        "QCOM",
+        "TXN"
+    ]
+}

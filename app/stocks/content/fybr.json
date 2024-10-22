@@ -1,0 +1,80 @@
+{
+    "ticker": "FYBR",
+    "name": "Fidium Fiber",
+    "description": "Fidium Fiber is a telecommunications company dedicated to providing high-speed internet and communication services across rural and underserved areas in the United States. Launched as a subsidiary of Consolidated Communications, Fidium Fiber focuses on delivering fiber-optic internet solutions that enable both residential and business customers to enjoy fast and reliable connectivity. The company is committed to bridging the digital divide by expanding access to broadband services in communities that have historically faced challenges with internet availability. Fidium Fiber offers a variety of plans tailored to meet diverse needs, with speeds that can reach up to 2 Gbps, ensuring customers can stream, work, and connect without interruption. Beyond internet services, Fidium Fiber emphasizes customer support and community engagement, working closely with local residents to foster digital literacy and support local initiatives. Their mission is to enhance the quality of life through superior connectivity, empowering individuals and businesses to thrive in an increasingly digital world.",
+    "industry": [
+        "Telecommunications",
+        "Internet Services"
+    ],
+    "headquarters": "Mediapolis, Iowa, USA",
+    "founded": "2021",
+    "website": "https://www.fidiumfiber.com",
+    "ceo": "Bob Udell",
+    "social_media": {
+        "twitter": "https://twitter.com/FidiumFiber",
+        "linkedin": "https://www.linkedin.com/company/fidium-fiber/"
+    },
+    "investor_relations": "https://www.consolidated.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Bob Udell",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Henson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Internet Services",
+            "products": [
+                "Residential Fiber Internet",
+                "Business Fiber Internet"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fidium Fiber | High-Speed Internet for All",
+        "meta_description": "Discover Fidium Fiber, a leader in providing high-speed internet services to rural and underserved communities. Explore our plans and commitment to connectivity.",
+        "keywords": [
+            "Fidium Fiber",
+            "High-Speed Internet",
+            "Fiber Optic",
+            "Broadband Services",
+            "Telecommunications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Fidium Fiber offer?",
+            "answer": "Fidium Fiber offers high-speed internet services for both residential and business customers."
+        },
+        {
+            "question": "Who is the CEO of Fidium Fiber?",
+            "answer": "Bob Udell is the CEO of Fidium Fiber."
+        },
+        {
+            "question": "Where is Fidium Fiber headquartered?",
+            "answer": "Fidium Fiber is headquartered in Mediapolis, Iowa, USA."
+        },
+        {
+            "question": "What are the internet speeds offered by Fidium Fiber?",
+            "answer": "Fidium Fiber offers internet speeds that can reach up to 2 Gbps."
+        },
+        {
+            "question": "When was Fidium Fiber founded?",
+            "answer": "Fidium Fiber was founded in 2021."
+        }
+    ],
+    "competitors": [
+        "CNC",
+        "TMUS",
+        "VZ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

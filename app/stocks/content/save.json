@@ -1,0 +1,91 @@
+{
+    "ticker": "SAVE",
+    "name": "Spirit Airlines, Inc.",
+    "description": "Spirit Airlines, Inc. is a leading ultra-low-cost carrier based in the United States, known for its no-frills approach to air travel. Founded in 1980 as a charter airline, Spirit transitioned to a scheduled passenger airline in 1992. The company operates flights to over 75 destinations in the United States, Latin America, and the Caribbean, focusing on providing affordable air travel options for budget-conscious travelers. Spirit's business model revolves around offering low base fares while charging for various ancillary services, including seat selection, baggage fees, and in-flight refreshments. This model allows Spirit to keep its ticket prices low, making air travel accessible to a broader audience. The airline is recognized for its colorful branding and friendly staff, striving to deliver a safe and reliable travel experience. Spirit Airlines also emphasizes operational efficiency and fleet modernization, operating an all-Airbus fleet that contributes to its cost-effective operations. Through continuous growth and expansion, Spirit aims to become the airline of choice for travelers seeking value without compromising on service quality.",
+    "industry": [
+        "Airlines",
+        "Transportation"
+    ],
+    "headquarters": "Miramar, Florida, USA",
+    "founded": "1980",
+    "website": "https://www.spirit.com",
+    "ceo": "Ted Christie",
+    "social_media": {
+        "twitter": "https://twitter.com/spiritairlines",
+        "linkedin": "https://www.linkedin.com/company/spirit-airlines",
+        "facebook": "https://www.facebook.com/spiritairlines",
+        "instagram": "https://www.instagram.com/spiritairlines"
+    },
+    "investor_relations": "https://investors.spirit.com",
+    "key_executives": [
+        {
+            "name": "Ted Christie",
+            "position": "CEO"
+        },
+        {
+            "name": "Matt Klein",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Flight Tickets",
+                "Baggage Services",
+                "Seat Selection"
+            ]
+        },
+        {
+            "category": "In-Flight Services",
+            "products": [
+                "Snacks and Beverages",
+                "Wi-Fi Access"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Spirit Airlines, Inc. | Affordable Air Travel",
+        "meta_description": "Discover Spirit Airlines, Inc., the leading ultra-low-cost carrier offering affordable flights across the U.S., Latin America, and the Caribbean.",
+        "keywords": [
+            "Spirit Airlines",
+            "Ultra-Low-Cost Carrier",
+            "Budget Travel",
+            "Cheap Flights",
+            "Air Travel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Spirit Airlines known for?",
+            "answer": "Spirit Airlines is known for its ultra-low-cost fares and no-frills approach to air travel."
+        },
+        {
+            "question": "Who is the CEO of Spirit Airlines?",
+            "answer": "Ted Christie is the CEO of Spirit Airlines, Inc."
+        },
+        {
+            "question": "Where is Spirit Airlines headquartered?",
+            "answer": "Spirit Airlines is headquartered in Miramar, Florida, USA."
+        },
+        {
+            "question": "What destinations does Spirit Airlines serve?",
+            "answer": "Spirit Airlines serves over 75 destinations in the U.S., Latin America, and the Caribbean."
+        },
+        {
+            "question": "When was Spirit Airlines founded?",
+            "answer": "Spirit Airlines was founded in 1980."
+        }
+    ],
+    "competitors": [
+        "ULCC",
+        "ALGT",
+        "SAVE"
+    ],
+    "related_stocks": [
+        "AAL",
+        "DAL",
+        "UAL",
+        "LUV"
+    ]
+}

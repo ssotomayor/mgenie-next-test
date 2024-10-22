@@ -1,0 +1,90 @@
+{
+    "ticker": "NDAQ",
+    "name": "Nasdaq, Inc.",
+    "description": "Nasdaq, Inc. is a global technology company that operates the Nasdaq stock exchange, one of the largest electronic stock exchanges in the world. Founded in 1971, Nasdaq was the first electronic exchange, transforming the way securities are traded. The company offers a diverse range of services including trading, clearing, exchange technology, and market data products. Nasdaq plays a crucial role in the financial markets, providing a platform for stock trading and a suite of services to help companies raise capital and manage their investor relations. Nasdaq is known for its focus on technology and innovation, continuously enhancing its trading and market surveillance systems to ensure efficient and secure transactions. The company also operates a number of other exchanges, including the Nasdaq Nordic and Nasdaq Baltic exchanges. In addition to its exchange services, Nasdaq provides various data solutions and analytics to help market participants make informed decisions. With a commitment to transparency and integrity, Nasdaq is dedicated to fostering trust in the financial markets. The company is also a leader in promoting diversity and inclusion in the workplace and the broader financial community.",
+    "industry": [
+        "Financial Services",
+        "Technology"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1971",
+    "website": "https://www.nasdaq.com",
+    "ceo": "Adena Friedman",
+    "social_media": {
+        "twitter": "https://twitter.com/NASDAQ",
+        "linkedin": "https://www.linkedin.com/company/nasdaq",
+        "instagram": "https://www.instagram.com/nasdaq",
+        "youtube": "https://www.youtube.com/user/NASDAQNY"
+    },
+    "investor_relations": "https://ir.nasdaq.com",
+    "key_executives": [
+        {
+            "name": "Adena Friedman",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael P. T. McGarry",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Exchange Services",
+            "products": [
+                "Equities Trading",
+                "Options Trading",
+                "Fixed Income Trading"
+            ]
+        },
+        {
+            "category": "Market Technology",
+            "products": [
+                "Trading Platforms",
+                "Market Surveillance",
+                "Data Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nasdaq, Inc. | Global Technology and Financial Services",
+        "meta_description": "Explore Nasdaq, Inc., a leader in technology and financial services. Discover Nasdaq's innovative trading solutions, market insights, and commitment to integrity in the financial markets.",
+        "keywords": [
+            "Nasdaq",
+            "Stock Exchange",
+            "Financial Services",
+            "Trading Technology",
+            "Market Data",
+            "Equities",
+            "Options"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Nasdaq offer?",
+            "answer": "Nasdaq offers trading, clearing, exchange technology, and market data services."
+        },
+        {
+            "question": "Who is the CEO of Nasdaq?",
+            "answer": "Adena Friedman is the CEO of Nasdaq, Inc."
+        },
+        {
+            "question": "Where is Nasdaq headquartered?",
+            "answer": "Nasdaq is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Nasdaq founded?",
+            "answer": "Nasdaq was founded in 1971."
+        }
+    ],
+    "competitors": [
+        "ICE",
+        "CME",
+        "CBOE"
+    ],
+    "related_stocks": [
+        "NYSE",
+        "CME",
+        "ICE",
+        "CBOE"
+    ]
+}

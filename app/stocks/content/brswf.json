@@ -1,0 +1,85 @@
+{
+    "ticker": "BRSWF",
+    "name": "Bristow Group Inc.",
+    "description": "Bristow Group Inc. is a global leader in providing helicopter services for the offshore energy industry, operating in regions such as the North Sea, the Gulf of Mexico, and offshore Africa. Founded in 1955, Bristow has built a strong reputation for safety, reliability, and operational excellence, making it a trusted partner for major oil and gas companies. The company offers a wide range of services, including crew transportation, search and rescue, and emergency medical services, utilizing a modern fleet of helicopters equipped with advanced technology. Bristow's commitment to innovation is evident through its investments in digital solutions and operational efficiencies that enhance service delivery. As the energy industry evolves, Bristow is also diversifying its operations to include renewable energy services, positioning itself as a forward-thinking player in the transition to sustainable energy solutions. With a robust safety culture and a focus on environmental stewardship, Bristow aims to provide reliable transportation and logistics support while minimizing its environmental impact. The company is dedicated to maintaining high standards in safety and operational performance, ensuring that it meets the diverse needs of its clients in a challenging and dynamic industry.",
+    "industry": [
+        "Aerospace",
+        "Energy"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1955",
+    "website": "https://www.bristowgroup.com",
+    "ceo": "Chris Bradshaw",
+    "social_media": {
+        "twitter": "https://twitter.com/BristowGroup",
+        "linkedin": "https://www.linkedin.com/company/bristowgroup/"
+    },
+    "investor_relations": "https://investors.bristowgroup.com",
+    "key_executives": [
+        {
+            "name": "Chris Bradshaw",
+            "position": "CEO"
+        },
+        {
+            "name": "Cameron W. J. Hume",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Helicopter Services",
+            "services": [
+                "Crew Transportation",
+                "Search and Rescue",
+                "Emergency Medical Services"
+            ]
+        },
+        {
+            "category": "Renewable Energy Services",
+            "services": [
+                "Support for Wind Farm Operations"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bristow Group Inc. | Helicopter Services for the Offshore Energy Industry",
+        "meta_description": "Explore Bristow Group Inc., a leader in helicopter services for the offshore energy sector, committed to safety and innovation in transportation solutions.",
+        "keywords": [
+            "Bristow",
+            "Helicopter Services",
+            "Offshore Energy",
+            "Crew Transportation",
+            "Safety",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Bristow provide?",
+            "answer": "Bristow provides helicopter services for crew transportation, search and rescue, and emergency medical services."
+        },
+        {
+            "question": "Who is the CEO of Bristow Group?",
+            "answer": "Chris Bradshaw is the CEO of Bristow Group Inc."
+        },
+        {
+            "question": "Where is Bristow headquartered?",
+            "answer": "Bristow is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Bristow founded?",
+            "answer": "Bristow was founded in 1955."
+        }
+    ],
+    "competitors": [
+        "HELI",
+        "HSGI",
+        "SXI"
+    ],
+    "related_stocks": [
+        "SLB",
+        "HAL",
+        "NBL",
+        "BP"
+    ]
+}

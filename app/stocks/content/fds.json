@@ -1,0 +1,92 @@
+{
+    "ticker": "FDS",
+    "name": "FactSet Research Systems Inc.",
+    "description": "FactSet Research Systems Inc. is a global financial data and analytics company dedicated to providing comprehensive information and software solutions to investment professionals. Established in 1978, FactSet serves a wide array of clients, including investment managers, investment banks, and corporations, helping them make informed financial decisions through high-quality data and advanced analytical tools. The company's flagship product, the FactSet workstation, offers a robust platform for financial analysis, portfolio management, and market insights, allowing users to access real-time data and customizable analytics. Additionally, FactSet provides other services, including risk analytics, performance measurement, and research management solutions, enabling firms to streamline their operations and enhance productivity. The company is committed to innovation and continuously enhances its product offerings through advancements in technology, such as machine learning and artificial intelligence. With a global presence and a focus on client service, FactSet aims to empower financial professionals to achieve better investment outcomes and drive business success in a rapidly evolving financial landscape.",
+    "industry": [
+        "Financial Services",
+        "Data Analytics"
+    ],
+    "headquarters": "Norwalk, Connecticut, USA",
+    "founded": "1978",
+    "website": "https://www.factset.com",
+    "ceo": "Phil Snow",
+    "social_media": {
+        "twitter": "https://twitter.com/factset",
+        "linkedin": "https://www.linkedin.com/company/factset/",
+        "facebook": "https://www.facebook.com/factset"
+    },
+    "investor_relations": "https://investor.factset.com",
+    "key_executives": [
+        {
+            "name": "Phil Snow",
+            "position": "CEO"
+        },
+        {
+            "name": "Gregory M. McNulty",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data & Analytics",
+            "products": [
+                "FactSet Workstation",
+                "Risk Analytics",
+                "Portfolio Management Solutions"
+            ]
+        },
+        {
+            "category": "Research Solutions",
+            "products": [
+                "Research Management Solutions",
+                "Performance Measurement Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FactSet Research Systems Inc. | Financial Data and Analytics",
+        "meta_description": "Explore FactSet Research Systems Inc., a leader in financial data and analytics solutions for investment professionals. Learn about our innovative products and services.",
+        "keywords": [
+            "FactSet",
+            "Financial Data",
+            "Analytics",
+            "Investment Management",
+            "Portfolio Management",
+            "Risk Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does FactSet provide?",
+            "answer": "FactSet provides financial data and analytics solutions for investment professionals to help them make informed decisions."
+        },
+        {
+            "question": "Who is the CEO of FactSet?",
+            "answer": "Phil Snow is the CEO of FactSet Research Systems Inc."
+        },
+        {
+            "question": "Where is FactSet headquartered?",
+            "answer": "FactSet is headquartered in Norwalk, Connecticut, USA."
+        },
+        {
+            "question": "What are FactSet's main products?",
+            "answer": "FactSet's main products include the FactSet Workstation, risk analytics, and research management solutions."
+        },
+        {
+            "question": "When was FactSet founded?",
+            "answer": "FactSet was founded in 1978."
+        }
+    ],
+    "competitors": [
+        "REFR",
+        "MSCI",
+        "SPGI",
+        "VRSK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

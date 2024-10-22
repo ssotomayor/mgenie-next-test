@@ -1,0 +1,98 @@
+{
+    "ticker": "ABB",
+    "name": "ABB Ltd.",
+    "description": "ABB Ltd. is a global leader in electrification and automation technologies, helping to drive the transition to a low-carbon economy. Founded in 1988 through the merger of ASEA and BBC Brown Boveri, ABB operates in over 100 countries and employs more than 100,000 people worldwide. The company specializes in providing innovative solutions that enhance the efficiency and reliability of power grids, industrial automation, and smart buildings. ABB's portfolio includes a wide range of products such as robotics, machine automation, electrical equipment, and digital solutions that leverage the Internet of Things (IoT) to optimize performance and reduce energy consumption. With a strong commitment to sustainability, ABB focuses on delivering solutions that enable customers to reduce their environmental footprint, improve productivity, and increase safety across various sectors including utilities, transportation, and manufacturing. The company aims to empower the energy and industry sectors to operate more sustainably and efficiently, contributing to a more connected and sustainable world.",
+    "industry": [
+        "Electrical Equipment",
+        "Automation",
+        "Energy"
+    ],
+    "headquarters": "Zurich, Switzerland",
+    "founded": "1988",
+    "website": "https://global.abb",
+    "ceo": "Bj\u00f6rn Rosengren",
+    "social_media": {
+        "twitter": "https://twitter.com/ABBgroup",
+        "linkedin": "https://www.linkedin.com/company/abb/"
+    },
+    "investor_relations": "https://global.abb/investors",
+    "key_executives": [
+        {
+            "name": "Bj\u00f6rn Rosengren",
+            "position": "CEO"
+        },
+        {
+            "name": "Timo Ihamuotila",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electrification",
+            "products": [
+                "Low Voltage Products",
+                "Medium Voltage Products",
+                "Transformers"
+            ]
+        },
+        {
+            "category": "Industrial Automation",
+            "products": [
+                "Robotics",
+                "Motion Control",
+                "Process Automation"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "ABB Ability",
+                "Software Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ABB Ltd. | Electrification and Automation Technologies",
+        "meta_description": "Explore ABB Ltd., a global leader in electrification and automation. Discover innovative solutions driving efficiency and sustainability in various industries.",
+        "keywords": [
+            "ABB",
+            "Electrification",
+            "Automation",
+            "Robotics",
+            "Sustainable Energy",
+            "Industrial Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ABB specialize in?",
+            "answer": "ABB specializes in electrification and automation technologies, providing solutions for power grids, industrial automation, and smart buildings."
+        },
+        {
+            "question": "Who is the CEO of ABB?",
+            "answer": "Bj\u00f6rn Rosengren is the CEO of ABB Ltd."
+        },
+        {
+            "question": "Where is ABB headquartered?",
+            "answer": "ABB is headquartered in Zurich, Switzerland."
+        },
+        {
+            "question": "What are some key products of ABB?",
+            "answer": "Key products of ABB include low and medium voltage equipment, robotics, and digital solutions like ABB Ability."
+        },
+        {
+            "question": "When was ABB founded?",
+            "answer": "ABB was founded in 1988."
+        }
+    ],
+    "competitors": [
+        "SIEMENS",
+        "SCHNEIDER",
+        "GE"
+    ],
+    "related_stocks": [
+        "SIEMENS",
+        "EMR",
+        "PH"
+    ]
+}

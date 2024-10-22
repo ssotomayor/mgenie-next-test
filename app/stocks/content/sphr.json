@@ -1,0 +1,89 @@
+{
+    "ticker": "SPHR",
+    "name": "Sphere 3D Corp.",
+    "description": "Sphere 3D Corp. is a leading provider of cloud services and storage solutions that aims to empower businesses with innovative technology. Founded in 2010, Sphere 3D focuses on delivering powerful and scalable data management solutions through a combination of cloud, virtualization, and containerization technologies. The company specializes in enabling enterprises to securely manage and access their data across various platforms, enhancing operational efficiency and productivity. With a commitment to transforming the way businesses operate, Sphere 3D offers a range of products that include virtual desktop infrastructure (VDI), cloud storage, and data protection solutions. The company's flagship offerings leverage advanced technologies to ensure high availability and seamless integration into existing IT environments. Sphere 3D is also dedicated to providing exceptional customer support, ensuring that clients can maximize the value of their investments. As the demand for digital transformation accelerates, Sphere 3D stands at the forefront, helping organizations navigate the complexities of modern data management and cloud computing.",
+    "industry": [
+        "Cloud Computing",
+        "Data Storage"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "2010",
+    "website": "https://www.sphere3d.com",
+    "ceo": "Peter T. H. D. G. T. McCarthy",
+    "social_media": {
+        "twitter": "https://twitter.com/Sphere3D",
+        "linkedin": "https://www.linkedin.com/company/sphere-3d/"
+    },
+    "investor_relations": "https://www.sphere3d.com/investors",
+    "key_executives": [
+        {
+            "name": "Peter T. H. D. G. T. McCarthy",
+            "position": "CEO"
+        },
+        {
+            "name": "Shawn E. O'Neill",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Virtual Desktop Infrastructure",
+                "Cloud Storage Solutions"
+            ]
+        },
+        {
+            "category": "Data Management",
+            "products": [
+                "Data Protection Solutions",
+                "Containerization Technologies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sphere 3D Corp. | Cloud Services and Data Storage Solutions",
+        "meta_description": "Explore Sphere 3D Corp., a leader in cloud services and data storage solutions. Discover innovative products designed to empower businesses and streamline data management.",
+        "keywords": [
+            "Sphere 3D",
+            "Cloud Computing",
+            "Data Storage",
+            "Virtual Desktop Infrastructure",
+            "Data Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sphere 3D Corp. do?",
+            "answer": "Sphere 3D Corp. provides cloud services and data storage solutions that empower businesses through innovative technology."
+        },
+        {
+            "question": "Who is the CEO of Sphere 3D?",
+            "answer": "Peter T. H. D. G. T. McCarthy is the CEO of Sphere 3D Corp."
+        },
+        {
+            "question": "Where is Sphere 3D headquartered?",
+            "answer": "Sphere 3D is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "What are the main products offered by Sphere 3D?",
+            "answer": "Sphere 3D's main products include Virtual Desktop Infrastructure and Cloud Storage Solutions."
+        },
+        {
+            "question": "When was Sphere 3D founded?",
+            "answer": "Sphere 3D was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "VMW",
+        "NTNX",
+        "MSFT",
+        "RHT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "ORCL"
+    ]
+}

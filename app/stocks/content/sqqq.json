@@ -1,0 +1,81 @@
+{
+    "ticker": "SQQQ",
+    "name": "ProShares UltraPro Short QQQ",
+    "description": "ProShares UltraPro Short QQQ (SQQQ) is an exchange-traded fund (ETF) designed to provide investors with an opportunity to profit from a decline in the Nasdaq-100 Index. Launched in 2010, SQQQ seeks to deliver three times the inverse performance of the Nasdaq-100, which includes 100 of the largest non-financial companies listed on the Nasdaq Stock Market. This ETF is particularly popular among short-term traders and investors looking to hedge against market downturns, especially in technology-heavy sectors. SQQQ employs a strategy that utilizes derivatives, such as futures contracts and options, to achieve its investment objective. Due to its leveraged nature, SQQQ is intended for use as a short-term trading vehicle, and it may not be suitable for long-term investors due to the effects of compounding and market volatility. The fund is managed by ProShares, a leading provider of ETFs, known for its innovative investment solutions. With its focus on the Nasdaq-100, SQQQ offers exposure to major technology companies such as Apple, Microsoft, and Amazon, making it a key tool for traders looking to capitalize on market fluctuations within the tech sector.",
+    "industry": [
+        "Finance",
+        "Exchange-Traded Funds"
+    ],
+    "headquarters": "Bethesda, Maryland, USA",
+    "founded": "2010",
+    "website": "https://www.proshares.com/",
+    "ceo": "Michael L. Sapir",
+    "social_media": {
+        "twitter": "https://twitter.com/ProShares",
+        "linkedin": "https://www.linkedin.com/company/proshares/"
+    },
+    "investor_relations": "https://www.proshares.com/ir/",
+    "key_executives": [
+        {
+            "name": "Michael L. Sapir",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert D. O\u2019Connell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Inverse ETFs",
+            "products": [
+                "ProShares UltraPro Short QQQ"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ProShares UltraPro Short QQQ | Inverse ETF",
+        "meta_description": "Explore ProShares UltraPro Short QQQ (SQQQ), an ETF designed to profit from a decline in the Nasdaq-100 Index. Learn about its investment strategy and benefits.",
+        "keywords": [
+            "SQQQ",
+            "ProShares",
+            "Inverse ETF",
+            "Nasdaq-100",
+            "Short Selling",
+            "Leverage"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SQQQ?",
+            "answer": "SQQQ is an ETF that aims to provide three times the inverse performance of the Nasdaq-100 Index."
+        },
+        {
+            "question": "Who manages SQQQ?",
+            "answer": "SQQQ is managed by ProShares, a provider of innovative ETFs."
+        },
+        {
+            "question": "What is the investment strategy of SQQQ?",
+            "answer": "SQQQ uses derivatives to achieve its investment objective of delivering three times the inverse performance of the Nasdaq-100."
+        },
+        {
+            "question": "Is SQQQ suitable for long-term investing?",
+            "answer": "SQQQ is intended for short-term trading and may not be suitable for long-term investors due to compounding effects."
+        },
+        {
+            "question": "What companies are included in the Nasdaq-100?",
+            "answer": "The Nasdaq-100 includes major technology companies such as Apple, Microsoft, and Amazon."
+        }
+    ],
+    "competitors": [
+        "TZA",
+        "SDOW",
+        "SDS"
+    ],
+    "related_stocks": [
+        "SPY",
+        "QQQ",
+        "VXX",
+        "UVXY"
+    ]
+}

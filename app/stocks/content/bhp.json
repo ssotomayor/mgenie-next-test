@@ -1,0 +1,91 @@
+{
+    "ticker": "BHP",
+    "name": "BHP Group Limited",
+    "description": "BHP Group Limited is a leading global resources company headquartered in Melbourne, Australia. Founded in 1885, BHP has evolved into one of the world\u2019s largest mining and resource companies, with operations spanning across several continents. The company engages in the exploration, production, and processing of a diverse range of natural resources, including iron ore, copper, coal, and petroleum. BHP is committed to sustainable mining practices and has implemented innovative technologies to reduce its environmental footprint while maximizing efficiency. The company prioritizes safety and sustainability, aiming to minimize impacts on local communities and ecosystems. BHP operates numerous mines and processing facilities, leveraging its expertise and scale to capitalize on the growing demand for resources driven by global infrastructure development and population growth. With a strong focus on operational excellence, BHP continues to invest in its projects and technologies, including advancements in automation and digitalization, to maintain its competitive edge in the market. The company's mission is to create long-term value for its shareholders while being a responsible corporate citizen, contributing positively to the economies and communities where it operates.",
+    "industry": [
+        "Mining",
+        "Natural Resources"
+    ],
+    "headquarters": "Melbourne, Australia",
+    "founded": "1885",
+    "website": "https://www.bhp.com",
+    "ceo": "Mike Henry",
+    "social_media": {
+        "twitter": "https://twitter.com/BHP",
+        "linkedin": "https://www.linkedin.com/company/bhp/"
+    },
+    "investor_relations": "https://www.bhp.com/investors",
+    "key_executives": [
+        {
+            "name": "Mike Henry",
+            "position": "CEO"
+        },
+        {
+            "name": "David Lamont",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Metals",
+            "products": [
+                "Iron Ore",
+                "Copper"
+            ]
+        },
+        {
+            "category": "Energy",
+            "products": [
+                "Coal",
+                "Oil and Gas"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BHP Group Limited | Leading Global Resources Company",
+        "meta_description": "Explore BHP Group Limited, one of the world's largest resource companies. Learn about BHP's commitment to sustainability, mining operations, and production of essential natural resources.",
+        "keywords": [
+            "BHP",
+            "Mining",
+            "Natural Resources",
+            "Iron Ore",
+            "Copper",
+            "Coal",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BHP do?",
+            "answer": "BHP is a global resources company engaged in the mining, production, and processing of natural resources such as iron ore, copper, coal, and petroleum."
+        },
+        {
+            "question": "Who is the CEO of BHP?",
+            "answer": "Mike Henry is the CEO of BHP Group Limited."
+        },
+        {
+            "question": "Where is BHP headquartered?",
+            "answer": "BHP is headquartered in Melbourne, Australia."
+        },
+        {
+            "question": "What are BHP's main products?",
+            "answer": "BHP's main products include iron ore, copper, coal, and oil and gas."
+        },
+        {
+            "question": "When was BHP founded?",
+            "answer": "BHP was founded in 1885."
+        }
+    ],
+    "competitors": [
+        "RIO",
+        "VALE",
+        "FCX",
+        "NEM"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BKR",
+        "SLB"
+    ]
+}

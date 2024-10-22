@@ -1,0 +1,88 @@
+{
+    "ticker": "FCCO",
+    "name": "First Capital, Inc.",
+    "description": "First Capital, Inc. is a financial services company headquartered in the heart of the Midwest, dedicated to providing a wide range of banking and financial solutions to its customers. Founded in 2000, First Capital focuses on serving the needs of individuals, businesses, and communities through personalized services and innovative financial products. The company operates primarily through its subsidiary, First Capital Bank, which offers traditional banking services, including checking and savings accounts, loans, mortgages, and investment services. First Capital prides itself on its commitment to customer service, community involvement, and responsible banking practices, aiming to foster financial health and stability in the regions it serves. With a focus on leveraging technology, First Capital also provides online banking and mobile app services to enhance customer convenience and accessibility. The company is committed to transparency, regulatory compliance, and maintaining a strong balance sheet, ensuring that it remains a trusted partner for its clients. As a community-oriented institution, First Capital actively participates in local events and initiatives, reinforcing its dedication to reinvesting in the communities it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "2000",
+    "website": "https://www.firstcapitalinc.com",
+    "ceo": "John Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstCapitalInc",
+        "linkedin": "https://www.linkedin.com/company/first-capital-inc/"
+    },
+    "investor_relations": "https://ir.firstcapitalinc.com",
+    "key_executives": [
+        {
+            "name": "John Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Wealth Management",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Capital, Inc. | Community Banking and Financial Services",
+        "meta_description": "Explore First Capital, Inc., a trusted provider of banking and financial services, focused on community involvement and customer satisfaction.",
+        "keywords": [
+            "First Capital",
+            "Banking",
+            "Financial Services",
+            "Community Banking",
+            "Mortgages",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Capital offer?",
+            "answer": "First Capital offers a variety of banking services including checking and savings accounts, loans, and investment services."
+        },
+        {
+            "question": "Who is the CEO of First Capital?",
+            "answer": "John Doe is the CEO of First Capital, Inc."
+        },
+        {
+            "question": "Where is First Capital headquartered?",
+            "answer": "First Capital is headquartered in Indianapolis, Indiana, USA."
+        },
+        {
+            "question": "When was First Capital founded?",
+            "answer": "First Capital was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "WFC",
+        "JPM",
+        "BAC",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

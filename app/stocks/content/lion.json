@@ -1,0 +1,84 @@
+{
+    "ticker": "LION",
+    "name": "Lion Electric Company",
+    "description": "Lion Electric Company is a leading manufacturer of all-electric medium and heavy-duty vehicles, headquartered in Saint-J\u00e9r\u00f4me, Quebec, Canada. Founded in 2008, Lion is dedicated to creating sustainable transportation solutions that contribute to a cleaner environment. The company designs and produces a range of electric vehicles, including buses and trucks, that are tailored to meet the needs of various industries, such as public transportation, logistics, and waste management. Lion's vehicles are equipped with advanced technology and innovative features that enhance performance, safety, and efficiency. With a strong commitment to reducing greenhouse gas emissions, Lion Electric aims to accelerate the transition to electric mobility. The company is at the forefront of the electric vehicle revolution, providing zero-emission alternatives that help cities and businesses lower their carbon footprints. In addition to vehicle manufacturing, Lion Electric is also involved in the development of charging infrastructure, ensuring that their customers have access to reliable and efficient charging solutions. As the demand for electric vehicles continues to grow, Lion Electric is poised to play a pivotal role in shaping the future of transportation.",
+    "industry": [
+        "Automotive",
+        "Electric Vehicles"
+    ],
+    "headquarters": "Saint-J\u00e9r\u00f4me, Quebec, Canada",
+    "founded": "2008",
+    "website": "https://thelionelectric.com",
+    "ceo": "Marc Bedard",
+    "social_media": {
+        "twitter": "https://twitter.com/lionelectric",
+        "linkedin": "https://www.linkedin.com/company/lion-electric/"
+    },
+    "investor_relations": "https://investors.thelionelectric.com",
+    "key_executives": [
+        {
+            "name": "Marc Bedard",
+            "position": "CEO"
+        },
+        {
+            "name": "Michel L. S. Bouchard",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Buses",
+            "products": [
+                "Lion Electric Bus"
+            ]
+        },
+        {
+            "category": "Electric Trucks",
+            "products": [
+                "Lion8",
+                "Lion6"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lion Electric Company | All-Electric Vehicles and Sustainable Transportation",
+        "meta_description": "Explore Lion Electric Company, a leader in all-electric medium and heavy-duty vehicles. Learn about Lion's commitment to sustainable transportation and innovative electric solutions.",
+        "keywords": [
+            "Lion Electric",
+            "Electric Vehicles",
+            "Sustainable Transportation",
+            "Electric Buses",
+            "Electric Trucks"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of vehicles does Lion Electric manufacture?",
+            "answer": "Lion Electric manufactures all-electric medium and heavy-duty vehicles, including buses and trucks."
+        },
+        {
+            "question": "Where is Lion Electric headquartered?",
+            "answer": "Lion Electric is headquartered in Saint-J\u00e9r\u00f4me, Quebec, Canada."
+        },
+        {
+            "question": "When was Lion Electric founded?",
+            "answer": "Lion Electric was founded in 2008."
+        },
+        {
+            "question": "What is Lion Electric's mission?",
+            "answer": "Lion Electric's mission is to accelerate the transition to electric mobility and contribute to a cleaner environment."
+        }
+    ],
+    "competitors": [
+        "BLNK",
+        "BYD",
+        "NKLA",
+        "TSLA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "ticker": "CRM",
+    "name": "Salesforce, Inc.",
+    "description": "Salesforce, Inc. is a global leader in customer relationship management (CRM) software, helping businesses manage their interactions with customers, streamline processes, and enhance sales and marketing efforts. Founded in 1999 by Marc Benioff, Parker Harris, Dave Moellenhoff, and Frank Dominguez, Salesforce revolutionized the software industry by introducing cloud-based solutions that eliminate the need for on-premises software installations. The company's flagship product, the Salesforce platform, provides a robust suite of tools for sales, service, marketing, and analytics, empowering organizations to deliver personalized customer experiences. Salesforce is also known for its commitment to innovation, continuously integrating artificial intelligence (AI) and machine learning features into its offerings, such as Einstein, which enhances data-driven decision-making. With a strong emphasis on social responsibility and sustainability, Salesforce has established the 1-1-1 model, pledging 1% of product, equity, and employee time to philanthropic initiatives. The company's mission is to empower businesses to connect with their customers in new and meaningful ways while promoting a culture of trust, equality, and customer success.",
+    "industry": [
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "1999",
+    "website": "https://www.salesforce.com",
+    "ceo": "Marc Benioff",
+    "social_media": {
+        "twitter": "https://twitter.com/salesforce",
+        "linkedin": "https://www.linkedin.com/company/salesforce/",
+        "instagram": "https://www.instagram.com/salesforce/",
+        "youtube": "https://www.youtube.com/user/salesforce"
+    },
+    "investor_relations": "https://investor.salesforce.com",
+    "key_executives": [
+        {
+            "name": "Marc Benioff",
+            "position": "CEO"
+        },
+        {
+            "name": "Brett Taylor",
+            "position": "President and Chief Operating Officer"
+        },
+        {
+            "name": "Aneel Bhusri",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Sales Cloud",
+            "products": [
+                "Salesforce Essentials",
+                "Sales Cloud Lightning"
+            ]
+        },
+        {
+            "category": "Service Cloud",
+            "products": [
+                "Service Cloud Lightning",
+                "Field Service"
+            ]
+        },
+        {
+            "category": "Marketing Cloud",
+            "products": [
+                "Pardot",
+                "Marketing Cloud Personalization"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Salesforce, Inc. | Leading CRM Software Provider",
+        "meta_description": "Explore Salesforce, Inc., the leading provider of cloud-based customer relationship management solutions. Discover innovative tools that enhance customer engagement and business success.",
+        "keywords": [
+            "Salesforce",
+            "CRM",
+            "Cloud Computing",
+            "Customer Relationship Management",
+            "Sales Automation",
+            "Marketing Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Salesforce known for?",
+            "answer": "Salesforce is known for its cloud-based customer relationship management (CRM) software that helps businesses manage customer interactions."
+        },
+        {
+            "question": "Who is the CEO of Salesforce?",
+            "answer": "Marc Benioff is the CEO of Salesforce, Inc."
+        },
+        {
+            "question": "Where is Salesforce headquartered?",
+            "answer": "Salesforce is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Salesforce's main products?",
+            "answer": "Salesforce's main products include Sales Cloud, Service Cloud, and Marketing Cloud."
+        },
+        {
+            "question": "When was Salesforce founded?",
+            "answer": "Salesforce was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "ORCL",
+        "ADBE",
+        "SAP",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "INTU"
+    ]
+}

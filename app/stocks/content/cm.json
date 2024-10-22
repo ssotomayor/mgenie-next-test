@@ -1,0 +1,98 @@
+{
+    "ticker": "CM",
+    "name": "Canadian Imperial Bank of Commerce",
+    "description": "Canadian Imperial Bank of Commerce (CIBC) is one of Canada's leading financial institutions, providing a wide range of financial services to individual and commercial clients. Founded in 1867 and headquartered in Toronto, Ontario, CIBC serves millions of customers through its extensive branch network, online banking platforms, and wealth management services. The bank offers personal banking products such as mortgages, credit cards, and investment solutions, as well as business banking services, including loans, treasury management, and commercial real estate financing. CIBC is dedicated to helping clients achieve their financial goals by providing innovative solutions tailored to their needs. The bank has a strong commitment to community engagement and sustainability, investing in initiatives that promote economic development, education, and environmental stewardship. CIBC's mission is to deliver exceptional client experiences while maintaining a strong focus on ethical practices and corporate responsibility. With a significant presence in both Canada and the United States, CIBC continues to expand its offerings and enhance its digital capabilities to meet the evolving needs of its clients.",
+    "industry": [
+        "Financial Services",
+        "Banking"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1867",
+    "website": "https://www.cibc.com",
+    "ceo": "Victor Dodig",
+    "social_media": {
+        "twitter": "https://twitter.com/cibc",
+        "linkedin": "https://www.linkedin.com/company/cibc/",
+        "instagram": "https://www.instagram.com/cibc/",
+        "facebook": "https://www.facebook.com/CIBC"
+    },
+    "investor_relations": "https://www.cibc.com/en/about-cibc/investor-relations.html",
+    "key_executives": [
+        {
+            "name": "Victor Dodig",
+            "position": "CEO"
+        },
+        {
+            "name": "Kevin Patterson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Mortgages",
+                "Credit Cards",
+                "Investment Accounts"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Commercial Loans",
+                "Treasury Management",
+                "Real Estate Financing"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Financial Planning",
+                "Investment Management",
+                "Retirement Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Canadian Imperial Bank of Commerce | Banking and Financial Services",
+        "meta_description": "Discover CIBC, a leading Canadian bank offering personal and business financial solutions, wealth management, and dedicated client services.",
+        "keywords": [
+            "CIBC",
+            "Canadian Bank",
+            "Financial Services",
+            "Wealth Management",
+            "Mortgages",
+            "Investments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CIBC offer?",
+            "answer": "CIBC offers personal and business banking services, wealth management, and investment solutions."
+        },
+        {
+            "question": "Who is the CEO of CIBC?",
+            "answer": "Victor Dodig is the CEO of Canadian Imperial Bank of Commerce."
+        },
+        {
+            "question": "Where is CIBC headquartered?",
+            "answer": "CIBC is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was CIBC founded?",
+            "answer": "CIBC was founded in 1867."
+        }
+    ],
+    "competitors": [
+        "RY",
+        "BNS",
+        "TD",
+        "NA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "ticker": "KODK",
+    "name": "Eastman Kodak Company",
+    "description": "Eastman Kodak Company, commonly known as Kodak, is a technology company that has been a pioneer in imaging and photography since its founding in 1888 by George Eastman. Kodak initially revolutionized the photography industry with its innovative film products and cameras, becoming synonymous with photography for much of the 20th century. In recent years, Kodak has transitioned from its traditional film business to focus on digital printing, imaging, and advanced materials and chemicals. The company is actively involved in the commercial printing and packaging sectors, offering solutions for digital printing that cater to a wide range of industries. Kodak has also invested in new technologies, such as 3D printing and blockchain, to diversify its offerings and adapt to the changing market landscape. With a commitment to innovation and quality, Kodak continues to leverage its rich heritage in imaging to create new opportunities in various sectors, including consumer products, commercial printing, and professional services. The company's mission is to empower creators and businesses with cutting-edge imaging solutions that enhance productivity and creativity.",
+    "industry": [
+        "Imaging",
+        "Technology",
+        "Printing"
+    ],
+    "headquarters": "Rochester, New York, USA",
+    "founded": "1888",
+    "website": "https://www.kodak.com",
+    "ceo": "Jim Continenza",
+    "social_media": {
+        "twitter": "https://twitter.com/Kodak",
+        "linkedin": "https://www.linkedin.com/company/kodak/"
+    },
+    "investor_relations": "https://investor.kodak.com",
+    "key_executives": [
+        {
+            "name": "Jim Continenza",
+            "position": "CEO"
+        },
+        {
+            "name": "David Bullwinkle",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Printing Solutions",
+            "products": [
+                "Kodak NEXFINITY",
+                "Kodak PROSPER"
+            ]
+        },
+        {
+            "category": "Film and Imaging",
+            "products": [
+                "Kodak Professional Film",
+                "Kodak EKTACHROME"
+            ]
+        },
+        {
+            "category": "Advanced Materials",
+            "products": [
+                "Kodak 3D Printing",
+                "Kodak Chemical Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eastman Kodak Company | Imaging and Printing Solutions",
+        "meta_description": "Explore Eastman Kodak Company, a leader in imaging technology. Discover Kodak's innovative products and solutions for digital printing, film, and advanced materials.",
+        "keywords": [
+            "Kodak",
+            "Imaging",
+            "Digital Printing",
+            "Photography",
+            "Film",
+            "3D Printing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Kodak known for?",
+            "answer": "Kodak is known for its pioneering role in photography and imaging technology, including film and digital printing solutions."
+        },
+        {
+            "question": "Who is the CEO of Kodak?",
+            "answer": "Jim Continenza is the CEO of Eastman Kodak Company."
+        },
+        {
+            "question": "Where is Kodak headquartered?",
+            "answer": "Kodak is headquartered in Rochester, New York, USA."
+        },
+        {
+            "question": "What are Kodak's main products?",
+            "answer": "Kodak's main products include digital printing solutions, professional film, and advanced materials."
+        },
+        {
+            "question": "When was Kodak founded?",
+            "answer": "Kodak was founded in 1888."
+        }
+    ],
+    "competitors": [
+        "Fujifilm",
+        "Canon",
+        "Hewlett Packard",
+        "Xerox"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

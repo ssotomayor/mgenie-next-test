@@ -1,0 +1,97 @@
+{
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "description": "Ford Motor Company is a globally recognized leader in the automotive industry, known for its innovative vehicles and dedication to sustainability. Founded in 1903 by Henry Ford, the company revolutionized mass production with the introduction of assembly line manufacturing, making automobiles accessible to the general public. Ford's product lineup includes a range of vehicles, from sedans and SUVs to trucks and electric vehicles, with popular models like the Ford F-150, Mustang, and Explorer. In recent years, Ford has made significant strides towards electrification, committing to a multi-billion dollar investment in electric vehicle development and production, with plans to offer a full range of electric vehicles by 2030. The Ford Mustang Mach-E, an all-electric SUV, exemplifies the company's commitment to innovation and sustainability. Ford also focuses on advanced safety technologies and connectivity features in its vehicles, striving to enhance the driving experience. With a strong global presence and a commitment to community engagement, Ford continues to shape the future of transportation while upholding its legacy of quality and reliability.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Dearborn, Michigan, USA",
+    "founded": "1903",
+    "website": "https://www.ford.com",
+    "ceo": "Jim Farley",
+    "social_media": {
+        "twitter": "https://twitter.com/Ford",
+        "linkedin": "https://www.linkedin.com/company/ford-motor-company/",
+        "instagram": "https://www.instagram.com/ford/",
+        "youtube": "https://www.youtube.com/user/Ford"
+    },
+    "investor_relations": "https://investors.ford.com",
+    "key_executives": [
+        {
+            "name": "Jim Farley",
+            "position": "CEO"
+        },
+        {
+            "name": "John Lawler",
+            "position": "CFO"
+        },
+        {
+            "name": "Lisa Drake",
+            "position": "Vice President, Global Operations"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vehicles",
+            "products": [
+                "Ford F-150",
+                "Ford Mustang",
+                "Ford Explorer",
+                "Ford Mustang Mach-E"
+            ]
+        },
+        {
+            "category": "Mobility Solutions",
+            "products": [
+                "FordPass",
+                "Ford Telematics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ford Motor Company | Innovating the Future of Transportation",
+        "meta_description": "Explore Ford Motor Company, a leader in the automotive industry committed to innovation and sustainability. Discover Ford's electric vehicles, advanced technologies, and rich history.",
+        "keywords": [
+            "Ford",
+            "Automotive",
+            "Electric Vehicles",
+            "Ford F-150",
+            "Mustang",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Ford known for?",
+            "answer": "Ford is known for its innovative vehicles, including trucks, SUVs, and electric vehicles."
+        },
+        {
+            "question": "Who is the CEO of Ford?",
+            "answer": "Jim Farley is the CEO of Ford Motor Company."
+        },
+        {
+            "question": "Where is Ford headquartered?",
+            "answer": "Ford is headquartered in Dearborn, Michigan, USA."
+        },
+        {
+            "question": "What are Ford's main products?",
+            "answer": "Ford's main products include the Ford F-150, Mustang, Explorer, and Mustang Mach-E."
+        },
+        {
+            "question": "When was Ford founded?",
+            "answer": "Ford was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "GM",
+        "TSLA",
+        "FCAU",
+        "HMC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

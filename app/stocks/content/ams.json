@@ -1,0 +1,97 @@
+{
+    "ticker": "AMS",
+    "name": "AMS AG",
+    "description": "AMS AG is a leading global supplier of advanced sensor solutions and analog ICs (integrated circuits) for a wide range of applications in consumer, industrial, and automotive markets. Founded in 1981 and headquartered in Premstaetten, Austria, AMS specializes in developing high-performance sensing solutions that enhance user experience and enable innovative applications. The company's product portfolio includes optical sensors, environmental sensors, and high-performance analog ICs that are crucial for various devices, including smartphones, wearables, and industrial automation systems. AMS is particularly renowned for its expertise in sensor technologies, including ambient light sensors, proximity sensors, and image sensors, which are essential for mobile devices and smart home applications. With a strong focus on R&D, AMS continually pushes the boundaries of technology, driving advancements in areas such as 3D sensing and sensor fusion. The company operates a global network of engineering and manufacturing facilities, ensuring high-quality production and rapid time-to-market for its customers. AMS is committed to sustainability and innovation, and it plays a vital role in enabling the Internet of Things (IoT) by providing the sensors and solutions that connect devices and enhance their functionality. Its mission is to create a smarter and more connected world through cutting-edge sensor technology.",
+    "industry": [
+        "Semiconductors",
+        "Sensor Technology"
+    ],
+    "headquarters": "Premstaetten, Austria",
+    "founded": "1981",
+    "website": "https://ams.com",
+    "ceo": "Alexander Everke",
+    "social_media": {
+        "twitter": "https://twitter.com/amsAG",
+        "linkedin": "https://www.linkedin.com/company/ams-ag"
+    },
+    "investor_relations": "https://ams.com/investors",
+    "key_executives": [
+        {
+            "name": "Alexander Everke",
+            "position": "CEO"
+        },
+        {
+            "name": "Thomas Seiler",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Optical Sensors",
+            "products": [
+                "Ambient Light Sensors",
+                "Proximity Sensors"
+            ]
+        },
+        {
+            "category": "Environmental Sensors",
+            "products": [
+                "Temperature Sensors",
+                "Humidity Sensors"
+            ]
+        },
+        {
+            "category": "Analog ICs",
+            "products": [
+                "Voltage Regulators",
+                "Signal Amplifiers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AMS AG | Leading Supplier of Sensor Solutions and Analog ICs",
+        "meta_description": "Discover AMS AG, a global leader in sensor solutions and analog ICs. Explore our innovative products, commitment to sustainability, and impact on the IoT.",
+        "keywords": [
+            "AMS AG",
+            "Sensors",
+            "Analog ICs",
+            "Ambient Light Sensors",
+            "IoT",
+            "Automotive Sensors"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AMS AG specialize in?",
+            "answer": "AMS AG specializes in advanced sensor solutions and analog ICs for consumer, industrial, and automotive applications."
+        },
+        {
+            "question": "Who is the CEO of AMS AG?",
+            "answer": "Alexander Everke is the CEO of AMS AG."
+        },
+        {
+            "question": "Where is AMS AG headquartered?",
+            "answer": "AMS AG is headquartered in Premstaetten, Austria."
+        },
+        {
+            "question": "What types of products does AMS AG offer?",
+            "answer": "AMS AG offers optical sensors, environmental sensors, and various analog ICs."
+        },
+        {
+            "question": "When was AMS AG founded?",
+            "answer": "AMS AG was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "ST",
+        "TI",
+        "NXP",
+        "ON"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "INTC",
+        "NVDA",
+        "QCOM"
+    ]
+}

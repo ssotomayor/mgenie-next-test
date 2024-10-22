@@ -1,0 +1,92 @@
+{
+    "ticker": "IAG",
+    "name": "IAG Holdings",
+    "description": "IAG Holdings is a prominent player in the global insurance sector, specializing in various forms of insurance including property, casualty, and life insurance. Established in the early 2000s, IAG has grown through a strategic combination of organic growth and acquisitions, expanding its market presence across multiple countries. The company is headquartered in Sydney, Australia, and has developed a reputation for its innovative insurance solutions and exceptional customer service. IAG operates through various well-known brands that cater to both individual and commercial clients. The company places a strong emphasis on sustainability and corporate responsibility, actively engaging in initiatives that promote environmental stewardship and community support. With a robust digital platform, IAG enhances customer experience by providing seamless online services and claims processing. The company is also at the forefront of leveraging data analytics and artificial intelligence to improve risk assessment and underwriting processes. IAG is committed to maintaining its leadership position by continuously adapting to market changes and customer needs, ensuring that it can provide relevant insurance products in an ever-evolving landscape.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "Sydney, Australia",
+    "founded": "2000",
+    "website": "https://www.iag.com.au",
+    "ceo": "Iain Clark",
+    "social_media": {
+        "twitter": "https://twitter.com/IAG",
+        "linkedin": "https://www.linkedin.com/company/iag-limited/"
+    },
+    "investor_relations": "https://www.iag.com.au/investors",
+    "key_executives": [
+        {
+            "name": "Iain Clark",
+            "position": "CEO"
+        },
+        {
+            "name": "Nick Hawkins",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Property Insurance",
+            "products": [
+                "Home Insurance",
+                "Contents Insurance"
+            ]
+        },
+        {
+            "category": "Casualty Insurance",
+            "products": [
+                "Motor Insurance",
+                "Public Liability Insurance"
+            ]
+        },
+        {
+            "category": "Life Insurance",
+            "products": [
+                "Term Life Insurance",
+                "Income Protection"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IAG Holdings | Leading Global Insurance Provider",
+        "meta_description": "Explore IAG Holdings, a leader in insurance solutions providing property, casualty, and life insurance across multiple brands and regions. Discover our commitment to customer service and sustainability.",
+        "keywords": [
+            "IAG",
+            "Insurance",
+            "Property Insurance",
+            "Casualty Insurance",
+            "Life Insurance",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of insurance does IAG offer?",
+            "answer": "IAG offers property, casualty, and life insurance products."
+        },
+        {
+            "question": "Who is the CEO of IAG?",
+            "answer": "Iain Clark is the CEO of IAG Holdings."
+        },
+        {
+            "question": "Where is IAG headquartered?",
+            "answer": "IAG is headquartered in Sydney, Australia."
+        },
+        {
+            "question": "When was IAG founded?",
+            "answer": "IAG was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "AXA",
+        "ALL",
+        "L"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

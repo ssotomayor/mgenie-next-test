@@ -1,0 +1,84 @@
+{
+    "ticker": "ALTR",
+    "name": "Alteryx, Inc.",
+    "description": "Alteryx, Inc. is a data analytics company that empowers organizations to make data-driven decisions through its end-to-end analytics platform. Founded in 1997 and headquartered in Irvine, California, Alteryx provides intuitive data preparation, blending, and advanced analytics capabilities that enable users to analyze data quickly and efficiently, regardless of their technical expertise. The platform supports various data sources and integrates seamlessly with popular business intelligence tools, making it a preferred choice for data analysts and business users alike. Alteryx's solutions include Alteryx Designer, Alteryx Server, and Alteryx Connect, which together facilitate a collaborative analytics environment. The company focuses on democratizing analytics by providing self-service tools that allow users to gain insights without relying heavily on IT or data scientists. Alteryx has gained recognition for its innovative approach to data analytics and continues to expand its capabilities in areas like machine learning and predictive analytics. With a mission to transform the way organizations leverage data, Alteryx is committed to helping businesses unlock the full potential of their data assets and drive significant business outcomes.",
+    "industry": [
+        "Software",
+        "Data Analytics"
+    ],
+    "headquarters": "Irvine, California, USA",
+    "founded": "1997",
+    "website": "https://www.alteryx.com",
+    "ceo": "Mark Anderson",
+    "social_media": {
+        "twitter": "https://twitter.com/Alteryx",
+        "linkedin": "https://www.linkedin.com/company/alteryx/"
+    },
+    "investor_relations": "https://investor.alteryx.com",
+    "key_executives": [
+        {
+            "name": "Mark Anderson",
+            "position": "CEO"
+        },
+        {
+            "name": "Kevin Rubin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analytics Platform",
+            "products": [
+                "Alteryx Designer",
+                "Alteryx Server",
+                "Alteryx Connect"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Alteryx, Inc. | Data Analytics and Business Intelligence Solutions",
+        "meta_description": "Discover Alteryx, Inc., a leader in data analytics solutions that empower organizations to make data-driven decisions with ease. Explore Alteryx's innovative platform and products.",
+        "keywords": [
+            "Alteryx",
+            "Data Analytics",
+            "Business Intelligence",
+            "Self-Service Data Preparation",
+            "Machine Learning",
+            "Predictive Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Alteryx specialize in?",
+            "answer": "Alteryx specializes in data analytics and provides a platform for data preparation, blending, and advanced analytics."
+        },
+        {
+            "question": "Who is the CEO of Alteryx?",
+            "answer": "Mark Anderson is the CEO of Alteryx, Inc."
+        },
+        {
+            "question": "Where is Alteryx headquartered?",
+            "answer": "Alteryx is headquartered in Irvine, California, USA."
+        },
+        {
+            "question": "What are Alteryx's main products?",
+            "answer": "Alteryx's main products include Alteryx Designer, Alteryx Server, and Alteryx Connect."
+        },
+        {
+            "question": "When was Alteryx founded?",
+            "answer": "Alteryx was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "SAP",
+        "CRM",
+        "IBM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "ORCL"
+    ]
+}

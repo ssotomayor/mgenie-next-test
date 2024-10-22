@@ -1,0 +1,93 @@
+{
+    "ticker": "CNH",
+    "name": "CNH Industrial N.V.",
+    "description": "CNH Industrial N.V. is a global leader in the capital goods sector, dedicated to the sustainable and efficient production of agricultural and construction equipment. Founded in 2013 through the merger of Fiat Industrial and CNH Global, the company is headquartered in London, UK. CNH Industrial operates through multiple brands including Case IH, New Holland Agriculture, Case Construction Equipment, and New Holland Construction, each renowned for their innovation and reliability. With a strong emphasis on sustainability, CNH Industrial strives to develop advanced technologies that enhance productivity while minimizing environmental impact. The company is committed to meeting the needs of its customers by providing cutting-edge machinery and services that improve efficiency in farming and construction. Recognizing the growing importance of digitalization, CNH Industrial invests in smart farming and construction solutions that integrate data analytics, IoT, and automation. With a presence in over 180 countries, CNH Industrial works closely with its customers to deliver tailored solutions that drive performance and success in their respective industries. The company's mission is to create a sustainable future by delivering high-quality products and services that empower agricultural and construction professionals around the world.",
+    "industry": [
+        "Manufacturing",
+        "Agriculture",
+        "Construction"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "2013",
+    "website": "https://www.cnhindustrial.com",
+    "ceo": "Scott W. Wine",
+    "social_media": {
+        "twitter": "https://twitter.com/CNHIndustrial",
+        "linkedin": "https://www.linkedin.com/company/cnh-industrial/"
+    },
+    "investor_relations": "https://www.cnhindustrial.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Scott W. Wine",
+            "position": "CEO"
+        },
+        {
+            "name": "Deborah E. McCarty",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Agricultural Equipment",
+            "products": [
+                "Tractors",
+                "Harvesters",
+                "Planters"
+            ]
+        },
+        {
+            "category": "Construction Equipment",
+            "products": [
+                "Excavators",
+                "Bulldozers",
+                "Loaders"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CNH Industrial N.V. | Global Leader in Agricultural and Construction Equipment",
+        "meta_description": "Explore CNH Industrial N.V., a leading manufacturer of agricultural and construction equipment. Learn about our innovative solutions and commitment to sustainable practices.",
+        "keywords": [
+            "CNH Industrial",
+            "Agricultural Equipment",
+            "Construction Equipment",
+            "Sustainable Manufacturing",
+            "Case IH",
+            "New Holland"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CNH Industrial do?",
+            "answer": "CNH Industrial manufactures agricultural and construction equipment, focusing on sustainability and innovation."
+        },
+        {
+            "question": "Who is the CEO of CNH Industrial?",
+            "answer": "Scott W. Wine is the CEO of CNH Industrial N.V."
+        },
+        {
+            "question": "Where is CNH Industrial headquartered?",
+            "answer": "CNH Industrial is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "What are CNH Industrial's main products?",
+            "answer": "CNH Industrial's main products include tractors, harvesters, excavators, and bulldozers."
+        },
+        {
+            "question": "When was CNH Industrial founded?",
+            "answer": "CNH Industrial was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "DE",
+        "CAT",
+        "AGCO",
+        "JCB"
+    ],
+    "related_stocks": [
+        "AGCO",
+        "DE",
+        "CAT",
+        "JOY"
+    ]
+}

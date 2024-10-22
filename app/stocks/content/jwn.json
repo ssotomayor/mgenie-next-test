@@ -1,0 +1,97 @@
+{
+    "ticker": "JWN",
+    "name": "Nordstrom, Inc.",
+    "description": "Nordstrom, Inc. is a leading fashion retailer known for its commitment to providing a high-quality shopping experience, exceptional customer service, and a curated selection of products. Founded in 1901 by John W. Nordstrom and Carl Wallin as a shoe store in Seattle, Washington, Nordstrom has since evolved into a full-line retailer offering a wide range of apparel, accessories, and shoes for men, women, and children. The company operates both Nordstrom and Nordstrom Rack stores, as well as a robust online shopping platform, catering to a diverse customer base. Nordstrom emphasizes customer relationships and personalized service, which has become a hallmark of its brand identity. The company is also dedicated to sustainability initiatives, focusing on responsible sourcing, reducing waste, and supporting local communities. Nordstrom continues to innovate in the retail space, integrating technology to enhance the shopping experience and adapting to changing consumer preferences. With a strong heritage and a focus on quality, Nordstrom remains a prominent player in the retail industry.",
+    "industry": [
+        "Retail",
+        "Fashion"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "1901",
+    "website": "https://www.nordstrom.com",
+    "ceo": "Erik Nordstrom",
+    "social_media": {
+        "twitter": "https://twitter.com/Nordstrom",
+        "linkedin": "https://www.linkedin.com/company/nordstrom",
+        "instagram": "https://www.instagram.com/nordstrom/",
+        "facebook": "https://www.facebook.com/Nordstrom"
+    },
+    "investor_relations": "https://investor.nordstrom.com",
+    "key_executives": [
+        {
+            "name": "Erik Nordstrom",
+            "position": "CEO"
+        },
+        {
+            "name": "Anne Bramman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Apparel",
+            "products": [
+                "Men's Clothing",
+                "Women's Clothing",
+                "Children's Clothing"
+            ]
+        },
+        {
+            "category": "Footwear",
+            "products": [
+                "Men's Shoes",
+                "Women's Shoes",
+                "Children's Shoes"
+            ]
+        },
+        {
+            "category": "Accessories",
+            "products": [
+                "Bags",
+                "Jewelry",
+                "Watches"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nordstrom, Inc. | Fashion Retailer & Online Shopping",
+        "meta_description": "Explore Nordstrom, Inc., a leading fashion retailer offering high-quality apparel, accessories, and exceptional customer service. Shop online or visit our stores.",
+        "keywords": [
+            "Nordstrom",
+            "Fashion Retail",
+            "Clothing",
+            "Online Shopping",
+            "Department Store"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nordstrom sell?",
+            "answer": "Nordstrom sells a wide range of apparel, accessories, and shoes for men, women, and children."
+        },
+        {
+            "question": "Where is Nordstrom headquartered?",
+            "answer": "Nordstrom is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What is Nordstrom Rack?",
+            "answer": "Nordstrom Rack is the off-price division of Nordstrom, offering discounted merchandise."
+        },
+        {
+            "question": "When was Nordstrom founded?",
+            "answer": "Nordstrom was founded in 1901."
+        }
+    ],
+    "competitors": [
+        "M",
+        "JCP",
+        "GPS",
+        "AMZN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "WMT",
+        "TGT",
+        "COST"
+    ]
+}

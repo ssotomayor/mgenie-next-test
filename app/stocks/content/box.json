@@ -1,0 +1,90 @@
+{
+    "ticker": "BOX",
+    "name": "Box, Inc.",
+    "description": "Box, Inc. is a leading cloud content management and file sharing service that enables businesses to securely store, manage, and collaborate on their content from anywhere. Founded in 2005 by Aaron Levie, Dylan Smith, Jeff Queisser, and Aaron Levie, Box has transformed the way organizations approach data management in the digital age. The platform offers a range of features including file storage, collaboration tools, and workflow automation, making it an essential tool for businesses looking to enhance productivity and streamline operations. Box is particularly known for its emphasis on security and compliance, providing users with robust data protection measures and compliance with various industry standards. The company serves a diverse clientele, from small businesses to large enterprises, across various industries including healthcare, finance, education, and technology. Box's mission is to power how the world works together by providing a secure and collaborative space for teams to share and manage their content effectively. With a strong focus on innovation, Box continues to enhance its offerings through integrations with other leading applications and services, ensuring that users have access to a comprehensive suite of tools to meet their content management needs.",
+    "industry": [
+        "Cloud Computing",
+        "Software"
+    ],
+    "headquarters": "Los Altos, California, USA",
+    "founded": "2005",
+    "website": "https://www.box.com",
+    "ceo": "Aaron Levie",
+    "social_media": {
+        "twitter": "https://twitter.com/BoxHQ",
+        "linkedin": "https://www.linkedin.com/company/box/",
+        "facebook": "https://www.facebook.com/boxhq"
+    },
+    "investor_relations": "https://investors.box.com",
+    "key_executives": [
+        {
+            "name": "Aaron Levie",
+            "position": "CEO"
+        },
+        {
+            "name": "Dylan Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Content Management",
+            "products": [
+                "Box Platform",
+                "Box Notes",
+                "Box Relay"
+            ]
+        },
+        {
+            "category": "Collaboration Tools",
+            "products": [
+                "Box for Microsoft 365",
+                "Box for Google Workspace"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Box, Inc. | Cloud Content Management and Collaboration",
+        "meta_description": "Explore Box, Inc., a leader in cloud content management. Discover how Box helps businesses securely manage and collaborate on their content.",
+        "keywords": [
+            "Box",
+            "Cloud Storage",
+            "Content Management",
+            "File Sharing",
+            "Collaboration Tools"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Box known for?",
+            "answer": "Box is known for its cloud content management and file sharing services that enable secure collaboration."
+        },
+        {
+            "question": "Who is the CEO of Box?",
+            "answer": "Aaron Levie is the CEO of Box, Inc."
+        },
+        {
+            "question": "Where is Box headquartered?",
+            "answer": "Box is headquartered in Los Altos, California, USA."
+        },
+        {
+            "question": "What are Box's main products?",
+            "answer": "Box's main products include the Box Platform, Box Notes, and Box Relay."
+        },
+        {
+            "question": "When was Box founded?",
+            "answer": "Box was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "DROPBOX",
+        "GOOG",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "CRM",
+        "NOW"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "DXPE",
+    "name": "DXP Enterprises, Inc.",
+    "description": "DXP Enterprises, Inc. is a leading provider of maintenance, repair, and operations (MRO) products and services, primarily serving the industrial sector. Founded in 1908 and headquartered in Houston, Texas, DXP has built a strong reputation for delivering quality products and exceptional customer service across various industries, including oil and gas, manufacturing, and food and beverage. The company's offerings encompass a wide range of products such as pumps, valves, bearings, and filtration systems, alongside integrated services like supply chain management, inventory management, and engineering solutions. DXP is dedicated to helping its customers increase efficiency and reduce costs through tailored solutions that meet their specific needs. With a focus on safety, sustainability, and innovation, DXP continues to expand its footprint through strategic acquisitions and partnerships, ensuring it remains at the forefront of the MRO sector. The company is committed to building long-term relationships with its customers, leveraging its extensive industry experience and technical expertise to drive success for its partners.",
+    "industry": [
+        "Industrial Distribution",
+        "Maintenance, Repair, and Operations"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1908",
+    "website": "https://www.dxpe.com",
+    "ceo": "Charles E. D. (Chuck) McNulty",
+    "social_media": {
+        "twitter": "https://twitter.com/dxpeinc",
+        "linkedin": "https://www.linkedin.com/company/dxp-enterprises/"
+    },
+    "investor_relations": "https://ir.dxpe.com",
+    "key_executives": [
+        {
+            "name": "Charles E. D. (Chuck) McNulty",
+            "position": "CEO"
+        },
+        {
+            "name": "David E. Denny",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "MRO Products",
+            "products": [
+                "Pumps",
+                "Valves",
+                "Bearings",
+                "Filtration Systems"
+            ]
+        },
+        {
+            "category": "Integrated Services",
+            "products": [
+                "Supply Chain Management",
+                "Inventory Management",
+                "Engineering Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DXP Enterprises, Inc. | Industrial Distribution and MRO Solutions",
+        "meta_description": "Explore DXP Enterprises, Inc., a top provider of MRO products and services for the industrial sector. Discover their innovative solutions and commitment to customer success.",
+        "keywords": [
+            "DXP Enterprises",
+            "MRO Solutions",
+            "Industrial Distribution",
+            "Maintenance and Repair",
+            "Supply Chain Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does DXP Enterprises specialize in?",
+            "answer": "DXP Enterprises specializes in maintenance, repair, and operations products and services for various industrial sectors."
+        },
+        {
+            "question": "Who is the CEO of DXP Enterprises?",
+            "answer": "Charles E. D. (Chuck) McNulty is the CEO of DXP Enterprises, Inc."
+        },
+        {
+            "question": "Where is DXP Enterprises headquartered?",
+            "answer": "DXP Enterprises is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are some key products offered by DXP?",
+            "answer": "Key products offered by DXP include pumps, valves, bearings, and filtration systems."
+        },
+        {
+            "question": "When was DXP Enterprises founded?",
+            "answer": "DXP Enterprises was founded in 1908."
+        }
+    ],
+    "competitors": [
+        "FAST",
+        "GWW",
+        "FLEX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "ticker": "BANR",
+    "name": "Banner Corporation",
+    "description": "Banner Corporation is a bank holding company based in Walla Walla, Washington, primarily engaged in providing a range of financial services through its wholly-owned bank subsidiary, Banner Bank. Founded in 1890, the company has a rich history and has grown to become a significant player in the Pacific Northwest banking sector. Banner Bank offers a variety of financial products and services, including personal and business banking solutions, mortgage lending, investment services, and wealth management. With a commitment to community banking, Banner strives to build strong relationships with its customers, offering personalized service and tailored financial solutions to meet their needs. The company is dedicated to responsible lending and has a strong focus on supporting the communities it serves through local investments and charitable initiatives. Banner Corporation's mission is to enhance the quality of life in the communities it operates while providing its customers with the tools and resources to achieve their financial goals.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Walla Walla, Washington, USA",
+    "founded": "1890",
+    "website": "https://www.bannerbank.com",
+    "ceo": "Mark J. Grescovich",
+    "social_media": {
+        "twitter": "https://twitter.com/BannerBank",
+        "linkedin": "https://www.linkedin.com/company/banner-bank/"
+    },
+    "investor_relations": "https://www.bannerbank.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Mark J. Grescovich",
+            "position": "CEO"
+        },
+        {
+            "name": "A. Scott A. White",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Commercial Loans",
+                "Business Checking",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Banner Corporation | Community Banking & Financial Services",
+        "meta_description": "Explore Banner Corporation, a leading community bank providing personal and business banking services in the Pacific Northwest. Discover our commitment to customer service and community investment.",
+        "keywords": [
+            "Banner Corporation",
+            "Banking",
+            "Financial Services",
+            "Community Bank",
+            "Personal Banking",
+            "Business Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Banner Bank offer?",
+            "answer": "Banner Bank offers personal banking, business banking, mortgage lending, investment services, and wealth management."
+        },
+        {
+            "question": "Who is the CEO of Banner Corporation?",
+            "answer": "Mark J. Grescovich is the CEO of Banner Corporation."
+        },
+        {
+            "question": "Where is Banner Bank headquartered?",
+            "answer": "Banner Bank is headquartered in Walla Walla, Washington, USA."
+        },
+        {
+            "question": "When was Banner Corporation founded?",
+            "answer": "Banner Corporation was founded in 1890."
+        }
+    ],
+    "competitors": [
+        "WAFD",
+        "FRC",
+        "CFR"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "WFC"
+    ]
+}

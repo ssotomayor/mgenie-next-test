@@ -1,0 +1,92 @@
+{
+    "ticker": "AMZD",
+    "name": "Amazon Digital Services, Inc.",
+    "description": "Amazon Digital Services, Inc. is a subsidiary of Amazon.com, Inc., dedicated to providing a wide range of digital services and products. Established to support the growing demand for online content and cloud services, the company plays a critical role in the digital transformation of various industries. Amazon Digital Services focuses on developing and delivering innovative solutions such as cloud computing services through Amazon Web Services (AWS), digital streaming of music and video via Amazon Prime Video and Amazon Music, and various digital content platforms. The company leverages advanced technologies to enhance user experiences, offering features like personalized recommendations and seamless access to content across devices. With an emphasis on scalability, reliability, and security, Amazon Digital Services helps businesses and consumers alike navigate the digital landscape. As part of Amazon's mission to be Earth's most customer-centric company, Amazon Digital Services is committed to providing high-quality digital experiences that empower users and foster creativity in the digital age.",
+    "industry": [
+        "Technology",
+        "Cloud Computing",
+        "Digital Media"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "2000",
+    "website": "https://www.amazon.com",
+    "ceo": "Andy Jassy",
+    "social_media": {
+        "twitter": "https://twitter.com/amazon",
+        "linkedin": "https://www.linkedin.com/company/amazon/"
+    },
+    "investor_relations": "https://ir.aboutamazon.com",
+    "key_executives": [
+        {
+            "name": "Andy Jassy",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Olsavsky",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Amazon Web Services",
+                "AWS Lambda",
+                "Amazon S3"
+            ]
+        },
+        {
+            "category": "Digital Streaming",
+            "products": [
+                "Amazon Prime Video",
+                "Amazon Music"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Amazon Digital Services, Inc. | Cloud Computing & Digital Streaming",
+        "meta_description": "Explore Amazon Digital Services, Inc., a leader in cloud computing and digital content. Discover our innovative solutions and products that enhance digital experiences.",
+        "keywords": [
+            "Amazon",
+            "Cloud Computing",
+            "Digital Streaming",
+            "AWS",
+            "Amazon Prime Video",
+            "Amazon Music"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Amazon Digital Services do?",
+            "answer": "Amazon Digital Services provides cloud computing and digital streaming services, including AWS, Amazon Prime Video, and Amazon Music."
+        },
+        {
+            "question": "Who is the CEO of Amazon Digital Services?",
+            "answer": "Andy Jassy is the CEO of Amazon Digital Services, Inc."
+        },
+        {
+            "question": "Where is Amazon Digital Services headquartered?",
+            "answer": "Amazon Digital Services is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What are Amazon Digital Services' main products?",
+            "answer": "Amazon Digital Services' main products include AWS, Amazon Prime Video, and Amazon Music."
+        },
+        {
+            "question": "When was Amazon Digital Services founded?",
+            "answer": "Amazon Digital Services was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "GOOGL",
+        "ORCL",
+        "NFLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "FB",
+        "AMZN",
+        "NFLX"
+    ]
+}

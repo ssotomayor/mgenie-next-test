@@ -1,0 +1,89 @@
+{
+    "ticker": "CMSC",
+    "name": "CMS Energy Corporation",
+    "description": "CMS Energy Corporation is a leading energy company based in the United States, primarily focused on providing electric and natural gas services to customers in Michigan. Founded in 1987, CMS Energy operates through its principal subsidiary, Consumers Energy, which serves nearly 6.7 million residents across the state. The company is committed to generating clean, reliable energy and has made significant investments in renewable energy sources, including wind and solar power. CMS Energy aims to reduce its carbon footprint and achieve net-zero carbon emissions by 2040, aligning with national sustainability goals. The company is also involved in various community initiatives and economic development efforts, contributing to the well-being of the communities it serves. With a strong emphasis on innovation, CMS Energy is exploring advanced technologies to enhance energy efficiency and reliability, including smart grid solutions and energy storage systems. The company is dedicated to ensuring that its energy services are affordable and accessible, making it a trusted partner for residential and commercial customers alike.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Jackson, Michigan, USA",
+    "founded": "1987",
+    "website": "https://www.cmsenergy.com",
+    "ceo": "Patricia Poppe",
+    "social_media": {
+        "twitter": "https://twitter.com/ConsumersEnergy",
+        "linkedin": "https://www.linkedin.com/company/cms-energy/"
+    },
+    "investor_relations": "https://investors.cmsenergy.com",
+    "key_executives": [
+        {
+            "name": "Patricia Poppe",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Rich",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Services",
+            "products": [
+                "Residential Electric Service",
+                "Commercial Electric Service"
+            ]
+        },
+        {
+            "category": "Natural Gas Services",
+            "products": [
+                "Residential Natural Gas Service",
+                "Commercial Natural Gas Service"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CMS Energy Corporation | Sustainable Energy Solutions",
+        "meta_description": "Explore CMS Energy Corporation, a leader in providing sustainable energy solutions and services in Michigan. Learn about their commitment to clean energy and community support.",
+        "keywords": [
+            "CMS Energy",
+            "Consumers Energy",
+            "Clean Energy",
+            "Sustainable Energy",
+            "Electric Services",
+            "Natural Gas Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CMS Energy provide?",
+            "answer": "CMS Energy provides electric and natural gas services to residential and commercial customers in Michigan."
+        },
+        {
+            "question": "Who is the CEO of CMS Energy?",
+            "answer": "Patricia Poppe is the CEO of CMS Energy Corporation."
+        },
+        {
+            "question": "Where is CMS Energy headquartered?",
+            "answer": "CMS Energy is headquartered in Jackson, Michigan, USA."
+        },
+        {
+            "question": "What is CMS Energy's commitment to sustainability?",
+            "answer": "CMS Energy is committed to reducing its carbon footprint and achieving net-zero carbon emissions by 2040."
+        },
+        {
+            "question": "When was CMS Energy founded?",
+            "answer": "CMS Energy was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "DTE",
+        "ED",
+        "SRE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "EQIX",
+    "name": "Equinix, Inc.",
+    "description": "Equinix, Inc. is a global leader in digital infrastructure, providing the essential interconnection and data center services that businesses need to thrive in the digital economy. Founded in 1998 and headquartered in Redwood City, California, Equinix operates a vast network of over 200 data centers across more than 55 markets worldwide. The company enables enterprises, cloud service providers, and digital content companies to connect with partners and customers, facilitating the exchange of data and ensuring low-latency performance. Equinix's platform offers a wide range of services, including colocation, interconnection, and network services, which empower organizations to scale their operations and enhance their digital strategies. With a continued focus on innovation, Equinix is at the forefront of enabling businesses to harness the power of the cloud, big data, and the Internet of Things (IoT). The company is committed to sustainability and has implemented initiatives to enhance energy efficiency and reduce carbon emissions in its data centers. Equinix's global footprint and extensive ecosystem of partners make it an essential player in the digital landscape, supporting the connectivity needs of thousands of organizations worldwide.",
+    "industry": [
+        "Data Centers",
+        "Cloud Services"
+    ],
+    "headquarters": "Redwood City, California, USA",
+    "founded": "1998",
+    "website": "https://www.equinix.com",
+    "ceo": "Charles Meyers",
+    "social_media": {
+        "twitter": "https://twitter.com/Equinix",
+        "linkedin": "https://www.linkedin.com/company/equinix"
+    },
+    "investor_relations": "https://investor.equinix.com",
+    "key_executives": [
+        {
+            "name": "Charles Meyers",
+            "position": "CEO"
+        },
+        {
+            "name": "Keith Taylor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Center Services",
+            "products": [
+                "Colocation Services",
+                "Interconnection Services"
+            ]
+        },
+        {
+            "category": "Network Services",
+            "products": [
+                "Cross Connects",
+                "Cloud Exchange"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Equinix, Inc. | Global Digital Infrastructure and Data Center Services",
+        "meta_description": "Explore Equinix, Inc., the global leader in digital infrastructure, offering colocation, interconnection, and network services across a vast data center footprint.",
+        "keywords": [
+            "Equinix",
+            "Data Centers",
+            "Digital Infrastructure",
+            "Interconnection",
+            "Cloud Services",
+            "Colocation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Equinix do?",
+            "answer": "Equinix provides data center services, including colocation and interconnection, enabling businesses to connect and exchange data."
+        },
+        {
+            "question": "Who is the CEO of Equinix?",
+            "answer": "Charles Meyers is the CEO of Equinix, Inc."
+        },
+        {
+            "question": "Where is Equinix headquartered?",
+            "answer": "Equinix is headquartered in Redwood City, California, USA."
+        },
+        {
+            "question": "What are Equinix's main services?",
+            "answer": "Equinix's main services include colocation, interconnection services, and network services."
+        },
+        {
+            "question": "When was Equinix founded?",
+            "answer": "Equinix was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "DLR",
+        "SBAC",
+        "CONE"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "IBM"
+    ]
+}

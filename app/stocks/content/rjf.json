@@ -1,0 +1,89 @@
+{
+    "ticker": "RJF",
+    "name": "Raymond James Financial, Inc.",
+    "description": "Raymond James Financial, Inc. is a diversified financial services company that offers a wide range of products and services to individual investors, businesses, and institutions. Founded in 1962 and headquartered in St. Petersburg, Florida, the company operates through various segments including Private Client Group, Capital Markets, Asset Management, and Banking. With a strong emphasis on client-centric service, Raymond James has built a reputation for providing personalized financial advice and investment solutions. The firm is known for its wealth management services, which include financial planning, investment management, and retirement planning, catering to high-net-worth individuals and families. Additionally, Raymond James has a robust Capital Markets division that provides investment banking, equity research, and institutional sales and trading services. The company\u2019s commitment to integrity, independence, and a client-first approach has allowed it to grow steadily over the decades, making it one of the largest independent financial services firms in the United States. Raymond James also places a strong emphasis on community involvement and corporate responsibility, actively participating in charitable initiatives and supporting local organizations. As of 2023, the company continues to expand its reach and enhance its service offerings to meet the evolving needs of its clients.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Wealth Management"
+    ],
+    "headquarters": "St. Petersburg, Florida, USA",
+    "founded": "1962",
+    "website": "https://www.raymondjames.com",
+    "ceo": "Paul C. Reilly",
+    "social_media": {
+        "twitter": "https://twitter.com/RaymondJames",
+        "linkedin": "https://www.linkedin.com/company/raymond-james-financial-inc/",
+        "facebook": "https://www.facebook.com/RaymondJames"
+    },
+    "investor_relations": "https://investor.raymondjames.com",
+    "key_executives": [
+        {
+            "name": "Paul C. Reilly",
+            "position": "CEO"
+        },
+        {
+            "name": "Jennifer D. H. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Financial Planning",
+                "Investment Management",
+                "Retirement Planning"
+            ]
+        },
+        {
+            "category": "Capital Markets",
+            "products": [
+                "Investment Banking",
+                "Equity Research",
+                "Sales and Trading"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Raymond James Financial, Inc. | Comprehensive Financial Services",
+        "meta_description": "Explore Raymond James Financial, Inc., a leading financial services firm offering wealth management, investment banking, and personalized financial advice.",
+        "keywords": [
+            "Raymond James",
+            "Financial Services",
+            "Wealth Management",
+            "Investment Banking",
+            "Financial Planning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Raymond James offer?",
+            "answer": "Raymond James offers wealth management, investment banking, financial planning, and asset management services."
+        },
+        {
+            "question": "Who is the CEO of Raymond James?",
+            "answer": "Paul C. Reilly is the CEO of Raymond James Financial, Inc."
+        },
+        {
+            "question": "Where is Raymond James headquartered?",
+            "answer": "Raymond James is headquartered in St. Petersburg, Florida, USA."
+        },
+        {
+            "question": "When was Raymond James founded?",
+            "answer": "Raymond James was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "MS",
+        "GS",
+        "WFC",
+        "JPM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

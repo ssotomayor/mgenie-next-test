@@ -1,0 +1,91 @@
+{
+    "ticker": "AVAV",
+    "name": "AeroVironment, Inc.",
+    "description": "AeroVironment, Inc. is a leading technology company specializing in unmanned aircraft systems (UAS) and electric vehicle (EV) charging solutions. Founded in 1971 and headquartered in Simi Valley, California, AeroVironment has a rich history of innovation in aerospace and defense. The company is renowned for its small UAS, such as the Raven and Wasp, which are extensively used by military and commercial customers for intelligence, surveillance, and reconnaissance missions. AeroVironment's cutting-edge technology provides critical capabilities that enhance situational awareness and operational effectiveness. In addition to UAS, the company is a pioneer in electric vehicle charging solutions, offering a range of products designed to support the growing EV market. Their EV charging stations facilitate the transition to electric mobility, catering to both public and private sectors. AeroVironment is committed to sustainable technology and the development of advanced energy solutions, including solar and wind energy systems. The company's mission is to deliver innovative products that improve the efficiency and effectiveness of its customers' operations while fostering a sustainable future.",
+    "industry": [
+        "Aerospace & Defense",
+        "Electric Vehicles"
+    ],
+    "headquarters": "Simi Valley, California, USA",
+    "founded": "1971",
+    "website": "https://www.avinc.com",
+    "ceo": "Wahid Nawabi",
+    "social_media": {
+        "twitter": "https://twitter.com/AeroVironment",
+        "linkedin": "https://www.linkedin.com/company/aerovironment/"
+    },
+    "investor_relations": "https://investors.avinc.com",
+    "key_executives": [
+        {
+            "name": "Wahid Nawabi",
+            "position": "CEO"
+        },
+        {
+            "name": "Kurtis W. Seebold",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Unmanned Aircraft Systems",
+            "products": [
+                "Raven",
+                "Wasp",
+                "Puma"
+            ]
+        },
+        {
+            "category": "Electric Vehicle Charging",
+            "products": [
+                "AV Charge Point",
+                "Rapid Charge"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AeroVironment, Inc. | Unmanned Aircraft Systems & EV Charging Solutions",
+        "meta_description": "Explore AeroVironment, Inc., a leader in unmanned aircraft systems and electric vehicle charging solutions. Discover their innovative technology and commitment to sustainability.",
+        "keywords": [
+            "AeroVironment",
+            "Unmanned Aircraft Systems",
+            "Electric Vehicles",
+            "EV Charging",
+            "Defense Technology",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AeroVironment specialize in?",
+            "answer": "AeroVironment specializes in unmanned aircraft systems and electric vehicle charging solutions."
+        },
+        {
+            "question": "Who is the CEO of AeroVironment?",
+            "answer": "Wahid Nawabi is the CEO of AeroVironment, Inc."
+        },
+        {
+            "question": "Where is AeroVironment headquartered?",
+            "answer": "AeroVironment is headquartered in Simi Valley, California, USA."
+        },
+        {
+            "question": "What are AeroVironment's main products?",
+            "answer": "AeroVironment's main products include unmanned aircraft systems like Raven and Wasp, and EV charging solutions."
+        },
+        {
+            "question": "When was AeroVironment founded?",
+            "answer": "AeroVironment was founded in 1971."
+        }
+    ],
+    "competitors": [
+        "GD",
+        "LMT",
+        "BA",
+        "NOC"
+    ],
+    "related_stocks": [
+        "RTX",
+        "HII",
+        "NOC",
+        "LMT"
+    ]
+}

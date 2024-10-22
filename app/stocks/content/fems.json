@@ -1,0 +1,90 @@
+{
+    "ticker": "FEMS",
+    "name": "FEMSA, S.A.B. de C.V.",
+    "description": "FEMSA, S.A.B. de C.V. is a leading beverage and retail company based in Mexico, recognized for its commitment to sustainable practices and community engagement. Founded in 1890, the company has evolved from a small brewery into a diversified business with interests in various sectors. FEMSA operates in two main segments: Coca-Cola FEMSA, the largest franchise bottler of Coca-Cola beverages in the world, and FEMSA Comercio, which runs a chain of convenience stores, pharmacies, and other retail outlets across Latin America. The company is dedicated to enhancing the quality of life in the communities it serves, focusing on sustainable development and social responsibility. FEMSA's initiatives include promoting responsible consumption, environmental stewardship, and community support programs. With its robust distribution network and commitment to innovation, FEMSA continues to be a key player in the beverage and retail industries, striving to deliver quality products while fostering economic growth and sustainability in the regions it operates.",
+    "industry": [
+        "Beverages",
+        "Retail"
+    ],
+    "headquarters": "Monterrey, Nuevo Le\u00f3n, Mexico",
+    "founded": "1890",
+    "website": "https://www.femsa.com",
+    "ceo": "Daniel Rodriguez Cofr\u00e9",
+    "social_media": {
+        "twitter": "https://twitter.com/FEMSA",
+        "linkedin": "https://www.linkedin.com/company/femsa"
+    },
+    "investor_relations": "https://www.femsa.com/en/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Daniel Rodriguez Cofr\u00e9",
+            "position": "CEO"
+        },
+        {
+            "name": "Eduardo Padilla",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beverages",
+            "products": [
+                "Coca-Cola",
+                "Sprite",
+                "Fanta"
+            ]
+        },
+        {
+            "category": "Retail",
+            "products": [
+                "OXXO Convenience Stores",
+                "Farmacias del Ahorro"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FEMSA, S.A.B. de C.V. | Leading Beverage and Retail Company",
+        "meta_description": "Explore FEMSA, a leader in the beverage and retail industry, committed to sustainability and community development. Learn about our products and initiatives.",
+        "keywords": [
+            "FEMSA",
+            "Beverages",
+            "Coca-Cola FEMSA",
+            "OXXO",
+            "Sustainability",
+            "Retail"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does FEMSA do?",
+            "answer": "FEMSA is involved in the beverage industry as a major Coca-Cola bottler and operates a vast retail business through OXXO convenience stores."
+        },
+        {
+            "question": "Who is the CEO of FEMSA?",
+            "answer": "The CEO of FEMSA is Daniel Rodriguez Cofr\u00e9."
+        },
+        {
+            "question": "Where is FEMSA headquartered?",
+            "answer": "FEMSA is headquartered in Monterrey, Nuevo Le\u00f3n, Mexico."
+        },
+        {
+            "question": "What are FEMSA's main products?",
+            "answer": "FEMSA's main products include Coca-Cola beverages and convenience store offerings from its OXXO chain."
+        },
+        {
+            "question": "When was FEMSA founded?",
+            "answer": "FEMSA was founded in 1890."
+        }
+    ],
+    "competitors": [
+        "PEP",
+        "KO",
+        "CAG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "WMT",
+        "TGT"
+    ]
+}

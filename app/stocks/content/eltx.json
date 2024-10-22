@@ -1,0 +1,88 @@
+{
+    "ticker": "ELTX",
+    "name": "Elekta AB",
+    "description": "Elekta AB is a leading global medical technology company specializing in precision cancer care and neurosurgery. Founded in 1972, Elekta has made significant strides in developing innovative treatment systems and software solutions that enhance the quality of care for patients suffering from cancer and brain disorders. The company is renowned for its advanced radiation therapy systems, including linear accelerators and brachytherapy technology, which are designed to deliver targeted treatment while minimizing exposure to surrounding healthy tissue. Elekta's software solutions support clinical workflows and enhance treatment planning and delivery, facilitating improved patient outcomes. With a commitment to innovation, Elekta invests heavily in research and development to ensure its products remain at the forefront of medical technology. The company operates in over 120 countries, collaborating with healthcare providers to optimize cancer treatment pathways and improve access to life-saving therapies. Elekta's mission is to help healthcare professionals provide the best possible care to their patients by offering cutting-edge solutions that integrate seamlessly into clinical practice.",
+    "industry": [
+        "Medical Technology",
+        "Healthcare"
+    ],
+    "headquarters": "Stockholm, Sweden",
+    "founded": "1972",
+    "website": "https://www.elekta.com",
+    "ceo": "Gustaf Salford",
+    "social_media": {
+        "twitter": "https://twitter.com/elekta",
+        "linkedin": "https://www.linkedin.com/company/elekta/",
+        "facebook": "https://www.facebook.com/elekta"
+    },
+    "investor_relations": "https://ir.elekta.com",
+    "key_executives": [
+        {
+            "name": "Gustaf Salford",
+            "position": "CEO"
+        },
+        {
+            "name": "Dimitris Koutentakis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Radiation Therapy",
+            "products": [
+                "Linear Accelerators",
+                "Brachytherapy Systems"
+            ]
+        },
+        {
+            "category": "Software Solutions",
+            "products": [
+                "Treatment Planning Software",
+                "Clinical Workflow Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Elekta AB | Precision Cancer Care and Neurosurgery",
+        "meta_description": "Explore Elekta AB, a leader in medical technology focused on precision cancer care and neurosurgery. Discover Elekta's innovative products and commitment to improving patient outcomes.",
+        "keywords": [
+            "Elekta",
+            "Cancer Care",
+            "Medical Technology",
+            "Radiation Therapy",
+            "Neurosurgery"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Elekta known for?",
+            "answer": "Elekta is known for its innovative solutions in precision cancer care and neurosurgery, particularly in radiation therapy."
+        },
+        {
+            "question": "Who is the CEO of Elekta?",
+            "answer": "Gustaf Salford is the CEO of Elekta AB."
+        },
+        {
+            "question": "Where is Elekta headquartered?",
+            "answer": "Elekta is headquartered in Stockholm, Sweden."
+        },
+        {
+            "question": "What are Elekta's main products?",
+            "answer": "Elekta's main products include linear accelerators, brachytherapy systems, and treatment planning software."
+        },
+        {
+            "question": "When was Elekta founded?",
+            "answer": "Elekta was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "VAR",
+        "CERN",
+        "ISRG"
+    ],
+    "related_stocks": [
+        "MDT",
+        "ABT",
+        "HOLX"
+    ]
+}

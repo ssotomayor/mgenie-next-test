@@ -1,0 +1,90 @@
+{
+    "ticker": "NMRK",
+    "name": "Nomura Research Institute, Ltd.",
+    "description": "Nomura Research Institute, Ltd. (NRI) is a leading provider of consulting services and system solutions in Japan, primarily focusing on the financial services and information technology sectors. Established in 1965, NRI has built a strong reputation for its expertise in strategic planning, IT solutions, and operational support. The company serves a diverse range of clients, including major financial institutions, corporations, and government agencies. NRI is committed to driving innovation through digital transformation, utilizing cutting-edge technologies such as artificial intelligence, big data analytics, and cloud computing to enhance business processes and improve decision-making. The firm also offers services in areas like cybersecurity, risk management, and regulatory compliance, helping clients navigate the complexities of the modern business landscape. NRI's mission is to contribute to the advancement of society by providing tailored solutions that address the unique challenges faced by its clients. With a global presence and a strong focus on research and development, NRI continues to expand its capabilities and drive growth in both domestic and international markets.",
+    "industry": [
+        "Consulting",
+        "Information Technology"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1965",
+    "website": "https://www.nri.com/en",
+    "ceo": "Katsuji Sato",
+    "social_media": {
+        "twitter": "https://twitter.com/NomuraResearch",
+        "linkedin": "https://www.linkedin.com/company/nomura-research-institute/"
+    },
+    "investor_relations": "https://www.nri.com/en/ir",
+    "key_executives": [
+        {
+            "name": "Katsuji Sato",
+            "position": "CEO"
+        },
+        {
+            "name": "Takuya Matsumoto",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Strategic Planning",
+                "Operational Support",
+                "Risk Management"
+            ]
+        },
+        {
+            "category": "IT Solutions",
+            "products": [
+                "Digital Transformation",
+                "Cybersecurity",
+                "Cloud Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nomura Research Institute, Ltd. | Consulting and IT Solutions",
+        "meta_description": "Explore Nomura Research Institute, Ltd., a leader in consulting and IT solutions, dedicated to driving innovation and digital transformation across various industries.",
+        "keywords": [
+            "Nomura Research Institute",
+            "Consulting",
+            "IT Solutions",
+            "Digital Transformation",
+            "Cybersecurity",
+            "Big Data"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nomura Research Institute do?",
+            "answer": "Nomura Research Institute provides consulting services and IT solutions, focusing on financial services and digital transformation."
+        },
+        {
+            "question": "Who is the CEO of NRI?",
+            "answer": "Katsuji Sato is the CEO of Nomura Research Institute, Ltd."
+        },
+        {
+            "question": "Where is NRI headquartered?",
+            "answer": "NRI is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are the main services offered by NRI?",
+            "answer": "NRI offers consulting services, IT solutions, digital transformation, and risk management services."
+        },
+        {
+            "question": "When was NRI founded?",
+            "answer": "NRI was founded in 1965."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "ACN",
+        "DHR"
+    ],
+    "related_stocks": [
+        "TSE:8306",
+        "TSE:4755",
+        "TSE:4324"
+    ]
+}

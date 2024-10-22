@@ -1,0 +1,88 @@
+{
+    "ticker": "IRON",
+    "name": "IronNet, Inc.",
+    "description": "IronNet, Inc. is a cybersecurity company that specializes in providing advanced threat detection and response solutions for enterprises and government agencies. Founded in 2014 by General Keith Alexander, the former head of the National Security Agency (NSA), IronNet aims to revolutionize the way organizations defend against cyber threats. The company leverages its unique Collective Defense approach, which enables organizations to share threat information and insights securely, enhancing their ability to detect and respond to cyber attacks in real-time. IronNet's flagship products include IronDefense, which utilizes AI and machine learning to identify sophisticated threats, and IronDome, a platform designed for collaborative threat intelligence sharing among organizations. With a strong focus on innovation, IronNet is committed to helping clients safeguard their networks and critical assets from evolving cyber threats. The company's mission is to create a safer digital world by fostering collaboration and trust among its customers, ultimately improving the resilience of the cybersecurity ecosystem.",
+    "industry": [
+        "Cybersecurity",
+        "Technology"
+    ],
+    "headquarters": "McLean, Virginia, USA",
+    "founded": "2014",
+    "website": "https://www.ironnet.com",
+    "ceo": "General Keith Alexander",
+    "social_media": {
+        "twitter": "https://twitter.com/IronNetCyber",
+        "linkedin": "https://www.linkedin.com/company/ironnet/"
+    },
+    "investor_relations": "https://investors.ironnet.com",
+    "key_executives": [
+        {
+            "name": "General Keith Alexander",
+            "position": "CEO"
+        },
+        {
+            "name": "William Welch",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Threat Detection",
+            "products": [
+                "IronDefense"
+            ]
+        },
+        {
+            "category": "Threat Intelligence",
+            "products": [
+                "IronDome"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IronNet, Inc. | Advanced Cybersecurity Solutions",
+        "meta_description": "Discover IronNet, Inc., a leader in cybersecurity solutions focused on advanced threat detection and collective defense strategies for enterprises and government.",
+        "keywords": [
+            "IronNet",
+            "Cybersecurity",
+            "Threat Detection",
+            "Collective Defense",
+            "AI Cybersecurity",
+            "General Keith Alexander"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IronNet known for?",
+            "answer": "IronNet is known for its advanced cybersecurity solutions, particularly in threat detection and collective defense."
+        },
+        {
+            "question": "Who is the CEO of IronNet?",
+            "answer": "General Keith Alexander is the CEO of IronNet, Inc."
+        },
+        {
+            "question": "Where is IronNet headquartered?",
+            "answer": "IronNet is headquartered in McLean, Virginia, USA."
+        },
+        {
+            "question": "What are IronNet's main products?",
+            "answer": "IronNet's main products include IronDefense and IronDome."
+        },
+        {
+            "question": "When was IronNet founded?",
+            "answer": "IronNet was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "CYBR",
+        "PCTY",
+        "FTNT",
+        "CRWD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

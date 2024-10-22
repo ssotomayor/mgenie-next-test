@@ -1,0 +1,83 @@
+{
+    "ticker": "SIMAW",
+    "name": "Simba Technologies, Inc.",
+    "description": "Simba Technologies, Inc. is a leading provider of data connectivity solutions, specializing in the development of advanced ODBC, JDBC, and ADO.NET drivers for various databases and big data technologies. Founded in 1991, Simba is renowned for its innovative approach to data access and analytics, empowering organizations to leverage their data assets effectively. The company focuses on providing high-performance connectivity solutions that enable seamless integration between diverse data sources and analytical tools. With a commitment to quality and customer satisfaction, Simba's products support a wide range of platforms, including cloud, on-premises, and hybrid environments. The company's flagship products include the Simba ODBC Driver and Simba JDBC Driver, which are widely adopted in the industry for their reliability and performance. As businesses increasingly seek to harness the power of big data and analytics, Simba continues to lead the way in developing solutions that facilitate efficient data access and insights. In addition to its core products, Simba offers tailored services and support to ensure that its clients can maximize the value derived from their data. With a strong focus on innovation and a robust portfolio of technology partnerships, Simba Technologies is positioned as a trusted partner for organizations looking to enhance their data strategies and drive business success.",
+    "industry": [
+        "Software",
+        "Data Connectivity"
+    ],
+    "headquarters": "Vancouver, British Columbia, Canada",
+    "founded": "1991",
+    "website": "https://www.simba.com",
+    "ceo": "Hugh Owen",
+    "social_media": {
+        "twitter": "https://twitter.com/simbatechnologies",
+        "linkedin": "https://www.linkedin.com/company/simba-technologies/"
+    },
+    "investor_relations": "https://www.simba.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Hugh Owen",
+            "position": "CEO"
+        },
+        {
+            "name": "Joanne Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Connectivity Solutions",
+            "products": [
+                "Simba ODBC Driver",
+                "Simba JDBC Driver",
+                "Simba ADO.NET Driver"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Simba Technologies, Inc. | Data Connectivity Solutions",
+        "meta_description": "Discover Simba Technologies, Inc., a leader in data connectivity solutions. Explore our innovative products and services that enhance data access and analytics.",
+        "keywords": [
+            "Simba Technologies",
+            "Data Connectivity",
+            "ODBC Driver",
+            "JDBC Driver",
+            "Big Data",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Simba Technologies do?",
+            "answer": "Simba Technologies specializes in data connectivity solutions, providing drivers and tools for seamless data access and analytics."
+        },
+        {
+            "question": "Who is the CEO of Simba Technologies?",
+            "answer": "Hugh Owen is the CEO of Simba Technologies, Inc."
+        },
+        {
+            "question": "Where is Simba Technologies headquartered?",
+            "answer": "Simba Technologies is headquartered in Vancouver, British Columbia, Canada."
+        },
+        {
+            "question": "What are the main products offered by Simba Technologies?",
+            "answer": "Simba Technologies offers ODBC, JDBC, and ADO.NET drivers for various databases and big data technologies."
+        },
+        {
+            "question": "When was Simba Technologies founded?",
+            "answer": "Simba Technologies was founded in 1991."
+        }
+    ],
+    "competitors": [
+        "QTT",
+        "RDP",
+        "DTE"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "IBM",
+        "ORCL",
+        "ADBE"
+    ]
+}

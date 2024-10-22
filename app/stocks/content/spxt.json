@@ -1,0 +1,70 @@
+{
+    "ticker": "SPXT",
+    "name": "S&P 500 Index",
+    "description": "The S&P 500 Index, often referred to as the Standard & Poor's 500, is a stock market index that measures the stock performance of 500 large companies listed on stock exchanges in the United States. Established in 1957, the S&P 500 is one of the most widely followed equity indices and serves as a benchmark for the U.S. stock market. It includes companies from various sectors, including technology, healthcare, financial services, consumer discretionary, and energy, among others. The index is designed to reflect the market capitalization of its constituent companies, providing a broad snapshot of the overall market performance. The S&P 500 is often used by investors as a gauge of the U.S. economy and is a key indicator of the health of the stock market. It is also a popular choice for index funds and exchange-traded funds (ETFs), allowing investors to gain exposure to a diversified portfolio of large-cap U.S. stocks without having to purchase individual shares. The index is maintained by S&P Dow Jones Indices, a division of S&P Global, which regularly reviews and updates the list of companies to ensure it accurately represents the market.",
+    "industry": [
+        "Financial Services",
+        "Investments"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1957",
+    "website": "https://www.spglobal.com/spdji/en/",
+    "key_executives": [
+        {
+            "name": "Alexander (Alex) Matturri",
+            "position": "CEO, S&P Dow Jones Indices"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Index",
+            "products": [
+                "S&P 500 Index",
+                "S&P 500 ETF"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "S&P 500 Index | Leading Stock Market Indicator",
+        "meta_description": "Discover the S&P 500 Index, a key benchmark for the U.S. stock market, representing 500 large companies. Learn about its significance and investment opportunities.",
+        "keywords": [
+            "S&P 500",
+            "Stock Market",
+            "Equity Index",
+            "Investments",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is the S&P 500?",
+            "answer": "The S&P 500 is a stock market index that measures the performance of 500 large publicly traded companies in the U.S."
+        },
+        {
+            "question": "When was the S&P 500 established?",
+            "answer": "The S&P 500 was established in 1957."
+        },
+        {
+            "question": "Who maintains the S&P 500?",
+            "answer": "The S&P 500 is maintained by S&P Dow Jones Indices, a division of S&P Global."
+        },
+        {
+            "question": "How is the S&P 500 calculated?",
+            "answer": "The S&P 500 is calculated based on the market capitalization of its constituent companies."
+        },
+        {
+            "question": "Why is the S&P 500 important?",
+            "answer": "The S&P 500 is important as it serves as a benchmark for the U.S. stock market and is widely used by investors for investment strategies."
+        }
+    ],
+    "competitors": [
+        "DJIA",
+        "COMP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

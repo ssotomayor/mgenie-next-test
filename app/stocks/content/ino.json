@@ -1,0 +1,84 @@
+{
+    "ticker": "INO",
+    "name": "Inovio Pharmaceuticals, Inc.",
+    "description": "Inovio Pharmaceuticals, Inc. is a biotechnology company focused on the development of innovative DNA-based therapies and vaccines to treat and prevent infectious diseases and cancer. Founded in 1983 and headquartered in Plymouth Meeting, Pennsylvania, Inovio is recognized for its proprietary DNA delivery platform, which employs electroporation technology to enhance the effectiveness of its therapies. The company is at the forefront of developing its lead product candidate, INO-4800, a COVID-19 vaccine that has shown promising results in clinical trials. Inovio is also advancing therapies for various cancers, including cervical dysplasia and prostate cancer, leveraging its unique approach to induce immune responses. The company aims to revolutionize medicine by providing safe, effective, and easily administered treatments for serious health issues. Its commitment to scientific innovation is underscored by a robust pipeline and collaborations with prestigious institutions and organizations. Inovio's mission is to harness the power of the immune system to improve patient outcomes and contribute to global health solutions.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Plymouth Meeting, Pennsylvania, USA",
+    "founded": "1983",
+    "website": "https://www.inovio.com",
+    "ceo": "Joseph Kim",
+    "social_media": {
+        "twitter": "https://twitter.com/inovio",
+        "linkedin": "https://www.linkedin.com/company/inovio-pharmaceuticals"
+    },
+    "investor_relations": "https://investors.inovio.com",
+    "key_executives": [
+        {
+            "name": "Joseph Kim",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. J. Joseph Kim",
+            "position": "President and CEO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "INO-4800 (COVID-19 vaccine)",
+                "VGX-3100 (cervical dysplasia)"
+            ]
+        },
+        {
+            "category": "Cancer Therapies",
+            "products": [
+                "INO-1400 (prostate cancer)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Inovio Pharmaceuticals, Inc. | DNA-Based Therapies and Vaccines",
+        "meta_description": "Explore Inovio Pharmaceuticals, Inc., a leader in DNA-based therapies and vaccines for infectious diseases and cancer. Discover their innovative pipeline and mission.",
+        "keywords": [
+            "Inovio",
+            "Biotechnology",
+            "DNA Vaccines",
+            "Cancer Treatment",
+            "COVID-19 Vaccine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Inovio Pharmaceuticals specialize in?",
+            "answer": "Inovio Pharmaceuticals specializes in DNA-based therapies and vaccines for infectious diseases and cancer."
+        },
+        {
+            "question": "What is Inovio's lead product candidate?",
+            "answer": "Inovio's lead product candidate is INO-4800, a COVID-19 vaccine."
+        },
+        {
+            "question": "Where is Inovio headquartered?",
+            "answer": "Inovio is headquartered in Plymouth Meeting, Pennsylvania, USA."
+        },
+        {
+            "question": "When was Inovio founded?",
+            "answer": "Inovio was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "NVAX",
+        "PFE",
+        "BNTX"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "GILD",
+        "VRTX",
+        "REGN"
+    ]
+}

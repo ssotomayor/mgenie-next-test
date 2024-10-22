@@ -1,0 +1,91 @@
+{
+    "ticker": "NFLX",
+    "name": "Netflix, Inc.",
+    "description": "Netflix, Inc. is a leading global streaming entertainment service that provides a wide variety of award-winning TV shows, movies, anime, documentaries, and more across a diverse range of genres and languages. Founded in 1997 by Reed Hastings and Marc Randolph, Netflix began as a DVD rental service and has since revolutionized the way consumers access and enjoy entertainment. With over 230 million subscribers worldwide, Netflix is known for its original programming, including critically acclaimed series such as 'Stranger Things', 'The Crown', and 'The Witcher', as well as blockbuster films and documentaries. The company invests heavily in content creation, spending billions annually on producing new films and series to attract and retain its subscriber base. Netflix's innovative approach to content delivery, including personalized recommendations and binge-watching capabilities, has set it apart in the competitive streaming landscape. The company's mission is to entertain the world, making high-quality content accessible to everyone, anywhere, and at any time, while also pushing the boundaries of storytelling through technology.",
+    "industry": [
+        "Entertainment",
+        "Streaming Services"
+    ],
+    "headquarters": "Los Gatos, California, USA",
+    "founded": "1997",
+    "website": "https://www.netflix.com",
+    "ceo": "Ted Sarandos",
+    "social_media": {
+        "twitter": "https://twitter.com/netflix",
+        "linkedin": "https://www.linkedin.com/company/netflix",
+        "instagram": "https://www.instagram.com/netflix",
+        "youtube": "https://www.youtube.com/user/netflix"
+    },
+    "investor_relations": "https://ir.netflix.net",
+    "key_executives": [
+        {
+            "name": "Ted Sarandos",
+            "position": "Co-CEO"
+        },
+        {
+            "name": "Greg Peters",
+            "position": "Co-CEO"
+        },
+        {
+            "name": "Spencer Neumann",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Streaming Content",
+            "products": [
+                "Original Series",
+                "Original Movies",
+                "Documentaries",
+                "Anime"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Netflix, Inc. | Stream TV Shows, Movies, and More",
+        "meta_description": "Explore Netflix, Inc., the leading streaming entertainment service offering a wide variety of award-winning films and series. Discover original content and enjoy entertainment from anywhere.",
+        "keywords": [
+            "Netflix",
+            "Streaming",
+            "TV Shows",
+            "Movies",
+            "Original Content",
+            "Binge-Watching"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Netflix known for?",
+            "answer": "Netflix is known for being a leading streaming service providing a vast library of films, series, documentaries, and original content."
+        },
+        {
+            "question": "Who is the CEO of Netflix?",
+            "answer": "Ted Sarandos and Greg Peters are the Co-CEOs of Netflix, Inc."
+        },
+        {
+            "question": "Where is Netflix headquartered?",
+            "answer": "Netflix is headquartered in Los Gatos, California, USA."
+        },
+        {
+            "question": "What types of content does Netflix offer?",
+            "answer": "Netflix offers a wide range of content including TV shows, movies, documentaries, and anime, with a significant focus on original productions."
+        },
+        {
+            "question": "When was Netflix founded?",
+            "answer": "Netflix was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "AMZN",
+        "AAPL",
+        "PARA"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "FB",
+        "ATVI",
+        "CMCSA"
+    ]
+}

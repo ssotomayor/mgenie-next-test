@@ -1,0 +1,78 @@
+{
+    "ticker": "MAMA",
+    "name": "Mamma.com Inc.",
+    "description": "Mamma.com Inc. is a leading provider of online marketing and search engine optimization services. Established in 1996, the company operates a suite of websites designed to facilitate search engine marketing and to provide users with a comprehensive array of tools for optimizing their online presence. Mamma.com is best known for its metasearch engine, which aggregates results from multiple search engines to deliver the most relevant content to users. The company has evolved over the years to focus heavily on the digital marketing space, offering services such as pay-per-click advertising, search engine optimization, and web analytics. Mamma.com aims to empower businesses by enabling them to enhance their visibility and reach in a competitive online landscape. With a commitment to innovation, the company continually adapts its strategies to meet the changing needs of the digital marketplace, ensuring that clients can effectively connect with their target audiences. The mission of Mamma.com is to provide effective online marketing solutions that drive traffic, improve visibility, and ultimately increase revenue for businesses of all sizes.",
+    "industry": [
+        "Internet Services",
+        "Digital Marketing"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1996",
+    "website": "http://www.mamma.com",
+    "ceo": "Gordon McGowan",
+    "social_media": {
+        "twitter": "https://twitter.com/mamma",
+        "linkedin": "https://www.linkedin.com/company/mamma-com-inc-"
+    },
+    "investor_relations": "http://www.mamma.com/investors",
+    "key_executives": [
+        {
+            "name": "Gordon McGowan",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark O'Brien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Search Engine Marketing",
+            "products": [
+                "Pay-Per-Click Advertising",
+                "Search Engine Optimization",
+                "Web Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Mamma.com Inc. | Online Marketing and SEO Solutions",
+        "meta_description": "Learn about Mamma.com Inc., a leader in online marketing and SEO services. Discover how Mamma.com helps businesses improve their online visibility and reach.",
+        "keywords": [
+            "Mamma.com",
+            "Online Marketing",
+            "SEO",
+            "Search Engine Optimization",
+            "Digital Marketing",
+            "PPC Advertising"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Mamma.com provide?",
+            "answer": "Mamma.com provides online marketing services including pay-per-click advertising, search engine optimization, and web analytics."
+        },
+        {
+            "question": "Who is the CEO of Mamma.com?",
+            "answer": "Gordon McGowan is the CEO of Mamma.com Inc."
+        },
+        {
+            "question": "Where is Mamma.com headquartered?",
+            "answer": "Mamma.com is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "When was Mamma.com founded?",
+            "answer": "Mamma.com was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "FB",
+        "YHOO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN"
+    ]
+}

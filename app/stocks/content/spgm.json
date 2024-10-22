@@ -1,0 +1,108 @@
+{
+    "ticker": "SPGM",
+    "name": "S&P Global Inc.",
+    "description": "S&P Global Inc. is a leading provider of financial information and analytics, serving a wide range of customers across the globe. Founded in 1860 and headquartered in New York City, the company has established itself as a trusted source for credit ratings, benchmarks, analytics, and data, empowering businesses, governments, and investors to make informed decisions. S&P Global operates through several segments, including S&P Global Ratings, S&P Global Market Intelligence, S&P Dow Jones Indices, and S&P Global Platts. The Ratings segment is renowned for its comprehensive credit ratings and research, which help assess the creditworthiness of issuers, while Market Intelligence provides data and analytical tools that enhance decision-making in financial markets. The Dow Jones Indices segment includes some of the most recognized stock indices in the world, such as the S&P 500, which serves as a barometer for the U.S. equity market. Additionally, S&P Global Platts offers price benchmarks and insights for the energy and commodities markets. With a strong commitment to transparency and innovation, S&P Global continues to adapt to the evolving needs of its clients, leveraging technology and data-driven solutions to enhance market efficiency. The company\u2019s mission is to provide essential intelligence that drives progress and decision-making across global markets.",
+    "industry": [
+        "Financial Services",
+        "Information Technology"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1860",
+    "website": "https://www.spglobal.com",
+    "ceo": "Douglas L. Peterson",
+    "social_media": {
+        "twitter": "https://twitter.com/spglobal",
+        "linkedin": "https://www.linkedin.com/company/sp-global"
+    },
+    "investor_relations": "https://investor.spglobal.com",
+    "key_executives": [
+        {
+            "name": "Douglas L. Peterson",
+            "position": "CEO"
+        },
+        {
+            "name": "Ewout Steenbergen",
+            "position": "CFO"
+        },
+        {
+            "name": "Sanjay Ranjan",
+            "position": "Chief Technology Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Ratings",
+            "products": [
+                "Corporate Ratings",
+                "Municipal Ratings",
+                "Structured Finance Ratings"
+            ]
+        },
+        {
+            "category": "Market Intelligence",
+            "products": [
+                "Data & Analytics",
+                "Research & Insights"
+            ]
+        },
+        {
+            "category": "Indices",
+            "products": [
+                "S&P 500",
+                "Dow Jones Industrial Average"
+            ]
+        },
+        {
+            "category": "Commodities",
+            "products": [
+                "Energy Price Benchmarks",
+                "Commodity Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "S&P Global Inc. | Financial Information and Analytics",
+        "meta_description": "Explore S&P Global Inc., a leader in financial information and analytics. Discover our credit ratings, market intelligence, and indices that drive global markets.",
+        "keywords": [
+            "S&P Global",
+            "Financial Services",
+            "Credit Ratings",
+            "Market Intelligence",
+            "S&P 500",
+            "Financial Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does S&P Global provide?",
+            "answer": "S&P Global provides credit ratings, market intelligence, indices, and commodity analytics."
+        },
+        {
+            "question": "Who is the CEO of S&P Global?",
+            "answer": "Douglas L. Peterson is the CEO of S&P Global Inc."
+        },
+        {
+            "question": "Where is S&P Global headquartered?",
+            "answer": "S&P Global is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are S&P Global's main products?",
+            "answer": "S&P Global's main products include credit ratings, market intelligence services, indices like the S&P 500, and commodity analytics."
+        },
+        {
+            "question": "When was S&P Global founded?",
+            "answer": "S&P Global was founded in 1860."
+        }
+    ],
+    "competitors": [
+        "MSCI",
+        "FICO",
+        "ICE"
+    ],
+    "related_stocks": [
+        "BRK.B",
+        "V",
+        "JPM",
+        "AXP"
+    ]
+}

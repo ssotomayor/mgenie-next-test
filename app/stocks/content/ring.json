@@ -1,0 +1,93 @@
+{
+    "ticker": "RING",
+    "name": "Zales Corporation",
+    "description": "Zales Corporation, a subsidiary of Signet Jewelers, is a leading retailer in the fine jewelry industry, known for its extensive selection of engagement rings, wedding bands, and other fine jewelry items. Founded in 1924, Zales has established itself as a trusted brand in the hearts of consumers, offering quality pieces for every occasion. The company operates a chain of retail stores across the United States and Canada, providing customers with a personalized shopping experience and expert advice on jewelry selection. Zales is particularly renowned for its engagement and bridal jewelry, featuring a wide array of diamonds and precious gemstones that cater to diverse tastes and budgets. The company's commitment to quality is reflected in its rigorous sourcing practices and the exceptional craftsmanship of its products. In addition to jewelry, Zales offers various services, including jewelry repair and custom design, enhancing the overall customer experience. With a focus on customer satisfaction and a dedication to providing value, Zales continues to evolve its offerings to meet changing consumer preferences and trends in the jewelry market. As part of Signet Jewelers, Zales benefits from a larger network while maintaining its unique brand identity, making it a go-to destination for those seeking exceptional jewelry and dedicated service.",
+    "industry": [
+        "Retail",
+        "Jewelry"
+    ],
+    "headquarters": "Irving, Texas, USA",
+    "founded": "1924",
+    "website": "https://www.zales.com",
+    "ceo": "Gina Drosos",
+    "social_media": {
+        "twitter": "https://twitter.com/Zales",
+        "facebook": "https://www.facebook.com/Zales",
+        "instagram": "https://www.instagram.com/zalesjewelry/",
+        "youtube": "https://www.youtube.com/user/ZalesJewelry"
+    },
+    "investor_relations": "https://www.signetjewelers.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Gina Drosos",
+            "position": "CEO"
+        },
+        {
+            "name": "Patrick McClain",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Fine Jewelry",
+            "products": [
+                "Engagement Rings",
+                "Wedding Bands",
+                "Necklaces",
+                "Bracelets"
+            ]
+        },
+        {
+            "category": "Services",
+            "products": [
+                "Jewelry Repair",
+                "Custom Design"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Zales Corporation | Fine Jewelry Retailer",
+        "meta_description": "Explore Zales Corporation, a leading retailer of fine jewelry, offering a wide range of engagement rings, wedding bands, and exceptional customer service.",
+        "keywords": [
+            "Zales",
+            "Fine Jewelry",
+            "Engagement Rings",
+            "Wedding Bands",
+            "Jewelry Repair",
+            "Custom Design"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of jewelry does Zales sell?",
+            "answer": "Zales sells fine jewelry, including engagement rings, wedding bands, necklaces, and bracelets."
+        },
+        {
+            "question": "Who is the CEO of Zales Corporation?",
+            "answer": "Gina Drosos is the CEO of Zales Corporation."
+        },
+        {
+            "question": "Where is Zales headquartered?",
+            "answer": "Zales is headquartered in Irving, Texas, USA."
+        },
+        {
+            "question": "What services does Zales offer?",
+            "answer": "Zales offers jewelry repair and custom design services in addition to its product offerings."
+        },
+        {
+            "question": "When was Zales founded?",
+            "answer": "Zales was founded in 1924."
+        }
+    ],
+    "competitors": [
+        "SIG",
+        "JWN",
+        "AEO"
+    ],
+    "related_stocks": [
+        "TIF",
+        "KSS",
+        "DDS",
+        "JCP"
+    ]
+}

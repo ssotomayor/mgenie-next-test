@@ -1,0 +1,91 @@
+{
+    "ticker": "CDNS",
+    "name": "Cadence Design Systems, Inc.",
+    "description": "Cadence Design Systems, Inc. is a global leader in electronic design automation (EDA) and engineering services, providing software, hardware, and intellectual property (IP) solutions to accelerate innovation in the electronics industry. Founded in 1988 and headquartered in San Jose, California, Cadence specializes in tools for designing integrated circuits, systems on chips (SoCs), and printed circuit boards (PCBs). The company\u2019s flagship products, including the Cadence Allegro platform for PCB design and the Cadence Virtuoso platform for custom IC design, are widely used by engineers and designers to create advanced electronic products across various sectors, including consumer electronics, automotive, aerospace, and telecommunications. Cadence also emphasizes the importance of system-level design and verification, offering comprehensive solutions that integrate hardware and software design. The company's commitment to innovation is evident through its continuous investment in research and development and its efforts to utilize artificial intelligence and machine learning to optimize design processes. Cadence aims to empower engineers to create efficient, high-performance designs while reducing time to market and development costs, thereby shaping the future of technology.",
+    "industry": [
+        "Technology",
+        "Software",
+        "Engineering"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1988",
+    "website": "https://www.cadence.com",
+    "ceo": "Lip-Bu Tan",
+    "social_media": {
+        "twitter": "https://twitter.com/cadence",
+        "linkedin": "https://www.linkedin.com/company/cadence-design-systems/"
+    },
+    "investor_relations": "https://investors.cadence.com",
+    "key_executives": [
+        {
+            "name": "Lip-Bu Tan",
+            "position": "CEO"
+        },
+        {
+            "name": "John Bruggeman",
+            "position": "CMO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electronic Design Automation",
+            "products": [
+                "Allegro",
+                "Virtuoso",
+                "OrCAD"
+            ]
+        },
+        {
+            "category": "Verification and IP",
+            "products": [
+                "Palladium",
+                "JasperGold"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cadence Design Systems, Inc. | Electronic Design Automation Solutions",
+        "meta_description": "Explore Cadence Design Systems, Inc., a leader in electronic design automation (EDA) providing innovative software and solutions for the electronics industry.",
+        "keywords": [
+            "Cadence",
+            "EDA",
+            "Electronic Design Automation",
+            "IC Design",
+            "PCB Design",
+            "SoC Design"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Cadence Design Systems do?",
+            "answer": "Cadence Design Systems provides electronic design automation (EDA) software and services for designing integrated circuits and systems."
+        },
+        {
+            "question": "Who is the CEO of Cadence?",
+            "answer": "Lip-Bu Tan is the CEO of Cadence Design Systems, Inc."
+        },
+        {
+            "question": "Where is Cadence headquartered?",
+            "answer": "Cadence is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Cadence's main products?",
+            "answer": "Cadence's main products include Allegro for PCB design, Virtuoso for custom IC design, and various verification tools."
+        },
+        {
+            "question": "When was Cadence founded?",
+            "answer": "Cadence was founded in 1988."
+        }
+    ],
+    "competitors": [
+        "SNPS",
+        "ANSYS",
+        "MCHP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "INTC"
+    ]
+}

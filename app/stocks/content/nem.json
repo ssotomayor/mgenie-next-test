@@ -1,0 +1,83 @@
+{
+    "ticker": "NEM",
+    "name": "Newmont Corporation",
+    "description": "Newmont Corporation is a leading gold mining company, recognized as one of the world's largest producers of gold. Founded in 1921, the company has a rich history of mining and exploration, extending its operations across North America, South America, Australia, and Africa. With its headquarters in Denver, Colorado, Newmont prioritizes sustainable mining practices and is committed to responsible resource development. The company operates several mines and projects that leverage advanced technologies and innovative approaches to enhance operational efficiency and minimize environmental impact. Newmont's portfolio includes notable assets such as the Carlin, Tanami, and Boddington mines. The company's mission is to create value and improve lives through sustainable and responsible mining, focusing on safety, environmental stewardship, and community engagement. Newmont is also dedicated to advancing its ESG (Environmental, Social, and Governance) goals, aiming to lead the mining industry in sustainable practices. In addition to gold, Newmont is involved in the production of copper, silver, and other minerals, contributing to a diverse resource base that supports its long-term growth strategy. As a publicly traded company, Newmont actively engages with investors and stakeholders, providing transparency and accountability in its operations.",
+    "industry": [
+        "Mining",
+        "Metals"
+    ],
+    "headquarters": "Denver, Colorado, USA",
+    "founded": "1921",
+    "website": "https://www.newmont.com",
+    "ceo": "Tom Palmer",
+    "social_media": {
+        "twitter": "https://twitter.com/Newmont",
+        "linkedin": "https://www.linkedin.com/company/newmont/"
+    },
+    "investor_relations": "https://investors.newmont.com",
+    "key_executives": [
+        {
+            "name": "Tom Palmer",
+            "position": "CEO"
+        },
+        {
+            "name": "Nancy Buese",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Minerals",
+            "products": [
+                "Gold",
+                "Copper",
+                "Silver"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Newmont Corporation | Leading Gold Mining Company",
+        "meta_description": "Learn about Newmont Corporation, a top gold producer dedicated to sustainability and responsible mining practices. Explore their operations, history, and commitment to ESG.",
+        "keywords": [
+            "Newmont",
+            "Gold Mining",
+            "Sustainability",
+            "Metals",
+            "Mining Industry"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Newmont Corporation do?",
+            "answer": "Newmont Corporation is a leading gold mining company and one of the largest producers of gold in the world."
+        },
+        {
+            "question": "Where is Newmont headquartered?",
+            "answer": "Newmont is headquartered in Denver, Colorado, USA."
+        },
+        {
+            "question": "When was Newmont founded?",
+            "answer": "Newmont was founded in 1921."
+        },
+        {
+            "question": "What are Newmont's main products?",
+            "answer": "Newmont's main products include gold, copper, and silver."
+        },
+        {
+            "question": "What is Newmont's commitment to sustainability?",
+            "answer": "Newmont is committed to responsible mining practices, focusing on environmental stewardship and community engagement."
+        }
+    ],
+    "competitors": [
+        "GOLD",
+        "AEM",
+        "FNV",
+        "HMY"
+    ],
+    "related_stocks": [
+        "BHP",
+        "RIO",
+        "VALE",
+        "FCX"
+    ]
+}

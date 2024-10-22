@@ -1,0 +1,97 @@
+{
+    "ticker": "COUR",
+    "name": "Coursera, Inc.",
+    "description": "Coursera, Inc. is a leading online learning platform that provides access to high-quality education from top universities and organizations around the globe. Founded in 2012 by Daphne Koller and Andrew Ng, Coursera aims to democratize education by offering a wide range of courses, specializations, and degrees across various disciplines, including computer science, business, arts, and more. The platform partners with renowned institutions such as Stanford University, Yale University, and Google to deliver engaging learning experiences that are accessible to anyone with an internet connection. Coursera's innovative approach combines video lectures, interactive quizzes, and peer-reviewed assignments, fostering a collaborative learning environment. The company is also committed to workforce development, offering professional certificates and courses that help learners gain skills that are in high demand in the job market. With millions of learners worldwide, Coursera continues to transform the landscape of education by making it more affordable, flexible, and accessible, aligning with its mission to empower people to achieve their career goals and advance their knowledge.",
+    "industry": [
+        "E-Learning",
+        "Education Technology"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "2012",
+    "website": "https://www.coursera.org",
+    "ceo": "Jeff Maggioncalda",
+    "social_media": {
+        "twitter": "https://twitter.com/coursera",
+        "linkedin": "https://www.linkedin.com/company/coursera/"
+    },
+    "investor_relations": "https://investors.coursera.org",
+    "key_executives": [
+        {
+            "name": "Jeff Maggioncalda",
+            "position": "CEO"
+        },
+        {
+            "name": "Daphne Koller",
+            "position": "Co-Founder and Co-CEO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Online Courses",
+            "products": [
+                "Machine Learning",
+                "Data Science Specialization",
+                "Digital Marketing"
+            ]
+        },
+        {
+            "category": "Professional Certificates",
+            "products": [
+                "Google IT Support",
+                "IBM Data Science"
+            ]
+        },
+        {
+            "category": "Degrees",
+            "products": [
+                "Master of Computer Science",
+                "Bachelor of Arts in Business"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Coursera, Inc. | Online Learning and Educational Courses",
+        "meta_description": "Explore Coursera, Inc., a leading online learning platform offering courses from top universities and organizations. Enhance your skills with professional certificates and degrees.",
+        "keywords": [
+            "Coursera",
+            "Online Learning",
+            "E-Learning",
+            "Professional Certificates",
+            "Online Courses",
+            "Education Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Coursera?",
+            "answer": "Coursera is an online learning platform that offers courses and degrees from top universities and organizations."
+        },
+        {
+            "question": "Who is the CEO of Coursera?",
+            "answer": "Jeff Maggioncalda is the CEO of Coursera, Inc."
+        },
+        {
+            "question": "Where is Coursera headquartered?",
+            "answer": "Coursera is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What types of products does Coursera offer?",
+            "answer": "Coursera offers online courses, professional certificates, and degree programs across various disciplines."
+        },
+        {
+            "question": "When was Coursera founded?",
+            "answer": "Coursera was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "EDX",
+        "LYNX",
+        "AFYA"
+    ],
+    "related_stocks": [
+        "GOOG",
+        "AMZN",
+        "MSFT",
+        "AAPL"
+    ]
+}

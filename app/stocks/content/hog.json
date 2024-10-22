@@ -1,0 +1,95 @@
+{
+    "ticker": "HOG",
+    "name": "Harley-Davidson, Inc.",
+    "description": "Harley-Davidson, Inc. is an iconic American motorcycle manufacturer, renowned for its heavyweight motorcycles designed for cruising on highways. Founded in 1903 in Milwaukee, Wisconsin, Harley-Davidson has built a legacy of freedom, adventure, and rebellion, becoming synonymous with the open road and the spirit of Americana. The company produces a diverse range of motorcycles, including the Sportster, Softail, and Touring models, each reflecting a unique blend of classic style, modern technology, and robust performance. Beyond motorcycles, Harley-Davidson offers a wide array of parts, accessories, and apparel, enhancing the riding experience and promoting a lifestyle around the brand. The company emphasizes its commitment to community engagement through events, riding tours, and rallies that celebrate the motorcycle culture. With a focus on innovation, Harley-Davidson is exploring electric mobility solutions, as seen in its LiveWire electric motorcycle, aiming to attract a new generation of riders while retaining its loyal fan base. The brand's mission is to unleash the rider in everyone, fostering a sense of belonging and adventure among motorcycle enthusiasts worldwide.",
+    "industry": [
+        "Automotive",
+        "Motorcycles"
+    ],
+    "headquarters": "Milwaukee, Wisconsin, USA",
+    "founded": "1903",
+    "website": "https://www.harley-davidson.com",
+    "ceo": "Jochen Zeitz",
+    "social_media": {
+        "twitter": "https://twitter.com/harleydavidson",
+        "linkedin": "https://www.linkedin.com/company/harley-davidson",
+        "instagram": "https://www.instagram.com/harleydavidson",
+        "youtube": "https://www.youtube.com/user/harleydavidson"
+    },
+    "investor_relations": "https://investor.harley-davidson.com",
+    "key_executives": [
+        {
+            "name": "Jochen Zeitz",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina Goetter",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Motorcycles",
+            "products": [
+                "Sportster",
+                "Softail",
+                "Touring",
+                "LiveWire"
+            ]
+        },
+        {
+            "category": "Apparel and Merchandise",
+            "products": [
+                "Riding Gear",
+                "Casual Wear",
+                "Accessories"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Harley-Davidson, Inc. | Iconic American Motorcycles",
+        "meta_description": "Discover Harley-Davidson, Inc., the leading manufacturer of heavyweight motorcycles known for their quality, performance, and style. Explore Harley's legacy and innovative products.",
+        "keywords": [
+            "Harley-Davidson",
+            "Motorcycles",
+            "American Motorcycles",
+            "Cruising",
+            "LiveWire",
+            "Motorcycle Apparel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Harley-Davidson known for?",
+            "answer": "Harley-Davidson is known for its heavyweight motorcycles that embody the spirit of freedom and adventure."
+        },
+        {
+            "question": "Who is the CEO of Harley-Davidson?",
+            "answer": "Jochen Zeitz is the CEO of Harley-Davidson, Inc."
+        },
+        {
+            "question": "Where is Harley-Davidson headquartered?",
+            "answer": "Harley-Davidson is headquartered in Milwaukee, Wisconsin, USA."
+        },
+        {
+            "question": "What are Harley-Davidson's main products?",
+            "answer": "Harley-Davidson's main products include motorcycles such as the Sportster, Softail, and LiveWire, as well as riding gear and accessories."
+        },
+        {
+            "question": "When was Harley-Davidson founded?",
+            "answer": "Harley-Davidson was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "HOG",
+        "BMW",
+        "Yamaha",
+        "Kawasaki"
+    ],
+    "related_stocks": [
+        "F",
+        "GM",
+        "TSLA",
+        "HMC"
+    ]
+}

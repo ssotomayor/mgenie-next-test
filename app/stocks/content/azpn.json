@@ -1,0 +1,98 @@
+{
+    "ticker": "AZPN",
+    "name": "Aspen Technology, Inc.",
+    "description": "Aspen Technology, Inc. (AspenTech) is a leading provider of software and services aimed at optimizing asset performance in the process industries. Founded in 1981 and headquartered in Bedford, Massachusetts, AspenTech offers a comprehensive suite of software solutions that enable companies to improve their operational efficiency, reduce costs, and enhance productivity. The company's primary focus is on delivering advanced process modeling, simulation, and optimization tools that are used extensively in industries such as oil and gas, chemicals, pharmaceuticals, and power generation. AspenTech's flagship products include Aspen Plus, Aspen HYSYS, and Aspen DMC3, which empower engineers to design and operate complex industrial processes with precision and insight. In recent years, AspenTech has embraced digital transformation and the integration of artificial intelligence (AI), machine learning, and advanced analytics into its offerings, positioning itself as a critical partner in the journey toward Industry 4.0. The company's mission is to provide innovative solutions that help organizations achieve operational excellence and sustainability, ultimately leading to better economic and environmental outcomes.",
+    "industry": [
+        "Software",
+        "Engineering",
+        "Process Optimization"
+    ],
+    "headquarters": "Bedford, Massachusetts, USA",
+    "founded": "1981",
+    "website": "https://www.aspentech.com",
+    "ceo": "Antonio Pietri",
+    "social_media": {
+        "twitter": "https://twitter.com/AspenTech",
+        "linkedin": "https://www.linkedin.com/company/aspentech/"
+    },
+    "investor_relations": "https://ir.aspentech.com",
+    "key_executives": [
+        {
+            "name": "Antonio Pietri",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy B. G. S. T. P. E. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Process Modeling",
+            "products": [
+                "Aspen Plus",
+                "Aspen HYSYS"
+            ]
+        },
+        {
+            "category": "Optimization",
+            "products": [
+                "Aspen DMC3",
+                "Aspen Optimization Suite"
+            ]
+        },
+        {
+            "category": "Advanced Analytics",
+            "products": [
+                "Aspen AI",
+                "Aspen Enterprise Insights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aspen Technology, Inc. | Software for Asset Optimization",
+        "meta_description": "Aspen Technology, Inc. provides innovative software solutions for asset performance optimization in process industries. Explore AspenTech's products and services.",
+        "keywords": [
+            "AspenTech",
+            "Process Optimization",
+            "Software",
+            "Asset Performance",
+            "Digital Transformation",
+            "Industrial Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Aspen Technology specialize in?",
+            "answer": "Aspen Technology specializes in software solutions for optimizing asset performance in the process industries."
+        },
+        {
+            "question": "Who is the CEO of Aspen Technology?",
+            "answer": "Antonio Pietri is the CEO of Aspen Technology, Inc."
+        },
+        {
+            "question": "Where is Aspen Technology headquartered?",
+            "answer": "Aspen Technology is headquartered in Bedford, Massachusetts, USA."
+        },
+        {
+            "question": "What are AspenTech's main products?",
+            "answer": "AspenTech's main products include Aspen Plus, Aspen HYSYS, and Aspen DMC3."
+        },
+        {
+            "question": "When was Aspen Technology founded?",
+            "answer": "Aspen Technology was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "SPLK",
+        "PTC",
+        "CDK",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "ORCL",
+        "ADBE",
+        "CRM",
+        "IBM"
+    ]
+}

@@ -1,0 +1,92 @@
+{
+    "ticker": "FOXA",
+    "name": "Fox Corporation",
+    "description": "Fox Corporation is a prominent media company that operates in the broadcasting and cable television sectors. Established in 2019 as a result of the restructuring of 21st Century Fox, Fox Corp. focuses on news, sports, and entertainment content. The company primarily consists of the Fox Broadcasting Company, Fox News Channel, Fox Sports, and several other cable networks. With a commitment to delivering high-quality programming, Fox Corp. is known for its popular television shows, live sporting events, and news coverage that reaches millions of viewers across the United States and internationally. Fox News, in particular, has become a leading source of news content, while Fox Sports broadcasts major sporting events, including NFL games, Major League Baseball, and college sports. In addition to traditional broadcasting, Fox Corp. is increasingly investing in digital platforms to reach a wider audience, adapting to the changing media landscape. The company's mission is to inform, entertain, and engage audiences through compelling content and innovative distribution methods. With a diverse portfolio and a strong presence in both linear and digital media, Fox Corporation continues to play a significant role in shaping the future of media and entertainment.",
+    "industry": [
+        "Media",
+        "Broadcasting",
+        "Entertainment"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2019",
+    "website": "https://www.foxcorporation.com",
+    "ceo": "Lachlan Murdoch",
+    "social_media": {
+        "twitter": "https://twitter.com/FoxNews",
+        "linkedin": "https://www.linkedin.com/company/fox-corporation/"
+    },
+    "investor_relations": "https://www.foxcorporation.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Lachlan Murdoch",
+            "position": "CEO"
+        },
+        {
+            "name": "John Nallen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Broadcasting",
+            "products": [
+                "Fox Broadcasting Company",
+                "Fox News Channel",
+                "Fox Sports"
+            ]
+        },
+        {
+            "category": "Streaming Services",
+            "products": [
+                "Fox Nation",
+                "Fox Sports App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fox Corporation | Leading Media and Entertainment Company",
+        "meta_description": "Explore Fox Corporation, a leading media company focused on news, sports, and entertainment. Discover our diverse portfolio and commitment to quality programming.",
+        "keywords": [
+            "Fox Corporation",
+            "Media",
+            "Broadcasting",
+            "Fox News",
+            "Fox Sports",
+            "Entertainment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Fox Corporation known for?",
+            "answer": "Fox Corporation is known for its broadcasting and cable television networks, including Fox News and Fox Sports."
+        },
+        {
+            "question": "Who is the CEO of Fox Corporation?",
+            "answer": "Lachlan Murdoch is the CEO of Fox Corporation."
+        },
+        {
+            "question": "Where is Fox Corporation headquartered?",
+            "answer": "Fox Corporation is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Fox Corporation's main properties?",
+            "answer": "Fox Corporation's main properties include Fox Broadcasting Company, Fox News Channel, and Fox Sports."
+        },
+        {
+            "question": "When was Fox Corporation founded?",
+            "answer": "Fox Corporation was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "NFLX",
+        "CMCSA",
+        "PARA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "NFLX"
+    ]
+}

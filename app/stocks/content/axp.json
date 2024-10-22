@@ -1,0 +1,90 @@
+{
+    "ticker": "AXP",
+    "name": "American Express Company",
+    "description": "American Express Company, commonly known as Amex, is a multinational financial services corporation headquartered in New York City. Founded in 1850, the company is best known for its charge card, credit card, and traveler's cheque businesses. American Express operates in the payments industry and serves millions of customers worldwide with its innovative financial products and services. The company has developed a strong reputation for providing premium customer service and rewards programs, particularly for its cardholders. American Express cards are widely accepted and are known for offering various benefits including travel rewards, cash back, and exclusive access to events. The company's business model includes both consumer and commercial services, catering to individuals, small businesses, and large corporations. In addition to its credit card offerings, American Express provides payment solutions, fraud protection, and expense management services. As a leader in the financial services sector, American Express is committed to leveraging technology to enhance customer experiences and streamline transactions. The company continues to expand its global presence and innovate its product offerings in response to changing consumer preferences and the evolving landscape of digital payments.",
+    "industry": [
+        "Financial Services",
+        "Payments"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1850",
+    "website": "https://www.americanexpress.com",
+    "ceo": "Stephen Squeri",
+    "social_media": {
+        "twitter": "https://twitter.com/AmericanExpress",
+        "linkedin": "https://www.linkedin.com/company/american-express/"
+    },
+    "investor_relations": "https://ir.americanexpress.com",
+    "key_executives": [
+        {
+            "name": "Stephen Squeri",
+            "position": "CEO"
+        },
+        {
+            "name": "Jeffrey C. Campbell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Charge and Credit Cards",
+            "products": [
+                "American Express Green Card",
+                "American Express Gold Card",
+                "American Express Platinum Card"
+            ]
+        },
+        {
+            "category": "Travel Services",
+            "products": [
+                "Travel Insurance",
+                "Trip Cancellation Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "American Express Company | Financial Services and Payment Solutions",
+        "meta_description": "Discover American Express Company, a leader in financial services and payment solutions. Explore Amex's innovative products, services, and commitment to customer satisfaction.",
+        "keywords": [
+            "American Express",
+            "Financial Services",
+            "Credit Cards",
+            "Travel Services",
+            "Payment Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is American Express known for?",
+            "answer": "American Express is known for its charge and credit cards, as well as its premium customer service and rewards programs."
+        },
+        {
+            "question": "Who is the CEO of American Express?",
+            "answer": "Stephen Squeri is the CEO of American Express Company."
+        },
+        {
+            "question": "Where is American Express headquartered?",
+            "answer": "American Express is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are American Express's main products?",
+            "answer": "American Express's main products include charge and credit cards, travel insurance, and payment solutions."
+        },
+        {
+            "question": "When was American Express founded?",
+            "answer": "American Express was founded in 1850."
+        }
+    ],
+    "competitors": [
+        "V",
+        "MA",
+        "DFS",
+        "COF"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "JPM"
+    ]
+}

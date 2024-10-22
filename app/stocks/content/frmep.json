@@ -1,0 +1,88 @@
+{
+    "ticker": "FRMEP",
+    "name": "First Merchants Corporation",
+    "description": "First Merchants Corporation is a financial holding company based in Muncie, Indiana, dedicated to providing comprehensive financial services to individuals, businesses, and communities across the Midwest. Established in 1893, the company operates through its banking subsidiary, First Merchants Bank, which offers a wide range of products including personal banking, commercial banking, and wealth management services. With a commitment to customer service and community development, First Merchants aims to build strong relationships and provide tailored financial solutions to meet the diverse needs of its clients. The bank is well-known for its robust digital banking platform, making it easier for customers to manage their finances on the go. First Merchants has consistently expanded its footprint through strategic acquisitions and branch openings, enhancing its ability to serve customers in Indiana, Ohio, and Illinois. The company is also dedicated to corporate social responsibility, actively engaging in community support and philanthropic efforts to improve the quality of life in the areas it serves. With a strong emphasis on integrity and customer satisfaction, First Merchants Corporation continues to grow as a trusted financial partner.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Muncie, Indiana, USA",
+    "founded": "1893",
+    "website": "https://www.firstmerchants.com",
+    "ceo": "Michael C. Marhenke",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstMerchants",
+        "linkedin": "https://www.linkedin.com/company/first-merchants-bank"
+    },
+    "investor_relations": "https://ir.firstmerchants.com",
+    "key_executives": [
+        {
+            "name": "Michael C. Marhenke",
+            "position": "CEO"
+        },
+        {
+            "name": "W. D. Brown",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Personal Banking",
+                "Commercial Banking",
+                "Mortgage Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Management",
+                "Retirement Planning",
+                "Trust Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Merchants Corporation | Comprehensive Financial Services",
+        "meta_description": "Explore First Merchants Corporation, a leading financial services provider in the Midwest offering banking, investment, and wealth management solutions.",
+        "keywords": [
+            "First Merchants",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Commercial Banking",
+            "Personal Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Merchants Corporation offer?",
+            "answer": "First Merchants Corporation offers personal banking, commercial banking, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of First Merchants Corporation?",
+            "answer": "Michael C. Marhenke is the CEO of First Merchants Corporation."
+        },
+        {
+            "question": "Where is First Merchants Corporation headquartered?",
+            "answer": "First Merchants Corporation is headquartered in Muncie, Indiana, USA."
+        },
+        {
+            "question": "When was First Merchants Corporation founded?",
+            "answer": "First Merchants Corporation was founded in 1893."
+        }
+    ],
+    "competitors": [
+        "FBK",
+        "CUBI",
+        "GABC",
+        "FULT"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "PNC"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "ticker": "AMRN",
+    "name": "Amarin Corporation plc",
+    "description": "Amarin Corporation plc is a biopharmaceutical company focused on the development and commercialization of therapeutics to improve cardiovascular health. Founded in 1989, Amarin is headquartered in Dublin, Ireland, with additional offices in the United States. The company is best known for its flagship product, Vascepa (icosapent ethyl), which is derived from fish oil and has been clinically proven to reduce the risk of cardiovascular events in high-risk patients. Amarin is committed to advancing the understanding of cardiovascular disease and strives to enhance treatment options for patients with high triglyceride levels and other cardiovascular risk factors. Through extensive research and clinical trials, Amarin aims to provide healthcare professionals and patients with innovative solutions that address unmet medical needs in the cardiovascular space. The company's dedication to scientific rigor and patient care underpins its mission to improve health outcomes and quality of life for individuals at risk of cardiovascular disease.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Dublin, Ireland",
+    "founded": "1989",
+    "website": "https://www.amarincorp.com",
+    "ceo": "K. Craig Fraser",
+    "social_media": {
+        "twitter": "https://twitter.com/AmarinCorp",
+        "linkedin": "https://www.linkedin.com/company/amarin/"
+    },
+    "investor_relations": "https://investors.amarincorp.com",
+    "key_executives": [
+        {
+            "name": "K. Craig Fraser",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael McGirr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pharmaceuticals",
+            "products": [
+                "Vascepa"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Amarin Corporation plc | Cardiovascular Health Solutions",
+        "meta_description": "Learn about Amarin Corporation, a biopharmaceutical company dedicated to improving cardiovascular health with innovative therapeutics like Vascepa.",
+        "keywords": [
+            "Amarin",
+            "Vascepa",
+            "Cardiovascular Health",
+            "Biopharmaceuticals",
+            "Healthcare"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Amarin known for?",
+            "answer": "Amarin is known for its biopharmaceutical product Vascepa, which is used to reduce cardiovascular risk."
+        },
+        {
+            "question": "Who is the CEO of Amarin?",
+            "answer": "K. Craig Fraser is the CEO of Amarin Corporation."
+        },
+        {
+            "question": "Where is Amarin headquartered?",
+            "answer": "Amarin is headquartered in Dublin, Ireland."
+        },
+        {
+            "question": "What is Vascepa?",
+            "answer": "Vascepa is a prescription medication derived from omega-3 fatty acids, used to lower triglycerides and reduce cardiovascular risk."
+        },
+        {
+            "question": "When was Amarin founded?",
+            "answer": "Amarin was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "REGN",
+        "ABBV"
+    ],
+    "related_stocks": [
+        "PFE",
+        "JNJ",
+        "BMY",
+        "NVDA"
+    ]
+}

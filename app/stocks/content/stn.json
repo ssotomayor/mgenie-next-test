@@ -1,0 +1,100 @@
+{
+    "ticker": "STN",
+    "name": "Stantec Inc.",
+    "description": "Stantec Inc. is a global design and consulting firm that provides a wide range of professional services in architecture, engineering, and environmental sciences. Founded in 1954 and headquartered in Edmonton, Alberta, Canada, Stantec operates in over 400 locations worldwide, employing thousands of professionals dedicated to creating sustainable solutions for communities and clients. The company's core services encompass planning, engineering, architecture, landscape architecture, environmental sciences, project management, and construction management. Stantec is particularly recognized for its commitment to sustainability and innovation, focusing on projects that enhance the built environment while respecting natural resources. The firm has participated in numerous landmark projects across various sectors, including transportation, water resources, urban development, and energy. With a mission to design with community in mind, Stantec prioritizes stakeholder engagement and collaborative approaches in its projects, ensuring that the needs of the community are met effectively. As a leader in the engineering and design industry, Stantec is dedicated to improving the quality of life and the environment through thoughtful, innovative solutions.",
+    "industry": [
+        "Engineering",
+        "Consulting",
+        "Environmental Services"
+    ],
+    "headquarters": "Edmonton, Alberta, Canada",
+    "founded": "1954",
+    "website": "https://www.stantec.com",
+    "ceo": "Gord Johnston",
+    "social_media": {
+        "twitter": "https://twitter.com/stantec",
+        "linkedin": "https://www.linkedin.com/company/stantec",
+        "instagram": "https://www.instagram.com/stantecinc/",
+        "youtube": "https://www.youtube.com/user/StantecDesign"
+    },
+    "investor_relations": "https://investor.stantec.com",
+    "key_executives": [
+        {
+            "name": "Gord Johnston",
+            "position": "CEO"
+        },
+        {
+            "name": "Theresa B. H. B. H. Masoud",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Engineering Services",
+            "products": [
+                "Civil Engineering",
+                "Structural Engineering",
+                "Mechanical Engineering"
+            ]
+        },
+        {
+            "category": "Environmental Services",
+            "products": [
+                "Environmental Assessment",
+                "Sustainability Consulting"
+            ]
+        },
+        {
+            "category": "Architecture",
+            "products": [
+                "Urban Design",
+                "Landscape Architecture"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Stantec Inc. | Global Design and Consulting Firm",
+        "meta_description": "Explore Stantec Inc., a leading global design and consulting firm dedicated to sustainable solutions in engineering, architecture, and environmental services.",
+        "keywords": [
+            "Stantec",
+            "Engineering",
+            "Architecture",
+            "Environmental Services",
+            "Sustainability",
+            "Consulting"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Stantec do?",
+            "answer": "Stantec provides design and consulting services in engineering, architecture, and environmental sciences."
+        },
+        {
+            "question": "Who is the CEO of Stantec?",
+            "answer": "Gord Johnston is the CEO of Stantec Inc."
+        },
+        {
+            "question": "Where is Stantec headquartered?",
+            "answer": "Stantec is headquartered in Edmonton, Alberta, Canada."
+        },
+        {
+            "question": "What sectors does Stantec work in?",
+            "answer": "Stantec works in various sectors including transportation, water resources, urban development, and energy."
+        },
+        {
+            "question": "When was Stantec founded?",
+            "answer": "Stantec was founded in 1954."
+        }
+    ],
+    "competitors": [
+        "WSP",
+        "AECOM",
+        "CH2M",
+        "Jacobs"
+    ],
+    "related_stocks": [
+        "TSE:WSP",
+        "NYSE:ACM",
+        "NYSE:J"
+    ]
+}

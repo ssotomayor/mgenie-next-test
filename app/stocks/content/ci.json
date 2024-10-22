@@ -1,0 +1,93 @@
+{
+    "ticker": "CI",
+    "name": "Cigna Corporation",
+    "description": "Cigna Corporation is a global health service company dedicated to improving the health, well-being, and peace of mind of those we serve. Founded in 1982 and headquartered in Bloomfield, Connecticut, Cigna provides a wide range of health services, including medical, dental, behavioral health, pharmacy, vision, and supplemental health services. The company operates through various segments: Evernorth, which focuses on health services, and Cigna, which offers health insurance products and services. Cigna aims to enhance the quality of care by leveraging data analytics and technology to provide personalized health solutions. With a commitment to innovation, Cigna is transforming healthcare by offering integrated services that empower individuals and communities to achieve their health goals. The company also emphasizes corporate responsibility and sustainability, investing in initiatives that promote access to healthcare and improve health outcomes for underserved populations. Through partnerships and collaborations, Cigna strives to create a more equitable healthcare system, making a positive impact on the communities it serves.",
+    "industry": [
+        "Health Insurance",
+        "Healthcare Services"
+    ],
+    "headquarters": "Bloomfield, Connecticut, USA",
+    "founded": "1982",
+    "website": "https://www.cigna.com",
+    "ceo": "David Cordani",
+    "social_media": {
+        "twitter": "https://twitter.com/Cigna",
+        "linkedin": "https://www.linkedin.com/company/cigna/"
+    },
+    "investor_relations": "https://www.cigna.com/investors",
+    "key_executives": [
+        {
+            "name": "David Cordani",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Evanko",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Health Insurance",
+            "products": [
+                "Medical Insurance",
+                "Dental Insurance",
+                "Vision Insurance"
+            ]
+        },
+        {
+            "category": "Health Services",
+            "products": [
+                "Behavioral Health Services",
+                "Pharmacy Services",
+                "Evernorth Health Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cigna Corporation | Health Services and Insurance",
+        "meta_description": "Explore Cigna Corporation, a leader in health services and insurance. Discover Cigna's commitment to improving health and well-being through innovative solutions.",
+        "keywords": [
+            "Cigna",
+            "Health Insurance",
+            "Healthcare Services",
+            "Evernorth",
+            "David Cordani",
+            "Behavioral Health",
+            "Pharmacy Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Cigna do?",
+            "answer": "Cigna provides health insurance and health services, including medical, dental, and behavioral health coverage."
+        },
+        {
+            "question": "Who is the CEO of Cigna?",
+            "answer": "David Cordani is the CEO of Cigna Corporation."
+        },
+        {
+            "question": "Where is Cigna headquartered?",
+            "answer": "Cigna is headquartered in Bloomfield, Connecticut, USA."
+        },
+        {
+            "question": "What are Cigna's main products?",
+            "answer": "Cigna's main products include medical, dental, vision, and behavioral health insurance, as well as pharmacy services."
+        },
+        {
+            "question": "When was Cigna founded?",
+            "answer": "Cigna was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "UNH",
+        "ANTM",
+        "HUM",
+        "CVS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

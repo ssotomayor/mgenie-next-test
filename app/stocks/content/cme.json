@@ -1,0 +1,90 @@
+{
+    "ticker": "CME",
+    "name": "CME Group Inc.",
+    "description": "CME Group Inc. is the world\u2019s leading and most diverse derivatives marketplace, offering a wide range of futures and options products across various asset classes, including interest rates, equity indexes, foreign exchange, energy, and agricultural commodities. Founded in 1898 as the Chicago Butter and Egg Board, CME Group has evolved through a series of mergers and acquisitions, including the Chicago Mercantile Exchange, the Chicago Board of Trade, and the New York Mercantile Exchange. This evolution has solidified its position as a global leader in the financial derivatives market. CME Group facilitates price discovery and risk management for a diverse clientele, including corporations, financial institutions, and individual investors. The company's electronic trading platform, CME Globex, enables its customers to trade 24 hours a day, significantly enhancing market accessibility and liquidity. CME Group is also renowned for its commitment to innovation and technology, continuously enhancing its trading platforms and services to meet the evolving needs of the market. The company plays a crucial role in the financial system, providing tools that help mitigate risk and enhance transparency in the derivatives marketplace. With a focus on customer service and a robust regulatory framework, CME Group remains dedicated to upholding the highest standards of integrity and professionalism in all its operations.",
+    "industry": [
+        "Financial Services",
+        "Exchange"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1898",
+    "website": "https://www.cmegroup.com",
+    "ceo": "Terry Duffy",
+    "social_media": {
+        "twitter": "https://twitter.com/CMEGroup",
+        "linkedin": "https://www.linkedin.com/company/cme-group/"
+    },
+    "investor_relations": "https://investor.cmegroup.com",
+    "key_executives": [
+        {
+            "name": "Terry Duffy",
+            "position": "CEO"
+        },
+        {
+            "name": "John Pietrowicz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Futures",
+            "products": [
+                "Interest Rate Futures",
+                "Equity Index Futures",
+                "Commodity Futures"
+            ]
+        },
+        {
+            "category": "Options",
+            "products": [
+                "Options on Futures",
+                "Equity Options"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CME Group Inc. | Leading Derivatives Marketplace",
+        "meta_description": "Explore CME Group Inc., the world's largest and most diverse derivatives marketplace offering a wide range of futures and options products for risk management and price discovery.",
+        "keywords": [
+            "CME Group",
+            "Derivatives",
+            "Futures",
+            "Options",
+            "Financial Services",
+            "Risk Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CME Group do?",
+            "answer": "CME Group operates the world's largest derivatives marketplace, offering futures and options across various asset classes."
+        },
+        {
+            "question": "Who is the CEO of CME Group?",
+            "answer": "Terry Duffy is the CEO of CME Group Inc."
+        },
+        {
+            "question": "Where is CME Group headquartered?",
+            "answer": "CME Group is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What are CME Group's main products?",
+            "answer": "CME Group's main products include futures and options on interest rates, equity indexes, commodities, and foreign exchange."
+        },
+        {
+            "question": "When was CME Group founded?",
+            "answer": "CME Group was founded in 1898."
+        }
+    ],
+    "competitors": [
+        "ICE",
+        "CBOE",
+        "NDAQ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GS",
+        "BLK"
+    ]
+}

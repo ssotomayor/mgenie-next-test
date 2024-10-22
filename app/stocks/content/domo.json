@@ -1,0 +1,93 @@
+{
+    "ticker": "DOMO",
+    "name": "Domo, Inc.",
+    "description": "Domo, Inc. is a cloud-based software company that specializes in business intelligence and data visualization. Founded in 2010 by Josh James, a former co-founder of Omniture, Domo's mission is to transform the way businesses manage and leverage data to drive decision-making. The platform integrates with a wide variety of data sources, allowing organizations to unify their data into a single view and gain real-time insights. Domo's user-friendly interface enables users to create interactive dashboards and reports without needing extensive technical expertise, making data accessible to all employees, from executives to front-line workers. The company is known for its innovative approach to data management, empowering organizations to make data-driven decisions faster and more efficiently. Domo serves a diverse range of industries, including healthcare, finance, retail, and technology, and is recognized for its focus on customer satisfaction and continuous product improvement. With a strong emphasis on collaboration, Domo helps teams work together more effectively by providing a platform where data and insights can be shared seamlessly. The company is committed to fostering a data-driven culture within organizations, enabling them to adapt to the fast-paced business environment and stay ahead of the competition.",
+    "industry": [
+        "Software",
+        "Business Intelligence"
+    ],
+    "headquarters": "American Fork, Utah, USA",
+    "founded": "2010",
+    "website": "https://www.domo.com",
+    "ceo": "Josh James",
+    "social_media": {
+        "twitter": "https://twitter.com/domo",
+        "linkedin": "https://www.linkedin.com/company/domo/",
+        "instagram": "https://www.instagram.com/domoinc/",
+        "youtube": "https://www.youtube.com/user/DomoInc"
+    },
+    "investor_relations": "https://investors.domo.com",
+    "key_executives": [
+        {
+            "name": "Josh James",
+            "position": "CEO"
+        },
+        {
+            "name": "Cynthia Gaylor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Business Intelligence",
+            "products": [
+                "Domo Business Cloud",
+                "Domo for Salesforce",
+                "Domo for Microsoft"
+            ]
+        },
+        {
+            "category": "Data Visualization",
+            "products": [
+                "Domo Dashboards",
+                "Domo Reports"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Domo, Inc. | Cloud-Based Business Intelligence Solutions",
+        "meta_description": "Discover Domo, Inc., a leader in cloud-based business intelligence and data visualization. Explore Domo's innovative platform and its impact on data-driven decision-making.",
+        "keywords": [
+            "Domo",
+            "Business Intelligence",
+            "Data Visualization",
+            "Cloud Software",
+            "Data Management",
+            "Josh James"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Domo known for?",
+            "answer": "Domo is known for its cloud-based business intelligence platform that provides data visualization and analytics solutions."
+        },
+        {
+            "question": "Who is the CEO of Domo?",
+            "answer": "Josh James is the CEO of Domo, Inc."
+        },
+        {
+            "question": "Where is Domo headquartered?",
+            "answer": "Domo is headquartered in American Fork, Utah, USA."
+        },
+        {
+            "question": "What are Domo's main products?",
+            "answer": "Domo's main products include the Domo Business Cloud, Domo Dashboards, and Domo Reports."
+        },
+        {
+            "question": "When was Domo founded?",
+            "answer": "Domo was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "CRM",
+        "PLTR",
+        "QLIK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

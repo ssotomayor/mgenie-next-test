@@ -1,0 +1,87 @@
+{
+    "ticker": "NSSC",
+    "name": "NanoString Technologies, Inc.",
+    "description": "NanoString Technologies, Inc. is a biotechnology company that specializes in the development of innovative tools for life science research and clinical diagnostics. Founded in 2003 and based in Seattle, Washington, NanoString has pioneered technologies that enable researchers to measure and analyze gene expression in a highly multiplexed and quantitative manner. The company is best known for its proprietary GeoMx Digital Spatial Profiler, which allows for high-plex spatial profiling of RNA and protein in tissue samples, providing critical insights into the tumor microenvironment and disease mechanisms. In addition to its spatial biology platforms, NanoString offers the nCounter Analysis System, which is designed for gene expression profiling, as well as the DSP platform that integrates optical imaging with molecular analysis. With a strong commitment to advancing precision medicine, NanoString collaborates with academic institutions, pharmaceutical companies, and clinical laboratories to accelerate the pace of scientific discovery and improve patient outcomes. The company continues to expand its product portfolio and applications in the fields of oncology, immune profiling, and other diseases, aiming to empower researchers and clinicians with the tools needed to make informed decisions in personalized healthcare.",
+    "industry": [
+        "Biotechnology",
+        "Life Sciences"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "2003",
+    "website": "https://www.nanostring.com",
+    "ceo": "Brad Gray",
+    "social_media": {
+        "twitter": "https://twitter.com/NanoString",
+        "linkedin": "https://www.linkedin.com/company/nanostring-technologies/"
+    },
+    "investor_relations": "https://investors.nanostring.com",
+    "key_executives": [
+        {
+            "name": "Brad Gray",
+            "position": "CEO"
+        },
+        {
+            "name": "Lori P. P. Henson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Spatial Biology",
+            "products": [
+                "GeoMx Digital Spatial Profiler"
+            ]
+        },
+        {
+            "category": "Gene Expression",
+            "products": [
+                "nCounter Analysis System"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NanoString Technologies, Inc. | Innovation in Life Sciences and Biotechnology",
+        "meta_description": "Explore NanoString Technologies, Inc., a leading biotechnology company focused on spatial biology and gene expression analysis. Discover our innovative tools for research and diagnostics.",
+        "keywords": [
+            "NanoString",
+            "Biotechnology",
+            "Gene Expression",
+            "Spatial Biology",
+            "Precision Medicine",
+            "Oncology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does NanoString Technologies specialize in?",
+            "answer": "NanoString Technologies specializes in biotechnology tools for gene expression analysis and spatial biology."
+        },
+        {
+            "question": "Who is the CEO of NanoString?",
+            "answer": "Brad Gray is the CEO of NanoString Technologies, Inc."
+        },
+        {
+            "question": "Where is NanoString headquartered?",
+            "answer": "NanoString is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What are some of NanoString's main products?",
+            "answer": "NanoString's main products include the GeoMx Digital Spatial Profiler and the nCounter Analysis System."
+        },
+        {
+            "question": "When was NanoString founded?",
+            "answer": "NanoString was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "ILMN",
+        "PACB",
+        "QGEN"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "GILD",
+        "REGN",
+        "BMY"
+    ]
+}

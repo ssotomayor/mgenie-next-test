@@ -1,0 +1,91 @@
+{
+    "ticker": "PLNT",
+    "name": "Planet Fitness, Inc.",
+    "description": "Planet Fitness, Inc. is a prominent health and fitness club franchise that aims to provide a welcoming and non-intimidating environment for individuals of all fitness levels. Founded in 1992 in Dover, New Hampshire, by founders Michael and Marc Grondahl, Planet Fitness has grown to become one of the largest and fastest-growing fitness chains in the United States. The company operates under a unique 'Judgement Free Zone' philosophy, which encourages members to pursue their fitness goals without fear of judgment. With over 2,000 locations across the U.S. and internationally, Planet Fitness offers an array of cardio and strength training equipment, group fitness classes, and personal training services at an affordable price point. The brand's commitment to affordability is evidenced by its low monthly membership fees and no long-term contracts. Planet Fitness is also known for its attention to cleanliness and hygiene, ensuring a safe and pleasant experience for all members. The company has successfully tapped into the growing trend of health consciousness and fitness culture, making it particularly appealing to first-time gym-goers and casual fitness enthusiasts. As part of its growth strategy, Planet Fitness continues to expand its footprint and enhance its services, focusing on technology and member engagement to foster a loyal community.",
+    "industry": [
+        "Health and Fitness",
+        "Franchising"
+    ],
+    "headquarters": "Hampton, New Hampshire, USA",
+    "founded": "1992",
+    "website": "https://www.planetfitness.com",
+    "ceo": "Chris Rondeau",
+    "social_media": {
+        "twitter": "https://twitter.com/PlanetFitness",
+        "linkedin": "https://www.linkedin.com/company/planet-fitness",
+        "instagram": "https://www.instagram.com/planetfitness",
+        "facebook": "https://www.facebook.com/PlanetFitness"
+    },
+    "investor_relations": "https://investors.planetfitness.com",
+    "key_executives": [
+        {
+            "name": "Chris Rondeau",
+            "position": "CEO"
+        },
+        {
+            "name": "Dorothy S. Cummings",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Fitness Memberships",
+            "products": [
+                "Classic Membership",
+                "PF Black Card Membership"
+            ]
+        },
+        {
+            "category": "Fitness Services",
+            "products": [
+                "Group Fitness Classes",
+                "Personal Training"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Planet Fitness, Inc. | Judgement Free Fitness",
+        "meta_description": "Join Planet Fitness, a leading gym franchise dedicated to providing a non-intimidating environment for all fitness levels. Learn about our memberships, services, and more.",
+        "keywords": [
+            "Planet Fitness",
+            "Gym Membership",
+            "Fitness",
+            "Health Club",
+            "Affordable Gym"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Planet Fitness known for?",
+            "answer": "Planet Fitness is known for its affordable and non-intimidating gym environment that welcomes all fitness levels."
+        },
+        {
+            "question": "Who is the CEO of Planet Fitness?",
+            "answer": "Chris Rondeau is the CEO of Planet Fitness, Inc."
+        },
+        {
+            "question": "Where is Planet Fitness headquartered?",
+            "answer": "Planet Fitness is headquartered in Hampton, New Hampshire, USA."
+        },
+        {
+            "question": "What types of memberships does Planet Fitness offer?",
+            "answer": "Planet Fitness offers Classic Membership and PF Black Card Membership."
+        },
+        {
+            "question": "When was Planet Fitness founded?",
+            "answer": "Planet Fitness was founded in 1992."
+        }
+    ],
+    "competitors": [
+        "LTM",
+        "LULU",
+        "NLS",
+        "WYN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "DIS",
+        "AMZN",
+        "NFLX"
+    ]
+}

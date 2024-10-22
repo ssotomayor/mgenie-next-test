@@ -1,0 +1,87 @@
+{
+    "ticker": "IRM",
+    "name": "Iron Mountain Incorporated",
+    "description": "Iron Mountain Incorporated is a global leader in information management services, offering a comprehensive suite of solutions for the storage, management, and protection of information. Founded in 1951, Iron Mountain has evolved from a simple records storage company into a multifaceted organization that provides services across various domains including physical document storage, digital information management, data protection, and secure shredding. The company\u2019s commitment to safeguarding sensitive information has made it a trusted partner for businesses across industries, including healthcare, finance, and government. Iron Mountain operates over 1,500 facilities around the world, providing clients with secure, scalable, and compliant solutions to manage their vital information assets. In addition to traditional storage services, Iron Mountain offers cloud storage and data center services, enabling organizations to modernize their information management strategies. The company is also focused on sustainability, with initiatives aimed at reducing energy consumption and promoting eco-friendly practices in information management. As organizations increasingly recognize the importance of data governance and regulatory compliance, Iron Mountain is well-positioned to support their evolving needs with innovative and secure solutions.",
+    "industry": [
+        "Information Management",
+        "Data Storage"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "1951",
+    "website": "https://www.ironmountain.com",
+    "ceo": "William L. Meaney",
+    "social_media": {
+        "twitter": "https://twitter.com/IronMountain",
+        "linkedin": "https://www.linkedin.com/company/ironmountain/"
+    },
+    "investor_relations": "https://investors.ironmountain.com",
+    "key_executives": [
+        {
+            "name": "William L. Meaney",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina A. R. M. Carr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Information Management",
+            "products": [
+                "Document Storage",
+                "Data Protection",
+                "Secure Shredding"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "Cloud Storage",
+                "Data Center Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Iron Mountain Incorporated | Information Management Services",
+        "meta_description": "Iron Mountain Incorporated is a leader in information management, providing secure storage, data protection, and digital solutions. Discover how Iron Mountain helps organizations manage their information effectively.",
+        "keywords": [
+            "Iron Mountain",
+            "Information Management",
+            "Data Storage",
+            "Document Management",
+            "Cloud Storage",
+            "Secure Shredding"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Iron Mountain offer?",
+            "answer": "Iron Mountain offers document storage, data protection, secure shredding, and digital solutions like cloud storage."
+        },
+        {
+            "question": "Who is the CEO of Iron Mountain?",
+            "answer": "William L. Meaney is the CEO of Iron Mountain Incorporated."
+        },
+        {
+            "question": "Where is Iron Mountain headquartered?",
+            "answer": "Iron Mountain is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "When was Iron Mountain founded?",
+            "answer": "Iron Mountain was founded in 1951."
+        }
+    ],
+    "competitors": [
+        "STOR",
+        "CUBE",
+        "SPLK",
+        "DNB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

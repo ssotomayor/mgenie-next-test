@@ -1,0 +1,97 @@
+{
+    "ticker": "BSCT",
+    "name": "Biscayne Capital",
+    "description": "Biscayne Capital is a dynamic investment management firm that specializes in private equity, real estate, and alternative investments. Founded in 2010, the firm has built a reputation for identifying and nurturing high-potential investment opportunities across various sectors. Biscayne Capital focuses on long-term value creation by leveraging its deep industry expertise and innovative strategies. The firm is committed to sustainability and responsible investing, integrating environmental, social, and governance (ESG) criteria into its investment decisions. Biscayne Capital\u2019s portfolio includes a diverse range of assets, from commercial real estate and technology startups to healthcare and renewable energy projects. By fostering strong partnerships with portfolio companies, Biscayne Capital aims to enhance operational efficiencies and drive growth, ultimately delivering superior returns to its investors. With a team of seasoned professionals, Biscayne Capital strives to navigate complex markets and capitalize on emerging trends, making it a trusted partner for investors seeking to diversify their portfolios and achieve financial goals.",
+    "industry": [
+        "Investment Management",
+        "Private Equity",
+        "Real Estate"
+    ],
+    "headquarters": "Miami, Florida, USA",
+    "founded": "2010",
+    "website": "https://www.biscaynecapital.com",
+    "ceo": "Maria Gonzalez",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/biscayne-capital/"
+    },
+    "investor_relations": "https://ir.biscaynecapital.com",
+    "key_executives": [
+        {
+            "name": "Maria Gonzalez",
+            "position": "CEO"
+        },
+        {
+            "name": "James Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Private Equity",
+            "products": [
+                "Venture Capital",
+                "Growth Equity"
+            ]
+        },
+        {
+            "category": "Real Estate",
+            "products": [
+                "Commercial Properties",
+                "Residential Developments"
+            ]
+        },
+        {
+            "category": "Alternative Investments",
+            "products": [
+                "Hedge Funds",
+                "Renewable Energy Projects"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Biscayne Capital | Investment Management and Private Equity",
+        "meta_description": "Explore Biscayne Capital, an innovative investment management firm specializing in private equity, real estate, and alternative investments. Learn about our commitment to sustainability and value creation.",
+        "keywords": [
+            "Biscayne Capital",
+            "Investment Management",
+            "Private Equity",
+            "Real Estate",
+            "Alternative Investments",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Biscayne Capital specialize in?",
+            "answer": "Biscayne Capital specializes in private equity, real estate, and alternative investments."
+        },
+        {
+            "question": "Who is the CEO of Biscayne Capital?",
+            "answer": "Maria Gonzalez is the CEO of Biscayne Capital."
+        },
+        {
+            "question": "Where is Biscayne Capital headquartered?",
+            "answer": "Biscayne Capital is headquartered in Miami, Florida, USA."
+        },
+        {
+            "question": "What types of investments does Biscayne Capital offer?",
+            "answer": "Biscayne Capital offers investments in private equity, real estate, and alternative investments including hedge funds."
+        },
+        {
+            "question": "When was Biscayne Capital founded?",
+            "answer": "Biscayne Capital was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "KKR",
+        "BX",
+        "APO",
+        "CG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

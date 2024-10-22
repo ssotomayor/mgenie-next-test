@@ -1,0 +1,99 @@
+{
+    "ticker": "NWS",
+    "name": "News Corporation",
+    "description": "News Corporation is a global media and information services company, known for its extensive portfolio of assets in various sectors, including publishing, television, and digital media. Founded in 1979 by Rupert Murdoch, News Corp operates through several segments, including News and Information Services, Book Publishing, and Digital Real Estate Services. The company's notable publications include The Wall Street Journal, The Times, and The Sun, while its television assets include the Fox Network and various cable channels. News Corp is also heavily invested in digital platforms, with businesses like Realtor.com and the digital real estate marketplace, which enhance its presence in the fast-growing online advertising sector. With a commitment to journalism and storytelling, News Corp seeks to provide its audiences with trusted news and information while navigating the rapidly changing media landscape. The company's mission is to inform, entertain, and engage audiences around the world through quality content and innovative platforms.",
+    "industry": [
+        "Media",
+        "Publishing",
+        "Television"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1979",
+    "website": "https://www.newscorp.com",
+    "ceo": "Robert Thomson",
+    "social_media": {
+        "twitter": "https://twitter.com/Newscorp",
+        "linkedin": "https://www.linkedin.com/company/news-corp/"
+    },
+    "investor_relations": "https://www.newscorp.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Robert Thomson",
+            "position": "CEO"
+        },
+        {
+            "name": "Chase Carey",
+            "position": "Executive Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Publishing",
+            "products": [
+                "The Wall Street Journal",
+                "The Times",
+                "The Sun"
+            ]
+        },
+        {
+            "category": "Television",
+            "products": [
+                "Fox Network",
+                "Fox News Channel"
+            ]
+        },
+        {
+            "category": "Digital Media",
+            "products": [
+                "Realtor.com",
+                "News.com.au"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "News Corporation | Global Media and Information Services",
+        "meta_description": "Explore News Corporation, a leading global media company with a diverse portfolio in publishing, television, and digital media. Discover our mission and impact.",
+        "keywords": [
+            "News Corporation",
+            "Media",
+            "Publishing",
+            "Television",
+            "Digital Media",
+            "Rupert Murdoch",
+            "The Wall Street Journal"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is News Corporation known for?",
+            "answer": "News Corporation is known for its extensive portfolio in media, including publishing newspapers and operating television networks."
+        },
+        {
+            "question": "Who is the CEO of News Corporation?",
+            "answer": "Robert Thomson is the CEO of News Corporation."
+        },
+        {
+            "question": "Where is News Corporation headquartered?",
+            "answer": "News Corporation is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are News Corporation's main products?",
+            "answer": "News Corporation's main products include newspapers like The Wall Street Journal, television networks like Fox, and digital platforms like Realtor.com."
+        },
+        {
+            "question": "When was News Corporation founded?",
+            "answer": "News Corporation was founded in 1979."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "CMCSA",
+        "VIAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "FB",
+        "AMZN"
+    ]
+}

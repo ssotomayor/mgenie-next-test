@@ -1,0 +1,86 @@
+{
+    "ticker": "MOMO",
+    "name": "Momo Inc.",
+    "description": "Momo Inc. is a leading mobile social networking platform in China, primarily known for its popular social app, Momo. Founded in 2011 by Yan Tang, Momo aims to connect users through social interactions, entertainment, and content sharing. The platform allows users to meet new people, engage in group chats, and share multimedia content. Momo has evolved from a location-based social networking service to a comprehensive platform that includes live streaming, gaming, and various social activities. The company has also integrated e-commerce features, allowing users to engage in transactions directly through the app. With a user base exceeding 100 million monthly active users, Momo positions itself as a key player in the Chinese social media landscape. In addition to its core messaging and social functions, Momo invests heavily in technology to enhance user engagement and experience, including artificial intelligence and data analytics. The company\u2019s mission is to create a vibrant community where users can connect, share, and have fun, contributing to a more connected digital society.",
+    "industry": [
+        "Social Media",
+        "Technology"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "2011",
+    "website": "https://www.immomo.com",
+    "ceo": "Yan Tang",
+    "social_media": {
+        "twitter": "https://twitter.com/immomo",
+        "linkedin": "https://www.linkedin.com/company/momo-inc/"
+    },
+    "investor_relations": "https://ir.immomo.com",
+    "key_executives": [
+        {
+            "name": "Yan Tang",
+            "position": "CEO"
+        },
+        {
+            "name": "Chao Wu",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Social Networking",
+            "products": [
+                "Momo App"
+            ]
+        },
+        {
+            "category": "Live Streaming",
+            "products": [
+                "Momo Live"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Momo Inc. | Leading Mobile Social Networking Platform",
+        "meta_description": "Explore Momo Inc., a leading mobile social networking platform in China. Discover Momo's innovative social app, live streaming services, and user engagement features.",
+        "keywords": [
+            "Momo",
+            "Social Networking",
+            "Mobile Apps",
+            "Live Streaming",
+            "Chinese Social Media"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Momo known for?",
+            "answer": "Momo is known for its mobile social networking app that connects users for social interactions, entertainment, and content sharing."
+        },
+        {
+            "question": "Who is the CEO of Momo?",
+            "answer": "Yan Tang is the CEO of Momo Inc."
+        },
+        {
+            "question": "Where is Momo headquartered?",
+            "answer": "Momo is headquartered in Beijing, China."
+        },
+        {
+            "question": "What are Momo's main products?",
+            "answer": "Momo's main products include the Momo app and Momo Live."
+        },
+        {
+            "question": "When was Momo founded?",
+            "answer": "Momo was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "BILI",
+        "YY",
+        "TAL"
+    ],
+    "related_stocks": [
+        "JD",
+        "BABA",
+        "PDD",
+        "NTES"
+    ]
+}

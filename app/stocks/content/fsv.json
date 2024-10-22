@@ -1,0 +1,88 @@
+{
+    "ticker": "FSV",
+    "name": "FirstService Corporation",
+    "description": "FirstService Corporation is a leading provider of property management services in North America. Established in 1989, the company operates through two primary segments: FirstService Residential and FirstService Brands. FirstService Residential is the largest manager of residential communities in North America, providing services that enhance the quality of life for residents and improve property values for homeowners' associations and developers. Their offerings include maintenance, financial management, and administrative services tailored to the unique needs of each community. FirstService Brands, on the other hand, is a diverse portfolio of franchise and service brands that operate in various sectors including commercial property services, residential cleaning, and restoration services. The company is dedicated to delivering exceptional service through its network of franchisees and subsidiaries, ensuring client satisfaction and operational excellence. With a focus on innovation and technology, FirstService Corporation leverages advanced tools and systems to streamline operations and provide data-driven insights to clients. The company is headquartered in Toronto, Canada, and its mission is to create exceptional experiences for clients and communities while driving value for stakeholders. As a publicly traded company on the NASDAQ, FirstService Corporation continues to expand its footprint through strategic acquisitions and partnerships.",
+    "industry": [
+        "Property Management",
+        "Franchise Services"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1989",
+    "website": "https://www.firstservice.com",
+    "ceo": "Michael J. Berman",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstServiceCorp",
+        "linkedin": "https://www.linkedin.com/company/firstservice-corporation/"
+    },
+    "investor_relations": "https://ir.firstservice.com",
+    "key_executives": [
+        {
+            "name": "Michael J. Berman",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott S. McCuaig",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Property Management Services",
+            "products": [
+                "Community Management",
+                "Financial Management",
+                "Maintenance Services"
+            ]
+        },
+        {
+            "category": "Franchise Services",
+            "products": [
+                "Residential Cleaning",
+                "Restoration Services",
+                "Commercial Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FirstService Corporation | Leading Property Management and Franchise Services",
+        "meta_description": "Learn about FirstService Corporation, a premier property management company and franchise services provider in North America. Explore our community-focused solutions and commitment to excellence.",
+        "keywords": [
+            "FirstService Corporation",
+            "Property Management",
+            "Franchise Services",
+            "Community Management",
+            "Residential Services",
+            "Commercial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does FirstService Corporation provide?",
+            "answer": "FirstService Corporation provides property management services and operates a portfolio of franchise and service brands."
+        },
+        {
+            "question": "Where is FirstService Corporation headquartered?",
+            "answer": "FirstService Corporation is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was FirstService Corporation founded?",
+            "answer": "FirstService Corporation was founded in 1989."
+        },
+        {
+            "question": "What are the main segments of FirstService Corporation?",
+            "answer": "The main segments are FirstService Residential and FirstService Brands."
+        }
+    ],
+    "competitors": [
+        "CBRE",
+        "JLL",
+        "REA",
+        "RMAX"
+    ],
+    "related_stocks": [
+        "COLD",
+        "AMT",
+        "PLD",
+        "WPC"
+    ]
+}

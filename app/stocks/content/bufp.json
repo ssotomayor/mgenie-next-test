@@ -1,0 +1,90 @@
+{
+    "ticker": "BUFP",
+    "name": "Buffer Corp.",
+    "description": "Buffer Corp. is a leading technology company specializing in social media management and digital marketing solutions. Founded in 2010, Buffer has established itself as a trusted partner for businesses seeking to enhance their online presence and engagement through effective social media strategies. The company offers a suite of tools that allow users to schedule posts, analyze performance metrics, and collaborate on content creation across various social media platforms. With a user-friendly interface and powerful analytics, Buffer empowers brands of all sizes to optimize their social media campaigns and connect with their audiences more effectively. Buffer is also committed to transparency and ethics in social media marketing, advocating for user-centric practices that prioritize consumer trust and satisfaction. The company's mission is to simplify social media management while providing valuable insights that help businesses grow and thrive in the digital landscape.",
+    "industry": [
+        "Technology",
+        "Digital Marketing"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://buffer.com",
+    "ceo": "Joel Gascoigne",
+    "social_media": {
+        "twitter": "https://twitter.com/buffer",
+        "linkedin": "https://www.linkedin.com/company/buffer",
+        "instagram": "https://www.instagram.com/bufferapp",
+        "facebook": "https://www.facebook.com/bufferapp"
+    },
+    "investor_relations": "https://buffer.com/investors",
+    "key_executives": [
+        {
+            "name": "Joel Gascoigne",
+            "position": "CEO"
+        },
+        {
+            "name": "Leah Tharin",
+            "position": "CPO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Social Media Management",
+            "products": [
+                "Buffer Publish",
+                "Buffer Analyze",
+                "Buffer Reply"
+            ]
+        },
+        {
+            "category": "Content Marketing",
+            "products": [
+                "Buffer Stories",
+                "Buffer Marketing Resources"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Buffer Corp. | Social Media Management and Digital Marketing Solutions",
+        "meta_description": "Discover Buffer Corp., a leader in social media management tools designed to help businesses optimize their online presence and engage with audiences effectively.",
+        "keywords": [
+            "Buffer",
+            "Social Media Management",
+            "Digital Marketing",
+            "Content Marketing",
+            "Social Media Tools"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Buffer offer?",
+            "answer": "Buffer offers social media management tools, including post scheduling, analytics, and content collaboration."
+        },
+        {
+            "question": "Who is the CEO of Buffer?",
+            "answer": "Joel Gascoigne is the CEO of Buffer Corp."
+        },
+        {
+            "question": "Where is Buffer headquartered?",
+            "answer": "Buffer is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Buffer's main products?",
+            "answer": "Buffer's main products include Buffer Publish, Buffer Analyze, and Buffer Reply."
+        },
+        {
+            "question": "When was Buffer founded?",
+            "answer": "Buffer was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "Hootsuite",
+        "Sprout Social",
+        "Later"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "TWTR",
+        "FB"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "KT",
+    "name": "KT Corporation",
+    "description": "KT Corporation, formerly known as Korea Telecom, is a leading telecommunications company in South Korea. Established in 1981, KT has grown to become a key player in the digital transformation of the country, offering a wide array of services including fixed-line and mobile telecommunications, broadband internet, and digital media. The company is also at the forefront of 5G technology, providing advanced mobile communication services that support various applications from IoT to smart cities. Additionally, KT is heavily involved in the development of smart home solutions and cloud computing services, positioning itself as a comprehensive ICT (Information and Communication Technology) provider. With a vision to create a better world through connectivity, KT is committed to enhancing customer experiences and contributing to the digital economy. The company actively invests in research and development to innovate and improve its service offerings, including AI and big data analytics. KT's mission is to foster a connected society that empowers individuals and businesses alike.",
+    "industry": [
+        "Telecommunications",
+        "Information Technology"
+    ],
+    "headquarters": "Seoul, South Korea",
+    "founded": "1981",
+    "website": "https://www.kt.com",
+    "ceo": "Koo Hyun-mo",
+    "social_media": {
+        "twitter": "https://twitter.com/KT_Corp",
+        "linkedin": "https://www.linkedin.com/company/kt-corporation/",
+        "instagram": "https://www.instagram.com/kt_corp/",
+        "youtube": "https://www.youtube.com/user/ktcorporation"
+    },
+    "investor_relations": "https://www.kt.com/eng/ir/ir_index.html",
+    "key_executives": [
+        {
+            "name": "Koo Hyun-mo",
+            "position": "CEO"
+        },
+        {
+            "name": "Kim Young-sik",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications",
+            "products": [
+                "Mobile Services",
+                "Fixed-line Services",
+                "Broadband Internet"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "Cloud Services",
+                "IoT Solutions",
+                "Smart Home Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KT Corporation | Leading Telecommunications in South Korea",
+        "meta_description": "Explore KT Corporation, a leader in telecommunications and ICT solutions in South Korea. Discover our services, innovations, and commitment to digital transformation.",
+        "keywords": [
+            "KT Corporation",
+            "Telecommunications",
+            "5G Technology",
+            "Cloud Services",
+            "IoT Solutions",
+            "Smart Home"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does KT provide?",
+            "answer": "KT provides mobile and fixed-line telecommunications, broadband internet, cloud services, and smart home solutions."
+        },
+        {
+            "question": "Who is the CEO of KT Corporation?",
+            "answer": "Koo Hyun-mo is the CEO of KT Corporation."
+        },
+        {
+            "question": "Where is KT headquartered?",
+            "answer": "KT is headquartered in Seoul, South Korea."
+        },
+        {
+            "question": "When was KT Corporation founded?",
+            "answer": "KT Corporation was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "SKM",
+        "LGU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

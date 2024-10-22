@@ -1,0 +1,80 @@
+{
+    "ticker": "ACHR.WS",
+    "name": "Archer Aviation Inc.",
+    "description": "Archer Aviation Inc. is an innovative aerospace company focused on developing electric vertical takeoff and landing (eVTOL) aircraft for urban air mobility. Founded in 2020 and headquartered in San Jose, California, Archer aims to revolutionize the way people move in cities by providing a sustainable and efficient alternative to traditional ground transportation. The company is dedicated to creating environmentally friendly air travel solutions that reduce congestion and carbon emissions. Archer's flagship aircraft, the Maker, is designed to operate in urban environments and can travel at speeds of up to 130 knots, making it a pioneering solution for short-distance travel. With a strong emphasis on safety and sustainability, Archer is committed to achieving its goal of launching its air taxi service in various metropolitan areas by the mid-2020s. The company is also actively collaborating with major partners in the aviation industry, including United Airlines, to accelerate the development and commercialization of its eVTOL technology. Archer's vision is to make air travel accessible and affordable for everyone while contributing to cleaner urban airspace through innovative engineering and design.",
+    "industry": [
+        "Aerospace",
+        "Transportation"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2020",
+    "website": "https://www.archer.com",
+    "ceo": "Adam Goldstein",
+    "social_media": {
+        "twitter": "https://twitter.com/archeraviation",
+        "linkedin": "https://www.linkedin.com/company/archer-aviation/"
+    },
+    "investor_relations": "https://investors.archer.com",
+    "key_executives": [
+        {
+            "name": "Adam Goldstein",
+            "position": "CEO"
+        },
+        {
+            "name": "Jacob Sharp",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "eVTOL Aircraft",
+            "products": [
+                "Maker"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Archer Aviation Inc. | Pioneering eVTOL Aircraft for Urban Air Mobility",
+        "meta_description": "Explore Archer Aviation Inc., a leader in electric vertical takeoff and landing aircraft, dedicated to transforming urban transportation with sustainable air travel solutions.",
+        "keywords": [
+            "Archer Aviation",
+            "eVTOL Aircraft",
+            "Urban Air Mobility",
+            "Electric Aircraft",
+            "Sustainable Transportation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Archer Aviation known for?",
+            "answer": "Archer Aviation is known for developing electric vertical takeoff and landing (eVTOL) aircraft for urban air mobility."
+        },
+        {
+            "question": "Who is the CEO of Archer Aviation?",
+            "answer": "Adam Goldstein is the CEO of Archer Aviation Inc."
+        },
+        {
+            "question": "Where is Archer Aviation headquartered?",
+            "answer": "Archer Aviation is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What is Archer's flagship product?",
+            "answer": "Archer's flagship product is the Maker, an eVTOL aircraft designed for urban environments."
+        },
+        {
+            "question": "When was Archer Aviation founded?",
+            "answer": "Archer Aviation was founded in 2020."
+        }
+    ],
+    "competitors": [
+        "EH",
+        "LILM",
+        "AVAN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "TSLA",
+        "SPCE"
+    ]
+}

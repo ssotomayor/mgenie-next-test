@@ -1,0 +1,99 @@
+{
+    "ticker": "LLYVA",
+    "name": "Eli Lilly and Company",
+    "description": "Eli Lilly and Company is a global healthcare leader that has been at the forefront of innovation in pharmaceuticals since its founding in 1876. Based in Indianapolis, Indiana, Lilly's mission is to create medicines that help people live longer, healthier lives. The company specializes in developing and manufacturing a wide range of pharmaceutical products, with a focus on diabetes care, oncology, immunology, and neuroscience. Notable products include insulin therapies such as Humalog and Trulicity, as well as cancer treatments like Verzenio and Cyramza. Lilly invests heavily in research and development, striving to bring breakthrough therapies to market that address unmet medical needs. The company is also committed to sustainability and social responsibility, actively working to improve access to healthcare and support communities around the world. With a robust pipeline of new therapies in development, Eli Lilly is poised to continue its legacy of improving patient outcomes and advancing medical science.",
+    "industry": [
+        "Pharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "1876",
+    "website": "https://www.lilly.com",
+    "ceo": "David A. Ricks",
+    "social_media": {
+        "twitter": "https://twitter.com/EliLillyandCo",
+        "linkedin": "https://www.linkedin.com/company/eli-lilly-and-company/",
+        "instagram": "https://www.instagram.com/lillypad/",
+        "facebook": "https://www.facebook.com/EliLillyandCompany"
+    },
+    "investor_relations": "https://investor.lilly.com",
+    "key_executives": [
+        {
+            "name": "David A. Ricks",
+            "position": "CEO"
+        },
+        {
+            "name": "Josh Smiley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Diabetes Care",
+            "products": [
+                "Humalog",
+                "Trulicity"
+            ]
+        },
+        {
+            "category": "Oncology",
+            "products": [
+                "Verzenio",
+                "Cyramza"
+            ]
+        },
+        {
+            "category": "Immunology",
+            "products": [
+                "Taltz",
+                "Olumiant"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eli Lilly and Company | Innovating Healthcare",
+        "meta_description": "Eli Lilly and Company is dedicated to improving health through innovative pharmaceuticals. Explore Lilly's commitment to research and its range of therapies for diabetes, oncology, and more.",
+        "keywords": [
+            "Eli Lilly",
+            "Pharmaceuticals",
+            "Diabetes Care",
+            "Oncology",
+            "Immunology",
+            "Healthcare Innovation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Eli Lilly specialize in?",
+            "answer": "Eli Lilly specializes in diabetes care, oncology, immunology, and neuroscience."
+        },
+        {
+            "question": "Who is the CEO of Eli Lilly?",
+            "answer": "David A. Ricks is the CEO of Eli Lilly and Company."
+        },
+        {
+            "question": "Where is Eli Lilly headquartered?",
+            "answer": "Eli Lilly is headquartered in Indianapolis, Indiana, USA."
+        },
+        {
+            "question": "What are some of Eli Lilly's main products?",
+            "answer": "Some of Eli Lilly's main products include Humalog, Trulicity, Verzenio, and Taltz."
+        },
+        {
+            "question": "When was Eli Lilly founded?",
+            "answer": "Eli Lilly was founded in 1876."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "MRK",
+        "ABBV"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

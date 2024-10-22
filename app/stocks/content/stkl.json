@@ -1,0 +1,81 @@
+{
+    "ticker": "STKL",
+    "name": "SunOpta Inc.",
+    "description": "SunOpta Inc. is a leading company focused on providing healthy, organic, and sustainable food products. Founded in 1973, SunOpta has established itself as a key player in the natural and organic food sector, specializing in the sourcing, processing, and packaging of a wide range of food products. The company operates through segments including plant-based foods and beverages, and fruit-based snacks and ingredients. SunOpta is particularly recognized for its commitment to sustainability, emphasizing the use of non-GMO and organic ingredients in its products. Its diverse portfolio includes plant-based beverages, frozen fruits, and snacks, catering to an increasing consumer demand for healthier and environmentally friendly options. With operations across North America and a growing international presence, SunOpta aims to lead the way in the natural foods industry while adhering to the principles of sustainability and innovation. The company's mission is centered around improving the health of consumers and the planet through its high-quality products and practices.",
+    "industry": [
+        "Food and Beverage",
+        "Natural Products"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1973",
+    "website": "https://www.sunopta.com",
+    "ceo": "David McCutcheon",
+    "social_media": {
+        "twitter": "https://twitter.com/SunOpta",
+        "linkedin": "https://www.linkedin.com/company/sunopta/"
+    },
+    "investor_relations": "https://investor.sunopta.com",
+    "key_executives": [
+        {
+            "name": "David McCutcheon",
+            "position": "CEO"
+        },
+        {
+            "name": "Michele D. Sweeney",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Plant-Based Foods and Beverages",
+            "products": [
+                "Almond Milk",
+                "Oat Milk",
+                "Soy Milk"
+            ]
+        },
+        {
+            "category": "Fruit-Based Snacks and Ingredients",
+            "products": [
+                "Frozen Berries",
+                "Fruit Snacks",
+                "Dried Fruits"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SunOpta Inc. | Organic and Sustainable Food Products",
+        "meta_description": "Explore SunOpta Inc., a leader in natural and organic food products. Learn about our commitment to sustainability and health-focused offerings.",
+        "keywords": [
+            "SunOpta",
+            "Organic Food",
+            "Plant-Based Beverages",
+            "Natural Products",
+            "Sustainable Foods"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does SunOpta offer?",
+            "answer": "SunOpta offers a range of products including plant-based beverages and fruit-based snacks."
+        },
+        {
+            "question": "Where is SunOpta headquartered?",
+            "answer": "SunOpta is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was SunOpta founded?",
+            "answer": "SunOpta was founded in 1973."
+        }
+    ],
+    "competitors": [
+        "UNFI",
+        "CAG",
+        "HRL"
+    ],
+    "related_stocks": [
+        "TSN",
+        "GIS",
+        "PBG"
+    ]
+}

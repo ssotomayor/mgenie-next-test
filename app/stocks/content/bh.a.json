@@ -1,0 +1,90 @@
+{
+    "ticker": "BH.A",
+    "name": "Berkshire Hathaway Inc.",
+    "description": "Berkshire Hathaway Inc. is a multinational conglomerate holding company led by the legendary investor Warren Buffett. Founded in 1839 and headquartered in Omaha, Nebraska, Berkshire Hathaway has a diverse portfolio of subsidiaries engaged in various industries, including insurance, rail transportation, utilities, manufacturing, and retail. The company is best known for its insurance operations, which include GEICO and Berkshire Hathaway Reinsurance Group, providing a stable source of revenue. Additionally, Berkshire Hathaway has made significant investments in prominent companies such as Apple, Coca-Cola, and American Express, showcasing its strategy of acquiring undervalued businesses with strong potential for growth. Warren Buffett's investment philosophy emphasizes value investing, long-term growth, and a disciplined approach to capital allocation. Under his leadership, Berkshire Hathaway has consistently delivered impressive returns to shareholders, making it one of the largest and most respected companies in the world. The company's commitment to ethical business practices and a strong corporate culture further solidifies its reputation in the investment community. As of 2023, Berkshire Hathaway continues to explore new investment opportunities while maintaining its focus on maximizing shareholder value and fostering sustainable growth across its diverse business operations.",
+    "industry": [
+        "Conglomerate",
+        "Insurance",
+        "Investments"
+    ],
+    "headquarters": "Omaha, Nebraska, USA",
+    "founded": "1839",
+    "website": "https://www.berkshirehathaway.com",
+    "ceo": "Warren Buffett",
+    "social_media": {
+        "twitter": "https://twitter.com/BerkshireHQ",
+        "linkedin": "https://www.linkedin.com/company/berkshire-hathaway/"
+    },
+    "investor_relations": "https://www.berkshirehathaway.com/investor_relations.html",
+    "key_executives": [
+        {
+            "name": "Warren Buffett",
+            "position": "CEO"
+        },
+        {
+            "name": "Charlie Munger",
+            "position": "Vice Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance",
+            "products": [
+                "GEICO",
+                "Berkshire Hathaway Reinsurance Group"
+            ]
+        },
+        {
+            "category": "Investments",
+            "products": [
+                "Equity Investments",
+                "Fixed Income Investments"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Berkshire Hathaway Inc. | A Leader in Investments and Insurance",
+        "meta_description": "Explore Berkshire Hathaway Inc., a multinational conglomerate led by Warren Buffett, known for its diverse portfolio and successful investment strategies.",
+        "keywords": [
+            "Berkshire Hathaway",
+            "Warren Buffett",
+            "Insurance",
+            "Investments",
+            "Conglomerate"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Berkshire Hathaway known for?",
+            "answer": "Berkshire Hathaway is known for its diversified investments and insurance operations."
+        },
+        {
+            "question": "Who is the CEO of Berkshire Hathaway?",
+            "answer": "Warren Buffett is the CEO of Berkshire Hathaway Inc."
+        },
+        {
+            "question": "Where is Berkshire Hathaway headquartered?",
+            "answer": "Berkshire Hathaway is headquartered in Omaha, Nebraska, USA."
+        },
+        {
+            "question": "What are Berkshire Hathaway's main subsidiaries?",
+            "answer": "Berkshire Hathaway's main subsidiaries include GEICO and the Berkshire Hathaway Reinsurance Group."
+        },
+        {
+            "question": "When was Berkshire Hathaway founded?",
+            "answer": "Berkshire Hathaway was founded in 1839."
+        }
+    ],
+    "competitors": [
+        "AIG",
+        "ALL",
+        "PRU",
+        "MET"
+    ],
+    "related_stocks": [
+        "JPM",
+        "V",
+        "KO",
+        "AAPL"
+    ]
+}

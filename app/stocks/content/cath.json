@@ -1,0 +1,88 @@
+{
+    "ticker": "CATH",
+    "name": "Cathie Wood Capital Management",
+    "description": "Cathie Wood Capital Management is an investment management firm founded by Cathie Wood in 2014, known for its innovative and disruptive investment strategies. The firm focuses on thematic investing in transformative technologies across various sectors, including artificial intelligence, genomics, robotics, fintech, and clean energy. Cathie Wood, the CEO and CIO, has gained significant recognition for her bold investment decisions and her commitment to long-term growth, often investing in companies that are poised to benefit from rapid technological advancements. The firm operates several actively managed exchange-traded funds (ETFs), including ARK Innovation ETF (ARKK), which has attracted a large following due to its high-profile investments in companies like Tesla and Coinbase. With a research-driven approach, Cathie Wood Capital Management aims to identify and invest in companies that are set to revolutionize their respective industries. The firm's philosophy is rooted in the belief that innovation is the primary driver of economic growth, and it seeks to deliver superior returns by capitalizing on the potential of groundbreaking technologies. Cathie Wood is also known for her outspoken views on market trends and investment strategies, making her a prominent figure in the financial community.",
+    "industry": [
+        "Investment Management",
+        "Financial Services"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2014",
+    "website": "https://ark-invest.com",
+    "ceo": "Cathie Wood",
+    "social_media": {
+        "twitter": "https://twitter.com/ARKInvest",
+        "linkedin": "https://www.linkedin.com/company/ark-invest/"
+    },
+    "investor_relations": "https://ark-invest.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Cathie Wood",
+            "position": "CEO & CIO",
+            "social_media": {
+                "twitter": "https://twitter.com/CathieDWood"
+            }
+        },
+        {
+            "name": "Tom Staudt",
+            "position": "COO",
+            "social_media": {}
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "ETFs",
+            "products": [
+                "ARK Innovation ETF (ARKK)",
+                "ARK Genomic Revolution ETF (ARKG)",
+                "ARK Next Generation Internet ETF (ARKW)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cathie Wood Capital Management | Innovative Investment Strategies",
+        "meta_description": "Explore Cathie Wood Capital Management, a leader in thematic investing focusing on disruptive technologies. Discover the ETFs and investment philosophies that drive growth.",
+        "keywords": [
+            "Cathie Wood",
+            "Investment Management",
+            "ETFs",
+            "Disruptive Innovation",
+            "ARK Invest",
+            "Thematic Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Cathie Wood Capital Management known for?",
+            "answer": "The firm is known for its thematic investing in disruptive technologies and innovative companies."
+        },
+        {
+            "question": "Who is the CEO of Cathie Wood Capital Management?",
+            "answer": "Cathie Wood is the CEO and CIO of Cathie Wood Capital Management."
+        },
+        {
+            "question": "Where is Cathie Wood Capital Management headquartered?",
+            "answer": "The firm is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Cathie Wood's main products?",
+            "answer": "The main products include various ETFs such as ARK Innovation ETF (ARKK) and ARK Genomic Revolution ETF (ARKG)."
+        },
+        {
+            "question": "When was Cathie Wood Capital Management founded?",
+            "answer": "The firm was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "Vanguard",
+        "SCHW",
+        "TROW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "TSLA",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "EQNR",
+    "name": "Equinor ASA",
+    "description": "Equinor ASA is a Norwegian multinational energy company primarily focused on oil and gas production, as well as renewable energy solutions. Established in 1972, Equinor, formerly known as Statoil, has evolved from its origins in fossil fuels to become a leader in the transition to sustainable energy. The company operates in over 30 countries and is committed to reducing carbon emissions while meeting the world's energy demands. Equinor is a significant player in offshore oil and gas production in the North Sea, while also investing heavily in renewables, particularly wind energy, both onshore and offshore. The company aims to achieve net-zero emissions by 2050, aligning its strategy with the Paris Agreement goals. Equinor's innovative approach includes the development of carbon capture and storage (CCS) technologies, contributing to the reduction of greenhouse gas emissions across various sectors. With a strong focus on safety, sustainability, and technological advancement, Equinor is positioned to lead the energy industry into a more sustainable future.",
+    "industry": [
+        "Energy",
+        "Oil & Gas",
+        "Renewable Energy"
+    ],
+    "headquarters": "Stavanger, Norway",
+    "founded": "1972",
+    "website": "https://www.equinor.com",
+    "ceo": "Anders Opedal",
+    "social_media": {
+        "twitter": "https://twitter.com/Equinor",
+        "linkedin": "https://www.linkedin.com/company/equinor/"
+    },
+    "investor_relations": "https://www.equinor.com/investors",
+    "key_executives": [
+        {
+            "name": "Anders Opedal",
+            "position": "CEO"
+        },
+        {
+            "name": "Cathy D. Dyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas",
+            "products": [
+                "Crude Oil",
+                "Natural Gas"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Offshore Wind",
+                "Hydrogen"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Equinor ASA | Leading Oil, Gas, and Renewable Energy Company",
+        "meta_description": "Explore Equinor ASA, a Norwegian energy company focused on oil, gas, and renewable energy. Discover its commitment to sustainability and innovation in the energy sector.",
+        "keywords": [
+            "Equinor",
+            "Energy",
+            "Oil and Gas",
+            "Renewable Energy",
+            "Sustainability",
+            "Offshore Wind"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Equinor known for?",
+            "answer": "Equinor is known for its operations in oil and gas production and its commitment to renewable energy solutions."
+        },
+        {
+            "question": "Who is the CEO of Equinor?",
+            "answer": "Anders Opedal is the CEO of Equinor ASA."
+        },
+        {
+            "question": "Where is Equinor headquartered?",
+            "answer": "Equinor is headquartered in Stavanger, Norway."
+        },
+        {
+            "question": "What are Equinor's main products?",
+            "answer": "Equinor's main products include crude oil, natural gas, and renewable energy solutions like offshore wind."
+        },
+        {
+            "question": "When was Equinor founded?",
+            "answer": "Equinor was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "BP",
+        "XOM",
+        "RDS.A",
+        "CVX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

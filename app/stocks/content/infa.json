@@ -1,0 +1,95 @@
+{
+    "ticker": "INFA",
+    "name": "Informatica, Inc.",
+    "description": "Informatica, Inc. is a leading provider of enterprise cloud data management solutions. Founded in 1993, the company specializes in helping organizations harness the power of their data to drive innovation and optimize business outcomes. Informatica's suite of products includes solutions for data integration, data quality, data governance, and master data management, all designed to support businesses in their digital transformation journeys. The company is particularly known for its cloud-native platform, which allows seamless access to data across various environments, whether on-premises, in the cloud, or in hybrid settings. Informatica empowers businesses to efficiently manage their data across the entire lifecycle, ensuring that they can leverage their data assets for analytics, machine learning, and artificial intelligence initiatives. With a strong focus on customer success and a commitment to innovation, Informatica has established itself as a trusted partner for organizations seeking to become data-driven. The company continues to evolve its offerings to address the growing complexities of modern data environments, ensuring that clients can effectively manage and utilize their data amidst increasing regulatory and security challenges. Informatica's mission is to enable every organization to become a data-driven enterprise, unlocking the potential of data to deliver actionable insights and drive informed decision-making.",
+    "industry": [
+        "Software",
+        "Data Management"
+    ],
+    "headquarters": "Redwood City, California, USA",
+    "founded": "1993",
+    "website": "https://www.informatica.com",
+    "ceo": "Anil Chakravarthy",
+    "social_media": {
+        "twitter": "https://twitter.com/Informatica",
+        "linkedin": "https://www.linkedin.com/company/informatica"
+    },
+    "investor_relations": "https://investors.informatica.com",
+    "key_executives": [
+        {
+            "name": "Anil Chakravarthy",
+            "position": "CEO"
+        },
+        {
+            "name": "James Thomas",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Integration",
+            "products": [
+                "Informatica Cloud Data Integration",
+                "Informatica PowerCenter"
+            ]
+        },
+        {
+            "category": "Data Quality",
+            "products": [
+                "Informatica Data Quality"
+            ]
+        },
+        {
+            "category": "Master Data Management",
+            "products": [
+                "Informatica MDM"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Informatica, Inc. | Enterprise Cloud Data Management Solutions",
+        "meta_description": "Learn about Informatica, Inc., a leader in cloud data management solutions. Discover how Informatica helps organizations harness their data for better decision-making and innovation.",
+        "keywords": [
+            "Informatica",
+            "Data Management",
+            "Cloud Integration",
+            "Data Quality",
+            "Data Governance",
+            "Master Data Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Informatica specialize in?",
+            "answer": "Informatica specializes in enterprise cloud data management solutions, including data integration, data quality, and master data management."
+        },
+        {
+            "question": "Who is the CEO of Informatica?",
+            "answer": "Anil Chakravarthy is the CEO of Informatica, Inc."
+        },
+        {
+            "question": "Where is Informatica headquartered?",
+            "answer": "Informatica is headquartered in Redwood City, California, USA."
+        },
+        {
+            "question": "What are Informatica's main products?",
+            "answer": "Informatica's main products include Informatica Cloud Data Integration, Informatica PowerCenter, Informatica Data Quality, and Informatica MDM."
+        },
+        {
+            "question": "When was Informatica founded?",
+            "answer": "Informatica was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "IBM",
+        "SAP",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CRM"
+    ]
+}

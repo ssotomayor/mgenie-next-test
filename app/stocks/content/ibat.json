@@ -1,0 +1,88 @@
+{
+    "ticker": "IBAT",
+    "name": "Immutable Holdings, Inc.",
+    "description": "Immutable Holdings, Inc. is a leading technology company focused on the development of blockchain-based solutions and digital assets. Founded in 2021, Immutable Holdings aims to revolutionize the way we interact with digital assets through innovative platforms that support the creation, trading, and management of non-fungible tokens (NFTs) and other blockchain applications. The company is best known for its flagship product, Immutable X, which offers a layer-2 scaling solution for Ethereum that allows for instant trade confirmation, massive scalability, and no gas fees without compromising user custody. This unique technology has positioned Immutable Holdings as a key player in the rapidly evolving NFT and gaming sectors. By providing developers and businesses with the tools to seamlessly integrate blockchain technology, Immutable Holdings empowers creators and users alike to engage with digital assets in a secure and efficient manner. The company is committed to fostering a decentralized future and driving adoption of blockchain technology across various industries, including gaming, art, and finance.",
+    "industry": [
+        "Technology",
+        "Blockchain",
+        "Digital Assets"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2021",
+    "website": "https://www.immutable.com",
+    "ceo": "James Ferguson",
+    "social_media": {
+        "twitter": "https://twitter.com/Immutable",
+        "linkedin": "https://www.linkedin.com/company/immutable/",
+        "youtube": "https://www.youtube.com/c/ImmutableX"
+    },
+    "investor_relations": "https://www.immutable.com/investors",
+    "key_executives": [
+        {
+            "name": "James Ferguson",
+            "position": "CEO"
+        },
+        {
+            "name": "Megan O'Leary",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Solutions",
+            "products": [
+                "Immutable X"
+            ]
+        },
+        {
+            "category": "Digital Assets",
+            "products": [
+                "NFTs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Immutable Holdings, Inc. | Blockchain Solutions & Digital Assets",
+        "meta_description": "Explore Immutable Holdings, Inc., a leader in blockchain technology and digital assets. Discover how Immutable X is transforming the NFT landscape.",
+        "keywords": [
+            "Immutable Holdings",
+            "Blockchain",
+            "NFTs",
+            "Digital Assets",
+            "Immutable X"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Immutable Holdings do?",
+            "answer": "Immutable Holdings develops blockchain-based solutions, focusing on non-fungible tokens (NFTs) and digital assets."
+        },
+        {
+            "question": "Who is the CEO of Immutable Holdings?",
+            "answer": "James Ferguson is the CEO of Immutable Holdings, Inc."
+        },
+        {
+            "question": "Where is Immutable Holdings headquartered?",
+            "answer": "Immutable Holdings is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What is Immutable X?",
+            "answer": "Immutable X is a layer-2 scaling solution for Ethereum that enables instant trade confirmation and no gas fees for NFTs."
+        },
+        {
+            "question": "When was Immutable Holdings founded?",
+            "answer": "Immutable Holdings was founded in 2021."
+        }
+    ],
+    "competitors": [
+        "COIN",
+        "MANA",
+        "ENJ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

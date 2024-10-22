@@ -1,0 +1,98 @@
+{
+    "ticker": "HAS",
+    "name": "Hasbro, Inc.",
+    "description": "Hasbro, Inc. is a global play and entertainment company renowned for its diverse portfolio of brands and franchises that inspire creative play. Founded in 1923, Hasbro has evolved from a small novelty toy company into a leader in the toy and gaming industry, producing beloved toys and games for children and families around the world. The company owns iconic brands such as Monopoly, Transformers, My Little Pony, Nerf, and Play-Doh, and continues to develop innovative products that engage children and adults alike. In addition to traditional toys, Hasbro has expanded into digital gaming and entertainment, successfully adapting its popular franchises into movies, animated series, and interactive experiences. With a commitment to sustainability, Hasbro strives to reduce its environmental impact through responsible sourcing, packaging, and innovative product design. The company's mission is to create the world's best play experiences, fostering imagination and creativity in every child. Through strategic partnerships and collaborations, Hasbro continues to enhance its brand presence and explore new opportunities in the ever-evolving entertainment landscape.",
+    "industry": [
+        "Toys",
+        "Entertainment",
+        "Gaming"
+    ],
+    "headquarters": "Pawtucket, Rhode Island, USA",
+    "founded": "1923",
+    "website": "https://www.hasbro.com",
+    "ceo": "Chris Cocks",
+    "social_media": {
+        "twitter": "https://twitter.com/Hasbro",
+        "linkedin": "https://www.linkedin.com/company/hasbro/"
+    },
+    "investor_relations": "https://investor.hasbro.com",
+    "key_executives": [
+        {
+            "name": "Chris Cocks",
+            "position": "CEO"
+        },
+        {
+            "name": "Deborah Thomas",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Action Figures",
+            "products": [
+                "Transformers",
+                "G.I. Joe"
+            ]
+        },
+        {
+            "category": "Board Games",
+            "products": [
+                "Monopoly",
+                "Clue"
+            ]
+        },
+        {
+            "category": "Creative Play",
+            "products": [
+                "Play-Doh",
+                "My Little Pony"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hasbro, Inc. | Toys, Games, and Entertainment",
+        "meta_description": "Explore Hasbro, Inc., a global leader in toys and games. Discover iconic brands, innovative products, and the company's commitment to inspiring creativity.",
+        "keywords": [
+            "Hasbro",
+            "Toys",
+            "Games",
+            "Entertainment",
+            "Transformers",
+            "Monopoly",
+            "Play-Doh"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Hasbro known for?",
+            "answer": "Hasbro is known for its wide range of toys and games, including brands like Monopoly, Transformers, and Nerf."
+        },
+        {
+            "question": "Who is the CEO of Hasbro?",
+            "answer": "Chris Cocks is the CEO of Hasbro, Inc."
+        },
+        {
+            "question": "Where is Hasbro headquartered?",
+            "answer": "Hasbro is headquartered in Pawtucket, Rhode Island, USA."
+        },
+        {
+            "question": "What are Hasbro's main product categories?",
+            "answer": "Hasbro's main product categories include action figures, board games, and creative play products."
+        },
+        {
+            "question": "When was Hasbro founded?",
+            "answer": "Hasbro was founded in 1923."
+        }
+    ],
+    "competitors": [
+        "MAT",
+        "DIS",
+        "NWL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "GOOGL"
+    ]
+}

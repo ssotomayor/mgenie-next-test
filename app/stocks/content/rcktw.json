@@ -1,0 +1,87 @@
+{
+    "ticker": "RCKTW",
+    "name": "Rocketware Technologies, Inc.",
+    "description": "Rocketware Technologies, Inc. is an innovative software development company focused on creating advanced solutions for the aerospace and defense industries. Established in 2010, the company has been at the forefront of developing cutting-edge technologies that enhance operational efficiency and safety for its clients. With a strong emphasis on research and development, Rocketware specializes in software for flight simulation, data analytics, and mission planning, enabling organizations to optimize their operations and decision-making processes. The company's flagship product, RocketSim, is a leading flight simulation platform used by military and commercial aviation sectors to train pilots and improve flight safety. In addition to simulation software, Rocketware offers consulting services to help organizations implement and integrate complex systems tailored to their specific needs. The company prides itself on its commitment to innovation, customer satisfaction, and the continuous advancement of its technological offerings. As the aerospace sector evolves, Rocketware is dedicated to providing the tools and support necessary for its clients to succeed in a competitive landscape.",
+    "industry": [
+        "Software Development",
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "Huntsville, Alabama, USA",
+    "founded": "2010",
+    "website": "https://www.rocketwaretech.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/RocketwareTech",
+        "linkedin": "https://www.linkedin.com/company/rocketware-technologies"
+    },
+    "investor_relations": "https://ir.rocketwaretech.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Flight Simulation Software",
+            "products": [
+                "RocketSim"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Systems Integration",
+                "Operational Analysis"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rocketware Technologies, Inc. | Advanced Aerospace Software Solutions",
+        "meta_description": "Explore Rocketware Technologies, Inc., a leader in aerospace software development, specializing in flight simulation and consulting services for the defense industry.",
+        "keywords": [
+            "Rocketware",
+            "Aerospace Software",
+            "Flight Simulation",
+            "Defense Technology",
+            "RocketSim"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rocketware Technologies specialize in?",
+            "answer": "Rocketware Technologies specializes in software development for the aerospace and defense industries, particularly flight simulation and data analytics."
+        },
+        {
+            "question": "Who is the CEO of Rocketware Technologies?",
+            "answer": "Jane Doe is the CEO of Rocketware Technologies, Inc."
+        },
+        {
+            "question": "Where is Rocketware headquartered?",
+            "answer": "Rocketware is headquartered in Huntsville, Alabama, USA."
+        },
+        {
+            "question": "What is RocketSim?",
+            "answer": "RocketSim is Rocketware's flagship flight simulation platform used for training pilots in military and commercial aviation."
+        },
+        {
+            "question": "When was Rocketware Technologies founded?",
+            "answer": "Rocketware Technologies was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "NOC",
+        "BA"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "MSFT",
+        "AAPL"
+    ]
+}

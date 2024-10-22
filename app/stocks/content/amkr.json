@@ -1,0 +1,93 @@
+{
+    "ticker": "AMKR",
+    "name": "Amkor Technology, Inc.",
+    "description": "Amkor Technology, Inc. is a leading provider of advanced semiconductor packaging and test services, primarily serving the global electronics industry. Founded in 1968, Amkor has established itself as a pioneer in the development of innovative packaging solutions that enhance the performance and reliability of semiconductor devices. The company offers a broad range of services, including wafer-level packaging, system-in-package (SiP), and advanced packaging technologies to meet the diverse needs of its customers. With manufacturing facilities strategically located around the world, Amkor serves major markets such as mobile devices, consumer electronics, automotive, and industrial applications. Amkor's commitment to quality and reliability is reflected in its certifications and adherence to industry standards. As technology continues to evolve, Amkor is at the forefront of enabling next-generation applications, including the Internet of Things (IoT), artificial intelligence (AI), and 5G communication. The company's focus on innovation and customer collaboration positions it as a key player in the semiconductor supply chain, driving advancements in efficiency and performance for a wide array of electronic devices.",
+    "industry": [
+        "Semiconductors",
+        "Electronics"
+    ],
+    "headquarters": "Tempe, Arizona, USA",
+    "founded": "1968",
+    "website": "https://www.amkor.com",
+    "ceo": "G. A. (Art) H. H. Amkor",
+    "social_media": {
+        "twitter": "https://twitter.com/AmkorTechnology",
+        "linkedin": "https://www.linkedin.com/company/amkor-technology/"
+    },
+    "investor_relations": "https://investor.amkor.com",
+    "key_executives": [
+        {
+            "name": "G. A. (Art) H. H. Amkor",
+            "position": "CEO"
+        },
+        {
+            "name": "Ming-Dong (M.D.) Chang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Advanced Packaging",
+            "products": [
+                "Wafer-Level Packaging",
+                "System-in-Package (SiP)",
+                "Flip Chip Packaging"
+            ]
+        },
+        {
+            "category": "Test Services",
+            "products": [
+                "RF Test",
+                "Digital Test",
+                "Mixed Signal Test"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Amkor Technology, Inc. | Leading Semiconductor Packaging Solutions",
+        "meta_description": "Explore Amkor Technology, Inc., a leader in semiconductor packaging and test services. Learn about their advanced solutions and contributions to the electronics industry.",
+        "keywords": [
+            "Amkor Technology",
+            "Semiconductor Packaging",
+            "Electronics",
+            "Wafer-Level Packaging",
+            "5G",
+            "IoT",
+            "AI"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Amkor Technology specialize in?",
+            "answer": "Amkor Technology specializes in semiconductor packaging and test services."
+        },
+        {
+            "question": "Who is the CEO of Amkor Technology?",
+            "answer": "G. A. (Art) H. H. Amkor is the CEO of Amkor Technology, Inc."
+        },
+        {
+            "question": "Where is Amkor headquartered?",
+            "answer": "Amkor is headquartered in Tempe, Arizona, USA."
+        },
+        {
+            "question": "What are the main products offered by Amkor?",
+            "answer": "Amkor's main products include advanced packaging solutions and test services for semiconductors."
+        },
+        {
+            "question": "When was Amkor founded?",
+            "answer": "Amkor was founded in 1968."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "TSM",
+        "SWKS",
+        "QCOM"
+    ],
+    "related_stocks": [
+        "AVGO",
+        "TXN",
+        "NVDA",
+        "AMD"
+    ]
+}

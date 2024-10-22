@@ -1,0 +1,88 @@
+{
+    "ticker": "ECCF",
+    "name": "Eclipse Capital Corp.",
+    "description": "Eclipse Capital Corp. is a dynamic investment management firm focused on providing innovative financial solutions to its clients. Established in 2010, the company specializes in asset management, portfolio construction, and strategic investment advisory services. With a client-centric approach, Eclipse Capital aims to help individual and institutional investors navigate complex financial markets and achieve their investment goals. The firm employs a rigorous research-driven methodology, leveraging both quantitative and qualitative analysis to inform its investment decisions. Eclipse Capital is committed to transparency and ethical practices, ensuring that clients receive personalized service and tailored investment strategies. The company also actively engages in sustainable investing, seeking opportunities that align with environmental, social, and governance (ESG) criteria. Through a diverse range of investment products, including mutual funds, hedge funds, and private equity, Eclipse Capital delivers strong performance while managing risk effectively. The firm prides itself on its experienced team of financial professionals who bring a wealth of expertise and insights to the table, fostering long-term relationships with clients based on trust and performance.",
+    "industry": [
+        "Investment Management",
+        "Finance"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2010",
+    "website": "https://www.eclipsecapital.com",
+    "ceo": "Jessica Tran",
+    "social_media": {
+        "twitter": "https://twitter.com/EclipseCapital",
+        "linkedin": "https://www.linkedin.com/company/eclipse-capital-corp/"
+    },
+    "investor_relations": "https://www.eclipsecapital.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jessica Tran",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Funds",
+            "products": [
+                "Eclipse Growth Fund",
+                "Eclipse Income Fund"
+            ]
+        },
+        {
+            "category": "Advisory Services",
+            "products": [
+                "Portfolio Management",
+                "Financial Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eclipse Capital Corp. | Innovative Investment Management Solutions",
+        "meta_description": "Explore Eclipse Capital Corp., a leader in investment management providing tailored financial solutions and sustainable investing strategies.",
+        "keywords": [
+            "Eclipse Capital",
+            "Investment Management",
+            "Asset Management",
+            "Sustainable Investing",
+            "Financial Advisory"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Eclipse Capital specialize in?",
+            "answer": "Eclipse Capital specializes in asset management, portfolio construction, and strategic investment advisory services."
+        },
+        {
+            "question": "Who is the CEO of Eclipse Capital?",
+            "answer": "Jessica Tran is the CEO of Eclipse Capital Corp."
+        },
+        {
+            "question": "Where is Eclipse Capital headquartered?",
+            "answer": "Eclipse Capital is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Eclipse Capital's main products?",
+            "answer": "Eclipse Capital's main products include investment funds like the Eclipse Growth Fund and advisory services like portfolio management."
+        },
+        {
+            "question": "When was Eclipse Capital founded?",
+            "answer": "Eclipse Capital was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "TROW",
+        "Vanguard"
+    ],
+    "related_stocks": [
+        "GS",
+        "MS",
+        "JPM",
+        "WFC"
+    ]
+}

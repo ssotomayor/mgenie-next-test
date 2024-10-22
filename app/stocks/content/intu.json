@@ -1,0 +1,97 @@
+{
+    "ticker": "INTU",
+    "name": "Intuit Inc.",
+    "description": "Intuit Inc. is a financial software company that empowers individuals and small businesses to manage their finances with ease. Founded in 1983 by Scott Cook and Tom Proulx, Intuit is best known for its flagship products, TurboTax, QuickBooks, and Mint, which simplify tax preparation, accounting, and personal finance management, respectively. The company is dedicated to innovation and utilizes advanced technologies such as artificial intelligence and machine learning to enhance user experiences and deliver tailored financial insights. Intuit serves millions of customers globally, helping them maximize their financial potential through intuitive and user-friendly solutions. The company's mission is to power prosperity around the world by providing tools that make it easier for people to manage their money, file taxes, and run small businesses. Intuit also prioritizes data security and privacy, ensuring that customer information is protected while delivering powerful financial insights. In addition to its core products, Intuit has been expanding into new markets through acquisitions and partnerships, broadening its reach and enhancing its offerings. With a strong commitment to customer satisfaction and continuous improvement, Intuit remains a leader in the financial technology space, dedicated to helping its users achieve financial success.",
+    "industry": [
+        "Software",
+        "Financial Technology"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "1983",
+    "website": "https://www.intuit.com",
+    "ceo": "Sasan Goodarzi",
+    "social_media": {
+        "twitter": "https://twitter.com/Intuit",
+        "linkedin": "https://www.linkedin.com/company/intuit/",
+        "facebook": "https://www.facebook.com/intuit",
+        "youtube": "https://www.youtube.com/user/Intuit"
+    },
+    "investor_relations": "https://investors.intuit.com",
+    "key_executives": [
+        {
+            "name": "Sasan Goodarzi",
+            "position": "CEO"
+        },
+        {
+            "name": "Michelle Clatterbuck",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Tax Software",
+            "products": [
+                "TurboTax"
+            ]
+        },
+        {
+            "category": "Accounting Software",
+            "products": [
+                "QuickBooks"
+            ]
+        },
+        {
+            "category": "Personal Finance",
+            "products": [
+                "Mint"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Intuit Inc. | Financial Software and Solutions",
+        "meta_description": "Discover Intuit Inc., a leader in financial software solutions. Learn about our innovative products, including TurboTax, QuickBooks, and Mint, designed to empower individuals and businesses.",
+        "keywords": [
+            "Intuit",
+            "TurboTax",
+            "QuickBooks",
+            "Mint",
+            "Financial Software",
+            "Tax Preparation",
+            "Accounting"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Intuit known for?",
+            "answer": "Intuit is known for its financial software products like TurboTax, QuickBooks, and Mint."
+        },
+        {
+            "question": "Who is the CEO of Intuit?",
+            "answer": "Sasan Goodarzi is the CEO of Intuit Inc."
+        },
+        {
+            "question": "Where is Intuit headquartered?",
+            "answer": "Intuit is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What are Intuit's main products?",
+            "answer": "Intuit's main products include TurboTax for tax preparation, QuickBooks for accounting, and Mint for personal finance management."
+        },
+        {
+            "question": "When was Intuit founded?",
+            "answer": "Intuit was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "CRM",
+        "SAP",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "NVDA"
+    ]
+}

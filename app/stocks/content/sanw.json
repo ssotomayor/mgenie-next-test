@@ -1,0 +1,77 @@
+{
+    "ticker": "SANW",
+    "name": "S&W Seed Company",
+    "description": "S&W Seed Company is a prominent agricultural company focusing on the production and marketing of a diverse range of seed products, primarily alfalfa and other forage crops. Founded in 1980 and headquartered in Five Points, California, S&W has established itself as a leader in the seed industry by innovating and delivering high-quality seeds to meet the growing needs of farmers and the agricultural sector. The company operates through multiple segments, including its core business in alfalfa seed, which is known for its high yield and disease resistance. In addition to alfalfa, S&W also markets seeds for other crops such as sorghum and sunflower, catering to a variety of farming practices and climates. With a commitment to research and development, S&W is continuously working to enhance seed genetics and improve crop resilience, ensuring that farmers have access to the best tools for sustainable agriculture. The company's mission is to provide innovative, high-performing seed solutions while promoting sustainable farming practices. Through strategic partnerships and a robust distribution network, S&W Seed Company aims to expand its global presence and contribute positively to the agricultural community.",
+    "industry": [
+        "Agriculture",
+        "Seeds"
+    ],
+    "headquarters": "Five Points, California, USA",
+    "founded": "1980",
+    "website": "https://www.swseedco.com",
+    "ceo": "Mark Wong",
+    "social_media": {
+        "twitter": "https://twitter.com/SWSeedCompany",
+        "linkedin": "https://www.linkedin.com/company/s&w-seed-company/"
+    },
+    "investor_relations": "https://www.swseedco.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Mark Wong",
+            "position": "CEO"
+        },
+        {
+            "name": "K. C. Kwan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Seed Products",
+            "products": [
+                "Alfalfa Seed",
+                "Sorghum Seed",
+                "Sunflower Seed"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "S&W Seed Company | Leading Agricultural Seed Solutions",
+        "meta_description": "Explore S&W Seed Company, a leader in the agricultural industry specializing in high-quality seed products including alfalfa, sorghum, and sunflower seeds.",
+        "keywords": [
+            "S&W Seed Company",
+            "Alfalfa Seed",
+            "Agricultural Seeds",
+            "Forage Crops",
+            "Sustainable Agriculture"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of seeds does S&W Seed Company offer?",
+            "answer": "S&W Seed Company offers alfalfa, sorghum, sunflower seeds, and other forage crop seeds."
+        },
+        {
+            "question": "Where is S&W Seed Company headquartered?",
+            "answer": "S&W Seed Company is headquartered in Five Points, California, USA."
+        },
+        {
+            "question": "Who is the CEO of S&W Seed Company?",
+            "answer": "Mark Wong is the CEO of S&W Seed Company."
+        },
+        {
+            "question": "When was S&W Seed Company founded?",
+            "answer": "S&W Seed Company was founded in 1980."
+        }
+    ],
+    "competitors": [
+        "MON",
+        "CORN",
+        "FMC"
+    ],
+    "related_stocks": [
+        "AGCO",
+        "DE",
+        "CNHI"
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "ticker": "MAR",
+    "name": "Marriott International, Inc.",
+    "description": "Marriott International, Inc. is a leading global lodging company with a portfolio of more than 7,000 properties across 131 countries and territories. Founded in 1927 by J. Willard Marriott and his wife, Alice, Marriott began as a root beer stand in Washington, D.C., and has evolved into a hospitality giant. The company operates and franchises hotels and related lodging facilities, providing a wide range of accommodations from luxury to economy. Notable brands under the Marriott umbrella include Ritz-Carlton, St. Regis, W Hotels, and Courtyard by Marriott. Marriott is known for its commitment to customer service and innovation within the hospitality industry. The company has embraced technology to enhance guest experiences, offering mobile check-in, keyless entry, and a customized rewards program through its Marriott Bonvoy platform. Marriott is also focused on sustainability, implementing practices to reduce its environmental impact and enhance the communities it serves. As the hotel industry continues to adapt to changing travel trends, Marriott remains dedicated to providing exceptional hospitality and creating memorable experiences for travelers around the world.",
+    "industry": [
+        "Hospitality",
+        "Travel"
+    ],
+    "headquarters": "Bethesda, Maryland, USA",
+    "founded": "1927",
+    "website": "https://www.marriott.com",
+    "ceo": "Anthony Capuano",
+    "social_media": {
+        "twitter": "https://twitter.com/Marriott",
+        "linkedin": "https://www.linkedin.com/company/marriott-international",
+        "instagram": "https://www.instagram.com/marriott",
+        "facebook": "https://www.facebook.com/marriott"
+    },
+    "investor_relations": "https://www.marriott.com/investor",
+    "key_executives": [
+        {
+            "name": "Anthony Capuano",
+            "position": "CEO"
+        },
+        {
+            "name": "Leeny Oberg",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Luxury Hotels",
+            "products": [
+                "The Ritz-Carlton",
+                "St. Regis",
+                "JW Marriott"
+            ]
+        },
+        {
+            "category": "Mid-Scale Hotels",
+            "products": [
+                "Courtyard by Marriott",
+                "Fairfield Inn & Suites"
+            ]
+        },
+        {
+            "category": "Extended Stay Hotels",
+            "products": [
+                "Residence Inn",
+                "TownePlace Suites"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Marriott International, Inc. | Global Leader in Hospitality",
+        "meta_description": "Explore Marriott International, Inc., a premier hotel company offering exceptional travel experiences across its diverse portfolio of hotels and resorts worldwide.",
+        "keywords": [
+            "Marriott",
+            "Hotels",
+            "Hospitality",
+            "Travel",
+            "Luxury Hotels",
+            "Marriott Bonvoy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Marriott known for?",
+            "answer": "Marriott is known for its extensive portfolio of hotels and exceptional hospitality services."
+        },
+        {
+            "question": "Who is the CEO of Marriott?",
+            "answer": "Anthony Capuano is the CEO of Marriott International, Inc."
+        },
+        {
+            "question": "Where is Marriott headquartered?",
+            "answer": "Marriott is headquartered in Bethesda, Maryland, USA."
+        },
+        {
+            "question": "What are Marriott's main brands?",
+            "answer": "Marriott's main brands include The Ritz-Carlton, St. Regis, JW Marriott, and Courtyard by Marriott."
+        },
+        {
+            "question": "When was Marriott founded?",
+            "answer": "Marriott was founded in 1927."
+        }
+    ],
+    "competitors": [
+        "HLT",
+        "IHG",
+        "WYN",
+        "CHO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "DIS",
+        "BA",
+        "MCD"
+    ]
+}

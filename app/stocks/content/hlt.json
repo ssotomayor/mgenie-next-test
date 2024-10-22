@@ -1,0 +1,95 @@
+{
+    "ticker": "HLT",
+    "name": "Hilton Worldwide Holdings Inc.",
+    "description": "Hilton Worldwide Holdings Inc. is a global leader in the hospitality industry, renowned for its commitment to providing exceptional service and memorable experiences. Founded in 1919 by Conrad Hilton, the company has grown to become one of the largest and most recognized hotel chains in the world, with a portfolio that includes over 7,000 properties across 122 countries and territories. Hilton operates a diverse range of brands, from luxury to midscale, including Waldorf Astoria, Conrad, Hilton Hotels & Resorts, DoubleTree, and Hampton by Hilton. The company places a strong emphasis on innovation and sustainability, implementing programs like 'Travel with Purpose' aimed at reducing its environmental impact and supporting local communities. Additionally, Hilton's loyalty program, Hilton Honors, offers rewards and benefits to frequent travelers, enhancing guest engagement and retention. With a rich history and a forward-looking vision, Hilton continues to adapt to changing travel trends and consumer preferences, positioning itself as a pioneer in the hospitality sector.",
+    "industry": [
+        "Hospitality",
+        "Travel"
+    ],
+    "headquarters": "McLean, Virginia, USA",
+    "founded": "1919",
+    "website": "https://www.hilton.com",
+    "ceo": "Christopher J. Nassetta",
+    "social_media": {
+        "twitter": "https://twitter.com/Hilton",
+        "linkedin": "https://www.linkedin.com/company/hilton/",
+        "instagram": "https://www.instagram.com/hiltonhotels/",
+        "facebook": "https://www.facebook.com/hilton"
+    },
+    "investor_relations": "https://ir.hilton.com",
+    "key_executives": [
+        {
+            "name": "Christopher J. Nassetta",
+            "position": "CEO"
+        },
+        {
+            "name": "Kevin J. Jacobs",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Hotel Brands",
+            "products": [
+                "Waldorf Astoria",
+                "Conrad",
+                "Hilton Hotels & Resorts",
+                "DoubleTree",
+                "Hampton by Hilton"
+            ]
+        },
+        {
+            "category": "Loyalty Program",
+            "products": [
+                "Hilton Honors"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Hilton Worldwide Holdings Inc. | Leading Global Hospitality Company",
+        "meta_description": "Explore Hilton Worldwide Holdings Inc., a leader in the hospitality industry with a commitment to service and sustainability. Discover Hilton's diverse brands and loyalty program.",
+        "keywords": [
+            "Hilton",
+            "Hospitality",
+            "Hotels",
+            "Travel",
+            "Hilton Honors",
+            "Conrad Hilton",
+            "Luxury Hotels"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Hilton known for?",
+            "answer": "Hilton is known for its extensive portfolio of hotel brands and commitment to exceptional guest experiences."
+        },
+        {
+            "question": "Who is the CEO of Hilton?",
+            "answer": "Christopher J. Nassetta is the CEO of Hilton Worldwide Holdings Inc."
+        },
+        {
+            "question": "Where is Hilton headquartered?",
+            "answer": "Hilton is headquartered in McLean, Virginia, USA."
+        },
+        {
+            "question": "What are Hilton's main hotel brands?",
+            "answer": "Hilton's main hotel brands include Waldorf Astoria, Conrad, Hilton Hotels & Resorts, DoubleTree, and Hampton by Hilton."
+        },
+        {
+            "question": "When was Hilton founded?",
+            "answer": "Hilton was founded in 1919."
+        }
+    ],
+    "competitors": [
+        "MAR",
+        "IHG",
+        "H",
+        "WH"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "SPG",
+        "MCD"
+    ]
+}

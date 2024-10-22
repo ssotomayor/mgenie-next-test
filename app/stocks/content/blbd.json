@@ -1,0 +1,83 @@
+{
+    "ticker": "BLBD",
+    "name": "Blue Bird Corporation",
+    "description": "Blue Bird Corporation is a leading manufacturer of school buses and specialty vehicles, providing innovative solutions for the transportation of students and passengers. Founded in 1927, Blue Bird has established itself as an industry pioneer, known for its commitment to safety, sustainability, and performance. The company offers a diverse range of school bus models that run on alternative fuels, including propane and electric, in addition to traditional gasoline and diesel options. Blue Bird's electric buses are designed to reduce emissions and provide a quieter, more efficient mode of transportation for school districts and communities. With a focus on technological advancements, Blue Bird integrates cutting-edge safety features and connectivity solutions into its vehicles, ensuring the highest standards of safety for students. The company operates in a highly regulated industry, working closely with government agencies and educational institutions to meet stringent safety and environmental standards. With a robust distribution network and a dedicated team of professionals, Blue Bird is committed to delivering exceptional quality and service to its customers. The company's mission revolves around enhancing the student transportation experience while prioritizing environmental responsibility and community engagement.",
+    "industry": [
+        "Manufacturing",
+        "Transportation"
+    ],
+    "headquarters": "Fort Valley, Georgia, USA",
+    "founded": "1927",
+    "website": "https://www.blue-bird.com",
+    "ceo": "Matthew Stevenson",
+    "social_media": {
+        "twitter": "https://twitter.com/bluebirdcorp",
+        "linkedin": "https://www.linkedin.com/company/blue-bird-corporation",
+        "facebook": "https://www.facebook.com/bluebirdcorp"
+    },
+    "investor_relations": "https://ir.blue-bird.com",
+    "key_executives": [
+        {
+            "name": "Matthew Stevenson",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark B. W. A. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "School Buses",
+            "products": [
+                "Propane-Powered Buses",
+                "Electric Buses",
+                "Gasoline Buses",
+                "Diesel Buses"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Blue Bird Corporation | Leading Manufacturer of School Buses",
+        "meta_description": "Discover Blue Bird Corporation, the leading manufacturer of school buses and specialty vehicles committed to safety and sustainability. Explore our innovative transportation solutions.",
+        "keywords": [
+            "Blue Bird",
+            "School Buses",
+            "Electric Buses",
+            "Propane Buses",
+            "Sustainable Transportation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Blue Bird Corporation manufacture?",
+            "answer": "Blue Bird Corporation manufactures school buses and specialty vehicles."
+        },
+        {
+            "question": "Who is the CEO of Blue Bird Corporation?",
+            "answer": "Matthew Stevenson is the CEO of Blue Bird Corporation."
+        },
+        {
+            "question": "Where is Blue Bird Corporation headquartered?",
+            "answer": "Blue Bird Corporation is headquartered in Fort Valley, Georgia, USA."
+        },
+        {
+            "question": "What types of buses does Blue Bird offer?",
+            "answer": "Blue Bird offers propane, electric, gasoline, and diesel school buses."
+        },
+        {
+            "question": "When was Blue Bird Corporation founded?",
+            "answer": "Blue Bird Corporation was founded in 1927."
+        }
+    ],
+    "competitors": [
+        "ICBUS",
+        "THOUGHT",
+        "BYD"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "F",
+        "GM"
+    ]
+}

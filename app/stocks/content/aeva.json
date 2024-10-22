@@ -1,0 +1,88 @@
+{
+    "ticker": "AEVA",
+    "name": "Aeva, Inc.",
+    "description": "Aeva, Inc. is a technology company specializing in advanced sensing solutions for autonomous vehicles and robotics. Founded in 2017 by Mina Rezk and Soroush Salehian, Aeva aims to revolutionize the way machines perceive the world around them through its innovative lidar technology. The company has developed a unique lidar system that combines high-resolution 3D imaging with advanced perception capabilities, enabling vehicles to understand their environment in real time. Aeva's technology is designed to enhance safety, improve navigation, and enable a variety of applications in autonomous driving, robotics, and automation. By integrating lidar with artificial intelligence, Aeva provides solutions that empower vehicles to make informed decisions, thus accelerating the adoption of autonomous systems across various industries. Aeva's commitment to innovation and performance positions it as a leader in the rapidly evolving field of sensing technologies, helping to facilitate safer and more efficient transportation solutions for the future.",
+    "industry": [
+        "Technology",
+        "Automotive",
+        "Robotics"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2017",
+    "website": "https://www.aeva.com",
+    "ceo": "Mina Rezk",
+    "social_media": {
+        "twitter": "https://twitter.com/aeva_inc",
+        "linkedin": "https://www.linkedin.com/company/aeva-inc/"
+    },
+    "investor_relations": "https://investors.aeva.com",
+    "key_executives": [
+        {
+            "name": "Mina Rezk",
+            "position": "CEO"
+        },
+        {
+            "name": "Soroush Salehian",
+            "position": "Co-Founder and CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Lidar Technology",
+            "products": [
+                "Aeva 4D Lidar"
+            ]
+        },
+        {
+            "category": "Perception Software",
+            "products": [
+                "Aeva Perception Software Suite"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Aeva, Inc. | Advanced Lidar Technology for Autonomous Vehicles",
+        "meta_description": "Discover Aeva, Inc., a leader in advanced lidar technology designed for autonomous vehicles. Learn about Aeva's innovative solutions and their impact on the future of transportation.",
+        "keywords": [
+            "Aeva",
+            "Lidar Technology",
+            "Autonomous Vehicles",
+            "Robotics",
+            "3D Imaging",
+            "Sensing Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Aeva known for?",
+            "answer": "Aeva is known for its advanced lidar technology and perception solutions for autonomous vehicles."
+        },
+        {
+            "question": "Who is the CEO of Aeva?",
+            "answer": "Mina Rezk is the CEO of Aeva, Inc."
+        },
+        {
+            "question": "Where is Aeva headquartered?",
+            "answer": "Aeva is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Aeva's main products?",
+            "answer": "Aeva's main products include its Aeva 4D Lidar system and Perception Software Suite."
+        },
+        {
+            "question": "When was Aeva founded?",
+            "answer": "Aeva was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "LIDR",
+        "ISRG",
+        "NVDA"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

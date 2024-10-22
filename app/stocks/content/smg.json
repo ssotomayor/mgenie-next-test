@@ -1,0 +1,95 @@
+{
+    "ticker": "SMG",
+    "name": "Scotts Miracle-Gro Company",
+    "description": "Scotts Miracle-Gro Company is a leading provider of lawn and garden products, aiming to enhance the beauty and health of outdoor spaces. Founded in 1868 and based in Marysville, Ohio, the company operates in two primary segments: U.S. Consumer and Hawthorne. The U.S. Consumer segment includes a comprehensive range of consumer lawn and garden care products, including fertilizers, grass seed, and pest control solutions under well-known brands such as Scotts, Miracle-Gro, and Ortho. In recent years, Scotts Miracle-Gro has significantly expanded its portfolio through acquisitions, particularly in the indoor gardening market, with the Hawthorne segment focusing on hydroponics and other supplies for cannabis growers. The company emphasizes sustainability and innovation, developing products designed to meet the evolving needs of consumers while minimizing environmental impact. With a strong commitment to community involvement and education, Scotts Miracle-Gro also invests in initiatives that promote gardening and environmental stewardship. As a leader in the lawn and garden industry, Scotts Miracle-Gro continues to drive growth and enhance its market position through strategic partnerships and an unwavering focus on customer satisfaction.",
+    "industry": [
+        "Consumer Goods",
+        "Lawn and Garden"
+    ],
+    "headquarters": "Marysville, Ohio, USA",
+    "founded": "1868",
+    "website": "https://www.scotts.com",
+    "ceo": "Jim Hagedorn",
+    "social_media": {
+        "twitter": "https://twitter.com/ScottsMiracleGr",
+        "linkedin": "https://www.linkedin.com/company/scotts-miracle-gro",
+        "instagram": "https://www.instagram.com/scottsmiraclegro",
+        "facebook": "https://www.facebook.com/scottsmiraclegro"
+    },
+    "investor_relations": "https://investor.scotts.com",
+    "key_executives": [
+        {
+            "name": "Jim Hagedorn",
+            "position": "CEO"
+        },
+        {
+            "name": "Randy Coleman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Lawn Care",
+            "products": [
+                "Fertilizers",
+                "Grass Seed",
+                "Weed Control"
+            ]
+        },
+        {
+            "category": "Gardening",
+            "products": [
+                "Plant Food",
+                "Pest Control",
+                "Soil"
+            ]
+        },
+        {
+            "category": "Indoor Gardening",
+            "products": [
+                "Hydroponics Systems",
+                "Grow Lights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Scotts Miracle-Gro Company | Lawn and Garden Products",
+        "meta_description": "Explore Scotts Miracle-Gro Company, a leader in lawn and garden care products. Discover our innovative solutions for outdoor beautification and sustainability.",
+        "keywords": [
+            "Scotts Miracle-Gro",
+            "Lawn Care",
+            "Gardening Products",
+            "Hydroponics",
+            "Sustainable Gardening"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Scotts Miracle-Gro offer?",
+            "answer": "Scotts Miracle-Gro offers a wide range of lawn care, gardening, and indoor gardening products."
+        },
+        {
+            "question": "Who is the CEO of Scotts Miracle-Gro?",
+            "answer": "Jim Hagedorn is the CEO of Scotts Miracle-Gro Company."
+        },
+        {
+            "question": "Where is Scotts Miracle-Gro headquartered?",
+            "answer": "Scotts Miracle-Gro is headquartered in Marysville, Ohio, USA."
+        },
+        {
+            "question": "When was Scotts Miracle-Gro founded?",
+            "answer": "Scotts Miracle-Gro was founded in 1868."
+        }
+    ],
+    "competitors": [
+        "BURL",
+        "DOW",
+        "SYY"
+    ],
+    "related_stocks": [
+        "PG",
+        "CLX",
+        "KMB",
+        "CAG"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "ticker": "IBMM",
+    "name": "International Business Machines Corporation",
+    "description": "International Business Machines Corporation (IBM) is a global technology and consulting company, founded in 1911 and headquartered in Armonk, New York. IBM is synonymous with innovation in computing and has a rich history of pioneering advancements in technology, including mainframe computers, cloud computing, artificial intelligence, and quantum computing. The company operates in segments that include cloud and cognitive software, global business services, global technology services, systems, and global financing. IBM's flagship products include its Watson AI platform, which leverages natural language processing and machine learning capabilities to transform industries, and its hybrid cloud solutions that enable businesses to manage and analyze data across multiple environments. With a strong commitment to research and development, IBM has consistently ranked among the top companies for patent filings, underscoring its role as a leader in technology innovation. The company\u2019s mission is to lead in the creation, development, and manufacture of the industry's most advanced information technologies, and to translate these advanced technologies into value for its customers through professional solutions, services, and consulting. IBM also emphasizes sustainability and aims to reduce its carbon footprint while empowering businesses and communities through technology.",
+    "industry": [
+        "Technology",
+        "Information Technology Services"
+    ],
+    "headquarters": "Armonk, New York, USA",
+    "founded": "1911",
+    "website": "https://www.ibm.com",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBM",
+        "linkedin": "https://www.linkedin.com/company/ibm",
+        "youtube": "https://www.youtube.com/user/IBM"
+    },
+    "investor_relations": "https://www.ibm.com/investors",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "James Kavanaugh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "IBM Cloud",
+                "IBM Cloud Pak"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "IBM Watson"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "IBM Global Business Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IBM | Technology and Consulting Solutions",
+        "meta_description": "Explore IBM, a leader in technology and consulting, offering cloud solutions, AI, and enterprise services. Discover IBM's innovative products and commitment to sustainability.",
+        "keywords": [
+            "IBM",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Enterprise Solutions",
+            "IBM Watson",
+            "Hybrid Cloud"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IBM do?",
+            "answer": "IBM provides technology and consulting solutions, including cloud computing, artificial intelligence, and enterprise services."
+        },
+        {
+            "question": "Who is the CEO of IBM?",
+            "answer": "Arvind Krishna is the CEO of IBM."
+        },
+        {
+            "question": "Where is IBM headquartered?",
+            "answer": "IBM is headquartered in Armonk, New York, USA."
+        },
+        {
+            "question": "What are IBM's main products?",
+            "answer": "IBM's main products include IBM Cloud, IBM Watson, and various consulting services."
+        },
+        {
+            "question": "When was IBM founded?",
+            "answer": "IBM was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "ORCL",
+        "MSFT",
+        "SAP",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CSCO"
+    ]
+}

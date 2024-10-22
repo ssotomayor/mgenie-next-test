@@ -1,0 +1,90 @@
+{
+    "ticker": "IMO",
+    "name": "Imperial Oil Limited",
+    "description": "Imperial Oil Limited is one of Canada's largest integrated oil companies, with a history dating back to its founding in 1880. Based in Calgary, Alberta, Imperial is engaged in the exploration, production, refining, and marketing of petroleum products. The company operates a diverse portfolio of assets, including oil sands projects in Alberta, conventional oil and gas production, and a robust refining network with refineries located in Sarnia, Ontario, and Dartmouth, Nova Scotia. Imperial is a key player in the Canadian energy sector, contributing to the nation's energy supply while prioritizing responsible resource development and environmental stewardship. The company has embraced innovation to enhance operational efficiency and reduce carbon emissions, investing in technologies that promote sustainability. Additionally, Imperial markets a wide range of fuels, lubricants, and petrochemical products through its extensive network of retail stations and commercial customers. With a commitment to safety and community engagement, Imperial Oil continues to play a crucial role in the energy landscape of Canada, striving to meet the evolving demands of the market while adhering to high environmental and safety standards.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Calgary, Alberta, Canada",
+    "founded": "1880",
+    "website": "https://www.imperialoil.ca",
+    "ceo": "Brad Corson",
+    "social_media": {
+        "twitter": "https://twitter.com/ImperialOil",
+        "linkedin": "https://www.linkedin.com/company/imperial-oil/"
+    },
+    "investor_relations": "https://www.imperialoil.ca/en-ca/investors",
+    "key_executives": [
+        {
+            "name": "Brad Corson",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott Thon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Refined Products",
+            "products": [
+                "Gasoline",
+                "Diesel",
+                "Aviation Fuel"
+            ]
+        },
+        {
+            "category": "Oil Sands",
+            "products": [
+                "Bitumen",
+                "Synthetic Crude Oil"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Imperial Oil Limited | Canada's Integrated Oil Company",
+        "meta_description": "Explore Imperial Oil Limited, a leader in the Canadian oil and gas industry. Learn about our commitment to sustainable resource development and innovative energy solutions.",
+        "keywords": [
+            "Imperial Oil",
+            "Oil and Gas",
+            "Refining",
+            "Petroleum Products",
+            "Sustainable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Imperial Oil do?",
+            "answer": "Imperial Oil is involved in the exploration, production, refining, and marketing of oil and gas products."
+        },
+        {
+            "question": "Where is Imperial Oil headquartered?",
+            "answer": "Imperial Oil is headquartered in Calgary, Alberta, Canada."
+        },
+        {
+            "question": "Who is the CEO of Imperial Oil?",
+            "answer": "Brad Corson is the CEO of Imperial Oil Limited."
+        },
+        {
+            "question": "What products does Imperial Oil offer?",
+            "answer": "Imperial Oil offers gasoline, diesel, aviation fuel, bitumen, and synthetic crude oil."
+        },
+        {
+            "question": "When was Imperial Oil founded?",
+            "answer": "Imperial Oil was founded in 1880."
+        }
+    ],
+    "competitors": [
+        "CNQ",
+        "SU",
+        "ENB",
+        "TRP"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "TOT"
+    ]
+}

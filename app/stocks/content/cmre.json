@@ -1,0 +1,83 @@
+{
+    "ticker": "CMRE",
+    "name": "Capital Maritime & Traders, Inc.",
+    "description": "Capital Maritime & Traders, Inc. is an international shipping company that specializes in the transportation of crude oil and petroleum products. Founded in 2001 and headquartered in Athens, Greece, the company operates a modern fleet of tankers and bulk carriers, providing high-quality maritime services to its clients. With a commitment to safety, efficiency, and environmental stewardship, Capital Maritime has established itself as a trusted partner in the shipping industry. The company focuses on maintaining a young and technologically advanced fleet, which allows it to meet stringent regulatory standards and operate efficiently in a competitive market. The management team at Capital Maritime brings extensive experience in shipping and finance, ensuring robust operational and financial performance. Capital Maritime is dedicated to strategic growth through continuous investment in its fleet and by leveraging its operational expertise to enhance service offerings. The company also emphasizes sustainability initiatives to minimize its environmental footprint and comply with the latest international regulations governing shipping and emissions. As a key player in the maritime sector, Capital Maritime plays a vital role in global trade and energy transportation.",
+    "industry": [
+        "Shipping",
+        "Maritime"
+    ],
+    "headquarters": "Athens, Greece",
+    "founded": "2001",
+    "website": "http://www.capitalmaritime.com",
+    "ceo": "George Economou",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/capital-maritime-traders-inc/"
+    },
+    "investor_relations": "http://www.capitalmaritime.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "George Economou",
+            "position": "CEO"
+        },
+        {
+            "name": "Dimitris Koutoupis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Tankers",
+            "products": [
+                "Aframax Tankers",
+                "Suezmax Tankers"
+            ]
+        },
+        {
+            "category": "Bulk Carriers",
+            "products": [
+                "Post-Panamax Bulk Carriers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Capital Maritime & Traders, Inc. | Leading International Shipping Company",
+        "meta_description": "Explore Capital Maritime & Traders, Inc., a leader in the international shipping industry specializing in crude oil and petroleum transportation. Discover our modern fleet and commitment to sustainability.",
+        "keywords": [
+            "Capital Maritime",
+            "Shipping",
+            "Tankers",
+            "Crude Oil Transport",
+            "Environmental Stewardship"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Capital Maritime specialize in?",
+            "answer": "Capital Maritime specializes in the transportation of crude oil and petroleum products."
+        },
+        {
+            "question": "Where is Capital Maritime headquartered?",
+            "answer": "Capital Maritime is headquartered in Athens, Greece."
+        },
+        {
+            "question": "When was Capital Maritime founded?",
+            "answer": "Capital Maritime was founded in 2001."
+        },
+        {
+            "question": "What types of vessels does Capital Maritime operate?",
+            "answer": "Capital Maritime operates Aframax and Suezmax tankers, as well as Post-Panamax bulk carriers."
+        }
+    ],
+    "competitors": [
+        "DAC",
+        "GLNG",
+        "NMM",
+        "FRO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "ticker": "ASX",
+    "name": "ASX Limited",
+    "description": "ASX Limited is an Australian public company that operates the Australian Securities Exchange, one of the world's leading financial market exchanges. Established in 1987, ASX provides a platform for trading a diverse range of financial products, including equities, derivatives, and fixed income securities. The company plays a crucial role in facilitating capital raising for companies and providing investment opportunities for a wide range of investors, from institutions to retail participants. ASX is known for its commitment to innovation, employing advanced technology to enhance market efficiency and transparency. It also focuses on delivering a secure and reliable trading environment, evidenced by its robust risk management practices. ASX is a key player in the Australian financial landscape and actively participates in global financial markets. The company's mission is to empower the financial community through efficient trading solutions and to contribute to the overall economic growth of Australia. Besides its core exchange operations, ASX provides various services such as clearing, settlement, and market data services, ensuring comprehensive support for market participants. ASX is also committed to corporate responsibility, focusing on sustainability and community engagement, which reflects its dedication to fostering a prosperous future for all stakeholders.",
+    "industry": [
+        "Financial Services",
+        "Stock Exchange"
+    ],
+    "headquarters": "Sydney, Australia",
+    "founded": "1987",
+    "website": "https://www.asx.com.au",
+    "ceo": "Dominique Caron",
+    "social_media": {
+        "twitter": "https://twitter.com/ASX",
+        "linkedin": "https://www.linkedin.com/company/asx-limited/"
+    },
+    "investor_relations": "https://www.asx.com.au/investors/investor-relations.htm",
+    "key_executives": [
+        {
+            "name": "Dominique Caron",
+            "position": "CEO"
+        },
+        {
+            "name": "Peter Hiom",
+            "position": "Deputy CEO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equities",
+            "products": [
+                "Australian Stocks",
+                "Exchange-Traded Funds (ETFs)"
+            ]
+        },
+        {
+            "category": "Derivatives",
+            "products": [
+                "Options",
+                "Futures"
+            ]
+        },
+        {
+            "category": "Fixed Income",
+            "products": [
+                "Bonds",
+                "Treasury Bills"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ASX Limited | Australian Securities Exchange",
+        "meta_description": "Learn about ASX Limited, the operator of the Australian Securities Exchange, providing trading solutions for equities, derivatives, and fixed income securities.",
+        "keywords": [
+            "ASX",
+            "Australian Securities Exchange",
+            "Stock Exchange",
+            "Financial Services",
+            "Equities",
+            "Derivatives"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is ASX Limited?",
+            "answer": "ASX Limited operates the Australian Securities Exchange, providing a platform for trading various financial products."
+        },
+        {
+            "question": "Who is the CEO of ASX?",
+            "answer": "Dominique Caron is the CEO of ASX Limited."
+        },
+        {
+            "question": "Where is ASX headquartered?",
+            "answer": "ASX is headquartered in Sydney, Australia."
+        },
+        {
+            "question": "What products does ASX offer?",
+            "answer": "ASX offers equities, derivatives, and fixed income products, including stocks, options, and bonds."
+        },
+        {
+            "question": "When was ASX founded?",
+            "answer": "ASX was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "CBOE",
+        "ICE",
+        "LSE"
+    ],
+    "related_stocks": [
+        "AMP",
+        "WBC",
+        "CBA",
+        "NAB"
+    ]
+}

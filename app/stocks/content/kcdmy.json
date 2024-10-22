@@ -1,0 +1,97 @@
+{
+    "ticker": "KCDMY",
+    "name": "Kraft Heinz Company",
+    "description": "The Kraft Heinz Company is one of the largest food and beverage companies in the world, formed in 2015 through the merger of Kraft Foods Group and H.J. Heinz Company. Headquartered in Chicago, Illinois, Kraft Heinz boasts a diverse portfolio of iconic brands, including Kraft, Heinz, Philadelphia, Oscar Mayer, and many others. The company is dedicated to delivering high-quality food products that meet the evolving tastes and preferences of consumers. With a strong emphasis on sustainability, Kraft Heinz is committed to reducing its environmental impact and promoting responsible sourcing practices. The company's innovation strategy focuses on product development that caters to health-conscious consumers, including organic and reduced-sugar options. Kraft Heinz also emphasizes strategic partnerships and acquisitions to enhance its market presence and expand its product offerings. The mission of Kraft Heinz is to leverage its scale and expertise to serve customers and consumers with quality products while driving long-term growth and shareholder value.",
+    "industry": [
+        "Food and Beverage"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "2015",
+    "website": "https://www.kraftheinzcompany.com",
+    "ceo": "Miguel Patricio",
+    "social_media": {
+        "twitter": "https://twitter.com/KraftHeinzCo",
+        "linkedin": "https://www.linkedin.com/company/kraft-heinz-company/"
+    },
+    "investor_relations": "https://ir.kraftheinzcompany.com",
+    "key_executives": [
+        {
+            "name": "Miguel Patricio",
+            "position": "CEO"
+        },
+        {
+            "name": "Paulo Bas\u00edlio",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Condiments",
+            "products": [
+                "Heinz Ketchup",
+                "Heinz Mustard",
+                "Miracle Whip"
+            ]
+        },
+        {
+            "category": "Cheeses",
+            "products": [
+                "Philadelphia Cream Cheese",
+                "Kraft Singles"
+            ]
+        },
+        {
+            "category": "Meals",
+            "products": [
+                "Oscar Mayer Hot Dogs",
+                "Kraft Mac & Cheese"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kraft Heinz Company | Leading Food and Beverage Company",
+        "meta_description": "Explore Kraft Heinz Company, a global leader in food and beverages. Discover our iconic brands, commitment to sustainability, and delicious product offerings.",
+        "keywords": [
+            "Kraft Heinz",
+            "Food and Beverage",
+            "Ketchup",
+            "Mac & Cheese",
+            "Sustainability",
+            "Condiments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Kraft Heinz known for?",
+            "answer": "Kraft Heinz is known for its wide range of food and beverage products, including condiments, cheeses, and meals."
+        },
+        {
+            "question": "Who is the CEO of Kraft Heinz?",
+            "answer": "Miguel Patricio is the CEO of Kraft Heinz Company."
+        },
+        {
+            "question": "Where is Kraft Heinz headquartered?",
+            "answer": "Kraft Heinz is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What are Kraft Heinz's main products?",
+            "answer": "Kraft Heinz's main products include Heinz Ketchup, Kraft Mac & Cheese, Philadelphia Cream Cheese, and Oscar Mayer Hot Dogs."
+        },
+        {
+            "question": "When was Kraft Heinz founded?",
+            "answer": "Kraft Heinz was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "PEP",
+        "GIS",
+        "CPB",
+        "SJM"
+    ],
+    "related_stocks": [
+        "KO",
+        "BUD",
+        "MDLZ",
+        "CAG"
+    ]
+}

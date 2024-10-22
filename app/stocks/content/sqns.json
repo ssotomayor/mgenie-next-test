@@ -1,0 +1,91 @@
+{
+    "ticker": "SQNS",
+    "name": "Sequans Communications S.A.",
+    "description": "Sequans Communications S.A. is a leading provider of 4G LTE and 5G cellular semiconductor solutions for massive IoT and broadband applications. Founded in 2003 and headquartered in Paris, France, Sequans is dedicated to enabling reliable and efficient wireless connectivity for various industries, including smart cities, automotive, wearable devices, and industrial applications. The company's innovative technology includes its proprietary baseband and RF solutions, which support a wide range of applications from low-power wide-area networks (LPWAN) to high-speed broadband devices. Sequans' product portfolio features a variety of LTE and 5G modules, enabling customers to design and deploy solutions that meet the increasing demand for connected devices in an evolving digital landscape. With a strong emphasis on research and development, Sequans continues to advance its technologies to support the growing needs of its clients and to drive the global adoption of IoT solutions. The company's mission is to lead the market in connectivity solutions, helping customers to create new revenue streams and improve operational efficiency through seamless communication.",
+    "industry": [
+        "Semiconductors",
+        "Telecommunications"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "2003",
+    "website": "https://www.sequans.com",
+    "ceo": "Georges Karam",
+    "social_media": {
+        "twitter": "https://twitter.com/Sequans",
+        "linkedin": "https://www.linkedin.com/company/sequans-communications/"
+    },
+    "investor_relations": "https://www.sequans.com/investors",
+    "key_executives": [
+        {
+            "name": "Georges Karam",
+            "position": "CEO"
+        },
+        {
+            "name": "David McCulloch",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/david-mcculloch-4b0b0b/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "4G LTE Solutions",
+            "products": [
+                "LTE-M Modules",
+                "NB-IoT Modules"
+            ]
+        },
+        {
+            "category": "5G Solutions",
+            "products": [
+                "5G NR Modules"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sequans Communications | 4G LTE and 5G Cellular Solutions",
+        "meta_description": "Explore Sequans Communications, a leader in 4G LTE and 5G cellular semiconductor solutions for IoT and broadband applications.",
+        "keywords": [
+            "Sequans",
+            "4G LTE",
+            "5G",
+            "IoT",
+            "Semiconductors",
+            "Wireless Connectivity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sequans Communications do?",
+            "answer": "Sequans Communications provides 4G LTE and 5G cellular semiconductor solutions for IoT and broadband applications."
+        },
+        {
+            "question": "Who is the CEO of Sequans?",
+            "answer": "Georges Karam is the CEO of Sequans Communications S.A."
+        },
+        {
+            "question": "Where is Sequans headquartered?",
+            "answer": "Sequans is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Sequans' main products?",
+            "answer": "Sequans' main products include LTE-M modules, NB-IoT modules, and 5G NR modules."
+        },
+        {
+            "question": "When was Sequans founded?",
+            "answer": "Sequans was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "QCOM",
+        "MRVL",
+        "SWKS"
+    ],
+    "related_stocks": [
+        "AVGO",
+        "TXN",
+        "INTC",
+        "AMD"
+    ]
+}

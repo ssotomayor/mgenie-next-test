@@ -1,0 +1,92 @@
+{
+    "ticker": "CMCAW",
+    "name": "Comcast Corporation",
+    "description": "Comcast Corporation is a global media and technology company that connects people to moments that matter. Founded in 1963 by Ralph Roberts, Comcast has grown into one of the largest telecommunications and media conglomerates, primarily known for its cable television services, high-speed internet, and phone services. The company operates through various segments, including Comcast Cable, which provides residential and business services, and NBCUniversal, which encompasses film, television, and theme parks. Comcast is committed to delivering innovative technologies and content, ensuring that customers enjoy a consistent and high-quality experience across platforms. The company's Xfinity brand is synonymous with high-speed internet and advanced television services, including the Xfinity X1 platform, which integrates live TV, on-demand content, and streaming applications. Comcast is also heavily invested in the development of next-generation broadband and wireless technologies, aiming to enhance connectivity and accessibility for all. With a focus on social responsibility, Comcast actively participates in community initiatives and aims to bridge the digital divide through its Internet Essentials program, which provides low-cost internet access to low-income households. Overall, Comcast Corporation continues to shape the future of media and communications while maintaining a strong commitment to its customers and communities.",
+    "industry": [
+        "Telecommunications",
+        "Media"
+    ],
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "founded": "1963",
+    "website": "https://www.comcast.com",
+    "ceo": "Brian L. Roberts",
+    "social_media": {
+        "twitter": "https://twitter.com/Comcast",
+        "linkedin": "https://www.linkedin.com/company/comcast",
+        "youtube": "https://www.youtube.com/user/comcast"
+    },
+    "investor_relations": "https://www.cmcsa.com/investors",
+    "key_executives": [
+        {
+            "name": "Brian L. Roberts",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Michael J. Cavanagh",
+            "position": "Vice Chairman and CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cable Services",
+            "products": [
+                "Xfinity TV",
+                "Xfinity Internet",
+                "Xfinity Voice"
+            ]
+        },
+        {
+            "category": "Media and Entertainment",
+            "products": [
+                "NBCUniversal",
+                "Universal Pictures",
+                "Television Networks"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Comcast Corporation | Media and Technology Solutions",
+        "meta_description": "Explore Comcast Corporation, a leader in media and technology. Discover its innovative products, services, and commitment to connecting communities.",
+        "keywords": [
+            "Comcast",
+            "Telecommunications",
+            "Cable Services",
+            "Media",
+            "Xfinity",
+            "NBCUniversal"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Comcast offer?",
+            "answer": "Comcast offers cable television, high-speed internet, and phone services through its Xfinity brand."
+        },
+        {
+            "question": "Who is the CEO of Comcast?",
+            "answer": "Brian L. Roberts is the Chairman and CEO of Comcast Corporation."
+        },
+        {
+            "question": "Where is Comcast headquartered?",
+            "answer": "Comcast is headquartered in Philadelphia, Pennsylvania, USA."
+        },
+        {
+            "question": "What is the Xfinity brand?",
+            "answer": "Xfinity is Comcast's brand for its cable television, internet, and phone services."
+        },
+        {
+            "question": "When was Comcast founded?",
+            "answer": "Comcast was founded in 1963."
+        }
+    ],
+    "competitors": [
+        "T",
+        "VZ",
+        "DIS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NFLX",
+        "GOOGL",
+        "AMZN"
+    ]
+}

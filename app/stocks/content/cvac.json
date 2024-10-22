@@ -1,0 +1,88 @@
+{
+    "ticker": "CVAC",
+    "name": "CureVac N.V.",
+    "description": "CureVac N.V. is a global biopharmaceutical company that specializes in the development of mRNA-based therapeutics and vaccines. Founded in 2000 and headquartered in T\u00fcbingen, Germany, CureVac aims to unlock the full potential of mRNA technology to treat and prevent diseases, including cancer and infectious diseases. The company gained significant attention for its COVID-19 vaccine candidate, which was part of the global effort to combat the pandemic. CureVac's proprietary mRNA technology platform allows for the precise design and production of mRNA molecules, enabling the body to utilize its own cellular machinery to produce therapeutic proteins. This innovative approach opens new avenues for the treatment of various diseases, including personalized cancer therapies that aim to stimulate the immune system to attack tumors. CureVac is committed to advancing its pipeline of mRNA-based products, which includes candidates for infectious diseases and oncology. The company collaborates with global partners, academic institutions, and pharmaceutical companies to accelerate the development and commercialization of its therapies. CureVac's mission is to revolutionize medicine through mRNA technology, providing patients with effective and safe treatment options.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "T\u00fcbingen, Germany",
+    "founded": "2000",
+    "website": "https://www.curevac.com",
+    "ceo": "Franz-Werner Haas",
+    "social_media": {
+        "twitter": "https://twitter.com/curevac",
+        "linkedin": "https://www.linkedin.com/company/curevac/"
+    },
+    "investor_relations": "https://ir.curevac.com",
+    "key_executives": [
+        {
+            "name": "Franz-Werner Haas",
+            "position": "CEO"
+        },
+        {
+            "name": "Marion L. C. H. P. Schmid",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "CVnCoV (COVID-19 Vaccine)",
+                "CV8102 (Cancer Vaccine)"
+            ]
+        },
+        {
+            "category": "Therapeutics",
+            "products": [
+                "mRNA-based Cancer Therapies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CureVac N.V. | Pioneering mRNA Technology for Therapeutics",
+        "meta_description": "Explore CureVac N.V., a leader in mRNA-based therapeutics and vaccines. Learn about their innovative approach to medicine and ongoing research.",
+        "keywords": [
+            "CureVac",
+            "mRNA Technology",
+            "Biotechnology",
+            "Vaccines",
+            "Cancer Therapy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is CureVac known for?",
+            "answer": "CureVac is known for its development of mRNA-based therapeutics and vaccines, particularly its COVID-19 vaccine candidate."
+        },
+        {
+            "question": "Who is the CEO of CureVac?",
+            "answer": "Franz-Werner Haas is the CEO of CureVac N.V."
+        },
+        {
+            "question": "Where is CureVac headquartered?",
+            "answer": "CureVac is headquartered in T\u00fcbingen, Germany."
+        },
+        {
+            "question": "What are CureVac's main products?",
+            "answer": "CureVac's main products include its COVID-19 vaccine candidate CVnCoV and mRNA-based cancer therapies."
+        },
+        {
+            "question": "When was CureVac founded?",
+            "answer": "CureVac was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "BNTX",
+        "NVAX",
+        "PFE"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "GILD",
+        "AMGN",
+        "ABBV"
+    ]
+}

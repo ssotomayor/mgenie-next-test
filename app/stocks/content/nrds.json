@@ -1,0 +1,93 @@
+{
+    "ticker": "NRDS",
+    "name": "Nerds On Site Inc.",
+    "description": "Nerds On Site Inc. is a leading technology services company that provides IT solutions to small and medium-sized businesses. Founded in 1995, the company has built a strong reputation for delivering reliable, personalized, and affordable technology support. With a commitment to empowering clients through technology, Nerds On Site offers a comprehensive suite of services including managed IT services, cloud solutions, cybersecurity, and data backup and recovery. The company's team of skilled technicians is dedicated to ensuring that organizations can leverage technology to enhance their operations, improve productivity, and secure their data. Operating across Canada and the United States, Nerds On Site prides itself on its customer-centric approach, offering tailored solutions that meet the unique needs of each business. The company's mission is to provide exceptional technology services that help businesses thrive in an increasingly digital world, making technology accessible and understandable for everyone.",
+    "industry": [
+        "Information Technology",
+        "Managed Services"
+    ],
+    "headquarters": "London, Ontario, Canada",
+    "founded": "1995",
+    "website": "https://www.nerdsonsite.com",
+    "ceo": "Andrew McRae",
+    "social_media": {
+        "twitter": "https://twitter.com/nerdsonsite",
+        "linkedin": "https://www.linkedin.com/company/nerds-on-site"
+    },
+    "investor_relations": "https://www.nerdsonsite.com/investors",
+    "key_executives": [
+        {
+            "name": "Andrew McRae",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian K. Hogg",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Managed IT Services",
+            "products": [
+                "Remote IT Support",
+                "On-Site IT Support"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "Cloud Backup",
+                "Cloud Hosting"
+            ]
+        },
+        {
+            "category": "Cybersecurity",
+            "products": [
+                "Network Security",
+                "Data Protection"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nerds On Site Inc. | Your IT Solutions Partner",
+        "meta_description": "Discover Nerds On Site Inc., a leading provider of IT solutions for small and medium-sized businesses. Learn about our services, mission, and how we can help your business thrive.",
+        "keywords": [
+            "Nerds On Site",
+            "IT Services",
+            "Managed IT",
+            "Cloud Solutions",
+            "Cybersecurity",
+            "Data Backup"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Nerds On Site offer?",
+            "answer": "Nerds On Site offers managed IT services, cloud solutions, cybersecurity, and data backup and recovery."
+        },
+        {
+            "question": "Where is Nerds On Site headquartered?",
+            "answer": "Nerds On Site is headquartered in London, Ontario, Canada."
+        },
+        {
+            "question": "Who is the CEO of Nerds On Site?",
+            "answer": "Andrew McRae is the CEO of Nerds On Site Inc."
+        },
+        {
+            "question": "When was Nerds On Site founded?",
+            "answer": "Nerds On Site was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "GOOGL",
+        "ADBE",
+        "CRM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "IBM",
+        "ORCL",
+        "NOW"
+    ]
+}

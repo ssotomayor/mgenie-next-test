@@ -1,0 +1,89 @@
+{
+    "ticker": "IBOT",
+    "name": "iRobot Corporation",
+    "description": "iRobot Corporation is a global leader in the design and manufacturing of consumer robots, with a primary focus on creating innovative products that simplify daily household tasks. Founded in 1990 by Rodney Brooks, Helen Greiner, and Colin Angle, iRobot gained fame for its Roomba vacuum cleaner, which revolutionized home cleaning by introducing autonomous robotic technology. Beyond the Roomba, iRobot offers a range of smart home devices, including the Braava series of mopping robots and the Terra lawn mowing robot. The company leverages advanced artificial intelligence, machine learning, and sophisticated navigation systems to enhance the user experience and improve the efficiency of its robotic solutions. iRobot is committed to continuous innovation and sustainability, aiming to make life easier for consumers while advancing the field of robotics. Through its products, iRobot not only focuses on cleaning but also strives to create a smarter, more connected home environment. The company's mission is to inspire and empower people to do more with their time by providing them with intelligent solutions to everyday chores.",
+    "industry": [
+        "Consumer Electronics",
+        "Robotics"
+    ],
+    "headquarters": "Bedford, Massachusetts, USA",
+    "founded": "1990",
+    "website": "https://www.irobot.com",
+    "ceo": "Colin Angle",
+    "social_media": {
+        "twitter": "https://twitter.com/iRobot",
+        "linkedin": "https://www.linkedin.com/company/irobot/",
+        "instagram": "https://www.instagram.com/irobot/"
+    },
+    "investor_relations": "https://investor.irobot.com",
+    "key_executives": [
+        {
+            "name": "Colin Angle",
+            "position": "CEO"
+        },
+        {
+            "name": "Ashley R. R. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Home Robots",
+            "products": [
+                "Roomba",
+                "Braava"
+            ]
+        },
+        {
+            "category": "Outdoor Robots",
+            "products": [
+                "Terra"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "iRobot Corporation | Innovating Home Robotics",
+        "meta_description": "Explore iRobot Corporation, a leader in consumer robotics, known for its innovative products like Roomba and Braava. Discover how iRobot simplifies home cleaning.",
+        "keywords": [
+            "iRobot",
+            "Roomba",
+            "Braava",
+            "Consumer Robotics",
+            "Smart Home Devices"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is iRobot known for?",
+            "answer": "iRobot is known for its innovative robotic vacuum cleaners, particularly the Roomba."
+        },
+        {
+            "question": "Who is the CEO of iRobot?",
+            "answer": "Colin Angle is the CEO of iRobot Corporation."
+        },
+        {
+            "question": "Where is iRobot headquartered?",
+            "answer": "iRobot is headquartered in Bedford, Massachusetts, USA."
+        },
+        {
+            "question": "What are iRobot's main products?",
+            "answer": "iRobot's main products include the Roomba vacuum cleaner and the Braava mopping robot."
+        },
+        {
+            "question": "When was iRobot founded?",
+            "answer": "iRobot was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "GOOGL",
+        "AMZN",
+        "TGT",
+        "BBY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NFLX",
+        "NVDA"
+    ]
+}

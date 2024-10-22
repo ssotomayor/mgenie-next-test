@@ -1,0 +1,98 @@
+{
+    "ticker": "FANUY",
+    "name": "FANUC Corporation",
+    "description": "FANUC Corporation is a leading Japanese multinational company that specializes in automation and robotics solutions. Founded in 1956, FANUC has established itself as a pioneer in the field of industrial automation, providing innovative technology that enhances manufacturing efficiency and productivity. The company is best known for its advanced robotic systems, CNC (Computer Numerical Control) machines, and factory automation solutions. FANUC's robots are utilized in various industries, including automotive, electronics, and consumer goods, enabling companies to streamline operations and reduce production costs. The company is also a major player in the development of Artificial Intelligence (AI) and Machine Learning technologies, which are increasingly being integrated into its products to enhance their capabilities. With a commitment to quality, reliability, and customer satisfaction, FANUC continues to lead the way in the automation industry, helping businesses adapt to the challenges of modern manufacturing. Its mission is to provide cutting-edge solutions that improve production processes and contribute to the advancement of society through innovative technology.",
+    "industry": [
+        "Industrial Automation",
+        "Robotics"
+    ],
+    "headquarters": "Minamiku, Yamanashi, Japan",
+    "founded": "1956",
+    "website": "https://www.fanuc.co.jp/en/",
+    "ceo": "Yoshiharu Inaba",
+    "social_media": {
+        "twitter": "https://twitter.com/FANUC_Corp",
+        "linkedin": "https://www.linkedin.com/company/fanuc-corporation/"
+    },
+    "investor_relations": "https://www.fanuc.co.jp/en/ir/index.html",
+    "key_executives": [
+        {
+            "name": "Yoshiharu Inaba",
+            "position": "CEO"
+        },
+        {
+            "name": "Shinji Takeda",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Robots",
+            "products": [
+                "Industrial Robots",
+                "Collaborative Robots"
+            ]
+        },
+        {
+            "category": "CNC Systems",
+            "products": [
+                "CNC Controllers",
+                "Servo Motors"
+            ]
+        },
+        {
+            "category": "Factory Automation",
+            "products": [
+                "Automation Software",
+                "Machine Vision"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FANUC Corporation | Industrial Automation and Robotics Solutions",
+        "meta_description": "Explore FANUC Corporation, a leader in industrial automation and robotics. Discover our innovative products and commitment to enhancing manufacturing efficiency.",
+        "keywords": [
+            "FANUC",
+            "Industrial Automation",
+            "Robotics",
+            "CNC Machines",
+            "Automation Solutions",
+            "Artificial Intelligence",
+            "Factory Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does FANUC specialize in?",
+            "answer": "FANUC specializes in industrial automation, robotics, and CNC technology."
+        },
+        {
+            "question": "Who is the CEO of FANUC?",
+            "answer": "Yoshiharu Inaba is the CEO of FANUC Corporation."
+        },
+        {
+            "question": "Where is FANUC headquartered?",
+            "answer": "FANUC is headquartered in Minamiku, Yamanashi, Japan."
+        },
+        {
+            "question": "What are FANUC's main products?",
+            "answer": "FANUC's main products include industrial robots, CNC systems, and factory automation solutions."
+        },
+        {
+            "question": "When was FANUC founded?",
+            "answer": "FANUC was founded in 1956."
+        }
+    ],
+    "competitors": [
+        "ABB",
+        "OTIS",
+        "KUKA",
+        "MRCY"
+    ],
+    "related_stocks": [
+        "HON",
+        "RTX",
+        "LMT",
+        "BA"
+    ]
+}

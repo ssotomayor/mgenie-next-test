@@ -1,0 +1,93 @@
+{
+    "ticker": "DUK",
+    "name": "Duke Energy Corporation",
+    "description": "Duke Energy Corporation is one of the largest electric power holding companies in the United States, serving approximately 7.7 million customers across six states. Founded in 1904 and headquartered in Charlotte, North Carolina, Duke Energy operates in two main segments: Electric Utilities and Infrastructure, and Gas Utilities and Infrastructure. The company generates, transmits, distributes, and sells electricity and natural gas, making it a key player in the energy sector. Duke Energy is committed to providing reliable and affordable energy while also focusing on sustainability and reducing carbon emissions. The company has set ambitious goals to transition to more renewable energy sources, including solar and wind power, and aims to achieve net-zero carbon emissions by 2050. Duke Energy invests in smart grid technology and energy efficiency programs to enhance service reliability and customer satisfaction. With a rich history of innovation, Duke Energy continues to evolve in response to changing energy needs and environmental challenges, promoting a cleaner energy future through responsible resource management and community engagement.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.duke-energy.com",
+    "ceo": "Lynn J. Good",
+    "social_media": {
+        "twitter": "https://twitter.com/DukeEnergy",
+        "linkedin": "https://www.linkedin.com/company/duke-energy/",
+        "facebook": "https://www.facebook.com/DukeEnergy",
+        "instagram": "https://www.instagram.com/dukeenergy/"
+    },
+    "investor_relations": "https://investors.duke-energy.com",
+    "key_executives": [
+        {
+            "name": "Lynn J. Good",
+            "position": "CEO"
+        },
+        {
+            "name": "Steven K. Young",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Utility Services",
+            "products": [
+                "Residential Electricity",
+                "Commercial Electricity",
+                "Industrial Electricity"
+            ]
+        },
+        {
+            "category": "Natural Gas Services",
+            "products": [
+                "Residential Natural Gas",
+                "Commercial Natural Gas"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Duke Energy Corporation | Reliable Energy Solutions",
+        "meta_description": "Learn about Duke Energy Corporation, a leading energy company committed to providing reliable electricity and natural gas services while focusing on sustainability and innovation.",
+        "keywords": [
+            "Duke Energy",
+            "Electric Utility",
+            "Natural Gas",
+            "Renewable Energy",
+            "Sustainability",
+            "Smart Grid"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Duke Energy provide?",
+            "answer": "Duke Energy provides electric utility services and natural gas services to residential, commercial, and industrial customers."
+        },
+        {
+            "question": "Who is the CEO of Duke Energy?",
+            "answer": "Lynn J. Good is the CEO of Duke Energy Corporation."
+        },
+        {
+            "question": "Where is Duke Energy headquartered?",
+            "answer": "Duke Energy is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are Duke Energy's sustainability goals?",
+            "answer": "Duke Energy aims to achieve net-zero carbon emissions by 2050 and is investing in renewable energy sources."
+        },
+        {
+            "question": "When was Duke Energy founded?",
+            "answer": "Duke Energy was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "SO",
+        "EXC",
+        "AEP",
+        "ED"
+    ],
+    "related_stocks": [
+        "NEE",
+        "D",
+        "XEL",
+        "SRE"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "BIDU",
+    "name": "Baidu, Inc.",
+    "description": "Baidu, Inc. is a leading Chinese multinational technology company specializing in Internet-related services and products, and artificial intelligence (AI). Founded in 2000 by Robin Li and Eric Xu, Baidu is often referred to as 'China's Google' due to its dominant search engine, which is the most popular in China. The company has expanded its offerings beyond search to include a diverse range of services such as Baidu Maps, Baidu Baike (an online encyclopedia), and Baidu Cloud, which provides cloud computing services. In recent years, Baidu has made significant investments in AI technology, focusing on areas such as deep learning, natural language processing, and autonomous driving. The company is a pioneer in the development of self-driving technology through its Apollo project, which collaborates with various partners to advance autonomous vehicle solutions. Baidu's mission is to make the complex world of information accessible and useful through innovative technology, and it plays a crucial role in the digital economy of China. With a strong emphasis on research and development, Baidu continues to push the boundaries of technology to enhance user experience and drive growth in the AI sector.",
+    "industry": [
+        "Technology",
+        "Internet Services",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "2000",
+    "website": "https://www.baidu.com",
+    "ceo": "Robin Li",
+    "social_media": {
+        "twitter": "https://twitter.com/Baidu",
+        "linkedin": "https://www.linkedin.com/company/baidu",
+        "youtube": "https://www.youtube.com/user/BaiduVideo"
+    },
+    "investor_relations": "https://ir.baidu.com",
+    "key_executives": [
+        {
+            "name": "Robin Li",
+            "position": "CEO"
+        },
+        {
+            "name": "Ruiwen Zhang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Search Engine",
+            "products": [
+                "Baidu Search"
+            ]
+        },
+        {
+            "category": "AI and Cloud Services",
+            "products": [
+                "Baidu Cloud",
+                "Apollo (Autonomous Driving)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baidu, Inc. | Leading AI and Internet Services in China",
+        "meta_description": "Explore Baidu, Inc., a leading technology company in China specializing in AI and Internet services. Discover Baidu's innovative products and its impact on the digital landscape.",
+        "keywords": [
+            "Baidu",
+            "Search Engine",
+            "Artificial Intelligence",
+            "Cloud Computing",
+            "Autonomous Driving",
+            "Robin Li"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Baidu known for?",
+            "answer": "Baidu is known for its search engine, AI technology, and cloud computing services."
+        },
+        {
+            "question": "Who is the CEO of Baidu?",
+            "answer": "Robin Li is the CEO of Baidu, Inc."
+        },
+        {
+            "question": "Where is Baidu headquartered?",
+            "answer": "Baidu is headquartered in Beijing, China."
+        },
+        {
+            "question": "What are Baidu's main products?",
+            "answer": "Baidu's main products include Baidu Search, Baidu Cloud, and autonomous driving solutions through Apollo."
+        },
+        {
+            "question": "When was Baidu founded?",
+            "answer": "Baidu was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "BIDU",
+        "TCEHY",
+        "GOOG",
+        "JD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "NFLX"
+    ]
+}

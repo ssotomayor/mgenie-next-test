@@ -1,0 +1,93 @@
+{
+    "ticker": "FORD",
+    "name": "Ford Motor Company",
+    "description": "Ford Motor Company is a global automotive industry leader based in Dearborn, Michigan, founded by Henry Ford on June 16, 1903. Renowned for revolutionizing the automobile industry, Ford pioneered assembly line production techniques that made cars affordable for the average consumer. Today, Ford is committed to delivering a broad range of vehicles, including cars, trucks, SUVs, and electric vehicles (EVs), while focusing on sustainability and innovation. The company\u2019s popular models include the Ford F-150, the best-selling vehicle in the U.S. for decades, and the Mustang, an iconic sports car. Ford is actively shifting towards electrification, with significant investments in EV technology, including the development of the all-electric Ford Mustang Mach-E and the upcoming Ford F-150 Lightning, an electric version of its flagship truck. In addition to vehicles, Ford provides mobility solutions and is engaged in connected vehicle technologies to enhance user experience and safety. With a vision of becoming the world\u2019s most trusted company, Ford is focused on sustainability efforts, aiming to achieve carbon neutrality globally by 2050. The company continues to innovate in areas such as autonomous driving, artificial intelligence, and smart mobility, striving to build a better and more sustainable future for transportation worldwide.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Dearborn, Michigan, USA",
+    "founded": "1903",
+    "website": "https://www.ford.com",
+    "ceo": "Jim Farley",
+    "social_media": {
+        "twitter": "https://twitter.com/Ford",
+        "linkedin": "https://www.linkedin.com/company/fordmotorcompany/",
+        "instagram": "https://www.instagram.com/ford/"
+    },
+    "investor_relations": "https://investors.ford.com",
+    "key_executives": [
+        {
+            "name": "Jim Farley",
+            "position": "CEO"
+        },
+        {
+            "name": "John Lawler",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vehicles",
+            "products": [
+                "Ford F-150",
+                "Ford Mustang",
+                "Ford Explorer",
+                "Ford Escape"
+            ]
+        },
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "Ford Mustang Mach-E",
+                "Ford F-150 Lightning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ford Motor Company | Innovation in Automotive and Electric Vehicles",
+        "meta_description": "Explore Ford Motor Company, a leader in the automotive industry committed to innovation, sustainability, and electric vehicle development. Discover Ford's rich history and groundbreaking products.",
+        "keywords": [
+            "Ford",
+            "Automotive",
+            "Electric Vehicles",
+            "Sustainability",
+            "Ford F-150",
+            "Mustang",
+            "Electric Truck"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Ford known for?",
+            "answer": "Ford is known for its automobiles, including the F-150 truck and Mustang sports car, as well as its innovations in manufacturing and electric vehicles."
+        },
+        {
+            "question": "Who is the CEO of Ford?",
+            "answer": "Jim Farley is the CEO of Ford Motor Company."
+        },
+        {
+            "question": "Where is Ford headquartered?",
+            "answer": "Ford is headquartered in Dearborn, Michigan, USA."
+        },
+        {
+            "question": "What are Ford's main products?",
+            "answer": "Ford's main products include the Ford F-150, Ford Mustang, Ford Explorer, and electric vehicles like the Mustang Mach-E and F-150 Lightning."
+        },
+        {
+            "question": "When was Ford founded?",
+            "answer": "Ford was founded on June 16, 1903."
+        }
+    ],
+    "competitors": [
+        "GM",
+        "FCAU",
+        "TSLA",
+        "RIVN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

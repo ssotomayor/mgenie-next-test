@@ -1,0 +1,92 @@
+{
+    "ticker": "BCE",
+    "name": "BCE Inc.",
+    "description": "BCE Inc. is a leading telecommunications and media company in Canada, providing a wide range of services including wireless, wireline, internet, television, and media solutions. Founded in 1880, BCE has evolved significantly from its origins as a telephone company to become a diversified communications powerhouse. The company operates through its flagship brands, Bell Canada and Bell Media, serving millions of customers across the country. BCE is committed to enhancing the customer experience through innovation and technology, offering high-speed internet, cutting-edge mobile services, and a variety of content across various platforms. The company's media division, Bell Media, operates some of Canada\u2019s most popular television networks, radio stations, and digital media properties, including CTV and TSN. BCE is dedicated to corporate social responsibility and sustainability, focusing on reducing its environmental impact while also contributing to community development initiatives. Through its continued investments in infrastructure and technology, BCE aims to strengthen its position as a leader in the rapidly evolving communications landscape, ensuring that Canadians stay connected and informed.",
+    "industry": [
+        "Telecommunications",
+        "Media"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1880",
+    "website": "https://www.bce.ca",
+    "ceo": "Mirko Bibic",
+    "social_media": {
+        "twitter": "https://twitter.com/BCE_CA",
+        "linkedin": "https://www.linkedin.com/company/bell-canada/"
+    },
+    "investor_relations": "https://www.bce.ca/investors",
+    "key_executives": [
+        {
+            "name": "Mirko Bibic",
+            "position": "CEO"
+        },
+        {
+            "name": "Glen LeBlanc",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications Services",
+            "products": [
+                "Wireless Services",
+                "Internet Services",
+                "Television Services"
+            ]
+        },
+        {
+            "category": "Media",
+            "products": [
+                "CTV",
+                "TSN",
+                "Bell Media Radio"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BCE Inc. | Leading Telecommunications and Media Company",
+        "meta_description": "Explore BCE Inc., Canada\u2019s leading telecommunications and media company, providing innovative services and content to millions of Canadians.",
+        "keywords": [
+            "BCE",
+            "Telecommunications",
+            "Media",
+            "Bell Canada",
+            "CTV",
+            "Wireless Services",
+            "Internet Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does BCE provide?",
+            "answer": "BCE provides telecommunications services including wireless, internet, and television, as well as media content through Bell Media."
+        },
+        {
+            "question": "Who is the CEO of BCE?",
+            "answer": "Mirko Bibic is the CEO of BCE Inc."
+        },
+        {
+            "question": "Where is BCE headquartered?",
+            "answer": "BCE is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "What are BCE's main brands?",
+            "answer": "BCE's main brands include Bell Canada and Bell Media."
+        },
+        {
+            "question": "When was BCE founded?",
+            "answer": "BCE was founded in 1880."
+        }
+    ],
+    "competitors": [
+        "T",
+        "VZ",
+        "CMCSA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "TSLA"
+    ]
+}

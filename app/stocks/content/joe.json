@@ -1,0 +1,97 @@
+{
+    "ticker": "JOE",
+    "name": "St. Joe Company",
+    "description": "The St. Joe Company is a diversified real estate development company based in the Florida Panhandle, focusing on residential, commercial, and resort properties. Founded in 1936, the company has a rich history and has played a significant role in the development of the region. St. Joe owns a substantial amount of land in Northwest Florida, including beachfront property along the Gulf of Mexico, which it develops into thriving communities and resorts. The company aims to create sustainable, master-planned communities that enhance the quality of life for residents and visitors alike. St. Joe is also involved in commercial real estate, including retail, office, and mixed-use developments, catering to both local residents and tourists. The company\u2019s strategic approach combines land acquisition, development, and real estate sales to maximize value and drive growth. St. Joe is committed to environmental stewardship and sustainable development practices, ensuring that its projects harmonize with the natural surroundings. With a vision for a vibrant future, St. Joe continues to invest in and shape the landscape of the Florida Panhandle, contributing to the region's economic growth and attractiveness as a destination.",
+    "industry": [
+        "Real Estate",
+        "Development"
+    ],
+    "headquarters": "Watersound, Florida, USA",
+    "founded": "1936",
+    "website": "https://www.joe.com",
+    "ceo": "Jorge Gonzalez",
+    "social_media": {
+        "twitter": "https://twitter.com/stjoeco",
+        "linkedin": "https://www.linkedin.com/company/st-joe-company/"
+    },
+    "investor_relations": "https://ir.joe.com",
+    "key_executives": [
+        {
+            "name": "Jorge Gonzalez",
+            "position": "CEO"
+        },
+        {
+            "name": "Jerry W. McCoy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Residential Development",
+            "products": [
+                "Communities",
+                "Single-family homes"
+            ]
+        },
+        {
+            "category": "Commercial Real Estate",
+            "products": [
+                "Retail spaces",
+                "Office buildings"
+            ]
+        },
+        {
+            "category": "Resort Development",
+            "products": [
+                "Beachfront properties",
+                "Vacation resorts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "St. Joe Company | Real Estate Development in Florida Panhandle",
+        "meta_description": "Explore St. Joe Company, a leader in real estate development in the Florida Panhandle, focusing on residential, commercial, and resort properties with a commitment to sustainable practices.",
+        "keywords": [
+            "St. Joe Company",
+            "Real Estate",
+            "Florida Panhandle",
+            "Residential Development",
+            "Commercial Real Estate",
+            "Resort Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does St. Joe Company do?",
+            "answer": "St. Joe Company is involved in real estate development, focusing on residential, commercial, and resort properties in the Florida Panhandle."
+        },
+        {
+            "question": "Who is the CEO of St. Joe Company?",
+            "answer": "Jorge Gonzalez is the CEO of St. Joe Company."
+        },
+        {
+            "question": "Where is St. Joe Company headquartered?",
+            "answer": "St. Joe Company is headquartered in Watersound, Florida, USA."
+        },
+        {
+            "question": "What types of properties does St. Joe develop?",
+            "answer": "St. Joe develops residential communities, commercial real estate, and beachfront resort properties."
+        },
+        {
+            "question": "When was St. Joe Company founded?",
+            "answer": "St. Joe Company was founded in 1936."
+        }
+    ],
+    "competitors": [
+        "LEN",
+        "DHI",
+        "PHM",
+        "TOL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

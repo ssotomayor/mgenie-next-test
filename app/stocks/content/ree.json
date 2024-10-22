@@ -1,0 +1,81 @@
+{
+    "ticker": "REE",
+    "name": "REE Automotive Ltd.",
+    "description": "REE Automotive Ltd. is a revolutionary technology company that is transforming the automotive industry with its innovative electric vehicle (EV) platforms. Founded in 2019 and headquartered in Tel Aviv, Israel, REE is focused on reimagining the design and architecture of electric vehicles. The company's core product is its proprietary REEcorner technology, which integrates critical vehicle components such as steering, braking, suspension, and powertrain into a compact corner module. This unique design allows for greater flexibility in vehicle design and maximizes interior space, enabling manufacturers to create a variety of electric vehicles tailored to specific needs. With a commitment to sustainability and innovation, REE aims to enable a new generation of EVs that are not only efficient and eco-friendly but also adaptable for a range of applications including logistics, passenger transport, and autonomous vehicles. The company is actively collaborating with various automotive manufacturers and mobility service providers to accelerate the adoption of its platform, positioning itself as a key player in the rapidly evolving EV landscape. REE's vision is to lead the charge towards sustainable transportation solutions that meet the demands of modern urban environments.",
+    "industry": [
+        "Automotive",
+        "Technology"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2019",
+    "website": "https://ree.auto",
+    "ceo": "Daniel Barel",
+    "social_media": {
+        "twitter": "https://twitter.com/reeautomotive",
+        "linkedin": "https://www.linkedin.com/company/ree-automotive/"
+    },
+    "investor_relations": "https://investors.ree.auto",
+    "key_executives": [
+        {
+            "name": "Daniel Barel",
+            "position": "CEO"
+        },
+        {
+            "name": "Avi Katz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicle Platforms",
+            "products": [
+                "REEcorner"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "REE Automotive Ltd. | Revolutionizing Electric Vehicle Design",
+        "meta_description": "Discover REE Automotive Ltd., a leader in electric vehicle technology with its innovative REEcorner platform. Explore the future of sustainable transportation.",
+        "keywords": [
+            "REE Automotive",
+            "Electric Vehicles",
+            "EV Platforms",
+            "Sustainable Transportation",
+            "REEcorner"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is REE Automotive known for?",
+            "answer": "REE Automotive is known for its innovative electric vehicle platforms and the REEcorner technology."
+        },
+        {
+            "question": "Who is the CEO of REE Automotive?",
+            "answer": "Daniel Barel is the CEO of REE Automotive Ltd."
+        },
+        {
+            "question": "Where is REE Automotive headquartered?",
+            "answer": "REE Automotive is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What products does REE Automotive offer?",
+            "answer": "REE Automotive offers the REEcorner, which integrates various vehicle components into a compact module."
+        },
+        {
+            "question": "When was REE Automotive founded?",
+            "answer": "REE Automotive was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "TSLA",
+        "F",
+        "GM",
+        "NIO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

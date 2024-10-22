@@ -1,0 +1,89 @@
+{
+    "ticker": "INBKZ",
+    "name": "Investors Bank",
+    "description": "Investors Bank is a full-service bank headquartered in Short Hills, New Jersey. Established in 1926, the bank has grown to provide a wide range of financial services to individuals, families, and businesses throughout New Jersey and New York City. Investors Bank focuses on delivering personalized banking experiences, including checking and savings accounts, mortgages, home equity loans, and commercial lending solutions. With a strong commitment to community engagement, the bank actively supports local initiatives and organizations, aiming to improve the quality of life in the neighborhoods it serves. Investors Bank prides itself on its customer-centric approach, leveraging technology to enhance banking convenience while maintaining a personal touch. The bank's mission is to help customers achieve their financial goals while building lasting relationships based on trust and transparency. Additionally, Investors Bank is dedicated to sustainable banking practices, ensuring that its operations contribute positively to the environment and community.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Short Hills, New Jersey, USA",
+    "founded": "1926",
+    "website": "https://www.investorsbank.com",
+    "ceo": "Kevin Cummings",
+    "social_media": {
+        "twitter": "https://twitter.com/InvestorsBank",
+        "linkedin": "https://www.linkedin.com/company/investors-bank/"
+    },
+    "investor_relations": "https://www.investorsbank.com/investors",
+    "key_executives": [
+        {
+            "name": "Kevin Cummings",
+            "position": "CEO"
+        },
+        {
+            "name": "Victor M. Santoro",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Home Equity Loans"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Commercial Loans",
+                "Business Checking",
+                "Treasury Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Investors Bank | Personalized Banking Services in NJ and NYC",
+        "meta_description": "Explore Investors Bank, a leading financial institution offering a range of services including personal and business banking, mortgages, and more. Experience personalized banking in New Jersey and New York City.",
+        "keywords": [
+            "Investors Bank",
+            "Banking",
+            "Financial Services",
+            "Mortgages",
+            "Commercial Loans",
+            "Personal Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Investors Bank offer?",
+            "answer": "Investors Bank offers personal banking, business banking, mortgages, and various financial services."
+        },
+        {
+            "question": "Where is Investors Bank headquartered?",
+            "answer": "Investors Bank is headquartered in Short Hills, New Jersey, USA."
+        },
+        {
+            "question": "Who is the CEO of Investors Bank?",
+            "answer": "Kevin Cummings is the CEO of Investors Bank."
+        },
+        {
+            "question": "When was Investors Bank founded?",
+            "answer": "Investors Bank was founded in 1926."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "WFC",
+        "USB",
+        "PNC"
+    ],
+    "related_stocks": [
+        "BAC",
+        "C",
+        "GS",
+        "MS"
+    ]
+}

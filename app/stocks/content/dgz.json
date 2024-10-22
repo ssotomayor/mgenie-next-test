@@ -1,0 +1,94 @@
+{
+    "ticker": "DGZ",
+    "name": "Deutsche Bank AG",
+    "description": "Deutsche Bank AG is a leading global investment bank and financial services company, headquartered in Frankfurt, Germany. Founded in 1870, Deutsche Bank offers a wide range of financial products and services, including investment banking, asset management, private banking, and retail banking. As one of the world's largest financial institutions, the bank operates in over 70 countries and serves millions of clients, from individuals to corporations and governments. Deutsche Bank is known for its strong expertise in capital markets, corporate finance, and risk management, providing clients with innovative solutions tailored to their financial needs. The bank has been a key player in facilitating international trade, investment, and financial transactions, and is committed to maintaining the highest standards of compliance and risk management. Additionally, Deutsche Bank is focused on sustainability and responsible banking practices, integrating environmental, social, and governance (ESG) criteria into its operations. With a rich history and a robust global presence, Deutsche Bank continues to evolve and adapt to the changing landscape of the financial industry, striving to provide exceptional value to its clients while upholding its commitment to ethical standards.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking"
+    ],
+    "headquarters": "Frankfurt, Germany",
+    "founded": "1870",
+    "website": "https://www.db.com",
+    "ceo": "Christian Sewing",
+    "social_media": {
+        "twitter": "https://twitter.com/DeutscheBank",
+        "linkedin": "https://www.linkedin.com/company/deutsche-bank"
+    },
+    "investor_relations": "https://www.db.com/ir",
+    "key_executives": [
+        {
+            "name": "Christian Sewing",
+            "position": "CEO"
+        },
+        {
+            "name": "James von Moltke",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Advisory Services",
+                "Debt Capital Markets",
+                "Equity Capital Markets"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Mutual Funds",
+                "Private Wealth Management"
+            ]
+        },
+        {
+            "category": "Retail Banking",
+            "products": [
+                "Personal Accounts",
+                "Loans and Mortgages"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Deutsche Bank AG | Global Investment Banking and Financial Services",
+        "meta_description": "Explore Deutsche Bank AG, a leading global investment bank offering a wide range of financial products and services. Discover their commitment to innovation and sustainability.",
+        "keywords": [
+            "Deutsche Bank",
+            "Investment Banking",
+            "Financial Services",
+            "Asset Management",
+            "Christian Sewing",
+            "Corporate Finance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Deutsche Bank provide?",
+            "answer": "Deutsche Bank provides investment banking, asset management, private banking, and retail banking services."
+        },
+        {
+            "question": "Who is the CEO of Deutsche Bank?",
+            "answer": "Christian Sewing is the CEO of Deutsche Bank AG."
+        },
+        {
+            "question": "Where is Deutsche Bank headquartered?",
+            "answer": "Deutsche Bank is headquartered in Frankfurt, Germany."
+        },
+        {
+            "question": "When was Deutsche Bank founded?",
+            "answer": "Deutsche Bank was founded in 1870."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "C",
+        "GS"
+    ],
+    "related_stocks": [
+        "UBS",
+        "CS",
+        "MS",
+        "WFC"
+    ]
+}

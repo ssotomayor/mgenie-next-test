@@ -1,0 +1,96 @@
+{
+    "ticker": "CRWD",
+    "name": "CrowdStrike Holdings, Inc.",
+    "description": "CrowdStrike Holdings, Inc. is a global cybersecurity leader that provides cutting-edge solutions to protect organizations from sophisticated cyber threats. Founded in 2011 by George Kurtz, Dmitri Alperovitch, and Gregg Marston, CrowdStrike revolutionized the way organizations defend against cyber attacks by utilizing its cloud-native Falcon platform. This advanced platform leverages artificial intelligence (AI) to enable real-time threat detection, prevention, and response across endpoints and cloud workloads. CrowdStrike's comprehensive suite of security services includes endpoint protection, threat intelligence, and incident response, empowering businesses to mitigate risks and safeguard their digital assets. The company's innovative approach and commitment to proactive threat hunting have positioned it as a trusted partner for many Fortune 100 companies, government agencies, and small to medium-sized enterprises. With a focus on continuous improvement and adaptation to the evolving threat landscape, CrowdStrike remains at the forefront of the cybersecurity industry, delivering solutions that address both current and emerging threats.",
+    "industry": [
+        "Cybersecurity",
+        "Technology"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "2011",
+    "website": "https://www.crowdstrike.com",
+    "ceo": "George Kurtz",
+    "social_media": {
+        "twitter": "https://twitter.com/CrowdStrike",
+        "linkedin": "https://www.linkedin.com/company/crowdstrike/"
+    },
+    "investor_relations": "https://ir.crowdstrike.com",
+    "key_executives": [
+        {
+            "name": "George Kurtz",
+            "position": "CEO"
+        },
+        {
+            "name": "Burt Podbere",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Endpoint Protection",
+            "products": [
+                "Falcon Prevent",
+                "Falcon Insight",
+                "Falcon OverWatch"
+            ]
+        },
+        {
+            "category": "Threat Intelligence",
+            "products": [
+                "Falcon Intelligence"
+            ]
+        },
+        {
+            "category": "Incident Response",
+            "products": [
+                "Falcon Complete"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CrowdStrike Holdings, Inc. | Leading Cybersecurity Solutions",
+        "meta_description": "Explore CrowdStrike, a leader in cybersecurity solutions with its innovative Falcon platform that protects organizations from cyber threats in real-time.",
+        "keywords": [
+            "CrowdStrike",
+            "Cybersecurity",
+            "Endpoint Protection",
+            "Threat Intelligence",
+            "George Kurtz",
+            "Falcon Platform"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is CrowdStrike known for?",
+            "answer": "CrowdStrike is known for its advanced cybersecurity solutions, particularly its Falcon platform for endpoint protection."
+        },
+        {
+            "question": "Who is the CEO of CrowdStrike?",
+            "answer": "George Kurtz is the CEO of CrowdStrike Holdings, Inc."
+        },
+        {
+            "question": "Where is CrowdStrike headquartered?",
+            "answer": "CrowdStrike is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are CrowdStrike's main products?",
+            "answer": "CrowdStrike's main products include Falcon Prevent, Falcon Insight, and Falcon OverWatch."
+        },
+        {
+            "question": "When was CrowdStrike founded?",
+            "answer": "CrowdStrike was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "ZS",
+        "FTNT",
+        "PANW",
+        "S"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

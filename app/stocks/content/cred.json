@@ -1,0 +1,90 @@
+{
+    "ticker": "CRED",
+    "name": "Credo Technology Group Holding Ltd.",
+    "description": "Credo Technology Group Holding Ltd. is a leading provider of advanced connectivity solutions for data-centric applications. Founded in 2018 and headquartered in San Jose, California, Credo focuses on developing innovative products that enhance data transfer and processing speeds, particularly in high-performance computing, data centers, and telecommunications. The company's proprietary technology includes high-speed optical interconnects and advanced signal processing solutions that facilitate faster and more efficient data handling. Credo's mission is to address the growing demands for bandwidth and performance in an increasingly connected world, enabling customers to achieve greater efficiency and reliability in their operations. With a commitment to research and development, Credo continuously pushes the boundaries of technology, aiming to provide cutting-edge solutions that meet the evolving needs of their customers. The company serves a diverse range of industries, including hyperscale cloud providers, network equipment manufacturers, and enterprise customers, positioning itself as a vital player in the global technology landscape.",
+    "industry": [
+        "Technology",
+        "Telecommunications",
+        "Networking"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2018",
+    "website": "https://www.credotech.com",
+    "ceo": "Bill Brennan",
+    "social_media": {
+        "twitter": "https://twitter.com/CredoTech",
+        "linkedin": "https://www.linkedin.com/company/credotech/"
+    },
+    "investor_relations": "https://ir.credotech.com",
+    "key_executives": [
+        {
+            "name": "Bill Brennan",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark O'Connell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Optical Interconnects",
+            "products": [
+                "High-Speed Optical Transceivers",
+                "Optical Cables"
+            ]
+        },
+        {
+            "category": "Signal Processing Solutions",
+            "products": [
+                "Data Integrity Solutions",
+                "High-Performance Switches"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Credo Technology Group | Advanced Connectivity Solutions",
+        "meta_description": "Explore Credo Technology Group, a leader in advanced connectivity solutions for data-centric applications, providing high-speed optical interconnects and innovative signal processing technologies.",
+        "keywords": [
+            "Credo Technology",
+            "Connectivity Solutions",
+            "Optical Interconnects",
+            "Data Centers",
+            "High-Speed Data Transfer"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Credo Technology specialize in?",
+            "answer": "Credo Technology specializes in advanced connectivity solutions, including optical interconnects and signal processing technologies."
+        },
+        {
+            "question": "Who is the CEO of Credo Technology?",
+            "answer": "Bill Brennan is the CEO of Credo Technology Group Holding Ltd."
+        },
+        {
+            "question": "Where is Credo Technology headquartered?",
+            "answer": "Credo Technology is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What industries does Credo Technology serve?",
+            "answer": "Credo Technology serves industries such as telecommunications, data centers, and high-performance computing."
+        },
+        {
+            "question": "When was Credo Technology founded?",
+            "answer": "Credo Technology was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "MXL",
+        "CIEN",
+        "NPTN",
+        "AMBA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+    ]
+}

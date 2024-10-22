@@ -1,0 +1,100 @@
+{
+    "ticker": "AGCO",
+    "name": "AGCO Corporation",
+    "description": "AGCO Corporation is a global leader in the design, manufacture, and distribution of agricultural equipment and solutions. Founded in 1990, AGCO is committed to providing farmers with innovative products and services to enhance their productivity and efficiency. The company offers a wide range of equipment, including tractors, combines, and implements, under well-known brands such as Massey Ferguson, Fendt, Valtra, and GSI. AGCO's strong focus on technology and sustainability drives the development of precision agriculture solutions, which help farmers optimize their operations and minimize environmental impact. With a presence in over 140 countries, AGCO serves a diverse customer base, from small family farms to large agribusinesses, ensuring they have the tools needed to meet the challenges of modern agriculture. AGCO's mission is to deliver high-quality, reliable equipment that enables farmers to succeed in a rapidly changing agricultural landscape.",
+    "industry": [
+        "Agriculture",
+        "Manufacturing"
+    ],
+    "headquarters": "Duluth, Georgia, USA",
+    "founded": "1990",
+    "website": "https://www.agcocorp.com",
+    "ceo": "Eric Hansotia",
+    "social_media": {
+        "twitter": "https://twitter.com/AGCOCorp",
+        "linkedin": "https://www.linkedin.com/company/agco-corporation/",
+        "instagram": "https://www.instagram.com/agcocorp/",
+        "youtube": "https://www.youtube.com/user/agcocorp"
+    },
+    "investor_relations": "https://investors.agcocorp.com",
+    "key_executives": [
+        {
+            "name": "Eric Hansotia",
+            "position": "CEO"
+        },
+        {
+            "name": "Cathy F. G. Choi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Tractors",
+            "products": [
+                "Massey Ferguson Tractors",
+                "Fendt Tractors",
+                "Valtra Tractors"
+            ]
+        },
+        {
+            "category": "Harvesting Equipment",
+            "products": [
+                "Combines",
+                "Forage Harvesters"
+            ]
+        },
+        {
+            "category": "Tillage and Planting",
+            "products": [
+                "Plows",
+                "Seeders"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AGCO Corporation | Agricultural Equipment and Solutions",
+        "meta_description": "Explore AGCO Corporation, a leader in agricultural equipment manufacturing, providing innovative solutions for modern farming. Discover our brands, products, and commitment to sustainability.",
+        "keywords": [
+            "AGCO",
+            "Agricultural Equipment",
+            "Farming Solutions",
+            "Massey Ferguson",
+            "Fendt",
+            "Valtra"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AGCO specialize in?",
+            "answer": "AGCO specializes in agricultural equipment and solutions, including tractors, combines, and implements."
+        },
+        {
+            "question": "Who is the CEO of AGCO?",
+            "answer": "Eric Hansotia is the CEO of AGCO Corporation."
+        },
+        {
+            "question": "Where is AGCO headquartered?",
+            "answer": "AGCO is headquartered in Duluth, Georgia, USA."
+        },
+        {
+            "question": "What are AGCO's main product brands?",
+            "answer": "AGCO's main product brands include Massey Ferguson, Fendt, Valtra, and GSI."
+        },
+        {
+            "question": "When was AGCO founded?",
+            "answer": "AGCO was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "CNHI",
+        "DE",
+        "LNN",
+        "TWI"
+    ],
+    "related_stocks": [
+        "CAT",
+        "DE",
+        "CNHI",
+        "TWI"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "FICO",
+    "name": "FICO (Fair Isaac Corporation)",
+    "description": "FICO (Fair Isaac Corporation) is a global leader in AI-driven analytics and decision management technology. Founded in 1956, FICO is best known for its pioneering work in credit scoring, which has transformed the financial industry by enabling lenders to make informed decisions. The company's flagship FICO Score is utilized by thousands of financial institutions to evaluate the creditworthiness of consumers. Beyond credit scoring, FICO provides a comprehensive suite of analytics and software solutions that help organizations optimize their operations, manage risk, detect fraud, and improve customer engagement. With a strong focus on innovation, FICO leverages advanced machine learning and artificial intelligence to empower businesses across various sectors, including financial services, insurance, healthcare, and telecommunications. The company's mission is to enable better decisions through a combination of data, analytics, and technology, fostering trust and security in financial transactions. FICO is committed to ethical AI practices and is actively involved in shaping the future of responsible artificial intelligence in decision-making processes.",
+    "industry": [
+        "Technology",
+        "Financial Services"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1956",
+    "website": "https://www.fico.com",
+    "ceo": "William J. Lansing",
+    "social_media": {
+        "twitter": "https://twitter.com/FICO",
+        "linkedin": "https://www.linkedin.com/company/fair-isaac-corporation/"
+    },
+    "investor_relations": "https://investors.fico.com",
+    "key_executives": [
+        {
+            "name": "William J. Lansing",
+            "position": "CEO"
+        },
+        {
+            "name": "Rohit Gupta",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analytics and Decision Management",
+            "products": [
+                "FICO Score",
+                "FICO Decision Management Suite",
+                "FICO Falcon Fraud Manager"
+            ]
+        },
+        {
+            "category": "Risk Management",
+            "products": [
+                "FICO Risk Scorecard",
+                "FICO Credit Risk Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FICO | AI-Driven Analytics and Decision Management",
+        "meta_description": "Explore FICO, a leader in AI-driven analytics and decision management technology, known for its credit scoring solutions and innovative software.",
+        "keywords": [
+            "FICO",
+            "Credit Scoring",
+            "Decision Management",
+            "Analytics",
+            "Artificial Intelligence",
+            "Fraud Detection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is FICO known for?",
+            "answer": "FICO is known for its credit scoring systems and advanced analytics solutions for decision management."
+        },
+        {
+            "question": "Who is the CEO of FICO?",
+            "answer": "William J. Lansing is the CEO of FICO."
+        },
+        {
+            "question": "Where is FICO headquartered?",
+            "answer": "FICO is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are FICO's main products?",
+            "answer": "FICO's main products include the FICO Score and various analytics and risk management solutions."
+        },
+        {
+            "question": "When was FICO founded?",
+            "answer": "FICO was founded in 1956."
+        }
+    ],
+    "competitors": [
+        "VRSN",
+        "SYF",
+        "EQH",
+        "ADBE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

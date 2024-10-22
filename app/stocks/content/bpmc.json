@@ -1,0 +1,81 @@
+{
+    "ticker": "BPMC",
+    "name": "Blueprint Medicines Corporation",
+    "description": "Blueprint Medicines Corporation is a biotechnology company dedicated to transforming the lives of patients with genomically defined cancers and rare diseases through targeted therapies. Founded in 2008 and headquartered in Cambridge, Massachusetts, the company focuses on developing innovative medicines by leveraging its deep understanding of the genetic and molecular drivers of disease. Blueprint Medicines has made significant advancements in precision medicine, particularly with its lead product candidate, AYVAKIT (avapritinib), which is designed to treat patients with specific mutations in the KIT gene, a key driver in certain cancers. The company aims to address unmet medical needs by developing therapies that target the underlying genetic mutations that drive disease progression. Blueprint Medicines is also advancing its pipeline of investigational therapies for other indications, including acute myeloid leukemia and systemic mastocytosis, showcasing its commitment to precision oncology. With a robust scientific foundation and a patient-centric approach, Blueprint Medicines seeks to deliver breakthrough therapies that provide meaningful benefits to patients, thereby reshaping the landscape of cancer treatment.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "2008",
+    "website": "https://www.blueprintmedicines.com",
+    "ceo": "Amit R. Rathi",
+    "social_media": {
+        "twitter": "https://twitter.com/BlueprintMed",
+        "linkedin": "https://www.linkedin.com/company/blueprint-medicines/"
+    },
+    "investor_relations": "https://investors.blueprintmedicines.com",
+    "key_executives": [
+        {
+            "name": "Amit R. Rathi",
+            "position": "CEO"
+        },
+        {
+            "name": "Katherine A. High",
+            "position": "CMO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Targeted Therapies",
+            "products": [
+                "AYVAKIT (avapritinib)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Blueprint Medicines Corporation | Precision Oncology",
+        "meta_description": "Learn about Blueprint Medicines Corporation, a leader in targeted therapies for genomically defined cancers and rare diseases. Explore their innovative drug candidates and commitment to precision medicine.",
+        "keywords": [
+            "Blueprint Medicines",
+            "Biotechnology",
+            "Precision Oncology",
+            "Targeted Therapies",
+            "Cancer Treatment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Blueprint Medicines known for?",
+            "answer": "Blueprint Medicines is known for its targeted therapies for genomically defined cancers and rare diseases."
+        },
+        {
+            "question": "Who is the CEO of Blueprint Medicines?",
+            "answer": "Amit R. Rathi is the CEO of Blueprint Medicines Corporation."
+        },
+        {
+            "question": "Where is Blueprint Medicines headquartered?",
+            "answer": "Blueprint Medicines is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What is AYVAKIT?",
+            "answer": "AYVAKIT (avapritinib) is a targeted therapy developed by Blueprint Medicines for patients with specific mutations in the KIT gene."
+        },
+        {
+            "question": "When was Blueprint Medicines founded?",
+            "answer": "Blueprint Medicines was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "EXEL",
+        "CLVS",
+        "RGEN",
+        "SGEN"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "BIIB",
+        "GILD",
+        "VRTX"
+    ]
+}

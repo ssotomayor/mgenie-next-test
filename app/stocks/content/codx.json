@@ -1,0 +1,78 @@
+{
+    "ticker": "CODX",
+    "name": "Co-Diagnostics, Inc.",
+    "description": "Co-Diagnostics, Inc. is a molecular diagnostics company focused on the development of innovative diagnostic solutions for various infectious diseases, including COVID-19. Founded in 2013 and headquartered in Salt Lake City, Utah, Co-Diagnostics utilizes its proprietary CoPrimer technology to create highly accurate and efficient tests. This technology enables the design of tests that minimize the risk of cross-contamination and false positives, making it an essential tool in the field of molecular diagnostics. In response to the COVID-19 pandemic, the company developed its flagship product, the Logix Smart COVID-19 Test, which has been widely adopted in both clinical and research settings. Co-Diagnostics is committed to improving global health outcomes through accessible and reliable diagnostic solutions. The company is also expanding its product line to include tests for other infectious diseases and conditions, showcasing its dedication to innovation in the healthcare sector. With a strong focus on research and development, Co-Diagnostics aims to remain at the forefront of the diagnostics industry, addressing emerging health threats with cutting-edge technology and expertise.",
+    "industry": [
+        "Healthcare",
+        "Biotechnology"
+    ],
+    "headquarters": "Salt Lake City, Utah, USA",
+    "founded": "2013",
+    "website": "https://www.co-diagnostics.com",
+    "ceo": "Dwight Egan",
+    "social_media": {
+        "twitter": "https://twitter.com/codx",
+        "linkedin": "https://www.linkedin.com/company/co-diagnostics-inc/"
+    },
+    "investor_relations": "https://www.co-diagnostics.com/investors",
+    "key_executives": [
+        {
+            "name": "Dwight Egan",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark H. Hinton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Molecular Diagnostics",
+            "products": [
+                "Logix Smart COVID-19 Test",
+                "Logix Smart Influenza Test"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Co-Diagnostics, Inc. | Innovative Molecular Diagnostics",
+        "meta_description": "Explore Co-Diagnostics, Inc., a leader in molecular diagnostics committed to improving global health outcomes through innovative testing solutions.",
+        "keywords": [
+            "Co-Diagnostics",
+            "Molecular Diagnostics",
+            "COVID-19 Testing",
+            "Infectious Diseases",
+            "Diagnostic Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Co-Diagnostics specialize in?",
+            "answer": "Co-Diagnostics specializes in molecular diagnostics, particularly tests for infectious diseases."
+        },
+        {
+            "question": "What is the flagship product of Co-Diagnostics?",
+            "answer": "The flagship product is the Logix Smart COVID-19 Test."
+        },
+        {
+            "question": "Where is Co-Diagnostics headquartered?",
+            "answer": "Co-Diagnostics is headquartered in Salt Lake City, Utah, USA."
+        },
+        {
+            "question": "When was Co-Diagnostics founded?",
+            "answer": "Co-Diagnostics was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "ABT",
+        "RMD",
+        "QGEN",
+        "BAX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMGN",
+        "GILD"
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "ticker": "BR",
+    "name": "Berkshire Hathaway Inc.",
+    "description": "Berkshire Hathaway Inc. is a multinational conglomerate holding company led by Warren Buffett, one of the most renowned investors in the world. Founded in 1839, the company initially focused on textiles but has since transformed into a diversified enterprise with investments in a wide range of industries. Berkshire Hathaway owns a variety of subsidiaries, including well-known companies such as GEICO (insurance), BNSF Railway (transportation), and Dairy Queen (restaurants). The company has a unique investment philosophy that emphasizes long-term value creation and a disciplined approach to capital allocation. Berkshire Hathaway is also known for its significant equity investments in publicly traded companies, including major stakes in Apple, Coca-Cola, and American Express. The company's annual shareholder meeting, often referred to as the 'Woodstock for Capitalists,' attracts thousands of investors and enthusiasts from around the globe. Berkshire Hathaway's commitment to ethical business practices and its decentralized management structure allow its subsidiaries to operate independently while benefiting from the financial strength and reputation of the parent company. With a market capitalization exceeding $700 billion, Berkshire Hathaway is consistently listed among the largest companies in the world, and its influence extends across various sectors of the economy.",
+    "industry": [
+        "Conglomerate",
+        "Insurance",
+        "Railroad",
+        "Retail"
+    ],
+    "headquarters": "Omaha, Nebraska, USA",
+    "founded": "1839",
+    "website": "https://www.berkshirehathaway.com",
+    "ceo": "Warren Buffett",
+    "social_media": {
+        "twitter": "https://twitter.com/Berkshire",
+        "linkedin": "https://www.linkedin.com/company/berkshire-hathaway/"
+    },
+    "investor_relations": "https://www.berkshirehathaway.com/ir.html",
+    "key_executives": [
+        {
+            "name": "Warren Buffett",
+            "position": "CEO"
+        },
+        {
+            "name": "Charlie Munger",
+            "position": "Vice Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance",
+            "products": [
+                "GEICO",
+                "Berkshire Hathaway Reinsurance"
+            ]
+        },
+        {
+            "category": "Railroad",
+            "products": [
+                "BNSF Railway"
+            ]
+        },
+        {
+            "category": "Retail",
+            "products": [
+                "Dairy Queen",
+                "See's Candies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Berkshire Hathaway Inc. | Diversified Holding Company",
+        "meta_description": "Explore Berkshire Hathaway Inc., a leading conglomerate led by Warren Buffett. Discover its diverse portfolio, investment philosophy, and subsidiaries.",
+        "keywords": [
+            "Berkshire Hathaway",
+            "Warren Buffett",
+            "Insurance",
+            "Investment",
+            "Conglomerate",
+            "BNSF Railway",
+            "GEICO"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Berkshire Hathaway known for?",
+            "answer": "Berkshire Hathaway is known for its diversified investments across various industries, including insurance, retail, and transportation."
+        },
+        {
+            "question": "Who is the CEO of Berkshire Hathaway?",
+            "answer": "Warren Buffett is the CEO of Berkshire Hathaway Inc."
+        },
+        {
+            "question": "Where is Berkshire Hathaway headquartered?",
+            "answer": "Berkshire Hathaway is headquartered in Omaha, Nebraska, USA."
+        },
+        {
+            "question": "What are Berkshire Hathaway's main subsidiaries?",
+            "answer": "Berkshire Hathaway's main subsidiaries include GEICO, BNSF Railway, and Dairy Queen."
+        },
+        {
+            "question": "When was Berkshire Hathaway founded?",
+            "answer": "Berkshire Hathaway was founded in 1839."
+        }
+    ],
+    "competitors": [
+        "AIG",
+        "ALL",
+        "TRV",
+        "MET"
+    ],
+    "related_stocks": [
+        "JPM",
+        "V",
+        "AAPL",
+        "KO"
+    ]
+}

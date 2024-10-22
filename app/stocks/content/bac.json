@@ -1,0 +1,101 @@
+{
+    "ticker": "BAC",
+    "name": "Bank of America Corporation",
+    "description": "Bank of America Corporation is one of the largest financial institutions in the United States, providing a full range of banking, investment, asset management, and other financial and risk management products and services. Headquartered in Charlotte, North Carolina, Bank of America serves approximately 66 million consumer and small business clients through a nationwide network of approximately 4,300 banking centers and over 16,000 ATMs. The bank offers various services, including consumer banking, corporate banking, investment banking, and wealth management. With a strong focus on technology and innovation, Bank of America has developed advanced digital banking solutions, enhancing the customer experience through mobile and online banking platforms. The company is committed to sustainable growth and investing in initiatives that promote environmental sustainability, economic mobility, and community development. Through its various programs and initiatives, Bank of America strives to make a positive impact on the communities it serves, while also delivering value to its shareholders and clients. With a history dating back to 1904, Bank of America continues to adapt to the changing financial landscape, providing cutting-edge solutions to meet the evolving needs of its diverse client base.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.bankofamerica.com",
+    "ceo": "Brian Moynihan",
+    "social_media": {
+        "twitter": "https://twitter.com/BankofAmerica",
+        "linkedin": "https://www.linkedin.com/company/bank-of-america/"
+    },
+    "investor_relations": "https://investor.bankofamerica.com",
+    "key_executives": [
+        {
+            "name": "Brian Moynihan",
+            "position": "CEO"
+        },
+        {
+            "name": "Alison Rose",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions",
+                "Debt and Equity Capital Markets",
+                "Advisory Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Management",
+                "Retirement Planning",
+                "Financial Advisory"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bank of America Corporation | Financial Services and Banking Solutions",
+        "meta_description": "Explore Bank of America Corporation, a leading financial institution offering banking, investment, and wealth management services. Discover how Bank of America is committed to serving its clients and communities.",
+        "keywords": [
+            "Bank of America",
+            "Banking",
+            "Financial Services",
+            "Investment Banking",
+            "Wealth Management",
+            "Consumer Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Bank of America offer?",
+            "answer": "Bank of America offers a wide range of services including consumer banking, investment banking, and wealth management."
+        },
+        {
+            "question": "Who is the CEO of Bank of America?",
+            "answer": "Brian Moynihan is the CEO of Bank of America Corporation."
+        },
+        {
+            "question": "Where is Bank of America headquartered?",
+            "answer": "Bank of America is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What are Bank of America's main products?",
+            "answer": "Bank of America's main products include checking and savings accounts, credit cards, mortgages, and investment services."
+        },
+        {
+            "question": "When was Bank of America founded?",
+            "answer": "Bank of America was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "WFC",
+        "C",
+        "GS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+    ]
+}

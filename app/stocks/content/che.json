@@ -1,0 +1,90 @@
+{
+    "ticker": "CHE",
+    "name": "Chemed Corporation",
+    "description": "Chemed Corporation is a diversified healthcare company that operates in two primary segments: VITAS Healthcare and Roto-Rooter. Founded in 1970 and headquartered in Cincinnati, Ohio, Chemed is dedicated to providing high-quality healthcare services, particularly in the hospice and plumbing sectors. VITAS Healthcare is one of the largest providers of hospice care in the United States, offering compassionate end-of-life care to patients and their families. With a focus on personalized care plans, VITAS aims to enhance the quality of life for those facing terminal illnesses. On the other hand, Roto-Rooter is a well-known plumbing and drain cleaning service, providing essential home and commercial services across North America. Chemed's commitment to quality and customer satisfaction has made it a leader in both industries. The company emphasizes innovation in healthcare delivery and service efficiency, leveraging advanced technologies to improve operational performance. With a strong mission to care for patients and provide reliable plumbing services, Chemed Corporation continues to grow and adapt to the evolving needs of the healthcare system and consumer demands. Chemed is publicly traded on the New York Stock Exchange, reflecting its strong financial performance and commitment to shareholder value.",
+    "industry": [
+        "Healthcare",
+        "Plumbing Services"
+    ],
+    "headquarters": "Cincinnati, Ohio, USA",
+    "founded": "1970",
+    "website": "https://www.chemed.com",
+    "ceo": "Kevin J. McNamara",
+    "social_media": {
+        "twitter": "https://twitter.com/ChemedCorp",
+        "linkedin": "https://www.linkedin.com/company/chemed-corporation/"
+    },
+    "investor_relations": "https://investors.chemed.com",
+    "key_executives": [
+        {
+            "name": "Kevin J. McNamara",
+            "position": "CEO"
+        },
+        {
+            "name": "David P. Williams",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Healthcare Services",
+            "products": [
+                "Hospice Care",
+                "Palliative Care"
+            ]
+        },
+        {
+            "category": "Plumbing Services",
+            "products": [
+                "Drain Cleaning",
+                "Plumbing Repairs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Chemed Corporation | Healthcare and Plumbing Services",
+        "meta_description": "Explore Chemed Corporation, a leader in hospice healthcare and plumbing services. Learn about our commitment to quality care and customer satisfaction.",
+        "keywords": [
+            "Chemed",
+            "Hospice Care",
+            "Healthcare Services",
+            "Plumbing Services",
+            "VITAS Healthcare",
+            "Roto-Rooter"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Chemed provide?",
+            "answer": "Chemed provides hospice care through VITAS Healthcare and plumbing services through Roto-Rooter."
+        },
+        {
+            "question": "Who is the CEO of Chemed Corporation?",
+            "answer": "The CEO of Chemed Corporation is Kevin J. McNamara."
+        },
+        {
+            "question": "Where is Chemed headquartered?",
+            "answer": "Chemed is headquartered in Cincinnati, Ohio, USA."
+        },
+        {
+            "question": "What is VITAS Healthcare?",
+            "answer": "VITAS Healthcare is a subsidiary of Chemed that offers hospice care services across the United States."
+        },
+        {
+            "question": "When was Chemed Corporation founded?",
+            "answer": "Chemed Corporation was founded in 1970."
+        }
+    ],
+    "competitors": [
+        "AMED",
+        "HCA",
+        "LHC",
+        "MCK"
+    ],
+    "related_stocks": [
+        "UNH",
+        "CVS",
+        "ABBV",
+        "JNJ"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "SMPL",
+    "name": "Simple Foods, Inc.",
+    "description": "Simple Foods, Inc. is a leading company in the food industry, focused on providing nutritious and wholesome food products that cater to health-conscious consumers. Founded in 2010, Simple Foods aims to simplify healthy eating by offering a range of products made from natural ingredients, free from artificial preservatives and additives. The company is recognized for its innovative approach to food production, utilizing sustainable practices and emphasizing transparency in its sourcing and manufacturing processes. Simple Foods offers a diverse portfolio that includes organic snacks, ready-to-eat meals, and plant-based products designed to meet the dietary needs of various consumer segments. The company's mission is to inspire individuals to lead healthier lives through accessible and delicious food options. Simple Foods is committed to sustainability, utilizing eco-friendly packaging and supporting local farmers and communities. With a growing presence in grocery stores and online marketplaces, Simple Foods continues to expand its reach and impact in the health food sector.",
+    "industry": [
+        "Food and Beverage",
+        "Health and Wellness"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.simplefoods.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/SimpleFoodsInc",
+        "instagram": "https://www.instagram.com/simplefoods/"
+    },
+    "investor_relations": "https://ir.simplefoods.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Snacks",
+            "products": [
+                "Organic Granola Bars",
+                "Nut Mixes"
+            ]
+        },
+        {
+            "category": "Meals",
+            "products": [
+                "Quinoa Bowls",
+                "Vegan Chili"
+            ]
+        },
+        {
+            "category": "Beverages",
+            "products": [
+                "Cold-Pressed Juices",
+                "Herbal Teas"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Simple Foods, Inc. | Nutritious and Wholesome Food Products",
+        "meta_description": "Discover Simple Foods, Inc., your go-to source for healthy and delicious food options. Explore our range of organic snacks, meals, and beverages.",
+        "keywords": [
+            "Simple Foods",
+            "Healthy Snacks",
+            "Organic Meals",
+            "Plant-Based Products",
+            "Nutritious Food"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of products does Simple Foods offer?",
+            "answer": "Simple Foods offers a variety of products, including organic snacks, ready-to-eat meals, and plant-based beverages."
+        },
+        {
+            "question": "Where is Simple Foods headquartered?",
+            "answer": "Simple Foods is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was Simple Foods founded?",
+            "answer": "Simple Foods was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "KIND",
+        "CLSK",
+        "OATS",
+        "HAIN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "COST",
+        "WMT",
+        "GIS"
+    ]
+}

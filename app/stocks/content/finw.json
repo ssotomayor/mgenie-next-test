@@ -1,0 +1,87 @@
+{
+    "ticker": "FINW",
+    "name": "FinWise Bank",
+    "description": "FinWise Bank is a community-focused bank that provides a range of financial services tailored to meet the needs of individuals and businesses. Established in 2015 and headquartered in Sandy, Utah, FinWise Bank has rapidly grown by leveraging innovative technology and a customer-centric approach. The bank offers a variety of products including personal loans, auto loans, mortgages, and commercial banking services. FinWise Bank is dedicated to serving its local communities, emphasizing financial education and responsible lending practices. The bank prides itself on its ability to provide personalized service and quick decision-making, making it an attractive choice for customers seeking both traditional and digital banking experiences. With a strong emphasis on transparency and trust, FinWise Bank aims to empower its customers to achieve their financial goals through accessible banking solutions. The bank\u2019s mission is to enhance the financial well-being of its clients while fostering economic growth in the communities it serves.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Sandy, Utah, USA",
+    "founded": "2015",
+    "website": "https://www.finwisebank.com",
+    "ceo": "Chad Wilcox",
+    "social_media": {
+        "twitter": "https://twitter.com/FinWiseBank",
+        "linkedin": "https://www.linkedin.com/company/finwise-bank",
+        "facebook": "https://www.facebook.com/FinWiseBank"
+    },
+    "investor_relations": "https://www.finwisebank.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Chad Wilcox",
+            "position": "CEO"
+        },
+        {
+            "name": "Kristin W. Kapp",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Personal Loans",
+                "Auto Loans",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Commercial Loans",
+                "Business Checking Accounts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FinWise Bank | Community-Centric Banking Solutions",
+        "meta_description": "Experience personalized banking with FinWise Bank. We offer a variety of financial products tailored for individuals and businesses in a community-focused environment.",
+        "keywords": [
+            "FinWise Bank",
+            "Banking",
+            "Personal Loans",
+            "Business Loans",
+            "Community Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does FinWise Bank offer?",
+            "answer": "FinWise Bank offers personal loans, auto loans, mortgages, and commercial banking services."
+        },
+        {
+            "question": "Who is the CEO of FinWise Bank?",
+            "answer": "Chad Wilcox is the CEO of FinWise Bank."
+        },
+        {
+            "question": "Where is FinWise Bank headquartered?",
+            "answer": "FinWise Bank is headquartered in Sandy, Utah, USA."
+        },
+        {
+            "question": "When was FinWise Bank founded?",
+            "answer": "FinWise Bank was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "WFC",
+        "JPM",
+        "USB",
+        "PNC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

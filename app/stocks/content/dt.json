@@ -1,0 +1,86 @@
+{
+    "ticker": "DT",
+    "name": "Dynatrace, Inc.",
+    "description": "Dynatrace, Inc. is a leading software intelligence company that provides a comprehensive platform designed to monitor and optimize the performance of applications and infrastructure. Founded in 2005 and headquartered in Waltham, Massachusetts, Dynatrace has established itself as a pioneer in the field of application performance management (APM). The company's innovative software solutions leverage artificial intelligence and machine learning to deliver real-time insights into application performance, user experience, and infrastructure health. Dynatrace's platform is used by organizations to enhance their digital transformation efforts, ensuring that applications run smoothly and efficiently in complex multi-cloud environments. With a focus on observability, Dynatrace enables businesses to proactively detect and resolve performance issues, thereby improving operational efficiency and enhancing customer satisfaction. The company's mission is to empower organizations to innovate faster, deliver exceptional digital experiences, and achieve greater business outcomes through actionable data and insights.",
+    "industry": [
+        "Software",
+        "Information Technology"
+    ],
+    "headquarters": "Waltham, Massachusetts, USA",
+    "founded": "2005",
+    "website": "https://www.dynatrace.com",
+    "ceo": "John Van Siclen",
+    "social_media": {
+        "twitter": "https://twitter.com/dynatrace",
+        "linkedin": "https://www.linkedin.com/company/dynatrace/"
+    },
+    "investor_relations": "https://investors.dynatrace.com",
+    "key_executives": [
+        {
+            "name": "John Van Siclen",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Tack",
+            "position": "SVP of Product Management"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Application Performance Management",
+            "products": [
+                "Dynatrace Software Intelligence Platform"
+            ]
+        },
+        {
+            "category": "Cloud Infrastructure Monitoring",
+            "products": [
+                "Dynatrace Cloud Monitoring"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Dynatrace, Inc. | Software Intelligence and Application Performance Management",
+        "meta_description": "Explore Dynatrace, Inc., a leader in software intelligence and application performance management. Learn about Dynatrace's innovative solutions and their impact on digital transformation.",
+        "keywords": [
+            "Dynatrace",
+            "Application Performance Management",
+            "Software Intelligence",
+            "Cloud Monitoring",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Dynatrace do?",
+            "answer": "Dynatrace provides a software intelligence platform for monitoring and optimizing application performance and user experience."
+        },
+        {
+            "question": "Who is the CEO of Dynatrace?",
+            "answer": "John Van Siclen is the CEO of Dynatrace, Inc."
+        },
+        {
+            "question": "Where is Dynatrace headquartered?",
+            "answer": "Dynatrace is headquartered in Waltham, Massachusetts, USA."
+        },
+        {
+            "question": "What are Dynatrace's main products?",
+            "answer": "Dynatrace's main product is the Dynatrace Software Intelligence Platform, which includes application performance management and cloud monitoring capabilities."
+        },
+        {
+            "question": "When was Dynatrace founded?",
+            "answer": "Dynatrace was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "APPD",
+        "NEWRE",
+        "SPLK"
+    ],
+    "related_stocks": [
+        "ADBE",
+        "MSFT",
+        "CRM",
+        "NOW"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "FND",
+    "name": "Floor & Decor Holdings, Inc.",
+    "description": "Floor & Decor Holdings, Inc. is a leading specialty retailer of hard surface flooring, offering a wide variety of products for both residential and commercial projects. Founded in 2000 and headquartered in Atlanta, Georgia, the company operates a chain of warehouse-format stores that provide an extensive selection of flooring, including tile, wood, laminate, and natural stone products, as well as related tools and accessories. Floor & Decor's unique business model combines an attractive in-store shopping experience with robust online capabilities, allowing customers to browse and purchase products conveniently. The company caters to both DIY customers and professional contractors, establishing a reputation for quality products at competitive prices. Floor & Decor is committed to providing exceptional customer service and an extensive product assortment, making it a go-to destination for flooring solutions. With its continual expansion and focus on innovative merchandising, Floor & Decor aims to capture a larger share of the growing hard surface flooring market, driven by trends in home improvement and commercial construction.",
+    "industry": [
+        "Retail",
+        "Home Improvement"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "2000",
+    "website": "https://www.flooranddecor.com",
+    "ceo": "Tom Taylor",
+    "social_media": {
+        "twitter": "https://twitter.com/FloorandDecor",
+        "linkedin": "https://www.linkedin.com/company/floor-and-decor/"
+    },
+    "investor_relations": "https://ir.flooranddecor.com",
+    "key_executives": [
+        {
+            "name": "Tom Taylor",
+            "position": "CEO"
+        },
+        {
+            "name": "Trevor Lang",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/trevor-lang-3a2a3a16/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Flooring",
+            "products": [
+                "Tile",
+                "Wood",
+                "Laminate",
+                "Natural Stone"
+            ]
+        },
+        {
+            "category": "Related Products",
+            "products": [
+                "Tools",
+                "Accessories"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Floor & Decor Holdings, Inc. | Hard Surface Flooring Retailer",
+        "meta_description": "Explore Floor & Decor, a leading retailer specializing in hard surface flooring solutions. Discover a wide range of products for your home improvement and commercial needs.",
+        "keywords": [
+            "Floor & Decor",
+            "Hard Surface Flooring",
+            "Tile",
+            "Wood Flooring",
+            "Home Improvement",
+            "Commercial Flooring"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Floor & Decor offer?",
+            "answer": "Floor & Decor offers a wide range of hard surface flooring products including tile, wood, laminate, and natural stone, as well as tools and accessories."
+        },
+        {
+            "question": "Who is the CEO of Floor & Decor?",
+            "answer": "Tom Taylor is the CEO of Floor & Decor Holdings, Inc."
+        },
+        {
+            "question": "Where is Floor & Decor headquartered?",
+            "answer": "Floor & Decor is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "When was Floor & Decor founded?",
+            "answer": "Floor & Decor was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "LZB",
+        "HD",
+        "LOW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "WMT",
+        "TGT"
+    ]
+}

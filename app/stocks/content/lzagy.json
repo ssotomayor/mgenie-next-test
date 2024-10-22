@@ -1,0 +1,93 @@
+{
+    "ticker": "LZAGY",
+    "name": "Lazard Ltd",
+    "description": "Lazard Ltd is a prominent financial advisory and asset management firm that provides expertise in a wide range of financial services to clients worldwide. Founded in 1848, Lazard has a rich history and a long-standing reputation for delivering innovative solutions and strategic advice across various sectors. The firm operates through two main segments: Financial Advisory and Asset Management. In Financial Advisory, Lazard offers services related to mergers and acquisitions, capital raising, restructuring, and corporate finance, catering to both corporate clients and governments. Their extensive global reach and deep industry knowledge enable them to navigate complex financial challenges effectively. In Asset Management, Lazard provides investment management services across a diverse array of asset classes, including equities, fixed income, and alternative investments. The firm is committed to delivering superior investment performance and risk management for its clients, which include institutions, pension funds, and high-net-worth individuals. With a focus on building long-term relationships and a client-centric approach, Lazard continues to position itself as a leader in the financial services industry, leveraging its global network and intellectual capital to create value for clients around the world.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Asset Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1848",
+    "website": "https://www.lazard.com",
+    "ceo": "Kenneth M. Jacobs",
+    "social_media": {
+        "twitter": "https://twitter.com/lazard",
+        "linkedin": "https://www.linkedin.com/company/lazard-ltd/"
+    },
+    "investor_relations": "https://www.lazard.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Kenneth M. Jacobs",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Peter R. Orszag",
+            "position": "CEO of Financial Advisory"
+        },
+        {
+            "name": "Ashish Bhutani",
+            "position": "CEO of Asset Management"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Financial Advisory Services",
+            "services": [
+                "Mergers and Acquisitions",
+                "Restructuring",
+                "Capital Raising",
+                "Corporate Finance"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "services": [
+                "Equity Investments",
+                "Fixed Income Investments",
+                "Alternative Investments"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lazard Ltd | Financial Advisory & Asset Management",
+        "meta_description": "Explore Lazard Ltd, a leading global financial advisory and asset management firm. Discover our services, history, and commitment to client success.",
+        "keywords": [
+            "Lazard",
+            "Financial Advisory",
+            "Asset Management",
+            "Investment Banking",
+            "Mergers and Acquisitions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Lazard provide?",
+            "answer": "Lazard provides financial advisory services, including mergers and acquisitions, restructuring, and capital raising, along with asset management services."
+        },
+        {
+            "question": "Who is the CEO of Lazard?",
+            "answer": "Kenneth M. Jacobs is the Chairman and CEO of Lazard Ltd."
+        },
+        {
+            "question": "Where is Lazard headquartered?",
+            "answer": "Lazard is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was Lazard founded?",
+            "answer": "Lazard was founded in 1848."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "GS",
+        "MS",
+        "WFC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "BRK.B",
+        "V"
+    ]
+}

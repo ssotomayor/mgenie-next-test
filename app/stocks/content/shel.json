@@ -1,0 +1,91 @@
+{
+    "ticker": "SHEL",
+    "name": "Shell plc",
+    "description": "Shell plc is a global group of energy and petrochemical companies, headquartered in The Hague, Netherlands. Founded in 1907, Shell has a rich history of innovation and growth, evolving from its origins in crude oil trading to become one of the largest integrated energy companies in the world. Shell operates in more than 70 countries and is involved in all aspects of the energy sector, including exploration, production, refining, and distribution of oil and natural gas. The company is also a leader in renewable energy and is investing heavily in sustainable solutions, such as biofuels, hydrogen, and electric vehicle charging infrastructure. Shell's commitment to reducing carbon emissions is reflected in its strategy to transition towards cleaner energy sources while maintaining a robust portfolio of traditional fossil fuels. The company aims to achieve net-zero emissions by 2050, aligning its business model with the global shift towards sustainability and climate action. Shell also engages in various initiatives to support community development and environmental stewardship, reinforcing its role as a responsible corporate citizen.",
+    "industry": [
+        "Energy",
+        "Oil and Gas"
+    ],
+    "headquarters": "The Hague, Netherlands",
+    "founded": "1907",
+    "website": "https://www.shell.com",
+    "ceo": "Wael Sawan",
+    "social_media": {
+        "twitter": "https://twitter.com/Shell",
+        "linkedin": "https://www.linkedin.com/company/shell/"
+    },
+    "investor_relations": "https://www.shell.com/investors.html",
+    "key_executives": [
+        {
+            "name": "Wael Sawan",
+            "position": "CEO"
+        },
+        {
+            "name": "Jessica Uhl",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas",
+            "products": [
+                "Crude Oil",
+                "Natural Gas",
+                "Liquefied Natural Gas (LNG)"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Biofuels",
+                "Hydrogen",
+                "Electric Vehicle Charging"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Shell plc | Global Energy and Petrochemical Company",
+        "meta_description": "Explore Shell plc, a leading energy and petrochemical company committed to sustainable energy solutions. Learn about Shell's innovative products and initiatives in the energy sector.",
+        "keywords": [
+            "Shell",
+            "Energy",
+            "Oil and Gas",
+            "Renewable Energy",
+            "Sustainable Solutions",
+            "Net-Zero Emissions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Shell do?",
+            "answer": "Shell is involved in the exploration, production, refining, and distribution of oil and natural gas, as well as renewable energy solutions."
+        },
+        {
+            "question": "Who is the CEO of Shell?",
+            "answer": "Wael Sawan is the CEO of Shell plc."
+        },
+        {
+            "question": "Where is Shell headquartered?",
+            "answer": "Shell is headquartered in The Hague, Netherlands."
+        },
+        {
+            "question": "What are Shell's main products?",
+            "answer": "Shell's main products include crude oil, natural gas, biofuels, and electric vehicle charging solutions."
+        },
+        {
+            "question": "When was Shell founded?",
+            "answer": "Shell was founded in 1907."
+        }
+    ],
+    "competitors": [
+        "BP",
+        "CVX",
+        "XOM"
+    ],
+    "related_stocks": [
+        "TOT",
+        "ENB",
+        "EQNR",
+        "COP"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ticker": "SKM",
+    "name": "SK Telecom Co., Ltd.",
+    "description": "SK Telecom Co., Ltd. is South Korea's leading telecommunications company and a global innovator in mobile communication, digital services, and convergence technologies. Founded in 1984, SK Telecom has played a pivotal role in the development of Korea's mobile telecommunications infrastructure, transitioning from 2G to 5G networks. The company offers a wide range of services, including mobile voice and data services, broadband internet, and multimedia content. SK Telecom is also at the forefront of technological advancements, investing heavily in next-generation technologies such as artificial intelligence, the Internet of Things (IoT), and smart city solutions. With a commitment to enhancing customer experience and connectivity, SK Telecom is dedicated to delivering innovative solutions that empower consumers and businesses alike. The company aims to lead the digital transformation in various sectors, including healthcare, transportation, and smart home technologies, positioning itself as a catalyst for a more connected and sustainable future. SK Telecom's vision extends beyond telecommunications, as it seeks to create new value through collaboration with various industries, contributing to the growth of the global digital economy.",
+    "industry": [
+        "Telecommunications",
+        "Technology"
+    ],
+    "headquarters": "Seoul, South Korea",
+    "founded": "1984",
+    "website": "https://www.sktelecom.com",
+    "ceo": "Ryu Young-sang",
+    "social_media": {
+        "twitter": "https://twitter.com/SKTelecom",
+        "linkedin": "https://www.linkedin.com/company/sk-telecom/"
+    },
+    "investor_relations": "https://www.sktelecom.com/en/ir/ir_main.do",
+    "key_executives": [
+        {
+            "name": "Ryu Young-sang",
+            "position": "CEO"
+        },
+        {
+            "name": "Choi Jin-seok",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mobile Services",
+            "products": [
+                "5G Mobile Plans",
+                "Data Services"
+            ]
+        },
+        {
+            "category": "Digital Solutions",
+            "products": [
+                "IoT Services",
+                "AI Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SK Telecom Co., Ltd. | Leading Telecommunications Provider",
+        "meta_description": "Explore SK Telecom, South Korea's top telecommunications company. Discover innovative mobile services, digital solutions, and commitment to technology.",
+        "keywords": [
+            "SK Telecom",
+            "Telecommunications",
+            "5G",
+            "IoT",
+            "AI Solutions",
+            "Mobile Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does SK Telecom provide?",
+            "answer": "SK Telecom provides mobile voice and data services, broadband internet, and digital solutions, including IoT and AI."
+        },
+        {
+            "question": "Who is the CEO of SK Telecom?",
+            "answer": "Ryu Young-sang is the CEO of SK Telecom Co., Ltd."
+        },
+        {
+            "question": "Where is SK Telecom headquartered?",
+            "answer": "SK Telecom is headquartered in Seoul, South Korea."
+        },
+        {
+            "question": "When was SK Telecom founded?",
+            "answer": "SK Telecom was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "KT",
+        "LGU",
+        "VZ",
+        "T"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

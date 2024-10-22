@@ -1,0 +1,86 @@
+{
+    "ticker": "MNY",
+    "name": "MoneyCorp Holdings Ltd.",
+    "description": "MoneyCorp Holdings Ltd. is a leading provider of foreign exchange and payment solutions for businesses and individuals. Founded in 1979, MoneyCorp has established itself as a trusted partner in the financial services industry, offering a range of services designed to simplify and optimize international money transfers. The company specializes in foreign exchange, currency risk management, and international payments, catering to diverse clients including SMEs, large corporations, and individuals. MoneyCorp's innovative technology platform enables clients to execute transactions swiftly and securely, with competitive exchange rates and low fees. The company is committed to delivering exceptional customer service and personalized solutions tailored to meet the unique needs of each client. With a strong presence in the UK and global reach, MoneyCorp continues to expand its services, embracing cutting-edge technology and regulatory compliance to enhance client experience. The company also focuses on educational resources, helping clients understand the complexities of currency markets and making informed decisions regarding their foreign exchange needs. As global trade and travel increase, MoneyCorp remains at the forefront of the foreign exchange industry, dedicated to providing reliable, efficient, and cost-effective solutions for all currency-related transactions.",
+    "industry": [
+        "Financial Services",
+        "Foreign Exchange"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "1979",
+    "website": "https://www.moneycorp.com",
+    "ceo": "Mark Gibbons",
+    "social_media": {
+        "twitter": "https://twitter.com/moneycorp",
+        "linkedin": "https://www.linkedin.com/company/moneycorp"
+    },
+    "investor_relations": "https://www.moneycorp.com/en-gb/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Mark Gibbons",
+            "position": "CEO"
+        },
+        {
+            "name": "David McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Foreign Exchange Services",
+            "products": [
+                "Spot Contracts",
+                "Forward Contracts",
+                "Market Orders"
+            ]
+        },
+        {
+            "category": "Payment Solutions",
+            "products": [
+                "International Payments",
+                "Currency Risk Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MoneyCorp Holdings Ltd. | Foreign Exchange and Payment Solutions",
+        "meta_description": "Explore MoneyCorp Holdings Ltd., a leader in foreign exchange and payment solutions. Learn about our services, technology, and commitment to customer satisfaction.",
+        "keywords": [
+            "MoneyCorp",
+            "Foreign Exchange",
+            "International Payments",
+            "Currency Risk Management",
+            "FX Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does MoneyCorp offer?",
+            "answer": "MoneyCorp offers foreign exchange services, international payments, and currency risk management solutions."
+        },
+        {
+            "question": "Where is MoneyCorp headquartered?",
+            "answer": "MoneyCorp is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "When was MoneyCorp founded?",
+            "answer": "MoneyCorp was founded in 1979."
+        },
+        {
+            "question": "Who is the CEO of MoneyCorp?",
+            "answer": "Mark Gibbons is the CEO of MoneyCorp Holdings Ltd."
+        }
+    ],
+    "competitors": [
+        "OFX",
+        "XE",
+        "Revolut",
+        "TransferWise"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "ticker": "BAC.PRN",
+    "name": "Bank of America Corporation",
+    "description": "Bank of America Corporation is one of the largest financial institutions in the United States and a global leader in wealth management, corporate and investment banking, and trading. Established in 1904 and headquartered in Charlotte, North Carolina, Bank of America serves millions of consumers, small businesses, and large corporations with a full range of financial services and products. The bank operates through various segments, including Consumer Banking, Global Wealth and Investment Management, Global Banking, and Global Markets. It is known for its commitment to responsible growth, focusing on delivering value to customers and communities while maintaining strong financial performance. Bank of America also emphasizes the use of technology and innovation to enhance customer experiences, offering a robust online banking platform and mobile app. As part of its corporate social responsibility initiatives, the bank invests in sustainable finance and community development, aiming to support economic mobility and inclusivity. With a strong presence across the globe, Bank of America continues to adapt to the evolving financial landscape, striving to meet the diverse needs of its clients.",
+    "industry": [
+        "Financial Services",
+        "Banking"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1904",
+    "website": "https://www.bankofamerica.com",
+    "ceo": "Brian Moynihan",
+    "social_media": {
+        "twitter": "https://twitter.com/BankofAmerica",
+        "linkedin": "https://www.linkedin.com/company/bank-of-america/"
+    },
+    "investor_relations": "https://investor.bankofamerica.com",
+    "key_executives": [
+        {
+            "name": "Brian Moynihan",
+            "position": "CEO"
+        },
+        {
+            "name": "Alastair B. B. Baird",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions Advisory",
+                "Capital Raising",
+                "Debt and Equity Underwriting"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Retirement Accounts",
+                "Investment Advisory Services",
+                "Trust Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bank of America Corporation | Financial Services and Banking",
+        "meta_description": "Explore Bank of America Corporation, a leading financial institution providing a wide range of banking, investment, and wealth management services. Learn about their commitment to responsible growth and innovation.",
+        "keywords": [
+            "Bank of America",
+            "Financial Services",
+            "Banking",
+            "Wealth Management",
+            "Investment Banking",
+            "Corporate Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Bank of America offer?",
+            "answer": "Bank of America offers a variety of services including consumer banking, investment banking, wealth management, and global markets."
+        },
+        {
+            "question": "Who is the CEO of Bank of America?",
+            "answer": "Brian Moynihan is the CEO of Bank of America Corporation."
+        },
+        {
+            "question": "Where is Bank of America headquartered?",
+            "answer": "Bank of America is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "When was Bank of America founded?",
+            "answer": "Bank of America was founded in 1904."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "C",
+        "WFC",
+        "GS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "V",
+        "JNJ"
+    ]
+}

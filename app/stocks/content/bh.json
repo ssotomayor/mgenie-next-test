@@ -1,0 +1,99 @@
+{
+    "ticker": "BH",
+    "name": "Berkshire Hathaway Inc.",
+    "description": "Berkshire Hathaway Inc. is a multinational conglomerate holding company headquartered in Omaha, Nebraska. Founded in 1839 as a textile manufacturing company, it has evolved under the leadership of CEO Warren Buffett into one of the largest and most respected investment firms in the world. Berkshire Hathaway owns a diverse range of businesses across various industries, including insurance, rail transportation, utilities, manufacturing, and retail. Its subsidiaries include well-known companies such as GEICO, BNSF Railway, and Dairy Queen. The company's investment philosophy revolves around acquiring businesses with strong fundamentals and long-term growth potential, often holding onto these investments for decades. Berkshire Hathaway is also known for its significant equity investments in publicly traded companies, such as Apple, Coca-Cola, and American Express. The annual shareholder meeting, often referred to as 'Woodstock for Capitalists,' attracts thousands of investors and offers insights into Buffett's investment strategies and views on the economy. With a reputation for transparency and shareholder value, Berkshire Hathaway continues to be a benchmark for investment success in the financial world.",
+    "industry": [
+        "Insurance",
+        "Transportation",
+        "Utilities",
+        "Manufacturing",
+        "Retail"
+    ],
+    "headquarters": "Omaha, Nebraska, USA",
+    "founded": "1839",
+    "website": "https://www.berkshirehathaway.com",
+    "ceo": "Warren Buffett",
+    "social_media": {
+        "twitter": "https://twitter.com/BerkshireHathAW",
+        "linkedin": "https://www.linkedin.com/company/berkshire-hathaway/"
+    },
+    "investor_relations": "https://www.berkshirehathaway.com/faq.html",
+    "key_executives": [
+        {
+            "name": "Warren Buffett",
+            "position": "CEO"
+        },
+        {
+            "name": "Charlie Munger",
+            "position": "Vice Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance",
+            "products": [
+                "GEICO",
+                "Berkshire Hathaway Reinsurance Group"
+            ]
+        },
+        {
+            "category": "Rail Transportation",
+            "products": [
+                "BNSF Railway"
+            ]
+        },
+        {
+            "category": "Retail",
+            "products": [
+                "Dairy Queen",
+                "See's Candies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Berkshire Hathaway Inc. | Multinational Conglomerate Holding Company",
+        "meta_description": "Explore Berkshire Hathaway Inc., a leading investment firm known for its diverse business holdings and long-term investment strategies under Warren Buffett's leadership.",
+        "keywords": [
+            "Berkshire Hathaway",
+            "Warren Buffett",
+            "Investment Firm",
+            "Conglomerate",
+            "Insurance",
+            "BNSF Railway",
+            "GEICO"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Berkshire Hathaway known for?",
+            "answer": "Berkshire Hathaway is known for its diverse business holdings and successful long-term investment strategies led by Warren Buffett."
+        },
+        {
+            "question": "Who is the CEO of Berkshire Hathaway?",
+            "answer": "Warren Buffett is the CEO of Berkshire Hathaway Inc."
+        },
+        {
+            "question": "Where is Berkshire Hathaway headquartered?",
+            "answer": "Berkshire Hathaway is headquartered in Omaha, Nebraska, USA."
+        },
+        {
+            "question": "What are Berkshire Hathaway's main subsidiaries?",
+            "answer": "Berkshire Hathaway's main subsidiaries include GEICO, BNSF Railway, and Dairy Queen."
+        },
+        {
+            "question": "When was Berkshire Hathaway founded?",
+            "answer": "Berkshire Hathaway was founded in 1839."
+        }
+    ],
+    "competitors": [
+        "AIG",
+        "ALL",
+        "TRV"
+    ],
+    "related_stocks": [
+        "JPM",
+        "V",
+        "AAPL",
+        "KO"
+    ]
+}

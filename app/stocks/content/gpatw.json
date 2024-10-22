@@ -1,0 +1,93 @@
+{
+    "ticker": "GPATW",
+    "name": "Global Partners LP",
+    "description": "Global Partners LP is a leading energy company specializing in the distribution and marketing of petroleum products, as well as providing logistics services. Founded in 2005 and headquartered in Waltham, Massachusetts, Global Partners operates a vast network of terminals and transportation assets that enable it to efficiently deliver heating oil, gasoline, diesel fuel, and other refined petroleum products throughout the northeastern United States. The company is also engaged in the wholesale and retail distribution of fuels, serving both commercial and residential customers. With a strong commitment to sustainability and environmental stewardship, Global Partners is actively involved in renewable energy initiatives, including biofuels and other alternative energy sources. The organization aims to meet the evolving energy needs of its customers while reducing its carbon footprint. Global Partners has established a reputation for reliability and quality service, making it a trusted partner in the energy sector. As the energy landscape continues to change, Global Partners is dedicated to innovation and expanding its service offerings to ensure it remains at the forefront of the industry.",
+    "industry": [
+        "Energy",
+        "Logistics"
+    ],
+    "headquarters": "Waltham, Massachusetts, USA",
+    "founded": "2005",
+    "website": "https://www.globalp.com",
+    "ceo": "Eric Slifka",
+    "social_media": {
+        "twitter": "https://twitter.com/globalpartners",
+        "linkedin": "https://www.linkedin.com/company/global-partners-lp"
+    },
+    "investor_relations": "https://investors.globalp.com",
+    "key_executives": [
+        {
+            "name": "Eric Slifka",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael F. Rouse",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Fuel Distribution",
+            "products": [
+                "Gasoline",
+                "Diesel Fuel",
+                "Heating Oil"
+            ]
+        },
+        {
+            "category": "Logistics Services",
+            "products": [
+                "Terminal Services",
+                "Transportation Services"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Biofuels",
+                "Alternative Fuels"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Global Partners LP | Energy Distribution and Logistics",
+        "meta_description": "Explore Global Partners LP, a leader in energy distribution and logistics. Learn about our commitment to sustainability and innovative energy solutions.",
+        "keywords": [
+            "Global Partners",
+            "Energy Distribution",
+            "Logistics",
+            "Renewable Energy",
+            "Petroleum Products"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Global Partners LP do?",
+            "answer": "Global Partners LP specializes in the distribution and marketing of petroleum products and logistics services."
+        },
+        {
+            "question": "Where is Global Partners headquartered?",
+            "answer": "Global Partners is headquartered in Waltham, Massachusetts, USA."
+        },
+        {
+            "question": "What types of products does Global Partners distribute?",
+            "answer": "Global Partners distributes gasoline, diesel fuel, heating oil, and renewable energy products."
+        },
+        {
+            "question": "When was Global Partners founded?",
+            "answer": "Global Partners was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "CVX",
+        "XOM",
+        "PSX",
+        "VLO"
+    ],
+    "related_stocks": [
+        "BP",
+        "COP",
+        "RDS.A",
+        "MPC"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "ticker": "BPOP",
+    "name": "Popular, Inc.",
+    "description": "Popular, Inc. is a leading financial institution that provides a wide range of banking services to individuals and businesses. Founded in 1893, the company is headquartered in Hato Rey, Puerto Rico, and operates through its main subsidiary, Banco Popular de Puerto Rico. With a mission to be the bank of choice for its customers, Popular, Inc. offers various financial products, including personal and commercial banking, mortgages, auto loans, credit cards, and investment services. The company is also known for its strong commitment to the communities it serves, engaging in various initiatives aimed at promoting economic development and financial literacy. In addition to its operations in Puerto Rico, Popular has a significant presence in the mainland United States, focusing on the Hispanic community and offering tailored banking solutions that meet their unique needs. The bank's digital banking platform provides customers with convenient access to their accounts and financial services, reflecting the company's dedication to embracing technological advancements to enhance customer experience. With a strong emphasis on integrity, customer service, and innovation, Popular, Inc. continues to grow and adapt to changing market dynamics while maintaining a focus on delivering value to its stakeholders.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Hato Rey, Puerto Rico",
+    "founded": "1893",
+    "website": "https://www.popular.com",
+    "ceo": "Ignacio Alvarez",
+    "social_media": {
+        "twitter": "https://twitter.com/PopularInc",
+        "linkedin": "https://www.linkedin.com/company/popular-inc/"
+    },
+    "investor_relations": "https://investors.popular.com",
+    "key_executives": [
+        {
+            "name": "Ignacio Alvarez",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard L. Carrion",
+            "position": "Executive Chairman"
+        },
+        {
+            "name": "Gonzalo J. de la Vega",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Business Loans",
+                "Merchant Services",
+                "Treasury Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Popular, Inc. | Banking and Financial Services",
+        "meta_description": "Explore Popular, Inc., a leading financial institution providing a range of banking services. Discover our commitment to community and customer service.",
+        "keywords": [
+            "Popular, Inc.",
+            "Banking",
+            "Financial Services",
+            "Puerto Rico",
+            "Banco Popular",
+            "Mortgages",
+            "Loans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Popular, Inc. offer?",
+            "answer": "Popular, Inc. offers personal banking, commercial banking, mortgages, auto loans, and credit cards."
+        },
+        {
+            "question": "Where is Popular, Inc. headquartered?",
+            "answer": "Popular, Inc. is headquartered in Hato Rey, Puerto Rico."
+        },
+        {
+            "question": "When was Popular, Inc. founded?",
+            "answer": "Popular, Inc. was founded in 1893."
+        },
+        {
+            "question": "Who is the CEO of Popular, Inc.?",
+            "answer": "Ignacio Alvarez is the CEO of Popular, Inc."
+        }
+    ],
+    "competitors": [
+        "C",
+        "JPM",
+        "BAC",
+        "WFC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

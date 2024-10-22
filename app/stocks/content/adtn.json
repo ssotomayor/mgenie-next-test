@@ -1,0 +1,93 @@
+{
+    "ticker": "ADTN",
+    "name": "ADTRAN Holdings, Inc.",
+    "description": "ADTRAN Holdings, Inc. is a leading provider of networking and communications equipment, headquartered in Huntsville, Alabama. Founded in 1985, ADTRAN specializes in broadband access and enterprise networking solutions designed to enable service providers and enterprises to deliver high-speed internet, voice, and video services. The company's product portfolio includes a wide range of solutions such as fiber and copper access systems, routers, switches, and cloud-based software for network management and analytics. ADTRAN's commitment to innovation is reflected in its extensive research and development initiatives that focus on next-generation networking technologies, including software-defined networking (SDN) and network function virtualization (NFV). With a strong focus on customer-centric solutions, ADTRAN serves a diverse clientele, including telecommunications providers, cable operators, and enterprises across various sectors. The company aims to bridge the digital divide by providing affordable and reliable connectivity solutions, empowering communities and businesses to thrive in a digital-first world. ADTRAN is also recognized for its sustainability efforts and community engagement, making it a socially responsible player in the technology space.",
+    "industry": [
+        "Telecommunications",
+        "Networking Equipment"
+    ],
+    "headquarters": "Huntsville, Alabama, USA",
+    "founded": "1985",
+    "website": "https://www.adtran.com",
+    "ceo": "Tom Stanton",
+    "social_media": {
+        "twitter": "https://twitter.com/adtran",
+        "linkedin": "https://www.linkedin.com/company/adtran/"
+    },
+    "investor_relations": "https://investors.adtran.com",
+    "key_executives": [
+        {
+            "name": "Tom Stanton",
+            "position": "CEO"
+        },
+        {
+            "name": "Terry McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Broadband Access",
+            "products": [
+                "Fiber Access Solutions",
+                "Copper Access Solutions"
+            ]
+        },
+        {
+            "category": "Networking Equipment",
+            "products": [
+                "Routers",
+                "Switches"
+            ]
+        },
+        {
+            "category": "Cloud Solutions",
+            "products": [
+                "Network Management Software",
+                "Analytics Platforms"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ADTRAN Holdings, Inc. | Networking and Communications Solutions",
+        "meta_description": "Explore ADTRAN Holdings, Inc., a leader in broadband access and networking solutions. Discover innovative products that empower connectivity and digital transformation.",
+        "keywords": [
+            "ADTRAN",
+            "Networking Solutions",
+            "Broadband Access",
+            "Telecommunications",
+            "SDN",
+            "NFV"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ADTRAN specialize in?",
+            "answer": "ADTRAN specializes in broadband access and enterprise networking solutions."
+        },
+        {
+            "question": "Where is ADTRAN headquartered?",
+            "answer": "ADTRAN is headquartered in Huntsville, Alabama, USA."
+        },
+        {
+            "question": "When was ADTRAN founded?",
+            "answer": "ADTRAN was founded in 1985."
+        },
+        {
+            "question": "What types of products does ADTRAN offer?",
+            "answer": "ADTRAN offers products including fiber and copper access systems, routers, switches, and cloud-based network management software."
+        }
+    ],
+    "competitors": [
+        "CSCO",
+        "JNPR",
+        "NOK",
+        "HPE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

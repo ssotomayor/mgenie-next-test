@@ -1,0 +1,100 @@
+{
+    "ticker": "AN",
+    "name": "AutoNation, Inc.",
+    "description": "AutoNation, Inc. is the largest automotive retailer in the United States, specializing in the sale of both new and used vehicles, as well as offering a comprehensive suite of automotive services including repair, maintenance, and parts distribution. Founded in 1996 and headquartered in Fort Lauderdale, Florida, AutoNation operates over 300 retail locations across 16 states. The company has built a reputation for its commitment to customer service and transparency, promoting a hassle-free car buying experience. AutoNation's extensive inventory includes a wide range of vehicle brands, including luxury, electric, and hybrid models. The company is also focused on leveraging technology to enhance the customer experience, offering online purchasing options, vehicle home delivery, and digital retail tools. In addition to vehicle sales, AutoNation provides a full-service maintenance department and an extensive selection of parts and accessories, ensuring that customers can maintain their vehicles for years to come. With a mission to be the most customer-centric automotive retailer, AutoNation continues to innovate and adapt to the evolving automotive landscape, including a growing emphasis on electric vehicles and sustainability initiatives.",
+    "industry": [
+        "Automotive Retail",
+        "E-commerce"
+    ],
+    "headquarters": "Fort Lauderdale, Florida, USA",
+    "founded": "1996",
+    "website": "https://www.autonation.com",
+    "ceo": "Mike Jackson",
+    "social_media": {
+        "twitter": "https://twitter.com/AutoNation",
+        "linkedin": "https://www.linkedin.com/company/autonation/"
+    },
+    "investor_relations": "https://ir.autonation.com",
+    "key_executives": [
+        {
+            "name": "Mike Jackson",
+            "position": "CEO"
+        },
+        {
+            "name": "Cheryl Miller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "New Vehicles",
+            "products": [
+                "Ford",
+                "Toyota",
+                "BMW",
+                "Mercedes-Benz"
+            ]
+        },
+        {
+            "category": "Used Vehicles",
+            "products": [
+                "Pre-owned Cars",
+                "Certified Pre-Owned Vehicles"
+            ]
+        },
+        {
+            "category": "Services",
+            "products": [
+                "Vehicle Maintenance",
+                "Parts and Accessories",
+                "Collision Repair"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AutoNation, Inc. | Largest Automotive Retailer in the U.S.",
+        "meta_description": "Explore AutoNation, Inc., the largest automotive retailer in the U.S. Discover our extensive inventory of new and used vehicles, along with top-notch automotive services.",
+        "keywords": [
+            "AutoNation",
+            "Automotive Retail",
+            "Used Cars",
+            "New Cars",
+            "Vehicle Services",
+            "Car Dealerships"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AutoNation do?",
+            "answer": "AutoNation is the largest automotive retailer in the U.S., selling new and used vehicles and offering automotive services."
+        },
+        {
+            "question": "Where is AutoNation headquartered?",
+            "answer": "AutoNation is headquartered in Fort Lauderdale, Florida, USA."
+        },
+        {
+            "question": "What types of vehicles does AutoNation sell?",
+            "answer": "AutoNation sells a wide range of new and used vehicles, including cars from popular brands like Ford, Toyota, BMW, and Mercedes-Benz."
+        },
+        {
+            "question": "What services does AutoNation provide?",
+            "answer": "AutoNation provides vehicle maintenance, parts and accessories, and collision repair services."
+        },
+        {
+            "question": "When was AutoNation founded?",
+            "answer": "AutoNation was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "CAR",
+        "KMX",
+        "GPI",
+        "ABG"
+    ],
+    "related_stocks": [
+        "F",
+        "GM",
+        "TSLA",
+        "HMC"
+    ]
+}

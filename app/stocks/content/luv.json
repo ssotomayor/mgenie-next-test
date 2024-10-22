@@ -1,0 +1,89 @@
+{
+    "ticker": "LUV",
+    "name": "Southwest Airlines Co.",
+    "description": "Southwest Airlines Co. is a major American airline known for its low-cost travel and exceptional customer service. Founded in 1967 by Herb Kelleher and Rollin King, Southwest revolutionized the airline industry with its unique business model, which eliminates unnecessary frills while maintaining a focus on customer satisfaction. Headquartered in Dallas, Texas, the airline operates more than 4,000 flights daily to destinations across the United States and several international locations. Southwest is particularly recognized for its no-frills approach, which includes no fees for checked baggage and a simple fare structure. The airline's commitment to its employees and customers is encapsulated in its motto, 'We love to fly and it shows.' Over the years, Southwest has garnered numerous awards for its on-time performance and operational reliability, making it a preferred choice for both leisure and business travelers. The company continues to innovate within the aviation sector, focusing on sustainability initiatives and enhancing the travel experience through technology and customer engagement. As a leader in the low-cost carrier segment, Southwest Airlines remains dedicated to providing affordable and reliable air travel to its passengers.",
+    "industry": [
+        "Airlines",
+        "Transportation"
+    ],
+    "headquarters": "Dallas, Texas, USA",
+    "founded": "1967",
+    "website": "https://www.southwest.com",
+    "ceo": "Robert Jordan",
+    "social_media": {
+        "twitter": "https://twitter.com/SouthwestAir",
+        "linkedin": "https://www.linkedin.com/company/southwest-airlines"
+    },
+    "investor_relations": "https://www.southwest.com/html/investors/investor_relations.html",
+    "key_executives": [
+        {
+            "name": "Robert Jordan",
+            "position": "CEO"
+        },
+        {
+            "name": "Tammy Romo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Air Travel",
+            "products": [
+                "Domestic Flights",
+                "International Flights",
+                "Business Select"
+            ]
+        },
+        {
+            "category": "Loyalty Programs",
+            "products": [
+                "Rapid Rewards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Southwest Airlines Co. | Low-Cost Airline and Travel Services",
+        "meta_description": "Explore Southwest Airlines Co., a leader in low-cost air travel. Discover our commitment to customer service, operational efficiency, and travel innovation.",
+        "keywords": [
+            "Southwest Airlines",
+            "Low-Cost Airline",
+            "Air Travel",
+            "Customer Service",
+            "Rapid Rewards"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Southwest Airlines known for?",
+            "answer": "Southwest Airlines is known for its low-cost travel, no fees for checked baggage, and outstanding customer service."
+        },
+        {
+            "question": "Who is the CEO of Southwest Airlines?",
+            "answer": "Robert Jordan is the CEO of Southwest Airlines Co."
+        },
+        {
+            "question": "Where is Southwest Airlines headquartered?",
+            "answer": "Southwest Airlines is headquartered in Dallas, Texas, USA."
+        },
+        {
+            "question": "What are the main products offered by Southwest Airlines?",
+            "answer": "Southwest Airlines primarily offers domestic and international flights, as well as loyalty programs like Rapid Rewards."
+        },
+        {
+            "question": "When was Southwest Airlines founded?",
+            "answer": "Southwest Airlines was founded in 1967."
+        }
+    ],
+    "competitors": [
+        "DAL",
+        "UAL",
+        "AAL",
+        "LUV"
+    ],
+    "related_stocks": [
+        "AAL",
+        "DAL",
+        "UAL",
+        "ALK"
+    ]
+}

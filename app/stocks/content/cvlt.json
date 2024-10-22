@@ -1,0 +1,89 @@
+{
+    "ticker": "CVLT",
+    "name": "Commvault Systems, Inc.",
+    "description": "Commvault Systems, Inc. is a global leader in data protection and information management solutions, founded in 1996. The company specializes in software that helps organizations manage, protect, and recover their data across various environments, including on-premises, cloud, and hybrid infrastructures. Commvault's flagship product, Commvault Complete Data Protection, offers comprehensive backup and recovery, archive, and cloud data management capabilities, designed to ensure data availability and compliance. With a strong focus on innovation, Commvault integrates artificial intelligence and machine learning to enhance data management processes, enabling businesses to derive insights from their data while safeguarding it against cyber threats. The company is recognized for its commitment to customer success and its ability to adapt to the evolving data landscape. Commvault serves a diverse range of industries, including healthcare, finance, and government, providing tailored solutions that meet the unique challenges of each sector. As organizations increasingly recognize the importance of data as a strategic asset, Commvault is positioned to play a critical role in helping them navigate the complexities of data management and protection in the digital age.",
+    "industry": [
+        "Information Technology",
+        "Data Management"
+    ],
+    "headquarters": "Tinton Falls, New Jersey, USA",
+    "founded": "1996",
+    "website": "https://www.commvault.com",
+    "ceo": "Sanjay Mirchandani",
+    "social_media": {
+        "twitter": "https://twitter.com/Commvault",
+        "linkedin": "https://www.linkedin.com/company/commvault/"
+    },
+    "investor_relations": "https://investor.commvault.com",
+    "key_executives": [
+        {
+            "name": "Sanjay Mirchandani",
+            "position": "CEO"
+        },
+        {
+            "name": "Alok Dhir",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Protection",
+            "products": [
+                "Commvault Complete Data Protection",
+                "Commvault HyperScale Technology"
+            ]
+        },
+        {
+            "category": "Data Management",
+            "products": [
+                "Commvault Orchestrate",
+                "Commvault Activate"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Commvault Systems, Inc. | Data Protection and Information Management",
+        "meta_description": "Discover Commvault Systems, Inc., a leader in data protection and management solutions. Learn about Commvault's innovative products and commitment to customer success.",
+        "keywords": [
+            "Commvault",
+            "Data Protection",
+            "Information Management",
+            "Backup and Recovery",
+            "Data Management Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Commvault do?",
+            "answer": "Commvault provides data protection and information management solutions to help organizations manage and recover their data."
+        },
+        {
+            "question": "Who is the CEO of Commvault?",
+            "answer": "Sanjay Mirchandani is the CEO of Commvault Systems, Inc."
+        },
+        {
+            "question": "Where is Commvault headquartered?",
+            "answer": "Commvault is headquartered in Tinton Falls, New Jersey, USA."
+        },
+        {
+            "question": "What are Commvault's main products?",
+            "answer": "Commvault's main products include Commvault Complete Data Protection and Commvault HyperScale Technology."
+        },
+        {
+            "question": "When was Commvault founded?",
+            "answer": "Commvault was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "VEEV",
+        "ANSS",
+        "DATA",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "INTC"
+    ]
+}

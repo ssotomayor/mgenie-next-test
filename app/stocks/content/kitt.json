@@ -1,0 +1,81 @@
+{
+    "ticker": "KITT",
+    "name": "KittyHawk, Inc.",
+    "description": "KittyHawk, Inc. is an innovative aerospace company focused on the development of electric vertical takeoff and landing (eVTOL) aircraft. Founded in 2018 by a team of visionary engineers and entrepreneurs, KittyHawk aims to revolutionize urban transportation and redefine how people travel within cities. The company's flagship aircraft, the KittyHawk Flyer, is designed for personal flight and is built with advanced aerodynamics and lightweight materials to ensure safety and efficiency. KittyHawk's mission is to make flying as accessible as driving, providing a sustainable alternative to traditional transportation methods. In addition to personal eVTOLs, the company is exploring autonomous flight technology and partnerships with urban mobility services to create an integrated air transportation system. KittyHawk is dedicated to safety and regulatory compliance, working closely with aviation authorities to establish standards for eVTOL operations. With a strong emphasis on innovation, KittyHawk is at the forefront of the burgeoning urban air mobility industry, positioning itself to play a key role in the future of transportation.",
+    "industry": [
+        "Aerospace",
+        "Transportation"
+    ],
+    "headquarters": "Mountain View, California, USA",
+    "founded": "2018",
+    "website": "https://kittyhawk.aero",
+    "ceo": "Sebastian Thrun",
+    "social_media": {
+        "twitter": "https://twitter.com/kittyhawk",
+        "linkedin": "https://www.linkedin.com/company/kittyhawk-aero/"
+    },
+    "investor_relations": "https://kittyhawk.aero/investors",
+    "key_executives": [
+        {
+            "name": "Sebastian Thrun",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Moore",
+            "position": "Chief Engineer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "eVTOL Aircraft",
+            "products": [
+                "KittyHawk Flyer",
+                "Heaviside"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "KittyHawk, Inc. | Pioneering Urban Air Mobility",
+        "meta_description": "Discover KittyHawk, Inc., a leader in eVTOL aircraft technology aiming to revolutionize urban transportation. Explore innovative products and the vision for the future of flight.",
+        "keywords": [
+            "KittyHawk",
+            "eVTOL",
+            "Urban Air Mobility",
+            "Electric Aircraft",
+            "Flying Cars"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is KittyHawk known for?",
+            "answer": "KittyHawk is known for developing electric vertical takeoff and landing aircraft aimed at transforming urban transportation."
+        },
+        {
+            "question": "Who is the CEO of KittyHawk?",
+            "answer": "Sebastian Thrun is the CEO of KittyHawk, Inc."
+        },
+        {
+            "question": "Where is KittyHawk headquartered?",
+            "answer": "KittyHawk is headquartered in Mountain View, California, USA."
+        },
+        {
+            "question": "What are KittyHawk's main products?",
+            "answer": "KittyHawk's main products include the KittyHawk Flyer and Heaviside, both designed for urban air mobility."
+        },
+        {
+            "question": "When was KittyHawk founded?",
+            "answer": "KittyHawk was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "JOBY",
+        "LILYMOBILITY",
+        "ARCHER"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

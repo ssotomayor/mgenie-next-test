@@ -1,0 +1,94 @@
+{
+    "ticker": "CGIC",
+    "name": "CGI Inc.",
+    "description": "CGI Inc. is one of the largest independent IT and business consulting services firms in the world, providing a comprehensive range of services and solutions to clients in various industries. Founded in 1976 in Quebec City, Canada, by Serge Godin and a small group of partners, CGI has grown to become a global leader, with a presence in over 40 countries. The company specializes in IT services, including systems integration, application management, and business consulting, and it serves a diverse clientele that spans sectors such as government, healthcare, financial services, and telecommunications. CGI's mission is to help clients achieve their business objectives through innovative and efficient technology solutions. With a strong focus on customer satisfaction, CGI leverages its deep industry expertise and collaborative approach to deliver tailored solutions that enhance operational efficiency and drive digital transformation. The company is also committed to sustainability and corporate social responsibility, actively engaging in initiatives that benefit the communities it serves. Through its robust portfolio of services and a dedicated workforce, CGI continues to adapt to the rapidly changing technological landscape, ensuring its clients remain competitive in a digital world.",
+    "industry": [
+        "Information Technology",
+        "Consulting"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1976",
+    "website": "https://www.cgi.com",
+    "ceo": "George D. Schindler",
+    "social_media": {
+        "twitter": "https://twitter.com/CGI_Group",
+        "linkedin": "https://www.linkedin.com/company/cgi",
+        "facebook": "https://www.facebook.com/cgiinc",
+        "youtube": "https://www.youtube.com/user/CGIGroup"
+    },
+    "investor_relations": "https://www.cgi.com/en/investors",
+    "key_executives": [
+        {
+            "name": "George D. Schindler",
+            "position": "CEO"
+        },
+        {
+            "name": "T. B. (Tom) Muir",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Services",
+            "products": [
+                "Systems Integration",
+                "Application Management",
+                "Business Consulting"
+            ]
+        },
+        {
+            "category": "Digital Transformation",
+            "products": [
+                "Cloud Services",
+                "Cybersecurity",
+                "Data Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CGI Inc. | IT and Business Consulting Services",
+        "meta_description": "Explore CGI Inc., a leader in IT and business consulting services. Discover CGI's innovative solutions that drive digital transformation and enhance operational efficiency.",
+        "keywords": [
+            "CGI",
+            "IT Services",
+            "Business Consulting",
+            "Digital Transformation",
+            "Cloud Services",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CGI provide?",
+            "answer": "CGI provides IT services, systems integration, application management, and business consulting."
+        },
+        {
+            "question": "Who is the CEO of CGI?",
+            "answer": "George D. Schindler is the CEO of CGI Inc."
+        },
+        {
+            "question": "Where is CGI headquartered?",
+            "answer": "CGI is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "When was CGI founded?",
+            "answer": "CGI was founded in 1976."
+        },
+        {
+            "question": "What industries does CGI serve?",
+            "answer": "CGI serves various industries, including government, healthcare, financial services, and telecommunications."
+        }
+    ],
+    "competitors": [
+        "ACN",
+        "IBM",
+        "HPQ",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "CSCO",
+        "ADBE",
+        "MSFT",
+        "SAP"
+    ]
+}

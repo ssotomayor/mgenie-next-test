@@ -1,0 +1,93 @@
+{
+    "ticker": "CNET",
+    "name": "CNBC, LLC",
+    "description": "CNET, a subsidiary of Red Ventures, is a leading technology media company that provides news, reviews, and analysis of the latest trends in technology and consumer electronics. Established in 1994, CNET has become a trusted resource for tech enthusiasts and consumers alike, offering comprehensive coverage of gadgets, software, and digital services. The platform features product reviews, how-to articles, and videos that help users make informed decisions about their tech purchases. CNET also hosts a variety of technology-focused podcasts and video series, showcasing expert opinions and insights on emerging technologies. With a mission to demystify technology for everyday users, CNET aims to empower consumers by providing them with the knowledge and tools needed to navigate the digital landscape. The company is dedicated to highlighting the latest innovations in tech, including developments in AI, smart home devices, and mobile technology. CNET's commitment to high-quality, impartial journalism has solidified its reputation as a go-to source for reliable tech information.",
+    "industry": [
+        "Media",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "1994",
+    "website": "https://www.cnet.com",
+    "ceo": "Jim Lichtenstein",
+    "social_media": {
+        "twitter": "https://twitter.com/cnet",
+        "linkedin": "https://www.linkedin.com/company/cnet/",
+        "facebook": "https://www.facebook.com/cnet"
+    },
+    "investor_relations": "https://www.redventures.com/investors",
+    "key_executives": [
+        {
+            "name": "Jim Lichtenstein",
+            "position": "CEO"
+        },
+        {
+            "name": "Katherine L. Boehly",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Product Reviews",
+            "products": [
+                "Smartphones",
+                "Laptops",
+                "Home Appliances",
+                "Wearable Tech"
+            ]
+        },
+        {
+            "category": "How-To Guides",
+            "products": [
+                "Tech Tutorials",
+                "Buying Guides"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CNET | Technology News, Reviews, and How-To Guides",
+        "meta_description": "Explore CNET for the latest in technology news, product reviews, and expert insights. Stay informed with trusted tech advice and how-to articles.",
+        "keywords": [
+            "CNET",
+            "Technology News",
+            "Product Reviews",
+            "Consumer Electronics",
+            "Tech How-To",
+            "Gadget Reviews"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of content does CNET provide?",
+            "answer": "CNET provides technology news, product reviews, how-to guides, and expert insights on the latest tech trends."
+        },
+        {
+            "question": "Who is the CEO of CNET?",
+            "answer": "Jim Lichtenstein is the CEO of CNET."
+        },
+        {
+            "question": "Where is CNET headquartered?",
+            "answer": "CNET is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are CNET's main product categories?",
+            "answer": "CNET's main product categories include product reviews, how-to guides, and tech tutorials."
+        },
+        {
+            "question": "When was CNET founded?",
+            "answer": "CNET was founded in 1994."
+        }
+    ],
+    "competitors": [
+        "GOOGL",
+        "AMZN",
+        "AAPL",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "NFLX",
+        "DIS",
+        "CMCSA",
+        "TWTR"
+    ]
+}

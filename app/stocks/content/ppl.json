@@ -1,0 +1,89 @@
+{
+    "ticker": "PPL",
+    "name": "PPL Corporation",
+    "description": "PPL Corporation is a leading energy company headquartered in Allentown, Pennsylvania, focused on delivering reliable electricity and natural gas to millions of customers across the United States and the United Kingdom. Founded in 1920, PPL has evolved from a traditional utility into a diversified energy provider with a strong commitment to sustainability and innovation. The company operates through its subsidiaries, providing electric and gas distribution, as well as energy generation. PPL is particularly known for its substantial investments in renewable energy sources, including wind and solar power, which align with its vision of a cleaner energy future. With a customer-centric approach, PPL aims to enhance the energy experience through advanced technology and infrastructure. The company is dedicated to reducing its carbon footprint and actively supports initiatives that promote energy efficiency and environmental stewardship. PPL's mission is to deliver safe, reliable, and affordable energy while fostering community relationships and economic development in the regions it serves.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Allentown, Pennsylvania, USA",
+    "founded": "1920",
+    "website": "https://www.pplweb.com",
+    "ceo": "Vincent Sorgi",
+    "social_media": {
+        "twitter": "https://twitter.com/PPL_Energy",
+        "linkedin": "https://www.linkedin.com/company/ppl-corporation"
+    },
+    "investor_relations": "https://investors.pplweb.com",
+    "key_executives": [
+        {
+            "name": "Vincent Sorgi",
+            "position": "CEO"
+        },
+        {
+            "name": "Joseph R. D'Ambrosio",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Utility",
+            "products": [
+                "Electric Distribution",
+                "Energy Generation"
+            ]
+        },
+        {
+            "category": "Gas Utility",
+            "products": [
+                "Natural Gas Distribution"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "PPL Corporation | Reliable Energy Provider",
+        "meta_description": "Learn about PPL Corporation, a leading energy company committed to delivering reliable electricity and natural gas while promoting sustainability. Explore PPL's innovative solutions and community initiatives.",
+        "keywords": [
+            "PPL Corporation",
+            "Energy Provider",
+            "Utilities",
+            "Electricity",
+            "Natural Gas",
+            "Renewable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does PPL Corporation provide?",
+            "answer": "PPL Corporation provides electric and gas distribution services, as well as energy generation."
+        },
+        {
+            "question": "Who is the CEO of PPL Corporation?",
+            "answer": "Vincent Sorgi is the CEO of PPL Corporation."
+        },
+        {
+            "question": "Where is PPL Corporation headquartered?",
+            "answer": "PPL Corporation is headquartered in Allentown, Pennsylvania, USA."
+        },
+        {
+            "question": "What is PPL's commitment to sustainability?",
+            "answer": "PPL Corporation is committed to reducing its carbon footprint and investing in renewable energy sources."
+        },
+        {
+            "question": "When was PPL Corporation founded?",
+            "answer": "PPL Corporation was founded in 1920."
+        }
+    ],
+    "competitors": [
+        "DUK",
+        "XEL",
+        "SO",
+        "AEP"
+    ],
+    "related_stocks": [
+        "NEE",
+        "DTE",
+        "ED",
+        "SRE"
+    ]
+}

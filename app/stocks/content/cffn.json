@@ -1,0 +1,87 @@
+{
+    "ticker": "CFFN",
+    "name": "Capitol Federal Financial",
+    "description": "Capitol Federal Financial, Inc. is a publicly traded savings and loan holding company based in Topeka, Kansas, primarily engaged in the business of accepting deposits and making loans. Founded in 1893, the company has a long-standing history of serving communities in Kansas and Missouri. Capitol Federal operates through its wholly-owned subsidiary, Capitol Federal Savings Bank, which offers a wide range of financial services including savings accounts, checking accounts, certificates of deposit, and various loan products such as home mortgages, home equity lines of credit, and commercial loans. The bank is committed to providing personalized, customer-oriented service and has built a reputation for its strong financial position and community involvement. Capitol Federal emphasizes stability and safety in its operations, maintaining a conservative lending approach and a focus on residential lending. The company is also known for its commitment to customer education and financial literacy, aiming to empower individuals to make informed financial decisions. With a mission to be the premier bank in the communities it serves, Capitol Federal continues to grow and adapt to the changing needs of its customers while upholding traditional values of trust and reliability.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Topeka, Kansas, USA",
+    "founded": "1893",
+    "website": "https://www.capfed.com",
+    "ceo": "John M. Dicus",
+    "social_media": {
+        "twitter": "https://twitter.com/capfed",
+        "linkedin": "https://www.linkedin.com/company/capitol-federal-financial/"
+    },
+    "investor_relations": "https://www.capfed.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "John M. Dicus",
+            "position": "CEO"
+        },
+        {
+            "name": "Patricia H. Hodge",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Deposit Accounts",
+            "products": [
+                "Savings Accounts",
+                "Checking Accounts",
+                "Certificates of Deposit"
+            ]
+        },
+        {
+            "category": "Loan Products",
+            "products": [
+                "Home Mortgages",
+                "Home Equity Lines of Credit",
+                "Commercial Loans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Capitol Federal Financial | Trusted Banking Solutions",
+        "meta_description": "Discover Capitol Federal Financial, a trusted banking institution providing a variety of deposit and loan products. Learn more about our services and commitment to community.",
+        "keywords": [
+            "Capitol Federal",
+            "Banking",
+            "Savings Accounts",
+            "Home Mortgages",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Capitol Federal offer?",
+            "answer": "Capitol Federal offers savings accounts, checking accounts, certificates of deposit, and various loan products."
+        },
+        {
+            "question": "Where is Capitol Federal headquartered?",
+            "answer": "Capitol Federal is headquartered in Topeka, Kansas, USA."
+        },
+        {
+            "question": "Who is the CEO of Capitol Federal?",
+            "answer": "John M. Dicus is the CEO of Capitol Federal Financial."
+        },
+        {
+            "question": "When was Capitol Federal founded?",
+            "answer": "Capitol Federal was founded in 1893."
+        }
+    ],
+    "competitors": [
+        "WSBF",
+        "SNV",
+        "HBAN",
+        "BANC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

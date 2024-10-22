@@ -1,0 +1,83 @@
+{
+    "ticker": "RIV.PRA",
+    "name": "Rivian Automotive, Inc.",
+    "description": "Rivian Automotive, Inc. is an American electric vehicle manufacturer founded in 2009, dedicated to producing all-electric trucks and SUVs designed for adventure and outdoor exploration. With its headquarters in Plymouth, Michigan, Rivian aims to redefine the transportation landscape by offering vehicles that are not only eco-friendly but also equipped with innovative technology and features that enhance the driving experience. The company gained significant attention with the launch of its R1T pickup truck and R1S SUV, both of which are designed to provide exceptional performance and utility for outdoor enthusiasts. Rivian emphasizes sustainability by utilizing renewable energy in its production processes and committing to carbon neutrality. The company also operates a network of fast-charging stations called Rivian Adventure Network, which supports its vehicles and promotes electric vehicle adoption. Rivian's mission is to inspire people to explore the world in a more sustainable way, positioning itself as a leader in the electric vehicle sector focused on functionality, adventure, and environmental responsibility.",
+    "industry": [
+        "Automotive",
+        "Electric Vehicles"
+    ],
+    "headquarters": "Plymouth, Michigan, USA",
+    "founded": "2009",
+    "website": "https://www.rivian.com",
+    "ceo": "RJ Scaringe",
+    "social_media": {
+        "twitter": "https://twitter.com/rivian",
+        "linkedin": "https://www.linkedin.com/company/rivian/"
+    },
+    "investor_relations": "https://ir.rivian.com",
+    "key_executives": [
+        {
+            "name": "RJ Scaringe",
+            "position": "CEO"
+        },
+        {
+            "name": "Claire McDonough",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "R1T",
+                "R1S"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rivian Automotive, Inc. | Electric Trucks and SUVs for Adventure",
+        "meta_description": "Explore Rivian Automotive, Inc., a leader in electric vehicles focused on adventure and sustainability. Discover the R1T and R1S models designed for outdoor enthusiasts.",
+        "keywords": [
+            "Rivian",
+            "Electric Vehicles",
+            "R1T",
+            "R1S",
+            "Sustainable Transportation",
+            "Adventure Vehicles"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Rivian known for?",
+            "answer": "Rivian is known for its all-electric R1T pickup truck and R1S SUV, designed for adventure and outdoor exploration."
+        },
+        {
+            "question": "Who is the CEO of Rivian?",
+            "answer": "RJ Scaringe is the CEO of Rivian Automotive, Inc."
+        },
+        {
+            "question": "Where is Rivian headquartered?",
+            "answer": "Rivian is headquartered in Plymouth, Michigan, USA."
+        },
+        {
+            "question": "What are Rivian's main products?",
+            "answer": "Rivian's main products are the R1T electric pickup truck and the R1S electric SUV."
+        },
+        {
+            "question": "When was Rivian founded?",
+            "answer": "Rivian was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "TSLA",
+        "LCID",
+        "F",
+        "GM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "ISVL",
+    "name": "Isovalent, Inc.",
+    "description": "Isovalent, Inc. is a leader in the cloud-native networking space, specializing in open-source solutions that enhance connectivity and security in modern applications. Founded in 2019, the company aims to simplify the complexities of cloud-native environments while enabling organizations to harness the full potential of Kubernetes and other cloud technologies. Isovalent is renowned for its Cilium project, which leverages eBPF (extended Berkeley Packet Filter) technology to provide high-performance networking, security, and observability for containerized applications. The company's solutions allow developers to define network policies in a more intuitive manner, ensuring that applications can communicate securely and efficiently across distributed architectures. Isovalent is committed to open-source principles, contributing to various projects in the cloud-native ecosystem, and fostering a vibrant community around its technologies. As organizations increasingly adopt microservices architectures, Isovalent\u2019s innovations play a crucial role in facilitating seamless connectivity and robust security, setting the stage for the future of cloud-native application development.",
+    "industry": [
+        "Cloud Computing",
+        "Networking"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2019",
+    "website": "https://isovalent.com",
+    "ceo": "Dan Wendlandt",
+    "social_media": {
+        "twitter": "https://twitter.com/isovalent",
+        "linkedin": "https://www.linkedin.com/company/isovalent/"
+    },
+    "investor_relations": "https://isovalent.com/investors",
+    "key_executives": [
+        {
+            "name": "Dan Wendlandt",
+            "position": "CEO"
+        },
+        {
+            "name": "Thomas Graf",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud-Native Networking",
+            "products": [
+                "Cilium",
+                "Cilium Hubble"
+            ]
+        },
+        {
+            "category": "Security Solutions",
+            "products": [
+                "Network Policies",
+                "Service Mesh"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Isovalent, Inc. | Cloud-Native Networking Solutions",
+        "meta_description": "Explore Isovalent, Inc., a leader in cloud-native networking solutions. Learn about their innovative products, open-source contributions, and commitment to simplifying connectivity in modern applications.",
+        "keywords": [
+            "Isovalent",
+            "Cloud-Native",
+            "Networking",
+            "Kubernetes",
+            "Cilium",
+            "eBPF"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Isovalent known for?",
+            "answer": "Isovalent is known for its cloud-native networking solutions, particularly the Cilium project that utilizes eBPF technology."
+        },
+        {
+            "question": "Who is the CEO of Isovalent?",
+            "answer": "Dan Wendlandt is the CEO of Isovalent, Inc."
+        },
+        {
+            "question": "Where is Isovalent headquartered?",
+            "answer": "Isovalent is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Isovalent's main products?",
+            "answer": "Isovalent's main products include Cilium and Cilium Hubble, which enhance networking and observability in cloud-native environments."
+        },
+        {
+            "question": "When was Isovalent founded?",
+            "answer": "Isovalent was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "F5",
+        "A10",
+        "VMW",
+        "NET"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "NFLX"
+    ]
+}

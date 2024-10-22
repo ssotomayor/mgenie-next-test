@@ -1,0 +1,79 @@
+{
+    "ticker": "QBTS.WS",
+    "name": "Quantum Computing Inc.",
+    "description": "Quantum Computing Inc. is a pioneering technology company focused on developing and delivering innovative quantum computing solutions. Founded in 2018, the company aims to bridge the gap between quantum computing and traditional computing environments by providing accessible quantum software and hardware solutions. Quantum Computing Inc. specializes in creating tools that enhance computational power through quantum mechanics principles, making it possible to solve complex problems much faster than conventional computers. Their flagship product, Qubit, allows users to harness the potential of quantum technologies for various applications, including optimization, machine learning, and financial modeling. By focusing on user-friendly interfaces and integration with classical computing systems, Quantum Computing Inc. strives to democratize access to quantum technology for businesses and researchers alike. The company's vision is to unlock new opportunities across industries by making quantum computing practical and applicable to real-world scenarios, thereby driving innovation and advancement in technology. With a strong emphasis on research and development, Quantum Computing Inc. collaborates with leading academic institutions and industry experts to explore new frontiers in quantum algorithms and hardware advancements.",
+    "industry": [
+        "Technology",
+        "Quantum Computing"
+    ],
+    "headquarters": "Reston, Virginia, USA",
+    "founded": "2018",
+    "website": "https://www.quantumcomputinginc.com",
+    "ceo": "Robert L. McDonald",
+    "social_media": {
+        "twitter": "https://twitter.com/QuantumCompInc",
+        "linkedin": "https://www.linkedin.com/company/quantum-computing-inc/"
+    },
+    "investor_relations": "https://www.quantumcomputinginc.com/investors",
+    "key_executives": [
+        {
+            "name": "Robert L. McDonald",
+            "position": "CEO"
+        },
+        {
+            "name": "Anita T. Sokol",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Software",
+            "products": [
+                "Qubit"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Quantum Computing Inc. | Pioneering Quantum Solutions",
+        "meta_description": "Explore Quantum Computing Inc., a leader in quantum software solutions. Discover how we are transforming industries through innovative technology.",
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Software",
+            "Qubit",
+            "Technology Innovation",
+            "Machine Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Quantum Computing Inc. specialize in?",
+            "answer": "Quantum Computing Inc. specializes in developing quantum software and hardware solutions to enhance computational power."
+        },
+        {
+            "question": "Who is the CEO of Quantum Computing Inc.?",
+            "answer": "Robert L. McDonald is the CEO of Quantum Computing Inc."
+        },
+        {
+            "question": "Where is Quantum Computing Inc. headquartered?",
+            "answer": "Quantum Computing Inc. is headquartered in Reston, Virginia, USA."
+        },
+        {
+            "question": "What is the main product of Quantum Computing Inc.?",
+            "answer": "The main product is Qubit, a quantum software tool for solving complex problems."
+        },
+        {
+            "question": "When was Quantum Computing Inc. founded?",
+            "answer": "Quantum Computing Inc. was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "GOOG",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NVDA"
+    ]
+}

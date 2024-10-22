@@ -1,0 +1,94 @@
+{
+    "ticker": "EB",
+    "name": "Eventbrite, Inc.",
+    "description": "Eventbrite, Inc. is a global ticketing and event technology platform that empowers creators to plan, promote, and sell out events. Founded in 2006 by Julia Hartz, Kevin Hartz, and Renaud Visage, Eventbrite offers a comprehensive suite of tools that streamline the event management process. From concerts and festivals to conferences and classes, Eventbrite serves millions of event creators around the world, providing them with the ability to reach audiences, manage ticket sales, and enhance attendee engagement. The platform features customizable event pages, ticketing solutions, and marketing tools to help users effectively promote their events. In addition, Eventbrite integrates with various social media and marketing platforms, allowing creators to extend their reach and maximize attendance. With a strong focus on innovation and user experience, Eventbrite strives to make event planning accessible and efficient for everyone, whether they are seasoned professionals or first-time hosts. The company's mission is to bring the world together through live experiences, creating lasting memories for attendees and meaningful connections among creators.",
+    "industry": [
+        "Technology",
+        "Event Management"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2006",
+    "website": "https://www.eventbrite.com",
+    "ceo": "Julia Hartz",
+    "social_media": {
+        "twitter": "https://twitter.com/eventbrite",
+        "linkedin": "https://www.linkedin.com/company/eventbrite/",
+        "instagram": "https://www.instagram.com/eventbrite/",
+        "facebook": "https://www.facebook.com/eventbrite"
+    },
+    "investor_relations": "https://investor.eventbrite.com",
+    "key_executives": [
+        {
+            "name": "Julia Hartz",
+            "position": "CEO"
+        },
+        {
+            "name": "Amit Karp",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Event Ticketing",
+            "products": [
+                "General Admission Tickets",
+                "Reserved Seating Tickets",
+                "Donation Tickets"
+            ]
+        },
+        {
+            "category": "Event Promotion Tools",
+            "products": [
+                "Event Pages",
+                "Email Marketing",
+                "Social Media Integration"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eventbrite, Inc. | Create, Promote, and Sell Tickets for Events",
+        "meta_description": "Eventbrite is a leading platform for event ticketing and management. Discover how Eventbrite empowers creators to host successful events and engage audiences.",
+        "keywords": [
+            "Eventbrite",
+            "Event Ticketing",
+            "Event Management",
+            "Live Events",
+            "Concert Tickets",
+            "Conference Tickets"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Eventbrite?",
+            "answer": "Eventbrite is a platform that allows users to create, promote, and sell tickets for events."
+        },
+        {
+            "question": "Who is the CEO of Eventbrite?",
+            "answer": "Julia Hartz is the CEO of Eventbrite, Inc."
+        },
+        {
+            "question": "Where is Eventbrite headquartered?",
+            "answer": "Eventbrite is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What types of events can I create on Eventbrite?",
+            "answer": "You can create a wide range of events, including concerts, classes, festivals, and conferences."
+        },
+        {
+            "question": "When was Eventbrite founded?",
+            "answer": "Eventbrite was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "LYV",
+        "CVENT",
+        "SPLK",
+        "TICKET"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "FB"
+    ]
+}

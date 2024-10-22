@@ -1,0 +1,73 @@
+{
+    "ticker": "CYAN",
+    "name": "Cyanotech Corporation",
+    "description": "Cyanotech Corporation is a leading producer of high-value natural products derived from microalgae. Founded in 1983 and headquartered in Kailua-Kona, Hawaii, the company specializes in the cultivation and production of astaxanthin, a powerful antioxidant, and other nutritional products. Cyanotech's primary product lines include BioAstin\u00ae Natural Astaxanthin, which is used in dietary supplements and cosmetics, and Hawaiian Spirulina, a nutrient-dense algae known for its health benefits. The company is committed to sustainable practices and operates its production facilities using environmentally-friendly processes. Cyanotech's products are sold globally, catering to health-conscious consumers and industries focused on wellness and natural ingredients. With a strong emphasis on research and development, Cyanotech constantly innovates to enhance its product offerings and expand its market reach. The company\u2019s mission is to improve health and well-being through the benefits of microalgae, reinforcing its dedication to quality and sustainability in every aspect of its operations.",
+    "industry": [
+        "Health & Wellness",
+        "Nutraceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "Kailua-Kona, Hawaii, USA",
+    "founded": "1983",
+    "website": "https://www.cyanotech.com",
+    "ceo": "Dr. Charles J. H. McClain",
+    "social_media": {
+        "twitter": "https://twitter.com/CyanotechCorp",
+        "linkedin": "https://www.linkedin.com/company/cyanotech-corporation"
+    },
+    "investor_relations": "https://www.cyanotech.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Dr. Charles J. H. McClain",
+            "position": "CEO"
+        },
+        {
+            "name": "Matthew W. Muir",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Nutritional Supplements",
+            "products": [
+                "BioAstin\u00ae Natural Astaxanthin",
+                "Hawaiian Spirulina"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cyanotech Corporation | Microalgae-Based Nutritional Products",
+        "meta_description": "Explore Cyanotech Corporation, a leader in microalgae-based nutritional products. Discover the benefits of BioAstin\u00ae Natural Astaxanthin and Hawaiian Spirulina.",
+        "keywords": [
+            "Cyanotech",
+            "Astaxanthin",
+            "Hawaiian Spirulina",
+            "Nutritional Supplements",
+            "Microalgae"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Cyanotech offer?",
+            "answer": "Cyanotech offers BioAstin\u00ae Natural Astaxanthin and Hawaiian Spirulina, both known for their health benefits."
+        },
+        {
+            "question": "Where is Cyanotech located?",
+            "answer": "Cyanotech is headquartered in Kailua-Kona, Hawaii, USA."
+        },
+        {
+            "question": "When was Cyanotech founded?",
+            "answer": "Cyanotech was founded in 1983."
+        }
+    ],
+    "competitors": [
+        "NLS",
+        "NUVA",
+        "FMC"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "AAPL",
+        "GOOGL"
+    ]
+}

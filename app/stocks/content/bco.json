@@ -1,0 +1,83 @@
+{
+    "ticker": "BCO",
+    "name": "Brink's Company",
+    "description": "Brink's Company is a global leader in security-related services, specializing in cash logistics, secure transportation, and security technology solutions. Founded in 1859, Brink's has built a reputation for reliability and trust, serving clients in various sectors, including financial institutions, retailers, and government agencies. The company operates in over 100 countries and provides a comprehensive suite of services including armored vehicle services, cash management, ATM services, and fraud prevention solutions. Brink's is committed to innovation, leveraging advanced technology to enhance the safety and efficiency of its operations. The company has developed sophisticated cash management systems and security solutions that help businesses manage their cash flow and protect their assets. With a strong emphasis on customer service and operational excellence, Brink's continues to expand its global footprint while adapting to the evolving security landscape. The company's mission is to provide customers with peace of mind through secure cash handling and logistics, thereby enabling them to focus on their core business activities.",
+    "industry": [
+        "Security Services",
+        "Logistics"
+    ],
+    "headquarters": "Richmond, Virginia, USA",
+    "founded": "1859",
+    "website": "https://www.brinks.com",
+    "ceo": "Doug Pertz",
+    "social_media": {
+        "twitter": "https://twitter.com/BrinksCo",
+        "linkedin": "https://www.linkedin.com/company/brinks/"
+    },
+    "investor_relations": "https://investors.brinks.com",
+    "key_executives": [
+        {
+            "name": "Doug Pertz",
+            "position": "CEO"
+        },
+        {
+            "name": "William J. O'Brien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cash Logistics",
+            "products": [
+                "Armored Vehicle Services",
+                "Cash Management Solutions"
+            ]
+        },
+        {
+            "category": "Security Technology",
+            "products": [
+                "ATM Services",
+                "Fraud Prevention Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Brink's Company | Global Leader in Security Services",
+        "meta_description": "Discover Brink's Company, the world's leading provider of security-related services, cash logistics, and secure transportation solutions.",
+        "keywords": [
+            "Brink's",
+            "Security Services",
+            "Cash Logistics",
+            "Armored Transportation",
+            "ATM Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Brink's offer?",
+            "answer": "Brink's offers cash logistics, secure transportation, ATM services, and fraud prevention solutions."
+        },
+        {
+            "question": "Who is the CEO of Brink's Company?",
+            "answer": "Doug Pertz is the CEO of Brink's Company."
+        },
+        {
+            "question": "Where is Brink's headquartered?",
+            "answer": "Brink's is headquartered in Richmond, Virginia, USA."
+        },
+        {
+            "question": "When was Brink's founded?",
+            "answer": "Brink's was founded in 1859."
+        }
+    ],
+    "competitors": [
+        "G4S",
+        "Securitas",
+        "ADT"
+    ],
+    "related_stocks": [
+        "CVI",
+        "WCC",
+        "PAYX"
+    ]
+}

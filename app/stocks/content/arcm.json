@@ -1,0 +1,91 @@
+{
+    "ticker": "ARCM",
+    "name": "Arcum Technologies, Inc.",
+    "description": "Arcum Technologies, Inc. is an innovative technology company that specializes in advanced software solutions and data analytics. Founded in 2010, Arcum aims to transform industries through the application of machine learning, artificial intelligence, and big data analytics. The company provides a suite of products designed to optimize business processes, enhance decision-making, and drive operational efficiency. Arcum's flagship product, Arcum Insight, is a powerful analytics platform that allows organizations to harness their data for actionable insights, facilitating data-driven strategies across various sectors such as finance, healthcare, and retail. The company is dedicated to research and development, continuously evolving its technologies to meet the changing needs of the marketplace. In addition to software solutions, Arcum Technologies offers consulting services to help businesses integrate technology into their operations effectively. With a commitment to innovation and customer success, Arcum Technologies strives to empower organizations to thrive in a data-centric world.",
+    "industry": [
+        "Technology",
+        "Software",
+        "Data Analytics"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "2010",
+    "website": "https://www.arcumtech.com",
+    "ceo": "Jessica Taylor",
+    "social_media": {
+        "twitter": "https://twitter.com/ArcumTech",
+        "linkedin": "https://www.linkedin.com/company/arcum-technologies/"
+    },
+    "investor_relations": "https://ir.arcumtech.com",
+    "key_executives": [
+        {
+            "name": "Jessica Taylor",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software Solutions",
+            "products": [
+                "Arcum Insight",
+                "DataViz Pro"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Business Integration Consulting",
+                "Data Strategy Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Arcum Technologies, Inc. | Advanced Software and Data Analytics Solutions",
+        "meta_description": "Explore Arcum Technologies, Inc., a leader in software solutions and data analytics. Discover how Arcum empowers businesses to leverage data for impactful decision-making.",
+        "keywords": [
+            "Arcum Technologies",
+            "Data Analytics",
+            "Software Solutions",
+            "Machine Learning",
+            "Artificial Intelligence",
+            "Business Intelligence"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Arcum Technologies specialize in?",
+            "answer": "Arcum Technologies specializes in advanced software solutions and data analytics."
+        },
+        {
+            "question": "Who is the CEO of Arcum Technologies?",
+            "answer": "Jessica Taylor is the CEO of Arcum Technologies, Inc."
+        },
+        {
+            "question": "Where is Arcum Technologies headquartered?",
+            "answer": "Arcum Technologies is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are Arcum's main products?",
+            "answer": "Arcum's main products include Arcum Insight and DataViz Pro."
+        },
+        {
+            "question": "When was Arcum Technologies founded?",
+            "answer": "Arcum Technologies was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "SAP",
+        "ADBE",
+        "CRM",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

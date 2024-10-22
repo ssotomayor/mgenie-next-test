@@ -1,0 +1,89 @@
+{
+    "ticker": "FTEL",
+    "name": "Fintel, Inc.",
+    "description": "Fintel, Inc. is a leading financial technology company that specializes in providing advanced data analytics and insights to institutional investors, financial advisors, and individual traders. Founded in 2018, Fintel focuses on democratizing access to critical financial information, enabling users to make informed investment decisions. The company's platform offers a comprehensive suite of tools that include stock screeners, options analytics, insider trading data, and real-time market analysis. Fintel's unique offerings include proprietary algorithms and machine learning models that analyze vast datasets to uncover trends and insights not readily available through traditional financial services. With a commitment to transparency, Fintel empowers its users with the resources needed to navigate the complexities of the financial markets effectively. The company\u2019s mission is to enhance investment outcomes through superior data accessibility and analysis, ultimately striving to bridge the information gap in the investment landscape.",
+    "industry": [
+        "Financial Technology",
+        "Data Analytics"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2018",
+    "website": "https://www.fintel.io",
+    "ceo": "Michael J. Kearney",
+    "social_media": {
+        "twitter": "https://twitter.com/Fintelio",
+        "linkedin": "https://www.linkedin.com/company/fintelio/"
+    },
+    "investor_relations": "https://ir.fintel.io",
+    "key_executives": [
+        {
+            "name": "Michael J. Kearney",
+            "position": "CEO"
+        },
+        {
+            "name": "Sarah Thompson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Tools",
+            "products": [
+                "Stock Screener",
+                "Options Analytics",
+                "Insider Trading Data"
+            ]
+        },
+        {
+            "category": "Market Analysis",
+            "products": [
+                "Real-Time Market Analysis",
+                "Proprietary Algorithms"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fintel, Inc. | Advanced Financial Analytics and Insights",
+        "meta_description": "Explore Fintel, Inc., a leader in financial technology providing essential data analytics and investment tools to investors. Discover how we empower smarter investment decisions.",
+        "keywords": [
+            "Fintel",
+            "Financial Technology",
+            "Data Analytics",
+            "Investment Tools",
+            "Stock Screener"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Fintel known for?",
+            "answer": "Fintel is known for its advanced financial analytics tools and data insights for investors."
+        },
+        {
+            "question": "Who is the CEO of Fintel?",
+            "answer": "Michael J. Kearney is the CEO of Fintel, Inc."
+        },
+        {
+            "question": "Where is Fintel headquartered?",
+            "answer": "Fintel is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Fintel's main products?",
+            "answer": "Fintel's main products include a stock screener, options analytics, and insider trading data."
+        },
+        {
+            "question": "When was Fintel founded?",
+            "answer": "Fintel was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "MSCI",
+        "S&P",
+        "LSEG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

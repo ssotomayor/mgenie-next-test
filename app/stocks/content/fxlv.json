@@ -1,0 +1,90 @@
+{
+    "ticker": "FXLV",
+    "name": "Flexiv Ltd.",
+    "description": "Flexiv Ltd. is a pioneering robotics company specializing in advanced robotic solutions and automation technologies. Founded in 2016, Flexiv aims to redefine the capabilities of robots through innovative designs and adaptive control systems. The company is known for its groundbreaking Rizon series of robots, which are designed to perform a wide range of tasks with unmatched flexibility and precision. These robots utilize artificial intelligence and advanced sensors to adapt to their environments and tasks without the need for extensive programming. Flexiv's solutions are widely applicable across various industries, including manufacturing, logistics, healthcare, and agriculture. The company is committed to enhancing productivity and efficiency through automation while also focusing on improving safety and operational flexibility. Flexiv is at the forefront of the Industry 4.0 revolution, providing businesses with the tools they need to thrive in an increasingly competitive landscape. With a strong emphasis on research and development, Flexiv continues to innovate and expand its product offerings, helping to shape the future of robotic automation and artificial intelligence.",
+    "industry": [
+        "Robotics",
+        "Automation",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Silicon Valley, California, USA",
+    "founded": "2016",
+    "website": "https://www.flexiv.com",
+    "ceo": "Guangfeng Chen",
+    "social_media": {
+        "twitter": "https://twitter.com/FlexivRobotics",
+        "linkedin": "https://www.linkedin.com/company/flexiv-robotics/"
+    },
+    "investor_relations": "https://ir.flexiv.com",
+    "key_executives": [
+        {
+            "name": "Guangfeng Chen",
+            "position": "CEO"
+        },
+        {
+            "name": "Ying Zhan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Robotic Solutions",
+            "products": [
+                "Rizon 4",
+                "Rizon 10"
+            ]
+        },
+        {
+            "category": "Automation Software",
+            "products": [
+                "Flexiv Adaptive Control Software"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Flexiv Ltd. | Advanced Robotics and Automation Solutions",
+        "meta_description": "Explore Flexiv Ltd., a leader in robotics and automation technology. Discover innovative robotic solutions designed to enhance productivity and efficiency in various industries.",
+        "keywords": [
+            "Flexiv",
+            "Robotics",
+            "Automation",
+            "Artificial Intelligence",
+            "Rizon Robot",
+            "Industry 4.0"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Flexiv specialize in?",
+            "answer": "Flexiv specializes in advanced robotics and automation technologies."
+        },
+        {
+            "question": "Who is the CEO of Flexiv?",
+            "answer": "Guangfeng Chen is the CEO of Flexiv Ltd."
+        },
+        {
+            "question": "Where is Flexiv headquartered?",
+            "answer": "Flexiv is headquartered in Silicon Valley, California, USA."
+        },
+        {
+            "question": "What are Flexiv's main products?",
+            "answer": "Flexiv's main products include the Rizon series of robots and adaptive control software."
+        },
+        {
+            "question": "When was Flexiv founded?",
+            "answer": "Flexiv was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "ABB",
+        "KUKA",
+        "ROK",
+        "IRBT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

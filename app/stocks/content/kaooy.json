@@ -1,0 +1,97 @@
+{
+    "ticker": "KAOOY",
+    "name": "Kao Corporation",
+    "description": "Kao Corporation is a leading global manufacturer of consumer products, specializing in personal care, household care, and cosmetics. Founded in 1887 in Japan, Kao has established itself as a pioneer in the field of chemical engineering and product innovation. The company operates under the mission of 'Kao Creating the Future of Beauty and Well-being,' striving to enhance the quality of life through its high-quality products. Kao's extensive product portfolio includes well-known brands such as Biore, Jergens, and Kao Attack, which cater to diverse consumer needs in various markets worldwide. With a strong emphasis on sustainability, Kao is committed to reducing its environmental impact through eco-friendly packaging, responsible sourcing, and innovative manufacturing processes. The company has set ambitious goals for carbon neutrality and aims to create a circular economy for its products. Kao actively invests in research and development to drive innovation in beauty and personal care while maintaining a steadfast commitment to safety and quality. With operations in over 30 countries, Kao Corporation continues to expand its global footprint, aiming to tap into emerging markets while retaining its dedication to social responsibility and corporate governance.",
+    "industry": [
+        "Consumer Goods",
+        "Personal Care",
+        "Household Products"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1887",
+    "website": "https://www.kao.com/global/en/",
+    "ceo": "Yoshihiro Tanaka",
+    "social_media": {
+        "twitter": "https://twitter.com/kao_global",
+        "linkedin": "https://www.linkedin.com/company/kao-corporation"
+    },
+    "investor_relations": "https://www.kao.com/global/en/ir/",
+    "key_executives": [
+        {
+            "name": "Yoshihiro Tanaka",
+            "position": "CEO"
+        },
+        {
+            "name": "Masahiro Kato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Care",
+            "products": [
+                "Biore",
+                "Jergens",
+                "Asience"
+            ]
+        },
+        {
+            "category": "Household Products",
+            "products": [
+                "Kao Attack",
+                "Magiclean"
+            ]
+        },
+        {
+            "category": "Beauty Products",
+            "products": [
+                "Liese",
+                "Sofina"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kao Corporation | Innovating Beauty and Well-being",
+        "meta_description": "Explore Kao Corporation, a global leader in consumer goods dedicated to enhancing beauty and well-being through innovative and sustainable products.",
+        "keywords": [
+            "Kao",
+            "Personal Care",
+            "Household Products",
+            "Sustainability",
+            "Beauty",
+            "Cosmetics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Kao Corporation known for?",
+            "answer": "Kao Corporation is known for its consumer products in personal care, household care, and cosmetics."
+        },
+        {
+            "question": "Who is the CEO of Kao Corporation?",
+            "answer": "Yoshihiro Tanaka is the CEO of Kao Corporation."
+        },
+        {
+            "question": "Where is Kao Corporation headquartered?",
+            "answer": "Kao Corporation is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are some of Kao's main brands?",
+            "answer": "Some of Kao's main brands include Biore, Jergens, and Kao Attack."
+        },
+        {
+            "question": "When was Kao Corporation founded?",
+            "answer": "Kao Corporation was founded in 1887."
+        }
+    ],
+    "competitors": [
+        "PG",
+        "UN",
+        "CL"
+    ],
+    "related_stocks": [
+        "ASPYF",
+        "NVS",
+        "AVP"
+    ]
+}

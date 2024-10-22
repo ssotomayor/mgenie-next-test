@@ -1,0 +1,89 @@
+{
+    "ticker": "CEVA",
+    "name": "CEVA, Inc.",
+    "description": "CEVA, Inc. is a leading licensor of signal processing platforms and artificial intelligence (AI) processors for a wide range of applications. Founded in 1999 and headquartered in San Jose, California, CEVA specializes in enabling the next generation of smart devices, including smartphones, wearables, IoT (Internet of Things) devices, and automotive systems. The company\u2019s technologies are designed to reduce power consumption while enhancing performance, allowing manufacturers to create innovative products that meet the demands of modern consumers. CEVA offers a comprehensive portfolio of DSP (Digital Signal Processor) cores, AI processing solutions, and software development tools that empower developers to bring their ideas to life efficiently. With a strong commitment to R&D, CEVA continuously innovates, adapting to the fast-evolving technology landscape. The company's mission is to provide its partners with cutting-edge tools that drive advancements in connectivity and intelligence. CEVA\u2019s technology is widely adopted by industry leaders, underscoring its position as a key player in the semiconductor and AI markets. The company is dedicated to fostering partnerships with innovators across various sectors, ensuring they remain at the forefront of technological evolution.",
+    "industry": [
+        "Semiconductors",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1999",
+    "website": "https://www.ceva-dsp.com",
+    "ceo": "Gideon Wertheizer",
+    "social_media": {
+        "twitter": "https://twitter.com/CEVA_DSP",
+        "linkedin": "https://www.linkedin.com/company/ceva-dsp/"
+    },
+    "investor_relations": "https://investors.ceva-dsp.com",
+    "key_executives": [
+        {
+            "name": "Gideon Wertheizer",
+            "position": "CEO"
+        },
+        {
+            "name": "Yossi Cohen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Signal Processing",
+            "products": [
+                "CEVA-XM DSP",
+                "CEVA-SLAM"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "CEVA-BX AI Processor",
+                "CEVA-BX2"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CEVA, Inc. | Signal Processing and AI Solutions",
+        "meta_description": "Explore CEVA, Inc., a leader in signal processing and AI processor technologies. Discover CEVA's innovative solutions for smart devices, IoT, and automotive applications.",
+        "keywords": [
+            "CEVA",
+            "Signal Processing",
+            "AI Processors",
+            "DSP Technology",
+            "IoT",
+            "Automotive Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CEVA specialize in?",
+            "answer": "CEVA specializes in signal processing platforms and AI processors for various applications, including IoT and automotive systems."
+        },
+        {
+            "question": "Who is the CEO of CEVA?",
+            "answer": "Gideon Wertheizer is the CEO of CEVA, Inc."
+        },
+        {
+            "question": "Where is CEVA headquartered?",
+            "answer": "CEVA is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are CEVA's main products?",
+            "answer": "CEVA's main products include DSP cores and AI processing solutions such as CEVA-XM and CEVA-BX."
+        },
+        {
+            "question": "When was CEVA founded?",
+            "answer": "CEVA was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "QCOM",
+        "AMD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "INTC"
+    ]
+}

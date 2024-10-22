@@ -1,0 +1,87 @@
+{
+    "ticker": "APPF",
+    "name": "AppFolio, Inc.",
+    "description": "AppFolio, Inc. is a leading provider of cloud-based software solutions for the property management and legal industries. Founded in 2006 by Bill and Jonathon Hsu, the company is headquartered in Santa Barbara, California. AppFolio aims to simplify and enhance the management of real estate properties and legal practices through innovative technology. Their flagship product, AppFolio Property Manager, offers an all-in-one solution for residential and commercial property management, featuring tools for online rent collection, tenant screening, maintenance tracking, and accounting. The company also offers AppFolio Law Practice Management, designed to streamline the operations of law firms with features such as case management, billing, and client communication. With a strong focus on user experience, AppFolio enables clients to operate more efficiently and effectively, freeing them to focus on growth and service. The company prioritizes customer feedback to continuously improve its offerings and stay ahead of industry trends. As a technology-driven company, AppFolio is committed to leveraging the latest advancements in cloud computing, mobile technology, and artificial intelligence to provide superior solutions to its customers.",
+    "industry": [
+        "Software",
+        "Real Estate Technology"
+    ],
+    "headquarters": "Santa Barbara, California, USA",
+    "founded": "2006",
+    "website": "https://www.appfolio.com",
+    "ceo": "Jason Randall",
+    "social_media": {
+        "twitter": "https://twitter.com/AppFolio",
+        "linkedin": "https://www.linkedin.com/company/appfolio/"
+    },
+    "investor_relations": "https://ir.appfolio.com",
+    "key_executives": [
+        {
+            "name": "Jason Randall",
+            "position": "CEO"
+        },
+        {
+            "name": "Terry McVay",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Property Management Software",
+            "products": [
+                "AppFolio Property Manager"
+            ]
+        },
+        {
+            "category": "Legal Practice Management Software",
+            "products": [
+                "AppFolio Law Practice Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AppFolio, Inc. | Cloud-Based Software for Property Management and Legal Industries",
+        "meta_description": "Discover AppFolio, Inc., a leader in cloud-based software solutions for property management and legal industries. Explore innovative products designed to enhance operational efficiency and customer service.",
+        "keywords": [
+            "AppFolio",
+            "Property Management Software",
+            "Legal Practice Management",
+            "Real Estate Technology",
+            "Cloud Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is AppFolio known for?",
+            "answer": "AppFolio is known for its cloud-based software solutions for property management and legal practice management."
+        },
+        {
+            "question": "Who is the CEO of AppFolio?",
+            "answer": "Jason Randall is the CEO of AppFolio, Inc."
+        },
+        {
+            "question": "Where is AppFolio headquartered?",
+            "answer": "AppFolio is headquartered in Santa Barbara, California, USA."
+        },
+        {
+            "question": "What products does AppFolio offer?",
+            "answer": "AppFolio offers property management software and legal practice management software."
+        },
+        {
+            "question": "When was AppFolio founded?",
+            "answer": "AppFolio was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "SMG",
+        "AVB",
+        "REZI",
+        "YARDI"
+    ],
+    "related_stocks": [
+        "CSCO",
+        "ADBE",
+        "MSFT",
+        "ORCL"
+    ]
+}

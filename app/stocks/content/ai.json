@@ -1,0 +1,91 @@
+{
+    "ticker": "AI",
+    "name": "C3.ai, Inc.",
+    "description": "C3.ai, Inc. is a leading enterprise AI software provider that enables organizations to develop, deploy, and operate large-scale AI applications. Founded in 2009 by Thomas M. Siebel, C3.ai has focused on transforming the way businesses utilize data for machine learning and artificial intelligence initiatives. The company offers a comprehensive suite of AI solutions that span various industries, including energy, manufacturing, financial services, and healthcare. C3.ai's platform allows companies to harness the power of big data and integrate advanced analytics into their operations, facilitating real-time decision-making and operational efficiency. By leveraging its unique AI technology, C3.ai empowers organizations to optimize processes, reduce costs, and drive innovation. The company's mission is to accelerate the adoption of AI across enterprises, bringing intelligent solutions to complex challenges in the digital landscape. C3.ai has received recognition for its significant contributions to the AI field and continues to expand its capabilities through strategic partnerships and collaborations.",
+    "industry": [
+        "Software",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Redwood City, California, USA",
+    "founded": "2009",
+    "website": "https://www.c3.ai",
+    "ceo": "Thomas M. Siebel",
+    "social_media": {
+        "twitter": "https://twitter.com/c3ai",
+        "linkedin": "https://www.linkedin.com/company/c3ai/"
+    },
+    "investor_relations": "https://investors.c3.ai",
+    "key_executives": [
+        {
+            "name": "Thomas M. Siebel",
+            "position": "CEO"
+        },
+        {
+            "name": "M. J. O'Neill",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "AI Applications",
+            "products": [
+                "C3 AI Suite",
+                "C3 AI CRM",
+                "C3 AI Energy Management"
+            ]
+        },
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Predictive Maintenance",
+                "Fraud Detection",
+                "Supply Chain Optimization"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "C3.ai, Inc. | Enterprise AI Solutions",
+        "meta_description": "Explore C3.ai, Inc., a pioneer in enterprise AI software solutions. Discover how C3.ai transforms businesses with powerful AI applications and analytics.",
+        "keywords": [
+            "C3.ai",
+            "Artificial Intelligence",
+            "Enterprise Software",
+            "AI Applications",
+            "Machine Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does C3.ai do?",
+            "answer": "C3.ai provides enterprise AI software that enables organizations to develop and deploy AI applications."
+        },
+        {
+            "question": "Who is the CEO of C3.ai?",
+            "answer": "Thomas M. Siebel is the CEO of C3.ai, Inc."
+        },
+        {
+            "question": "Where is C3.ai headquartered?",
+            "answer": "C3.ai is headquartered in Redwood City, California, USA."
+        },
+        {
+            "question": "What are C3.ai's main products?",
+            "answer": "C3.ai's main products include the C3 AI Suite, C3 AI CRM, and various AI solutions for predictive maintenance and fraud detection."
+        },
+        {
+            "question": "When was C3.ai founded?",
+            "answer": "C3.ai was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "IBM",
+        "ORCL",
+        "GOOGL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "TSLA",
+        "AMZN",
+        "NVDA"
+    ]
+}

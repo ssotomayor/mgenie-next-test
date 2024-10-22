@@ -1,0 +1,87 @@
+{
+    "ticker": "MORN",
+    "name": "Morningstar, Inc.",
+    "description": "Morningstar, Inc. is a leading provider of independent investment research, founded in 1984 by Joe Mansueto. The company is renowned for its comprehensive data on a wide range of investment offerings, including mutual funds, stocks, ETFs, and bonds. With a mission to empower investor success, Morningstar delivers insights through its proprietary ratings, investment analysis, and financial planning tools. The firm\u2019s flagship product, the Morningstar Direct platform, offers sophisticated analytics and research tools for investment professionals, enabling them to make informed decisions. In addition to its research services, Morningstar provides a variety of investment management solutions, including portfolio management and asset allocation strategies. The company operates globally, serving individual investors, financial advisors, and institutional clients. Through its commitment to transparency and integrity, Morningstar has established a strong reputation in the financial services industry, making it a trusted source for investment information and guidance. As the investment landscape continues to evolve, Morningstar aims to adapt and innovate, ensuring that investors have the tools and knowledge they need to achieve their financial goals.",
+    "industry": [
+        "Financial Services",
+        "Investment Research"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1984",
+    "website": "https://www.morningstar.com",
+    "ceo": "Kunal Kapoor",
+    "social_media": {
+        "twitter": "https://twitter.com/MorningstarInc",
+        "linkedin": "https://www.linkedin.com/company/morningstar/"
+    },
+    "investor_relations": "https://corporate.morningstar.com/US/InvestorRelations",
+    "key_executives": [
+        {
+            "name": "Kunal Kapoor",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott Cooley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Research",
+            "products": [
+                "Morningstar Direct",
+                "Morningstar Premium"
+            ]
+        },
+        {
+            "category": "Investment Management",
+            "products": [
+                "Managed Portfolios",
+                "Asset Allocation Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Morningstar, Inc. | Independent Investment Research and Solutions",
+        "meta_description": "Explore Morningstar, Inc., a leader in investment research and management. Discover insights, ratings, and tools to empower your investment decisions.",
+        "keywords": [
+            "Morningstar",
+            "Investment Research",
+            "Financial Services",
+            "Mutual Funds",
+            "Stock Analysis"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Morningstar do?",
+            "answer": "Morningstar provides independent investment research, data, and analysis on various investment products."
+        },
+        {
+            "question": "Who is the CEO of Morningstar?",
+            "answer": "Kunal Kapoor is the CEO of Morningstar, Inc."
+        },
+        {
+            "question": "Where is Morningstar headquartered?",
+            "answer": "Morningstar is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What are Morningstar's main products?",
+            "answer": "Morningstar's main products include Morningstar Direct and investment management services."
+        },
+        {
+            "question": "When was Morningstar founded?",
+            "answer": "Morningstar was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "SPGI",
+        "MSCI",
+        "FDS"
+    ],
+    "related_stocks": [
+        "VFINX",
+        "VTI",
+        "SWPPX"
+    ]
+}

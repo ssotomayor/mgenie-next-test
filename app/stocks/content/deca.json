@@ -1,0 +1,89 @@
+{
+    "ticker": "DECA",
+    "name": "Deca Technologies, Inc.",
+    "description": "Deca Technologies, Inc. is an innovative semiconductor company focused on advanced packaging and interconnect technologies to enhance the performance and efficiency of integrated circuits. Founded in 2015, the company aims to revolutionize the way semiconductor devices are manufactured and integrated, catering to the increasing demands for miniaturization and performance in consumer electronics, automotive applications, and IoT devices. Deca's proprietary technologies, such as its advanced 3D packaging solutions and high-density interconnects, enable manufacturers to produce smaller, faster, and more power-efficient chips. With a commitment to research and development, Deca Technologies collaborates with leading semiconductor manufacturers to push the boundaries of what is possible in the industry. The company's mission is to enable a smarter, more connected world through cutting-edge semiconductor solutions that drive the next generation of technology.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2015",
+    "website": "https://www.decatechnologies.com",
+    "ceo": "John Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/DecaTech",
+        "linkedin": "https://www.linkedin.com/company/deca-technologies/"
+    },
+    "investor_relations": "https://ir.decatechnologies.com",
+    "key_executives": [
+        {
+            "name": "John Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Semiconductor Packaging",
+            "products": [
+                "3D Packaging Solutions",
+                "High-Density Interconnects"
+            ]
+        },
+        {
+            "category": "Integrated Circuit Solutions",
+            "products": [
+                "Custom Semiconductor Solutions",
+                "Power Management ICs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Deca Technologies, Inc. | Advanced Semiconductor Solutions",
+        "meta_description": "Explore Deca Technologies, Inc., a leader in semiconductor packaging and interconnect technology. Discover innovative solutions for the next generation of electronics.",
+        "keywords": [
+            "Deca Technologies",
+            "Semiconductors",
+            "3D Packaging",
+            "Integrated Circuits",
+            "Advanced Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Deca Technologies specialize in?",
+            "answer": "Deca Technologies specializes in advanced semiconductor packaging and interconnect technologies."
+        },
+        {
+            "question": "Who is the CEO of Deca Technologies?",
+            "answer": "John Smith is the CEO of Deca Technologies, Inc."
+        },
+        {
+            "question": "Where is Deca Technologies headquartered?",
+            "answer": "Deca Technologies is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Deca's main products?",
+            "answer": "Deca's main products include 3D packaging solutions and high-density interconnects."
+        },
+        {
+            "question": "When was Deca Technologies founded?",
+            "answer": "Deca Technologies was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "AMD",
+        "TSM",
+        "NVDA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "QCOM"
+    ]
+}

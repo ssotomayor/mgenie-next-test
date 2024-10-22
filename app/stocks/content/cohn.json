@@ -1,0 +1,87 @@
+{
+    "ticker": "COHN",
+    "name": "Cohen & Company, Inc.",
+    "description": "Cohen & Company, Inc. is a diversified financial services firm specializing in asset management, investment banking, and advisory services. Founded in 1976 and headquartered in Philadelphia, Pennsylvania, the company has developed a reputation for providing innovative solutions tailored to meet the unique needs of its clients. Cohen & Company operates through several business segments, including investment banking, which offers strategic advisory services for mergers and acquisitions, capital raising, and financial restructuring. Additionally, the company manages investments across various asset classes, including private equity and real estate, focusing on delivering consistent returns for its investors. With a commitment to integrity and excellence, Cohen & Company emphasizes building long-term relationships with clients and stakeholders. The firm leverages its extensive industry knowledge and a team of experienced professionals to navigate complex financial landscapes, delivering value-added services. As a registered investment advisor, Cohen & Company is dedicated to adhering to the highest standards of compliance and fiduciary responsibility, ensuring that its clients' interests are always prioritized. The company continues to expand its offerings and geographic reach, positioning itself as a trusted partner in the financial services industry.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Asset Management"
+    ],
+    "headquarters": "Philadelphia, Pennsylvania, USA",
+    "founded": "1976",
+    "website": "https://www.cohencompany.com",
+    "ceo": "David E. Cohen",
+    "social_media": {
+        "twitter": "https://twitter.com/CohenCompany",
+        "linkedin": "https://www.linkedin.com/company/cohen-company/"
+    },
+    "investor_relations": "https://www.cohencompany.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "David E. Cohen",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael A. Cohen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions Advisory",
+                "Capital Raising",
+                "Financial Restructuring"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Private Equity",
+                "Real Estate Investments"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cohen & Company, Inc. | Financial Services and Investment Banking",
+        "meta_description": "Explore Cohen & Company, Inc., a leading financial services firm specializing in investment banking and asset management. Discover our innovative solutions and commitment to client success.",
+        "keywords": [
+            "Cohen & Company",
+            "Investment Banking",
+            "Asset Management",
+            "Financial Services",
+            "Mergers and Acquisitions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Cohen & Company offer?",
+            "answer": "Cohen & Company offers investment banking, asset management, and advisory services."
+        },
+        {
+            "question": "Who is the CEO of Cohen & Company?",
+            "answer": "David E. Cohen is the CEO of Cohen & Company, Inc."
+        },
+        {
+            "question": "Where is Cohen & Company headquartered?",
+            "answer": "Cohen & Company is headquartered in Philadelphia, Pennsylvania, USA."
+        },
+        {
+            "question": "When was Cohen & Company founded?",
+            "answer": "Cohen & Company was founded in 1976."
+        }
+    ],
+    "competitors": [
+        "GS",
+        "JPM",
+        "MS",
+        "LFG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

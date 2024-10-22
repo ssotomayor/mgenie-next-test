@@ -1,0 +1,91 @@
+{
+    "ticker": "MSCI",
+    "name": "MSCI Inc.",
+    "description": "MSCI Inc. is a leading provider of critical decision support tools and services for the global investment community. Founded in 1969, the company is renowned for its extensive range of indices and analytics that help institutional investors, asset managers, and other financial professionals make informed investment decisions. MSCI offers a wide array of products, including equity indices, fixed income indices, multi-asset class indices, and environmental, social, and governance (ESG) ratings. The company's indices are widely used as benchmarks for investment performance and are integral to portfolio construction and risk management. MSCI has a strong commitment to innovation, continuously enhancing its analytics and data solutions to meet the evolving needs of its clients. The company's focus on ESG and sustainability has positioned it as a thought leader in responsible investing, providing investors with the tools to assess the impact of their investments on society and the environment. With headquarters in New York City and offices globally, MSCI serves a diverse clientele, including asset owners, asset managers, and other financial institutions, empowering them to navigate an increasingly complex investment landscape.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1969",
+    "website": "https://www.msci.com",
+    "ceo": "Henry A. Fernandez",
+    "social_media": {
+        "twitter": "https://twitter.com/MSCI_Inc",
+        "linkedin": "https://www.linkedin.com/company/msci/"
+    },
+    "investor_relations": "https://ir.msci.com",
+    "key_executives": [
+        {
+            "name": "Henry A. Fernandez",
+            "position": "CEO"
+        },
+        {
+            "name": "Linda S. Huber",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Indices",
+            "products": [
+                "MSCI ACWI",
+                "MSCI Emerging Markets",
+                "MSCI World"
+            ]
+        },
+        {
+            "category": "Analytics and Risk Management",
+            "products": [
+                "MSCI Barra",
+                "MSCI ESG Ratings"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MSCI Inc. | Investment Decision Support Tools and Services",
+        "meta_description": "Explore MSCI Inc. for critical investment decision support tools, including indices and analytics. Learn about MSCI's commitment to ESG and responsible investing.",
+        "keywords": [
+            "MSCI",
+            "Investment Management",
+            "Indices",
+            "ESG Ratings",
+            "Risk Management",
+            "Financial Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is MSCI known for?",
+            "answer": "MSCI is known for its investment indices and analytics, which support decision-making for investors worldwide."
+        },
+        {
+            "question": "Who is the CEO of MSCI?",
+            "answer": "Henry A. Fernandez is the CEO of MSCI Inc."
+        },
+        {
+            "question": "Where is MSCI headquartered?",
+            "answer": "MSCI is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are MSCI's main products?",
+            "answer": "MSCI's main products include investment indices, risk management tools, and ESG ratings."
+        },
+        {
+            "question": "When was MSCI founded?",
+            "answer": "MSCI was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "SPGI",
+        "FTNT",
+        "VNO",
+        "BX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

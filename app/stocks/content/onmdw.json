@@ -1,0 +1,81 @@
+{
+    "ticker": "ONMDW",
+    "name": "OncoSec Medical Incorporated",
+    "description": "OncoSec Medical Incorporated is a biotechnology company focused on developing innovative therapies for the treatment of cancer. Founded in 2012 and headquartered in San Diego, California, OncoSec is dedicated to advancing its proprietary immunotherapy platform, known as the OncoSec Medical System (OMS), which utilizes electroporation to enhance the delivery of therapeutic agents to tumor sites. The company's lead product candidate, OMS-102, is designed to stimulate the immune system to recognize and attack cancer cells. OncoSec's unique approach aims to improve patient outcomes by leveraging the body's own immune response while minimizing systemic side effects often associated with traditional cancer treatments. The company has been involved in several clinical trials, showing promising results in various forms of cancer, including melanoma and breast cancer. With a strong commitment to research and development, OncoSec is positioned to play a significant role in the evolving landscape of cancer immunotherapy.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "2012",
+    "website": "https://www.oncosec.com",
+    "ceo": "Daniel O'Connor",
+    "social_media": {
+        "twitter": "https://twitter.com/OncoSec",
+        "linkedin": "https://www.linkedin.com/company/oncosec-medical-incorporated/"
+    },
+    "investor_relations": "https://ir.oncosec.com",
+    "key_executives": [
+        {
+            "name": "Daniel O'Connor",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael E. Kauffman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Immunotherapy",
+            "products": [
+                "OMS-102"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "OncoSec Medical Incorporated | Innovative Cancer Therapies",
+        "meta_description": "Explore OncoSec Medical, a leader in developing advanced immunotherapy solutions for cancer treatment, aiming to improve patient outcomes through innovative technology.",
+        "keywords": [
+            "OncoSec",
+            "Cancer Immunotherapy",
+            "Biotechnology",
+            "OMS-102",
+            "Cancer Treatment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is OncoSec known for?",
+            "answer": "OncoSec is known for its innovative immunotherapy platform aimed at enhancing cancer treatment."
+        },
+        {
+            "question": "Who is the CEO of OncoSec?",
+            "answer": "Daniel O'Connor is the CEO of OncoSec Medical Incorporated."
+        },
+        {
+            "question": "Where is OncoSec headquartered?",
+            "answer": "OncoSec is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What are OncoSec's main products?",
+            "answer": "OncoSec's main product candidate is OMS-102, which is designed for cancer immunotherapy."
+        },
+        {
+            "question": "When was OncoSec founded?",
+            "answer": "OncoSec was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "NK",
+        "CRIS",
+        "AVEO",
+        "MDGL"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "GILD",
+        "REGN",
+        "VRTX"
+    ]
+}

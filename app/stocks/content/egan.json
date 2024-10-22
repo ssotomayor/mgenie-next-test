@@ -1,0 +1,93 @@
+{
+    "ticker": "EGAN",
+    "name": "eGain Corporation",
+    "description": "eGain Corporation is a leading provider of cloud-based customer engagement solutions for businesses worldwide. Founded in 1997, eGain has established itself as a pioneer in the field of customer service and engagement, offering a suite of products that enable organizations to deliver exceptional customer experiences across multiple channels, including web, mobile, social, and voice. The company\u2019s flagship product, the eGain Engagement Platform, integrates AI-driven knowledge management, chat, and email solutions to empower customer service teams to resolve inquiries efficiently and effectively. eGain serves a diverse range of industries, including telecommunications, financial services, healthcare, and retail, helping companies improve customer satisfaction, reduce service costs, and drive sales. With a strong focus on innovation, eGain continues to invest in AI and analytics, enabling businesses to leverage data for better decision-making and enhanced customer interactions. The company is headquartered in Sunnyvale, California, and has a global presence, serving organizations in over 30 countries. eGain's mission is to transform the way companies engage with their customers, ensuring that every interaction is meaningful and productive.",
+    "industry": [
+        "Software",
+        "Customer Service",
+        "Cloud Computing"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "1997",
+    "website": "https://www.egain.com",
+    "ceo": "Ashu Roy",
+    "social_media": {
+        "twitter": "https://twitter.com/eGain",
+        "linkedin": "https://www.linkedin.com/company/egain-corporation/",
+        "youtube": "https://www.youtube.com/user/eGainCorp"
+    },
+    "investor_relations": "https://www.egain.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Ashu Roy",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric R. S. D. Snider",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Customer Engagement Solutions",
+            "products": [
+                "eGain Engagement Platform",
+                "Knowledge Management",
+                "Chat",
+                "Email Management"
+            ]
+        },
+        {
+            "category": "AI and Analytics",
+            "products": [
+                "AI-powered Virtual Assistants",
+                "Analytics and Reporting Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "eGain Corporation | Cloud-Based Customer Engagement Solutions",
+        "meta_description": "Explore eGain Corporation, a leader in cloud-based customer engagement solutions. Discover how eGain transforms customer service with AI-driven technology.",
+        "keywords": [
+            "eGain",
+            "Customer Engagement",
+            "Cloud Solutions",
+            "AI in Customer Service",
+            "Customer Experience"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does eGain do?",
+            "answer": "eGain provides cloud-based customer engagement solutions that help businesses improve customer service and experience."
+        },
+        {
+            "question": "Who is the CEO of eGain?",
+            "answer": "Ashu Roy is the CEO of eGain Corporation."
+        },
+        {
+            "question": "Where is eGain headquartered?",
+            "answer": "eGain is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What products does eGain offer?",
+            "answer": "eGain offers the eGain Engagement Platform, Knowledge Management, Chat, and AI-powered Virtual Assistants."
+        },
+        {
+            "question": "When was eGain founded?",
+            "answer": "eGain was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "TWLO",
+        "ZEND",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

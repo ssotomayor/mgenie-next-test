@@ -1,0 +1,90 @@
+{
+    "ticker": "PFE",
+    "name": "Pfizer Inc.",
+    "description": "Pfizer Inc. is a global pharmaceutical company dedicated to discovering, developing, and delivering innovative healthcare solutions that improve the lives of patients worldwide. Founded in 1849, Pfizer has a rich history of scientific advancement and a commitment to research and development. The company is known for its diverse portfolio of medications, including treatments for cancer, cardiovascular diseases, and infectious diseases, as well as vaccines. Pfizer gained significant recognition for its role in developing one of the first COVID-19 vaccines in collaboration with BioNTech, showcasing its capacity for rapid innovation in response to global health crises. With a strong emphasis on sustainability and corporate responsibility, Pfizer seeks to enhance access to healthcare and address public health challenges. The company's mission is to deliver breakthroughs that change patients' lives, leveraging cutting-edge science and technology to achieve this goal. Pfizer operates in over 125 countries, employing thousands of professionals dedicated to advancing healthcare solutions through rigorous research and collaboration. The company is also committed to transparency and ethical practices in its operations, ensuring that its products meet the highest safety and efficacy standards.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1849",
+    "website": "https://www.pfizer.com",
+    "ceo": "Albert Bourla",
+    "social_media": {
+        "twitter": "https://twitter.com/Pfizer",
+        "linkedin": "https://www.linkedin.com/company/pfizer/"
+    },
+    "investor_relations": "https://investors.pfizer.com",
+    "key_executives": [
+        {
+            "name": "Albert Bourla",
+            "position": "CEO"
+        },
+        {
+            "name": "Frank D'Amelio",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "Comirnaty",
+                "Prevnar 13"
+            ]
+        },
+        {
+            "category": "Oncology",
+            "products": [
+                "Ibrance",
+                "Sutent"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pfizer Inc. | Innovative Pharmaceutical Solutions",
+        "meta_description": "Explore Pfizer Inc., a global leader in pharmaceuticals committed to delivering innovative healthcare solutions and vaccines to improve patient lives.",
+        "keywords": [
+            "Pfizer",
+            "Pharmaceuticals",
+            "Vaccines",
+            "Healthcare",
+            "COVID-19 Vaccine",
+            "Albert Bourla"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Pfizer known for?",
+            "answer": "Pfizer is known for its innovative pharmaceutical products, including vaccines and treatments for various diseases."
+        },
+        {
+            "question": "Who is the CEO of Pfizer?",
+            "answer": "Albert Bourla is the CEO of Pfizer Inc."
+        },
+        {
+            "question": "Where is Pfizer headquartered?",
+            "answer": "Pfizer is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Pfizer's main products?",
+            "answer": "Pfizer's main products include vaccines like Comirnaty and treatments for oncology such as Ibrance."
+        },
+        {
+            "question": "When was Pfizer founded?",
+            "answer": "Pfizer was founded in 1849."
+        }
+    ],
+    "competitors": [
+        "MRK",
+        "JNJ",
+        "ABBV",
+        "BMY"
+    ],
+    "related_stocks": [
+        "UNH",
+        "AMGN",
+        "GILD",
+        "REGN"
+    ]
+}

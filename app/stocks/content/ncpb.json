@@ -1,0 +1,90 @@
+{
+    "ticker": "NCPB",
+    "name": "Nucor Corporation",
+    "description": "Nucor Corporation is a leading manufacturer of steel and steel products in the United States, recognized for its commitment to sustainability and innovation in the steel industry. Founded in 1905 and headquartered in Charlotte, North Carolina, Nucor operates more than 200 facilities across the nation and is the largest producer of steel in the U.S. The company primarily produces steel beams, rebar, and sheet steel, serving a diverse range of sectors including construction, automotive, and energy. Nucor is known for its environmentally friendly production processes, utilizing electric arc furnaces that reduce carbon emissions and energy consumption compared to traditional steelmaking methods. The company actively focuses on recycling scrap steel, making it one of the largest recyclers in North America, which is integral to its sustainability practices. Nucor's strategy emphasizes continuous improvement in operational efficiency and product quality, and it invests significantly in advanced technologies and workforce development. The company\u2019s culture is driven by a decentralized management structure that empowers its employees and encourages innovation. With a strong commitment to corporate social responsibility, Nucor aims to create value not only for its shareholders but also for the communities it serves.",
+    "industry": [
+        "Steel",
+        "Manufacturing"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1905",
+    "website": "https://www.nucor.com",
+    "ceo": "Leon Topalian",
+    "social_media": {
+        "twitter": "https://twitter.com/nucorsteel",
+        "linkedin": "https://www.linkedin.com/company/nucor-corporation/"
+    },
+    "investor_relations": "https://www.nucor.com/investors/",
+    "key_executives": [
+        {
+            "name": "Leon Topalian",
+            "position": "CEO"
+        },
+        {
+            "name": "Jim Frias",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Steel Products",
+            "products": [
+                "Steel Beams",
+                "Rebar",
+                "Sheet Steel"
+            ]
+        },
+        {
+            "category": "Steel Solutions",
+            "products": [
+                "Steel Decking",
+                "Steel Joists"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nucor Corporation | Leading Steel Manufacturer in the USA",
+        "meta_description": "Explore Nucor Corporation, a leader in steel manufacturing committed to sustainability and innovation. Learn about Nucor's products, mission, and impact on the industry.",
+        "keywords": [
+            "Nucor",
+            "Steel Manufacturing",
+            "Sustainable Steel",
+            "Recycling",
+            "Electric Arc Furnace"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nucor Corporation do?",
+            "answer": "Nucor Corporation is a leading manufacturer of steel and steel products, focusing on sustainability and innovation."
+        },
+        {
+            "question": "Who is the CEO of Nucor?",
+            "answer": "Leon Topalian is the CEO of Nucor Corporation."
+        },
+        {
+            "question": "Where is Nucor headquartered?",
+            "answer": "Nucor is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "What types of products does Nucor produce?",
+            "answer": "Nucor produces steel beams, rebar, sheet steel, and various steel solutions."
+        },
+        {
+            "question": "When was Nucor founded?",
+            "answer": "Nucor was founded in 1905."
+        }
+    ],
+    "competitors": [
+        "STLD",
+        "X",
+        "AKS",
+        "NUE"
+    ],
+    "related_stocks": [
+        "FCX",
+        "CZR",
+        "DE",
+        "CAT"
+    ]
+}

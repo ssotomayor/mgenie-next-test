@@ -1,0 +1,92 @@
+{
+    "ticker": "SINGY",
+    "name": "SINGAPORE AIRLINES LTD",
+    "description": "Singapore Airlines Ltd (SIA) is a leading global airline headquartered in Singapore, known for its outstanding service and premium offerings. Founded in 1947, SIA has built a reputation for excellence in the aviation industry, consistently ranked among the world's best airlines. The company operates a modern fleet of aircraft, primarily consisting of Airbus and Boeing models, serving over 130 destinations worldwide. Singapore Airlines is renowned for its commitment to customer satisfaction, offering a range of services from economy to luxurious first-class experiences. SIA also operates the low-cost subsidiary Scoot, expanding its reach to budget-conscious travelers. The airline has received numerous awards for its in-flight services, cabin comfort, and innovative inflight entertainment systems. As part of its commitment to sustainability, Singapore Airlines is actively working towards reducing its carbon footprint through various initiatives, including fuel-efficient aircraft and sustainable aviation fuel. The airline is a member of the Star Alliance network, enhancing connectivity and travel options for its passengers through partnerships with other leading airlines. With a focus on innovation and quality, Singapore Airlines continues to shape the future of air travel, ensuring a safe, comfortable, and memorable journey for its customers.",
+    "industry": [
+        "Aviation",
+        "Transportation"
+    ],
+    "headquarters": "Singapore",
+    "founded": "1947",
+    "website": "https://www.singaporeair.com",
+    "ceo": "Goh Choon Phong",
+    "social_media": {
+        "twitter": "https://twitter.com/SingaporeAir",
+        "linkedin": "https://www.linkedin.com/company/singaporeair/",
+        "instagram": "https://www.instagram.com/singaporeair/",
+        "youtube": "https://www.youtube.com/user/SingaporeAir"
+    },
+    "investor_relations": "https://www.singaporeair.com/en_UK/fly/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Goh Choon Phong",
+            "position": "CEO"
+        },
+        {
+            "name": "Lee Lik Hsin",
+            "position": "Executive Vice President Commercial"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "First Class",
+                "Business Class",
+                "Economy Class"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Air Freight",
+                "Special Cargo Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Singapore Airlines | World's Best Airline",
+        "meta_description": "Experience world-class service with Singapore Airlines, a leading global airline offering premium travel experiences and unparalleled hospitality.",
+        "keywords": [
+            "Singapore Airlines",
+            "Aviation",
+            "Luxury Travel",
+            "Airline",
+            "Flight Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Singapore Airlines known for?",
+            "answer": "Singapore Airlines is known for its exceptional service, luxury travel experiences, and its modern fleet of aircraft."
+        },
+        {
+            "question": "Who is the CEO of Singapore Airlines?",
+            "answer": "Goh Choon Phong is the CEO of Singapore Airlines Ltd."
+        },
+        {
+            "question": "Where is Singapore Airlines headquartered?",
+            "answer": "Singapore Airlines is headquartered in Singapore."
+        },
+        {
+            "question": "What classes of travel does Singapore Airlines offer?",
+            "answer": "Singapore Airlines offers First Class, Business Class, and Economy Class."
+        },
+        {
+            "question": "When was Singapore Airlines founded?",
+            "answer": "Singapore Airlines was founded in 1947."
+        }
+    ],
+    "competitors": [
+        "UAL",
+        "DAL",
+        "AAL",
+        "LHA"
+    ],
+    "related_stocks": [
+        "BA",
+        "EADSY",
+        "RYAAY",
+        "ALGT"
+    ]
+}

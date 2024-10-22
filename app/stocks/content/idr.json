@@ -1,0 +1,93 @@
+{
+    "ticker": "IDR",
+    "name": "Indra Sistemas S.A.",
+    "description": "Indra Sistemas S.A. is a leading global technology and consulting company based in Spain, specializing in providing innovative solutions in the fields of information technology, defense, transportation, energy, and telecommunications. Founded in 1993, Indra leverages cutting-edge technology to deliver advanced services and systems that enhance operational efficiency and competitiveness for its clients. With a strong presence in over 140 countries, Indra focuses on sectors such as public administration, financial services, and healthcare, striving to create value through digital transformation and consultancy. The company is known for its commitment to sustainability and social responsibility, with initiatives aimed at promoting diversity and reducing environmental impact. Indra's portfolio includes a wide range of products and services, including cybersecurity solutions, smart transportation systems, and comprehensive IT services. The company emphasizes research and development, investing significantly in innovation to stay at the forefront of technological advancements. Indra is dedicated to fostering strategic partnerships and collaborations to enhance its service offerings and deliver tailored solutions to meet the evolving needs of its clients globally.",
+    "industry": [
+        "Technology",
+        "Consulting",
+        "Defense"
+    ],
+    "headquarters": "Madrid, Spain",
+    "founded": "1993",
+    "website": "https://www.indracompany.com",
+    "ceo": "Fernando Abril-Martorell",
+    "social_media": {
+        "twitter": "https://twitter.com/IndraCompany",
+        "linkedin": "https://www.linkedin.com/company/indra",
+        "facebook": "https://www.facebook.com/IndraCompany"
+    },
+    "investor_relations": "https://www.indracompany.com/en/investor-relations",
+    "key_executives": [
+        {
+            "name": "Fernando Abril-Martorell",
+            "position": "CEO"
+        },
+        {
+            "name": "Cristina Ruiz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Services",
+            "products": [
+                "Cybersecurity Solutions",
+                "Cloud Services",
+                "Big Data Analytics"
+            ]
+        },
+        {
+            "category": "Transport Solutions",
+            "products": [
+                "Smart Transportation Systems",
+                "Railway Management Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Indra Sistemas S.A. | Leading Global Technology and Consulting Company",
+        "meta_description": "Discover Indra Sistemas S.A., a leader in technology and consulting services. Explore our innovative solutions across various sectors, including IT, defense, transportation, and energy.",
+        "keywords": [
+            "Indra Sistemas",
+            "Technology",
+            "Consulting",
+            "Cybersecurity",
+            "Digital Transformation",
+            "Smart Transportation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Indra Sistemas specialize in?",
+            "answer": "Indra Sistemas specializes in technology and consulting solutions in various sectors, including IT, defense, and transportation."
+        },
+        {
+            "question": "Who is the CEO of Indra Sistemas?",
+            "answer": "Fernando Abril-Martorell is the CEO of Indra Sistemas S.A."
+        },
+        {
+            "question": "Where is Indra headquartered?",
+            "answer": "Indra is headquartered in Madrid, Spain."
+        },
+        {
+            "question": "What are Indra's main services?",
+            "answer": "Indra's main services include IT services, cybersecurity solutions, and smart transportation systems."
+        },
+        {
+            "question": "When was Indra Sistemas founded?",
+            "answer": "Indra Sistemas was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "CGC",
+        "IBM",
+        "ACC",
+        "TCS"
+    ],
+    "related_stocks": [
+        "SAP",
+        "ORCL",
+        "MSFT",
+        "ADBE"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "SEOAY",
+    "name": "Severstal",
+    "description": "Severstal is a leading Russian steel and mining company, recognized for its high-quality steel products and a significant player in the global steel market. Founded in 1955 and headquartered in Cherepovets, Russia, Severstal operates a diverse range of businesses, including steel production, mining, and metal processing. The company\u2019s steel division produces a wide variety of flat and long steel products for various industries, including construction, automotive, and energy. Severstal also owns and operates several iron ore and coal mining assets, ensuring a stable supply of raw materials for its steel production. The company is committed to sustainable development and innovation, focusing on reducing its environmental impact while improving efficiency and productivity. Severstal\u2019s strategic initiatives include investments in advanced technologies and the development of new steel grades that meet the evolving needs of customers worldwide. As part of its growth strategy, Severstal actively seeks to expand its market presence both domestically and internationally, positioning itself as a reliable partner in the global steel supply chain.",
+    "industry": [
+        "Steel",
+        "Mining"
+    ],
+    "headquarters": "Cherepovets, Russia",
+    "founded": "1955",
+    "website": "https://www.severstal.com",
+    "ceo": "Alexander Shevelev",
+    "social_media": {
+        "twitter": "https://twitter.com/Severstal_eng",
+        "linkedin": "https://www.linkedin.com/company/severstal/"
+    },
+    "investor_relations": "https://www.severstal.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Alexander Shevelev",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrey Laptev",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Steel Products",
+            "products": [
+                "Flat Steel",
+                "Long Steel",
+                "Coated Steel"
+            ]
+        },
+        {
+            "category": "Mining",
+            "products": [
+                "Iron Ore",
+                "Coking Coal"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Severstal | Leading Russian Steel and Mining Company",
+        "meta_description": "Explore Severstal, a leading Russian steel and mining company committed to high-quality products and sustainable development. Discover our innovations and market strategies.",
+        "keywords": [
+            "Severstal",
+            "Steel Production",
+            "Mining",
+            "Iron Ore",
+            "Coking Coal",
+            "Sustainable Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Severstal do?",
+            "answer": "Severstal is involved in steel production and mining, focusing on high-quality steel products and raw materials."
+        },
+        {
+            "question": "Who is the CEO of Severstal?",
+            "answer": "Alexander Shevelev is the CEO of Severstal."
+        },
+        {
+            "question": "Where is Severstal headquartered?",
+            "answer": "Severstal is headquartered in Cherepovets, Russia."
+        },
+        {
+            "question": "What are Severstal's main products?",
+            "answer": "Severstal's main products include flat steel, long steel, iron ore, and coking coal."
+        },
+        {
+            "question": "When was Severstal founded?",
+            "answer": "Severstal was founded in 1955."
+        }
+    ],
+    "competitors": [
+        "MT",
+        "NUE",
+        "PKX",
+        "X"
+    ],
+    "related_stocks": [
+        "BHP",
+        "RIO",
+        "VALE",
+        "CLF"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "RIO",
+    "name": "Rio Tinto Group",
+    "description": "Rio Tinto Group is a leading global mining and metals company, established in 1873. Headquartered in London, England, Rio Tinto operates across several continents, with a strong presence in Australia and North America. The company is renowned for its extensive portfolio of high-quality mining operations, which include iron ore, aluminum, copper, diamonds, gold, and uranium. Rio Tinto is committed to sustainable mining practices and strives to minimize its environmental footprint while maximizing value for stakeholders. The company emphasizes innovation and technology in its operations, continually seeking ways to improve efficiency and safety. Rio Tinto has made significant investments in renewable energy and is actively working to reduce greenhouse gas emissions through various initiatives, including the use of electric haul trucks and sustainable water management practices. With a strong focus on community engagement, Rio Tinto aims to create long-term benefits for local communities and to ensure responsible resource extraction. The company's mission is to produce the materials essential for human progress, while adhering to high ethical standards and promoting sustainability in all its endeavors.",
+    "industry": [
+        "Mining",
+        "Metals"
+    ],
+    "headquarters": "London, England, UK",
+    "founded": "1873",
+    "website": "https://www.riotinto.com",
+    "ceo": "Jakob Stausholm",
+    "social_media": {
+        "twitter": "https://twitter.com/riotinto",
+        "linkedin": "https://www.linkedin.com/company/rio-tinto"
+    },
+    "investor_relations": "https://www.riotinto.com/investors",
+    "key_executives": [
+        {
+            "name": "Jakob Stausholm",
+            "position": "CEO"
+        },
+        {
+            "name": "Sinead Gorman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Metals",
+            "products": [
+                "Iron Ore",
+                "Aluminum",
+                "Copper"
+            ]
+        },
+        {
+            "category": "Minerals",
+            "products": [
+                "Diamonds",
+                "Uranium",
+                "Gold"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rio Tinto Group | Leading Global Mining and Metals Company",
+        "meta_description": "Explore Rio Tinto Group, a leading global mining company dedicated to sustainable resource extraction and high-quality metals and minerals. Discover our operations, values, and commitment to communities.",
+        "keywords": [
+            "Rio Tinto",
+            "Mining",
+            "Metals",
+            "Iron Ore",
+            "Aluminum",
+            "Sustainable Mining"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Rio Tinto do?",
+            "answer": "Rio Tinto is a global mining and metals company that produces essential materials such as iron ore, aluminum, copper, diamonds, gold, and uranium."
+        },
+        {
+            "question": "Who is the CEO of Rio Tinto?",
+            "answer": "Jakob Stausholm is the CEO of Rio Tinto Group."
+        },
+        {
+            "question": "Where is Rio Tinto headquartered?",
+            "answer": "Rio Tinto is headquartered in London, England, UK."
+        },
+        {
+            "question": "What are Rio Tinto's main products?",
+            "answer": "Rio Tinto's main products include iron ore, aluminum, copper, diamonds, gold, and uranium."
+        },
+        {
+            "question": "When was Rio Tinto founded?",
+            "answer": "Rio Tinto was founded in 1873."
+        }
+    ],
+    "competitors": [
+        "BHP",
+        "VALE",
+        "FCX",
+        "NEM"
+    ],
+    "related_stocks": [
+        "GLEN",
+        "SCCO",
+        "AA"
+    ]
+}

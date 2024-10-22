@@ -1,0 +1,94 @@
+{
+    "ticker": "FORM",
+    "name": "FormFactor, Inc.",
+    "description": "FormFactor, Inc. is a leading provider of advanced semiconductor test and measurement solutions, primarily serving the global electronics industry. Founded in 1993 and headquartered in Livermore, California, FormFactor specializes in probe cards, which are essential for testing semiconductor wafers during the manufacturing process. The company\u2019s innovative technologies support a variety of applications, including 5G, artificial intelligence, and high-performance computing. FormFactor's products are designed to improve the efficiency and accuracy of semiconductor testing, thereby helping manufacturers enhance yield and reduce costs. Known for its commitment to research and development, FormFactor invests heavily in next-generation technologies and processes, ensuring that it remains at the forefront of the semiconductor industry. The company operates across several key markets, including memory, logic, and RF, and collaborates with leading semiconductor manufacturers to address the increasing complexity of chip designs. By focusing on customer needs and technological advancements, FormFactor aims to deliver high-quality solutions that drive productivity and performance in semiconductor testing. With a vision to enable the next generation of technology, FormFactor continues to expand its product offerings and global reach, making significant contributions to the evolution of electronic devices.",
+    "industry": [
+        "Semiconductors",
+        "Test and Measurement"
+    ],
+    "headquarters": "Livermore, California, USA",
+    "founded": "1993",
+    "website": "https://www.formfactor.com",
+    "ceo": "Mike Slessor",
+    "social_media": {
+        "twitter": "https://twitter.com/FormFactorInc",
+        "linkedin": "https://www.linkedin.com/company/formfactor/"
+    },
+    "investor_relations": "https://investors.formfactor.com",
+    "key_executives": [
+        {
+            "name": "Mike Slessor",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric Hsu",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/eric-hsu-3a8a0b3/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Probe Cards",
+            "products": [
+                "MEMS Probe Cards",
+                "RF Probe Cards",
+                "High-Speed Probe Cards"
+            ]
+        },
+        {
+            "category": "Test Solutions",
+            "products": [
+                "Wafer Test Systems",
+                "Automated Test Equipment"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FormFactor, Inc. | Semiconductor Test Solutions",
+        "meta_description": "Explore FormFactor, Inc., a leader in semiconductor test solutions. Discover innovative probe cards and test systems driving efficiency in the electronics industry.",
+        "keywords": [
+            "FormFactor",
+            "Semiconductor Test",
+            "Probe Cards",
+            "Wafer Test",
+            "Electronics",
+            "5G Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is FormFactor known for?",
+            "answer": "FormFactor is known for its advanced semiconductor test and measurement solutions, particularly probe cards used in semiconductor manufacturing."
+        },
+        {
+            "question": "Who is the CEO of FormFactor?",
+            "answer": "Mike Slessor is the CEO of FormFactor, Inc."
+        },
+        {
+            "question": "Where is FormFactor headquartered?",
+            "answer": "FormFactor is headquartered in Livermore, California, USA."
+        },
+        {
+            "question": "What are FormFactor's main products?",
+            "answer": "FormFactor's main products include MEMS probe cards, RF probe cards, wafer test systems, and automated test equipment."
+        },
+        {
+            "question": "When was FormFactor founded?",
+            "answer": "FormFactor was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "TER",
+        "LRCX",
+        "ASML",
+        "AMAT"
+    ],
+    "related_stocks": [
+        "INTC",
+        "NVDA",
+        "TXN",
+        "QCOM"
+    ]
+}

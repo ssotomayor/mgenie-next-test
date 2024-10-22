@@ -1,0 +1,78 @@
+{
+    "ticker": "BTU",
+    "name": "Peabody Energy Corporation",
+    "description": "Peabody Energy Corporation is a leading global coal company, operating in the energy sector with a focus on the mining and sale of coal. Founded in 1883 and headquartered in St. Louis, Missouri, Peabody is known for its extensive mining operations, which span the United States and Australia, making it one of the largest coal producers in the world. The company plays a crucial role in providing affordable and reliable energy, primarily through its thermal and metallurgical coal products that serve electricity generation and steel manufacturing markets. Peabody is committed to sustainable mining practices, investing in technology and innovations aimed at reducing environmental impacts. The company has adopted a strategy that includes a focus on operational excellence, financial discipline, and a commitment to safety. Peabody also engages in community initiatives and strives to maintain strong relationships with stakeholders, ensuring a positive impact on the regions where it operates. With a forward-looking approach, Peabody aims to adapt to the evolving energy landscape while continuing to meet global energy demands.",
+    "industry": [
+        "Energy",
+        "Mining"
+    ],
+    "headquarters": "St. Louis, Missouri, USA",
+    "founded": "1883",
+    "website": "https://www.peabodyenergy.com",
+    "ceo": "Jim Grech",
+    "social_media": {
+        "twitter": "https://twitter.com/PeabodyEnergy",
+        "linkedin": "https://www.linkedin.com/company/peabody-energy/"
+    },
+    "investor_relations": "https://investors.peabodyenergy.com",
+    "key_executives": [
+        {
+            "name": "Jim Grech",
+            "position": "CEO"
+        },
+        {
+            "name": "Glen S. Kellow",
+            "position": "Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Coal Products",
+            "products": [
+                "Thermal Coal",
+                "Metallurgical Coal"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Peabody Energy Corporation | Global Leader in Coal Production",
+        "meta_description": "Learn about Peabody Energy Corporation, a leading coal producer committed to sustainable practices and providing affordable energy solutions worldwide.",
+        "keywords": [
+            "Peabody Energy",
+            "Coal Production",
+            "Thermal Coal",
+            "Metallurgical Coal",
+            "Energy Sector",
+            "Sustainable Mining"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Peabody Energy do?",
+            "answer": "Peabody Energy is a leading global coal company that mines and sells thermal and metallurgical coal."
+        },
+        {
+            "question": "Where is Peabody Energy headquartered?",
+            "answer": "Peabody Energy is headquartered in St. Louis, Missouri, USA."
+        },
+        {
+            "question": "When was Peabody Energy founded?",
+            "answer": "Peabody Energy was founded in 1883."
+        },
+        {
+            "question": "What are Peabody's main products?",
+            "answer": "Peabody's main products include thermal coal and metallurgical coal."
+        }
+    ],
+    "competitors": [
+        "ARCH",
+        "AEM",
+        "CNX"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "SLB"
+    ]
+}

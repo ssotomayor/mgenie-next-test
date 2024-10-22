@@ -1,0 +1,85 @@
+{
+    "ticker": "FHN.PRC",
+    "name": "First Horizon Corporation Preferred",
+    "description": "First Horizon Corporation is a financial services company that provides a range of banking and financial solutions primarily in the southeastern United States. Founded in 1864 and headquartered in Memphis, Tennessee, First Horizon has developed a strong reputation for its commitment to customer service and community engagement. The company offers a variety of services including commercial banking, consumer banking, wealth management, and mortgage services. With a focus on innovation, First Horizon utilizes advanced technology to enhance customer experiences and streamline banking operations. The company has also made significant strides in expanding its footprint through strategic acquisitions and partnerships, positioning itself as a key player in the regional banking sector. First Horizon is dedicated to supporting local communities through charitable initiatives and sustainable practices, reflecting its commitment to corporate social responsibility. The company aims to meet the evolving needs of its customers while maintaining strong financial performance and stability.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Memphis, Tennessee, USA",
+    "founded": "1864",
+    "website": "https://www.firsthorizon.com",
+    "ceo": "Bryan Jordan",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstHorizon",
+        "linkedin": "https://www.linkedin.com/company/first-horizon/"
+    },
+    "investor_relations": "https://ir.firsthorizon.com",
+    "key_executives": [
+        {
+            "name": "Bryan Jordan",
+            "position": "CEO"
+        },
+        {
+            "name": "John L. Hinton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Commercial Banking",
+                "Consumer Banking",
+                "Mortgage Services"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advisory",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Horizon Corporation | Banking and Financial Services",
+        "meta_description": "Explore First Horizon Corporation, dedicated to providing comprehensive banking and financial services in the southeastern United States. Discover our commitment to innovation and community.",
+        "keywords": [
+            "First Horizon",
+            "Banking",
+            "Financial Services",
+            "Commercial Banking",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Horizon provide?",
+            "answer": "First Horizon provides commercial banking, consumer banking, wealth management, and mortgage services."
+        },
+        {
+            "question": "Who is the CEO of First Horizon?",
+            "answer": "Bryan Jordan is the CEO of First Horizon Corporation."
+        },
+        {
+            "question": "Where is First Horizon headquartered?",
+            "answer": "First Horizon is headquartered in Memphis, Tennessee, USA."
+        },
+        {
+            "question": "When was First Horizon founded?",
+            "answer": "First Horizon was founded in 1864."
+        }
+    ],
+    "competitors": [
+        "BAC",
+        "WFC",
+        "KEY"
+    ],
+    "related_stocks": [
+        "JPM",
+        "C",
+        "GS",
+        "MS"
+    ]
+}

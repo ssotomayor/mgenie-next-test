@@ -1,0 +1,101 @@
+{
+    "ticker": "MBGYY",
+    "name": "Mercedes-Benz Group AG",
+    "description": "Mercedes-Benz Group AG, formerly known as Daimler AG, is a leading global automotive company headquartered in Stuttgart, Germany. Founded in 1926, the company has a rich heritage in luxury vehicles, commercial vehicles, and innovative mobility solutions. Mercedes-Benz is synonymous with quality, safety, and cutting-edge technology, offering a broad range of vehicles from compact cars to high-performance sports cars and luxury SUVs. The company is committed to sustainability and electric mobility, with a strategic focus on electric vehicle (EV) development through its EQ brand, which includes models like the EQC and EQS. Mercedes-Benz is also pioneering advancements in autonomous driving and connected car technology, striving to enhance the driving experience while reducing the environmental impact. The brand's commitment to innovation is showcased in its extensive research and development initiatives, aiming to lead the automotive sector into the future with sustainable and intelligent solutions. With a global presence, Mercedes-Benz continues to set the standard for luxury and performance in the automotive market.",
+    "industry": [
+        "Automotive",
+        "Luxury Goods"
+    ],
+    "headquarters": "Stuttgart, Germany",
+    "founded": "1926",
+    "website": "https://www.mercedes-benz.com",
+    "ceo": "Ola K\u00e4llenius",
+    "social_media": {
+        "twitter": "https://twitter.com/mercedesbenz",
+        "linkedin": "https://www.linkedin.com/company/mercedes-benz/",
+        "instagram": "https://www.instagram.com/mercedesbenz/",
+        "youtube": "https://www.youtube.com/user/MercedesBenzTV"
+    },
+    "investor_relations": "https://investor.mercedes-benz.com",
+    "key_executives": [
+        {
+            "name": "Ola K\u00e4llenius",
+            "position": "CEO"
+        },
+        {
+            "name": "Harald Wilhelm",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Vehicles",
+            "products": [
+                "A-Class",
+                "C-Class",
+                "E-Class",
+                "S-Class",
+                "G-Class"
+            ]
+        },
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "EQC",
+                "EQS"
+            ]
+        },
+        {
+            "category": "Commercial Vehicles",
+            "products": [
+                "Actros",
+                "Atego"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Mercedes-Benz Group AG | Luxury Vehicles and Innovative Mobility Solutions",
+        "meta_description": "Explore Mercedes-Benz Group AG, a leader in luxury vehicles and innovative mobility solutions. Discover their commitment to sustainability and advanced automotive technology.",
+        "keywords": [
+            "Mercedes-Benz",
+            "Luxury Vehicles",
+            "Electric Vehicles",
+            "Sustainable Mobility",
+            "Ola K\u00e4llenius"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Mercedes-Benz known for?",
+            "answer": "Mercedes-Benz is known for its luxury vehicles, innovative technology, and commitment to sustainability."
+        },
+        {
+            "question": "Who is the CEO of Mercedes-Benz?",
+            "answer": "Ola K\u00e4llenius is the CEO of Mercedes-Benz Group AG."
+        },
+        {
+            "question": "Where is Mercedes-Benz headquartered?",
+            "answer": "Mercedes-Benz is headquartered in Stuttgart, Germany."
+        },
+        {
+            "question": "What are Mercedes-Benz's main products?",
+            "answer": "Mercedes-Benz's main products include luxury passenger cars, electric vehicles, and commercial vehicles."
+        },
+        {
+            "question": "When was Mercedes-Benz founded?",
+            "answer": "Mercedes-Benz was founded in 1926."
+        }
+    ],
+    "competitors": [
+        "BMW",
+        "AUDI",
+        "VOLKSWAGEN",
+        "FORD"
+    ],
+    "related_stocks": [
+        "VOW3",
+        "BMW",
+        "F",
+        "GM"
+    ]
+}

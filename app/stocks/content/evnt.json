@@ -1,0 +1,90 @@
+{
+    "ticker": "EVNT",
+    "name": "Eventbrite, Inc.",
+    "description": "Eventbrite, Inc. is a global ticketing and event technology platform that enables users to create, share, and discover events. Founded in 2006 by Julia Hartz, Kevin Hartz, and Renaud Visage, Eventbrite has transformed the way people plan and attend events. The platform provides a seamless user experience for event organizers, offering tools for ticketing, registration, and promotion, while also allowing attendees to easily find and purchase tickets for a wide variety of events, from concerts and festivals to workshops and conferences. Eventbrite's mission is to bring the world together through live experiences, and it empowers creators by simplifying the event management process. With robust analytics and marketing features, Eventbrite helps organizers optimize their events and maximize attendance. The company has expanded its offerings through strategic acquisitions and partnerships, enhancing its capabilities and reach. Eventbrite is committed to innovation, continuously improving its platform to meet the evolving needs of event creators and attendees alike.",
+    "industry": [
+        "Technology",
+        "Event Management"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2006",
+    "website": "https://www.eventbrite.com",
+    "ceo": "Julia Hartz",
+    "social_media": {
+        "twitter": "https://twitter.com/eventbrite",
+        "linkedin": "https://www.linkedin.com/company/eventbrite",
+        "instagram": "https://www.instagram.com/eventbrite/",
+        "youtube": "https://www.youtube.com/user/eventbrite"
+    },
+    "investor_relations": "https://investor.eventbrite.com",
+    "key_executives": [
+        {
+            "name": "Julia Hartz",
+            "position": "CEO"
+        },
+        {
+            "name": "Alyssa Schaefer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Event Ticketing",
+            "products": [
+                "General Admission Tickets",
+                "Reserved Seating Tickets"
+            ]
+        },
+        {
+            "category": "Event Management",
+            "products": [
+                "Event Registration",
+                "Promotional Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eventbrite, Inc. | Create, Share, and Discover Events",
+        "meta_description": "Explore Eventbrite, Inc., a leading platform for event ticketing and management. Discover how Eventbrite connects creators and attendees through innovative technology.",
+        "keywords": [
+            "Eventbrite",
+            "Event Management",
+            "Ticketing",
+            "Live Events",
+            "Event Planning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Eventbrite?",
+            "answer": "Eventbrite is a global ticketing and event management platform that helps users create, share, and discover events."
+        },
+        {
+            "question": "Who is the CEO of Eventbrite?",
+            "answer": "Julia Hartz is the CEO of Eventbrite, Inc."
+        },
+        {
+            "question": "Where is Eventbrite headquartered?",
+            "answer": "Eventbrite is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What services does Eventbrite offer?",
+            "answer": "Eventbrite offers services such as event ticketing, registration, and promotional tools for event organizers."
+        },
+        {
+            "question": "When was Eventbrite founded?",
+            "answer": "Eventbrite was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "CVENT",
+        "LYV",
+        "TMUS"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "FB",
+        "NFLX"
+    ]
+}

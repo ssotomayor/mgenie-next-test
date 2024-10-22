@@ -1,0 +1,91 @@
+{
+    "ticker": "ENFN",
+    "name": "Enfusion, Inc.",
+    "description": "Enfusion, Inc. is a leading provider of cloud-based investment management software and services, designed to empower asset managers, hedge funds, and institutional investors. Founded in 2000, Enfusion has transformed the financial technology landscape with its innovative solutions that integrate portfolio management, risk analytics, and operational tools into a single platform. The company's flagship product, Enfusion Cloud, provides real-time data and analytics that help firms optimize their investment decisions and streamline their operations. Enfusion's commitment to enhancing efficiency and transparency in the investment process allows clients to focus on generating alpha while managing risk effectively. With its client-centric approach, Enfusion has built a robust ecosystem that supports a diverse range of investment strategies, including long/short equity, fixed income, and multi-asset class portfolios. The company is headquartered in Chicago, Illinois, and has a global presence, serving clients across North America, Europe, and Asia. By leveraging advanced technology, Enfusion continues to lead the charge in modernizing the investment management industry and equipping clients with the tools necessary to navigate an increasingly complex financial environment.",
+    "industry": [
+        "Financial Technology",
+        "Investment Management"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "2000",
+    "website": "https://www.enfusion.com",
+    "ceo": "Thomas Kim",
+    "social_media": {
+        "twitter": "https://twitter.com/enfusion",
+        "linkedin": "https://www.linkedin.com/company/enfusion/"
+    },
+    "investor_relations": "https://ir.enfusion.com",
+    "key_executives": [
+        {
+            "name": "Thomas Kim",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael M. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Management Software",
+            "products": [
+                "Enfusion Cloud",
+                "Portfolio Management",
+                "Risk Analytics"
+            ]
+        },
+        {
+            "category": "Operational Services",
+            "products": [
+                "Trade Order Management",
+                "Data Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enfusion, Inc. | Cloud-Based Investment Management Solutions",
+        "meta_description": "Explore Enfusion, Inc., a leader in financial technology providing cloud-based investment management software and services for asset managers and institutional investors.",
+        "keywords": [
+            "Enfusion",
+            "Investment Management",
+            "Financial Technology",
+            "Cloud Solutions",
+            "Portfolio Management",
+            "Risk Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Enfusion provide?",
+            "answer": "Enfusion provides cloud-based investment management software and services, including portfolio management, risk analytics, and operational tools."
+        },
+        {
+            "question": "Who is the CEO of Enfusion?",
+            "answer": "Thomas Kim is the CEO of Enfusion, Inc."
+        },
+        {
+            "question": "Where is Enfusion headquartered?",
+            "answer": "Enfusion is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What is Enfusion Cloud?",
+            "answer": "Enfusion Cloud is Enfusion's flagship product, providing real-time data and analytics for investment management."
+        },
+        {
+            "question": "When was Enfusion founded?",
+            "answer": "Enfusion was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "FIS",
+        "SSNC",
+        "BLK",
+        "MS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

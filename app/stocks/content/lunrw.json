@@ -1,0 +1,88 @@
+{
+    "ticker": "LUNRW",
+    "name": "Luna Innovations Incorporated",
+    "description": "Luna Innovations Incorporated is a technology company that specializes in advanced fiber optic sensing and laser-based technology solutions. Founded in 2006 and headquartered in Roanoke, Virginia, Luna focuses on delivering innovative products and services that enhance performance across various industries, including aerospace, defense, telecommunications, and energy. The company's cutting-edge fiber optic sensors provide real-time monitoring capabilities for critical infrastructure, enabling clients to increase safety, reduce costs, and improve operational efficiency. Luna's product portfolio includes the Luna ODiSI, a distributed sensing system that allows for continuous monitoring, and the Luna SmartCable, which is designed for high-precision measurements. In addition to hardware, Luna offers software solutions that integrate data analytics and machine learning to provide actionable insights. The company is committed to research and development, consistently pushing the boundaries of technology to create solutions that address complex challenges. With a strong focus on customer collaboration, Luna Innovations aims to drive the adoption of its technologies across various sectors, facilitating advancements that contribute to a more connected and data-driven world.",
+    "industry": [
+        "Technology",
+        "Telecommunications",
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "Roanoke, Virginia, USA",
+    "founded": "2006",
+    "website": "https://www.lunainc.com",
+    "ceo": "Scott Graeff",
+    "social_media": {
+        "twitter": "https://twitter.com/LunaInnovations",
+        "linkedin": "https://www.linkedin.com/company/luna-innovations"
+    },
+    "investor_relations": "https://investors.lunainc.com",
+    "key_executives": [
+        {
+            "name": "Scott Graeff",
+            "position": "CEO"
+        },
+        {
+            "name": "John D. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Fiber Optic Sensing",
+            "products": [
+                "ODiSI",
+                "SmartCable"
+            ]
+        },
+        {
+            "category": "Data Analytics Software",
+            "products": [
+                "Data Analytics Suite"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Luna Innovations Incorporated | Advanced Fiber Optic Solutions",
+        "meta_description": "Explore Luna Innovations, a leader in fiber optic sensing and laser technology. Discover their innovative products and commitment to enhancing operational efficiency across industries.",
+        "keywords": [
+            "Luna Innovations",
+            "Fiber Optic Sensing",
+            "Laser Technology",
+            "Data Analytics",
+            "Telecommunications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Luna Innovations specialize in?",
+            "answer": "Luna Innovations specializes in advanced fiber optic sensing and laser-based technology solutions."
+        },
+        {
+            "question": "Who is the CEO of Luna Innovations?",
+            "answer": "Scott Graeff is the CEO of Luna Innovations Incorporated."
+        },
+        {
+            "question": "Where is Luna Innovations headquartered?",
+            "answer": "Luna Innovations is headquartered in Roanoke, Virginia, USA."
+        },
+        {
+            "question": "What are Luna Innovations' main products?",
+            "answer": "Luna's main products include the ODiSI distributed sensing system and the SmartCable for high-precision measurements."
+        },
+        {
+            "question": "When was Luna Innovations founded?",
+            "answer": "Luna Innovations was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "FLIR",
+        "VEEV",
+        "SENSG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL"
+    ]
+}

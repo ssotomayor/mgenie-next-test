@@ -1,0 +1,93 @@
+{
+    "ticker": "SEATW",
+    "name": "SeatGeek, Inc.",
+    "description": "SeatGeek, Inc. is a leading technology-driven ticketing platform that revolutionizes the way people buy and sell tickets for live events. Founded in 2009 by Jack Groetzinger and Russell D'Souza, SeatGeek aims to simplify and enhance the ticket-buying experience, making it easier for fans to access their favorite concerts, sports events, theater performances, and more. The company's innovative platform aggregates ticket listings from various sources, providing users with a comprehensive view of available options and transparent pricing. SeatGeek's proprietary Deal Score technology helps users identify the best ticket deals based on historical pricing, venue location, and other factors, ensuring they get the most value for their money. In addition to its consumer-facing platform, SeatGeek also offers a robust suite of tools for event organizers and venues, including ticketing solutions and data analytics. The company is committed to improving accessibility to live events while fostering a vibrant community of fans and event-goers. With its ongoing focus on technological innovation and customer satisfaction, SeatGeek is well-positioned to continue leading the ticketing industry.",
+    "industry": [
+        "Ticketing",
+        "Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2009",
+    "website": "https://www.seatgeek.com",
+    "ceo": "Jack Groetzinger",
+    "social_media": {
+        "twitter": "https://twitter.com/seatgeek",
+        "linkedin": "https://www.linkedin.com/company/seatgeek/",
+        "instagram": "https://www.instagram.com/seatgeek/",
+        "youtube": "https://www.youtube.com/user/SeatGeek"
+    },
+    "investor_relations": "https://www.seatgeek.com/investors",
+    "key_executives": [
+        {
+            "name": "Jack Groetzinger",
+            "position": "CEO"
+        },
+        {
+            "name": "Russell D'Souza",
+            "position": "Co-Founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Ticketing Services",
+            "products": [
+                "Concert Tickets",
+                "Sports Tickets",
+                "Theater Tickets"
+            ]
+        },
+        {
+            "category": "Event Solutions",
+            "products": [
+                "Ticketing Software",
+                "Analytics Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SeatGeek, Inc. | Ticketing Platform for Live Events",
+        "meta_description": "Explore SeatGeek, Inc., a leading ticketing platform that simplifies the buying and selling of tickets for concerts, sports, and theater events. Discover innovative features like Deal Score.",
+        "keywords": [
+            "SeatGeek",
+            "Ticketing",
+            "Live Events",
+            "Concert Tickets",
+            "Sports Tickets",
+            "Theater Tickets"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SeatGeek known for?",
+            "answer": "SeatGeek is known for providing a technology-driven platform for buying and selling tickets to live events."
+        },
+        {
+            "question": "Who is the CEO of SeatGeek?",
+            "answer": "Jack Groetzinger is the CEO of SeatGeek, Inc."
+        },
+        {
+            "question": "Where is SeatGeek headquartered?",
+            "answer": "SeatGeek is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What types of tickets can I buy on SeatGeek?",
+            "answer": "You can buy tickets for concerts, sports events, and theater performances on SeatGeek."
+        },
+        {
+            "question": "When was SeatGeek founded?",
+            "answer": "SeatGeek was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "LYV",
+        "TICK",
+        "CFR",
+        "MSG"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "AAPL",
+        "NFLX",
+        "DIS"
+    ]
+}

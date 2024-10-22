@@ -1,0 +1,89 @@
+{
+    "ticker": "CLLS",
+    "name": "Cellectis S.A.",
+    "description": "Cellectis S.A. is a leading biotechnology company based in France that specializes in gene editing technologies. Founded in 1999, Cellectis aims to leverage its proprietary TALEN\u00ae technology for the development of innovative therapies, particularly in the areas of oncology and genetic diseases. The company's mission is to harness the power of genome editing to create transformative medicines that can help patients with serious diseases, including cancer. Cellectis is particularly recognized for its work in developing UCART therapies, which are allogeneic CAR T-cell therapies designed to treat various hematological malignancies. The company collaborates with various biopharmaceutical partners to advance its products through clinical trials and into the market. Cellectis is committed to maintaining high ethical standards and regulatory compliance in its research and development activities. With a robust pipeline of innovative therapies, Cellectis is at the forefront of the biotechnology revolution, striving to make a significant impact on the future of medicine.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1999",
+    "website": "https://www.cellectis.com",
+    "ceo": "Andr\u00e9 Choulika",
+    "social_media": {
+        "twitter": "https://twitter.com/Cellectis",
+        "linkedin": "https://www.linkedin.com/company/cellectis/"
+    },
+    "investor_relations": "https://www.cellectis.com/investors",
+    "key_executives": [
+        {
+            "name": "Andr\u00e9 Choulika",
+            "position": "CEO"
+        },
+        {
+            "name": "Marie Paule Deharo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Therapeutics",
+            "products": [
+                "UCART123",
+                "UCART19"
+            ]
+        },
+        {
+            "category": "Gene Editing Technologies",
+            "products": [
+                "TALEN\u00ae Technology"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cellectis S.A. | Pioneering Gene Editing and Cell Therapy",
+        "meta_description": "Discover Cellectis S.A., a leader in biotechnology focused on gene editing and innovative cell therapies for cancer treatment. Learn more about our groundbreaking UCART therapies.",
+        "keywords": [
+            "Cellectis",
+            "Gene Editing",
+            "CAR T-cell Therapy",
+            "Biotechnology",
+            "Oncology",
+            "TALEN Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Cellectis known for?",
+            "answer": "Cellectis is known for its pioneering gene editing technologies and the development of allogeneic CAR T-cell therapies."
+        },
+        {
+            "question": "Who is the CEO of Cellectis?",
+            "answer": "Andr\u00e9 Choulika is the CEO of Cellectis S.A."
+        },
+        {
+            "question": "Where is Cellectis headquartered?",
+            "answer": "Cellectis is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Cellectis' main products?",
+            "answer": "Cellectis' main products include UCART123 and UCART19, which are therapies designed to treat specific cancers."
+        },
+        {
+            "question": "When was Cellectis founded?",
+            "answer": "Cellectis was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "EDIT",
+        "CRSP",
+        "SGMO",
+        "NVS"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "GILD",
+        "BMY",
+        "PFE"
+    ]
+}

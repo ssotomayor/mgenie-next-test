@@ -1,0 +1,85 @@
+{
+    "ticker": "AMD",
+    "name": "Advanced Micro Devices, Inc.",
+    "description": "Advanced Micro Devices, Inc. (AMD) is a multinational semiconductor company that has established itself as a key player in the computing and graphics markets. Founded in 1969, AMD designs and manufactures microprocessors, graphics processors, and other technology solutions for a broad range of applications, including personal computers, servers, and gaming systems. With a focus on innovation, AMD has been at the forefront of technology advancements, delivering products that enhance performance and energy efficiency. The company is well-known for its Ryzen series of processors and Radeon graphics cards, which have gained popularity among gamers and professionals alike. AMD has successfully positioned itself as a competitor to industry giants, offering high-performance computing solutions that challenge the status quo. Its commitment to research and development has led to significant breakthroughs in chip design and architecture, making it a favorite among tech enthusiasts and enterprises. Moreover, AMD is dedicated to sustainability and reducing its environmental impact, implementing practices that promote energy efficiency and responsible resource management. As the demand for computing power continues to grow across industries, AMD is poised to play a critical role in shaping the future of technology, focusing on areas such as artificial intelligence, machine learning, and data center solutions.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1969",
+    "website": "https://www.amd.com",
+    "ceo": "Lisa Su",
+    "social_media": {
+        "twitter": "https://twitter.com/AMD",
+        "linkedin": "https://www.linkedin.com/company/advanced-micro-devices/"
+    },
+    "investor_relations": "https://ir.amd.com",
+    "key_executives": [
+        {
+            "name": "Lisa Su",
+            "position": "CEO"
+        },
+        {
+            "name": "Devinder Kumar",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Processors",
+            "products": [
+                "Ryzen Series",
+                "EPYC Series"
+            ]
+        },
+        {
+            "category": "Graphics Cards",
+            "products": [
+                "Radeon RX Series",
+                "Radeon Pro Series"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Advanced Micro Devices, Inc. | High-Performance Computing Solutions",
+        "meta_description": "Discover AMD, a leader in semiconductor technology known for its innovative processors and graphics cards. Explore AMD's commitment to performance and efficiency.",
+        "keywords": [
+            "AMD",
+            "Semiconductors",
+            "Processors",
+            "Graphics Cards",
+            "Ryzen",
+            "Radeon"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does AMD offer?",
+            "answer": "AMD offers processors, graphics cards, and other semiconductor solutions, including the Ryzen and Radeon product lines."
+        },
+        {
+            "question": "Who is the CEO of AMD?",
+            "answer": "Lisa Su is the CEO of Advanced Micro Devices, Inc."
+        },
+        {
+            "question": "Where is AMD headquartered?",
+            "answer": "AMD is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "When was AMD founded?",
+            "answer": "AMD was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "NVDA",
+        "QCOM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA"
+    ]
+}

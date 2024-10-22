@@ -1,0 +1,91 @@
+{
+    "ticker": "BP",
+    "name": "BP p.l.c.",
+    "description": "BP p.l.c. is a British multinational oil and gas company headquartered in London, England. It is one of the world's seven oil and gas 'supermajors' and plays a crucial role in the global energy landscape. Founded in 1909 as the Anglo-Persian Oil Company, BP has evolved significantly over the past century, expanding its operations across the globe in exploration, production, refining, distribution, and marketing of oil and gas products. BP is also actively investing in renewable energy sources and aims to transition towards a more sustainable energy model, with significant investments in wind, solar, and biofuels. The company has set ambitious targets to reduce its carbon emissions and increase its renewable energy capacity to meet the growing demand for cleaner energy solutions. With a commitment to safety, sustainability, and innovation, BP is focused on delivering energy for people while minimizing environmental impact. Its operations span across various regions, including the Americas, Europe, Africa, Asia, and the Middle East, and it serves millions of customers worldwide through its various brands, including BP, Amoco, and Castrol.",
+    "industry": [
+        "Oil & Gas",
+        "Energy"
+    ],
+    "headquarters": "London, England, UK",
+    "founded": "1909",
+    "website": "https://www.bp.com",
+    "ceo": "Bernard Looney",
+    "social_media": {
+        "twitter": "https://twitter.com/bp_plc",
+        "linkedin": "https://www.linkedin.com/company/bp/"
+    },
+    "investor_relations": "https://www.bp.com/en/global/corporate/investors.html",
+    "key_executives": [
+        {
+            "name": "Bernard Looney",
+            "position": "CEO"
+        },
+        {
+            "name": "Murray Auchincloss",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas",
+            "products": [
+                "Crude Oil",
+                "Natural Gas",
+                "Refined Products"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Wind Energy",
+                "Solar Energy",
+                "Biofuels"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BP p.l.c. | Global Energy Company",
+        "meta_description": "Explore BP p.l.c., a leading global oil and gas company committed to sustainable energy solutions. Learn about BP's efforts in renewable energy and its role in the energy transition.",
+        "keywords": [
+            "BP",
+            "Oil and Gas",
+            "Energy",
+            "Sustainable Energy",
+            "Renewables"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of company is BP?",
+            "answer": "BP is a multinational oil and gas company that is also investing in renewable energy."
+        },
+        {
+            "question": "Who is the CEO of BP?",
+            "answer": "Bernard Looney is the CEO of BP p.l.c."
+        },
+        {
+            "question": "Where is BP headquartered?",
+            "answer": "BP is headquartered in London, England, UK."
+        },
+        {
+            "question": "What are BP's main products?",
+            "answer": "BP's main products include crude oil, natural gas, refined products, and renewable energy solutions."
+        },
+        {
+            "question": "When was BP founded?",
+            "answer": "BP was founded in 1909."
+        }
+    ],
+    "competitors": [
+        "XOM",
+        "CVX",
+        "TOT",
+        "RDS.A"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ticker": "BME",
+    "name": "BME Group",
+    "description": "BME Group is a leading Spanish financial services company that operates the main securities market in Spain, known as the Bolsa de Madrid. Established in 2002, BME provides a comprehensive range of services that include the management of securities markets, clearing, settlement, and custody services. The company plays a crucial role in the functioning of the Spanish capital market, facilitating trading and investment for both institutional and retail investors. BME operates various segments, including equity markets, fixed income markets, and derivatives markets, making it a pivotal institution in the financial landscape of Spain and the broader European Union. In addition to its core trading services, BME is committed to innovation in financial technology, promoting the advancement of new trading platforms and services to enhance market efficiency and transparency. The company is also actively involved in sustainability initiatives, seeking to promote responsible investment practices and contribute to the development of green financial products. BME's strategic focus on enhancing investor engagement and market participation positions it as a vital player in the European financial services sector.",
+    "industry": [
+        "Finance",
+        "Investment Services"
+    ],
+    "headquarters": "Madrid, Spain",
+    "founded": "2002",
+    "website": "https://www.bolsasymercados.es",
+    "ceo": "Javier Hernani",
+    "social_media": {
+        "twitter": "https://twitter.com/BME_Mercados",
+        "linkedin": "https://www.linkedin.com/company/bme-mercados/"
+    },
+    "investor_relations": "https://www.bolsasymercados.es/ing/investors",
+    "key_executives": [
+        {
+            "name": "Javier Hernani",
+            "position": "CEO"
+        },
+        {
+            "name": "Javier Ruiz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Markets",
+            "products": [
+                "Stock Exchange",
+                "Market Data Services"
+            ]
+        },
+        {
+            "category": "Fixed Income Markets",
+            "products": [
+                "Government Bonds",
+                "Corporate Bonds"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BME Group | Leading Financial Services in Spain",
+        "meta_description": "Explore BME Group, the principal Spanish securities market operator, offering trading, clearing, and settlement services for diverse financial instruments.",
+        "keywords": [
+            "BME",
+            "Spanish Securities Market",
+            "Financial Services",
+            "Investment",
+            "Equities",
+            "Bonds"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does BME Group provide?",
+            "answer": "BME Group provides trading, clearing, settlement, and custody services for securities in Spain."
+        },
+        {
+            "question": "Who is the CEO of BME Group?",
+            "answer": "Javier Hernani is the CEO of BME Group."
+        },
+        {
+            "question": "Where is BME Group headquartered?",
+            "answer": "BME Group is headquartered in Madrid, Spain."
+        },
+        {
+            "question": "When was BME Group founded?",
+            "answer": "BME Group was founded in 2002."
+        }
+    ],
+    "competitors": [
+        "Euronext",
+        "LSEG",
+        "NASDAQ",
+        "ICE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

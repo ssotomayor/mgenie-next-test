@@ -1,0 +1,91 @@
+{
+    "ticker": "QMCO",
+    "name": "Quantum Corporation",
+    "description": "Quantum Corporation is a global leader in data storage and management solutions, specializing in high-performance storage systems and data protection technologies. Founded in 1980, Quantum is dedicated to helping organizations manage their growing data workloads with advanced solutions that ensure data integrity, availability, and security. The company's product portfolio includes file and object storage, backup and recovery solutions, and software-defined storage that are designed to meet the needs of various industries including media and entertainment, healthcare, and government. Quantum's innovative offerings are powered by its patented technologies that provide scalable, efficient, and cost-effective data management. With a focus on providing next-generation storage architecture, Quantum plays a crucial role in the evolution of data storage, enabling customers to harness the power of their data for analytics and real-time processing. The company's commitment to customer success and technological innovation positions it as a trusted partner in the data storage ecosystem.",
+    "industry": [
+        "Data Storage",
+        "Information Technology"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1980",
+    "website": "https://www.quantum.com",
+    "ceo": "Jamie Lerner",
+    "social_media": {
+        "twitter": "https://twitter.com/QuantumCorp",
+        "linkedin": "https://www.linkedin.com/company/quantum-corporation/",
+        "facebook": "https://www.facebook.com/QuantumCorp"
+    },
+    "investor_relations": "https://investors.quantum.com",
+    "key_executives": [
+        {
+            "name": "Jamie Lerner",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert M. Mendez",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Storage Solutions",
+            "products": [
+                "Quantum Scalar",
+                "Quantum Lattus",
+                "Quantum F-Series"
+            ]
+        },
+        {
+            "category": "Data Protection",
+            "products": [
+                "Quantum Q-Cloud",
+                "Quantum Archiving Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Quantum Corporation | Data Storage and Management Solutions",
+        "meta_description": "Explore Quantum Corporation, a leader in data storage and management technology. Discover innovative solutions for data protection, storage, and management.",
+        "keywords": [
+            "Quantum Corporation",
+            "Data Storage",
+            "Data Management",
+            "Backup Solutions",
+            "Object Storage"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Quantum specialize in?",
+            "answer": "Quantum specializes in data storage and management solutions, including backup and recovery technologies."
+        },
+        {
+            "question": "Who is the CEO of Quantum Corporation?",
+            "answer": "Jamie Lerner is the CEO of Quantum Corporation."
+        },
+        {
+            "question": "Where is Quantum headquartered?",
+            "answer": "Quantum is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Quantum's main products?",
+            "answer": "Quantum's main products include Scalar tape storage systems, Lattus object storage, and Q-Cloud data protection solutions."
+        },
+        {
+            "question": "When was Quantum founded?",
+            "answer": "Quantum was founded in 1980."
+        }
+    ],
+    "competitors": [
+        "NTAP",
+        "EMC",
+        "STX",
+        "WDC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

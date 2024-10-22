@@ -1,0 +1,89 @@
+{
+    "ticker": "MKFG",
+    "name": "Markforged, Inc.",
+    "description": "Markforged, Inc. is a leading provider of advanced 3D printing solutions, specializing in industrial-grade additive manufacturing technology. Founded in 2013 by Greg Mark, the company has revolutionized the way engineers and manufacturers approach production and prototyping. Markforged is renowned for its innovative composite 3D printers, which utilize a unique process called Continuous Filament Fabrication (CFF) to produce parts with exceptional strength and durability. Their flagship products, such as the Mark Two and the X7, are designed to print with a variety of materials, including carbon fiber, fiberglass, and Kevlar, enabling the creation of strong, lightweight components ideal for demanding applications in aerospace, automotive, and manufacturing industries. Markforged's mission is to empower engineers with the tools they need to create high-performance parts directly from digital designs, streamlining workflows and reducing costs. With a commitment to innovation, the company continues to expand its product offerings and enhance its software capabilities, making 3D printing accessible and efficient for businesses of all sizes. Markforged is also focused on sustainability, promoting the use of additive manufacturing to reduce waste and energy consumption compared to traditional manufacturing methods.",
+    "industry": [
+        "3D Printing",
+        "Manufacturing"
+    ],
+    "headquarters": "Watertown, Massachusetts, USA",
+    "founded": "2013",
+    "website": "https://markforged.com",
+    "ceo": "Greg Mark",
+    "social_media": {
+        "twitter": "https://twitter.com/markforged",
+        "linkedin": "https://www.linkedin.com/company/markforged/"
+    },
+    "investor_relations": "https://investors.markforged.com",
+    "key_executives": [
+        {
+            "name": "Greg Mark",
+            "position": "CEO"
+        },
+        {
+            "name": "Dylan R. Lott",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Printers",
+            "products": [
+                "Mark Two",
+                "X7",
+                "Metal X"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "Eiger"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Markforged, Inc. | Advanced 3D Printing Solutions",
+        "meta_description": "Discover Markforged, Inc., a leader in industrial-grade additive manufacturing. Explore Markforged's innovative 3D printers and their impact on modern manufacturing.",
+        "keywords": [
+            "Markforged",
+            "3D Printing",
+            "Additive Manufacturing",
+            "Industrial Printers",
+            "Greg Mark"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Markforged known for?",
+            "answer": "Markforged is known for its advanced 3D printing technology, specifically its composite 3D printers."
+        },
+        {
+            "question": "Who is the CEO of Markforged?",
+            "answer": "Greg Mark is the CEO of Markforged, Inc."
+        },
+        {
+            "question": "Where is Markforged headquartered?",
+            "answer": "Markforged is headquartered in Watertown, Massachusetts, USA."
+        },
+        {
+            "question": "What are Markforged's main products?",
+            "answer": "Markforged's main products include the Mark Two, X7, and Metal X 3D printers, as well as the Eiger software."
+        },
+        {
+            "question": "When was Markforged founded?",
+            "answer": "Markforged was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "DDD",
+        "SSYS",
+        "XONE",
+        "PRLB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "ticker": "DIA",
+    "name": "The Dow Jones Industrial Average",
+    "description": "The Dow Jones Industrial Average (DJIA), often referred to simply as 'the Dow', is a stock market index that represents 30 prominent publicly traded companies in the United States. Established in 1896 by Charles Dow and Edward Jones, the index serves as a key indicator of the overall health of the U.S. stock market and economy. The DJIA is price-weighted, meaning that companies with higher stock prices have a greater influence on the index's performance. It includes companies from various sectors, including technology, finance, healthcare, and consumer goods, making it a diversified representation of the U.S. economy. The DJIA is widely followed by investors, analysts, and financial media, and changes in its value are closely watched as indicators of market trends. The index is maintained by S&P Dow Jones Indices and is revised periodically to reflect changes in the economy and the stock market. As one of the oldest and most recognized stock indices globally, the DJIA provides a historical benchmark for evaluating the performance of U.S. stocks over time.",
+    "industry": [
+        "Financial Services",
+        "Investment"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1896",
+    "website": "https://www.djindexes.com",
+    "key_executives": [
+        {
+            "name": "Alicia Levine",
+            "position": "Chief Market Strategist",
+            "social_media": {}
+        }
+    ],
+    "seo": {
+        "meta_title": "Dow Jones Industrial Average | Key U.S. Stock Market Index",
+        "meta_description": "Explore the Dow Jones Industrial Average (DJIA), a key indicator of the U.S. stock market comprising 30 significant companies. Learn about its history, structure, and impact.",
+        "keywords": [
+            "Dow Jones",
+            "DJIA",
+            "Stock Market Index",
+            "U.S. Economy",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is the Dow Jones Industrial Average?",
+            "answer": "The Dow Jones Industrial Average is a stock market index that represents 30 major publicly traded companies in the U.S."
+        },
+        {
+            "question": "When was the DJIA founded?",
+            "answer": "The DJIA was founded in 1896."
+        },
+        {
+            "question": "How is the DJIA calculated?",
+            "answer": "The DJIA is calculated using a price-weighted average of the stock prices of 30 companies."
+        },
+        {
+            "question": "Why is the DJIA important?",
+            "answer": "The DJIA serves as a key indicator of the overall health of the U.S. stock market and economy."
+        },
+        {
+            "question": "What types of companies are included in the DJIA?",
+            "answer": "The DJIA includes companies from various sectors such as technology, finance, healthcare, and consumer goods."
+        }
+    ],
+    "competitors": [
+        "SPY",
+        "COMP",
+        "IWM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

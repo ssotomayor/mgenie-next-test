@@ -1,0 +1,91 @@
+{
+    "ticker": "SFTBY",
+    "name": "SoftBank Group Corp.",
+    "description": "SoftBank Group Corp. is a multinational conglomerate holding company based in Tokyo, Japan, known for its diverse range of investments in technology, telecommunications, and various other sectors. Founded in 1981 by Masayoshi Son, SoftBank initially started as a software distributor but quickly evolved into a venture capital powerhouse. The company is particularly recognized for its Vision Fund, one of the largest technology-focused investment funds in the world, which has invested in numerous startups and established companies across various industries, including Uber, WeWork, and Alibaba. SoftBank's mission is to drive growth in the technology sector and support the development of innovative solutions that enhance connectivity and improve quality of life. The company's portfolio spans telecommunications, internet services, robotics, and artificial intelligence, making it a significant player in shaping the future of technology globally. With a focus on investing in transformative ideas, SoftBank aims to foster an ecosystem where groundbreaking technologies can thrive, ultimately benefiting society at large.",
+    "industry": [
+        "Conglomerate",
+        "Telecommunications",
+        "Technology"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1981",
+    "website": "https://www.softbankgroup.co.jp/en/",
+    "ceo": "Masayoshi Son",
+    "social_media": {
+        "twitter": "https://twitter.com/SoftBank",
+        "linkedin": "https://www.linkedin.com/company/softbank-group-corp-/"
+    },
+    "investor_relations": "https://group.softbank/en/ir/",
+    "key_executives": [
+        {
+            "name": "Masayoshi Son",
+            "position": "CEO"
+        },
+        {
+            "name": "Rajeev Misra",
+            "position": "CEO of SoftBank Investment Advisors"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications",
+            "products": [
+                "SoftBank Mobile",
+                "Yahoo Japan"
+            ]
+        },
+        {
+            "category": "Investment Funds",
+            "products": [
+                "Vision Fund",
+                "SoftBank Latin America Fund"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SoftBank Group Corp. | Leading Global Investment and Technology Company",
+        "meta_description": "Explore SoftBank Group Corp., a leader in technology investment and telecommunications. Discover our innovative approach to fostering growth in the tech sector.",
+        "keywords": [
+            "SoftBank",
+            "Investments",
+            "Technology",
+            "Telecommunications",
+            "Vision Fund",
+            "Masayoshi Son"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is SoftBank known for?",
+            "answer": "SoftBank is known for its investments in technology and telecommunications, including its Vision Fund."
+        },
+        {
+            "question": "Who is the CEO of SoftBank?",
+            "answer": "Masayoshi Son is the CEO of SoftBank Group Corp."
+        },
+        {
+            "question": "Where is SoftBank headquartered?",
+            "answer": "SoftBank is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are SoftBank's main products?",
+            "answer": "SoftBank's main products include telecommunications services and various investment funds."
+        },
+        {
+            "question": "When was SoftBank founded?",
+            "answer": "SoftBank was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "GOOGL",
+        "AAPL",
+        "NFLX"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "META",
+        "MSFT",
+        "NVDA"
+    ]
+}

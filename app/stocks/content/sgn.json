@@ -1,0 +1,79 @@
+{
+    "ticker": "SGN",
+    "name": "Seagen Inc.",
+    "description": "Seagen Inc. is a biotechnology company that is dedicated to the development of innovative cancer therapies. Founded in 1998 and headquartered in Bothell, Washington, Seagen focuses on leveraging its proprietary antibody-drug conjugate (ADC) technology to create targeted treatments for patients with various types of cancer. The company's lead product, Adcetris (brentuximab vedotin), is approved for the treatment of specific types of lymphoma and has transformed the landscape of cancer care since its launch. In addition to Adcetris, Seagen is advancing a robust pipeline of product candidates, including multiple ADCs and immuno-oncology therapies that aim to address unmet medical needs in oncology. Seagen's commitment to research and development is exemplified by its collaborations with leading academic institutions and pharmaceutical companies to enhance its innovative capabilities. With a strong emphasis on improving the lives of patients, Seagen is at the forefront of the fight against cancer, striving to bring new and effective treatment options to market.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Bothell, Washington, USA",
+    "founded": "1998",
+    "website": "https://www.seagen.com",
+    "ceo": "Clay Siegall",
+    "social_media": {
+        "twitter": "https://twitter.com/SeagenInc",
+        "linkedin": "https://www.linkedin.com/company/seagen"
+    },
+    "investor_relations": "https://investors.seagen.com",
+    "key_executives": [
+        {
+            "name": "Clay Siegall",
+            "position": "CEO"
+        },
+        {
+            "name": "Vassilios Papadopoulos",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cancer Therapies",
+            "products": [
+                "Adcetris",
+                "Tukysa"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Seagen Inc. | Innovative Cancer Therapies",
+        "meta_description": "Learn about Seagen Inc., a biotechnology company focused on developing targeted cancer therapies. Explore our innovative treatments and commitment to improving patient outcomes.",
+        "keywords": [
+            "Seagen",
+            "Biotechnology",
+            "Cancer Treatment",
+            "Antibody-Drug Conjugates",
+            "Adcetris",
+            "Tukysa"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Seagen specialize in?",
+            "answer": "Seagen specializes in developing innovative cancer therapies, particularly antibody-drug conjugates."
+        },
+        {
+            "question": "What is Adcetris?",
+            "answer": "Adcetris is Seagen's lead product for the treatment of specific types of lymphoma."
+        },
+        {
+            "question": "Where is Seagen headquartered?",
+            "answer": "Seagen is headquartered in Bothell, Washington, USA."
+        },
+        {
+            "question": "When was Seagen founded?",
+            "answer": "Seagen was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "BMY",
+        "GILD",
+        "JNJ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "TSLA"
+    ]
+}

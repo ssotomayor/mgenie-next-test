@@ -1,0 +1,95 @@
+{
+    "ticker": "ACN",
+    "name": "Accenture plc",
+    "description": "Accenture plc is a global professional services company with extensive capabilities in digital, cloud, and security. Founded in 1989, Accenture operates across more than 120 countries and serves clients in various industries, including technology, healthcare, financial services, and consumer goods. The company provides a broad range of services, including strategy and consulting, digital transformations, technology implementations, and operations management. Accenture is known for its strong emphasis on innovation and technology, leveraging advanced technologies such as artificial intelligence, blockchain, and data analytics to help clients improve performance and create sustainable growth. With a mission to deliver on the promise of technology and human ingenuity, Accenture is committed to driving positive change in the world and supporting clients in navigating their digital journeys. The company is also recognized for its strong corporate citizenship initiatives, focusing on environmental sustainability, diversity and inclusion, and education.",
+    "industry": [
+        "Consulting",
+        "Information Technology"
+    ],
+    "headquarters": "Dublin, Ireland",
+    "founded": "1989",
+    "website": "https://www.accenture.com",
+    "ceo": "Julie Sweet",
+    "social_media": {
+        "twitter": "https://twitter.com/Accenture",
+        "linkedin": "https://www.linkedin.com/company/accenture",
+        "instagram": "https://www.instagram.com/accenture",
+        "youtube": "https://www.youtube.com/user/Accenture"
+    },
+    "investor_relations": "https://investor.accenture.com",
+    "key_executives": [
+        {
+            "name": "Julie Sweet",
+            "position": "CEO"
+        },
+        {
+            "name": "KC McClure",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consulting Services",
+            "services": [
+                "Strategy and Consulting",
+                "Digital Transformation"
+            ]
+        },
+        {
+            "category": "Technology Services",
+            "services": [
+                "Technology Implementation",
+                "Cloud Services"
+            ]
+        },
+        {
+            "category": "Operations Services",
+            "services": [
+                "Business Process Outsourcing",
+                "Managed Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Accenture plc | Global Professional Services Company",
+        "meta_description": "Explore Accenture plc, a leading global professional services company providing strategy, consulting, digital, technology, and operations services.",
+        "keywords": [
+            "Accenture",
+            "Consulting",
+            "Digital Transformation",
+            "Technology Services",
+            "Cloud Services",
+            "Professional Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Accenture do?",
+            "answer": "Accenture provides a wide range of professional services including strategy, consulting, digital transformations, technology implementations, and operations management."
+        },
+        {
+            "question": "Who is the CEO of Accenture?",
+            "answer": "Julie Sweet is the CEO of Accenture plc."
+        },
+        {
+            "question": "Where is Accenture headquartered?",
+            "answer": "Accenture is headquartered in Dublin, Ireland."
+        },
+        {
+            "question": "When was Accenture founded?",
+            "answer": "Accenture was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "CG",
+        "MUFG",
+        "DTE"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "GOOGL",
+        "ORCL",
+        "SAP"
+    ]
+}

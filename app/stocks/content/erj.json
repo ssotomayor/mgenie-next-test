@@ -1,0 +1,97 @@
+{
+    "ticker": "ERJ",
+    "name": "Embraer S.A.",
+    "description": "Embraer S.A. is a Brazilian aerospace company that is recognized as one of the largest aircraft manufacturers in the world. Founded in 1969, Embraer specializes in the design, production, and commercialization of aircraft, primarily focusing on commercial, military, executive, and agricultural aviation. The company is renowned for its innovative approach to aircraft technology and has developed a range of successful models, including the E-Jet family of commercial jets, which are known for their fuel efficiency, advanced technology, and passenger comfort. In addition to commercial aviation, Embraer is a significant player in the defense sector, providing military aircraft and related services to various countries. The company also has a strong presence in the executive aviation market with its Lineage and Phenom series of business jets. Embraer's commitment to excellence, innovation, and sustainability positions it as a key contributor to the global aerospace industry, consistently striving to enhance the performance and capabilities of its aircraft. With operations in multiple countries and a diverse portfolio, Embraer continues to shape the future of aviation through cutting-edge research and development, partnerships, and a focus on customer satisfaction.",
+    "industry": [
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Brazil",
+    "founded": "1969",
+    "website": "https://www.embraer.com",
+    "ceo": "Francisco Gomes Neto",
+    "social_media": {
+        "twitter": "https://twitter.com/embraer",
+        "linkedin": "https://www.linkedin.com/company/embraer/",
+        "instagram": "https://www.instagram.com/embraer/",
+        "youtube": "https://www.youtube.com/user/EmbraerSA"
+    },
+    "investor_relations": "https://ri.embraer.com.br",
+    "key_executives": [
+        {
+            "name": "Francisco Gomes Neto",
+            "position": "CEO"
+        },
+        {
+            "name": "Antonio Carlos Garcia",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Commercial Aviation",
+            "products": [
+                "E-Jet Family",
+                "E2 Family"
+            ]
+        },
+        {
+            "category": "Defense",
+            "products": [
+                "A-29 Super Tucano",
+                "KC-390"
+            ]
+        },
+        {
+            "category": "Executive Aviation",
+            "products": [
+                "Phenom 100",
+                "Phenom 300",
+                "Legacy 650",
+                "Lineage 1000E"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Embraer S.A. | Leading Aerospace Company",
+        "meta_description": "Explore Embraer S.A., a global leader in aerospace and defense, known for innovative aircraft solutions in commercial, military, and executive aviation.",
+        "keywords": [
+            "Embraer",
+            "Aerospace",
+            "Aircraft Manufacturing",
+            "Defense",
+            "Commercial Jets",
+            "Executive Jets"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Embraer specialize in?",
+            "answer": "Embraer specializes in the design and manufacturing of aircraft for commercial, military, executive, and agricultural purposes."
+        },
+        {
+            "question": "Where is Embraer headquartered?",
+            "answer": "Embraer is headquartered in S\u00e3o Jos\u00e9 dos Campos, S\u00e3o Paulo, Brazil."
+        },
+        {
+            "question": "When was Embraer founded?",
+            "answer": "Embraer was founded in 1969."
+        },
+        {
+            "question": "What are Embraer's main product lines?",
+            "answer": "Embraer's main product lines include the E-Jet family of commercial jets, military aircraft like the A-29 Super Tucano, and executive jets."
+        }
+    ],
+    "competitors": [
+        "BA",
+        "AIR",
+        "TXT",
+        "NOC"
+    ],
+    "related_stocks": [
+        "BA",
+        "LMT",
+        "HII",
+        "GD"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "REAI",
+    "name": "Real Estate AI, Inc.",
+    "description": "Real Estate AI, Inc. is a revolutionary technology company specializing in artificial intelligence solutions for the real estate industry. Founded in 2021, the company leverages cutting-edge machine learning algorithms to provide property valuation, investment analysis, and predictive analytics tools for real estate professionals and investors. The mission of Real Estate AI is to empower users with data-driven insights that enhance decision-making processes in property transactions and investment strategies. With a commitment to innovation, the company offers a suite of products designed to streamline property management and optimize real estate portfolios. Its flagship product, REA Valuator, utilizes AI to analyze market trends and provide real-time property valuations, which are crucial for buyers, sellers, and real estate agents. Additionally, Real Estate AI is focusing on integrating blockchain technology to ensure transparency and security in real estate transactions. The company's vision is to transform the real estate landscape by making sophisticated analytical tools accessible to everyone, thus democratizing real estate investment opportunities and fostering a more efficient market.",
+    "industry": [
+        "Real Estate",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2021",
+    "website": "https://www.realestateai.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/RealEstateAI",
+        "linkedin": "https://www.linkedin.com/company/real-estate-ai/"
+    },
+    "investor_relations": "https://ir.realestateai.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Valuation Tools",
+            "products": [
+                "REA Valuator",
+                "Market Insights"
+            ]
+        },
+        {
+            "category": "Property Management",
+            "products": [
+                "Portfolio Optimizer",
+                "Tenant Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Real Estate AI, Inc. | Intelligent Solutions for Real Estate",
+        "meta_description": "Explore Real Estate AI, Inc., a leader in AI-driven solutions for the real estate market. Discover innovative products that empower investors and agents.",
+        "keywords": [
+            "Real Estate AI",
+            "Property Valuation",
+            "Investment Analysis",
+            "Predictive Analytics",
+            "Real Estate Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Real Estate AI do?",
+            "answer": "Real Estate AI provides artificial intelligence solutions for property valuation, investment analysis, and market insights."
+        },
+        {
+            "question": "Who is the CEO of Real Estate AI?",
+            "answer": "Jane Doe is the CEO of Real Estate AI, Inc."
+        },
+        {
+            "question": "Where is Real Estate AI headquartered?",
+            "answer": "Real Estate AI is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are the main products offered by Real Estate AI?",
+            "answer": "The main products include REA Valuator, Market Insights, Portfolio Optimizer, and Tenant Analytics."
+        },
+        {
+            "question": "When was Real Estate AI founded?",
+            "answer": "Real Estate AI was founded in 2021."
+        }
+    ],
+    "competitors": [
+        "Zillow",
+        "Opendoor",
+        "Redfin"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

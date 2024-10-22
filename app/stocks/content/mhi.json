@@ -1,0 +1,95 @@
+{
+    "ticker": "MHI",
+    "name": "MHI Group",
+    "description": "MHI Group, also known as Mitsubishi Heavy Industries, Ltd., is a global leader in manufacturing and engineering, specializing in a wide range of sectors including aerospace, defense, energy, and industrial machinery. Established in 1884, the company has played a pivotal role in Japan's industrial development and has expanded its reach across the globe. MHI Group is renowned for its commitment to innovation, investing heavily in research and development to deliver advanced technologies that address the challenges of modern society. Its diverse portfolio includes products such as power generation systems, aircraft, ships, and machinery for various industries. The company aims to contribute to a sustainable future through green technologies, including initiatives in renewable energy and energy-efficient solutions. With a strong emphasis on quality and reliability, MHI Group continues to enhance its global footprint while maintaining its core values of integrity and collaboration. Its mission is not only to drive economic growth but also to create a better society by tackling pressing environmental issues and promoting sustainable practices.",
+    "industry": [
+        "Manufacturing",
+        "Engineering",
+        "Aerospace",
+        "Energy"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1884",
+    "website": "https://www.mhi.com",
+    "ceo": "Seiji Izumisawa",
+    "social_media": {
+        "twitter": "https://twitter.com/MHI_Group",
+        "linkedin": "https://www.linkedin.com/company/mitsubishi-heavy-industries/"
+    },
+    "investor_relations": "https://www.mhi.com/ir",
+    "key_executives": [
+        {
+            "name": "Seiji Izumisawa",
+            "position": "CEO"
+        },
+        {
+            "name": "Masahiko Kato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aerospace",
+            "products": [
+                "Commercial Aircraft",
+                "Defense Aircraft"
+            ]
+        },
+        {
+            "category": "Energy",
+            "products": [
+                "Gas Turbines",
+                "Renewable Energy Systems"
+            ]
+        },
+        {
+            "category": "Industrial Machinery",
+            "products": [
+                "Construction Equipment",
+                "Marine Machinery"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MHI Group | Leading Manufacturer in Engineering and Technology",
+        "meta_description": "Explore MHI Group, a leader in aerospace, energy, and industrial machinery. Discover our innovative technologies and commitment to sustainability.",
+        "keywords": [
+            "MHI Group",
+            "Mitsubishi Heavy Industries",
+            "Aerospace",
+            "Energy Solutions",
+            "Industrial Machinery",
+            "Sustainable Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does MHI Group specialize in?",
+            "answer": "MHI Group specializes in manufacturing and engineering across aerospace, defense, energy, and industrial machinery sectors."
+        },
+        {
+            "question": "Who is the CEO of MHI Group?",
+            "answer": "Seiji Izumisawa is the CEO of MHI Group."
+        },
+        {
+            "question": "Where is MHI Group headquartered?",
+            "answer": "MHI Group is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "When was MHI Group founded?",
+            "answer": "MHI Group was founded in 1884."
+        }
+    ],
+    "competitors": [
+        "BA",
+        "GD",
+        "LMT",
+        "NOC"
+    ],
+    "related_stocks": [
+        "HON",
+        "RTX",
+        "GE",
+        "MMM"
+    ]
+}

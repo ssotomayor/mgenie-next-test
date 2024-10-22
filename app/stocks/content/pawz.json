@@ -1,0 +1,91 @@
+{
+    "ticker": "PAWZ",
+    "name": "PetIQ, Inc.",
+    "description": "PetIQ, Inc. is a leading pet health and wellness company dedicated to improving the lives of pets and pet parents. Founded in 2010 and headquartered in Eagle, Idaho, PetIQ focuses on providing affordable veterinary care and pet products through its extensive network of retail partners and clinics. The company offers a wide array of services, including vaccinations, wellness exams, and preventive care, aimed at ensuring the health and happiness of pets. PetIQ's product offerings include prescription and over-the-counter medications, grooming supplies, and nutritional supplements, catering to the diverse needs of pets of all ages. The company has made it a priority to make pet care accessible and affordable, leveraging its innovative approach to veterinary services. With a commitment to quality and customer service, PetIQ operates both mobile and fixed-location clinics, making it easier for pet owners to access essential services. As a trusted partner in pet health, PetIQ is dedicated to enhancing the pet-parent experience and contributing to the overall wellbeing of pets across the nation.",
+    "industry": [
+        "Pet Care",
+        "Healthcare"
+    ],
+    "headquarters": "Eagle, Idaho, USA",
+    "founded": "2010",
+    "website": "https://www.petIQ.com",
+    "ceo": "Tony Sarsam",
+    "social_media": {
+        "twitter": "https://twitter.com/PetIQ",
+        "linkedin": "https://www.linkedin.com/company/petiq",
+        "instagram": "https://www.instagram.com/petiqinc",
+        "facebook": "https://www.facebook.com/petiqinc"
+    },
+    "investor_relations": "https://investors.petiq.com",
+    "key_executives": [
+        {
+            "name": "Tony Sarsam",
+            "position": "CEO"
+        },
+        {
+            "name": "John C. R. McFarlane",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Veterinary Services",
+            "products": [
+                "Vaccinations",
+                "Wellness Exams",
+                "Preventive Care"
+            ]
+        },
+        {
+            "category": "Pet Products",
+            "products": [
+                "Medications",
+                "Grooming Supplies",
+                "Nutritional Supplements"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "PetIQ, Inc. | Affordable Pet Health and Wellness Solutions",
+        "meta_description": "Explore PetIQ, Inc., a leader in pet health and wellness, providing affordable veterinary care and a range of pet products to keep your furry friends healthy.",
+        "keywords": [
+            "PetIQ",
+            "Pet Health",
+            "Veterinary Care",
+            "Pet Products",
+            "Affordable Pet Care"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does PetIQ offer?",
+            "answer": "PetIQ offers vaccinations, wellness exams, preventive care, and a variety of pet products."
+        },
+        {
+            "question": "Who is the CEO of PetIQ?",
+            "answer": "Tony Sarsam is the CEO of PetIQ, Inc."
+        },
+        {
+            "question": "Where is PetIQ headquartered?",
+            "answer": "PetIQ is headquartered in Eagle, Idaho, USA."
+        },
+        {
+            "question": "What types of products does PetIQ sell?",
+            "answer": "PetIQ sells medications, grooming supplies, and nutritional supplements for pets."
+        },
+        {
+            "question": "When was PetIQ founded?",
+            "answer": "PetIQ was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "VET",
+        "WOOF",
+        "CVS"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "WMT",
+        "PETQ"
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "ticker": "JACK",
+    "name": "Jack in the Box Inc.",
+    "description": "Jack in the Box Inc. is a prominent American fast-food restaurant chain known for its diverse menu and innovative approach to the quick-service restaurant industry. Founded in 1951 by Robert O. Peterson in San Diego, California, the company has grown into a beloved brand with a unique blend of classic and contemporary menu items, including burgers, tacos, breakfast items, and an array of sides. Jack in the Box is particularly recognized for its late-night service and drive-thru convenience, catering to a wide range of customers. The brand's mascot, Jack, has become an iconic figure in American pop culture, often featured in humorous and memorable advertising campaigns. Jack in the Box is committed to quality and value, continuously evolving its offerings to meet changing consumer tastes and preferences. The company operates both company-owned and franchised locations across the United States, making it one of the largest players in the fast-food sector. With a focus on innovation, Jack in the Box has been proactive in introducing new products and limited-time offers to keep its menu fresh and exciting. In addition to its food offerings, the company places a significant emphasis on customer experience, aiming to provide a friendly and efficient service in all its restaurants.",
+    "industry": [
+        "Restaurants",
+        "Fast Food"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "1951",
+    "website": "https://www.jackinthebox.com",
+    "ceo": "Darin Harris",
+    "social_media": {
+        "twitter": "https://twitter.com/jackbox",
+        "linkedin": "https://www.linkedin.com/company/jack-in-the-box/",
+        "instagram": "https://www.instagram.com/jackinthebox/",
+        "facebook": "https://www.facebook.com/jackinthebox"
+    },
+    "investor_relations": "https://investors.jackinthebox.com",
+    "key_executives": [
+        {
+            "name": "Darin Harris",
+            "position": "CEO"
+        },
+        {
+            "name": "Tim Linderman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Burgers",
+            "products": [
+                "Classic Jumbo Jack",
+                "Bacon Ultimate Cheeseburger"
+            ]
+        },
+        {
+            "category": "Tacos",
+            "products": [
+                "Taco with Cheese",
+                "Chicken Tacos"
+            ]
+        },
+        {
+            "category": "Breakfast",
+            "products": [
+                "Breakfast Jack",
+                "Loaded Breakfast Sandwich"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Jack in the Box Inc. | Fast Food Restaurant Chain",
+        "meta_description": "Explore Jack in the Box Inc., a leader in the fast-food industry, offering a diverse menu including burgers, tacos, and breakfast items. Discover our commitment to quality and customer experience.",
+        "keywords": [
+            "Jack in the Box",
+            "Fast Food",
+            "Burgers",
+            "Tacos",
+            "Breakfast",
+            "Quick Service Restaurant"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of food does Jack in the Box serve?",
+            "answer": "Jack in the Box serves a variety of fast food items, including burgers, tacos, and breakfast foods."
+        },
+        {
+            "question": "Who is the CEO of Jack in the Box?",
+            "answer": "Darin Harris is the CEO of Jack in the Box Inc."
+        },
+        {
+            "question": "Where is Jack in the Box headquartered?",
+            "answer": "Jack in the Box is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "When was Jack in the Box founded?",
+            "answer": "Jack in the Box was founded in 1951."
+        }
+    ],
+    "competitors": [
+        "MCD",
+        "YUM",
+        "WEN"
+    ],
+    "related_stocks": [
+        "CMG",
+        "SHAK",
+        "DPZ",
+        "PZZA"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "MTTR",
+    "name": "Matterport, Inc.",
+    "description": "Matterport, Inc. is a leading spatial data company that revolutionizes how people interact with the physical world through its advanced 3D capture technology. Founded in 2011 and based in Sunnyvale, California, Matterport provides a platform that enables users to create, edit, and share 3D models of real-world spaces. Its innovative technology has applications across various industries, including real estate, architecture, construction, and tourism. Matterport's 3D models allow users to visualize, analyze, and experience spaces in a highly interactive way, transforming traditional workflows and enhancing decision-making processes. The company's flagship product, the Matterport Pro2 camera, captures detailed 3D scans and images, which can be integrated into its cloud-based platform for easy access and sharing. Furthermore, Matterport's software tools enable users to create virtual tours, floor plans, and immersive experiences that are essential for marketing and showcasing properties. As the demand for virtual experiences grows, particularly in the wake of the COVID-19 pandemic, Matterport continues to innovate and expand its offerings, making it an essential player in the rapidly evolving landscape of spatial data. The company's mission is to make every space accessible and interactive, providing a comprehensive digital twin for every physical environment.",
+    "industry": [
+        "Technology",
+        "Real Estate",
+        "Construction"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "2011",
+    "website": "https://www.matterport.com",
+    "ceo": "RJ Pittman",
+    "social_media": {
+        "twitter": "https://twitter.com/matterport",
+        "linkedin": "https://www.linkedin.com/company/matterport/"
+    },
+    "investor_relations": "https://investors.matterport.com",
+    "key_executives": [
+        {
+            "name": "RJ Pittman",
+            "position": "CEO"
+        },
+        {
+            "name": "Dave E. Boardman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "3D Capture Technology",
+            "products": [
+                "Matterport Pro2 Camera",
+                "Matterport Cloud"
+            ]
+        },
+        {
+            "category": "Virtual Reality Solutions",
+            "products": [
+                "Matterport Virtual Tours",
+                "3D Showcase"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Matterport, Inc. | 3D Capture and Virtual Reality Solutions",
+        "meta_description": "Explore Matterport, Inc., a leader in spatial data technology. Discover how Matterport transforms real-world spaces into interactive 3D models for various industries.",
+        "keywords": [
+            "Matterport",
+            "3D Capture",
+            "Virtual Reality",
+            "Digital Twin",
+            "Real Estate Technology",
+            "Spatial Data"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Matterport known for?",
+            "answer": "Matterport is known for its 3D capture technology and virtual reality solutions, enabling users to create interactive models of real-world spaces."
+        },
+        {
+            "question": "Who is the CEO of Matterport?",
+            "answer": "RJ Pittman is the CEO of Matterport, Inc."
+        },
+        {
+            "question": "Where is Matterport headquartered?",
+            "answer": "Matterport is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are Matterport's main products?",
+            "answer": "Matterport's main products include the Matterport Pro2 Camera and Matterport Cloud for creating and sharing 3D models."
+        },
+        {
+            "question": "When was Matterport founded?",
+            "answer": "Matterport was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "ZM",
+        "DASH",
+        "FLUX",
+        "PSTG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "FB"
+    ]
+}

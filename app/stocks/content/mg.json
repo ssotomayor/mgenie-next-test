@@ -1,0 +1,99 @@
+{
+    "ticker": "MG",
+    "name": "MGM Resorts International",
+    "description": "MGM Resorts International is a global leader in entertainment and hospitality, renowned for its iconic resorts and casinos. Founded in 1986 and headquartered in Las Vegas, Nevada, MGM operates a portfolio of destination resorts, including the Bellagio, MGM Grand, and Mandalay Bay. The company is committed to providing exceptional guest experiences and innovative entertainment offerings, from world-class dining and nightlife to spectacular live performances and events. MGM Resorts actively embraces sustainability and corporate responsibility, implementing initiatives that minimize environmental impact and support community development. Additionally, MGM is involved in various entertainment sectors, including gaming, sports, and conventions, ensuring a diverse array of offerings for guests. The company's mission is to create memorable experiences that connect and inspire people from around the world, making it a key player in the global tourism industry.",
+    "industry": [
+        "Hospitality",
+        "Entertainment",
+        "Gaming"
+    ],
+    "headquarters": "Las Vegas, Nevada, USA",
+    "founded": "1986",
+    "website": "https://www.mgmresorts.com",
+    "ceo": "Bill Hornbuckle",
+    "social_media": {
+        "twitter": "https://twitter.com/MGMResortsIntl",
+        "linkedin": "https://www.linkedin.com/company/mgm-resorts-international/",
+        "instagram": "https://www.instagram.com/mgmresortsintl/",
+        "youtube": "https://www.youtube.com/user/MGMResortsInternational"
+    },
+    "investor_relations": "https://investors.mgmresorts.com",
+    "key_executives": [
+        {
+            "name": "Bill Hornbuckle",
+            "position": "CEO"
+        },
+        {
+            "name": "Cory J. McGowin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Gaming",
+            "products": [
+                "Casino Games",
+                "Sports Betting"
+            ]
+        },
+        {
+            "category": "Hospitality",
+            "products": [
+                "Hotel Accommodations",
+                "Dining Experiences"
+            ]
+        },
+        {
+            "category": "Entertainment",
+            "products": [
+                "Live Shows",
+                "Conventions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MGM Resorts International | Entertainment and Hospitality Leader",
+        "meta_description": "Explore MGM Resorts International, a premier global hospitality and entertainment company offering luxury resorts, casinos, and world-class experiences.",
+        "keywords": [
+            "MGM Resorts",
+            "Las Vegas",
+            "Casinos",
+            "Hospitality",
+            "Entertainment",
+            "Bill Hornbuckle"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does MGM Resorts International do?",
+            "answer": "MGM Resorts International operates luxury hotels, casinos, and provides entertainment and dining experiences globally."
+        },
+        {
+            "question": "Where is MGM Resorts headquartered?",
+            "answer": "MGM Resorts is headquartered in Las Vegas, Nevada, USA."
+        },
+        {
+            "question": "What are some of MGM's main properties?",
+            "answer": "MGM's main properties include Bellagio, MGM Grand, and Mandalay Bay."
+        },
+        {
+            "question": "Who is the CEO of MGM Resorts?",
+            "answer": "Bill Hornbuckle is the CEO of MGM Resorts International."
+        },
+        {
+            "question": "When was MGM Resorts founded?",
+            "answer": "MGM Resorts was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "WYNN",
+        "LVS",
+        "CZR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "DIS",
+        "NFLX"
+    ]
+}

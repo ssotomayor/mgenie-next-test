@@ -1,0 +1,91 @@
+{
+    "ticker": "MGIH",
+    "name": "MGM Holdings, Inc.",
+    "description": "MGM Holdings, Inc. is a diversified holding company engaged in the production and distribution of entertainment content across multiple platforms. Founded in 1924, MGM has a storied history in the film industry, producing iconic films such as 'The Wizard of Oz' and 'The Pink Panther.' Today, MGM continues to be a major player in the entertainment sector, focusing on film, television, and digital media. The company operates through its subsidiaries, which include MGM Studios, MGM Television, and MGM Resorts. MGM Studios develops and produces a wide array of films, while MGM Television produces popular television series and reality shows. The company also invests in cutting-edge technology and digital platforms to distribute its content globally. MGM's mission is to create engaging entertainment experiences that resonate with audiences worldwide. Through strategic partnerships and a commitment to quality storytelling, MGM Holdings aims to remain at the forefront of the evolving entertainment landscape, adapting to new trends and consumer preferences in an increasingly digital world.",
+    "industry": [
+        "Entertainment",
+        "Media"
+    ],
+    "headquarters": "Las Vegas, Nevada, USA",
+    "founded": "1924",
+    "website": "https://www.mgm.com",
+    "ceo": "Gary Barber",
+    "social_media": {
+        "twitter": "https://twitter.com/mgmstudios",
+        "linkedin": "https://www.linkedin.com/company/mgm-studios/"
+    },
+    "investor_relations": "https://ir.mgm.com",
+    "key_executives": [
+        {
+            "name": "Gary Barber",
+            "position": "CEO"
+        },
+        {
+            "name": "Chris Brearton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Film Production",
+            "products": [
+                "Feature Films",
+                "Animated Films"
+            ]
+        },
+        {
+            "category": "Television Production",
+            "products": [
+                "TV Series",
+                "Reality Shows"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MGM Holdings, Inc. | Entertainment and Media",
+        "meta_description": "Explore MGM Holdings, Inc., a leader in film and television production. Discover MGM's rich history, iconic films, and commitment to innovative entertainment.",
+        "keywords": [
+            "MGM",
+            "Film Production",
+            "Television Production",
+            "Entertainment",
+            "Media",
+            "MGM Studios",
+            "MGM Resorts"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is MGM known for?",
+            "answer": "MGM is known for its iconic films and television productions, including classics and popular series."
+        },
+        {
+            "question": "Who is the CEO of MGM?",
+            "answer": "Gary Barber is the CEO of MGM Holdings, Inc."
+        },
+        {
+            "question": "Where is MGM headquartered?",
+            "answer": "MGM is headquartered in Las Vegas, Nevada, USA."
+        },
+        {
+            "question": "What are MGM's main products?",
+            "answer": "MGM's main products include feature films, animated films, TV series, and reality shows."
+        },
+        {
+            "question": "When was MGM founded?",
+            "answer": "MGM was founded in 1924."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "CMCSA",
+        "NFLX",
+        "VIAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

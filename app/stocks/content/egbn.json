@@ -1,0 +1,86 @@
+{
+    "ticker": "EGBN",
+    "name": "Eagle Bancorp, Inc.",
+    "description": "Eagle Bancorp, Inc. is a bank holding company based in the United States, primarily engaged in providing commercial banking services through its wholly owned subsidiary, EagleBank. Founded in 1997, the company has established a strong presence in the Washington, D.C. metropolitan area, focusing on serving the needs of local businesses, professionals, and individual clients. EagleBank offers a comprehensive range of financial products, including commercial and residential loans, personal banking services, and treasury management solutions. The bank is known for its commitment to customer service and community involvement, engaging actively in local initiatives and partnerships to support economic development. With a focus on strategic growth, Eagle Bancorp has expanded its operations through both organic growth and selective acquisitions, positioning itself as a trusted financial partner in the region. The company continues to innovate in response to evolving customer needs, investing in technology to enhance its digital banking capabilities. Through its dedication to local communities and personalized service, Eagle Bancorp aims to build long-term relationships with its clients while maintaining a strong financial performance.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Bethesda, Maryland, USA",
+    "founded": "1997",
+    "website": "https://www.eaglebankcorp.com",
+    "ceo": "Susan R. G. Decker",
+    "social_media": {
+        "twitter": "https://twitter.com/EagleBank",
+        "linkedin": "https://www.linkedin.com/company/eagle-bank/"
+    },
+    "investor_relations": "https://www.eaglebankcorp.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Susan R. G. Decker",
+            "position": "CEO"
+        },
+        {
+            "name": "M. Kevin McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Commercial Loans",
+                "Lines of Credit",
+                "Treasury Management"
+            ]
+        },
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Savings Accounts",
+                "Checking Accounts",
+                "Residential Mortgages"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eagle Bancorp, Inc. | Community Banking Services",
+        "meta_description": "Eagle Bancorp, Inc. is your trusted partner for banking services in the D.C. area. Explore our commercial and personal banking solutions tailored to your needs.",
+        "keywords": [
+            "Eagle Bancorp",
+            "Community Banking",
+            "Commercial Loans",
+            "Financial Services",
+            "EagleBank"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Eagle Bank offer?",
+            "answer": "Eagle Bank offers a range of services including commercial loans, personal banking, and treasury management solutions."
+        },
+        {
+            "question": "Who is the CEO of Eagle Bancorp?",
+            "answer": "Susan R. G. Decker is the CEO of Eagle Bancorp, Inc."
+        },
+        {
+            "question": "Where is Eagle Bancorp headquartered?",
+            "answer": "Eagle Bancorp is headquartered in Bethesda, Maryland, USA."
+        },
+        {
+            "question": "When was Eagle Bancorp founded?",
+            "answer": "Eagle Bancorp was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "FNB",
+        "BANC",
+        "CUBI"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

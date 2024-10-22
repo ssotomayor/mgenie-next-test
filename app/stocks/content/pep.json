@@ -1,0 +1,100 @@
+{
+    "ticker": "PEP",
+    "name": "PepsiCo, Inc.",
+    "description": "PepsiCo, Inc. is a global leader in the food and beverage industry, known for its diverse portfolio of brands that includes iconic products across various segments. Founded in 1893 by Caleb Bradham, the company has grown to encompass a wide range of snacks, beverages, and food items, making it a household name worldwide. PepsiCo's flagship brands include Pepsi, Mountain Dew, Lay's, Gatorade, Tropicana, and Quaker, among others. The company operates in more than 200 countries and territories, focusing on sustainability and innovation in its product offerings. PepsiCo is committed to reducing its environmental impact and improving the health and wellness of its consumers through initiatives aimed at promoting healthier ingredients and responsible sourcing. In addition to its commitment to sustainability, PepsiCo invests heavily in research and development to enhance product quality and meet the changing preferences of consumers. The company aims to deliver sustainable growth while being a responsible corporate citizen, making it a significant player in the global market.",
+    "industry": [
+        "Food & Beverage",
+        "Consumer Goods"
+    ],
+    "headquarters": "Purchase, New York, USA",
+    "founded": "1893",
+    "website": "https://www.pepsico.com",
+    "ceo": "Ramon Laguarta",
+    "social_media": {
+        "twitter": "https://twitter.com/PepsiCo",
+        "linkedin": "https://www.linkedin.com/company/pepsico"
+    },
+    "investor_relations": "https://investors.pepsico.com",
+    "key_executives": [
+        {
+            "name": "Ramon Laguarta",
+            "position": "CEO"
+        },
+        {
+            "name": "Hugh Johnston",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/hugh-johnston-3767a35/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beverages",
+            "products": [
+                "Pepsi",
+                "Mountain Dew",
+                "Gatorade",
+                "Tropicana"
+            ]
+        },
+        {
+            "category": "Snacks",
+            "products": [
+                "Lay's",
+                "Doritos",
+                "Cheetos"
+            ]
+        },
+        {
+            "category": "Healthy Foods",
+            "products": [
+                "Quaker Oats",
+                "Naked Juice"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "PepsiCo, Inc. | Global Leader in Food and Beverages",
+        "meta_description": "Explore PepsiCo, Inc., a leading global company in the food and beverage industry with a wide range of products. Discover PepsiCo's commitment to sustainability and innovation.",
+        "keywords": [
+            "PepsiCo",
+            "Beverages",
+            "Snacks",
+            "Sustainability",
+            "Healthy Foods",
+            "Gatorade",
+            "Lay's"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does PepsiCo produce?",
+            "answer": "PepsiCo produces a variety of beverages, snacks, and food items, including brands like Pepsi, Mountain Dew, Lay's, and Tropicana."
+        },
+        {
+            "question": "Who is the CEO of PepsiCo?",
+            "answer": "Ramon Laguarta is the CEO of PepsiCo, Inc."
+        },
+        {
+            "question": "Where is PepsiCo headquartered?",
+            "answer": "PepsiCo is headquartered in Purchase, New York, USA."
+        },
+        {
+            "question": "When was PepsiCo founded?",
+            "answer": "PepsiCo was founded in 1893."
+        }
+    ],
+    "competitors": [
+        "KO",
+        "MDLZ",
+        "CAG",
+        "GIS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "DIS",
+        "WMT",
+        "PG"
+    ]
+}

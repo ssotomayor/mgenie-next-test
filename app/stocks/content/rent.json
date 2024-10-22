@@ -1,0 +1,90 @@
+{
+    "ticker": "RENT",
+    "name": "Rental, Inc.",
+    "description": "Rental, Inc. is a leading provider in the rental industry, specializing in the leasing of residential and commercial properties. Founded in 2010, the company aims to simplify the rental process through innovative technology and exceptional customer service. With a robust platform, Rental, Inc. connects landlords with potential tenants, providing seamless online applications, payment processing, and maintenance requests. The company is committed to enhancing the rental experience by offering a wide array of services, including property management, tenant screening, and virtual tours, which have become essential in today's digital age. Rental, Inc. has established a strong presence in major metropolitan areas across the United States, focusing on urban centers where demand for rental properties is high. The company prides itself on its transparent pricing model and dedication to tenant satisfaction, making it a trusted name in the rental market. With an emphasis on sustainability, Rental, Inc. also encourages eco-friendly practices among its property owners and tenants, contributing to greener living environments. As the rental market continues to evolve, Rental, Inc. is at the forefront of adopting new technologies, ensuring that both landlords and tenants have the best tools at their disposal for a successful rental experience.",
+    "industry": [
+        "Real Estate",
+        "Property Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2010",
+    "website": "https://www.rentalinc.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/RentalInc",
+        "linkedin": "https://www.linkedin.com/company/rental-inc/",
+        "instagram": "https://www.instagram.com/rentalinc"
+    },
+    "investor_relations": "https://ir.rentalinc.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Residential Rentals",
+            "products": [
+                "Apartments",
+                "Single Family Homes"
+            ]
+        },
+        {
+            "category": "Commercial Rentals",
+            "products": [
+                "Office Spaces",
+                "Retail Locations"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Rental, Inc. | Simplifying the Rental Process",
+        "meta_description": "Explore Rental, Inc., a leading provider in the rental industry, connecting landlords and tenants with innovative technology and exceptional service.",
+        "keywords": [
+            "Rental",
+            "Real Estate",
+            "Property Management",
+            "Residential Rentals",
+            "Commercial Rentals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Rental, Inc. offer?",
+            "answer": "Rental, Inc. offers services such as property management, tenant screening, and online leasing."
+        },
+        {
+            "question": "Who is the CEO of Rental, Inc.?",
+            "answer": "Jane Doe is the CEO of Rental, Inc."
+        },
+        {
+            "question": "Where is Rental, Inc. headquartered?",
+            "answer": "Rental, Inc. is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What types of properties does Rental, Inc. manage?",
+            "answer": "Rental, Inc. manages both residential and commercial properties."
+        },
+        {
+            "question": "When was Rental, Inc. founded?",
+            "answer": "Rental, Inc. was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AVB",
+        "CPT",
+        "ESS",
+        "EQR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

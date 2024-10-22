@@ -1,0 +1,85 @@
+{
+    "ticker": "ABUS",
+    "name": "Arbutus Biopharma Corporation",
+    "description": "Arbutus Biopharma Corporation is a clinical-stage biopharmaceutical company focused on developing innovative therapeutics for the treatment of viral diseases, particularly hepatitis B virus (HBV) infections. Founded in 2011 and headquartered in Warminster, Pennsylvania, Arbutus is dedicated to advancing its proprietary drug candidates through rigorous clinical trials. The company is recognized for its novel approaches to treating HBV, including a combination of antiviral therapies and immunotherapies aimed at eradicating the virus and restoring immune function. Arbutus's lead product candidate, AB-729, is an RNA interference therapeutic designed to target HBV and is currently undergoing clinical evaluation. The company also develops other promising candidates and is actively engaged in research partnerships to enhance its pipeline. With a commitment to scientific excellence and patient needs, Arbutus strives to deliver transformative therapies that can provide a lasting solution for patients suffering from chronic HBV infections. The company's mission is driven by the belief that innovative medicine can change lives and improve health outcomes for individuals affected by viral diseases.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Warminster, Pennsylvania, USA",
+    "founded": "2011",
+    "website": "https://www.arbutusbio.com",
+    "ceo": "William Collier",
+    "social_media": {
+        "twitter": "https://twitter.com/ArbutusBio",
+        "linkedin": "https://www.linkedin.com/company/arbutus-biopharma/"
+    },
+    "investor_relations": "https://investors.arbutusbio.com",
+    "key_executives": [
+        {
+            "name": "William Collier",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael E. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Therapeutics",
+            "products": [
+                "AB-729",
+                "AB-836"
+            ]
+        },
+        {
+            "category": "Research Partnerships",
+            "products": []
+        }
+    ],
+    "seo": {
+        "meta_title": "Arbutus Biopharma Corporation | Innovative Therapies for Viral Diseases",
+        "meta_description": "Discover Arbutus Biopharma Corporation, a leader in developing innovative therapeutics for hepatitis B virus infections. Learn about our mission, products, and commitment to patients.",
+        "keywords": [
+            "Arbutus Biopharma",
+            "Hepatitis B",
+            "Biopharmaceuticals",
+            "Viral Diseases",
+            "AB-729",
+            "Clinical Trials"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Arbutus Biopharma specialize in?",
+            "answer": "Arbutus Biopharma specializes in developing therapeutics for viral diseases, particularly hepatitis B."
+        },
+        {
+            "question": "Who is the CEO of Arbutus Biopharma?",
+            "answer": "William Collier is the CEO of Arbutus Biopharma Corporation."
+        },
+        {
+            "question": "Where is Arbutus Biopharma headquartered?",
+            "answer": "Arbutus Biopharma is headquartered in Warminster, Pennsylvania, USA."
+        },
+        {
+            "question": "What are Arbutus's main products?",
+            "answer": "Arbutus's main products include AB-729, an RNA interference therapeutic for hepatitis B."
+        },
+        {
+            "question": "When was Arbutus Biopharma founded?",
+            "answer": "Arbutus Biopharma was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "GILD",
+        "BMY",
+        "MRNA"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "REGN",
+        "VRTX"
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "ticker": "BLUE",
+    "name": "Bluebird Bio, Inc.",
+    "description": "Bluebird Bio, Inc. is a biotechnology company dedicated to developing innovative gene therapies for severe genetic diseases and cancer. Founded in 1992 and headquartered in Cambridge, Massachusetts, Bluebird Bio focuses on harnessing the power of genetic engineering to transform the treatment landscape for patients with life-threatening conditions. The company\u2019s lead product candidates include gene therapies for disorders such as sickle cell disease and beta-thalassemia, aimed at providing potentially curative solutions through the use of its proprietary LentiGlobin platform. Bluebird Bio is also developing therapies for certain types of cancer using its innovative approach to gene therapy, which leverages the body\u2019s own immune system to attack tumors. With a commitment to patients and their families, the company invests heavily in research and clinical trials to ensure the safety and efficacy of its therapies. Through partnerships with leading research institutions and organizations, Bluebird Bio is at the forefront of the gene therapy revolution, striving to deliver transformative treatments that can significantly improve the quality of life for patients suffering from debilitating diseases.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "1992",
+    "website": "https://www.bluebirdbio.com",
+    "ceo": "Andrew Obenshain",
+    "social_media": {
+        "twitter": "https://twitter.com/bluebirdbio",
+        "linkedin": "https://www.linkedin.com/company/bluebird-bio/"
+    },
+    "investor_relations": "https://investors.bluebirdbio.com",
+    "key_executives": [
+        {
+            "name": "Andrew Obenshain",
+            "position": "CEO"
+        },
+        {
+            "name": "Nick Leschly",
+            "position": "Former CEO"
+        },
+        {
+            "name": "Rachel McGuckin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Gene Therapies",
+            "products": [
+                "LentiGlobin for Sickle Cell Disease",
+                "LentiGlobin for Beta-Thalassemia"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bluebird Bio, Inc. | Innovative Gene Therapies for Genetic Diseases",
+        "meta_description": "Explore Bluebird Bio, Inc., a leader in gene therapy focused on developing innovative treatments for severe genetic diseases and cancer. Learn about their mission and products.",
+        "keywords": [
+            "Bluebird Bio",
+            "Gene Therapy",
+            "Sickle Cell Disease",
+            "Beta-Thalassemia",
+            "Biotechnology",
+            "Pharmaceuticals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Bluebird Bio focus on?",
+            "answer": "Bluebird Bio focuses on developing gene therapies for severe genetic diseases and cancer."
+        },
+        {
+            "question": "Who is the CEO of Bluebird Bio?",
+            "answer": "Andrew Obenshain is the CEO of Bluebird Bio, Inc."
+        },
+        {
+            "question": "Where is Bluebird Bio headquartered?",
+            "answer": "Bluebird Bio is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are Bluebird Bio's main products?",
+            "answer": "Bluebird Bio's main products include gene therapies for sickle cell disease and beta-thalassemia."
+        },
+        {
+            "question": "When was Bluebird Bio founded?",
+            "answer": "Bluebird Bio was founded in 1992."
+        }
+    ],
+    "competitors": [
+        "NVS",
+        "GILD",
+        "EDIT",
+        "VRTX"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "REGN",
+        "BMY",
+        "ABBV"
+    ]
+}

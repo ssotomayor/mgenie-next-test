@@ -1,0 +1,97 @@
+{
+    "ticker": "IBM",
+    "name": "International Business Machines Corporation",
+    "description": "International Business Machines Corporation (IBM) is a global technology and consulting company with a rich history dating back to 1911. Headquartered in Armonk, New York, IBM is known for its innovation in various sectors, including cloud computing, artificial intelligence (AI), quantum computing, and data analytics. The company has evolved significantly over the decades, transitioning from its early days of producing hardware like mainframe computers to becoming a leader in software and services. IBM's AI platform, Watson, has garnered widespread attention for its capabilities in natural language processing and machine learning, being applied in diverse industries such as healthcare, finance, and customer service. With a focus on hybrid cloud solutions, IBM aims to help businesses modernize their IT infrastructures while ensuring security and compliance. The company also places a strong emphasis on research and development, holding a leading position in patents granted for several consecutive years. In addition to technology, IBM is committed to corporate social responsibility, working on initiatives related to sustainability, inclusion, and education to drive positive change in society. With a vision to lead in the era of the intelligent enterprise, IBM continues to push the boundaries of what technology can achieve.",
+    "industry": [
+        "Technology",
+        "Consulting"
+    ],
+    "headquarters": "Armonk, New York, USA",
+    "founded": "1911",
+    "website": "https://www.ibm.com",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBM",
+        "linkedin": "https://www.linkedin.com/company/ibm",
+        "youtube": "https://www.youtube.com/user/IBM"
+    },
+    "investor_relations": "https://www.ibm.com/investors",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "James Kavanaugh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "IBM Cloud",
+                "IBM Cloud Pak"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "IBM Watson",
+                "IBM AI OpenScale"
+            ]
+        },
+        {
+            "category": "Data and Analytics",
+            "products": [
+                "IBM Cognos Analytics",
+                "IBM SPSS"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IBM | Global Technology and Consulting Leader",
+        "meta_description": "Explore IBM, a global leader in technology and consulting, known for its innovations in cloud computing, AI, and data analytics. Discover IBM's mission and product offerings.",
+        "keywords": [
+            "IBM",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Data Analytics",
+            "Quantum Computing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IBM stand for?",
+            "answer": "IBM stands for International Business Machines Corporation."
+        },
+        {
+            "question": "Who is the CEO of IBM?",
+            "answer": "Arvind Krishna is the CEO of IBM."
+        },
+        {
+            "question": "Where is IBM headquartered?",
+            "answer": "IBM is headquartered in Armonk, New York, USA."
+        },
+        {
+            "question": "What are IBM's main products?",
+            "answer": "IBM's main products include IBM Cloud, IBM Watson, and IBM Cognos Analytics."
+        },
+        {
+            "question": "When was IBM founded?",
+            "answer": "IBM was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ORCL",
+        "SAP",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CSCO"
+    ]
+}

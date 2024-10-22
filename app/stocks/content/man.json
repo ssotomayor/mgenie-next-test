@@ -1,0 +1,86 @@
+{
+    "ticker": "MAN",
+    "name": "ManpowerGroup Inc.",
+    "description": "ManpowerGroup Inc. is a global leader in innovative workforce solutions, providing services in recruitment, workforce management, and talent development. Founded in 1948, the company operates in over 80 countries and territories, catering to a diverse range of industries including manufacturing, finance, information technology, healthcare, and more. ManpowerGroup is best known for its flagship brands: Manpower, Experis, and Talent Solutions. Manpower focuses on temporary and permanent staffing solutions, while Experis specializes in professional talent in IT, engineering, and finance sectors. Talent Solutions offers comprehensive workforce management and consulting services designed to meet the evolving needs of businesses in a dynamic labor market. The company is committed to helping organizations adapt to changing workforce trends and the demands of digital transformation. With a strong emphasis on diversity and inclusion, ManpowerGroup strives to create a more equitable and sustainable work environment for all. Its mission is to connect individuals with meaningful employment opportunities, empower organizations to achieve their goals, and drive economic growth in the communities it serves.",
+    "industry": [
+        "Staffing",
+        "Human Resources",
+        "Consulting"
+    ],
+    "headquarters": "Milwaukee, Wisconsin, USA",
+    "founded": "1948",
+    "website": "https://www.manpowergroup.com",
+    "ceo": "Jonas Prising",
+    "social_media": {
+        "twitter": "https://twitter.com/ManpowerGroup",
+        "linkedin": "https://www.linkedin.com/company/manpowergroup/"
+    },
+    "investor_relations": "https://investor.manpowergroup.com",
+    "key_executives": [
+        {
+            "name": "Jonas Prising",
+            "position": "CEO"
+        },
+        {
+            "name": "Katherine M. Zatz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Staffing Solutions",
+            "products": [
+                "Temporary Staffing",
+                "Permanent Staffing"
+            ]
+        },
+        {
+            "category": "Talent Solutions",
+            "products": [
+                "Workforce Management",
+                "Outsourcing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ManpowerGroup Inc. | Workforce Solutions and Staffing",
+        "meta_description": "Explore ManpowerGroup Inc., a leader in workforce solutions providing staffing, consulting, and talent management services globally. Discover how we empower businesses and individuals.",
+        "keywords": [
+            "ManpowerGroup",
+            "Staffing Solutions",
+            "Talent Management",
+            "Workforce Development",
+            "Human Resources"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ManpowerGroup provide?",
+            "answer": "ManpowerGroup provides staffing solutions, workforce management, and talent consulting services across various industries."
+        },
+        {
+            "question": "Who is the CEO of ManpowerGroup?",
+            "answer": "Jonas Prising is the CEO of ManpowerGroup Inc."
+        },
+        {
+            "question": "Where is ManpowerGroup headquartered?",
+            "answer": "ManpowerGroup is headquartered in Milwaukee, Wisconsin, USA."
+        },
+        {
+            "question": "When was ManpowerGroup founded?",
+            "answer": "ManpowerGroup was founded in 1948."
+        }
+    ],
+    "competitors": [
+        "KFY",
+        "RHI",
+        "ADP",
+        "WPP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

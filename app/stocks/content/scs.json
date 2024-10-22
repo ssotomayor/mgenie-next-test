@@ -1,0 +1,99 @@
+{
+    "ticker": "SCS",
+    "name": "Steelcase Inc.",
+    "description": "Steelcase Inc. is a global leader in the office furniture and interior architecture industry, established in 1912. The company specializes in designing innovative and sustainable solutions that enhance work environments and improve productivity. Steelcase offers a wide range of products including office furniture, acoustic solutions, and technology integration systems that cater to various sectors such as corporate, education, healthcare, and government. Their mission is to create spaces that foster collaboration, creativity, and well-being among users, while also emphasizing the importance of sustainable practices in design and manufacturing. Steelcase is recognized for its commitment to research and development, leveraging insights from user experience to inform product design. The company has a strong global presence, with operations throughout North America, Europe, Asia, and beyond, and its products are sold in over 80 countries. Steelcase is also noted for its innovative approach to workplace design, advocating for adaptable and flexible workspaces that can evolve with changing needs. As a pioneer in the industry, Steelcase continues to lead the conversation on the future of work and the role of design in shaping effective and inspiring work environments.",
+    "industry": [
+        "Office Furniture",
+        "Interior Design"
+    ],
+    "headquarters": "Grand Rapids, Michigan, USA",
+    "founded": "1912",
+    "website": "https://www.steelcase.com",
+    "ceo": "Jim Keane",
+    "social_media": {
+        "twitter": "https://twitter.com/Steelcase",
+        "linkedin": "https://www.linkedin.com/company/steelcase/",
+        "instagram": "https://www.instagram.com/steelcase/"
+    },
+    "investor_relations": "https://investors.steelcase.com",
+    "key_executives": [
+        {
+            "name": "Jim Keane",
+            "position": "CEO"
+        },
+        {
+            "name": "Dave Tilley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Office Furniture",
+            "products": [
+                "Desks",
+                "Chairs",
+                "Workstations"
+            ]
+        },
+        {
+            "category": "Acoustic Solutions",
+            "products": [
+                "Acoustic Panels",
+                "Room Dividers"
+            ]
+        },
+        {
+            "category": "Technology Integration",
+            "products": [
+                "Video Conferencing Solutions",
+                "Smart Boards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Steelcase Inc. | Innovative Office Furniture & Workspace Solutions",
+        "meta_description": "Explore Steelcase Inc., a leader in office furniture and workspace design. Discover innovative solutions that enhance productivity and well-being in the workplace.",
+        "keywords": [
+            "Steelcase",
+            "Office Furniture",
+            "Workspace Design",
+            "Sustainable Solutions",
+            "Productivity",
+            "Acoustic Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Steelcase specialize in?",
+            "answer": "Steelcase specializes in office furniture and interior architecture solutions."
+        },
+        {
+            "question": "Who is the CEO of Steelcase?",
+            "answer": "Jim Keane is the CEO of Steelcase Inc."
+        },
+        {
+            "question": "Where is Steelcase headquartered?",
+            "answer": "Steelcase is headquartered in Grand Rapids, Michigan, USA."
+        },
+        {
+            "question": "What are Steelcase's main products?",
+            "answer": "Steelcase's main products include desks, chairs, workstations, acoustic panels, and technology integration solutions."
+        },
+        {
+            "question": "When was Steelcase founded?",
+            "answer": "Steelcase was founded in 1912."
+        }
+    ],
+    "competitors": [
+        "HNI",
+        "HON",
+        "MCD",
+        "OSB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

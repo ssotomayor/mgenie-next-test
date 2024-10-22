@@ -1,0 +1,89 @@
+{
+    "ticker": "KONG",
+    "name": "Kong Inc.",
+    "description": "Kong Inc. is a leading software company that specializes in providing cloud-native API management and microservices solutions. Founded in 2017 by Augusto Marietti and Marco Palladino, Kong aims to simplify the complexities of managing APIs and services across diverse environments. The company is best known for its flagship product, Kong Gateway, which is an open-source API gateway designed to enhance performance, security, and scalability for modern applications. With a focus on innovation, Kong offers a comprehensive platform that supports developers in building, securing, and managing APIs seamlessly. The company also provides tools for service mesh, observability, and performance monitoring, making it a vital player in the digital transformation landscape. Kong has gained recognition for its user-friendly interface and robust capabilities, which empower organizations to deliver exceptional digital experiences. By leveraging technologies such as Kubernetes and cloud-native architectures, Kong supports enterprises in their journey toward becoming more agile and responsive to market demands. The company's commitment to open-source principles fosters a collaborative community that drives continuous improvement and innovation in API management.",
+    "industry": [
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2017",
+    "website": "https://konghq.com",
+    "ceo": "Augusto Marietti",
+    "social_media": {
+        "twitter": "https://twitter.com/KongHQ",
+        "linkedin": "https://www.linkedin.com/company/kong-inc/"
+    },
+    "investor_relations": "https://konghq.com/investors/",
+    "key_executives": [
+        {
+            "name": "Augusto Marietti",
+            "position": "CEO"
+        },
+        {
+            "name": "Marco Palladino",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "API Management",
+            "products": [
+                "Kong Gateway",
+                "Kong Konnect"
+            ]
+        },
+        {
+            "category": "Service Mesh",
+            "products": [
+                "Kong Mesh"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kong Inc. | API Management and Microservices Solutions",
+        "meta_description": "Explore Kong Inc., a leader in cloud-native API management solutions. Discover how Kong empowers businesses to manage APIs and microservices effectively.",
+        "keywords": [
+            "Kong",
+            "API Management",
+            "Microservices",
+            "Cloud Computing",
+            "Kubernetes",
+            "Open Source"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Kong specialize in?",
+            "answer": "Kong specializes in cloud-native API management and microservices solutions."
+        },
+        {
+            "question": "Who is the CEO of Kong?",
+            "answer": "Augusto Marietti is the CEO of Kong Inc."
+        },
+        {
+            "question": "Where is Kong headquartered?",
+            "answer": "Kong is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Kong's main products?",
+            "answer": "Kong's main products include Kong Gateway and Kong Konnect for API management, and Kong Mesh for service mesh."
+        },
+        {
+            "question": "When was Kong founded?",
+            "answer": "Kong was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "APIG",
+        "MULE",
+        "TWLO",
+        "IBM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

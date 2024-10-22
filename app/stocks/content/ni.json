@@ -1,0 +1,93 @@
+{
+    "ticker": "NI",
+    "name": "NiSource Inc.",
+    "description": "NiSource Inc. is a leading utility company based in the United States that provides natural gas, electricity, and water services to millions of customers across several states. Founded in 1913, NiSource operates as a holding company for various subsidiaries, including Columbia Gas and NIPSCO (Northern Indiana Public Service Company). The company is committed to delivering reliable energy and water services while prioritizing environmental responsibility and sustainability. NiSource's extensive infrastructure includes natural gas pipelines, electric transmission lines, and water distribution systems, enabling the company to serve a diverse customer base effectively. With a focus on innovation, NiSource is investing in advanced technologies to enhance its service delivery and improve operational efficiency. The company is also actively pursuing renewable energy initiatives, including solar and wind projects, to contribute to a cleaner energy future. NiSource's mission emphasizes safety, service, and sustainability, ensuring that it meets the needs of its customers while fostering a positive impact on the communities it serves.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Merrillville, Indiana, USA",
+    "founded": "1913",
+    "website": "https://www.nisource.com",
+    "ceo": "Joseph Hamrock",
+    "social_media": {
+        "twitter": "https://twitter.com/NiSource",
+        "linkedin": "https://www.linkedin.com/company/nisource/"
+    },
+    "investor_relations": "https://investors.nisource.com",
+    "key_executives": [
+        {
+            "name": "Joseph Hamrock",
+            "position": "CEO"
+        },
+        {
+            "name": "Donald Brown",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Natural Gas Services",
+            "products": [
+                "Natural Gas Distribution",
+                "Natural Gas Transportation"
+            ]
+        },
+        {
+            "category": "Electric Services",
+            "products": [
+                "Electric Distribution",
+                "Electric Transmission"
+            ]
+        },
+        {
+            "category": "Water Services",
+            "products": [
+                "Water Distribution"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NiSource Inc. | Reliable Energy and Utility Services",
+        "meta_description": "Explore NiSource Inc., a leading utility provider in the U.S. delivering natural gas, electricity, and water services. Learn about NiSource's commitment to sustainability and customer service.",
+        "keywords": [
+            "NiSource",
+            "Utilities",
+            "Natural Gas",
+            "Electricity",
+            "Water Services",
+            "Sustainability",
+            "Energy Provider"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does NiSource provide?",
+            "answer": "NiSource provides natural gas, electricity, and water services to customers across several states."
+        },
+        {
+            "question": "Who is the CEO of NiSource?",
+            "answer": "Joseph Hamrock is the CEO of NiSource Inc."
+        },
+        {
+            "question": "Where is NiSource headquartered?",
+            "answer": "NiSource is headquartered in Merrillville, Indiana, USA."
+        },
+        {
+            "question": "When was NiSource founded?",
+            "answer": "NiSource was founded in 1913."
+        }
+    ],
+    "competitors": [
+        "DTE",
+        "SRE",
+        "CMS",
+        "ED"
+    ],
+    "related_stocks": [
+        "AEP",
+        "XEL",
+        "DUK",
+        "SO"
+    ]
+}

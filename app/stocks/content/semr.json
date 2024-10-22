@@ -1,0 +1,99 @@
+{
+    "ticker": "SEMR",
+    "name": "Semrush Inc.",
+    "description": "Semrush Inc. is a leading online visibility management platform that provides a comprehensive suite of tools for digital marketing professionals. Founded in 2008, Semrush was created with the mission to make online marketing easier for businesses of all sizes. The platform offers a wide array of services including search engine optimization (SEO), pay-per-click (PPC) advertising, content marketing, social media management, and competitive research. With over 50 tools and reports, Semrush enables users to track their website's performance, analyze competitors, and optimize their online presence effectively. The company has grown significantly, boasting millions of users globally, and is recognized for its commitment to innovation and customer success. Semrush's user-friendly interface and extensive database make it a go-to resource for marketers looking to enhance their digital strategies and achieve measurable results. The company is also dedicated to educating the digital marketing community through webinars, blogs, and industry events, fostering a culture of learning and advancement within the sector.",
+    "industry": [
+        "Technology",
+        "Digital Marketing"
+    ],
+    "headquarters": "Boston, Massachusetts, USA",
+    "founded": "2008",
+    "website": "https://www.semrush.com",
+    "ceo": "Oleg Shchegolev",
+    "social_media": {
+        "twitter": "https://twitter.com/Semrush",
+        "linkedin": "https://www.linkedin.com/company/semrush/",
+        "facebook": "https://www.facebook.com/Semrush",
+        "instagram": "https://www.instagram.com/semrush/"
+    },
+    "investor_relations": "https://investors.semrush.com",
+    "key_executives": [
+        {
+            "name": "Oleg Shchegolev",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew M. B. Karpov",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "SEO Tools",
+            "products": [
+                "Keyword Research",
+                "Site Audit",
+                "Position Tracking"
+            ]
+        },
+        {
+            "category": "Content Marketing",
+            "products": [
+                "SEO Content Template",
+                "Post Tracking"
+            ]
+        },
+        {
+            "category": "Advertising Tools",
+            "products": [
+                "PPC Keyword Tool",
+                "Ad Builder"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Semrush Inc. | Online Visibility Management Platform",
+        "meta_description": "Explore Semrush Inc., a leader in digital marketing tools. Discover how Semrush can enhance your online visibility and marketing strategies.",
+        "keywords": [
+            "Semrush",
+            "SEO Tools",
+            "Digital Marketing",
+            "Content Marketing",
+            "PPC Advertising"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Semrush do?",
+            "answer": "Semrush is an online platform that provides tools for SEO, PPC, content marketing, and competitive analysis."
+        },
+        {
+            "question": "Who is the CEO of Semrush?",
+            "answer": "Oleg Shchegolev is the CEO of Semrush Inc."
+        },
+        {
+            "question": "Where is Semrush headquartered?",
+            "answer": "Semrush is headquartered in Boston, Massachusetts, USA."
+        },
+        {
+            "question": "What are the main products of Semrush?",
+            "answer": "Semrush offers products for SEO, content marketing, PPC advertising, and social media management."
+        },
+        {
+            "question": "When was Semrush founded?",
+            "answer": "Semrush was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "AHREFS",
+        "MOZ",
+        "SPT",
+        "WIX"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "FB",
+        "MSFT",
+        "TWTR"
+    ]
+}

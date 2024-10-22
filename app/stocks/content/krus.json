@@ -1,0 +1,89 @@
+{
+    "ticker": "KRUS",
+    "name": "Kraken Robotics Inc.",
+    "description": "Kraken Robotics Inc. is a leading marine technology company focused on delivering innovative underwater robotic solutions for various industries, including defense, oil and gas, and oceanography. Founded in 2013, Kraken has established itself as a pioneer in advanced sonar technology and autonomous underwater vehicles (AUVs). The company's flagship products include the ThunderFish AUV, which offers exceptional performance in underwater mapping, inspection, and surveying. Kraken's proprietary sonar technology, including high-resolution synthetic aperture sonar (SAS), enables users to achieve unprecedented clarity and detail in underwater imaging. With a commitment to research and development, Kraken is continuously enhancing its product portfolio to meet the growing demands of the marine industry while ensuring safety and efficiency. The company also provides software solutions that integrate with its hardware, allowing for seamless data collection and analysis. As global interest in underwater exploration and resource management rises, Kraken Robotics remains at the forefront, helping clients navigate complex underwater environments and make informed decisions. With an emphasis on sustainability and advanced technology, Kraken is poised to play a critical role in the future of marine operations.",
+    "industry": [
+        "Marine Technology",
+        "Robotics"
+    ],
+    "headquarters": "St. John's, Newfoundland and Labrador, Canada",
+    "founded": "2013",
+    "website": "https://www.krakenrobotics.com",
+    "ceo": "Karl Kenny",
+    "social_media": {
+        "twitter": "https://twitter.com/KrakenRobotics",
+        "linkedin": "https://www.linkedin.com/company/kraken-robotics"
+    },
+    "investor_relations": "https://www.krakenrobotics.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Karl Kenny",
+            "position": "CEO"
+        },
+        {
+            "name": "Cameron McCulloch",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Underwater Robotics",
+            "products": [
+                "ThunderFish AUV",
+                "KATFISH Towed SAS"
+            ]
+        },
+        {
+            "category": "Sonar Technology",
+            "products": [
+                "Synthetic Aperture Sonar (SAS)",
+                "Side Scan Sonar"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kraken Robotics Inc. | Marine Technology and Robotics Solutions",
+        "meta_description": "Explore Kraken Robotics, a leader in marine technology, providing innovative underwater robotic solutions and advanced sonar technology for various industries.",
+        "keywords": [
+            "Kraken Robotics",
+            "Underwater Robotics",
+            "Marine Technology",
+            "Sonar Technology",
+            "ThunderFish AUV",
+            "Synthetic Aperture Sonar"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Kraken Robotics specialize in?",
+            "answer": "Kraken Robotics specializes in underwater robotics and advanced sonar technology."
+        },
+        {
+            "question": "Who is the CEO of Kraken Robotics?",
+            "answer": "Karl Kenny is the CEO of Kraken Robotics Inc."
+        },
+        {
+            "question": "Where is Kraken Robotics headquartered?",
+            "answer": "Kraken Robotics is headquartered in St. John's, Newfoundland and Labrador, Canada."
+        },
+        {
+            "question": "What are Kraken's main products?",
+            "answer": "Kraken's main products include the ThunderFish AUV and advanced sonar systems."
+        },
+        {
+            "question": "When was Kraken Robotics founded?",
+            "answer": "Kraken Robotics was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "SAND",
+        "MANT",
+        "FLIR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

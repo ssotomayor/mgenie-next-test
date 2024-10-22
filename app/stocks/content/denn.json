@@ -1,0 +1,81 @@
+{
+    "ticker": "DENN",
+    "name": "Denny's Corporation",
+    "description": "Denny's Corporation is a leading full-service diner-style restaurant chain in the United States, known for its 24-hour service and extensive menu that caters to breakfast, lunch, and dinner. Founded in 1953 in Lakewood, California, Denny's has grown to operate over 1,600 locations across the U.S., Canada, and other international markets. The company prides itself on offering a welcoming and family-friendly dining experience, featuring a diverse menu that includes classic American comfort food, breakfast served all day, and various seasonal and limited-time offerings. Denny's commitment to quality and affordability has established it as a staple in American diners' culture. Over the years, the brand has also embraced modernization by incorporating technology into its service model, including mobile ordering and delivery options. Denny's also focuses on community engagement and social responsibility, supporting initiatives that promote hunger relief and wellness. The company's mission is to provide a memorable dining experience for all guests while maintaining high standards of food quality and customer service.",
+    "industry": [
+        "Restaurant",
+        "Hospitality"
+    ],
+    "headquarters": "Spartanburg, South Carolina, USA",
+    "founded": "1953",
+    "website": "https://www.dennys.com",
+    "ceo": "John Miller",
+    "social_media": {
+        "twitter": "https://twitter.com/DennysDiner",
+        "linkedin": "https://www.linkedin.com/company/dennys-corporation/",
+        "instagram": "https://www.instagram.com/dennysdiner",
+        "facebook": "https://www.facebook.com/Dennys"
+    },
+    "investor_relations": "https://ir.dennys.com",
+    "key_executives": [
+        {
+            "name": "John Miller",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert S. J. Kwan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Food & Beverages",
+            "products": [
+                "Breakfast Items",
+                "Burgers",
+                "Salads",
+                "Desserts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Denny's Corporation | America's Diner",
+        "meta_description": "Explore Denny's Corporation, a leading diner-style restaurant chain offering 24-hour service and a diverse menu. Discover Denny's commitment to quality and community.",
+        "keywords": [
+            "Denny's",
+            "Diner",
+            "Breakfast",
+            "American Cuisine",
+            "24-hour Restaurant"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of restaurant is Denny's?",
+            "answer": "Denny's is a full-service diner-style restaurant offering 24-hour service."
+        },
+        {
+            "question": "Where is Denny's headquartered?",
+            "answer": "Denny's is headquartered in Spartanburg, South Carolina, USA."
+        },
+        {
+            "question": "What are some popular menu items at Denny's?",
+            "answer": "Popular menu items include breakfast items, burgers, salads, and desserts."
+        },
+        {
+            "question": "When was Denny's founded?",
+            "answer": "Denny's was founded in 1953."
+        }
+    ],
+    "competitors": [
+        "WEN",
+        "CMG",
+        "DIN"
+    ],
+    "related_stocks": [
+        "YUM",
+        "MCD",
+        "DRI",
+        "SHAK"
+    ]
+}

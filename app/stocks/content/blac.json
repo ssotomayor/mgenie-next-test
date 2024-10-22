@@ -1,0 +1,89 @@
+{
+    "ticker": "BLAC",
+    "name": "BlackSky Technology Inc.",
+    "description": "BlackSky Technology Inc. is a leading provider of real-time geospatial intelligence and satellite imagery, leveraging advanced satellite technology to deliver critical insights for various industries. Founded in 2013 and headquartered in Herndon, Virginia, BlackSky operates a growing constellation of small satellites that capture high-resolution images of the Earth, providing clients with timely data for decision-making. The company's platform integrates artificial intelligence and machine learning to analyze imagery and deliver actionable intelligence, enhancing situational awareness for government, defense, and commercial sectors. BlackSky's innovative solutions support applications such as disaster response, urban planning, environmental monitoring, and supply chain management. As the demand for timely and accurate geospatial data increases, BlackSky is committed to expanding its capabilities and enhancing its satellite technology to meet the evolving needs of its clients. The company's vision is to create a comprehensive view of the world that empowers organizations to make informed decisions and drive positive change.",
+    "industry": [
+        "Aerospace",
+        "Satellite Imaging",
+        "Geospatial Intelligence"
+    ],
+    "headquarters": "Herndon, Virginia, USA",
+    "founded": "2013",
+    "website": "https://www.blacksky.com",
+    "ceo": "Brian O'Toole",
+    "social_media": {
+        "twitter": "https://twitter.com/BlackSkyInc",
+        "linkedin": "https://www.linkedin.com/company/blacksky/"
+    },
+    "investor_relations": "https://investors.blacksky.com",
+    "key_executives": [
+        {
+            "name": "Brian O'Toole",
+            "position": "CEO"
+        },
+        {
+            "name": "Kirk P. S. H. Wiggins",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Imagery",
+            "products": [
+                "High-Resolution Earth Imaging",
+                "Rapid Revisit Imaging"
+            ]
+        },
+        {
+            "category": "Geospatial Intelligence",
+            "products": [
+                "Real-Time Analytics",
+                "AI-Powered Insights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BlackSky Technology Inc. | Real-Time Geospatial Intelligence Solutions",
+        "meta_description": "Explore BlackSky Technology Inc., a leader in real-time geospatial intelligence and satellite imagery. Discover innovative solutions for government and commercial applications.",
+        "keywords": [
+            "BlackSky",
+            "Geospatial Intelligence",
+            "Satellite Imagery",
+            "Earth Observation",
+            "AI Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BlackSky specialize in?",
+            "answer": "BlackSky specializes in real-time geospatial intelligence and satellite imagery, providing insights for various industries."
+        },
+        {
+            "question": "Who is the CEO of BlackSky?",
+            "answer": "Brian O'Toole is the CEO of BlackSky Technology Inc."
+        },
+        {
+            "question": "Where is BlackSky headquartered?",
+            "answer": "BlackSky is headquartered in Herndon, Virginia, USA."
+        },
+        {
+            "question": "What are BlackSky's main products?",
+            "answer": "BlackSky's main products include high-resolution satellite imagery and real-time geospatial analytics."
+        },
+        {
+            "question": "When was BlackSky founded?",
+            "answer": "BlackSky was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "MAXR",
+        "SPCE",
+        "SSTK"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "MSFT",
+        "APPL",
+        "AMZN"
+    ]
+}

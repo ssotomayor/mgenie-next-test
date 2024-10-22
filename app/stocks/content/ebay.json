@@ -1,0 +1,91 @@
+{
+    "ticker": "EBAY",
+    "name": "eBay Inc.",
+    "description": "eBay Inc. is a global e-commerce leader that connects millions of buyers and sellers around the world. Founded in 1995 by Pierre Omidyar, eBay started as an online auction platform and has since evolved into a diversified marketplace that offers a wide range of products and services. The platform allows individuals and businesses to buy and sell new and used goods, facilitating transactions through various formats, including auctions and fixed-price listings. eBay has a strong focus on consumer-to-consumer (C2C) sales, but it also provides a robust platform for business-to-consumer (B2C) sales. The company is known for its innovative features such as eBay Motors, eBay Fashion, and eBay for Charity, which enhance the user experience and cater to specific market segments. With a commitment to trust and safety, eBay implements stringent policies to protect both buyers and sellers. The company leverages data analytics and machine learning to enhance the shopping experience, personalize recommendations, and optimize pricing. eBay's mission is to empower people and create economic opportunity for all, ensuring that everyone can thrive in the e-commerce ecosystem.",
+    "industry": [
+        "E-commerce",
+        "Technology"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1995",
+    "website": "https://www.ebay.com",
+    "ceo": "Jamie Iannone",
+    "social_media": {
+        "twitter": "https://twitter.com/eBay",
+        "linkedin": "https://www.linkedin.com/company/ebay/"
+    },
+    "investor_relations": "https://investors.ebayinc.com",
+    "key_executives": [
+        {
+            "name": "Jamie Iannone",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Fisher",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Electronics",
+            "products": [
+                "Smartphones",
+                "Laptops",
+                "Cameras"
+            ]
+        },
+        {
+            "category": "Fashion",
+            "products": [
+                "Clothing",
+                "Footwear",
+                "Accessories"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "eBay Inc. | The World's Online Marketplace",
+        "meta_description": "Explore eBay Inc., a leading global e-commerce platform connecting buyers and sellers. Discover a wide range of products and services tailored to your needs.",
+        "keywords": [
+            "eBay",
+            "E-commerce",
+            "Online Auctions",
+            "Buy and Sell",
+            "Marketplace"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is eBay known for?",
+            "answer": "eBay is known for its online marketplace that allows users to buy and sell new and used goods through auctions and fixed-price listings."
+        },
+        {
+            "question": "Who is the CEO of eBay?",
+            "answer": "Jamie Iannone is the CEO of eBay Inc."
+        },
+        {
+            "question": "Where is eBay headquartered?",
+            "answer": "eBay is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What types of products can you buy on eBay?",
+            "answer": "You can buy a wide range of products on eBay, including consumer electronics, fashion items, collectibles, and much more."
+        },
+        {
+            "question": "When was eBay founded?",
+            "answer": "eBay was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "WMT",
+        "ETSY",
+        "JD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NFLX"
+    ]
+}

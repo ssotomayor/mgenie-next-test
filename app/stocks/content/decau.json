@@ -1,0 +1,90 @@
+{
+    "ticker": "DECAU",
+    "name": "DecaWave, Inc.",
+    "description": "DecaWave, Inc. is a leading provider of ultra-wideband (UWB) technology solutions, specializing in precise location tracking and communication systems. Founded in 2012, DecaWave has developed innovative products that enable accurate real-time positioning for a wide range of applications, including smart cities, industrial automation, and the Internet of Things (IoT). The company's flagship product, the DW1000 UWB transceiver, is renowned for its accuracy in determining distances up to 10 centimeters, making it ideal for applications requiring high precision. DecaWave's technology is designed to address the growing demand for seamless connectivity and navigation in crowded environments, where traditional GPS systems may fail. The company is committed to enhancing safety and efficiency in various sectors, such as healthcare, logistics, and manufacturing, by leveraging its cutting-edge wireless technology. With a strong focus on research and development, DecaWave continues to push the boundaries of UWB technology, aiming to create a smarter and more connected world. The company collaborates with industry leaders and partners to integrate its solutions into existing infrastructures, paving the way for a future where location-based services are more accurate and reliable than ever before.",
+    "industry": [
+        "Technology",
+        "Telecommunications",
+        "IoT"
+    ],
+    "headquarters": "Dublin, Ireland",
+    "founded": "2012",
+    "website": "https://www.decawave.com",
+    "ceo": "Geoff O'Neill",
+    "social_media": {
+        "twitter": "https://twitter.com/DecaWave",
+        "linkedin": "https://www.linkedin.com/company/decawave"
+    },
+    "investor_relations": "https://www.decawave.com/investors",
+    "key_executives": [
+        {
+            "name": "Geoff O'Neill",
+            "position": "CEO"
+        },
+        {
+            "name": "David O'Reilly",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "UWB Technology",
+            "products": [
+                "DW1000 UWB Transceiver",
+                "DWM1001 Module"
+            ]
+        },
+        {
+            "category": "Location Services",
+            "products": [
+                "Real-time Location Systems (RTLS)",
+                "Smart Mesh Networking Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DecaWave, Inc. | Ultra-Wideband Technology Solutions",
+        "meta_description": "Explore DecaWave, Inc., a leader in ultra-wideband technology providing precise location tracking and communication solutions for IoT and smart cities.",
+        "keywords": [
+            "DecaWave",
+            "Ultra-Wideband",
+            "UWB Technology",
+            "Real-time Location Systems",
+            "IoT Solutions",
+            "Smart Cities"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is DecaWave known for?",
+            "answer": "DecaWave is known for its ultra-wideband technology solutions that provide precise location tracking and communication."
+        },
+        {
+            "question": "Who is the CEO of DecaWave?",
+            "answer": "Geoff O'Neill is the CEO of DecaWave, Inc."
+        },
+        {
+            "question": "Where is DecaWave headquartered?",
+            "answer": "DecaWave is headquartered in Dublin, Ireland."
+        },
+        {
+            "question": "What are DecaWave's main products?",
+            "answer": "DecaWave's main products include the DW1000 UWB transceiver and real-time location systems."
+        },
+        {
+            "question": "When was DecaWave founded?",
+            "answer": "DecaWave was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "QCOM",
+        "AVAV",
+        "NOK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA"
+    ]
+}

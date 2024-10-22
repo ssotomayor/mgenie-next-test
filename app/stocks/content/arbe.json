@@ -1,0 +1,82 @@
+{
+    "ticker": "ARBE",
+    "name": "Arbe Robotics Ltd.",
+    "description": "Arbe Robotics Ltd. is a leading provider of radar technology for autonomous vehicles and advanced driver assistance systems (ADAS). Founded in 2015 and headquartered in Tel Aviv, Israel, Arbe focuses on delivering innovative solutions that enhance vehicle safety and enable the development of self-driving technologies. The company's flagship product, the Arbe Radar, utilizes advanced algorithms and high-resolution imaging capabilities to provide a comprehensive 3D view of the vehicle's surroundings, significantly improving object detection and classification. This technology aids in various applications, including collision avoidance, pedestrian detection, and traffic monitoring. Arbe's commitment to advancing the future of mobility is underscored by its partnerships with automotive manufacturers and technology developers worldwide. As the automotive industry shifts towards automation and enhanced safety features, Arbe is positioned at the forefront of this technological transformation, aiming to revolutionize how vehicles perceive their environment. The company pursues its mission with a strong focus on research and development, ensuring its radar solutions remain at the cutting edge of innovation.",
+    "industry": [
+        "Automotive Technology",
+        "Radar Solutions",
+        "Autonomous Vehicles"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2015",
+    "website": "https://www.arbe-robotics.com",
+    "ceo": "Kobi Marenko",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/arbe-robotics/"
+    },
+    "investor_relations": "https://www.arbe-robotics.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Kobi Marenko",
+            "position": "CEO"
+        },
+        {
+            "name": "Dov S. Zohar",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Radar Solutions",
+            "products": [
+                "Arbe Radar"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Arbe Robotics Ltd. | Advanced Radar Technology for Autonomous Vehicles",
+        "meta_description": "Discover Arbe Robotics Ltd., a pioneer in radar technology for autonomous vehicles. Learn about Arbe's innovative solutions that enhance vehicle safety and enable self-driving capabilities.",
+        "keywords": [
+            "Arbe Robotics",
+            "Radar Technology",
+            "Autonomous Vehicles",
+            "ADAS",
+            "Vehicle Safety",
+            "Self-Driving Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Arbe Robotics known for?",
+            "answer": "Arbe Robotics is known for its advanced radar technology designed for autonomous vehicles and advanced driver assistance systems."
+        },
+        {
+            "question": "Who is the CEO of Arbe Robotics?",
+            "answer": "Kobi Marenko is the CEO of Arbe Robotics Ltd."
+        },
+        {
+            "question": "Where is Arbe Robotics headquartered?",
+            "answer": "Arbe Robotics is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What products does Arbe Robotics offer?",
+            "answer": "Arbe Robotics offers radar solutions, including its flagship product, the Arbe Radar."
+        },
+        {
+            "question": "When was Arbe Robotics founded?",
+            "answer": "Arbe Robotics was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "VAL",
+        "LIDR",
+        "NIO",
+        "TSLA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

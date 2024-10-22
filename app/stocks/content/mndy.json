@@ -1,0 +1,84 @@
+{
+    "ticker": "MNDY",
+    "name": "Monday.com Ltd.",
+    "description": "Monday.com Ltd. is a leading work operating system (Work OS) that empowers teams to run projects and workflows with unparalleled efficiency. Founded in 2012 by Roy Mann and Eran Zinman, the company is headquartered in Tel Aviv, Israel, and has quickly gained recognition for its user-friendly platform that combines project management, collaboration, and automation tools into a single interface. The Monday.com Work OS allows users to customize workflows, track progress, and visualize data through various templates and views, making it suitable for teams of all sizes across diverse industries. With a focus on flexibility and scalability, Monday.com has attracted a vast customer base, including major corporations and small businesses alike. The company continually invests in innovation, enhancing its platform with features like AI-driven automation, integrations with other software tools, and advanced reporting capabilities. Monday.com aims to redefine how teams collaborate and manage their work, fostering a culture of transparency and accountability. Their mission is to help organizations achieve their goals by streamlining workflows and improving productivity through collaborative technology.",
+    "industry": [
+        "Software",
+        "Project Management"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2012",
+    "website": "https://monday.com",
+    "ceo": "Roy Mann",
+    "social_media": {
+        "twitter": "https://twitter.com/mondaydotcom",
+        "linkedin": "https://www.linkedin.com/company/mondaydotcom/",
+        "instagram": "https://www.instagram.com/mondaydotcom/"
+    },
+    "investor_relations": "https://investors.monday.com",
+    "key_executives": [
+        {
+            "name": "Roy Mann",
+            "position": "CEO"
+        },
+        {
+            "name": "Eran Zinman",
+            "position": "Co-Founder and CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Work Operating System",
+            "products": [
+                "Project Management",
+                "Workflow Automation",
+                "Collaboration Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Monday.com | The Work Operating System",
+        "meta_description": "Discover Monday.com, a leading work operating system that helps teams manage projects and workflows efficiently. Learn about our innovative features and solutions.",
+        "keywords": [
+            "Monday.com",
+            "Work OS",
+            "Project Management",
+            "Workflow Automation",
+            "Collaboration Tools"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Monday.com known for?",
+            "answer": "Monday.com is known for its work operating system that helps teams manage projects and workflows effectively."
+        },
+        {
+            "question": "Who is the CEO of Monday.com?",
+            "answer": "Roy Mann is the CEO of Monday.com Ltd."
+        },
+        {
+            "question": "Where is Monday.com headquartered?",
+            "answer": "Monday.com is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What are the main products offered by Monday.com?",
+            "answer": "Monday.com offers a work operating system that includes project management, workflow automation, and collaboration tools."
+        },
+        {
+            "question": "When was Monday.com founded?",
+            "answer": "Monday.com was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "ASANA",
+        "TEAM",
+        "SMAR",
+        "OKTA"
+    ],
+    "related_stocks": [
+        "CRM",
+        "ADBE",
+        "MSFT",
+        "SAP"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "AES",
+    "name": "The AES Corporation",
+    "description": "The AES Corporation is a global energy company that operates in the electricity generation and distribution sector. Founded in 1981, AES is headquartered in Arlington, Virginia, and has a presence in 15 countries across the Americas, Europe, Africa, and Asia. The company is committed to delivering sustainable energy solutions and is a leader in the renewable energy sector, with a substantial portfolio of wind, solar, and hydroelectric power generation facilities. AES is recognized for its innovative approach to energy, utilizing advanced technology and operational excellence to improve efficiency and minimize environmental impact. Through its focus on sustainability, AES aims to provide reliable, affordable, and clean energy to its customers while striving to reduce carbon emissions and enhance energy access. In addition to traditional energy generation, AES is also involved in energy storage solutions, which play a crucial role in stabilizing the grid and integrating renewable resources. The company's mission is to accelerate the future of energy, empowering communities and supporting the transition to a low-carbon economy.",
+    "industry": [
+        "Energy",
+        "Utilities"
+    ],
+    "headquarters": "Arlington, Virginia, USA",
+    "founded": "1981",
+    "website": "https://www.aes.com",
+    "ceo": "Andr\u00e9s Gluski",
+    "social_media": {
+        "twitter": "https://twitter.com/aescorp",
+        "linkedin": "https://www.linkedin.com/company/aes-corporation/"
+    },
+    "investor_relations": "https://investors.aes.com",
+    "key_executives": [
+        {
+            "name": "Andr\u00e9s Gluski",
+            "position": "CEO"
+        },
+        {
+            "name": "Karen L. Dyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Generation",
+            "products": [
+                "Renewable Energy",
+                "Conventional Power"
+            ]
+        },
+        {
+            "category": "Energy Storage",
+            "products": [
+                "Battery Storage Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The AES Corporation | Sustainable Energy Solutions",
+        "meta_description": "Learn about The AES Corporation, a leader in global energy generation and distribution, committed to delivering sustainable and innovative energy solutions.",
+        "keywords": [
+            "AES",
+            "Energy",
+            "Renewable Energy",
+            "Electricity Generation",
+            "Sustainable Energy",
+            "Andr\u00e9s Gluski"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AES Corporation do?",
+            "answer": "AES Corporation operates in the electricity generation and distribution sector, focusing on renewable and sustainable energy solutions."
+        },
+        {
+            "question": "Who is the CEO of AES Corporation?",
+            "answer": "Andr\u00e9s Gluski is the CEO of The AES Corporation."
+        },
+        {
+            "question": "Where is AES Corporation headquartered?",
+            "answer": "AES Corporation is headquartered in Arlington, Virginia, USA."
+        },
+        {
+            "question": "What types of energy does AES generate?",
+            "answer": "AES generates electricity from renewable sources like wind and solar, as well as conventional power generation."
+        },
+        {
+            "question": "When was AES Corporation founded?",
+            "answer": "AES Corporation was founded in 1981."
+        }
+    ],
+    "competitors": [
+        "NEE",
+        "DUK",
+        "EXC",
+        "ED"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

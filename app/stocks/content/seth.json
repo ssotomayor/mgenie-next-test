@@ -1,0 +1,91 @@
+{
+    "ticker": "SETH",
+    "name": "Seth Technologies, Inc.",
+    "description": "Seth Technologies, Inc. is an innovative company specializing in artificial intelligence (AI) and machine learning solutions. Founded in 2015, Seth Technologies aims to leverage advanced algorithms and data analytics to transform industries ranging from healthcare to finance. The company\u2019s flagship products include AI-driven analytics platforms, predictive modeling tools, and customized machine learning applications that empower businesses to make data-driven decisions. Seth Technologies is committed to pushing the boundaries of technology by offering state-of-the-art solutions that enhance operational efficiency and drive growth. The company also focuses on ethical AI practices, ensuring that its technologies are developed and deployed responsibly. With a diverse team of experts in data science, software engineering, and domain-specific knowledge, Seth Technologies is positioned as a leader in the AI landscape, continuously evolving to meet the changing needs of its clients. The company\u2019s mission is to democratize access to AI and machine learning, providing tools and services that enable organizations of all sizes to harness the power of data for strategic advantage.",
+    "industry": [
+        "Technology",
+        "Artificial Intelligence",
+        "Data Analytics"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.sethtech.com",
+    "ceo": "Jordan Seth",
+    "social_media": {
+        "twitter": "https://twitter.com/SethTechInc",
+        "linkedin": "https://www.linkedin.com/company/seth-technologies"
+    },
+    "investor_relations": "https://ir.sethtech.com",
+    "key_executives": [
+        {
+            "name": "Jordan Seth",
+            "position": "CEO"
+        },
+        {
+            "name": "Maria Lopez",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Predictive Analytics Platform",
+                "Custom Machine Learning Models"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Data Visualization Tools",
+                "Business Intelligence Software"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Seth Technologies, Inc. | Artificial Intelligence and Data Solutions",
+        "meta_description": "Explore Seth Technologies, Inc., a leader in artificial intelligence solutions. Discover innovative AI-driven tools and analytics designed to transform industries.",
+        "keywords": [
+            "Seth Technologies",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Analytics",
+            "Predictive Analytics",
+            "Business Intelligence"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Seth Technologies specialize in?",
+            "answer": "Seth Technologies specializes in artificial intelligence and machine learning solutions."
+        },
+        {
+            "question": "Who is the CEO of Seth Technologies?",
+            "answer": "Jordan Seth is the CEO of Seth Technologies, Inc."
+        },
+        {
+            "question": "Where is Seth Technologies headquartered?",
+            "answer": "Seth Technologies is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are the main products offered by Seth Technologies?",
+            "answer": "Seth Technologies offers AI-driven analytics platforms, predictive modeling tools, and customized machine learning applications."
+        },
+        {
+            "question": "When was Seth Technologies founded?",
+            "answer": "Seth Technologies was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "GOOGL",
+        "IBM",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "FB",
+        "ORCL"
+    ]
+}

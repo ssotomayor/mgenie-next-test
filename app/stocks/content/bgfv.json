@@ -1,0 +1,100 @@
+{
+    "ticker": "BGFV",
+    "name": "Big 5 Sporting Goods Corporation",
+    "description": "Big 5 Sporting Goods Corporation is a leading sporting goods retailer in the United States, specializing in a wide array of sports and outdoor equipment. Founded in 1955 and headquartered in El Segundo, California, the company operates over 400 stores across the western United States. Big 5 offers a diverse selection of high-quality products ranging from athletic footwear, apparel, and accessories to equipment for sports such as basketball, baseball, soccer, and outdoor activities like camping and hiking. The company prides itself on providing excellent customer service and a commitment to value, ensuring that customers find the right gear for their sporting needs. In addition to its extensive product offerings, Big 5 frequently runs promotions and discounts, making sporting goods accessible to a broad audience. The company's mission is to inspire and enable individuals and families to lead active lifestyles through sports and recreation. With a strong presence in local communities, Big 5 continues to expand its footprint while adapting to changing consumer preferences and industry trends.",
+    "industry": [
+        "Retail",
+        "Sporting Goods"
+    ],
+    "headquarters": "El Segundo, California, USA",
+    "founded": "1955",
+    "website": "https://www.big5sportinggoods.com",
+    "ceo": "Scott D. Dahnke",
+    "social_media": {
+        "twitter": "https://twitter.com/Big5SportingGoods",
+        "facebook": "https://www.facebook.com/big5sportinggoods",
+        "instagram": "https://www.instagram.com/big5sportinggoods/"
+    },
+    "investor_relations": "https://www.big5sportinggoods.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Scott D. Dahnke",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark J. Bowe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Footwear",
+            "products": [
+                "Athletic Shoes",
+                "Hiking Boots",
+                "Casual Shoes"
+            ]
+        },
+        {
+            "category": "Apparel",
+            "products": [
+                "Activewear",
+                "Outerwear",
+                "Team Jerseys"
+            ]
+        },
+        {
+            "category": "Sporting Equipment",
+            "products": [
+                "Basketball Gear",
+                "Baseball Equipment",
+                "Camping Gear"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Big 5 Sporting Goods | Your Destination for Sports Gear",
+        "meta_description": "Discover Big 5 Sporting Goods, a leading retailer for all your sporting needs. Explore our wide selection of footwear, apparel, and sports equipment.",
+        "keywords": [
+            "Big 5 Sporting Goods",
+            "Sporting Goods Retailer",
+            "Athletic Equipment",
+            "Outdoor Gear",
+            "Sports Apparel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Big 5 Sporting Goods sell?",
+            "answer": "Big 5 sells a wide range of sporting goods including footwear, apparel, and equipment for various sports and outdoor activities."
+        },
+        {
+            "question": "Where is Big 5 headquartered?",
+            "answer": "Big 5 is headquartered in El Segundo, California, USA."
+        },
+        {
+            "question": "When was Big 5 founded?",
+            "answer": "Big 5 was founded in 1955."
+        },
+        {
+            "question": "How many stores does Big 5 operate?",
+            "answer": "Big 5 operates over 400 stores across the western United States."
+        },
+        {
+            "question": "What is Big 5's mission?",
+            "answer": "Big 5's mission is to inspire and enable individuals and families to lead active lifestyles through sports and recreation."
+        }
+    ],
+    "competitors": [
+        "DICKS",
+        "CABO",
+        "Academy",
+        "FINL"
+    ],
+    "related_stocks": [
+        "WMT",
+        "AMZN",
+        "TGT",
+        "FL"
+    ]
+}

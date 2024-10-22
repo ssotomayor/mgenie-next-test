@@ -1,0 +1,87 @@
+{
+    "ticker": "SGLY",
+    "name": "Sgully Corporation",
+    "description": "Sgully Corporation is an innovative technology firm specializing in artificial intelligence and machine learning solutions. Founded in 2015, Sgully aims to empower businesses across various industries by providing advanced AI tools that enhance productivity, optimize operations, and drive data-driven decision-making. The company focuses on developing intelligent software platforms that integrate seamlessly with existing business workflows, enabling clients to harness the power of their data. Sgully's flagship product, Sgully AI Suite, offers a comprehensive suite of applications for predictive analytics, natural language processing, and image recognition. With a strong emphasis on research and development, Sgully is committed to staying at the forefront of technological advancements, collaborating with academic institutions and industry leaders to push the boundaries of what is possible with AI. The company's mission is to democratize access to cutting-edge AI technology, making it available to organizations of all sizes, from startups to Fortune 500 companies. Sgully's innovative approach and commitment to excellence have positioned it as a leader in the AI space, with a growing portfolio of clients across sectors such as healthcare, finance, and retail.",
+    "industry": [
+        "Technology",
+        "Artificial Intelligence",
+        "Software"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.sgully.com",
+    "ceo": "Jessica Lee",
+    "social_media": {
+        "twitter": "https://twitter.com/SgullyCorp",
+        "linkedin": "https://www.linkedin.com/company/sgully",
+        "facebook": "https://www.facebook.com/SgullyCorp"
+    },
+    "investor_relations": "https://ir.sgully.com",
+    "key_executives": [
+        {
+            "name": "Jessica Lee",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Sgully AI Suite",
+                "Predictive Analytics Tool",
+                "NLP Platform",
+                "Image Recognition API"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sgully Corporation | AI and Machine Learning Solutions",
+        "meta_description": "Explore Sgully Corporation, a leader in AI technology providing innovative solutions to enhance business operations and decision-making.",
+        "keywords": [
+            "Sgully",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Predictive Analytics",
+            "NLP",
+            "Image Recognition"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sgully Corporation do?",
+            "answer": "Sgully Corporation specializes in artificial intelligence and machine learning solutions for businesses."
+        },
+        {
+            "question": "Who is the CEO of Sgully Corporation?",
+            "answer": "Jessica Lee is the CEO of Sgully Corporation."
+        },
+        {
+            "question": "Where is Sgully Corporation headquartered?",
+            "answer": "Sgully Corporation is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Sgully's main products?",
+            "answer": "Sgully's main products include the Sgully AI Suite, Predictive Analytics Tool, NLP Platform, and Image Recognition API."
+        },
+        {
+            "question": "When was Sgully Corporation founded?",
+            "answer": "Sgully Corporation was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "GOOGL",
+        "IBM",
+        "ADBE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NFLX",
+        "ORCL"
+    ]
+}

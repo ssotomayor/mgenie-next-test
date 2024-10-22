@@ -1,0 +1,86 @@
+{
+    "ticker": "DLN",
+    "name": "Dolan Company",
+    "description": "Dolan Company is a dynamic provider of business services and specialized marketing solutions. Founded in 2010, Dolan has established itself as a leader in the marketing and media landscape, offering a suite of services designed to help companies enhance their brand presence and reach their target audiences. The company specializes in digital marketing, print advertising, and public relations, serving a diverse range of industries including retail, real estate, and hospitality. Dolan Company's innovative approach combines traditional marketing techniques with the latest digital strategies, allowing clients to maximize their marketing ROI. With a team of experienced professionals, Dolan emphasizes creativity and data-driven decision-making to deliver impactful results. The company is committed to client satisfaction and building long-term partnerships, ensuring that each client's unique needs are met with tailored solutions. In addition to core marketing services, Dolan also offers consulting services to help businesses navigate the ever-changing marketing landscape. The company's mission is to empower businesses to thrive in a competitive marketplace through effective marketing strategies and exceptional service.",
+    "industry": [
+        "Marketing",
+        "Advertising",
+        "Media"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "2010",
+    "website": "https://www.dolancompany.com",
+    "ceo": "John Dolan",
+    "social_media": {
+        "twitter": "https://twitter.com/DolanCompany",
+        "linkedin": "https://www.linkedin.com/company/dolan-company/"
+    },
+    "investor_relations": "https://ir.dolancompany.com",
+    "key_executives": [
+        {
+            "name": "John Dolan",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Marketing Services",
+            "products": [
+                "Digital Marketing",
+                "Print Advertising",
+                "Public Relations"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Market Research",
+                "Brand Strategy"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Dolan Company | Innovative Marketing and Business Services",
+        "meta_description": "Discover Dolan Company, a leader in marketing and media solutions. Explore our services in digital marketing, print advertising, and consulting.",
+        "keywords": [
+            "Dolan Company",
+            "Marketing Services",
+            "Digital Marketing",
+            "Advertising",
+            "Public Relations"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Dolan Company offer?",
+            "answer": "Dolan Company offers marketing services such as digital marketing, print advertising, public relations, and consulting."
+        },
+        {
+            "question": "Who is the CEO of Dolan Company?",
+            "answer": "John Dolan is the CEO of Dolan Company."
+        },
+        {
+            "question": "Where is Dolan Company headquartered?",
+            "answer": "Dolan Company is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "When was Dolan Company founded?",
+            "answer": "Dolan Company was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "WPP",
+        "OMC",
+        "IPG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

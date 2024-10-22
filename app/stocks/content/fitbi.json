@@ -1,0 +1,91 @@
+{
+    "ticker": "FITBI",
+    "name": "FitBi, Inc.",
+    "description": "FitBi, Inc. is a leading health and wellness company focused on providing innovative fitness solutions and nutritional products. Founded in 2015, FitBi aims to empower individuals to lead healthier and more active lifestyles through high-quality fitness technology and nutritional supplements. The company is renowned for its state-of-the-art fitness trackers and smart wearables, which combine advanced health monitoring with user-friendly interfaces. Additionally, FitBi offers a range of nutritional products, including protein powders, vitamins, and wellness supplements, formulated to support various fitness goals and promote overall health. With a commitment to research and development, FitBi continually seeks to enhance its product offerings through cutting-edge technology and scientific advancements. The company's mission is to inspire and motivate people to achieve their fitness aspirations while fostering a community centered around health and wellness.",
+    "industry": [
+        "Health and Wellness",
+        "Fitness Technology",
+        "Nutritional Supplements"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.fitbi.com",
+    "ceo": "Jessica Tran",
+    "social_media": {
+        "twitter": "https://twitter.com/FitBi",
+        "linkedin": "https://www.linkedin.com/company/fitbi",
+        "instagram": "https://www.instagram.com/fitbi"
+    },
+    "investor_relations": "https://ir.fitbi.com",
+    "key_executives": [
+        {
+            "name": "Jessica Tran",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Fitness Technology",
+            "products": [
+                "FitBi Tracker",
+                "FitBi Smart Watch"
+            ]
+        },
+        {
+            "category": "Nutritional Supplements",
+            "products": [
+                "Protein Powder",
+                "Vitamins",
+                "Pre-Workout Formula"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "FitBi, Inc. | Innovative Fitness and Nutritional Solutions",
+        "meta_description": "Discover FitBi, Inc., a leader in fitness technology and nutritional products. Explore our innovative solutions and join our community for a healthier lifestyle.",
+        "keywords": [
+            "FitBi",
+            "Fitness Technology",
+            "Nutritional Supplements",
+            "Health and Wellness",
+            "Wearable Fitness Trackers"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does FitBi specialize in?",
+            "answer": "FitBi specializes in fitness technology and nutritional supplements to support healthy lifestyles."
+        },
+        {
+            "question": "Who is the CEO of FitBi?",
+            "answer": "Jessica Tran is the CEO of FitBi, Inc."
+        },
+        {
+            "question": "Where is FitBi headquartered?",
+            "answer": "FitBi is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are FitBi's main products?",
+            "answer": "FitBi's main products include the FitBi Tracker, FitBi Smart Watch, Protein Powder, and various nutritional supplements."
+        },
+        {
+            "question": "When was FitBi founded?",
+            "answer": "FitBi was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "FIT",
+        "NKE",
+        "PFE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

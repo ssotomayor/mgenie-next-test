@@ -1,0 +1,93 @@
+{
+    "ticker": "DB",
+    "name": "Deutsche Bank AG",
+    "description": "Deutsche Bank AG is a global investment bank and financial services company headquartered in Frankfurt, Germany. Founded in 1870, Deutsche Bank has grown to become one of the leading financial institutions in Europe, providing a wide range of services including investment banking, asset management, and retail banking. The bank operates in over 70 countries and serves millions of customers worldwide, ranging from individuals to large corporations and institutions. Deutsche Bank's investment banking division offers services in mergers and acquisitions, capital markets, and risk management, while its global markets division provides trading and sales services across various asset classes. The bank has made significant strides in digital banking, striving to enhance customer experience through innovative technology solutions. With a strong commitment to sustainability and corporate responsibility, Deutsche Bank focuses on integrating environmental, social, and governance (ESG) factors into its business practices. The bank's mission is to enable economic growth and societal progress while ensuring a robust approach to risk management and compliance. As it navigates the challenges of the global financial landscape, Deutsche Bank continues to adapt and evolve, positioning itself as a trusted partner for its clients and a key player in the financial services industry.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Frankfurt, Germany",
+    "founded": "1870",
+    "website": "https://www.db.com",
+    "ceo": "Christian Sewing",
+    "social_media": {
+        "twitter": "https://twitter.com/DeutscheBank",
+        "linkedin": "https://www.linkedin.com/company/deutsche-bank"
+    },
+    "investor_relations": "https://www.db.com/ir",
+    "key_executives": [
+        {
+            "name": "Christian Sewing",
+            "position": "CEO"
+        },
+        {
+            "name": "James von Moltke",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions Advisory",
+                "Capital Markets",
+                "Risk Management"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Investment Funds",
+                "Wealth Management"
+            ]
+        },
+        {
+            "category": "Retail Banking",
+            "products": [
+                "Personal Banking",
+                "Mortgage Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Deutsche Bank AG | Global Investment Bank and Financial Services",
+        "meta_description": "Explore Deutsche Bank AG, a leading global investment bank offering a comprehensive range of financial services. Learn about our commitment to sustainability, innovation, and client success.",
+        "keywords": [
+            "Deutsche Bank",
+            "Investment Banking",
+            "Financial Services",
+            "Asset Management",
+            "Retail Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Deutsche Bank provide?",
+            "answer": "Deutsche Bank provides investment banking, asset management, and retail banking services."
+        },
+        {
+            "question": "Who is the CEO of Deutsche Bank?",
+            "answer": "Christian Sewing is the CEO of Deutsche Bank AG."
+        },
+        {
+            "question": "Where is Deutsche Bank headquartered?",
+            "answer": "Deutsche Bank is headquartered in Frankfurt, Germany."
+        },
+        {
+            "question": "When was Deutsche Bank founded?",
+            "answer": "Deutsche Bank was founded in 1870."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "GS",
+        "C",
+        "BAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

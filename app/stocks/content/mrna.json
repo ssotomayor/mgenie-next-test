@@ -1,0 +1,90 @@
+{
+    "ticker": "MRNA",
+    "name": "Moderna, Inc.",
+    "description": "Moderna, Inc. is a biotechnology company that has gained global recognition for its innovative mRNA technology platform, which has been pivotal in the development of vaccines and therapeutics. Founded in 2010 and headquartered in Cambridge, Massachusetts, Moderna focuses on the design and manufacture of messenger RNA (mRNA) medicines to treat a range of diseases, including infectious diseases, cancer, and rare diseases. The company rose to prominence during the COVID-19 pandemic with its mRNA-1273 vaccine, known as Spikevax, which was one of the first vaccines authorized for emergency use to combat COVID-19. Moderna's mRNA technology allows for rapid development and production of vaccines, offering a new approach to immunization. Beyond COVID-19, the company is actively pursuing a robust pipeline of mRNA-based therapies and vaccines targeting various health conditions, including flu, RSV, and personalized cancer vaccines. With a commitment to scientific excellence and innovation, Moderna aims to revolutionize the field of medicine and improve patient outcomes globally.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "2010",
+    "website": "https://www.modernatx.com",
+    "ceo": "St\u00e9phane Bancel",
+    "social_media": {
+        "twitter": "https://twitter.com/moderna_tx",
+        "linkedin": "https://www.linkedin.com/company/moderna/"
+    },
+    "investor_relations": "https://investors.modernatx.com",
+    "key_executives": [
+        {
+            "name": "St\u00e9phane Bancel",
+            "position": "CEO"
+        },
+        {
+            "name": "Juan Andres",
+            "position": "Chief Technical Operations and Quality Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "Spikevax (COVID-19 Vaccine)",
+                "mRNA-1273.214 (COVID-19 Vaccine Variant)"
+            ]
+        },
+        {
+            "category": "Therapeutics",
+            "products": [
+                "mRNA Therapeutics for Cancer",
+                "mRNA Therapeutics for Rare Diseases"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Moderna, Inc. | mRNA Technology and Vaccine Development",
+        "meta_description": "Explore Moderna, Inc., a leader in mRNA technology and vaccine development. Discover how Moderna is transforming medicine with its innovative therapies and vaccines.",
+        "keywords": [
+            "Moderna",
+            "mRNA",
+            "COVID-19 Vaccine",
+            "Biotechnology",
+            "Pharmaceuticals",
+            "Spikevax"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Moderna known for?",
+            "answer": "Moderna is known for its mRNA technology platform and the development of vaccines, particularly its COVID-19 vaccine, Spikevax."
+        },
+        {
+            "question": "Who is the CEO of Moderna?",
+            "answer": "St\u00e9phane Bancel is the CEO of Moderna, Inc."
+        },
+        {
+            "question": "Where is Moderna headquartered?",
+            "answer": "Moderna is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are Moderna's main products?",
+            "answer": "Moderna's main products include the Spikevax COVID-19 vaccine and various mRNA therapeutics targeting cancer and rare diseases."
+        },
+        {
+            "question": "When was Moderna founded?",
+            "answer": "Moderna was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "NVAX",
+        "BNTX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

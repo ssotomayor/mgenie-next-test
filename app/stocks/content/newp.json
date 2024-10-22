@@ -1,0 +1,100 @@
+{
+    "ticker": "NEWP",
+    "name": "Newport Corporation",
+    "description": "Newport Corporation is a leading global supplier of advanced technology products and solutions for the photonics and precision motion industries. Founded in 1969, Newport designs and manufactures a wide range of components and systems that enable scientists and engineers to advance their research and development efforts. The company's product portfolio includes optical components, lasers, optical tables, and automation equipment, which are utilized in a variety of applications ranging from telecommunications and medical devices to aerospace and defense. Newport is committed to innovation and quality, leveraging its extensive expertise to provide high-performance solutions that meet the demanding needs of its customers. With a strong emphasis on engineering excellence, Newport continues to push the boundaries of technology, driving advancements in fields such as laser manufacturing, optics, and automation. The company operates globally, with a broad network of manufacturing and sales facilities, ensuring that it can meet the needs of its diverse customer base effectively.",
+    "industry": [
+        "Photonics",
+        "Precision Motion"
+    ],
+    "headquarters": "Irvine, California, USA",
+    "founded": "1969",
+    "website": "https://www.newport.com",
+    "ceo": "Robert G. Dyer",
+    "social_media": {
+        "twitter": "https://twitter.com/NewportCorp",
+        "linkedin": "https://www.linkedin.com/company/newport-corporation/",
+        "youtube": "https://www.youtube.com/user/NewportCorp"
+    },
+    "investor_relations": "https://investors.newport.com",
+    "key_executives": [
+        {
+            "name": "Robert G. Dyer",
+            "position": "CEO"
+        },
+        {
+            "name": "Craig A. M. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Optical Components",
+            "products": [
+                "Lenses",
+                "Filters",
+                "Mirrors"
+            ]
+        },
+        {
+            "category": "Lasers",
+            "products": [
+                "Fiber Lasers",
+                "Diode Lasers",
+                "Solid-State Lasers"
+            ]
+        },
+        {
+            "category": "Motion Control",
+            "products": [
+                "Linear Stages",
+                "Rotary Stages",
+                "Optical Tables"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Newport Corporation | Advanced Photonics and Precision Motion Solutions",
+        "meta_description": "Explore Newport Corporation, a leader in photonics and motion control technology. Discover innovative products and solutions for advanced research and development.",
+        "keywords": [
+            "Newport",
+            "Photonics",
+            "Precision Motion",
+            "Optical Components",
+            "Lasers",
+            "Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Newport Corporation specialize in?",
+            "answer": "Newport Corporation specializes in advanced photonics and precision motion solutions."
+        },
+        {
+            "question": "Who is the CEO of Newport Corporation?",
+            "answer": "Robert G. Dyer is the CEO of Newport Corporation."
+        },
+        {
+            "question": "Where is Newport Corporation headquartered?",
+            "answer": "Newport Corporation is headquartered in Irvine, California, USA."
+        },
+        {
+            "question": "What are Newport's main product categories?",
+            "answer": "Newport's main product categories include optical components, lasers, and motion control systems."
+        },
+        {
+            "question": "When was Newport Corporation founded?",
+            "answer": "Newport Corporation was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "MKS",
+        "IPGP",
+        "COHR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "ADBE",
+        "AMZN"
+    ]
+}

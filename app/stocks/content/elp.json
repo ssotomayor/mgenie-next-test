@@ -1,0 +1,89 @@
+{
+    "ticker": "ELP",
+    "name": "Eletrobras",
+    "description": "Eletrobras, or Centrais El\u00e9tricas Brasileiras S.A., is a Brazilian electric utility company and the largest power generation company in Latin America. Founded in 1962, Eletrobras plays a pivotal role in the Brazilian energy sector, focusing on the generation, transmission, and distribution of electricity. With a diverse portfolio that includes hydroelectric, thermoelectric, and renewable energy sources, the company is committed to providing reliable and sustainable energy solutions. Eletrobras is a publicly traded company, and its shares are listed on the B3 stock exchange. The company is heavily involved in the development of renewable energy projects, including wind and solar power, aligning itself with global sustainability goals. Eletrobras aims to enhance the efficiency of the Brazilian energy matrix and reduce dependence on fossil fuels. Its mission is to ensure energy security and accessibility while also investing in innovative technologies and infrastructure improvements. As a leader in the energy sector, Eletrobras is crucial to Brazil's economic development and environmental sustainability efforts.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Rio de Janeiro, Brazil",
+    "founded": "1962",
+    "website": "https://www.eletrobras.com",
+    "ceo": "Rodrigo Limp Nascimento",
+    "social_media": {
+        "twitter": "https://twitter.com/eletrobras",
+        "linkedin": "https://www.linkedin.com/company/eletrobras/"
+    },
+    "investor_relations": "https://www.eletrobras.com/en/investor-relations",
+    "key_executives": [
+        {
+            "name": "Rodrigo Limp Nascimento",
+            "position": "CEO"
+        },
+        {
+            "name": "S\u00e9rgio Luiz Ferreira",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Power Generation",
+            "products": [
+                "Hydroelectric Power",
+                "Thermal Power",
+                "Wind Energy",
+                "Solar Energy"
+            ]
+        },
+        {
+            "category": "Energy Distribution",
+            "products": [
+                "High Voltage Transmission",
+                "Energy Trading"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eletrobras | Leading Energy Company in Brazil",
+        "meta_description": "Explore Eletrobras, Brazil's largest electric utility company, committed to sustainable energy solutions and innovation in the power sector.",
+        "keywords": [
+            "Eletrobras",
+            "Electric Utility",
+            "Brazil Energy",
+            "Renewable Energy",
+            "Hydroelectric Power"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Eletrobras do?",
+            "answer": "Eletrobras is involved in the generation, transmission, and distribution of electricity in Brazil."
+        },
+        {
+            "question": "Who is the CEO of Eletrobras?",
+            "answer": "Rodrigo Limp Nascimento is the CEO of Eletrobras."
+        },
+        {
+            "question": "Where is Eletrobras headquartered?",
+            "answer": "Eletrobras is headquartered in Rio de Janeiro, Brazil."
+        },
+        {
+            "question": "What types of energy does Eletrobras generate?",
+            "answer": "Eletrobras generates hydroelectric, thermal, wind, and solar energy."
+        },
+        {
+            "question": "When was Eletrobras founded?",
+            "answer": "Eletrobras was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "ENGI",
+        "CPFL",
+        "TRPL4"
+    ],
+    "related_stocks": [
+        "IBOV",
+        "AAPL",
+        "GOOGL"
+    ]
+}

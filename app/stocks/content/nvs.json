@@ -1,0 +1,92 @@
+{
+    "ticker": "NVS",
+    "name": "Novartis AG",
+    "description": "Novartis AG is a global healthcare company based in Switzerland, known for its innovative pharmaceuticals and commitment to improving patient outcomes. Founded in 1996 through the merger of Ciba-Geigy and Sandoz, Novartis operates in various therapeutic areas, including oncology, cardiology, immunology, and neuroscience. The company is renowned for its research and development initiatives, which aim to discover and develop effective treatments for challenging diseases. Novartis offers a broad range of products, including patented medicines, generics, and biosimilars, catering to the diverse needs of patients worldwide. The company has a strong emphasis on sustainability and corporate responsibility, striving to make healthcare accessible for all, particularly in underserved communities. With a commitment to innovation, Novartis invests heavily in cutting-edge technologies and collaborations with biotech firms to enhance its drug discovery processes. The company\u2019s mission is to reimagine medicine to improve and extend people's lives, utilizing advanced science and technologies to make significant advancements in healthcare.",
+    "industry": [
+        "Pharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Basel, Switzerland",
+    "founded": "1996",
+    "website": "https://www.novartis.com",
+    "ceo": "Vas Narasimhan",
+    "social_media": {
+        "twitter": "https://twitter.com/novartis",
+        "linkedin": "https://www.linkedin.com/company/novartis/"
+    },
+    "investor_relations": "https://www.novartis.com/investors",
+    "key_executives": [
+        {
+            "name": "Vas Narasimhan",
+            "position": "CEO"
+        },
+        {
+            "name": "Harry Kirsch",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pharmaceuticals",
+            "products": [
+                "Kymriah",
+                "Entresto",
+                "Aimovig",
+                "Zolgensma"
+            ]
+        },
+        {
+            "category": "Generics and Biosimilars",
+            "products": [
+                "Sandoz Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Novartis AG | Innovative Pharmaceuticals and Healthcare Solutions",
+        "meta_description": "Explore Novartis AG, a leading healthcare company focused on reimagining medicine. Learn about Novartis' innovative drugs, commitment to research, and global health initiatives.",
+        "keywords": [
+            "Novartis",
+            "Pharmaceuticals",
+            "Healthcare",
+            "Innovative Medicine",
+            "Vas Narasimhan",
+            "Kymriah",
+            "Entresto"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Novartis specialize in?",
+            "answer": "Novartis specializes in innovative pharmaceuticals, generics, and biosimilars across various therapeutic areas."
+        },
+        {
+            "question": "Who is the CEO of Novartis?",
+            "answer": "Vas Narasimhan is the CEO of Novartis AG."
+        },
+        {
+            "question": "Where is Novartis headquartered?",
+            "answer": "Novartis is headquartered in Basel, Switzerland."
+        },
+        {
+            "question": "What are Novartis' main products?",
+            "answer": "Novartis' main products include Kymriah, Entresto, Aimovig, and Zolgensma, among others."
+        },
+        {
+            "question": "When was Novartis founded?",
+            "answer": "Novartis was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "MRK",
+        "BMY",
+        "AZN"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "ABBV",
+        "GILD",
+        "AMGN"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "PD",
+    "name": "PagerDuty, Inc.",
+    "description": "PagerDuty, Inc. is a leading digital operations management platform that helps organizations manage their IT infrastructure and operations effectively. Founded in 2010, PagerDuty emerged from the need for improved incident response and operational efficiency in the rapidly evolving digital landscape. The company's platform enhances collaboration and communication among IT teams, enabling them to respond to incidents quickly and efficiently. With features such as real-time alerts, incident management, and analytics, PagerDuty empowers teams to minimize downtime, streamline workflows, and improve overall service reliability. The platform integrates seamlessly with various tools and applications used in modern IT environments, facilitating a more unified approach to incident response. PagerDuty's commitment to innovation is evident in its use of machine learning and automation to enhance operational performance. The company serves a diverse range of clients, from startups to Fortune 500 companies, across industries such as technology, finance, and healthcare. PagerDuty's mission is to transform the way IT teams operate by providing them with the tools they need to succeed in an increasingly complex digital world, ensuring that critical incidents are handled efficiently, and service delivery is optimized.",
+    "industry": [
+        "Software",
+        "Information Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.pagerduty.com",
+    "ceo": "Jennifer Tejada",
+    "social_media": {
+        "twitter": "https://twitter.com/PagerDuty",
+        "linkedin": "https://www.linkedin.com/company/pagerduty/",
+        "instagram": "https://www.instagram.com/pagerduty/"
+    },
+    "investor_relations": "https://investors.pagerduty.com",
+    "key_executives": [
+        {
+            "name": "Jennifer Tejada",
+            "position": "CEO"
+        },
+        {
+            "name": "Howard Wilson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Incident Management",
+            "products": [
+                "Incident Response",
+                "On-Call Management"
+            ]
+        },
+        {
+            "category": "Performance Monitoring",
+            "products": [
+                "Real-Time Analytics",
+                "Service Reliability"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "PagerDuty, Inc. | Digital Operations Management Platform",
+        "meta_description": "Discover PagerDuty, Inc., a leader in digital operations management. Explore how PagerDuty enables IT teams to respond to incidents effectively and improve service reliability.",
+        "keywords": [
+            "PagerDuty",
+            "Incident Management",
+            "IT Operations",
+            "Digital Operations",
+            "Service Reliability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is PagerDuty known for?",
+            "answer": "PagerDuty is known for its digital operations management platform that helps IT teams manage incidents and improve service reliability."
+        },
+        {
+            "question": "Who is the CEO of PagerDuty?",
+            "answer": "Jennifer Tejada is the CEO of PagerDuty, Inc."
+        },
+        {
+            "question": "Where is PagerDuty headquartered?",
+            "answer": "PagerDuty is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are PagerDuty's main products?",
+            "answer": "PagerDuty's main products include Incident Response and On-Call Management solutions."
+        },
+        {
+            "question": "When was PagerDuty founded?",
+            "answer": "PagerDuty was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "SPLK",
+        "DDOG",
+        "NEWRELIC",
+        "ZEN"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "GOOGL",
+        "AMZN",
+        "AAPL"
+    ]
+}

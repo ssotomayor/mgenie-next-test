@@ -1,0 +1,91 @@
+{
+    "ticker": "BETH",
+    "name": "Bethesda, Inc.",
+    "description": "Bethesda, Inc. is a leading developer and publisher of interactive entertainment software, known for creating immersive worlds and engaging narratives in the gaming industry. Founded in 1986, Bethesda has established itself as a key player in the gaming landscape, particularly with its popular franchises such as The Elder Scrolls and Fallout. The company focuses on delivering high-quality gaming experiences across multiple platforms, including PC, consoles, and mobile devices. Bethesda's commitment to innovation is evident in its use of advanced technologies, such as open-world design, artificial intelligence, and cutting-edge graphics, which enhance player engagement and storytelling. In addition to game development, Bethesda has expanded its reach into the digital distribution space with platforms like Bethesda.net, allowing players to connect and engage with their favorite titles seamlessly. The company is dedicated to building a strong community around its games, fostering player feedback, and continuously improving its offerings post-launch through updates and expansions. With a portfolio that includes critically acclaimed titles such as The Elder Scrolls V: Skyrim and DOOM, Bethesda continues to push the boundaries of interactive entertainment, setting new standards for quality and creativity in the gaming industry.",
+    "industry": [
+        "Video Games",
+        "Entertainment"
+    ],
+    "headquarters": "Rockville, Maryland, USA",
+    "founded": "1986",
+    "website": "https://bethesda.net",
+    "ceo": "Robert Altman",
+    "social_media": {
+        "twitter": "https://twitter.com/bethesda",
+        "linkedin": "https://www.linkedin.com/company/bethesda-softworks/",
+        "instagram": "https://www.instagram.com/bethesdastudios/",
+        "youtube": "https://www.youtube.com/user/bethesdagames"
+    },
+    "investor_relations": "https://www.bethesda.net/en/ir",
+    "key_executives": [
+        {
+            "name": "Robert Altman",
+            "position": "CEO"
+        },
+        {
+            "name": "Todd Howard",
+            "position": "Game Director"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Video Games",
+            "products": [
+                "The Elder Scrolls V: Skyrim",
+                "Fallout 4",
+                "DOOM Eternal",
+                "Wolfenstein: The New Order"
+            ]
+        },
+        {
+            "category": "Digital Distribution",
+            "products": [
+                "Bethesda.net"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Bethesda, Inc. | Leading Video Game Developer and Publisher",
+        "meta_description": "Explore Bethesda, Inc., a top video game developer known for The Elder Scrolls and Fallout franchises. Discover their innovative games and community engagement.",
+        "keywords": [
+            "Bethesda",
+            "Video Games",
+            "Elder Scrolls",
+            "Fallout",
+            "DOOM",
+            "Wolfenstein"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Bethesda known for?",
+            "answer": "Bethesda is known for developing and publishing popular video game franchises such as The Elder Scrolls and Fallout."
+        },
+        {
+            "question": "Who is the CEO of Bethesda?",
+            "answer": "Robert Altman is the CEO of Bethesda, Inc."
+        },
+        {
+            "question": "Where is Bethesda headquartered?",
+            "answer": "Bethesda is headquartered in Rockville, Maryland, USA."
+        },
+        {
+            "question": "What are Bethesda's main products?",
+            "answer": "Bethesda's main products include The Elder Scrolls V: Skyrim, Fallout 4, DOOM Eternal, and more."
+        },
+        {
+            "question": "When was Bethesda founded?",
+            "answer": "Bethesda was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "ATVI",
+        "EA",
+        "UBI"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "SONY",
+        "NTDOY"
+    ]
+}

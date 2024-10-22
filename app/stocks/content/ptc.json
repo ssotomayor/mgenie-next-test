@@ -1,0 +1,93 @@
+{
+    "ticker": "PTC",
+    "name": "PTC Inc.",
+    "description": "PTC Inc. is a global leader in digital transformation and product lifecycle management (PLM) solutions. Established in 1985, PTC's innovative technology empowers companies to improve their product development processes, optimize operations, and enhance product quality. With a strong focus on the Internet of Things (IoT), augmented reality (AR), and advanced manufacturing, PTC provides a comprehensive suite of software solutions that enable businesses to connect their physical and digital products. The company's flagship products, including Windchill for PLM, Creo for 3D CAD, and ThingWorx for IoT applications, are widely used across various industries, including aerospace, automotive, and high-tech manufacturing. PTC's commitment to innovation drives its efforts to help clients realize the potential of digital transformation, enabling them to create smarter, more connected products. The company also emphasizes the importance of collaboration and flexibility in the design and manufacturing processes, ensuring that organizations can respond swiftly to market changes and customer demands. PTC's mission is to enable its customers to achieve success in their digital transformation journeys, fostering a culture of innovation and continuous improvement.",
+    "industry": [
+        "Software",
+        "Technology"
+    ],
+    "headquarters": "Needham, Massachusetts, USA",
+    "founded": "1985",
+    "website": "https://www.ptc.com",
+    "ceo": "James Heppelmann",
+    "social_media": {
+        "twitter": "https://twitter.com/ptc",
+        "linkedin": "https://www.linkedin.com/company/ptc/",
+        "youtube": "https://www.youtube.com/user/PTCInc"
+    },
+    "investor_relations": "https://investor.ptc.com",
+    "key_executives": [
+        {
+            "name": "James Heppelmann",
+            "position": "CEO"
+        },
+        {
+            "name": "Kristian Talev",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Product Lifecycle Management",
+            "products": [
+                "Windchill"
+            ]
+        },
+        {
+            "category": "Computer-Aided Design",
+            "products": [
+                "Creo"
+            ]
+        },
+        {
+            "category": "Internet of Things",
+            "products": [
+                "ThingWorx"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "PTC Inc. | Digital Transformation and Product Lifecycle Management",
+        "meta_description": "Explore PTC Inc., a leader in digital transformation and PLM solutions. Discover PTC's innovative technologies and how they empower businesses to optimize product development and manufacturing.",
+        "keywords": [
+            "PTC",
+            "Product Lifecycle Management",
+            "Digital Transformation",
+            "IoT",
+            "Augmented Reality",
+            "3D CAD"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does PTC specialize in?",
+            "answer": "PTC specializes in digital transformation and product lifecycle management solutions."
+        },
+        {
+            "question": "Who is the CEO of PTC?",
+            "answer": "James Heppelmann is the CEO of PTC Inc."
+        },
+        {
+            "question": "Where is PTC headquartered?",
+            "answer": "PTC is headquartered in Needham, Massachusetts, USA."
+        },
+        {
+            "question": "What are PTC's main products?",
+            "answer": "PTC's main products include Windchill for PLM, Creo for CAD, and ThingWorx for IoT."
+        },
+        {
+            "question": "When was PTC founded?",
+            "answer": "PTC was founded in 1985."
+        }
+    ],
+    "competitors": [
+        "ADSK",
+        "ORCL",
+        "SAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "IBM"
+    ]
+}

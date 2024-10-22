@@ -1,0 +1,97 @@
+{
+    "ticker": "SBUX",
+    "name": "Starbucks Corporation",
+    "description": "Starbucks Corporation is a premier roaster, marketer, and retailer of specialty coffee globally. Founded in 1971 in Seattle, Washington, Starbucks has grown from a single store to a well-recognized brand with over 32,000 locations worldwide. The company prides itself on creating a unique customer experience, offering a wide variety of high-quality coffee beverages, teas, and freshly prepared food items in a welcoming environment. Starbucks is committed to ethical sourcing practices, partnering with coffee farmers to ensure sustainable farming methods through its Coffee and Farmer Equity (C.A.F.E.) Practices. The brand has also expanded its offerings to include a range of products, from packaged coffees and teas to merchandise such as coffee makers and mugs. With a strong focus on innovation, Starbucks has embraced technology to enhance customer engagement, introducing mobile ordering and payment systems. The company also actively invests in community-building initiatives and environmental stewardship, aiming to reduce its carbon footprint and promote sustainable practices in its operations. Starbucks continues to lead the coffeehouse sector with its commitment to quality, customer service, and social responsibility.",
+    "industry": [
+        "Food and Beverage",
+        "Retail"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "1971",
+    "website": "https://www.starbucks.com",
+    "ceo": "Laxman Narasimhan",
+    "social_media": {
+        "twitter": "https://twitter.com/Starbucks",
+        "linkedin": "https://www.linkedin.com/company/starbucks",
+        "instagram": "https://www.instagram.com/starbucks",
+        "facebook": "https://www.facebook.com/Starbucks"
+    },
+    "investor_relations": "https://investor.starbucks.com",
+    "key_executives": [
+        {
+            "name": "Laxman Narasimhan",
+            "position": "CEO"
+        },
+        {
+            "name": "Rachel Ruggeri",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beverages",
+            "products": [
+                "Coffee",
+                "Espresso Drinks",
+                "Teas",
+                "Cold Brew"
+            ]
+        },
+        {
+            "category": "Food",
+            "products": [
+                "Pastries",
+                "Sandwiches",
+                "Snacks"
+            ]
+        },
+        {
+            "category": "Merchandise",
+            "products": [
+                "Coffee Makers",
+                "Mugs",
+                "Gift Cards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Starbucks Corporation | Premium Coffee and Experience",
+        "meta_description": "Explore Starbucks Corporation, the world's premier coffee retailer known for its high-quality beverages, food offerings, and commitment to sustainability.",
+        "keywords": [
+            "Starbucks",
+            "Coffee",
+            "Specialty Coffee",
+            "Coffeehouse",
+            "Laxman Narasimhan"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Starbucks offer?",
+            "answer": "Starbucks offers a range of beverages including coffee, espresso drinks, teas, as well as food items like pastries and sandwiches."
+        },
+        {
+            "question": "Who is the CEO of Starbucks?",
+            "answer": "Laxman Narasimhan is the CEO of Starbucks Corporation."
+        },
+        {
+            "question": "Where is Starbucks headquartered?",
+            "answer": "Starbucks is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "When was Starbucks founded?",
+            "answer": "Starbucks was founded in 1971."
+        }
+    ],
+    "competitors": [
+        "DUNK",
+        "PANW",
+        "MCD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "WMT",
+        "COST"
+    ]
+}

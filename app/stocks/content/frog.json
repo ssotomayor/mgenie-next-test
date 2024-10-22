@@ -1,0 +1,98 @@
+{
+    "ticker": "FROG",
+    "name": "JFrog Ltd.",
+    "description": "JFrog Ltd. is a leading software company specializing in DevOps and continuous integration and delivery (CI/CD) solutions. Founded in 2008 by Shlomi Ben Haim, Yoav Landman, and Fred Simon, JFrog has developed a robust platform that enables developers to manage, distribute, and secure their software packages throughout the software development lifecycle. The company's flagship product, JFrog Artifactory, serves as a universal repository manager that supports various package formats, making it essential for modern software development practices. JFrog also offers tools such as JFrog Pipelines for automating CI/CD processes and JFrog Xray for deep security and compliance scanning of software artifacts. With a focus on enhancing developer productivity and software quality, JFrog's solutions empower organizations to deliver software faster and more reliably. The company's mission is to transform the way software is developed and delivered, ensuring that organizations can innovate rapidly while maintaining high standards of security and compliance. As a publicly traded company, JFrog continues to expand its global footprint and invest in new technologies to stay at the forefront of the DevOps landscape.",
+    "industry": [
+        "Software",
+        "DevOps"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "2008",
+    "website": "https://jfrog.com",
+    "ceo": "Shlomi Ben Haim",
+    "social_media": {
+        "twitter": "https://twitter.com/jfrog",
+        "linkedin": "https://www.linkedin.com/company/jfrog/"
+    },
+    "investor_relations": "https://investors.jfrog.com",
+    "key_executives": [
+        {
+            "name": "Shlomi Ben Haim",
+            "position": "CEO"
+        },
+        {
+            "name": "Fred Simon",
+            "position": "Co-Founder and Chief Architect"
+        },
+        {
+            "name": "Yoav Landman",
+            "position": "Co-Founder and CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Repository Management",
+            "products": [
+                "JFrog Artifactory"
+            ]
+        },
+        {
+            "category": "CI/CD",
+            "products": [
+                "JFrog Pipelines"
+            ]
+        },
+        {
+            "category": "Security",
+            "products": [
+                "JFrog Xray"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "JFrog Ltd. | DevOps Solutions and Repository Management",
+        "meta_description": "Explore JFrog Ltd., a leader in DevOps solutions, providing advanced repository management and CI/CD tools to enhance software development and delivery.",
+        "keywords": [
+            "JFrog",
+            "DevOps",
+            "Software Delivery",
+            "CI/CD",
+            "Repository Management",
+            "JFrog Artifactory",
+            "JFrog Pipelines"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is JFrog known for?",
+            "answer": "JFrog is known for its DevOps solutions, particularly its repository manager, JFrog Artifactory."
+        },
+        {
+            "question": "Who is the CEO of JFrog?",
+            "answer": "Shlomi Ben Haim is the CEO of JFrog Ltd."
+        },
+        {
+            "question": "Where is JFrog headquartered?",
+            "answer": "JFrog is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are JFrog's main products?",
+            "answer": "JFrog's main products include JFrog Artifactory, JFrog Pipelines, and JFrog Xray."
+        },
+        {
+            "question": "When was JFrog founded?",
+            "answer": "JFrog was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "SONATYPE",
+        "HASHICORP",
+        "DOCKER"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "ADBE",
+        "NOW",
+        "CRM"
+    ]
+}

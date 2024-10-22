@@ -1,0 +1,89 @@
+{
+    "ticker": "GV",
+    "name": "Grove Ventures",
+    "description": "Grove Ventures is a venture capital firm focused on investing in innovative technology companies across various sectors, including software, hardware, and healthcare. Founded in 2015, Grove Ventures aims to empower entrepreneurs and startups by providing not just capital, but also strategic guidance and operational support. The firm is known for its collaborative approach, working closely with portfolio companies to help them scale and achieve their vision. Grove Ventures has a strong interest in artificial intelligence, machine learning, and cybersecurity, recognizing the transformative potential of these technologies in today's digital landscape. The firm's investment philosophy emphasizes long-term growth and sustainability, aiming to back companies that are poised to disrupt their respective industries. With a team of experienced investors and advisors, Grove Ventures leverages its extensive network to create value for its portfolio companies, facilitating partnerships and market access. The firm is committed to fostering innovation and supporting the next generation of tech leaders.",
+    "industry": [
+        "Venture Capital",
+        "Technology"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2015",
+    "website": "https://www.groveventures.com",
+    "ceo": "Omer Shai",
+    "social_media": {
+        "twitter": "https://twitter.com/groveventures",
+        "linkedin": "https://www.linkedin.com/company/grove-ventures"
+    },
+    "investor_relations": "https://www.groveventures.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Omer Shai",
+            "position": "CEO"
+        },
+        {
+            "name": "Ruthie Shapiro",
+            "position": "Managing Partner"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Venture Capital Investments",
+            "products": [
+                "Early-stage funding",
+                "Growth capital"
+            ]
+        },
+        {
+            "category": "Strategic Support",
+            "products": [
+                "Mentorship programs",
+                "Networking opportunities"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Grove Ventures | Venture Capital Firm",
+        "meta_description": "Grove Ventures is a leading venture capital firm investing in innovative technology startups. Discover our investment approach and portfolio.",
+        "keywords": [
+            "Grove Ventures",
+            "Venture Capital",
+            "Technology Investments",
+            "Startup Funding",
+            "Innovation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Grove Ventures specialize in?",
+            "answer": "Grove Ventures specializes in venture capital investments in innovative technology companies."
+        },
+        {
+            "question": "Who is the CEO of Grove Ventures?",
+            "answer": "Omer Shai is the CEO of Grove Ventures."
+        },
+        {
+            "question": "Where is Grove Ventures headquartered?",
+            "answer": "Grove Ventures is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What types of companies does Grove Ventures invest in?",
+            "answer": "Grove Ventures invests in early-stage and growth-stage technology companies."
+        },
+        {
+            "question": "When was Grove Ventures founded?",
+            "answer": "Grove Ventures was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "VC",
+        "BVP",
+        "ACC",
+        "KPCB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

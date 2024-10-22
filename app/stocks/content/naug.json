@@ -1,0 +1,89 @@
+{
+    "ticker": "NAUG",
+    "name": "Nautilus, Inc.",
+    "description": "Nautilus, Inc. is a fitness company that specializes in designing and manufacturing innovative exercise equipment and solutions. Founded in 1993, Nautilus has established itself as a key player in the fitness industry, offering a wide range of products that cater to both home and commercial markets. The company is best known for its advanced cardio and strength training equipment, including the iconic Bowflex series, Schwinn fitness bikes, and Nautilus branded machines. Nautilus is committed to enhancing the fitness experience through cutting-edge technology and user-friendly designs, making workouts more effective and enjoyable for individuals of all fitness levels. The company is dedicated to promoting health and wellness, and its mission is to inspire and empower people to achieve their fitness goals. Nautilus also emphasizes sustainability in its operations, integrating eco-friendly practices in the manufacturing and distribution of its products. With a strong presence in both retail and online channels, Nautilus continues to innovate and expand its offerings, including smart fitness solutions that leverage digital platforms to enhance user engagement and provide personalized workout experiences.",
+    "industry": [
+        "Fitness",
+        "Manufacturing"
+    ],
+    "headquarters": "Vancouver, Washington, USA",
+    "founded": "1993",
+    "website": "https://www.nautilusinc.com",
+    "ceo": "Jim Barr",
+    "social_media": {
+        "twitter": "https://twitter.com/NautilusInc",
+        "linkedin": "https://www.linkedin.com/company/nautilusinc/"
+    },
+    "investor_relations": "https://investor.nautilusinc.com",
+    "key_executives": [
+        {
+            "name": "Jim Barr",
+            "position": "CEO"
+        },
+        {
+            "name": "Linda Filler",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cardio Equipment",
+            "products": [
+                "Bowflex Treadmill",
+                "Schwinn Indoor Cycling Bikes"
+            ]
+        },
+        {
+            "category": "Strength Equipment",
+            "products": [
+                "Bowflex Home Gym",
+                "Nautilus Strength Machines"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nautilus, Inc. | Innovative Fitness Solutions",
+        "meta_description": "Discover Nautilus, Inc., a leader in innovative fitness equipment. Explore Nautilus' range of cardio and strength training solutions designed for every fitness level.",
+        "keywords": [
+            "Nautilus",
+            "Fitness Equipment",
+            "Bowflex",
+            "Cardio Machines",
+            "Strength Training",
+            "Home Gym"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of products does Nautilus offer?",
+            "answer": "Nautilus offers a variety of fitness equipment including cardio machines, strength training equipment, and smart fitness solutions."
+        },
+        {
+            "question": "Who is the CEO of Nautilus?",
+            "answer": "Jim Barr is the CEO of Nautilus, Inc."
+        },
+        {
+            "question": "Where is Nautilus headquartered?",
+            "answer": "Nautilus is headquartered in Vancouver, Washington, USA."
+        },
+        {
+            "question": "What are some popular Nautilus products?",
+            "answer": "Popular products include the Bowflex Treadmill, Bowflex Home Gym, and Schwinn Indoor Cycling Bikes."
+        },
+        {
+            "question": "When was Nautilus founded?",
+            "answer": "Nautilus was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "NLS",
+        "FIT",
+        "WELL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

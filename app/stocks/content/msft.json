@@ -1,0 +1,112 @@
+{
+    "ticker": "MSFT",
+    "name": "Microsoft Corporation",
+    "description": "Microsoft Corporation is a global leader in technology and software development, widely recognized for its innovation and contributions to the digital landscape. Founded in 1975 by Bill Gates and Paul Allen, Microsoft has evolved from a small startup into one of the largest and most influential companies in the world. The company is best known for its flagship products, including the Windows operating system, Microsoft Office suite, and cloud computing services through Azure. Microsoft plays a vital role in enhancing productivity for individuals and businesses alike with solutions such as Teams, OneDrive, and SharePoint. Additionally, Microsoft has made significant strides in artificial intelligence, gaming through Xbox, and hardware with products like Surface devices. With a commitment to empowering every person and organization on the planet to achieve more, Microsoft focuses on accessibility, sustainability, and security within its vast ecosystem. The company's mission reflects its dedication to driving digital transformation in various sectors, influencing how people work, learn, and communicate globally.",
+    "industry": [
+        "Technology",
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "Redmond, Washington, USA",
+    "founded": "1975",
+    "website": "https://www.microsoft.com",
+    "ceo": "Satya Nadella",
+    "social_media": {
+        "twitter": "https://twitter.com/Microsoft",
+        "linkedin": "https://www.linkedin.com/company/microsoft/",
+        "instagram": "https://www.instagram.com/microsoft/",
+        "youtube": "https://www.youtube.com/user/Microsoft"
+    },
+    "investor_relations": "https://www.microsoft.com/en-us/investor",
+    "key_executives": [
+        {
+            "name": "Satya Nadella",
+            "position": "CEO"
+        },
+        {
+            "name": "Amy Hood",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/amyhood/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software",
+            "products": [
+                "Windows",
+                "Microsoft Office",
+                "Microsoft 365"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Azure",
+                "OneDrive",
+                "Microsoft Teams"
+            ]
+        },
+        {
+            "category": "Gaming",
+            "products": [
+                "Xbox",
+                "Xbox Game Pass"
+            ]
+        },
+        {
+            "category": "Hardware",
+            "products": [
+                "Surface Pro",
+                "Surface Laptop"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Microsoft Corporation | Technology and Software Solutions",
+        "meta_description": "Explore Microsoft Corporation, a leader in technology and software development. Discover Microsoft's innovative products, mission, and impact on the digital world.",
+        "keywords": [
+            "Microsoft",
+            "Software",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Windows",
+            "Azure"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Microsoft known for?",
+            "answer": "Microsoft is known for its software products, including Windows and Microsoft Office, as well as cloud services like Azure."
+        },
+        {
+            "question": "Who is the CEO of Microsoft?",
+            "answer": "Satya Nadella is the CEO of Microsoft Corporation."
+        },
+        {
+            "question": "Where is Microsoft headquartered?",
+            "answer": "Microsoft is headquartered in Redmond, Washington, USA."
+        },
+        {
+            "question": "What are Microsoft's main products?",
+            "answer": "Microsoft's main products include Windows, Microsoft Office, Azure, and Xbox."
+        },
+        {
+            "question": "When was Microsoft founded?",
+            "answer": "Microsoft was founded in 1975."
+        }
+    ],
+    "competitors": [
+        "AAPL",
+        "GOOGL",
+        "ORCL",
+        "IBM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

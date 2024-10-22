@@ -1,0 +1,89 @@
+{
+    "ticker": "ENJ",
+    "name": "Enjin Coin",
+    "description": "Enjin Coin (ENJ) is a blockchain-based cryptocurrency designed for the gaming industry, launched in 2018 by Enjin, a company that provides a blockchain platform for game developers. Enjin Coin is used to create and manage digital assets, enabling developers to tokenize in-game items and provide players with true ownership of these assets. The Enjin ecosystem allows for seamless transactions and interactions across various games and platforms, promoting interoperability and enhancing the gaming experience. With its focus on creating a decentralized economy for gaming, Enjin Coin empowers developers to monetize their games effectively while giving players the ability to trade, sell, or utilize their in-game assets across multiple titles. The company also emphasizes security and transparency, leveraging the Ethereum blockchain to ensure that all transactions are verifiable and immutable. Enjin has established partnerships with numerous gaming companies and platforms, expanding its reach and showcasing the potential of blockchain technology in the gaming sector. As the gaming industry continues to evolve, Enjin Coin positions itself at the forefront of innovation, aiming to redefine the relationship between gamers and developers through tokenization and decentralized finance.",
+    "industry": [
+        "Cryptocurrency",
+        "Gaming"
+    ],
+    "headquarters": "Singapore",
+    "founded": "2017",
+    "website": "https://enjin.io",
+    "ceo": "Maxim Blagov",
+    "social_media": {
+        "twitter": "https://twitter.com/enjin",
+        "linkedin": "https://www.linkedin.com/company/enjin/",
+        "medium": "https://medium.com/enjin",
+        "youtube": "https://www.youtube.com/c/enjin"
+    },
+    "investor_relations": "https://enjin.io/investors",
+    "key_executives": [
+        {
+            "name": "Maxim Blagov",
+            "position": "CEO"
+        },
+        {
+            "name": "Witek Radomski",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Gaming",
+            "products": [
+                "Enjin Wallet",
+                "Enjin Platform",
+                "Enjin Beam"
+            ]
+        },
+        {
+            "category": "Tokenization",
+            "products": [
+                "ERC-1155 Token Standard"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enjin Coin | Blockchain Solutions for Gaming",
+        "meta_description": "Explore Enjin Coin, a cryptocurrency designed for the gaming industry. Learn about its innovative platform for tokenizing in-game assets and empowering gamers.",
+        "keywords": [
+            "Enjin Coin",
+            "Gaming Cryptocurrency",
+            "Blockchain Gaming",
+            "Tokenization",
+            "Digital Assets"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Enjin Coin?",
+            "answer": "Enjin Coin is a cryptocurrency focused on the gaming industry, enabling developers to create and manage digital assets."
+        },
+        {
+            "question": "Who is the CEO of Enjin?",
+            "answer": "Maxim Blagov is the CEO of Enjin."
+        },
+        {
+            "question": "Where is Enjin headquartered?",
+            "answer": "Enjin is headquartered in Singapore."
+        },
+        {
+            "question": "What are the main products of Enjin?",
+            "answer": "Enjin's main products include the Enjin Wallet, Enjin Platform, and the ERC-1155 token standard."
+        },
+        {
+            "question": "When was Enjin founded?",
+            "answer": "Enjin was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "MANA",
+        "SAND",
+        "AXS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL"
+    ]
+}

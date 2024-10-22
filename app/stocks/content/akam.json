@@ -1,0 +1,91 @@
+{
+    "ticker": "AKAM",
+    "name": "Akamai Technologies, Inc.",
+    "description": "Akamai Technologies, Inc. is a global leader in content delivery network (CDN) services and cloud security solutions. Founded in 1998 by Tom Leighton, Danny Lewin, and a team of scientists from the Massachusetts Institute of Technology (MIT), Akamai has developed a robust platform that helps businesses deliver digital content quickly and securely. With a mission to make the internet fast, reliable, and secure, Akamai's services are crucial for enterprises, media companies, and e-commerce businesses that require high-performance online experiences. The company offers a wide range of solutions, including web performance optimization, application delivery, and cybersecurity services, protecting against DDoS attacks and other threats. As a pioneer in the CDN space, Akamai leverages a vast network of servers strategically placed around the world, ensuring that content is delivered from a location closest to the end user. Akamai's innovative technologies enable businesses to enhance user engagement, improve operational efficiency, and reduce latency, thus driving growth in the digital economy.",
+    "industry": [
+        "Technology",
+        "Internet Services",
+        "Cybersecurity"
+    ],
+    "headquarters": "Cambridge, Massachusetts, USA",
+    "founded": "1998",
+    "website": "https://www.akamai.com",
+    "ceo": "Dr. Tom Leighton",
+    "social_media": {
+        "twitter": "https://twitter.com/akamai",
+        "linkedin": "https://www.linkedin.com/company/akamai-technologies/"
+    },
+    "investor_relations": "https://investors.akamai.com",
+    "key_executives": [
+        {
+            "name": "Dr. Tom Leighton",
+            "position": "CEO"
+        },
+        {
+            "name": "M. A. (Tony) Williams",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Content Delivery Network",
+            "products": [
+                "Web Performance",
+                "Media Delivery"
+            ]
+        },
+        {
+            "category": "Cloud Security",
+            "products": [
+                "Application Security",
+                "DDoS Protection"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Akamai Technologies, Inc. | Content Delivery and Cloud Security Solutions",
+        "meta_description": "Explore Akamai Technologies, a leader in content delivery network services and cloud security solutions. Learn about Akamai's innovative technologies and their impact on digital performance.",
+        "keywords": [
+            "Akamai",
+            "Content Delivery Network",
+            "CDN",
+            "Cloud Security",
+            "Web Performance",
+            "DDoS Protection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Akamai do?",
+            "answer": "Akamai provides content delivery network services and cloud security solutions to enhance web performance and protect against cyber threats."
+        },
+        {
+            "question": "Who is the CEO of Akamai?",
+            "answer": "Dr. Tom Leighton is the CEO of Akamai Technologies, Inc."
+        },
+        {
+            "question": "Where is Akamai headquartered?",
+            "answer": "Akamai is headquartered in Cambridge, Massachusetts, USA."
+        },
+        {
+            "question": "What are Akamai's main products?",
+            "answer": "Akamai's main products include web performance optimization, media delivery, application security, and DDoS protection."
+        },
+        {
+            "question": "When was Akamai founded?",
+            "answer": "Akamai was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "CDN",
+        "NET",
+        "LLNW",
+        "CLOU"
+    ],
+    "related_stocks": [
+        "ADBE",
+        "IBM",
+        "MSFT",
+        "AMZN"
+    ]
+}

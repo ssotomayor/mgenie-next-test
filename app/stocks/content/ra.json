@@ -1,0 +1,97 @@
+{
+    "ticker": "RA",
+    "name": "Raven Industries, Inc.",
+    "description": "Raven Industries, Inc. is a leader in precision agriculture and innovative technology solutions, dedicated to improving the productivity and sustainability of farming operations. Founded in 1956, Raven has grown to become a key player in the agricultural technology sector, focusing on developing advanced solutions that empower farmers to maximize efficiency and reduce environmental impact. The company operates through several segments, including Applied Technology, Engineered Films, and Aerospace & Defense. Raven's Applied Technology division is known for its precision agriculture products, such as variable rate application systems, guidance systems, and crop monitoring software. These technologies enable farmers to make data-driven decisions that enhance crop yields while minimizing resource usage. In addition to agricultural technology, Raven's Engineered Films segment produces high-performance plastic products for various industrial applications, while the Aerospace & Defense division provides specialized solutions for military and aerospace applications. With a strong commitment to innovation and sustainability, Raven Industries continues to deliver products that meet the evolving needs of its customers while contributing to a more sustainable agricultural future.",
+    "industry": [
+        "Agricultural Technology",
+        "Manufacturing"
+    ],
+    "headquarters": "Sioux Falls, South Dakota, USA",
+    "founded": "1956",
+    "website": "https://www.ravenind.com",
+    "ceo": "Dan R. Korte",
+    "social_media": {
+        "twitter": "https://twitter.com/RavenIndustries",
+        "linkedin": "https://www.linkedin.com/company/raven-industries"
+    },
+    "investor_relations": "https://investors.ravenind.com",
+    "key_executives": [
+        {
+            "name": "Dan R. Korte",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark A. W. Korte",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Precision Agriculture",
+            "products": [
+                "Field Computers",
+                "Guidance Systems",
+                "Variable Rate Controllers"
+            ]
+        },
+        {
+            "category": "Engineered Films",
+            "products": [
+                "Agricultural Films",
+                "Geosynthetics"
+            ]
+        },
+        {
+            "category": "Aerospace & Defense",
+            "products": [
+                "Specialty Products",
+                "Defense Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Raven Industries, Inc. | Precision Agriculture and Innovative Solutions",
+        "meta_description": "Explore Raven Industries, Inc., a leader in precision agriculture technology and innovative solutions. Discover how Raven is transforming farming and industrial applications.",
+        "keywords": [
+            "Raven Industries",
+            "Precision Agriculture",
+            "Agricultural Technology",
+            "Sustainable Farming",
+            "Innovative Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Raven Industries known for?",
+            "answer": "Raven Industries is known for its precision agriculture technology and innovative solutions that enhance farming productivity and sustainability."
+        },
+        {
+            "question": "Who is the CEO of Raven Industries?",
+            "answer": "Dan R. Korte is the CEO of Raven Industries, Inc."
+        },
+        {
+            "question": "Where is Raven Industries headquartered?",
+            "answer": "Raven Industries is headquartered in Sioux Falls, South Dakota, USA."
+        },
+        {
+            "question": "What are Raven Industries' main products?",
+            "answer": "Raven Industries' main products include field computers, guidance systems, variable rate controllers, and engineered films."
+        },
+        {
+            "question": "When was Raven Industries founded?",
+            "answer": "Raven Industries was founded in 1956."
+        }
+    ],
+    "competitors": [
+        "DE",
+        "AGCO",
+        "FMC",
+        "CNHI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

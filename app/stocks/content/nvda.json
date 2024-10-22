@@ -1,0 +1,94 @@
+{
+    "ticker": "NVDA",
+    "name": "NVIDIA Corporation",
+    "description": "NVIDIA Corporation is a global leader in artificial intelligence (AI) computing and graphics technology. Founded in 1993 by Jensen Huang, Chris Malachowsky, and Curtis Priem, NVIDIA initially gained prominence for its graphics processing units (GPUs), which have become essential in the gaming industry and are widely used in professional visualization and data centers. The company's innovative architecture has propelled advancements in AI, machine learning, and deep learning, making it a critical player in sectors such as autonomous vehicles, healthcare, and high-performance computing. NVIDIA's CUDA platform enables developers to harness the power of GPUs for parallel computing, thus accelerating research and development across various fields. Additionally, NVIDIA is at the forefront of the gaming industry with its GeForce product line and has expanded into the realm of AI with its NVIDIA DGX systems, which are designed for AI research and deployment. NVIDIA's mission is to enable the world to interact with technology in a more immersive way and to make it accessible to everyone through groundbreaking innovations.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1993",
+    "website": "https://www.nvidia.com",
+    "ceo": "Jensen Huang",
+    "social_media": {
+        "twitter": "https://twitter.com/nvidia",
+        "linkedin": "https://www.linkedin.com/company/nvidia/"
+    },
+    "investor_relations": "https://investor.nvidia.com",
+    "key_executives": [
+        {
+            "name": "Jensen Huang",
+            "position": "CEO"
+        },
+        {
+            "name": "Colette Kress",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Gaming",
+            "products": [
+                "GeForce RTX Series",
+                "GeForce GTX Series"
+            ]
+        },
+        {
+            "category": "Data Center",
+            "products": [
+                "NVIDIA DGX Systems",
+                "NVIDIA Tesla"
+            ]
+        },
+        {
+            "category": "Automotive",
+            "products": [
+                "NVIDIA DRIVE"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "NVIDIA Corporation | AI Computing and Graphics Technology",
+        "meta_description": "Explore NVIDIA Corporation, a leader in AI computing and graphics technology. Discover NVIDIA's innovative products, mission, and impact on various industries.",
+        "keywords": [
+            "NVIDIA",
+            "Artificial Intelligence",
+            "Graphics Processing Units",
+            "Gaming Technology",
+            "Deep Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does NVIDIA specialize in?",
+            "answer": "NVIDIA specializes in graphics processing units (GPUs) and AI computing technology."
+        },
+        {
+            "question": "Who is the CEO of NVIDIA?",
+            "answer": "Jensen Huang is the CEO of NVIDIA Corporation."
+        },
+        {
+            "question": "Where is NVIDIA headquartered?",
+            "answer": "NVIDIA is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are NVIDIA's main products?",
+            "answer": "NVIDIA's main products include GeForce GPUs, NVIDIA DGX Systems, and NVIDIA DRIVE solutions."
+        },
+        {
+            "question": "When was NVIDIA founded?",
+            "answer": "NVIDIA was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "AMD",
+        "INTC",
+        "TXN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "BUFS",
+    "name": "Buffalo Wild Wings, Inc.",
+    "description": "Buffalo Wild Wings, Inc. is a leading American casual dining restaurant and sports bar chain known for its extensive menu of chicken wings, burgers, and other comfort foods, combined with an energetic atmosphere perfect for sports fans. Founded in 1982 in Columbus, Ohio, by Jim Disbrow and Scott Lowery, Buffalo Wild Wings has grown to become a staple in the casual dining sector, boasting over 1,200 locations across the United States and internationally. The restaurant is particularly famous for its signature sauces and seasonings, offering a wide range of flavors to cater to every palate. In addition to its food offerings, Buffalo Wild Wings provides an immersive sports viewing experience, featuring numerous large-screen televisions broadcasting live sports events, making it a popular destination for sports enthusiasts. The company also emphasizes community engagement through various sponsorships and promotions, including partnerships with local sports teams. Buffalo Wild Wings aims to provide excellent service and a vibrant dining experience, making it a beloved choice for families and friends looking to enjoy good food and great sports together.",
+    "industry": [
+        "Restaurant",
+        "Casual Dining"
+    ],
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "founded": "1982",
+    "website": "https://www.buffalowildwings.com",
+    "ceo": "Paul Brown",
+    "social_media": {
+        "twitter": "https://twitter.com/BW3",
+        "linkedin": "https://www.linkedin.com/company/buffalo-wild-wings",
+        "instagram": "https://www.instagram.com/buffalowildwings/",
+        "youtube": "https://www.youtube.com/user/BuffaloWildWings"
+    },
+    "investor_relations": "https://investor.buffalowildwings.com",
+    "key_executives": [
+        {
+            "name": "Paul Brown",
+            "position": "CEO"
+        },
+        {
+            "name": "Lynn Schweinfurth",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Food",
+            "products": [
+                "Chicken Wings",
+                "Burgers",
+                "Salads",
+                "Appetizers"
+            ]
+        },
+        {
+            "category": "Beverages",
+            "products": [
+                "Craft Beer",
+                "Soft Drinks",
+                "Cocktails"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Buffalo Wild Wings | Sports Bar & Casual Dining",
+        "meta_description": "Explore Buffalo Wild Wings, a leading casual dining restaurant known for its chicken wings, burgers, and sports viewing experience. Discover our menu and locations.",
+        "keywords": [
+            "Buffalo Wild Wings",
+            "Casual Dining",
+            "Sports Bar",
+            "Chicken Wings",
+            "Burgers"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of food does Buffalo Wild Wings serve?",
+            "answer": "Buffalo Wild Wings serves a variety of food including chicken wings, burgers, salads, and appetizers."
+        },
+        {
+            "question": "Where is Buffalo Wild Wings headquartered?",
+            "answer": "Buffalo Wild Wings is headquartered in Minneapolis, Minnesota, USA."
+        },
+        {
+            "question": "How many locations does Buffalo Wild Wings have?",
+            "answer": "Buffalo Wild Wings has over 1,200 locations across the United States and internationally."
+        },
+        {
+            "question": "What is Buffalo Wild Wings known for?",
+            "answer": "Buffalo Wild Wings is known for its chicken wings, extensive sauce options, and sports viewing experience."
+        },
+        {
+            "question": "When was Buffalo Wild Wings founded?",
+            "answer": "Buffalo Wild Wings was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "DARD",
+        "PLKI",
+        "EAT"
+    ],
+    "related_stocks": [
+        "YUM",
+        "MCD",
+        "CMG",
+        "DPZ"
+    ]
+}

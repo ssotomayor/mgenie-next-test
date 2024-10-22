@@ -1,0 +1,93 @@
+{
+    "ticker": "ALK",
+    "name": "Alaska Air Group, Inc.",
+    "description": "Alaska Air Group, Inc. is the parent company of Alaska Airlines and Horizon Air, and is a major player in the airline industry, providing air transportation services across the United States and beyond. Founded in 1932 and headquartered in Seattle, Washington, Alaska Airlines operates a network of scheduled flights to over 100 destinations in the U.S., Canada, Mexico, and Costa Rica. The airline is known for its commitment to customer service and operational reliability, consistently ranking high in customer satisfaction scores. Alaska Airlines prides itself on being environmentally responsible, investing in modern, fuel-efficient aircraft to reduce its carbon footprint, and implementing various sustainability initiatives. In addition to passenger services, Alaska Air Group also offers cargo services and has a loyalty program known as Mileage Plan, which rewards frequent flyers with miles that can be redeemed for travel and other benefits. Alaska Air Group continues to expand its market presence through strategic partnerships and acquisitions, enhancing its ability to connect travelers to some of the most scenic and vibrant destinations in the Pacific Northwest and beyond. With a strong focus on safety, customer experience, and community involvement, Alaska Air Group is dedicated to providing excellent air travel while fostering a sustainable future for the aviation industry.",
+    "industry": [
+        "Airlines",
+        "Transportation"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "1932",
+    "website": "https://www.alaskaair.com",
+    "ceo": "Ben Minicucci",
+    "social_media": {
+        "twitter": "https://twitter.com/AlaskaAir",
+        "linkedin": "https://www.linkedin.com/company/alaska-airlines/",
+        "instagram": "https://www.instagram.com/alaskaair/",
+        "facebook": "https://www.facebook.com/AlaskaAir"
+    },
+    "investor_relations": "https://investor.alaskaair.com",
+    "key_executives": [
+        {
+            "name": "Ben Minicucci",
+            "position": "CEO"
+        },
+        {
+            "name": "Brandon Pedersen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Domestic Flights",
+                "International Flights",
+                "Premium Class"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Freight Shipping",
+                "Charter Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Alaska Air Group, Inc. | Leading Airline Services",
+        "meta_description": "Explore Alaska Air Group, Inc., the parent company of Alaska Airlines and Horizon Air, providing exceptional air travel and cargo services across North America.",
+        "keywords": [
+            "Alaska Airlines",
+            "Airlines",
+            "Air Travel",
+            "Aviation",
+            "Sustainable Travel",
+            "Frequent Flyer"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Alaska Air Group provide?",
+            "answer": "Alaska Air Group provides passenger airline services and cargo transportation."
+        },
+        {
+            "question": "Who is the CEO of Alaska Air Group?",
+            "answer": "Ben Minicucci is the CEO of Alaska Air Group, Inc."
+        },
+        {
+            "question": "Where is Alaska Air Group headquartered?",
+            "answer": "Alaska Air Group is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What is Mileage Plan?",
+            "answer": "Mileage Plan is Alaska Airlines' loyalty program that rewards frequent flyers with miles for travel."
+        },
+        {
+            "question": "When was Alaska Airlines founded?",
+            "answer": "Alaska Airlines was founded in 1932."
+        }
+    ],
+    "competitors": [
+        "DAL",
+        "UAL",
+        "LUV",
+        "JBLU"
+    ],
+    "related_stocks": [
+        "AAL",
+        "BA",
+        "DAL",
+        "UAL"
+    ]
+}

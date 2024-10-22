@@ -1,0 +1,82 @@
+{
+    "ticker": "IMNN",
+    "name": "Immunome, Inc.",
+    "description": "Immunome, Inc. is a biotechnology company focused on the discovery and development of innovative therapeutic antibodies for the treatment of cancer and infectious diseases. Founded in 2015 and located in Exton, Pennsylvania, Immunome leverages its proprietary platform to identify and isolate unique antibodies from the immune systems of convalescent individuals, particularly those who have recovered from viral infections. This groundbreaking approach enables the company to create a robust pipeline of antibody-based therapies that target specific antigens associated with various diseases. Immunome's lead product candidate, IMM-BCP-001, is an antibody therapy designed to treat patients with solid tumors by targeting the tumor microenvironment. The company is committed to advancing its clinical programs and expanding its portfolio to include treatments for other high-unmet medical needs. With a strong emphasis on scientific rigor and collaboration, Immunome is poised to make significant strides in the biopharmaceutical landscape, aiming to improve patient outcomes through its innovative therapies.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Exton, Pennsylvania, USA",
+    "founded": "2015",
+    "website": "https://www.immunome.com",
+    "ceo": "Purnanand Sarma",
+    "social_media": {
+        "twitter": "https://twitter.com/immunome",
+        "linkedin": "https://www.linkedin.com/company/immunome/"
+    },
+    "investor_relations": "https://investors.immunome.com",
+    "key_executives": [
+        {
+            "name": "Purnanand Sarma",
+            "position": "CEO"
+        },
+        {
+            "name": "Shivendra Singh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Therapeutic Antibodies",
+            "products": [
+                "IMM-BCP-001"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Immunome, Inc. | Innovative Therapeutic Antibodies for Cancer and Infectious Diseases",
+        "meta_description": "Explore Immunome, Inc., a biotechnology company dedicated to developing innovative therapeutic antibodies targeting cancer and infectious diseases. Discover our approach and pipeline.",
+        "keywords": [
+            "Immunome",
+            "Biotechnology",
+            "Therapeutic Antibodies",
+            "Cancer Treatment",
+            "Infectious Diseases",
+            "IMM-BCP-001"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Immunome specialize in?",
+            "answer": "Immunome specializes in the discovery and development of therapeutic antibodies for cancer and infectious diseases."
+        },
+        {
+            "question": "Who is the CEO of Immunome?",
+            "answer": "Purnanand Sarma is the CEO of Immunome, Inc."
+        },
+        {
+            "question": "Where is Immunome headquartered?",
+            "answer": "Immunome is headquartered in Exton, Pennsylvania, USA."
+        },
+        {
+            "question": "What is Immunome's lead product candidate?",
+            "answer": "Immunome's lead product candidate is IMM-BCP-001, an antibody therapy for solid tumors."
+        },
+        {
+            "question": "When was Immunome founded?",
+            "answer": "Immunome was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "NVAX",
+        "SRPT",
+        "BMRN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMGN",
+        "GILD",
+        "BMY"
+    ]
+}

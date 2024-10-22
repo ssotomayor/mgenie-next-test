@@ -1,0 +1,80 @@
+{
+    "ticker": "BBH",
+    "name": "BiondVax Pharmaceuticals Ltd.",
+    "description": "BiondVax Pharmaceuticals Ltd. is a biotechnology company focused on the development and commercialization of innovative immunotherapy products for the treatment and prevention of infectious diseases. Founded in 2006 in Jerusalem, Israel, BiondVax is best known for its Multivalent Universal Influenza Vaccine (MUV), designed to provide broad protection against various strains of influenza. This vaccine aims to address the limitations of traditional seasonal influenza vaccines, which often require annual updates due to viral mutations. BiondVax's MUV has shown promising results in clinical trials, demonstrating the potential to offer extended immunity and a more effective defense against influenza outbreaks. The company is also exploring other therapeutic areas, leveraging its expertise in immunology and vaccine development to create novel solutions for serious health challenges. BiondVax is committed to advancing human health through innovative science and technology, and its mission is to improve the lives of patients globally by providing effective and accessible immunotherapies.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Jerusalem, Israel",
+    "founded": "2006",
+    "website": "https://www.biondvax.com",
+    "ceo": "Dr. Ron Cohen",
+    "social_media": {
+        "twitter": "https://twitter.com/BiondVax",
+        "linkedin": "https://www.linkedin.com/company/biondvax-pharmaceuticals"
+    },
+    "investor_relations": "https://www.biondvax.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Dr. Ron Cohen",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. Roni Cohen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "Multivalent Universal Influenza Vaccine (MUV)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BiondVax Pharmaceuticals Ltd. | Innovative Immunotherapy Solutions",
+        "meta_description": "BiondVax Pharmaceuticals Ltd. is dedicated to developing groundbreaking immunotherapies, including a universal flu vaccine, to enhance global health.",
+        "keywords": [
+            "BiondVax",
+            "Influenza Vaccine",
+            "Immunotherapy",
+            "Biotechnology",
+            "Pharmaceuticals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is BiondVax known for?",
+            "answer": "BiondVax is known for its development of a Multivalent Universal Influenza Vaccine designed to provide broad protection against flu strains."
+        },
+        {
+            "question": "Who is the CEO of BiondVax?",
+            "answer": "Dr. Ron Cohen is the CEO of BiondVax Pharmaceuticals Ltd."
+        },
+        {
+            "question": "Where is BiondVax headquartered?",
+            "answer": "BiondVax is headquartered in Jerusalem, Israel."
+        },
+        {
+            "question": "What are BiondVax's main products?",
+            "answer": "BiondVax's main product is the Multivalent Universal Influenza Vaccine."
+        },
+        {
+            "question": "When was BiondVax founded?",
+            "answer": "BiondVax was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "NVAX",
+        "PFE",
+        "MRNA"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "ABBV",
+        "GILD",
+        "AMGN"
+    ]
+}

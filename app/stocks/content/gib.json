@@ -1,0 +1,92 @@
+{
+    "ticker": "GIB",
+    "name": "CGI Inc.",
+    "description": "CGI Inc. is a global technology and consulting services company headquartered in Montreal, Canada. Founded in 1976, CGI provides a broad range of services, including IT consulting, systems integration, application development, and business consulting. With a focus on delivering value to clients, CGI leverages its extensive industry expertise and innovative technologies to help organizations enhance their operational efficiency and achieve their business goals. The company operates in various sectors, including government, healthcare, financial services, and telecommunications, providing tailored solutions to meet the unique challenges of each industry. CGI's commitment to sustainability and corporate social responsibility is evident in its operational practices and community engagement initiatives. As a leader in digital transformation, CGI is dedicated to helping clients navigate the complexities of emerging technologies such as artificial intelligence, cloud computing, and cybersecurity. The company's mission is to be a trusted partner to its clients, enabling them to thrive in an increasingly digital world by providing high-quality services and solutions that drive innovation and growth.",
+    "industry": [
+        "Information Technology",
+        "Consulting"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1976",
+    "website": "https://www.cgi.com",
+    "ceo": "George D. Schindler",
+    "social_media": {
+        "twitter": "https://twitter.com/CGIgroup",
+        "linkedin": "https://www.linkedin.com/company/cgi",
+        "facebook": "https://www.facebook.com/CGIGroup"
+    },
+    "investor_relations": "https://www.cgi.com/en/investors",
+    "key_executives": [
+        {
+            "name": "George D. Schindler",
+            "position": "CEO"
+        },
+        {
+            "name": "T. Michael Roach",
+            "position": "Executive Chairman"
+        },
+        {
+            "name": "K. Wayne M. O'Neill",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Services",
+            "products": [
+                "Consulting",
+                "Systems Integration",
+                "Application Development"
+            ]
+        },
+        {
+            "category": "Business Solutions",
+            "products": [
+                "Business Consulting",
+                "Digital Transformation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CGI Inc. | Global Technology and Consulting Services",
+        "meta_description": "Explore CGI Inc., a global leader in technology and consulting services. Discover how CGI helps organizations enhance efficiency and drive innovation.",
+        "keywords": [
+            "CGI",
+            "IT Services",
+            "Consulting",
+            "Digital Transformation",
+            "George D. Schindler",
+            "Business Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does CGI provide?",
+            "answer": "CGI provides IT consulting, systems integration, application development, and business consulting services."
+        },
+        {
+            "question": "Who is the CEO of CGI?",
+            "answer": "George D. Schindler is the CEO of CGI Inc."
+        },
+        {
+            "question": "Where is CGI headquartered?",
+            "answer": "CGI is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "When was CGI founded?",
+            "answer": "CGI was founded in 1976."
+        }
+    ],
+    "competitors": [
+        "ACN",
+        "IBM",
+        "CTSH",
+        "NCI"
+    ],
+    "related_stocks": [
+        "ORCL",
+        "MSFT",
+        "SAP",
+        "ADBE"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "INVZ",
+    "name": "Innoviz Technologies Ltd.",
+    "description": "Innoviz Technologies Ltd. is a leading provider of cutting-edge LiDAR (Light Detection and Ranging) technology, which is essential for the advancement of autonomous vehicles and advanced driver-assistance systems (ADAS). Founded in 2016, Innoviz has developed innovative solutions that enable vehicles to perceive their surroundings accurately and reliably. The company's flagship product, InnovizOne, is a solid-state LiDAR sensor designed to deliver high-resolution 3D mapping capabilities. Innoviz aims to enhance the safety and efficiency of transportation systems through its advanced sensor technology, which is crucial for the development of self-driving cars. With partnerships with major automotive manufacturers and technology companies, Innoviz is at the forefront of the automotive industry's shift towards automation and smarter transportation solutions. Their mission is to make autonomous driving safe and accessible for everyone by providing the most reliable and effective perception solutions.",
+    "industry": [
+        "Automotive",
+        "Technology"
+    ],
+    "headquarters": "Rosh HaAyin, Israel",
+    "founded": "2016",
+    "website": "https://innoviz.tech",
+    "ceo": "Omer Keilaf",
+    "social_media": {
+        "twitter": "https://twitter.com/InnovizTech",
+        "linkedin": "https://www.linkedin.com/company/innoviz-technologies/"
+    },
+    "investor_relations": "https://investors.innoviz.tech",
+    "key_executives": [
+        {
+            "name": "Omer Keilaf",
+            "position": "CEO"
+        },
+        {
+            "name": "Hanan B. Nissim",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "LiDAR Solutions",
+            "products": [
+                "InnovizOne",
+                "InnovizPro"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "Innoviz SDK"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Innoviz Technologies Ltd. | Leading LiDAR Solutions for Autonomous Vehicles",
+        "meta_description": "Explore Innoviz Technologies, a leader in LiDAR technology for autonomous vehicles. Discover our innovative products and commitment to safe transportation solutions.",
+        "keywords": [
+            "Innoviz",
+            "LiDAR",
+            "Autonomous Vehicles",
+            "ADAS",
+            "3D Mapping",
+            "Omer Keilaf"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Innoviz Technologies specialize in?",
+            "answer": "Innoviz Technologies specializes in LiDAR technology for autonomous vehicles and advanced driver-assistance systems."
+        },
+        {
+            "question": "Who is the CEO of Innoviz?",
+            "answer": "Omer Keilaf is the CEO of Innoviz Technologies Ltd."
+        },
+        {
+            "question": "Where is Innoviz headquartered?",
+            "answer": "Innoviz is headquartered in Rosh HaAyin, Israel."
+        },
+        {
+            "question": "What are Innoviz's main products?",
+            "answer": "Innoviz's main products include InnovizOne and InnovizPro, which are advanced LiDAR solutions."
+        },
+        {
+            "question": "When was Innoviz founded?",
+            "answer": "Innoviz was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "LIDR",
+        "VLDR",
+        "AEVA"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "GOOGL",
+        "AMZN"
+    ]
+}

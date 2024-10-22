@@ -1,0 +1,79 @@
+{
+    "ticker": "MYSZ",
+    "name": "My Size, Inc.",
+    "description": "My Size, Inc. is a technology company that specializes in developing innovative measurement solutions to enhance the retail and fashion industries. Founded in 2014, My Size leverages advanced mobile technology to provide users with precise clothing measurements through its proprietary mobile application. The company\u2019s flagship product, the MySizeID app, allows users to accurately measure their body dimensions using their smartphones, thereby facilitating a more personalized shopping experience and reducing the rate of returns in e-commerce due to sizing issues. My Size's solutions are particularly valuable in the current retail landscape, where consumer expectations for fit and convenience are higher than ever. In addition to clothing sizes, My Size is expanding its technology to cater to the home goods and furniture sectors, aiming to provide a comprehensive measurement solution across various industries. The company is committed to improving customer satisfaction and driving sales for retailers through its innovative technology, which bridges the gap between online and offline shopping. With a focus on user-friendly interfaces and accurate measurements, My Size is positioned to revolutionize how consumers shop for clothing and other products online, ultimately promoting a more sustainable future by minimizing waste and returns.",
+    "industry": [
+        "Technology",
+        "Retail"
+    ],
+    "headquarters": "Airport City, Israel",
+    "founded": "2014",
+    "website": "https://www.mysizeid.com",
+    "ceo": "Ronen Luzon",
+    "social_media": {
+        "twitter": "https://twitter.com/MySizeID",
+        "linkedin": "https://www.linkedin.com/company/mysizeid"
+    },
+    "investor_relations": "https://ir.mysizeid.com",
+    "key_executives": [
+        {
+            "name": "Ronen Luzon",
+            "position": "CEO"
+        },
+        {
+            "name": "Roi Keren",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Measurement Solutions",
+            "products": [
+                "MySizeID App"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "My Size, Inc. | Innovative Measurement Solutions for Retail",
+        "meta_description": "Discover My Size, Inc., a leader in measurement technology that enhances the shopping experience through the MySizeID app. Learn about our commitment to reducing returns and improving fit.",
+        "keywords": [
+            "My Size",
+            "Measurement Technology",
+            "Retail Solutions",
+            "MySizeID",
+            "Fashion Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does My Size do?",
+            "answer": "My Size develops innovative measurement solutions to enhance the retail shopping experience, particularly through its MySizeID app."
+        },
+        {
+            "question": "Who is the CEO of My Size?",
+            "answer": "Ronen Luzon is the CEO of My Size, Inc."
+        },
+        {
+            "question": "Where is My Size headquartered?",
+            "answer": "My Size is headquartered in Airport City, Israel."
+        },
+        {
+            "question": "What is the MySizeID app?",
+            "answer": "The MySizeID app allows users to measure their body dimensions accurately using a smartphone, improving the fit of clothing purchased online."
+        },
+        {
+            "question": "When was My Size founded?",
+            "answer": "My Size was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "SIZE",
+        "WISH",
+        "AMZN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

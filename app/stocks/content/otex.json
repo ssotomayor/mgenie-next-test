@@ -1,0 +1,91 @@
+{
+    "ticker": "OTEX",
+    "name": "OpenText Corporation",
+    "description": "OpenText Corporation is a global leader in Enterprise Information Management (EIM) solutions, helping organizations gain a competitive advantage by managing their information assets effectively. Founded in 1991 and headquartered in Waterloo, Ontario, OpenText provides a comprehensive suite of products and services aimed at optimizing the management of unstructured data. The company's offerings include content management, business process management, information governance, and analytics solutions that empower businesses to harness their data for better decision-making. With a focus on cloud-based solutions, OpenText enables organizations to transition to digital environments seamlessly. The company's strategic acquisitions have expanded its capabilities in artificial intelligence, machine learning, and cybersecurity, enabling it to serve a diverse range of industries, including healthcare, finance, and manufacturing. OpenText's mission is to deliver solutions that enable organizations to transform their information into a strategic asset, thus driving productivity and efficiency. The company is committed to innovation and sustainability, providing customers with advanced tools to thrive in an increasingly digital world.",
+    "industry": [
+        "Information Technology",
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "Waterloo, Ontario, Canada",
+    "founded": "1991",
+    "website": "https://www.opentext.com",
+    "ceo": "Mark J. Barrenechea",
+    "social_media": {
+        "twitter": "https://twitter.com/OpenText",
+        "linkedin": "https://www.linkedin.com/company/opentext/"
+    },
+    "investor_relations": "https://investors.opentext.com",
+    "key_executives": [
+        {
+            "name": "Mark J. Barrenechea",
+            "position": "CEO"
+        },
+        {
+            "name": "Gordon L. McNaughton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Enterprise Information Management",
+            "products": [
+                "Content Suite",
+                "Documentum",
+                "Business Process Management"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "OpenText Cloud",
+                "EIM Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "OpenText Corporation | Enterprise Information Management Solutions",
+        "meta_description": "Discover OpenText Corporation, the leader in Enterprise Information Management solutions. Learn about their innovative products and services that help organizations manage their information assets effectively.",
+        "keywords": [
+            "OpenText",
+            "Enterprise Information Management",
+            "Cloud Computing",
+            "Software Solutions",
+            "Data Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is OpenText known for?",
+            "answer": "OpenText is known for its Enterprise Information Management solutions that help organizations manage and leverage their unstructured data."
+        },
+        {
+            "question": "Who is the CEO of OpenText?",
+            "answer": "Mark J. Barrenechea is the CEO of OpenText Corporation."
+        },
+        {
+            "question": "Where is OpenText headquartered?",
+            "answer": "OpenText is headquartered in Waterloo, Ontario, Canada."
+        },
+        {
+            "question": "What are OpenText's main products?",
+            "answer": "OpenText's main products include Content Suite, Documentum, and various cloud services."
+        },
+        {
+            "question": "When was OpenText founded?",
+            "answer": "OpenText was founded in 1991."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "IBM",
+        "SAP",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "ORCL",
+        "CRM",
+        "NOW",
+        "WDAY"
+    ]
+}

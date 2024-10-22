@@ -1,0 +1,82 @@
+{
+    "ticker": "GHLD",
+    "name": "Golden Helix, Inc.",
+    "description": "Golden Helix, Inc. is a leading bioinformatics company that specializes in providing software solutions for the analysis and interpretation of genomic data. Founded in 2000, Golden Helix has developed a suite of powerful tools designed to help researchers and clinicians harness the potential of genomics in their work. The company's flagship product, SNP & Variation Suite (SVS), offers comprehensive analytics for genetic variation data, enabling users to perform complex analyses with ease. Golden Helix's products are widely used in academic research, clinical laboratories, and pharmaceutical companies, enhancing their ability to conduct genomic studies efficiently. The company is dedicated to advancing the field of personalized medicine by providing innovative solutions that improve the understanding of genetic diseases and contribute to the development of targeted therapies. With a strong focus on customer support and education, Golden Helix empowers its users to extract actionable insights from genomic data, fostering collaboration and innovation in the life sciences community. The company's mission is to make genomic data accessible and interpretable for all, ultimately improving health outcomes through precision medicine.",
+    "industry": [
+        "Bioinformatics",
+        "Healthcare"
+    ],
+    "headquarters": "Bozeman, Montana, USA",
+    "founded": "2000",
+    "website": "https://www.goldenhelix.com",
+    "ceo": "Anders J. Nilsen",
+    "social_media": {
+        "twitter": "https://twitter.com/goldenhelix",
+        "linkedin": "https://www.linkedin.com/company/goldenhelix"
+    },
+    "investor_relations": "https://www.goldenhelix.com/investors",
+    "key_executives": [
+        {
+            "name": "Anders J. Nilsen",
+            "position": "CEO"
+        },
+        {
+            "name": "J. Paul O'Neill",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Genomic Analysis Software",
+            "products": [
+                "SNP & Variation Suite",
+                "VarSeq",
+                "HelixTree"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Golden Helix, Inc. | Bioinformatics Solutions for Genomic Data",
+        "meta_description": "Explore Golden Helix, Inc., a leader in bioinformatics providing innovative software solutions for genomic data analysis. Learn how Golden Helix is advancing personalized medicine.",
+        "keywords": [
+            "Golden Helix",
+            "Bioinformatics",
+            "Genomic Data",
+            "Personalized Medicine",
+            "SNP Analysis"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Golden Helix specialize in?",
+            "answer": "Golden Helix specializes in bioinformatics software solutions for genomic data analysis."
+        },
+        {
+            "question": "Who is the CEO of Golden Helix?",
+            "answer": "Anders J. Nilsen is the CEO of Golden Helix, Inc."
+        },
+        {
+            "question": "Where is Golden Helix headquartered?",
+            "answer": "Golden Helix is headquartered in Bozeman, Montana, USA."
+        },
+        {
+            "question": "What are the main products of Golden Helix?",
+            "answer": "Golden Helix's main products include SNP & Variation Suite, VarSeq, and HelixTree."
+        },
+        {
+            "question": "When was Golden Helix founded?",
+            "answer": "Golden Helix was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "ILMN",
+        "GRPN",
+        "GNOM"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "ABT",
+        "RHHBY",
+        "BIO"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "CCLDP",
+    "name": "Carnival Corporation & plc",
+    "description": "Carnival Corporation & plc is one of the world's largest travel and leisure companies, primarily known for its cruise line operations. Founded in 1972, Carnival has grown to include a fleet of over 100 ships across multiple brands, including Carnival Cruise Line, Princess Cruises, Holland America Line, and more. The company operates in various regions, providing unique vacation experiences on ocean and river cruises, catering to a wide range of travelers from families to luxury seekers. Carnival is committed to delivering exceptional customer service and innovative onboard experiences, including entertainment, dining, and recreational activities. The company is also focused on sustainability and environmental stewardship, investing in advanced technologies to reduce emissions and enhance the guest experience. With a mission to deliver fun and memorable vacations, Carnival aims to be the world's most sought-after cruise line, making travel accessible and enjoyable for everyone.",
+    "industry": [
+        "Travel & Leisure",
+        "Cruise Lines"
+    ],
+    "headquarters": "Miami, Florida, USA",
+    "founded": "1972",
+    "website": "https://www.carnivalcorp.com",
+    "ceo": "Josh Weinstein",
+    "social_media": {
+        "twitter": "https://twitter.com/carnivalcruise",
+        "linkedin": "https://www.linkedin.com/company/carnival-corporation/"
+    },
+    "investor_relations": "https://www.carnivalcorp.com/investors",
+    "key_executives": [
+        {
+            "name": "Josh Weinstein",
+            "position": "CEO"
+        },
+        {
+            "name": "David Bernstein",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cruise Lines",
+            "products": [
+                "Carnival Cruise Line",
+                "Princess Cruises",
+                "Holland America Line",
+                "Seabourn"
+            ]
+        },
+        {
+            "category": "Vacation Packages",
+            "products": [
+                "Cruise + Hotel Packages",
+                "Shore Excursions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Carnival Corporation & plc | Leading Cruise Line Company",
+        "meta_description": "Explore Carnival Corporation & plc, a leader in the cruise industry, offering unforgettable vacation experiences across a diverse fleet of ships.",
+        "keywords": [
+            "Carnival Corporation",
+            "Cruise Lines",
+            "Travel and Leisure",
+            "Vacation Packages",
+            "Cruises"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Carnival Corporation do?",
+            "answer": "Carnival Corporation operates a fleet of cruise ships and offers vacation experiences around the world."
+        },
+        {
+            "question": "Who is the CEO of Carnival Corporation?",
+            "answer": "Josh Weinstein is the CEO of Carnival Corporation & plc."
+        },
+        {
+            "question": "Where is Carnival Corporation headquartered?",
+            "answer": "Carnival Corporation is headquartered in Miami, Florida, USA."
+        },
+        {
+            "question": "What are Carnival's main cruise brands?",
+            "answer": "Carnival's main cruise brands include Carnival Cruise Line, Princess Cruises, Holland America Line, and Seabourn."
+        },
+        {
+            "question": "When was Carnival Corporation founded?",
+            "answer": "Carnival Corporation was founded in 1972."
+        }
+    ],
+    "competitors": [
+        "RCL",
+        "NCLH",
+        "CCL"
+    ],
+    "related_stocks": [
+        "DIS",
+        "UAL",
+        "AAL",
+        "DAL"
+    ]
+}

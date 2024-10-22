@@ -1,0 +1,93 @@
+{
+    "ticker": "BKMC",
+    "name": "Baker McKenzie",
+    "description": "Baker McKenzie is a leading global law firm known for its commitment to delivering exceptional legal services across various industries. Founded in 1949 in Chicago, Illinois, Baker McKenzie has grown to become one of the largest law firms in the world, with a presence in over 45 countries. The firm provides a wide range of services, including corporate law, tax, intellectual property, dispute resolution, and employment law, catering to both multinational corporations and startups. Baker McKenzie is recognized for its innovative approach to legal challenges, leveraging technology and cross-border collaboration to serve clients effectively. The firm prioritizes diversity and inclusion, fostering an environment where diverse perspectives enhance creativity and problem-solving. With a mission to help clients navigate complex legal landscapes, Baker McKenzie excels in delivering tailored solutions that drive business success while adhering to the highest ethical standards.",
+    "industry": [
+        "Legal Services"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1949",
+    "website": "https://www.bakermckenzie.com",
+    "ceo": "Christina Blacklaws",
+    "social_media": {
+        "twitter": "https://twitter.com/BakerMcKenzie",
+        "linkedin": "https://www.linkedin.com/company/baker-mckenzie/",
+        "facebook": "https://www.facebook.com/bakermckenzie"
+    },
+    "investor_relations": "https://www.bakermckenzie.com/en/firm/our-people/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Christina Blacklaws",
+            "position": "CEO"
+        },
+        {
+            "name": "Paul Rawlinson",
+            "position": "Global Chair"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Corporate Law",
+            "services": [
+                "Mergers and Acquisitions",
+                "Corporate Governance"
+            ]
+        },
+        {
+            "category": "Dispute Resolution",
+            "services": [
+                "Litigation",
+                "Arbitration"
+            ]
+        },
+        {
+            "category": "Intellectual Property",
+            "services": [
+                "Trademark Registration",
+                "Patent Litigation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baker McKenzie | Leading Global Law Firm",
+        "meta_description": "Explore Baker McKenzie, a top global law firm providing exceptional legal services across various sectors. Discover our commitment to innovation, diversity, and client success.",
+        "keywords": [
+            "Baker McKenzie",
+            "Global Law Firm",
+            "Legal Services",
+            "Corporate Law",
+            "Dispute Resolution",
+            "Intellectual Property"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Baker McKenzie provide?",
+            "answer": "Baker McKenzie provides a wide range of legal services, including corporate law, dispute resolution, and intellectual property."
+        },
+        {
+            "question": "Who is the CEO of Baker McKenzie?",
+            "answer": "Christina Blacklaws is the CEO of Baker McKenzie."
+        },
+        {
+            "question": "Where is Baker McKenzie headquartered?",
+            "answer": "Baker McKenzie is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "When was Baker McKenzie founded?",
+            "answer": "Baker McKenzie was founded in 1949."
+        }
+    ],
+    "competitors": [
+        "LATH",
+        "SKDT",
+        "DLA",
+        "CLRK"
+    ],
+    "related_stocks": [
+        "AON",
+        "WPP",
+        "MSCI",
+        "ZS"
+    ]
+}

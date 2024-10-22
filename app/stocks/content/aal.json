@@ -1,0 +1,92 @@
+{
+    "ticker": "AAL",
+    "name": "American Airlines Group Inc.",
+    "description": "American Airlines Group Inc. is one of the world's largest airlines, providing passenger and cargo transportation services across the globe. Formed through the merger of American Airlines and US Airways in 2013, the company is headquartered in Fort Worth, Texas. With a vast network of domestic and international routes, American Airlines operates thousands of flights daily, serving millions of customers each year. The airline is known for its commitment to safety, reliability, and customer service. American Airlines offers a range of travel classes, including First Class, Business Class, and Economy, along with various amenities to enhance the passenger experience. The company's fleet includes a diverse mix of modern aircraft designed for efficiency and comfort, enabling it to meet the demands of both leisure and business travelers. In addition to passenger services, American Airlines also provides cargo services, connecting businesses and consumers to global markets. The airline is a founding member of the Oneworld alliance, which allows it to collaborate with other airlines for enhanced connectivity and benefits for frequent flyers. With an ongoing focus on sustainability, American Airlines is investing in new technologies and initiatives aimed at reducing its carbon footprint and enhancing operational efficiency. The company's mission is to provide the highest quality travel experience while fostering a culture of inclusion and diversity.",
+    "industry": [
+        "Airlines",
+        "Transportation"
+    ],
+    "headquarters": "Fort Worth, Texas, USA",
+    "founded": "1930",
+    "website": "https://www.aa.com",
+    "ceo": "Robert Isom",
+    "social_media": {
+        "twitter": "https://twitter.com/AmericanAir",
+        "linkedin": "https://www.linkedin.com/company/american-airlines",
+        "facebook": "https://www.facebook.com/AmericanAirlines"
+    },
+    "investor_relations": "https://www.aa.com/i18n/aboutAA/investor-relations/investor-relations.jsp",
+    "key_executives": [
+        {
+            "name": "Robert Isom",
+            "position": "CEO"
+        },
+        {
+            "name": "Derek Kerr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Economy Class",
+                "Business Class",
+                "First Class"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Air Freight",
+                "Express Shipping"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "American Airlines Group Inc. | Leading Global Airline",
+        "meta_description": "Explore American Airlines Group Inc., a major airline providing comprehensive passenger and cargo services worldwide. Learn about its commitment to safety, customer service, and sustainability.",
+        "keywords": [
+            "American Airlines",
+            "Airline",
+            "Travel",
+            "Passenger Services",
+            "Cargo Services",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does American Airlines provide?",
+            "answer": "American Airlines offers passenger and cargo transportation services, including Economy, Business, and First Class travel."
+        },
+        {
+            "question": "Who is the CEO of American Airlines?",
+            "answer": "Robert Isom is the CEO of American Airlines Group Inc."
+        },
+        {
+            "question": "Where is American Airlines headquartered?",
+            "answer": "American Airlines is headquartered in Fort Worth, Texas, USA."
+        },
+        {
+            "question": "What is the history of American Airlines?",
+            "answer": "American Airlines was founded in 1930 and has since grown to become one of the largest airlines in the world."
+        },
+        {
+            "question": "What is American Airlines' commitment to sustainability?",
+            "answer": "American Airlines is focused on reducing its carbon footprint and enhancing operational efficiency through new technologies and initiatives."
+        }
+    ],
+    "competitors": [
+        "DAL",
+        "UAL",
+        "LUV",
+        "AAL"
+    ],
+    "related_stocks": [
+        "LUV",
+        "DAL",
+        "UAL",
+        "SAVE"
+    ]
+}

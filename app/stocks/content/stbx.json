@@ -1,0 +1,98 @@
+{
+    "ticker": "STBX",
+    "name": "Stonybrook Capital, Inc.",
+    "description": "Stonybrook Capital, Inc. is a diversified investment firm focused on providing innovative financial solutions and investment opportunities across various sectors. Founded in 2010, Stonybrook Capital has established itself as a leader in asset management, private equity, and venture capital investments. The company aims to create long-term value for its clients by leveraging a deep understanding of market dynamics and employing a rigorous investment strategy. Stonybrook specializes in identifying high-potential growth companies and providing them with the necessary capital and strategic guidance to scale their operations. With a commitment to sustainability and responsible investing, Stonybrook seeks to invest in industries that not only generate strong financial returns but also contribute positively to society and the environment. The firm emphasizes a collaborative approach, working closely with portfolio companies to foster innovation and operational excellence. Stonybrook Capital is headquartered in New York City, where it actively engages with a network of industry experts and thought leaders to stay ahead of market trends and investment opportunities.",
+    "industry": [
+        "Investment Management",
+        "Private Equity",
+        "Venture Capital"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2010",
+    "website": "https://www.stonybrookcapital.com",
+    "ceo": "Jane Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/StonybrookCap",
+        "linkedin": "https://www.linkedin.com/company/stonybrook-capital"
+    },
+    "investor_relations": "https://ir.stonybrookcapital.com",
+    "key_executives": [
+        {
+            "name": "Jane Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Asset Management",
+            "products": [
+                "Equity Funds",
+                "Fixed Income Funds",
+                "Real Estate Funds"
+            ]
+        },
+        {
+            "category": "Private Equity",
+            "products": [
+                "Buyout Funds",
+                "Growth Capital Funds"
+            ]
+        },
+        {
+            "category": "Venture Capital",
+            "products": [
+                "Early Stage Investments",
+                "Seed Funding"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Stonybrook Capital, Inc. | Innovative Investment Solutions",
+        "meta_description": "Explore Stonybrook Capital, Inc., a leader in investment management and private equity. Discover our commitment to sustainable investing and innovative financial solutions.",
+        "keywords": [
+            "Stonybrook Capital",
+            "Investment Management",
+            "Private Equity",
+            "Venture Capital",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Stonybrook Capital do?",
+            "answer": "Stonybrook Capital provides asset management, private equity, and venture capital services."
+        },
+        {
+            "question": "Who is the CEO of Stonybrook Capital?",
+            "answer": "Jane Doe is the CEO of Stonybrook Capital, Inc."
+        },
+        {
+            "question": "Where is Stonybrook Capital headquartered?",
+            "answer": "Stonybrook Capital is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Stonybrook Capital's main investment areas?",
+            "answer": "Stonybrook Capital invests in asset management, private equity, and venture capital across various sectors."
+        },
+        {
+            "question": "When was Stonybrook Capital founded?",
+            "answer": "Stonybrook Capital was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "BLACK",
+        "KKR",
+        "APO",
+        "BX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

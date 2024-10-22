@@ -1,0 +1,82 @@
+{
+    "ticker": "MNTSW",
+    "name": "Momentus Inc.",
+    "description": "Momentus Inc. is a pioneering space infrastructure company focused on providing in-space transportation services to satellites and other payloads. Established in 2017, Momentus has developed a unique water-based propulsion technology that enables efficient and reliable transportation of payloads in space. The company's services cater to a growing demand for satellite deployment and maneuvering in low Earth orbit (LEO), driven by the expanding satellite market and increased interest in space exploration. Momentus aims to facilitate a more accessible and sustainable space environment by offering its clients the capability to transfer their satellites to desired orbits and conduct in-space operations. With a commitment to innovation, Momentus is actively working on its Vigoride service, which is designed to carry multiple payloads to various orbits, thereby optimizing launch costs and increasing the efficiency of satellite deployment. The company's vision is to play a crucial role in the burgeoning space economy, supporting a wide range of applications from Earth observation to telecommunications. Momentus is dedicated to ensuring safe and effective space operations while fostering partnerships with organizations and governments around the world to enhance global connectivity and promote technological advancements in space.",
+    "industry": [
+        "Aerospace",
+        "Space Transportation"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "2017",
+    "website": "https://momentus.space",
+    "ceo": "John R. Roth",
+    "social_media": {
+        "twitter": "https://twitter.com/momentus_space",
+        "linkedin": "https://www.linkedin.com/company/momentus-space/"
+    },
+    "investor_relations": "https://investors.momentus.space",
+    "key_executives": [
+        {
+            "name": "John R. Roth",
+            "position": "CEO"
+        },
+        {
+            "name": "Shane McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "In-Space Transportation",
+            "products": [
+                "Vigoride",
+                "In-Space Maneuvering Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Momentus Inc. | In-Space Transportation Services",
+        "meta_description": "Explore Momentus Inc., a leader in space infrastructure and in-space transportation. Discover our innovative propulsion technology and commitment to sustainable space operations.",
+        "keywords": [
+            "Momentus",
+            "In-Space Transportation",
+            "Space Infrastructure",
+            "Satellite Deployment",
+            "Vigoride",
+            "Propulsion Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Momentus provide?",
+            "answer": "Momentus provides in-space transportation services for satellites and payloads using its innovative water-based propulsion technology."
+        },
+        {
+            "question": "Who is the CEO of Momentus?",
+            "answer": "John R. Roth is the CEO of Momentus Inc."
+        },
+        {
+            "question": "Where is Momentus headquartered?",
+            "answer": "Momentus is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What is Vigoride?",
+            "answer": "Vigoride is Momentus's in-space transportation vehicle designed to carry multiple payloads to various orbits."
+        },
+        {
+            "question": "When was Momentus founded?",
+            "answer": "Momentus was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "SPCE",
+        "ASTR",
+        "RMO"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "GOOGL",
+        "MSFT"
+    ]
+}

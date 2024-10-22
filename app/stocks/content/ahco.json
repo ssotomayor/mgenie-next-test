@@ -1,0 +1,100 @@
+{
+    "ticker": "AHCO",
+    "name": "AdaptHealth Corp.",
+    "description": "AdaptHealth Corp. is a leading provider of home healthcare equipment and services, dedicated to improving the quality of life for patients with chronic illnesses and disabilities. Founded in 2019 through the merger of several healthcare providers, AdaptHealth focuses on delivering a wide range of medical equipment, including respiratory devices, mobility aids, and home accessibility products. The company is committed to offering personalized care solutions, ensuring that patients receive the necessary support at home. AdaptHealth serves a diverse patient population, partnering with healthcare providers to facilitate seamless transitions from hospital to home. With a robust network of local branches and a team of experienced healthcare professionals, AdaptHealth strives to enhance patient outcomes through innovative technology and comprehensive care management. The company emphasizes the importance of patient education and support, empowering individuals to manage their health conditions effectively. By leveraging advanced data analytics and telehealth services, AdaptHealth is transforming the home healthcare landscape and driving improvements in patient engagement and satisfaction. The company's mission is to provide high-quality, accessible care that meets the unique needs of each patient, contributing to better health outcomes and increased independence.",
+    "industry": [
+        "Healthcare",
+        "Home Health Equipment"
+    ],
+    "headquarters": "Lansdale, Pennsylvania, USA",
+    "founded": "2019",
+    "website": "https://www.adapthealth.com",
+    "ceo": "Luke McGee",
+    "social_media": {
+        "twitter": "https://twitter.com/adapthealth",
+        "linkedin": "https://www.linkedin.com/company/adapthealth/"
+    },
+    "investor_relations": "https://ir.adapthealth.com",
+    "key_executives": [
+        {
+            "name": "Luke McGee",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Griggs",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Respiratory Equipment",
+            "products": [
+                "CPAP Machines",
+                "BiPAP Machines",
+                "Oxygen Concentrators"
+            ]
+        },
+        {
+            "category": "Mobility Aids",
+            "products": [
+                "Wheelchairs",
+                "Walkers",
+                "Scooters"
+            ]
+        },
+        {
+            "category": "Home Accessibility Products",
+            "products": [
+                "Grab Bars",
+                "Ramps",
+                "Lifts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AdaptHealth Corp. | Home Healthcare Solutions",
+        "meta_description": "Learn about AdaptHealth Corp., a leader in home healthcare equipment and services. Discover our commitment to improving patient outcomes through innovative solutions.",
+        "keywords": [
+            "AdaptHealth",
+            "Home Healthcare",
+            "Medical Equipment",
+            "Respiratory Devices",
+            "Patient Care",
+            "Chronic Illness"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does AdaptHealth provide?",
+            "answer": "AdaptHealth provides home healthcare equipment and services, including respiratory devices and mobility aids."
+        },
+        {
+            "question": "Who is the CEO of AdaptHealth?",
+            "answer": "Luke McGee is the CEO of AdaptHealth Corp."
+        },
+        {
+            "question": "Where is AdaptHealth headquartered?",
+            "answer": "AdaptHealth is headquartered in Lansdale, Pennsylvania, USA."
+        },
+        {
+            "question": "What are AdaptHealth's main products?",
+            "answer": "AdaptHealth's main products include CPAP machines, oxygen concentrators, wheelchairs, and home accessibility products."
+        },
+        {
+            "question": "When was AdaptHealth founded?",
+            "answer": "AdaptHealth was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "LHCG",
+        "AMED",
+        "CMS",
+        "VTRS"
+    ],
+    "related_stocks": [
+        "UNH",
+        "AET",
+        "CI",
+        "HUM"
+    ]
+}

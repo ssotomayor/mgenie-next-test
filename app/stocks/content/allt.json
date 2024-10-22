@@ -1,0 +1,90 @@
+{
+    "ticker": "ALLT",
+    "name": "Allot Ltd.",
+    "description": "Allot Ltd. is a global leader in network intelligence and security solutions for service providers and enterprises. Founded in 1996 and headquartered in Hod Hasharon, Israel, Allot provides a comprehensive suite of solutions designed to enhance network performance and security. The company specializes in deep packet inspection (DPI) technologies that empower operators to visualize, analyze, and optimize network traffic. Allot's offerings include advanced analytics, bandwidth management, and cybersecurity solutions that protect networks from various threats. By leveraging its innovative technology, Allot enables operators to deliver better quality of service (QoS) and improve customer experience. The company's solutions are used by telecom operators, cable providers, and enterprises worldwide to ensure efficient network usage and robust security against cyber threats. Allot's mission is to enable service providers to realize their full potential by enhancing the user experience through actionable insights and proactive security measures. With a strong focus on R&D, Allot continuously innovates to address the evolving challenges of network management and security in an increasingly digital world.",
+    "industry": [
+        "Network Security",
+        "Telecommunications"
+    ],
+    "headquarters": "Hod Hasharon, Israel",
+    "founded": "1996",
+    "website": "https://www.allot.com",
+    "ceo": "Erez Antebi",
+    "social_media": {
+        "twitter": "https://twitter.com/AllotNet",
+        "linkedin": "https://www.linkedin.com/company/allot"
+    },
+    "investor_relations": "https://investors.allot.com",
+    "key_executives": [
+        {
+            "name": "Erez Antebi",
+            "position": "CEO"
+        },
+        {
+            "name": "Rami Hadar",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Network Intelligence",
+            "products": [
+                "Allot Service Gateway",
+                "Allot Cloud Security",
+                "Allot Analytics"
+            ]
+        },
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "DDoS Protection",
+                "Web Application Firewall"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Allot Ltd. | Network Intelligence and Cybersecurity Solutions",
+        "meta_description": "Explore Allot Ltd., a leader in network intelligence and cybersecurity solutions. Discover how Allot's technology enhances network performance and protects against cyber threats.",
+        "keywords": [
+            "Allot",
+            "Network Security",
+            "Network Intelligence",
+            "DPI",
+            "Cybersecurity",
+            "Telecommunications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Allot Ltd. specialize in?",
+            "answer": "Allot Ltd. specializes in network intelligence and cybersecurity solutions for service providers and enterprises."
+        },
+        {
+            "question": "Who is the CEO of Allot Ltd.?",
+            "answer": "Erez Antebi is the CEO of Allot Ltd."
+        },
+        {
+            "question": "Where is Allot Ltd. headquartered?",
+            "answer": "Allot Ltd. is headquartered in Hod Hasharon, Israel."
+        },
+        {
+            "question": "What are Allot's main products?",
+            "answer": "Allot's main products include the Allot Service Gateway, Allot Cloud Security, and Allot Analytics."
+        },
+        {
+            "question": "When was Allot Ltd. founded?",
+            "answer": "Allot Ltd. was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "NET",
+        "CSCO",
+        "ZIXI"
+    ],
+    "related_stocks": [
+        "FTNT",
+        "PANW",
+        "CRWD",
+        "SPLK"
+    ]
+}

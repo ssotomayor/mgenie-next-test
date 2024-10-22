@@ -1,0 +1,93 @@
+{
+    "ticker": "ROUS",
+    "name": "Roush Enterprises, Inc.",
+    "description": "Roush Enterprises, Inc. is a diversified company specializing in engineering, manufacturing, and product development across various industries, including automotive, aerospace, and defense. Founded in 1976 by Jack Roush, the company is best known for its performance automotive engineering, particularly in the racing sector. Roush Enterprises offers a wide range of services, including vehicle design, prototype development, and testing, providing solutions to both commercial and government clients. The company has a strong reputation for innovation and quality, having been involved in numerous successful racing programs, including partnerships with NASCAR and various motorsport teams. Beyond automotive, Roush Enterprises also provides engineering solutions for the aerospace and defense sectors, contributing to projects that require high levels of precision and reliability. With a commitment to excellence and a focus on customer satisfaction, Roush Enterprises continues to expand its capabilities and influence in multiple industries, leveraging advanced technologies and skilled personnel to deliver superior products and services.",
+    "industry": [
+        "Engineering",
+        "Automotive",
+        "Aerospace",
+        "Defense"
+    ],
+    "headquarters": "Livonia, Michigan, USA",
+    "founded": "1976",
+    "website": "https://www.roush.com",
+    "ceo": "Jack Roush",
+    "social_media": {
+        "twitter": "https://twitter.com/roushperformance",
+        "linkedin": "https://www.linkedin.com/company/roush-performance/"
+    },
+    "investor_relations": "https://www.roush.com/investors",
+    "key_executives": [
+        {
+            "name": "Jack Roush",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Roush",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automotive Performance Parts",
+            "products": [
+                "Superchargers",
+                "Exhaust Systems",
+                "Suspension Kits"
+            ]
+        },
+        {
+            "category": "Engineering Services",
+            "products": [
+                "Prototype Development",
+                "Testing Services",
+                "Vehicle Design"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Roush Enterprises, Inc. | Engineering and Automotive Solutions",
+        "meta_description": "Explore Roush Enterprises, Inc., a leader in automotive performance and engineering services. Discover their innovative solutions across various industries.",
+        "keywords": [
+            "Roush",
+            "Automotive Engineering",
+            "Performance Parts",
+            "Aerospace Engineering",
+            "Defense Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Roush Enterprises do?",
+            "answer": "Roush Enterprises specializes in engineering and manufacturing solutions across automotive, aerospace, and defense industries."
+        },
+        {
+            "question": "Who is the CEO of Roush Enterprises?",
+            "answer": "Jack Roush is the CEO of Roush Enterprises, Inc."
+        },
+        {
+            "question": "Where is Roush Enterprises headquartered?",
+            "answer": "Roush Enterprises is headquartered in Livonia, Michigan, USA."
+        },
+        {
+            "question": "What are Roush's main products?",
+            "answer": "Roush's main products include automotive performance parts and engineering services such as vehicle design and prototype development."
+        },
+        {
+            "question": "When was Roush Enterprises founded?",
+            "answer": "Roush Enterprises was founded in 1976."
+        }
+    ],
+    "competitors": [
+        "MOPAR",
+        "FORD",
+        "GM",
+        "HPE"
+    ],
+    "related_stocks": [
+        "F",
+        "GM",
+        "TSLA",
+        "NIO"
+    ]
+}

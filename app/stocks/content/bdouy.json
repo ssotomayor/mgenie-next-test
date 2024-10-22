@@ -1,0 +1,95 @@
+{
+    "ticker": "BDOUY",
+    "name": "Baidu, Inc.",
+    "description": "Baidu, Inc. is a leading Chinese technology company specializing in Internet-related services and products, as well as artificial intelligence (AI). Founded in 2000 by Robin Li and Eric Xu, Baidu has become one of the largest search engines in the world, serving billions of queries daily. The company's core service, Baidu Search, is complemented by numerous offerings, including Baidu Maps, Baidu Baike (an online encyclopedia), and Baidu Tieba (a social media platform). Baidu is also at the forefront of AI development in China, investing heavily in autonomous driving technology, deep learning, and natural language processing. The company\u2019s Apollo project is a significant initiative aiming to develop an open-source platform for autonomous driving, collaborating with various partners to enhance smart transportation solutions. Additionally, Baidu has ventured into cloud computing services, providing solutions for enterprises to harness the power of big data and AI. With a strong focus on innovation, Baidu is committed to enhancing user experience and driving digital transformation across industries. The company's mission is to make the complex world of information more accessible and useful through technology, while also contributing to the advancement of AI for societal benefit.",
+    "industry": [
+        "Technology",
+        "Internet Services"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "2000",
+    "website": "https://www.baidu.com",
+    "ceo": "Robin Li",
+    "social_media": {
+        "twitter": "https://twitter.com/Baidu",
+        "linkedin": "https://www.linkedin.com/company/baidu",
+        "youtube": "https://www.youtube.com/user/baidu"
+    },
+    "investor_relations": "https://ir.baidu.com",
+    "key_executives": [
+        {
+            "name": "Robin Li",
+            "position": "CEO"
+        },
+        {
+            "name": "Huang Yan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Search Engine",
+            "products": [
+                "Baidu Search",
+                "Baidu Maps"
+            ]
+        },
+        {
+            "category": "AI Products",
+            "products": [
+                "DuerOS",
+                "Apollo"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Baidu Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Baidu, Inc. | Leading Chinese Technology Company",
+        "meta_description": "Explore Baidu, Inc., a top technology firm in China known for its search engine and advancements in artificial intelligence. Learn about Baidu's innovative products and services.",
+        "keywords": [
+            "Baidu",
+            "Search Engine",
+            "Artificial Intelligence",
+            "Cloud Services",
+            "Autonomous Driving"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Baidu known for?",
+            "answer": "Baidu is known for its search engine, AI technology, and cloud computing services."
+        },
+        {
+            "question": "Who is the CEO of Baidu?",
+            "answer": "Robin Li is the CEO of Baidu, Inc."
+        },
+        {
+            "question": "Where is Baidu headquartered?",
+            "answer": "Baidu is headquartered in Beijing, China."
+        },
+        {
+            "question": "What are Baidu's main products?",
+            "answer": "Baidu's main products include Baidu Search, Baidu Maps, DuerOS, and Baidu Cloud."
+        },
+        {
+            "question": "When was Baidu founded?",
+            "answer": "Baidu was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "BIDU",
+        "AMZN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "FB",
+        "NFLX"
+    ]
+}

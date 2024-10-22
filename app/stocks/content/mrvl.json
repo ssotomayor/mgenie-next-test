@@ -1,0 +1,93 @@
+{
+    "ticker": "MRVL",
+    "name": "Marvell Technology, Inc.",
+    "description": "Marvell Technology, Inc. is a global leader in delivering storage, networking, and security solutions. Founded in 1995, Marvell has established itself as a key player in the semiconductor industry, providing innovative technologies that enable data infrastructure for cloud, enterprise, and automotive applications. The company specializes in the design and development of a wide range of products, including data center processors, networking solutions, and storage controllers, which are essential for enhancing performance and efficiency in data-driven environments. Marvell's commitment to advancing technology is reflected in its extensive portfolio, which supports next-generation applications such as 5G, AI, and machine learning. Headquartered in Santa Clara, California, Marvell operates globally, serving customers across various sectors including telecommunications, automotive, and enterprise computing. With a focus on sustainability and innovation, Marvell aims to empower its customers to build smarter and more efficient systems while addressing the growing demands of the digital world.",
+    "industry": [
+        "Semiconductors",
+        "Networking",
+        "Storage"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "1995",
+    "website": "https://www.marvell.com",
+    "ceo": "Matt Murphy",
+    "social_media": {
+        "twitter": "https://twitter.com/marvelltech",
+        "linkedin": "https://www.linkedin.com/company/marvell-technology/"
+    },
+    "investor_relations": "https://investors.marvell.com",
+    "key_executives": [
+        {
+            "name": "Matt Murphy",
+            "position": "CEO"
+        },
+        {
+            "name": "Dan Christman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Infrastructure",
+            "products": [
+                "Data Center Processors",
+                "Networking Solutions",
+                "Storage Controllers"
+            ]
+        },
+        {
+            "category": "Automotive Solutions",
+            "products": [
+                "Automotive Ethernet",
+                "Advanced Driver Assistance Systems (ADAS)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Marvell Technology, Inc. | Leading Semiconductor Solutions",
+        "meta_description": "Marvell Technology, Inc. is a leader in storage, networking, and security solutions, empowering data infrastructure for cloud and enterprise applications.",
+        "keywords": [
+            "Marvell",
+            "Semiconductors",
+            "Networking",
+            "Data Infrastructure",
+            "Storage Solutions",
+            "5G",
+            "AI"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Marvell Technology specialize in?",
+            "answer": "Marvell Technology specializes in delivering storage, networking, and security solutions in the semiconductor industry."
+        },
+        {
+            "question": "Who is the CEO of Marvell Technology?",
+            "answer": "Matt Murphy is the CEO of Marvell Technology, Inc."
+        },
+        {
+            "question": "Where is Marvell headquartered?",
+            "answer": "Marvell is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are Marvell's main products?",
+            "answer": "Marvell's main products include data center processors, networking solutions, and storage controllers."
+        },
+        {
+            "question": "When was Marvell founded?",
+            "answer": "Marvell was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "AVGO",
+        "INTC",
+        "QCOM",
+        "TXN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "NVDA"
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "ticker": "LGF.A",
+    "name": "Lions Gate Entertainment Corp.",
+    "description": "Lions Gate Entertainment Corp. is a prominent global entertainment company known for its film and television production, distribution, and content creation. Founded in 1997 and headquartered in Santa Monica, California, Lionsgate has established itself as a major player in the entertainment industry, producing acclaimed films such as the 'Hunger Games' series, 'John Wick', and 'Twilight', as well as popular television series like 'Mad Men' and 'Orange is the New Black'. The company operates through various segments including motion pictures, television productions, and international operations, catering to a diverse audience across multiple platforms. Lionsgate's commitment to storytelling and innovation has led to numerous accolades, including several Academy Awards and Golden Globe nominations. In recent years, Lionsgate has also focused on expanding its digital presence and streaming services, with its subscription service, Starz, gaining significant traction in the competitive streaming landscape. The company's mission is to connect with audiences through compelling narratives and high-quality entertainment, striving to be at the forefront of the evolving media landscape.",
+    "industry": [
+        "Entertainment",
+        "Media"
+    ],
+    "headquarters": "Santa Monica, California, USA",
+    "founded": "1997",
+    "website": "https://www.lionsgate.com",
+    "ceo": "Jon Feltheimer",
+    "social_media": {
+        "twitter": "https://twitter.com/Lionsgate",
+        "linkedin": "https://www.linkedin.com/company/lionsgate/",
+        "instagram": "https://www.instagram.com/lionsgate/",
+        "youtube": "https://www.youtube.com/user/Lionsgate"
+    },
+    "investor_relations": "https://www.lionsgate.com/investors",
+    "key_executives": [
+        {
+            "name": "Jon Feltheimer",
+            "position": "CEO"
+        },
+        {
+            "name": "Gabe Newell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Film Production",
+            "products": [
+                "Hunger Games Series",
+                "John Wick Series",
+                "Twilight Series"
+            ]
+        },
+        {
+            "category": "Television Production",
+            "products": [
+                "Mad Men",
+                "Orange is the New Black"
+            ]
+        },
+        {
+            "category": "Streaming Services",
+            "products": [
+                "Starz"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lions Gate Entertainment Corp. | Entertainment and Media",
+        "meta_description": "Explore Lions Gate Entertainment Corp., a leading global entertainment company known for its films, television, and streaming services. Discover their innovative content and industry impact.",
+        "keywords": [
+            "Lions Gate",
+            "Entertainment",
+            "Films",
+            "Television",
+            "Streaming",
+            "Hunger Games",
+            "John Wick"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Lions Gate known for?",
+            "answer": "Lions Gate is known for its production of popular films and television shows, including the 'Hunger Games' and 'John Wick' series."
+        },
+        {
+            "question": "Who is the CEO of Lions Gate?",
+            "answer": "Jon Feltheimer is the CEO of Lions Gate Entertainment Corp."
+        },
+        {
+            "question": "Where is Lions Gate headquartered?",
+            "answer": "Lions Gate is headquartered in Santa Monica, California, USA."
+        },
+        {
+            "question": "What are Lions Gate's main products?",
+            "answer": "Lions Gate's main products include films, television shows, and streaming services such as Starz."
+        },
+        {
+            "question": "When was Lions Gate founded?",
+            "answer": "Lions Gate was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "CMCSA",
+        "NFLX",
+        "VIAC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

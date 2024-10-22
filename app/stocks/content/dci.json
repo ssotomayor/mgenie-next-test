@@ -1,0 +1,89 @@
+{
+    "ticker": "DCI",
+    "name": "Donaldson Company, Inc.",
+    "description": "Donaldson Company, Inc. is a global leader in the filtration industry, dedicated to providing innovative solutions that improve air and liquid filtration. Founded in 1915 by L.P. Donaldson, the company has a long-standing reputation for excellence in manufacturing and distributing filtration systems and replacement parts for various industries, including aerospace, agriculture, automotive, construction, and food processing. With headquarters in Bloomington, Minnesota, Donaldson operates more than 140 locations worldwide, employing over 14,000 people. The company is committed to sustainability, focusing on developing products that enhance environmental performance and reduce emissions. Donaldson's extensive product portfolio includes air filters, fuel filters, hydraulic filters, and industrial dust collectors, which are vital for maintaining the efficiency and longevity of machinery and vehicles. The company invests significantly in research and development to drive technological advancements in filtration, ensuring its solutions meet the evolving needs of customers. With a strong focus on customer satisfaction and operational excellence, Donaldson continues to lead the way in providing innovative filtration solutions that protect people, equipment, and the environment.",
+    "industry": [
+        "Manufacturing",
+        "Filtration"
+    ],
+    "headquarters": "Bloomington, Minnesota, USA",
+    "founded": "1915",
+    "website": "https://www.donaldson.com",
+    "ceo": "Tod E. Carpenter",
+    "social_media": {
+        "twitter": "https://twitter.com/DonaldsonCo",
+        "linkedin": "https://www.linkedin.com/company/donaldson-company/"
+    },
+    "investor_relations": "https://investor.donaldson.com",
+    "key_executives": [
+        {
+            "name": "Tod E. Carpenter",
+            "position": "CEO"
+        },
+        {
+            "name": "Catherine J. H. Proulx",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Air Filtration",
+            "products": [
+                "Air Filters",
+                "Dust Collectors"
+            ]
+        },
+        {
+            "category": "Liquid Filtration",
+            "products": [
+                "Fuel Filters",
+                "Hydraulic Filters"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Donaldson Company, Inc. | Filtration Solutions for a Cleaner World",
+        "meta_description": "Explore Donaldson Company, Inc., a leader in filtration solutions, providing innovative products for air and liquid filtration across diverse industries.",
+        "keywords": [
+            "Donaldson",
+            "Filtration",
+            "Air Filters",
+            "Liquid Filters",
+            "Environmental Solutions",
+            "Sustainable Filtration"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Donaldson specialize in?",
+            "answer": "Donaldson specializes in air and liquid filtration solutions across various industries."
+        },
+        {
+            "question": "Who is the CEO of Donaldson?",
+            "answer": "Tod E. Carpenter is the CEO of Donaldson Company, Inc."
+        },
+        {
+            "question": "Where is Donaldson headquartered?",
+            "answer": "Donaldson is headquartered in Bloomington, Minnesota, USA."
+        },
+        {
+            "question": "What are the main products of Donaldson?",
+            "answer": "Donaldson's main products include air filters, fuel filters, hydraulic filters, and industrial dust collectors."
+        },
+        {
+            "question": "When was Donaldson founded?",
+            "answer": "Donaldson was founded in 1915."
+        }
+    ],
+    "competitors": [
+        "PFG",
+        "HII",
+        "MRCY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GE",
+        "HON"
+    ]
+}

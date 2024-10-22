@@ -1,0 +1,91 @@
+{
+    "ticker": "CHX",
+    "name": "ChampionX Corporation",
+    "description": "ChampionX Corporation is a leading provider of chemistry solutions and services, focusing on the oil and gas industry. Headquartered in The Woodlands, Texas, the company was formed through the merger of Apergy Corporation and ChampionX in 2020, combining their strengths in production and drilling chemicals, as well as reservoir management solutions. ChampionX delivers a comprehensive suite of products designed to enhance production efficiencies and optimize asset performance. Their innovative solutions include scale inhibitors, corrosion inhibitors, and biocides, which are critical for maintaining the integrity of oil and gas infrastructure. The company is committed to sustainability, offering environmentally friendly products and solutions that minimize the ecological footprint of its operations. ChampionX leverages advanced technology and data analytics to provide real-time insights and improve decision-making for its clients. With a strong global presence, ChampionX serves a diverse customer base, from independent operators to major integrated oil companies, ensuring they can maximize production while reducing costs and risks. The company is dedicated to safety and operational excellence, striving to deliver value through its technical expertise and customer-oriented approach.",
+    "industry": [
+        "Oil & Gas",
+        "Chemicals"
+    ],
+    "headquarters": "The Woodlands, Texas, USA",
+    "founded": "2020",
+    "website": "https://www.championx.com",
+    "ceo": "S. J. (Jim) Brown",
+    "social_media": {
+        "twitter": "https://twitter.com/ChampionXCorp",
+        "linkedin": "https://www.linkedin.com/company/championx/"
+    },
+    "investor_relations": "https://ir.championx.com",
+    "key_executives": [
+        {
+            "name": "S. J. (Jim) Brown",
+            "position": "CEO"
+        },
+        {
+            "name": "W. Scott Melton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Production Solutions",
+            "products": [
+                "Production Chemicals",
+                "Scale Inhibitors",
+                "Corrosion Inhibitors",
+                "Biocides"
+            ]
+        },
+        {
+            "category": "Drilling Solutions",
+            "products": [
+                "Drilling Fluids",
+                "Completion Chemicals"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ChampionX Corporation | Innovative Chemistry Solutions for Oil & Gas",
+        "meta_description": "Explore ChampionX Corporation, a leader in chemistry solutions for the oil and gas industry. Learn about our products, services, and commitment to sustainability.",
+        "keywords": [
+            "ChampionX",
+            "Oil and Gas",
+            "Production Chemicals",
+            "Drilling Solutions",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ChampionX do?",
+            "answer": "ChampionX provides chemistry solutions and services for the oil and gas industry, focusing on production and drilling."
+        },
+        {
+            "question": "Who is the CEO of ChampionX?",
+            "answer": "The CEO of ChampionX Corporation is S. J. (Jim) Brown."
+        },
+        {
+            "question": "Where is ChampionX headquartered?",
+            "answer": "ChampionX is headquartered in The Woodlands, Texas, USA."
+        },
+        {
+            "question": "What are ChampionX's main products?",
+            "answer": "ChampionX's main products include production chemicals, scale inhibitors, corrosion inhibitors, and drilling fluids."
+        },
+        {
+            "question": "When was ChampionX founded?",
+            "answer": "ChampionX was formed in 2020 through the merger of Apergy Corporation and ChampionX."
+        }
+    ],
+    "competitors": [
+        "SLB",
+        "HAL",
+        "BKR",
+        "OXY"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "COP",
+        "BP"
+    ]
+}

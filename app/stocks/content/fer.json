@@ -1,0 +1,91 @@
+{
+    "ticker": "FER",
+    "name": "Ferrari N.V.",
+    "description": "Ferrari N.V. is an iconic luxury sports car manufacturer known for its high-performance vehicles and rich racing heritage. Founded in 1939 by Enzo Ferrari, the company has built a reputation for excellence in automotive engineering, design, and innovation. Headquartered in Maranello, Italy, Ferrari produces a limited number of exclusive models that combine cutting-edge technology with luxury and performance. The brand is synonymous with speed, power, and prestige, maintaining a strong presence in both the consumer market and competitive motorsport, particularly in Formula One racing. Ferrari's product lineup includes models such as the Ferrari 488, F8 Tributo, and the SF90 Stradale, each designed to deliver an unparalleled driving experience. The company is also committed to sustainability, investing in hybrid technology and aiming to reduce its environmental impact while maintaining the performance standards that define the brand. With a unique blend of heritage, craftsmanship, and innovation, Ferrari continues to captivate automotive enthusiasts around the world.",
+    "industry": [
+        "Automotive",
+        "Luxury Goods"
+    ],
+    "headquarters": "Maranello, Italy",
+    "founded": "1939",
+    "website": "https://www.ferrari.com",
+    "ceo": "Benedetto Vigna",
+    "social_media": {
+        "twitter": "https://twitter.com/Ferrari",
+        "linkedin": "https://www.linkedin.com/company/ferrari/",
+        "instagram": "https://www.instagram.com/ferrari/",
+        "youtube": "https://www.youtube.com/user/Ferrari"
+    },
+    "investor_relations": "https://investors.ferrari.com",
+    "key_executives": [
+        {
+            "name": "Benedetto Vigna",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard W. W. W. H. B. K. L. C. J. C. O. J. B. E. R. J. W. M. A. M. D. R.",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Sports Cars",
+            "products": [
+                "Ferrari 488",
+                "F8 Tributo",
+                "SF90 Stradale"
+            ]
+        },
+        {
+            "category": "Merchandise",
+            "products": [
+                "Apparel",
+                "Accessories"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ferrari N.V. | Luxury Sports Cars and Performance",
+        "meta_description": "Explore Ferrari N.V., the iconic manufacturer of luxury sports cars. Discover Ferrari's history, models, and commitment to performance and innovation.",
+        "keywords": [
+            "Ferrari",
+            "Luxury Cars",
+            "Sports Cars",
+            "Performance",
+            "Italian Automotive",
+            "Enzo Ferrari"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Ferrari known for?",
+            "answer": "Ferrari is known for its high-performance luxury sports cars and its success in motorsport, particularly in Formula One."
+        },
+        {
+            "question": "Who is the CEO of Ferrari?",
+            "answer": "Benedetto Vigna is the CEO of Ferrari N.V."
+        },
+        {
+            "question": "Where is Ferrari headquartered?",
+            "answer": "Ferrari is headquartered in Maranello, Italy."
+        },
+        {
+            "question": "What are Ferrari's main products?",
+            "answer": "Ferrari's main products include luxury sports cars like the Ferrari 488, F8 Tributo, and SF90 Stradale."
+        },
+        {
+            "question": "When was Ferrari founded?",
+            "answer": "Ferrari was founded in 1939."
+        }
+    ],
+    "competitors": [
+        "Porsche",
+        "LVMH",
+        "MCLAREN"
+    ],
+    "related_stocks": [
+        "BMW",
+        "FCAU",
+        "TM"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "EDOW",
+    "name": "Edo World, Inc.",
+    "description": "Edo World, Inc. is a global leader in digital marketing solutions, specializing in delivering data-driven strategies for brands looking to enhance their online presence and customer engagement. Founded in 2010, Edo World has rapidly evolved into a full-service digital marketing agency, combining innovative technology with creative expertise to provide comprehensive marketing services. The company offers a wide range of services, including search engine optimization (SEO), pay-per-click advertising (PPC), social media marketing, content creation, and email marketing. Edo World is recognized for its ability to harness the power of data analytics to drive measurable results, helping businesses of all sizes navigate the complexities of the digital landscape. The company's mission is to empower brands to connect with their audiences effectively and to maximize their return on investment through tailored digital marketing strategies. With a commitment to staying ahead of industry trends, Edo World is continuously evolving its offerings to include the latest technologies, such as artificial intelligence and machine learning in marketing automation. The company prides itself on its customer-centric approach, ensuring that each client receives personalized service and support to achieve their unique business goals.",
+    "industry": [
+        "Digital Marketing",
+        "Advertising"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2010",
+    "website": "https://www.edoworld.com",
+    "ceo": "Jessica Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/EdoWorld",
+        "linkedin": "https://www.linkedin.com/company/edoworld",
+        "facebook": "https://www.facebook.com/edoworld"
+    },
+    "investor_relations": "https://ir.edoworld.com",
+    "key_executives": [
+        {
+            "name": "Jessica Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Marketing Services",
+            "products": [
+                "SEO",
+                "PPC Advertising",
+                "Social Media Marketing",
+                "Content Marketing",
+                "Email Marketing"
+            ]
+        },
+        {
+            "category": "Analytics and Reporting",
+            "products": [
+                "Performance Analytics",
+                "Marketing Automation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Edo World, Inc. | Digital Marketing Solutions",
+        "meta_description": "Edo World, Inc. specializes in data-driven digital marketing solutions, helping brands enhance their online presence and customer engagement.",
+        "keywords": [
+            "Edo World",
+            "Digital Marketing",
+            "SEO",
+            "PPC",
+            "Social Media",
+            "Content Marketing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Edo World offer?",
+            "answer": "Edo World offers a range of digital marketing services including SEO, PPC advertising, social media marketing, content marketing, and email marketing."
+        },
+        {
+            "question": "Who is the CEO of Edo World?",
+            "answer": "Jessica Smith is the CEO of Edo World, Inc."
+        },
+        {
+            "question": "Where is Edo World headquartered?",
+            "answer": "Edo World is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Edo World founded?",
+            "answer": "Edo World was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "FB",
+        "TWTR",
+        "SNAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "NFLX"
+    ]
+}

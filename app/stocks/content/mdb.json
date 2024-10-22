@@ -1,0 +1,90 @@
+{
+    "ticker": "MDB",
+    "name": "MongoDB, Inc.",
+    "description": "MongoDB, Inc. is a leading provider of modern database solutions, known for its innovative NoSQL database platform that empowers developers to create and manage applications at scale. Founded in 2007 by Dwight Merriman, Eliot Horowitz, and Kevin P. Ryan, MongoDB has transformed the way organizations handle data, providing a flexible and scalable alternative to traditional relational databases. The company's flagship product, MongoDB, allows for the storage and retrieval of data in a document-oriented format, enabling developers to build applications with agility and speed. MongoDB is particularly well-suited for handling unstructured data and real-time analytics, making it a popular choice among enterprises across various industries, including finance, healthcare, and technology. The company offers a range of services, including cloud-based solutions, support, and consulting, as well as robust tools for data integration and management. With a strong focus on community engagement and open-source development, MongoDB continues to innovate in the database space, driving the adoption of modern data technologies worldwide.",
+    "industry": [
+        "Technology",
+        "Software"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2007",
+    "website": "https://www.mongodb.com",
+    "ceo": "Dev Ittycheria",
+    "social_media": {
+        "twitter": "https://twitter.com/mongodb",
+        "linkedin": "https://www.linkedin.com/company/mongodb/"
+    },
+    "investor_relations": "https://investors.mongodb.com",
+    "key_executives": [
+        {
+            "name": "Dev Ittycheria",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Gordon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Database Solutions",
+            "products": [
+                "MongoDB Atlas",
+                "MongoDB Community Server"
+            ]
+        },
+        {
+            "category": "Data Management",
+            "products": [
+                "MongoDB Compass",
+                "Atlas Data Lake"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MongoDB, Inc. | Leading NoSQL Database Solutions",
+        "meta_description": "Explore MongoDB, Inc., the leader in modern database solutions with its innovative NoSQL platform. Learn about our products, mission, and impact on the data management landscape.",
+        "keywords": [
+            "MongoDB",
+            "NoSQL",
+            "Database Solutions",
+            "Data Management",
+            "Modern Databases",
+            "Cloud Database"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is MongoDB known for?",
+            "answer": "MongoDB is known for its NoSQL database platform that allows for flexible data storage and retrieval."
+        },
+        {
+            "question": "Who is the CEO of MongoDB?",
+            "answer": "Dev Ittycheria is the CEO of MongoDB, Inc."
+        },
+        {
+            "question": "Where is MongoDB headquartered?",
+            "answer": "MongoDB is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are MongoDB's main products?",
+            "answer": "MongoDB's main products include MongoDB Atlas, a cloud database service, and MongoDB Community Server."
+        },
+        {
+            "question": "When was MongoDB founded?",
+            "answer": "MongoDB was founded in 2007."
+        }
+    ],
+    "competitors": [
+        "ORCL",
+        "MSFT",
+        "DBX",
+        "NOW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CRM"
+    ]
+}

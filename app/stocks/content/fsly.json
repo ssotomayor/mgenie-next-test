@@ -1,0 +1,91 @@
+{
+    "ticker": "FSLY",
+    "name": "Fastly, Inc.",
+    "description": "Fastly, Inc. is a leading edge cloud computing services provider that specializes in content delivery network (CDN) services. Founded in 2011 by Artur Bergman, Fastly aims to help businesses deliver digital experiences faster and more securely. The company\u2019s innovative platform is designed to optimize the delivery of web content, applications, and APIs, ensuring low latency and high performance across various devices and locations. Fastly's edge cloud platform empowers developers to build, secure, and scale applications seamlessly while providing real-time analytics and insights. With a strong focus on performance and security, Fastly offers services such as image optimization, video streaming, and DDoS protection, catering to a diverse range of industries including media, e-commerce, and technology. Fastly\u2019s mission is to provide businesses with the tools they need to succeed in an increasingly digital world while simplifying the complexities of delivering content at scale. The company is committed to innovation and continuously enhances its offerings to meet the evolving needs of its customers.",
+    "industry": [
+        "Cloud Computing",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2011",
+    "website": "https://www.fastly.com",
+    "ceo": "Joshua Bixby",
+    "social_media": {
+        "twitter": "https://twitter.com/fastly",
+        "linkedin": "https://www.linkedin.com/company/fastly/"
+    },
+    "investor_relations": "https://investors.fastly.com",
+    "key_executives": [
+        {
+            "name": "Joshua Bixby",
+            "position": "CEO"
+        },
+        {
+            "name": "Artur Bergman",
+            "position": "Co-Founder and Executive Chairman"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Content Delivery Network",
+            "products": [
+                "Edge Cloud Platform",
+                "Image Optimization",
+                "Video Streaming"
+            ]
+        },
+        {
+            "category": "Security Solutions",
+            "products": [
+                "DDoS Protection",
+                "Web Application Firewall"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fastly, Inc. | Edge Cloud Platform and CDN Services",
+        "meta_description": "Explore Fastly, Inc., a leader in edge cloud computing and CDN services. Learn about Fastly's innovative technology and its impact on digital content delivery.",
+        "keywords": [
+            "Fastly",
+            "CDN",
+            "Edge Cloud",
+            "Digital Experiences",
+            "Content Delivery Network",
+            "Web Performance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fastly do?",
+            "answer": "Fastly provides edge cloud computing services and content delivery network solutions to optimize the delivery of web content and applications."
+        },
+        {
+            "question": "Who is the CEO of Fastly?",
+            "answer": "Joshua Bixby is the CEO of Fastly, Inc."
+        },
+        {
+            "question": "Where is Fastly headquartered?",
+            "answer": "Fastly is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Fastly's main products?",
+            "answer": "Fastly's main products include its Edge Cloud Platform, image optimization services, and DDoS protection."
+        },
+        {
+            "question": "When was Fastly founded?",
+            "answer": "Fastly was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "AKAM",
+        "CDAY",
+        "NET",
+        "CLOU"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "MSFT",
+        "AAPL"
+    ]
+}

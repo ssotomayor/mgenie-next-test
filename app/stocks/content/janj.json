@@ -1,0 +1,81 @@
+{
+    "ticker": "JANJ",
+    "name": "JanOne Inc.",
+    "description": "JanOne Inc. is a pioneering biotechnology company focused on developing innovative therapies for chronic pain management and other serious medical conditions. Founded in 2019 and headquartered in Las Vegas, Nevada, JanOne is dedicated to improving the quality of life for patients suffering from conditions such as neuropathic pain. The company leverages its proprietary drug formulation technology to create novel therapeutic solutions that aim to be safer and more effective than existing treatment options. JanOne's lead product candidate, JAN101, is an innovative drug designed to target the underlying causes of pain, providing patients with a new option for relief without the risks associated with traditional opioid medications. The company is committed to advancing its research and development efforts through strategic collaborations and partnerships to bring its products to market. With a strong emphasis on clinical trials, JanOne is focused on delivering groundbreaking therapies that address unmet medical needs while ensuring patient safety and efficacy. The company's mission is to transform pain management and enhance the overall health and well-being of individuals suffering from chronic pain.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Las Vegas, Nevada, USA",
+    "founded": "2019",
+    "website": "https://www.janone.com",
+    "ceo": "Anthony Mack",
+    "social_media": {
+        "twitter": "https://twitter.com/janoneinc",
+        "linkedin": "https://www.linkedin.com/company/janone-inc/"
+    },
+    "investor_relations": "https://www.janone.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Anthony Mack",
+            "position": "CEO"
+        },
+        {
+            "name": "David B. B. Kaye",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Therapeutics",
+            "products": [
+                "JAN101"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "JanOne Inc. | Innovative Pain Management Solutions",
+        "meta_description": "Explore JanOne Inc., a leader in biotechnology focused on developing innovative therapies for chronic pain and serious medical conditions. Discover our mission and product pipeline.",
+        "keywords": [
+            "JanOne",
+            "Biotechnology",
+            "Chronic Pain",
+            "Pain Management",
+            "JAN101",
+            "Therapeutics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is JanOne known for?",
+            "answer": "JanOne is known for its innovative therapies targeting chronic pain and other serious medical conditions."
+        },
+        {
+            "question": "Who is the CEO of JanOne?",
+            "answer": "Anthony Mack is the CEO of JanOne Inc."
+        },
+        {
+            "question": "Where is JanOne headquartered?",
+            "answer": "JanOne is headquartered in Las Vegas, Nevada, USA."
+        },
+        {
+            "question": "What is JanOne's main product?",
+            "answer": "JanOne's main product candidate is JAN101, aimed at treating chronic pain."
+        },
+        {
+            "question": "When was JanOne founded?",
+            "answer": "JanOne was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "VRTX",
+        "REGN"
+    ],
+    "related_stocks": [
+        "GILD",
+        "MRNA",
+        "BMY",
+        "PFE"
+    ]
+}

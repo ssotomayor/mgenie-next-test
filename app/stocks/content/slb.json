@@ -1,0 +1,89 @@
+{
+    "ticker": "SLB",
+    "name": "Schlumberger Limited",
+    "description": "Schlumberger Limited is a leading global provider of technology and services for the oil and gas industry. Founded in 1926 by Conrad and Marcel Schlumberger, the company has grown to become an essential player in the energy sector, offering a comprehensive range of solutions across the entire oilfield lifecycle. Schlumberger operates in over 120 countries and employs a workforce of approximately 100,000. The company specializes in oilfield services, including drilling, production, and reservoir management. Schlumberger is known for its innovative technologies, such as advanced seismic imaging, drilling optimization, and data analytics, which enhance the efficiency and productivity of oil and gas operations. Committed to sustainability, Schlumberger is actively involved in initiatives that aim to reduce the environmental impact of energy production and promote the transition to cleaner energy sources. The company\u2019s mission is to provide integrated solutions that optimize reservoir performance and support its clients in meeting the world's growing energy demands.",
+    "industry": [
+        "Energy",
+        "Oilfield Services"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1926",
+    "website": "https://www.slb.com",
+    "ceo": "Olivier Le Peuch",
+    "social_media": {
+        "twitter": "https://twitter.com/Schlumberger",
+        "linkedin": "https://www.linkedin.com/company/schlumberger/"
+    },
+    "investor_relations": "https://investorcenter.slb.com",
+    "key_executives": [
+        {
+            "name": "Olivier Le Peuch",
+            "position": "CEO"
+        },
+        {
+            "name": "Simon Ayat",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oilfield Services",
+            "products": [
+                "Drilling Services",
+                "Reservoir Characterization",
+                "Production Optimization"
+            ]
+        },
+        {
+            "category": "Software Solutions",
+            "products": [
+                "Data Analytics",
+                "Petrotechnical Software"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Schlumberger Limited | Oilfield Services and Technology Solutions",
+        "meta_description": "Explore Schlumberger Limited, a leader in oilfield services and technology solutions for the energy industry. Learn about Schlumberger's innovative approaches and commitment to sustainability.",
+        "keywords": [
+            "Schlumberger",
+            "Oilfield Services",
+            "Energy Technology",
+            "Drilling Services",
+            "Reservoir Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Schlumberger do?",
+            "answer": "Schlumberger provides technology and services for the oil and gas industry, focusing on oilfield services and innovative solutions."
+        },
+        {
+            "question": "Who is the CEO of Schlumberger?",
+            "answer": "Olivier Le Peuch is the CEO of Schlumberger Limited."
+        },
+        {
+            "question": "Where is Schlumberger headquartered?",
+            "answer": "Schlumberger is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "What are Schlumberger's main products?",
+            "answer": "Schlumberger's main products include drilling services, reservoir characterization, and production optimization solutions."
+        },
+        {
+            "question": "When was Schlumberger founded?",
+            "answer": "Schlumberger was founded in 1926."
+        }
+    ],
+    "competitors": [
+        "HAL",
+        "BKR",
+        "PTEN"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "OXY",
+        "BP"
+    ]
+}

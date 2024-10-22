@@ -1,0 +1,111 @@
+{
+    "ticker": "GODNU",
+    "name": "Godaddy Inc.",
+    "description": "GoDaddy Inc. is a leading technology company that empowers everyday entrepreneurs by providing them with a range of online services to establish and grow their businesses. Founded in 1997 by Bob Parsons, GoDaddy has become the world\u2019s largest domain registrar and a top web hosting provider. The company offers a comprehensive suite of products including domain name registration, website hosting, website builders, online marketing tools, and eCommerce solutions. GoDaddy's mission is to help small businesses thrive online with user-friendly tools that simplify the complexities of web presence and digital marketing. In recent years, GoDaddy has expanded its offerings to include advanced security features, professional email services, and digital marketing strategies, ensuring that its customers can compete effectively in the digital landscape. With a commitment to customer service, GoDaddy provides 24/7 support to help entrepreneurs navigate their online journeys. The company\u2019s extensive knowledge base and user community further support users in maximizing their online potential.",
+    "industry": [
+        "Technology",
+        "Internet Services"
+    ],
+    "headquarters": "Scottsdale, Arizona, USA",
+    "founded": "1997",
+    "website": "https://www.godaddy.com",
+    "ceo": "Aman Bhutani",
+    "social_media": {
+        "twitter": "https://twitter.com/GoDaddy",
+        "linkedin": "https://www.linkedin.com/company/godaddy",
+        "instagram": "https://www.instagram.com/godaddy",
+        "youtube": "https://www.youtube.com/user/godaddy"
+    },
+    "investor_relations": "https://investors.godaddy.com",
+    "key_executives": [
+        {
+            "name": "Aman Bhutani",
+            "position": "CEO"
+        },
+        {
+            "name": "Scott Wagner",
+            "position": "Executive Chairman"
+        },
+        {
+            "name": "Ray Winborne",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Domain Services",
+            "products": [
+                "Domain Registration",
+                "Domain Transfer"
+            ]
+        },
+        {
+            "category": "Web Hosting",
+            "products": [
+                "Shared Hosting",
+                "VPS Hosting",
+                "WordPress Hosting"
+            ]
+        },
+        {
+            "category": "Website Builders",
+            "products": [
+                "GoDaddy Website Builder",
+                "GoDaddy Online Store"
+            ]
+        },
+        {
+            "category": "Online Marketing",
+            "products": [
+                "SEO Tools",
+                "Email Marketing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "GoDaddy Inc. | Empowering Entrepreneurs Online",
+        "meta_description": "Explore GoDaddy Inc., the largest domain registrar and web hosting provider. Discover tools for building and growing your online presence.",
+        "keywords": [
+            "GoDaddy",
+            "Domain Registration",
+            "Web Hosting",
+            "Website Builder",
+            "Online Marketing",
+            "eCommerce"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does GoDaddy offer?",
+            "answer": "GoDaddy offers domain registration, web hosting, website builders, online marketing tools, and eCommerce solutions."
+        },
+        {
+            "question": "Who is the CEO of GoDaddy?",
+            "answer": "Aman Bhutani is the CEO of GoDaddy Inc."
+        },
+        {
+            "question": "Where is GoDaddy headquartered?",
+            "answer": "GoDaddy is headquartered in Scottsdale, Arizona, USA."
+        },
+        {
+            "question": "What is GoDaddy known for?",
+            "answer": "GoDaddy is known for being the world's largest domain registrar and a leading web hosting provider."
+        },
+        {
+            "question": "When was GoDaddy founded?",
+            "answer": "GoDaddy was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "WIX",
+        "SQ",
+        "CLOUDFLARE",
+        "FIVERR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

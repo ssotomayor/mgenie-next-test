@@ -1,0 +1,93 @@
+{
+    "ticker": "GM",
+    "name": "General Motors Company",
+    "description": "General Motors Company (GM) is a global automotive industry leader that designs, manufactures, markets, and distributes vehicles and vehicle parts. Founded in 1908 and headquartered in Detroit, Michigan, GM has a rich history of innovation and commitment to advancing mobility for all. The company produces a wide range of vehicles under various brands, including Chevrolet, GMC, Cadillac, and Buick. GM has made significant strides in electric vehicle (EV) technology with its Chevrolet Bolt EV and aims to transition to an all-electric future. The company is committed to sustainability and aims to become carbon neutral in its global products and operations by 2040. GM is also investing in autonomous vehicle technology and has partnered with various organizations to enhance its capabilities in this domain. With a strong emphasis on safety, technology, and performance, GM continues to adapt to the evolving automotive landscape while maintaining its core values of reliability and quality.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Detroit, Michigan, USA",
+    "founded": "1908",
+    "website": "https://www.gm.com",
+    "ceo": "Mary Barra",
+    "social_media": {
+        "twitter": "https://twitter.com/GM",
+        "linkedin": "https://www.linkedin.com/company/general-motors/",
+        "instagram": "https://www.instagram.com/gm/",
+        "youtube": "https://www.youtube.com/user/GeneralMotors"
+    },
+    "investor_relations": "https://investor.gm.com",
+    "key_executives": [
+        {
+            "name": "Mary Barra",
+            "position": "Chairman and CEO"
+        },
+        {
+            "name": "Paul Jacobson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "Chevrolet Bolt EV",
+                "GMC Hummer EV"
+            ]
+        },
+        {
+            "category": "Traditional Vehicles",
+            "products": [
+                "Chevrolet Silverado",
+                "Cadillac Escalade",
+                "Buick Enclave"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "General Motors Company | Automotive Industry Leader",
+        "meta_description": "Explore General Motors Company, a leader in the automotive industry committed to innovation, sustainability, and electric vehicle technology. Learn about GM's brands and products.",
+        "keywords": [
+            "General Motors",
+            "GM",
+            "Electric Vehicles",
+            "Sustainability",
+            "Chevrolet",
+            "Cadillac",
+            "GMC"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is General Motors known for?",
+            "answer": "General Motors is known for manufacturing a wide range of vehicles, including electric vehicles and traditional combustion engine vehicles."
+        },
+        {
+            "question": "Who is the CEO of General Motors?",
+            "answer": "Mary Barra is the Chairman and CEO of General Motors Company."
+        },
+        {
+            "question": "Where is General Motors headquartered?",
+            "answer": "General Motors is headquartered in Detroit, Michigan, USA."
+        },
+        {
+            "question": "What are General Motors' main products?",
+            "answer": "GM's main products include the Chevrolet Bolt EV, GMC Hummer EV, Chevrolet Silverado, Cadillac Escalade, and Buick Enclave."
+        },
+        {
+            "question": "When was General Motors founded?",
+            "answer": "General Motors was founded in 1908."
+        }
+    ],
+    "competitors": [
+        "F",
+        "TSLA",
+        "HMC",
+        "STLA"
+    ],
+    "related_stocks": [
+        "F",
+        "TSLA",
+        "HMC",
+        "STLA"
+    ]
+}

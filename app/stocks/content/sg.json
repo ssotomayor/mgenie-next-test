@@ -1,0 +1,97 @@
+{
+    "ticker": "SG",
+    "name": "Seagate Technology Holdings PLC",
+    "description": "Seagate Technology Holdings PLC is a leading provider of data storage solutions, renowned for its innovative hard disk drives (HDDs) and solid-state drives (SSDs). Founded in 1978 and headquartered in Cupertino, California, Seagate plays a critical role in the digital storage industry, catering to a wide array of markets including consumer electronics, enterprise systems, and cloud storage. The company is recognized for its commitment to quality and reliability, producing products that help individuals and enterprises store, access, and protect their data. Seagate's product portfolio includes HDDs for desktops, laptops, and external storage solutions, as well as high-performance SSDs that meet the demands of modern computing environments. As the world continues to generate vast amounts of data, Seagate is at the forefront of developing cutting-edge storage technologies, including advanced data recovery services and cloud storage solutions. The company's mission is to empower people and organizations to harness the power of data with confidence, ensuring it is secure, accessible, and manageable. Seagate is also actively engaged in sustainability initiatives, aiming to minimize its environmental impact through energy-efficient product designs and responsible manufacturing practices.",
+    "industry": [
+        "Technology",
+        "Data Storage"
+    ],
+    "headquarters": "Cupertino, California, USA",
+    "founded": "1978",
+    "website": "https://www.seagate.com",
+    "ceo": "Dave Mosley",
+    "social_media": {
+        "twitter": "https://twitter.com/Seagate",
+        "linkedin": "https://www.linkedin.com/company/seagate-technology/"
+    },
+    "investor_relations": "https://www.seagate.com/investors/",
+    "key_executives": [
+        {
+            "name": "Dave Mosley",
+            "position": "CEO"
+        },
+        {
+            "name": "Glen A. E. Burchers",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Hard Disk Drives",
+            "products": [
+                "Barracuda",
+                "IronWolf",
+                "SkyHawk"
+            ]
+        },
+        {
+            "category": "Solid State Drives",
+            "products": [
+                "FireCuda",
+                "IronWolf SSD"
+            ]
+        },
+        {
+            "category": "External Storage",
+            "products": [
+                "Backup Plus",
+                "Expansion"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Seagate Technology Holdings PLC | Data Storage Solutions",
+        "meta_description": "Explore Seagate Technology, a leader in data storage solutions, offering innovative HDDs and SSDs for various applications. Discover Seagate's commitment to quality and sustainability.",
+        "keywords": [
+            "Seagate",
+            "Data Storage",
+            "Hard Disk Drives",
+            "SSDs",
+            "Cloud Storage",
+            "Data Recovery"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Seagate offer?",
+            "answer": "Seagate offers hard disk drives, solid-state drives, and external storage solutions."
+        },
+        {
+            "question": "Who is the CEO of Seagate?",
+            "answer": "Dave Mosley is the CEO of Seagate Technology Holdings PLC."
+        },
+        {
+            "question": "Where is Seagate headquartered?",
+            "answer": "Seagate is headquartered in Cupertino, California, USA."
+        },
+        {
+            "question": "When was Seagate founded?",
+            "answer": "Seagate was founded in 1978."
+        },
+        {
+            "question": "What industries does Seagate serve?",
+            "answer": "Seagate serves consumer electronics, enterprise systems, and cloud storage markets."
+        }
+    ],
+    "competitors": [
+        "WDC",
+        "STX",
+        "MU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "GOOGL"
+    ]
+}

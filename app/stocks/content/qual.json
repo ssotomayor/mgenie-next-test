@@ -1,0 +1,98 @@
+{
+    "ticker": "QUAL",
+    "name": "Qualcomm Incorporated",
+    "description": "Qualcomm Incorporated is a global leader in semiconductor technology and telecommunications equipment, specializing in wireless technology and mobile communications. Founded in 1985 by Irwin Jacobs and a group of engineers, Qualcomm is renowned for its innovations in CDMA (Code Division Multiple Access) technology, which revolutionized mobile communications and paved the way for 3G, 4G, and 5G networks. The company's extensive portfolio includes mobile processors, modem chips, and a wide array of software solutions that enable connectivity across devices. Qualcomm's Snapdragon platform powers a significant number of smartphones and tablets worldwide, providing cutting-edge performance, AI capabilities, and enhanced graphics. Beyond mobile, Qualcomm is at the forefront of the Internet of Things (IoT), automotive technology, and smart cities, driving advancements in 5G infrastructure and applications. The company is committed to fostering innovation and creating a connected world, with a focus on sustainability and social responsibility. Qualcomm's strategic partnerships with leading technology firms enhance its position in the industry, enabling the development of next-generation technologies that transform how people communicate and interact with their devices.",
+    "industry": [
+        "Semiconductors",
+        "Telecommunications"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "1985",
+    "website": "https://www.qualcomm.com",
+    "ceo": "Cristiano Amon",
+    "social_media": {
+        "twitter": "https://twitter.com/Qualcomm",
+        "linkedin": "https://www.linkedin.com/company/qualcomm",
+        "instagram": "https://www.instagram.com/qualcomm",
+        "youtube": "https://www.youtube.com/user/Qualcomm"
+    },
+    "investor_relations": "https://investor.qualcomm.com",
+    "key_executives": [
+        {
+            "name": "Cristiano Amon",
+            "position": "President and CEO"
+        },
+        {
+            "name": "Akash Palkhiwala",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mobile Technologies",
+            "products": [
+                "Snapdragon Processors",
+                "5G Modems"
+            ]
+        },
+        {
+            "category": "Automotive Solutions",
+            "products": [
+                "Automotive Platforms",
+                "Telematics Solutions"
+            ]
+        },
+        {
+            "category": "Internet of Things",
+            "products": [
+                "IoT Connectivity Solutions",
+                "Smart Home Devices"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Qualcomm Incorporated | Leading Wireless Technology Innovator",
+        "meta_description": "Explore Qualcomm Incorporated, a leader in semiconductor technology and mobile communications, driving innovations in 5G, IoT, and automotive solutions.",
+        "keywords": [
+            "Qualcomm",
+            "Semiconductors",
+            "5G Technology",
+            "Mobile Processors",
+            "IoT",
+            "Snapdragon"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Qualcomm known for?",
+            "answer": "Qualcomm is known for its semiconductor technology, mobile processors, and contributions to wireless communications."
+        },
+        {
+            "question": "Who is the CEO of Qualcomm?",
+            "answer": "Cristiano Amon is the President and CEO of Qualcomm Incorporated."
+        },
+        {
+            "question": "Where is Qualcomm headquartered?",
+            "answer": "Qualcomm is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What are Qualcomm's main products?",
+            "answer": "Qualcomm's main products include Snapdragon processors, 5G modems, and automotive solutions."
+        },
+        {
+            "question": "When was Qualcomm founded?",
+            "answer": "Qualcomm was founded in 1985."
+        }
+    ],
+    "competitors": [
+        "NVDA",
+        "INTC",
+        "AMD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "TSLA"
+    ]
+}

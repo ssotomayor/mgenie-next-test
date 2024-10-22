@@ -1,0 +1,91 @@
+{
+    "ticker": "RDWR",
+    "name": "Radware Ltd.",
+    "description": "Radware Ltd. is a leading provider of application delivery and cyber security services for virtual, cloud, and software-defined data centers. Founded in 1997 and headquartered in Tel Aviv, Israel, Radware specializes in ensuring that applications are always available, fast, and secure. The company's flagship products include application delivery controllers, load balancers, and advanced cyber security solutions designed to protect against DDoS attacks and other online threats. Radware's service portfolio encompasses a wide range of solutions, including cloud-based security, application performance monitoring, and managed services. With a focus on innovation and customer satisfaction, Radware leverages cutting-edge technologies such as artificial intelligence and machine learning to enhance its offerings. The company serves a diverse clientele across various sectors, including finance, healthcare, e-commerce, and telecommunications, helping organizations to maintain the integrity and performance of their critical applications. Radware's mission is to provide real-time application delivery and cyber security solutions that enable businesses to thrive in an increasingly digital world, ensuring that their users experience seamless and secure interactions.",
+    "industry": [
+        "Information Technology",
+        "Cyber Security",
+        "Cloud Services"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "1997",
+    "website": "https://www.radware.com",
+    "ceo": "Roy Zisapel",
+    "social_media": {
+        "twitter": "https://twitter.com/Radware",
+        "linkedin": "https://www.linkedin.com/company/radware"
+    },
+    "investor_relations": "https://www.radware.com/investors",
+    "key_executives": [
+        {
+            "name": "Roy Zisapel",
+            "position": "CEO"
+        },
+        {
+            "name": "Miki S. Pomerantz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Application Delivery",
+            "products": [
+                "Application Delivery Controller",
+                "Load Balancer"
+            ]
+        },
+        {
+            "category": "Cyber Security",
+            "products": [
+                "DDoS Protection",
+                "Web Application Firewall"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Radware Ltd. | Application Delivery and Cyber Security Solutions",
+        "meta_description": "Explore Radware Ltd., a leader in application delivery and cyber security services. Discover Radware's innovative solutions for secure and reliable cloud applications.",
+        "keywords": [
+            "Radware",
+            "Cyber Security",
+            "Application Delivery",
+            "DDoS Protection",
+            "Load Balancer",
+            "Cloud Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Radware specialize in?",
+            "answer": "Radware specializes in application delivery and cyber security services for data centers."
+        },
+        {
+            "question": "Who is the CEO of Radware?",
+            "answer": "Roy Zisapel is the CEO of Radware Ltd."
+        },
+        {
+            "question": "Where is Radware headquartered?",
+            "answer": "Radware is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What are Radware's main products?",
+            "answer": "Radware's main products include application delivery controllers, load balancers, and cyber security solutions."
+        },
+        {
+            "question": "When was Radware founded?",
+            "answer": "Radware was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "AKAM",
+        "CLOU",
+        "FTNT",
+        "NET"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

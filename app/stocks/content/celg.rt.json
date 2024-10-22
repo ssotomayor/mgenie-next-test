@@ -1,0 +1,90 @@
+{
+    "ticker": "CELG.RT",
+    "name": "Celgene Corporation",
+    "description": "Celgene Corporation, now part of Bristol-Myers Squibb, is a global biopharmaceutical company focused on the discovery, development, and commercialization of innovative therapies for cancer and inflammatory disorders. Established in 1986, Celgene pioneered the development of innovative treatments, including the blockbuster drug Revlimid, used primarily for multiple myeloma and other blood cancers. The company has a strong emphasis on research and development, with a significant portion of its revenue reinvested into advancing new therapies that target unmet medical needs. Celgene's portfolio includes a range of therapies aimed at hematology, oncology, and immunology, solidifying its position as a leader in the biopharmaceutical sector. The company is dedicated to improving patient outcomes and enhancing the quality of life for those affected by serious diseases. Celgene's mission encompasses the commitment to scientific excellence and fostering collaborations to accelerate the pace of new drug discovery. As part of Bristol-Myers Squibb since 2019, Celgene continues to leverage its strengths in science and innovation to deliver meaningful advancements in medicine.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Summit, New Jersey, USA",
+    "founded": "1986",
+    "website": "https://www.celgene.com",
+    "ceo": "Giovanni Caforio",
+    "social_media": {
+        "twitter": "https://twitter.com/BMSNews",
+        "linkedin": "https://www.linkedin.com/company/celgene"
+    },
+    "investor_relations": "https://investors.bms.com",
+    "key_executives": [
+        {
+            "name": "Giovanni Caforio",
+            "position": "CEO"
+        },
+        {
+            "name": "David Elkins",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "Revlimid",
+                "Pomalyst",
+                "Abraxane"
+            ]
+        },
+        {
+            "category": "Inflammation",
+            "products": [
+                "Otezla"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Celgene Corporation | Innovative Biopharmaceuticals",
+        "meta_description": "Explore Celgene Corporation, a leader in biopharmaceuticals focused on cancer and inflammatory disorders. Discover their innovative therapies and commitment to advancing medicine.",
+        "keywords": [
+            "Celgene",
+            "Biopharmaceuticals",
+            "Cancer Treatment",
+            "Revlimid",
+            "Otezla",
+            "Bristol-Myers Squibb"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Celgene known for?",
+            "answer": "Celgene is known for its innovative therapies for cancer and inflammatory disorders, including Revlimid and Otezla."
+        },
+        {
+            "question": "Who is the CEO of Celgene?",
+            "answer": "Giovanni Caforio is the CEO of Celgene Corporation."
+        },
+        {
+            "question": "Where is Celgene headquartered?",
+            "answer": "Celgene is headquartered in Summit, New Jersey, USA."
+        },
+        {
+            "question": "What are Celgene's main products?",
+            "answer": "Celgene's main products include Revlimid, Pomalyst, Abraxane, and Otezla."
+        },
+        {
+            "question": "When was Celgene founded?",
+            "answer": "Celgene was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "GILD",
+        "REGN",
+        "VRTX"
+    ],
+    "related_stocks": [
+        "PFE",
+        "JNJ",
+        "ABBV",
+        "MRK"
+    ]
+}

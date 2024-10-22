@@ -1,0 +1,97 @@
+{
+    "ticker": "RBC",
+    "name": "Royal Bank of Canada",
+    "description": "Royal Bank of Canada (RBC) is one of the largest and most diversified financial institutions in North America, providing a wide range of financial services to personal, business, and commercial clients. Founded in 1864 in Halifax, Nova Scotia, RBC has grown to become a global leader in financial services, with a presence in 36 countries. The bank offers services in personal and commercial banking, wealth management, insurance, investor services, and capital markets. RBC is committed to innovation and sustainability, regularly investing in technology to enhance customer experience and drive operational efficiency. The bank has a strong focus on community engagement and environmental stewardship, dedicating resources to philanthropic initiatives and sustainable practices. RBC\u2019s mission is to help clients thrive and communities prosper, emphasizing a customer-first approach and a commitment to ethical practices and governance. With a robust digital banking platform, RBC is at the forefront of the fintech revolution, providing clients with seamless access to their banking needs through mobile and online services.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1864",
+    "website": "https://www.rbc.com",
+    "ceo": "Dave McKay",
+    "social_media": {
+        "twitter": "https://twitter.com/RBC",
+        "linkedin": "https://www.linkedin.com/company/royal-bank-of-canada/"
+    },
+    "investor_relations": "https://www.rbc.com/investors",
+    "key_executives": [
+        {
+            "name": "Dave McKay",
+            "position": "CEO"
+        },
+        {
+            "name": "Rod Bolger",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advice",
+                "Retirement Planning",
+                "Insurance Solutions"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Business Loans",
+                "Merchant Services",
+                "Corporate Banking"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Royal Bank of Canada | Comprehensive Financial Solutions",
+        "meta_description": "Explore Royal Bank of Canada (RBC), a leading financial institution offering a wide array of banking and financial services. Discover RBC's commitment to innovation, community, and sustainability.",
+        "keywords": [
+            "Royal Bank of Canada",
+            "RBC",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Investment Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does RBC offer?",
+            "answer": "RBC offers a variety of financial services including personal banking, wealth management, insurance, and capital markets."
+        },
+        {
+            "question": "Who is the CEO of RBC?",
+            "answer": "Dave McKay is the CEO of Royal Bank of Canada."
+        },
+        {
+            "question": "Where is RBC headquartered?",
+            "answer": "RBC is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was RBC founded?",
+            "answer": "RBC was founded in 1864."
+        }
+    ],
+    "competitors": [
+        "TD",
+        "BMO",
+        "CIBC",
+        "JPM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

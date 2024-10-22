@@ -1,0 +1,91 @@
+{
+    "ticker": "FUNC",
+    "name": "First United Corporation",
+    "description": "First United Corporation is a financial holding company headquartered in Oakland, Maryland. Established in 1988, the company primarily operates through its wholly-owned subsidiary, First United Bank & Trust, which provides a range of banking services, including personal banking, business banking, and wealth management solutions. With a strong commitment to community banking, First United aims to enhance the financial well-being of its customers and communities through tailored financial products and services. The bank offers checking and savings accounts, loans, mortgages, and investment services, catering to both individual and corporate clients. First United is dedicated to leveraging technology to enhance customer experience, providing online and mobile banking solutions that make managing finances convenient and secure. The company emphasizes its community involvement, supporting local initiatives and charities, aligning its mission with the needs of the communities it serves. First United Corporation strives to maintain a strong financial performance while fostering long-term relationships with its customers, contributing to the economic vitality of the region.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Oakland, Maryland, USA",
+    "founded": "1988",
+    "website": "https://www.firstunitedbank.com",
+    "ceo": "Carrie L. Ritchie",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstUnitedBank",
+        "linkedin": "https://www.linkedin.com/company/first-united-bank-and-trust/"
+    },
+    "investor_relations": "https://www.firstunitedcorp.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Carrie L. Ritchie",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael D. Herring",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Loans",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First United Corporation | Community Banking and Financial Services",
+        "meta_description": "Explore First United Corporation, a community bank offering a variety of banking and wealth management services tailored to individual and business needs.",
+        "keywords": [
+            "First United",
+            "Banking",
+            "Financial Services",
+            "Community Bank",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First United Corporation offer?",
+            "answer": "First United Corporation offers personal banking, business banking, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of First United Corporation?",
+            "answer": "Carrie L. Ritchie is the CEO of First United Corporation."
+        },
+        {
+            "question": "Where is First United headquartered?",
+            "answer": "First United is headquartered in Oakland, Maryland, USA."
+        },
+        {
+            "question": "What types of accounts can I open with First United?",
+            "answer": "You can open checking accounts, savings accounts, loans, and mortgages with First United."
+        },
+        {
+            "question": "When was First United Corporation founded?",
+            "answer": "First United Corporation was founded in 1988."
+        }
+    ],
+    "competitors": [
+        "FRC",
+        "BAC",
+        "WFC",
+        "JPM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

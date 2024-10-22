@@ -1,0 +1,96 @@
+{
+    "ticker": "MS.PRA",
+    "name": "Morgan Stanley",
+    "description": "Morgan Stanley is a global financial services firm that provides a wide range of investment banking, securities, wealth management, and investment management services. Founded in 1935, the firm serves a diverse group of clients including corporations, governments, institutions, and individuals. Morgan Stanley is recognized for its expertise in capital markets, mergers and acquisitions, and asset management, making it a trusted advisor in the financial industry. The firm operates through three main business segments: Institutional Securities, Wealth Management, and Investment Management. With a strong emphasis on innovation and technology, Morgan Stanley continually enhances its service offerings to meet the evolving needs of its clients. The company is committed to sustainable finance and responsible investing, integrating environmental, social, and governance (ESG) factors into its investment processes. Morgan Stanley is also known for its robust global presence, with offices in more than 40 countries, and a team of highly skilled professionals dedicated to delivering exceptional results. The company's mission is to promote economic growth and create long-term value for its stakeholders.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Wealth Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1935",
+    "website": "https://www.morganstanley.com",
+    "ceo": "James Gorman",
+    "social_media": {
+        "twitter": "https://twitter.com/MorganStanley",
+        "linkedin": "https://www.linkedin.com/company/morgan-stanley/"
+    },
+    "investor_relations": "https://www.morganstanley.com/what-we-do/investor-relations",
+    "key_executives": [
+        {
+            "name": "James Gorman",
+            "position": "CEO"
+        },
+        {
+            "name": "Jonathan Pruzan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions Advisory",
+                "Capital Raising",
+                "Restructuring"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Financial Planning",
+                "Investment Advisory",
+                "Retirement Planning"
+            ]
+        },
+        {
+            "category": "Investment Management",
+            "products": [
+                "Mutual Funds",
+                "Alternative Investments",
+                "Institutional Asset Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Morgan Stanley | Global Financial Services Firm",
+        "meta_description": "Explore Morgan Stanley, a leading global financial services firm providing investment banking, wealth management, and investment management services.",
+        "keywords": [
+            "Morgan Stanley",
+            "Investment Banking",
+            "Wealth Management",
+            "Financial Services",
+            "James Gorman"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Morgan Stanley provide?",
+            "answer": "Morgan Stanley provides investment banking, wealth management, and investment management services."
+        },
+        {
+            "question": "Who is the CEO of Morgan Stanley?",
+            "answer": "James Gorman is the CEO of Morgan Stanley."
+        },
+        {
+            "question": "Where is Morgan Stanley headquartered?",
+            "answer": "Morgan Stanley is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Morgan Stanley founded?",
+            "answer": "Morgan Stanley was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "GS",
+        "JPM",
+        "BAC",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ticker": "LMND.WS",
+    "name": "Lemonade, Inc.",
+    "description": "Lemonade, Inc. is a technology-driven insurance company that fundamentally changes the way insurance is bought and managed. Founded in 2015 by Daniel Schreiber and Shai Wininger, Lemonade leverages artificial intelligence and behavioral economics to offer renters, homeowners, pet, and life insurance. The company\u2019s unique approach promotes transparency and trust, allowing customers to purchase insurance via a user-friendly mobile app or website in a matter of minutes. Lemonade\u2019s business model is built around a flat fee structure, which means that any leftover money after paying claims is donated to charities chosen by customers, creating a strong community-focused ethos. The company\u2019s AI chatbot, named \u201cMaya,\u201d assists users through the process of signing up for insurance and filing claims, making the experience seamless and efficient. With a focus on customer-centricity and a commitment to social good, Lemonade is redefining the insurance industry and appealing to a younger demographic who values convenience and corporate responsibility. As of now, Lemonade operates in several states across the USA and is expanding its reach internationally, aiming to transform the traditional insurance landscape into a more accessible and user-friendly environment.",
+    "industry": [
+        "Insurance",
+        "Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2015",
+    "website": "https://www.lemonade.com",
+    "ceo": "Daniel Schreiber",
+    "social_media": {
+        "twitter": "https://twitter.com/lemonade_inc",
+        "linkedin": "https://www.linkedin.com/company/lemonade-inc/"
+    },
+    "investor_relations": "https://investors.lemonade.com",
+    "key_executives": [
+        {
+            "name": "Daniel Schreiber",
+            "position": "CEO"
+        },
+        {
+            "name": "Shai Wininger",
+            "position": "Co-Founder & COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Renters Insurance",
+                "Homeowners Insurance",
+                "Pet Insurance",
+                "Life Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lemonade, Inc. | Innovative Insurance Solutions",
+        "meta_description": "Explore Lemonade, Inc., a technology-driven insurance company that offers renters, homeowners, pet, and life insurance through a user-friendly app. Discover our commitment to transparency and social good.",
+        "keywords": [
+            "Lemonade",
+            "Insurance",
+            "Tech Insurance",
+            "Renters Insurance",
+            "Homeowners Insurance",
+            "Pet Insurance",
+            "Life Insurance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of insurance does Lemonade offer?",
+            "answer": "Lemonade offers renters, homeowners, pet, and life insurance."
+        },
+        {
+            "question": "How does Lemonade's claims process work?",
+            "answer": "Claims can be filed through the Lemonade app or website and are processed by their AI chatbot, making it quick and easy."
+        },
+        {
+            "question": "Is Lemonade a traditional insurance company?",
+            "answer": "No, Lemonade uses technology and a unique business model to provide insurance in a more customer-friendly way."
+        },
+        {
+            "question": "Where is Lemonade headquartered?",
+            "answer": "Lemonade is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was Lemonade founded?",
+            "answer": "Lemonade was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "ROOT",
+        "CNC",
+        "HIG",
+        "AFG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

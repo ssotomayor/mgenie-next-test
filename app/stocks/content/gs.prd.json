@@ -1,0 +1,92 @@
+{
+    "ticker": "GS.PRD",
+    "name": "Goldman Sachs Group, Inc. (Preferred Shares)",
+    "description": "Goldman Sachs Group, Inc. is a leading global investment banking, securities, and investment management firm that provides a wide range of financial services to a substantial and diversified client base. Founded in 1869, Goldman Sachs has established itself as a premier institution in the financial services industry, with a reputation for excellence and innovation. The firm serves corporations, financial institutions, governments, and individuals, offering services such as investment banking, asset management, securities trading, and wealth management. Goldman Sachs has a strong presence in major financial centers around the world, including New York, London, and Hong Kong. The firm is known for its robust research capabilities and for being at the forefront of market trends, which enables it to provide insightful advice and strategic solutions to its clients. Goldman Sachs is committed to sustainability and corporate social responsibility, actively engaging in initiatives that promote economic development and social equity. The company also invests in technology and innovation to enhance its service offerings and improve operational efficiency. With a rich history and a focus on delivering value to clients, Goldman Sachs continues to be a leader in the financial services sector, navigating complex markets and delivering results.",
+    "industry": [
+        "Investment Banking",
+        "Financial Services"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1869",
+    "website": "https://www.goldmansachs.com",
+    "ceo": "David Solomon",
+    "social_media": {
+        "twitter": "https://twitter.com/goldmansachs",
+        "linkedin": "https://www.linkedin.com/company/goldman-sachs/"
+    },
+    "investor_relations": "https://www.goldmansachs.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "David Solomon",
+            "position": "CEO"
+        },
+        {
+            "name": "Stephen Scherr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Banking",
+            "products": [
+                "Mergers and Acquisitions Advisory",
+                "Underwriting Services"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "products": [
+                "Investment Funds",
+                "Wealth Management"
+            ]
+        },
+        {
+            "category": "Securities Trading",
+            "products": [
+                "Equities Trading",
+                "Fixed Income Trading"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Goldman Sachs Group, Inc. | Investment Banking & Financial Services",
+        "meta_description": "Explore Goldman Sachs Group, Inc., a leading global investment banking and financial services firm. Discover their innovative solutions and client-focused strategies.",
+        "keywords": [
+            "Goldman Sachs",
+            "Investment Banking",
+            "Financial Services",
+            "Asset Management",
+            "Securities Trading"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Goldman Sachs offer?",
+            "answer": "Goldman Sachs offers services in investment banking, asset management, securities trading, and wealth management."
+        },
+        {
+            "question": "Who is the CEO of Goldman Sachs?",
+            "answer": "David Solomon is the CEO of Goldman Sachs Group, Inc."
+        },
+        {
+            "question": "Where is Goldman Sachs headquartered?",
+            "answer": "Goldman Sachs is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "When was Goldman Sachs founded?",
+            "answer": "Goldman Sachs was founded in 1869."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "MS",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

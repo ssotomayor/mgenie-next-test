@@ -1,0 +1,99 @@
+{
+    "ticker": "MET",
+    "name": "MetLife, Inc.",
+    "description": "MetLife, Inc. is a leading global provider of insurance, annuities, and employee benefit programs, serving approximately 90 million customers in over 40 countries. Founded in 1868, MetLife has established itself as a trusted name in the insurance industry, offering a comprehensive range of products including life insurance, health insurance, dental insurance, and retirement solutions. The company is dedicated to helping individuals and families secure their financial future while providing innovative solutions to meet the evolving needs of its customers. MetLife operates through various segments, including U.S. Individual Insurance, U.S. Group Benefits, and International, each focusing on delivering tailored insurance and retirement products. With a strong commitment to corporate social responsibility, MetLife supports community initiatives and promotes sustainable practices. The company also leverages technology to enhance customer experience, streamline operations, and improve accessibility to its services. MetLife's mission is to build a more confident future for its customers by providing peace of mind through reliable financial protection.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1868",
+    "website": "https://www.metlife.com",
+    "ceo": "Michel Khalaf",
+    "social_media": {
+        "twitter": "https://twitter.com/MetLife",
+        "linkedin": "https://www.linkedin.com/company/metlife/"
+    },
+    "investor_relations": "https://investor.metlife.com",
+    "key_executives": [
+        {
+            "name": "Michel Khalaf",
+            "position": "CEO"
+        },
+        {
+            "name": "John McCall",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Life Insurance",
+            "products": [
+                "Term Life Insurance",
+                "Whole Life Insurance",
+                "Universal Life Insurance"
+            ]
+        },
+        {
+            "category": "Employee Benefits",
+            "products": [
+                "Group Life Insurance",
+                "Disability Insurance",
+                "Dental Insurance"
+            ]
+        },
+        {
+            "category": "Retirement Solutions",
+            "products": [
+                "Annuities",
+                "Retirement Plans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "MetLife, Inc. | Insurance and Financial Services",
+        "meta_description": "Discover MetLife, Inc., a global leader in insurance and financial services. Explore MetLife's comprehensive products and commitment to customer security and community support.",
+        "keywords": [
+            "MetLife",
+            "Insurance",
+            "Life Insurance",
+            "Employee Benefits",
+            "Retirement Solutions",
+            "Financial Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does MetLife offer?",
+            "answer": "MetLife offers a range of insurance products, including life insurance, health insurance, and retirement solutions."
+        },
+        {
+            "question": "Who is the CEO of MetLife?",
+            "answer": "Michel Khalaf is the CEO of MetLife, Inc."
+        },
+        {
+            "question": "Where is MetLife headquartered?",
+            "answer": "MetLife is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are MetLife's main products?",
+            "answer": "MetLife's main products include life insurance, employee benefits, and retirement solutions."
+        },
+        {
+            "question": "When was MetLife founded?",
+            "answer": "MetLife was founded in 1868."
+        }
+    ],
+    "competitors": [
+        "PRU",
+        "AFL",
+        "LNC",
+        "MET"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

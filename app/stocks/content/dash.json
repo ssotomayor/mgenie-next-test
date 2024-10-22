@@ -1,0 +1,87 @@
+{
+    "ticker": "DASH",
+    "name": "DoorDash, Inc.",
+    "description": "DoorDash, Inc. is a leading on-demand food delivery service that connects consumers with local restaurants and merchants. Founded in 2013 by Tony Xu, Stanley Tang, Andy Fang, and Evan Moore, DoorDash is headquartered in San Francisco, California. The platform allows users to order food from their favorite restaurants through a user-friendly mobile app or website, with the added convenience of having it delivered directly to their doorsteps. DoorDash operates in the United States, Canada, and Australia, making it one of the largest food delivery networks in the world. The company's mission is to empower local economies by helping local businesses thrive through increased accessibility. DoorDash also offers services such as DashPass, a subscription service that provides customers with reduced delivery fees and exclusive offers. Additionally, DoorDash has expanded its offerings to include grocery delivery and convenience items, further solidifying its role as a comprehensive delivery service. With a focus on innovation and customer satisfaction, DoorDash continues to enhance its technology and logistics capabilities to meet the growing demand for convenient delivery options.",
+    "industry": [
+        "Food Delivery",
+        "E-commerce"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2013",
+    "website": "https://www.doordash.com",
+    "ceo": "Tony Xu",
+    "social_media": {
+        "twitter": "https://twitter.com/doordash",
+        "linkedin": "https://www.linkedin.com/company/doordash"
+    },
+    "investor_relations": "https://ir.doordash.com",
+    "key_executives": [
+        {
+            "name": "Tony Xu",
+            "position": "CEO"
+        },
+        {
+            "name": "Prabir Adarkar",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Food Delivery",
+            "products": [
+                "Restaurant Delivery",
+                "Grocery Delivery"
+            ]
+        },
+        {
+            "category": "Subscription Services",
+            "products": [
+                "DashPass"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DoorDash, Inc. | On-Demand Food Delivery Service",
+        "meta_description": "Discover DoorDash, Inc., a leader in on-demand food delivery. Explore the services offered, mission, and impact on local economies.",
+        "keywords": [
+            "DoorDash",
+            "Food Delivery",
+            "E-commerce",
+            "DashPass",
+            "Restaurant Delivery"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does DoorDash offer?",
+            "answer": "DoorDash offers on-demand food delivery from restaurants, as well as grocery and convenience item delivery."
+        },
+        {
+            "question": "Who is the CEO of DoorDash?",
+            "answer": "Tony Xu is the CEO of DoorDash, Inc."
+        },
+        {
+            "question": "Where is DoorDash headquartered?",
+            "answer": "DoorDash is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What is DashPass?",
+            "answer": "DashPass is a subscription service offered by DoorDash that provides reduced delivery fees and exclusive offers."
+        },
+        {
+            "question": "When was DoorDash founded?",
+            "answer": "DoorDash was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "UBER",
+        "GRUB",
+        "ZOMATO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "NFLX"
+    ]
+}

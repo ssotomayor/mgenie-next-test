@@ -1,0 +1,96 @@
+{
+    "ticker": "APD",
+    "name": "Air Products and Chemicals, Inc.",
+    "description": "Air Products and Chemicals, Inc. is a leading global industrial gases company that provides essential products and services to a diverse range of industries. Founded in 1940 and headquartered in Allentown, Pennsylvania, the company specializes in the production of atmospheric gases such as nitrogen, oxygen, and argon, as well as a variety of process gases for industrial operations. Air Products is committed to innovation and sustainability, offering solutions that enhance energy efficiency and reduce emissions. The company serves customers in various sectors, including energy, healthcare, and manufacturing, and plays a key role in supporting the transition to clean energy through its involvement in hydrogen production and carbon capture technologies. With a strong global presence and a focus on safety and reliability, Air Products continues to lead in the development of innovative gas solutions that meet the evolving needs of its customers worldwide.",
+    "industry": [
+        "Industrial Gases",
+        "Chemicals",
+        "Energy"
+    ],
+    "headquarters": "Allentown, Pennsylvania, USA",
+    "founded": "1940",
+    "website": "https://www.airproducts.com",
+    "ceo": "Seifi Ghasemi",
+    "social_media": {
+        "twitter": "https://twitter.com/AirProducts",
+        "linkedin": "https://www.linkedin.com/company/air-products"
+    },
+    "investor_relations": "https://investors.airproducts.com",
+    "key_executives": [
+        {
+            "name": "Seifi Ghasemi",
+            "position": "Chairman, President and CEO"
+        },
+        {
+            "name": "Samir J. Serhan",
+            "position": "Chief Operating Officer"
+        },
+        {
+            "name": "Paul H. Huck",
+            "position": "Chief Financial Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Industrial Gases",
+            "products": [
+                "Oxygen",
+                "Nitrogen",
+                "Argon",
+                "Hydrogen"
+            ]
+        },
+        {
+            "category": "Specialty Gases",
+            "products": [
+                "Carbon Dioxide",
+                "Acetylene"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Air Products and Chemicals, Inc. | Global Leader in Industrial Gases",
+        "meta_description": "Explore Air Products and Chemicals, Inc., a leader in industrial gases and chemicals, providing essential solutions for energy efficiency and sustainability.",
+        "keywords": [
+            "Air Products",
+            "Industrial Gases",
+            "Chemicals",
+            "Sustainable Energy",
+            "Hydrogen Production",
+            "Carbon Capture"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Air Products specialize in?",
+            "answer": "Air Products specializes in the production of industrial gases such as oxygen, nitrogen, and hydrogen."
+        },
+        {
+            "question": "Who is the CEO of Air Products?",
+            "answer": "Seifi Ghasemi is the Chairman, President, and CEO of Air Products and Chemicals, Inc."
+        },
+        {
+            "question": "Where is Air Products headquartered?",
+            "answer": "Air Products is headquartered in Allentown, Pennsylvania, USA."
+        },
+        {
+            "question": "What are Air Products' main products?",
+            "answer": "Air Products' main products include industrial gases like oxygen, nitrogen, argon, and hydrogen, as well as specialty gases."
+        },
+        {
+            "question": "When was Air Products founded?",
+            "answer": "Air Products was founded in 1940."
+        }
+    ],
+    "competitors": [
+        "LIN",
+        "Praxair",
+        "AIR"
+    ],
+    "related_stocks": [
+        "DOW",
+        "BASF",
+        "SLB",
+        "MPC"
+    ]
+}

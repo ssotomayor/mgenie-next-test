@@ -1,0 +1,98 @@
+{
+    "ticker": "DOCN",
+    "name": "DigitalOcean Holdings, Inc.",
+    "description": "DigitalOcean Holdings, Inc. is a prominent cloud infrastructure provider focused on simplifying cloud computing for developers and businesses. Founded in 2011, DigitalOcean has rapidly grown into a key player in the tech industry by offering a reliable, user-friendly platform for deploying and scaling applications that meet the needs of developers and small to medium-sized businesses. DigitalOcean's services include cloud computing, storage solutions, and database management, all designed to empower users to build, manage, and scale applications with ease. The company is particularly known for its Droplets, which are scalable virtual machines that provide flexible computing power, and its Kubernetes-based container management service, which simplifies the deployment of containerized applications. With a commitment to accessibility and innovation, DigitalOcean strives to make cloud technology approachable for everyone, reducing the complexity often associated with cloud services. The company also emphasizes community engagement through extensive educational resources, tutorials, and support, fostering a collaborative environment for developers to learn and grow. DigitalOcean's mission is to enable developers to launch their ideas quickly and efficiently, thereby accelerating their journey towards success in a competitive market.",
+    "industry": [
+        "Cloud Computing",
+        "Information Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2011",
+    "website": "https://www.digitalocean.com",
+    "ceo": "Yancey Spruill",
+    "social_media": {
+        "twitter": "https://twitter.com/DigitalOcean",
+        "linkedin": "https://www.linkedin.com/company/digitalocean/"
+    },
+    "investor_relations": "https://investors.digitalocean.com",
+    "key_executives": [
+        {
+            "name": "Yancey Spruill",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy Tso",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "Droplets",
+                "Kubernetes",
+                "App Platform"
+            ]
+        },
+        {
+            "category": "Storage Solutions",
+            "products": [
+                "Spaces",
+                "Volumes"
+            ]
+        },
+        {
+            "category": "Database Management",
+            "products": [
+                "Managed Databases",
+                "Database Clusters"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "DigitalOcean | Cloud Infrastructure for Developers",
+        "meta_description": "DigitalOcean offers an easy and affordable cloud infrastructure for developers and businesses. Discover how DigitalOcean simplifies cloud computing.",
+        "keywords": [
+            "DigitalOcean",
+            "Cloud Computing",
+            "Developers",
+            "Kubernetes",
+            "Virtual Machines",
+            "Droplets"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does DigitalOcean do?",
+            "answer": "DigitalOcean provides cloud infrastructure services and tools for developers and businesses to build and scale applications."
+        },
+        {
+            "question": "Who is the CEO of DigitalOcean?",
+            "answer": "Yancey Spruill is the CEO of DigitalOcean Holdings, Inc."
+        },
+        {
+            "question": "Where is DigitalOcean headquartered?",
+            "answer": "DigitalOcean is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are DigitalOcean's main products?",
+            "answer": "DigitalOcean's main products include Droplets, Kubernetes, App Platform, Spaces, and Managed Databases."
+        },
+        {
+            "question": "When was DigitalOcean founded?",
+            "answer": "DigitalOcean was founded in 2011."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "GOOG",
+        "MSFT",
+        "IBM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NOW",
+        "CRM",
+        "ORCL"
+    ]
+}

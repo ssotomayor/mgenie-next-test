@@ -1,0 +1,87 @@
+{
+    "ticker": "SIDU",
+    "name": "Sidus Space, Inc.",
+    "description": "Sidus Space, Inc. is a pioneering aerospace company focused on providing innovative satellite and space solutions. Founded in 2012, Sidus aims to bridge the gap between commercial space and terrestrial applications, offering advanced satellite technology and services to various industries, including telecommunications, Earth observation, and scientific research. The company is known for its LizzieSat satellite, which is designed to support a range of small satellite missions, including data collection and communication. Sidus Space leverages its expertise in satellite engineering, payload integration, and launch services to empower clients with tailored solutions that meet their specific needs. With a commitment to sustainability and efficiency, Sidus Space is also exploring avenues for sustainable space operations and debris mitigation. The company operates from its headquarters in Merritt Island, Florida, and is strategically positioned to support the growing demand for space-based solutions in the commercial sector. Sidus Space continues to innovate in the aerospace field, working towards making space more accessible for a variety of applications, thereby contributing to advancements in technology and communications on Earth.",
+    "industry": [
+        "Aerospace",
+        "Satellite Technology"
+    ],
+    "headquarters": "Merritt Island, Florida, USA",
+    "founded": "2012",
+    "website": "https://www.sidusspace.com",
+    "ceo": "Carol Craig",
+    "social_media": {
+        "twitter": "https://twitter.com/sidusspace",
+        "linkedin": "https://www.linkedin.com/company/sidus-space/"
+    },
+    "investor_relations": "https://www.sidusspace.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Carol Craig",
+            "position": "CEO"
+        },
+        {
+            "name": "Andrew H. DeSantis",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellites",
+            "products": [
+                "LizzieSat"
+            ]
+        },
+        {
+            "category": "Launch Services",
+            "products": [
+                "Payload Integration",
+                "Launch Support"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sidus Space, Inc. | Innovative Satellite and Space Solutions",
+        "meta_description": "Explore Sidus Space, Inc., a leader in satellite technology and aerospace solutions. Discover our innovative products and commitment to making space accessible.",
+        "keywords": [
+            "Sidus Space",
+            "Satellite Technology",
+            "Aerospace",
+            "LizzieSat",
+            "Space Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sidus Space do?",
+            "answer": "Sidus Space specializes in providing innovative satellite technology and space solutions for various industries."
+        },
+        {
+            "question": "Who is the CEO of Sidus Space?",
+            "answer": "Carol Craig is the CEO of Sidus Space, Inc."
+        },
+        {
+            "question": "Where is Sidus Space headquartered?",
+            "answer": "Sidus Space is headquartered in Merritt Island, Florida, USA."
+        },
+        {
+            "question": "What are Sidus Space's main products?",
+            "answer": "Sidus Space's main products include the LizzieSat satellite and related launch services."
+        },
+        {
+            "question": "When was Sidus Space founded?",
+            "answer": "Sidus Space was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "MAXR",
+        "SPCE",
+        "AERW"
+    ],
+    "related_stocks": [
+        "LMT",
+        "NOC",
+        "BA",
+        "RTX"
+    ]
+}

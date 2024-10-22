@@ -1,0 +1,90 @@
+{
+    "ticker": "NYT",
+    "name": "The New York Times Company",
+    "description": "The New York Times Company is a leading media organization that publishes The New York Times, a renowned global newspaper known for its rigorous journalism, in-depth reporting, and comprehensive coverage of national and international news. Founded in 1851, The New York Times has evolved from a print-centric publication to a digital-first media company, embracing the rapid changes in technology and consumer behavior. The company aims to inform and engage the public through quality journalism, covering a wide array of topics including politics, business, technology, science, arts, and sports. In addition to the flagship newspaper, The New York Times Company operates various digital platforms, including mobile apps and websites, aimed at delivering news and insights to a global audience. The company has successfully transitioned to a subscription-based model, which has significantly contributed to its revenue growth in recent years. With a strong commitment to editorial independence and public service, The New York Times continues to uphold its legacy while innovating to meet the challenges of the digital age. The company's mission is to seek the truth and help people understand the world around them, fostering informed and engaged communities.",
+    "industry": [
+        "Media",
+        "Publishing"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1851",
+    "website": "https://www.nytimes.com",
+    "ceo": "Meredith Kopit Levien",
+    "social_media": {
+        "twitter": "https://twitter.com/nytimes",
+        "linkedin": "https://www.linkedin.com/company/the-new-york-times/"
+    },
+    "investor_relations": "https://www.nytco.com/investors/",
+    "key_executives": [
+        {
+            "name": "Meredith Kopit Levien",
+            "position": "CEO"
+        },
+        {
+            "name": "Roland A. Caputo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "News",
+            "products": [
+                "The New York Times",
+                "The Athletic",
+                "Wirecutter"
+            ]
+        },
+        {
+            "category": "Subscriptions",
+            "products": [
+                "Digital Subscriptions",
+                "Print Subscriptions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The New York Times Company | Leading News and Information Provider",
+        "meta_description": "Discover The New York Times Company, a leader in journalism and media. Explore our commitment to quality reporting, subscription services, and innovative platforms.",
+        "keywords": [
+            "New York Times",
+            "Journalism",
+            "News",
+            "Media",
+            "Publishing",
+            "Digital News"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is The New York Times known for?",
+            "answer": "The New York Times is known for its comprehensive news coverage, investigative journalism, and significant impact on public discourse."
+        },
+        {
+            "question": "Who is the CEO of The New York Times Company?",
+            "answer": "Meredith Kopit Levien is the CEO of The New York Times Company."
+        },
+        {
+            "question": "Where is The New York Times headquartered?",
+            "answer": "The New York Times is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are the main products of The New York Times Company?",
+            "answer": "The main products include The New York Times newspaper, digital subscriptions, and platforms like The Athletic and Wirecutter."
+        },
+        {
+            "question": "When was The New York Times founded?",
+            "answer": "The New York Times was founded in 1851."
+        }
+    ],
+    "competitors": [
+        "GCI",
+        "NWSA",
+        "TRI"
+    ],
+    "related_stocks": [
+        "DIS",
+        "AAPL",
+        "GOOGL",
+        "FB"
+    ]
+}

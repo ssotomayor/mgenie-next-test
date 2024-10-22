@@ -1,0 +1,101 @@
+{
+    "ticker": "EA",
+    "name": "Electronic Arts Inc.",
+    "description": "Electronic Arts Inc. (EA) is a leading global interactive entertainment software company. Founded in 1982 by Trip Hawkins, EA has established itself as a major player in the video game industry, known for its innovative titles and franchises. The company is famous for its sports video games, particularly the FIFA and Madden NFL series, which have become cultural phenomena and set standards in sports gaming. EA's portfolio also includes popular franchises such as The Sims, Battlefield, and Apex Legends, catering to a wide variety of gaming audiences across different platforms, including consoles, PC, and mobile devices. With a commitment to delivering high-quality gaming experiences, EA has embraced advancements in technology, including virtual reality and cloud gaming, to enhance player engagement. The company is also focused on the growing market of live services, offering players ongoing content updates and community features. EA's mission is to inspire the world to play through its diverse and inclusive gaming ecosystem, fostering creativity and connection among players worldwide.",
+    "industry": [
+        "Video Games",
+        "Entertainment"
+    ],
+    "headquarters": "Redwood City, California, USA",
+    "founded": "1982",
+    "website": "https://www.ea.com",
+    "ceo": "Andrew Wilson",
+    "social_media": {
+        "twitter": "https://twitter.com/EA",
+        "linkedin": "https://www.linkedin.com/company/electronic-arts/",
+        "instagram": "https://www.instagram.com/electronicarts/",
+        "youtube": "https://www.youtube.com/user/electronicarts"
+    },
+    "investor_relations": "https://ir.ea.com",
+    "key_executives": [
+        {
+            "name": "Andrew Wilson",
+            "position": "CEO"
+        },
+        {
+            "name": "Blake Jorgensen",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/blakejorgensen/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Sports Games",
+            "products": [
+                "FIFA",
+                "Madden NFL"
+            ]
+        },
+        {
+            "category": "Action/Adventure Games",
+            "products": [
+                "Battlefield",
+                "Apex Legends"
+            ]
+        },
+        {
+            "category": "Simulation Games",
+            "products": [
+                "The Sims"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Electronic Arts Inc. | Leading Video Game Developer and Publisher",
+        "meta_description": "Explore Electronic Arts Inc., a top interactive entertainment company known for its iconic video game franchises like FIFA, Madden NFL, and The Sims. Discover EA's commitment to innovation in gaming.",
+        "keywords": [
+            "Electronic Arts",
+            "EA",
+            "Video Games",
+            "FIFA",
+            "Madden NFL",
+            "The Sims",
+            "Apex Legends"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Electronic Arts known for?",
+            "answer": "Electronic Arts is known for its popular video game franchises, including FIFA, Madden NFL, and The Sims."
+        },
+        {
+            "question": "Who is the CEO of Electronic Arts?",
+            "answer": "Andrew Wilson is the CEO of Electronic Arts Inc."
+        },
+        {
+            "question": "Where is Electronic Arts headquartered?",
+            "answer": "Electronic Arts is headquartered in Redwood City, California, USA."
+        },
+        {
+            "question": "What are Electronic Arts' main products?",
+            "answer": "Electronic Arts' main products include FIFA, Madden NFL, Battlefield, Apex Legends, and The Sims."
+        },
+        {
+            "question": "When was Electronic Arts founded?",
+            "answer": "Electronic Arts was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "ATVI",
+        "TTWO",
+        "UBSFY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,80 @@
+{
+    "ticker": "CHEK",
+    "name": "Check-Cap Ltd.",
+    "description": "Check-Cap Ltd. is an innovative medical technology company focused on transforming the way colorectal cancer screenings are performed. Founded in 2008 and headquartered in Isfiya, Israel, Check-Cap has developed a unique, ingestible capsule that utilizes advanced imaging technology to provide a non-invasive, safe, and effective method for detecting colorectal cancer. The company's flagship product, the C-Scan, is designed to be a patient-friendly alternative to traditional colonoscopy, allowing for easier and more accessible screenings that can help increase early detection rates. Check-Cap's technology relies on low-dose X-rays and proprietary imaging algorithms to create detailed images of the colon, which are analyzed for abnormalities. The company is committed to improving patient outcomes and enhancing the overall experience of colorectal cancer screenings, addressing the significant barriers that prevent individuals from undergoing regular testing. With a growing body of clinical data supporting its technology, Check-Cap aims to establish itself as a leader in the field of gastrointestinal diagnostics, ultimately contributing to the fight against one of the most prevalent cancers worldwide.",
+    "industry": [
+        "Medical Devices",
+        "Healthcare"
+    ],
+    "headquarters": "Isfiya, Israel",
+    "founded": "2008",
+    "website": "https://www.check-cap.com",
+    "ceo": "Alex Ovadia",
+    "social_media": {
+        "twitter": "https://twitter.com/CheckCapLtd",
+        "linkedin": "https://www.linkedin.com/company/check-cap-ltd/"
+    },
+    "investor_relations": "https://www.check-cap.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Alex Ovadia",
+            "position": "CEO"
+        },
+        {
+            "name": "David W. Stein",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Medical Devices",
+            "products": [
+                "C-Scan"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Check-Cap Ltd. | Innovative Colorectal Cancer Screening Solutions",
+        "meta_description": "Check-Cap Ltd. is revolutionizing colorectal cancer screening with its C-Scan capsule technology. Discover how Check-Cap is enhancing patient care through non-invasive diagnostics.",
+        "keywords": [
+            "Check-Cap",
+            "Colorectal Cancer",
+            "Medical Technology",
+            "C-Scan",
+            "Non-Invasive Screening"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Check-Cap known for?",
+            "answer": "Check-Cap is known for its innovative C-Scan capsule technology that provides non-invasive colorectal cancer screenings."
+        },
+        {
+            "question": "Who is the CEO of Check-Cap?",
+            "answer": "Alex Ovadia is the CEO of Check-Cap Ltd."
+        },
+        {
+            "question": "Where is Check-Cap headquartered?",
+            "answer": "Check-Cap is headquartered in Isfiya, Israel."
+        },
+        {
+            "question": "What are Check-Cap's main products?",
+            "answer": "Check-Cap's main product is the C-Scan, an ingestible capsule for colorectal cancer screening."
+        },
+        {
+            "question": "When was Check-Cap founded?",
+            "answer": "Check-Cap was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "GHDX",
+        "CRBP",
+        "NVCR"
+    ],
+    "related_stocks": [
+        "MDGL",
+        "SGEN",
+        "NVS",
+        "ABBV"
+    ]
+}

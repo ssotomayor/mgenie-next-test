@@ -1,0 +1,96 @@
+{
+    "ticker": "GRMN",
+    "name": "Garmin Ltd.",
+    "description": "Garmin Ltd. is a global leader in satellite navigation and wearable technology, founded in 1989 by Gary Burrell and Min Kao. The company is renowned for its innovative GPS and wearable devices that cater to various industries, including automotive, aviation, marine, outdoor, and fitness. Garmin's product lineup includes GPS navigation systems, smartwatches, fitness trackers, and advanced aviation instruments. Their wearables, particularly the Garmin Forerunner and Fenix series, are popular among athletes and outdoor enthusiasts for their robust tracking capabilities and health monitoring features. Garmin is committed to enhancing the user experience through constant technological advancements and has expanded its offerings to include connected services and applications that promote a healthy lifestyle. The company's dedication to quality and innovation has established Garmin as a trusted brand worldwide, appealing to both casual users and professionals. With a focus on sustainability and corporate responsibility, Garmin continues to invest in environmentally friendly practices and community initiatives. The company aims to empower users through better navigation and health tracking solutions, making everyday activities safer and more enjoyable.",
+    "industry": [
+        "Consumer Electronics",
+        "Wearable Technology",
+        "Aerospace"
+    ],
+    "headquarters": "Olathe, Kansas, USA",
+    "founded": "1989",
+    "website": "https://www.garmin.com",
+    "ceo": "Cliff Pemble",
+    "social_media": {
+        "twitter": "https://twitter.com/garmin",
+        "linkedin": "https://www.linkedin.com/company/garmin/"
+    },
+    "investor_relations": "https://investor.garmin.com",
+    "key_executives": [
+        {
+            "name": "Cliff Pemble",
+            "position": "CEO"
+        },
+        {
+            "name": "Matthew D. D. DeMoulin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wearable Technology",
+            "products": [
+                "Forerunner Series",
+                "Fenix Series",
+                "Vivoactive",
+                "Vivosmart"
+            ]
+        },
+        {
+            "category": "Automotive",
+            "products": [
+                "Garmin Drive",
+                "n\u00fcvi"
+            ]
+        },
+        {
+            "category": "Aviation",
+            "products": [
+                "G1000",
+                "G3000"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Garmin Ltd. | GPS Navigation and Wearable Technology",
+        "meta_description": "Explore Garmin Ltd., a leader in GPS technology and wearable devices. Discover innovative products designed for navigation, fitness, and aviation.",
+        "keywords": [
+            "Garmin",
+            "GPS Navigation",
+            "Wearable Technology",
+            "Fitness Trackers",
+            "Smartwatches",
+            "Aviation Instruments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Garmin offer?",
+            "answer": "Garmin offers a range of products including GPS navigation devices, smartwatches, fitness trackers, and aviation instruments."
+        },
+        {
+            "question": "Who is the CEO of Garmin?",
+            "answer": "Cliff Pemble is the CEO of Garmin Ltd."
+        },
+        {
+            "question": "Where is Garmin headquartered?",
+            "answer": "Garmin is headquartered in Olathe, Kansas, USA."
+        },
+        {
+            "question": "When was Garmin founded?",
+            "answer": "Garmin was founded in 1989."
+        }
+    ],
+    "competitors": [
+        "AAPL",
+        "FIT",
+        "GOOG",
+        "NKE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "ticker": "ASBFY",
+    "name": "ASB Financial Group Ltd.",
+    "description": "ASB Financial Group Ltd. is a prominent financial services company based in New Zealand, offering a wide range of banking products and services. Established in 1847, ASB has a rich history and has grown to become one of the largest banks in the country, serving millions of customers across retail, commercial, and institutional banking sectors. The bank is committed to delivering innovative financial solutions that cater to the evolving needs of its customers. ASB provides various services, including personal banking, home loans, business banking, investment services, and insurance products. The company is particularly known for its advanced digital banking platform, which allows customers to manage their finances seamlessly and securely. ASB is also deeply committed to sustainability and community support, actively engaging in initiatives that promote environmental responsibility and financial literacy. With a strong emphasis on customer experience and technological innovation, ASB aims to empower individuals and businesses to achieve their financial goals while contributing positively to the community and the economy.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Auckland, New Zealand",
+    "founded": "1847",
+    "website": "https://www.asb.co.nz",
+    "ceo": "Brett King",
+    "social_media": {
+        "twitter": "https://twitter.com/ASBBank",
+        "linkedin": "https://www.linkedin.com/company/asb-bank/"
+    },
+    "investor_relations": "https://www.asb.co.nz/investor-relations",
+    "key_executives": [
+        {
+            "name": "Brett King",
+            "position": "CEO"
+        },
+        {
+            "name": "Tim Deane",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Home Loans",
+                "Savings Accounts",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Loans",
+                "Merchant Services",
+                "Business Accounts"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Managed Funds",
+                "Investment Accounts"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ASB Financial Group Ltd. | Banking and Financial Services in New Zealand",
+        "meta_description": "Explore ASB Financial Group Ltd., a leading New Zealand bank providing innovative banking solutions. Discover our services, commitment to sustainability, and customer-focused approach.",
+        "keywords": [
+            "ASB Bank",
+            "Banking",
+            "Financial Services",
+            "Home Loans",
+            "Savings",
+            "Business Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ASB offer?",
+            "answer": "ASB offers a range of services including personal banking, home loans, business banking, investment services, and insurance products."
+        },
+        {
+            "question": "Who is the CEO of ASB?",
+            "answer": "Brett King is the CEO of ASB Financial Group Ltd."
+        },
+        {
+            "question": "Where is ASB headquartered?",
+            "answer": "ASB is headquartered in Auckland, New Zealand."
+        },
+        {
+            "question": "When was ASB founded?",
+            "answer": "ASB was founded in 1847."
+        }
+    ],
+    "competitors": [
+        "ANZ",
+        "WBC",
+        "NAB",
+        "CBA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

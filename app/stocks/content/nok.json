@@ -1,0 +1,100 @@
+{
+    "ticker": "NOK",
+    "name": "Nokia Corporation",
+    "description": "Nokia Corporation is a global technology company that specializes in telecommunications, information technology, and consumer electronics. Founded in 1865 and headquartered in Espoo, Finland, Nokia has evolved from its roots in pulp and rubber manufacturing to become a leader in network infrastructure, mobile technology, and advanced communications solutions. The company is best known for its role in developing mobile phones during the 1990s and early 2000s, but today, it focuses on providing end-to-end solutions for telecom operators and enterprises, including 5G infrastructure, software, and services. Nokia's innovation in areas such as network slicing, cloud-native architecture, and IoT (Internet of Things) technologies positions it as a key player in the digital transformation of industries. With a strong emphasis on sustainability and social responsibility, Nokia is committed to building the networks that will connect the world and enable a more sustainable future. The company also invests heavily in research and development, ensuring it remains at the forefront of technological advancements in the telecommunications sector.",
+    "industry": [
+        "Telecommunications",
+        "Technology"
+    ],
+    "headquarters": "Espoo, Finland",
+    "founded": "1865",
+    "website": "https://www.nokia.com",
+    "ceo": "Pekka Lundmark",
+    "social_media": {
+        "twitter": "https://twitter.com/nokia",
+        "linkedin": "https://www.linkedin.com/company/nokia/"
+    },
+    "investor_relations": "https://www.nokia.com/en_int/investors",
+    "key_executives": [
+        {
+            "name": "Pekka Lundmark",
+            "position": "CEO"
+        },
+        {
+            "name": "Katy Huberty",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/katy-huberty-8b6b111/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Network Infrastructure",
+            "products": [
+                "5G Solutions",
+                "Fixed Networks",
+                "IP Routing"
+            ]
+        },
+        {
+            "category": "Software",
+            "products": [
+                "Nokia Network Automation",
+                "Nokia Cloud Infrastructure"
+            ]
+        },
+        {
+            "category": "Consumer Products",
+            "products": [
+                "Nokia Mobile Phones",
+                "Nokia Smartphones"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Nokia Corporation | Leading Telecommunications and Technology Solutions",
+        "meta_description": "Explore Nokia Corporation, a global leader in telecommunications and technology solutions. Discover Nokia's innovative products and services that drive digital transformation.",
+        "keywords": [
+            "Nokia",
+            "Telecommunications",
+            "5G",
+            "Network Infrastructure",
+            "IoT",
+            "Nokia Mobile Phones"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Nokia specialize in?",
+            "answer": "Nokia specializes in telecommunications, network infrastructure, and technology solutions."
+        },
+        {
+            "question": "Who is the CEO of Nokia?",
+            "answer": "Pekka Lundmark is the CEO of Nokia Corporation."
+        },
+        {
+            "question": "Where is Nokia headquartered?",
+            "answer": "Nokia is headquartered in Espoo, Finland."
+        },
+        {
+            "question": "What products does Nokia offer?",
+            "answer": "Nokia offers network infrastructure solutions, software, and consumer mobile phones."
+        },
+        {
+            "question": "When was Nokia founded?",
+            "answer": "Nokia was founded in 1865."
+        }
+    ],
+    "competitors": [
+        "ERIC",
+        "CSCO",
+        "HUAWEI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

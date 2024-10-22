@@ -1,0 +1,93 @@
+{
+    "ticker": "ANGI",
+    "name": "Angi Inc.",
+    "description": "Angi Inc. is a leading digital marketplace that connects homeowners with service professionals, providing a comprehensive platform for home improvement and maintenance services. Founded in 1995, originally as Angie's List, the company has evolved to create a robust online ecosystem where users can find, compare, and hire contractors for various projects, from renovations and repairs to landscaping and plumbing. Angi's mission is to help consumers make informed decisions by providing access to a vast database of reviews, ratings, and photos of completed projects. The platform not only facilitates the hiring process but also offers tools and resources that empower homeowners to manage their home improvement projects effectively. With a subscription model for service providers and a focus on customer satisfaction, Angi has made significant strides in enhancing the transparency and trustworthiness of the home services industry. The company's commitment to innovation is reflected in its user-friendly mobile app and website, which feature advanced search capabilities, personalized recommendations, and seamless communication between homeowners and service professionals. Angi continues to expand its presence in the home services market, aiming to become the go-to source for all home improvement needs.",
+    "industry": [
+        "Technology",
+        "Home Services"
+    ],
+    "headquarters": "Denver, Colorado, USA",
+    "founded": "1995",
+    "website": "https://www.angi.com",
+    "ceo": "Olivier Pomel",
+    "social_media": {
+        "twitter": "https://twitter.com/angi",
+        "linkedin": "https://www.linkedin.com/company/angi/"
+    },
+    "investor_relations": "https://investor.angi.com",
+    "key_executives": [
+        {
+            "name": "Olivier Pomel",
+            "position": "CEO"
+        },
+        {
+            "name": "Brent McClure",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Home Improvement Services",
+            "services": [
+                "Plumbing",
+                "Electrical",
+                "Landscaping",
+                "Roofing",
+                "Remodeling"
+            ]
+        },
+        {
+            "category": "Home Maintenance",
+            "services": [
+                "Cleaning",
+                "HVAC",
+                "Pest Control"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Angi Inc. | Your Home Improvement Marketplace",
+        "meta_description": "Discover Angi Inc., a leading digital platform connecting homeowners with trusted service professionals for all home improvement needs.",
+        "keywords": [
+            "Angi",
+            "Home Improvement",
+            "Contractors",
+            "Home Services",
+            "Plumbing",
+            "Landscaping"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Angi provide?",
+            "answer": "Angi provides a wide range of home improvement and maintenance services, including plumbing, electrical work, landscaping, and cleaning."
+        },
+        {
+            "question": "How can I find a contractor on Angi?",
+            "answer": "You can search for contractors by entering your project type and location on the Angi website or app."
+        },
+        {
+            "question": "What is Angi's mission?",
+            "answer": "Angi's mission is to connect homeowners with service professionals and provide resources for managing home improvement projects."
+        },
+        {
+            "question": "When was Angi founded?",
+            "answer": "Angi was founded in 1995."
+        },
+        {
+            "question": "Where is Angi headquartered?",
+            "answer": "Angi is headquartered in Denver, Colorado, USA."
+        }
+    ],
+    "competitors": [
+        "HOME",
+        "CNS",
+        "HIG"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "FB",
+        "NFLX"
+    ]
+}

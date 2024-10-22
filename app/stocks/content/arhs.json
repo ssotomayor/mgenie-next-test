@@ -1,0 +1,95 @@
+{
+    "ticker": "ARHS",
+    "name": "Arhaus, Inc.",
+    "description": "Arhaus, Inc. is a leading retailer in the home furnishings industry, known for its commitment to sustainability and craftsmanship. Founded in 1986 by John Reed and a group of passionate designers, Arhaus offers a wide array of high-quality, stylish furniture and decor that are designed to enhance the living spaces of its customers. The company prides itself on using sustainable materials and ethical production practices, creating products that not only look beautiful but also support environmental responsibility. Arhaus features a diverse range of collections, including upholstered furniture, dining sets, bedroom furnishings, and home accessories, often inspired by global influences and the latest design trends. With a focus on customer experience, Arhaus operates a network of showrooms and an easy-to-navigate online store, providing inspiration and personalized service to help customers create their dream homes. The company's mission is to create beautiful, lasting products while promoting a sustainable future, making it a preferred choice for eco-conscious consumers.",
+    "industry": [
+        "Retail",
+        "Home Furnishings"
+    ],
+    "headquarters": "Boston Heights, Ohio, USA",
+    "founded": "1986",
+    "website": "https://www.arhaus.com",
+    "ceo": "John Reed",
+    "social_media": {
+        "twitter": "https://twitter.com/arhaus",
+        "linkedin": "https://www.linkedin.com/company/arhaus",
+        "instagram": "https://www.instagram.com/arhaus",
+        "facebook": "https://www.facebook.com/arhaus"
+    },
+    "investor_relations": "https://investors.arhaus.com",
+    "key_executives": [
+        {
+            "name": "John Reed",
+            "position": "CEO"
+        },
+        {
+            "name": "Ryan O'Connell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Furniture",
+            "products": [
+                "Sofas",
+                "Dining Tables",
+                "Beds",
+                "Chairs"
+            ]
+        },
+        {
+            "category": "Home Decor",
+            "products": [
+                "Rugs",
+                "Lighting",
+                "Wall Art",
+                "Accessories"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Arhaus, Inc. | Sustainable Home Furnishings",
+        "meta_description": "Explore Arhaus, Inc., a leader in sustainable home furnishings. Discover stylish furniture and decor made with craftsmanship and environmental responsibility.",
+        "keywords": [
+            "Arhaus",
+            "Home Furnishings",
+            "Sustainable Furniture",
+            "Interior Design",
+            "Stylish Decor"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Arhaus specialize in?",
+            "answer": "Arhaus specializes in high-quality, sustainable home furnishings including furniture and decor."
+        },
+        {
+            "question": "Who is the CEO of Arhaus?",
+            "answer": "John Reed is the CEO of Arhaus, Inc."
+        },
+        {
+            "question": "Where is Arhaus headquartered?",
+            "answer": "Arhaus is headquartered in Boston Heights, Ohio, USA."
+        },
+        {
+            "question": "What types of products does Arhaus offer?",
+            "answer": "Arhaus offers a wide range of products including sofas, dining tables, beds, and home decor items."
+        },
+        {
+            "question": "When was Arhaus founded?",
+            "answer": "Arhaus was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "RH",
+        "HVT",
+        "W",
+        "LBH"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "WMT",
+        "TJX",
+        "MCS"
+    ]
+}

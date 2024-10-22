@@ -1,0 +1,93 @@
+{
+    "ticker": "DAL",
+    "name": "Delta Air Lines, Inc.",
+    "description": "Delta Air Lines, Inc. is one of the world's largest and most prestigious airlines, providing air transportation for passengers and cargo. Founded in 1924, Delta has grown to operate an extensive domestic and international network, serving over 300 destinations in more than 50 countries. The airline is headquartered in Atlanta, Georgia, and is a founding member of the SkyTeam global airline alliance. Delta is recognized for its commitment to customer service, innovative technology, and sustainability initiatives, which include a goal to become the first carbon-neutral airline globally by 2030. The company offers a range of services, including economy, premium economy, and business class seating, as well as a loyalty program known as SkyMiles. Delta continues to invest in fleet modernization, customer experience enhancements, and operational efficiency, all while navigating the challenges posed by the ever-evolving global travel landscape.",
+    "industry": [
+        "Airlines",
+        "Transportation"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1924",
+    "website": "https://www.delta.com",
+    "ceo": "Ed Bastian",
+    "social_media": {
+        "twitter": "https://twitter.com/Delta",
+        "linkedin": "https://www.linkedin.com/company/delta-air-lines",
+        "instagram": "https://www.instagram.com/delta",
+        "youtube": "https://www.youtube.com/user/delta"
+    },
+    "investor_relations": "https://ir.delta.com",
+    "key_executives": [
+        {
+            "name": "Ed Bastian",
+            "position": "CEO"
+        },
+        {
+            "name": "Peter W. Carter",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Economy Class",
+                "Premium Economy",
+                "Business Class"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Domestic Cargo",
+                "International Cargo"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Delta Air Lines, Inc. | Leading Global Airline",
+        "meta_description": "Explore Delta Air Lines, one of the premier airlines in the world. Learn about our services, commitment to customer satisfaction, and sustainability initiatives.",
+        "keywords": [
+            "Delta Air Lines",
+            "Airline",
+            "Travel",
+            "Passenger Services",
+            "Sustainability",
+            "SkyMiles"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Delta Air Lines known for?",
+            "answer": "Delta Air Lines is known for its extensive network, customer service, and commitment to sustainability."
+        },
+        {
+            "question": "Who is the CEO of Delta Air Lines?",
+            "answer": "Ed Bastian is the CEO of Delta Air Lines, Inc."
+        },
+        {
+            "question": "Where is Delta Air Lines headquartered?",
+            "answer": "Delta Air Lines is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What are Delta's main services?",
+            "answer": "Delta's main services include passenger air travel and cargo transportation."
+        },
+        {
+            "question": "When was Delta Air Lines founded?",
+            "answer": "Delta Air Lines was founded in 1924."
+        }
+    ],
+    "competitors": [
+        "AAL",
+        "UAL",
+        "LUV",
+        "ALK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

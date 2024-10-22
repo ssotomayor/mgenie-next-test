@@ -1,0 +1,89 @@
+{
+    "ticker": "RDCM",
+    "name": "Radcom Ltd.",
+    "description": "Radcom Ltd. is a global provider of innovative network visibility and analytics solutions. Founded in 1991, Radcom specializes in delivering advanced telecom solutions for service providers, enabling them to monitor, analyze, and optimize their networks in real-time. The company\u2019s flagship product, the Radcom ACE, provides deep packet inspection and analytics capabilities, helping telecom operators enhance their service quality and customer experience. Radcom's solutions are designed to support the transition to 5G networks, allowing operators to manage complex network environments with ease. With a focus on continuous innovation, Radcom is dedicated to empowering network operators to meet the demands of modern telecommunications, including Voice over LTE (VoLTE), Internet of Things (IoT) connectivity, and cloud-based services. The company's technology enables operators to gain insights into network performance, troubleshoot issues, and make data-driven decisions to improve service delivery. Radcom is committed to providing exceptional support and expertise to its customers, helping them navigate the challenges of digital transformation in the telecommunications industry.",
+    "industry": [
+        "Telecommunications",
+        "Software"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "1991",
+    "website": "https://www.radcom.com",
+    "ceo": "Yair Lurie",
+    "social_media": {
+        "twitter": "https://twitter.com/Radcom_Ltd",
+        "linkedin": "https://www.linkedin.com/company/radcom-ltd/"
+    },
+    "investor_relations": "https://investors.radcom.com",
+    "key_executives": [
+        {
+            "name": "Yair Lurie",
+            "position": "CEO"
+        },
+        {
+            "name": "David S. Borkow",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Network Visibility",
+            "products": [
+                "Radcom ACE"
+            ]
+        },
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Real-time Monitoring",
+                "Network Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Radcom Ltd. | Network Visibility and Analytics for Telecom",
+        "meta_description": "Explore Radcom Ltd., a leader in network visibility and analytics solutions for telecom operators. Discover how Radcom helps enhance network performance and customer experience.",
+        "keywords": [
+            "Radcom",
+            "Network Visibility",
+            "Telecommunications",
+            "5G",
+            "Analytics Solutions",
+            "Telecom Monitoring"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Radcom specialize in?",
+            "answer": "Radcom specializes in network visibility and analytics solutions for telecom operators."
+        },
+        {
+            "question": "Who is the CEO of Radcom?",
+            "answer": "Yair Lurie is the CEO of Radcom Ltd."
+        },
+        {
+            "question": "Where is Radcom headquartered?",
+            "answer": "Radcom is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What are Radcom's main products?",
+            "answer": "Radcom's main product is Radcom ACE, which provides network visibility and analytics."
+        },
+        {
+            "question": "When was Radcom founded?",
+            "answer": "Radcom was founded in 1991."
+        }
+    ],
+    "competitors": [
+        "NEO",
+        "CSCO",
+        "NOK",
+        "ERIC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

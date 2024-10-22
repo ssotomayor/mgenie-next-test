@@ -1,0 +1,100 @@
+{
+    "ticker": "COIN",
+    "name": "Coinbase Global, Inc.",
+    "description": "Coinbase Global, Inc. is a leading cryptocurrency exchange platform based in the United States, established in 2012 by Brian Armstrong and Fred Ehrsam. The company provides a user-friendly interface for buying, selling, and managing a diverse array of cryptocurrencies, including Bitcoin, Ethereum, and Litecoin. Coinbase aims to increase economic freedom in the world by providing a platform that allows individuals and institutions to participate in the cryptocurrency economy. The company offers various services, including a secure digital wallet, trading tools, and educational resources to help users understand the cryptocurrency landscape. In addition to its exchange services, Coinbase has expanded into crypto-related financial products, including staking and interest-earning accounts. The company's commitment to regulatory compliance and security has made it a trusted platform in the rapidly evolving digital currency market. As a publicly traded company since April 2021, Coinbase continues to innovate and adapt to the changing needs of its customers and the broader financial ecosystem, playing a pivotal role in mainstreaming cryptocurrency adoption.",
+    "industry": [
+        "Financial Services",
+        "Cryptocurrency"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2012",
+    "website": "https://www.coinbase.com",
+    "ceo": "Brian Armstrong",
+    "social_media": {
+        "twitter": "https://twitter.com/coinbase",
+        "linkedin": "https://www.linkedin.com/company/coinbase/",
+        "instagram": "https://www.instagram.com/coinbase/",
+        "youtube": "https://www.youtube.com/c/Coinbase"
+    },
+    "investor_relations": "https://investor.coinbase.com",
+    "key_executives": [
+        {
+            "name": "Brian Armstrong",
+            "position": "CEO"
+        },
+        {
+            "name": "Alesia Haas",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/alesiahaas/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cryptocurrency Exchange",
+            "products": [
+                "Spot Trading",
+                "Advanced Trading",
+                "Coinbase Pro"
+            ]
+        },
+        {
+            "category": "Crypto Wallet",
+            "products": [
+                "Coinbase Wallet"
+            ]
+        },
+        {
+            "category": "Staking and Earning",
+            "products": [
+                "Staking",
+                "Earn Rewards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Coinbase Global, Inc. | Buy, Sell, and Manage Cryptocurrency",
+        "meta_description": "Explore Coinbase Global, Inc., a leading cryptocurrency exchange platform. Buy, sell, and manage a wide range of cryptocurrencies with ease and security.",
+        "keywords": [
+            "Coinbase",
+            "Cryptocurrency",
+            "Bitcoin",
+            "Ethereum",
+            "Crypto Exchange",
+            "Digital Wallet"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Coinbase?",
+            "answer": "Coinbase is a cryptocurrency exchange that allows users to buy, sell, and manage various cryptocurrencies."
+        },
+        {
+            "question": "Who is the CEO of Coinbase?",
+            "answer": "Brian Armstrong is the CEO of Coinbase Global, Inc."
+        },
+        {
+            "question": "Where is Coinbase headquartered?",
+            "answer": "Coinbase is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What services does Coinbase offer?",
+            "answer": "Coinbase offers cryptocurrency trading, a digital wallet, staking, and educational resources."
+        },
+        {
+            "question": "When was Coinbase founded?",
+            "answer": "Coinbase was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "BINANCE",
+        "KRaken",
+        "FTX"
+    ],
+    "related_stocks": [
+        "SQ",
+        "PYPL",
+        "GS"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "AVD",
+    "name": "Avid Technologies, Inc.",
+    "description": "Avid Technologies, Inc. is a leading provider of software and hardware solutions for the media and entertainment industry. Established in 1987, Avid has revolutionized the way content is created, delivered, and monetized, serving clients across film, television, music, and digital media. The company's flagship products, including Media Composer for video editing, Pro Tools for audio production, and Avid NEXIS for media storage, are widely recognized as industry standards. Avid's solutions empower creative professionals to collaborate seamlessly, manage complex workflows, and produce high-quality content efficiently. With a strong emphasis on innovation, Avid continuously enhances its offerings with cutting-edge technologies such as cloud collaboration, artificial intelligence, and immersive audio experiences. The company is committed to supporting the evolving needs of its customers by providing flexible, scalable, and integrated solutions that drive creativity and productivity. Avid's mission is to enable customers to create, manage, and distribute media content in the most efficient and effective manner, ensuring they stay ahead in an ever-changing digital landscape.",
+    "industry": [
+        "Media",
+        "Technology"
+    ],
+    "headquarters": "Burlington, Massachusetts, USA",
+    "founded": "1987",
+    "website": "https://www.avid.com",
+    "ceo": "Jeff Rosica",
+    "social_media": {
+        "twitter": "https://twitter.com/avid",
+        "linkedin": "https://www.linkedin.com/company/avid-technology/"
+    },
+    "investor_relations": "https://investors.avid.com",
+    "key_executives": [
+        {
+            "name": "Jeff Rosica",
+            "position": "CEO"
+        },
+        {
+            "name": "Jesse Schwartz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Video Editing",
+            "products": [
+                "Media Composer"
+            ]
+        },
+        {
+            "category": "Audio Production",
+            "products": [
+                "Pro Tools"
+            ]
+        },
+        {
+            "category": "Media Storage",
+            "products": [
+                "Avid NEXIS"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Avid Technologies, Inc. | Media and Entertainment Solutions",
+        "meta_description": "Discover Avid Technologies, Inc., a leader in software and hardware solutions for the media and entertainment industry. Explore our innovative products and services.",
+        "keywords": [
+            "Avid",
+            "Media Composer",
+            "Pro Tools",
+            "Audio Production",
+            "Video Editing",
+            "Media Storage"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Avid Technologies do?",
+            "answer": "Avid Technologies provides software and hardware solutions for the media and entertainment industry."
+        },
+        {
+            "question": "Who is the CEO of Avid Technologies?",
+            "answer": "Jeff Rosica is the CEO of Avid Technologies, Inc."
+        },
+        {
+            "question": "Where is Avid headquartered?",
+            "answer": "Avid is headquartered in Burlington, Massachusetts, USA."
+        },
+        {
+            "question": "What are Avid's main products?",
+            "answer": "Avid's main products include Media Composer, Pro Tools, and Avid NEXIS."
+        },
+        {
+            "question": "When was Avid founded?",
+            "answer": "Avid was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "MSFT",
+        "SENEA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "NFLX",
+        "DIS"
+    ]
+}

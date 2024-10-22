@@ -1,0 +1,98 @@
+{
+    "ticker": "LLY",
+    "name": "Eli Lilly and Company",
+    "description": "Eli Lilly and Company is a global leader in pharmaceutical innovation and healthcare solutions, dedicated to improving the lives of patients around the world. Founded in 1876 by Colonel Eli Lilly, the company has a rich history of pioneering advancements in medicine, focusing on areas such as diabetes, oncology, immunology, and neuroscience. Lilly is perhaps best known for its groundbreaking diabetes treatments, including insulin products and GLP-1 receptor agonists, which have transformed the management of diabetes. The company also has a strong portfolio of cancer therapies, including some of the most advanced treatments available today. With a commitment to research and development, Eli Lilly invests heavily in clinical trials and innovative drug discovery, working collaboratively with healthcare professionals, patients, and other stakeholders to address unmet medical needs. The company is dedicated to ethical practices and transparency, ensuring that its operations and products uphold the highest standards of integrity and safety. As part of its global mission, Eli Lilly actively engages in initiatives aimed at expanding access to healthcare and improving health outcomes in underserved populations. Through its continuous pursuit of scientific excellence, Eli Lilly strives to make a significant impact on global health.",
+    "industry": [
+        "Pharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Indianapolis, Indiana, USA",
+    "founded": "1876",
+    "website": "https://www.lilly.com",
+    "ceo": "David A. Ricks",
+    "social_media": {
+        "twitter": "https://twitter.com/EliLillyandCo",
+        "linkedin": "https://www.linkedin.com/company/eli-lilly-and-company/",
+        "instagram": "https://www.instagram.com/lillypad/"
+    },
+    "investor_relations": "https://investor.lilly.com",
+    "key_executives": [
+        {
+            "name": "David A. Ricks",
+            "position": "CEO"
+        },
+        {
+            "name": "Josh Smiley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Diabetes Care",
+            "products": [
+                "Humalog",
+                "Trulicity"
+            ]
+        },
+        {
+            "category": "Oncology",
+            "products": [
+                "Verzenio",
+                "Cyramza"
+            ]
+        },
+        {
+            "category": "Neuroscience",
+            "products": [
+                "Duloxetine",
+                "Olanzapine"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Eli Lilly and Company | Innovating Healthcare for Patients",
+        "meta_description": "Learn about Eli Lilly and Company, a leader in pharmaceuticals, dedicated to improving patient lives through innovative treatments in diabetes, oncology, and neuroscience.",
+        "keywords": [
+            "Eli Lilly",
+            "Pharmaceuticals",
+            "Diabetes Care",
+            "Oncology",
+            "Healthcare",
+            "Innovative Treatments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Eli Lilly known for?",
+            "answer": "Eli Lilly is known for its innovative pharmaceutical products, particularly in diabetes care and oncology."
+        },
+        {
+            "question": "Who is the CEO of Eli Lilly?",
+            "answer": "David A. Ricks is the CEO of Eli Lilly and Company."
+        },
+        {
+            "question": "Where is Eli Lilly headquartered?",
+            "answer": "Eli Lilly is headquartered in Indianapolis, Indiana, USA."
+        },
+        {
+            "question": "What are Eli Lilly's main products?",
+            "answer": "Eli Lilly's main products include Humalog, Trulicity, Verzenio, and Duloxetine."
+        },
+        {
+            "question": "When was Eli Lilly founded?",
+            "answer": "Eli Lilly was founded in 1876."
+        }
+    ],
+    "competitors": [
+        "PFE",
+        "JNJ",
+        "ABBV",
+        "MRK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

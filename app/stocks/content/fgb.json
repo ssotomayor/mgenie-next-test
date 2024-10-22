@@ -1,0 +1,105 @@
+{
+    "ticker": "FGB",
+    "name": "First Guaranty Bank",
+    "description": "First Guaranty Bank (FGB) is a full-service financial institution dedicated to providing personalized banking solutions to individuals and businesses. Established in 1949 and headquartered in Hammond, Louisiana, FGB has grown to serve a diverse clientele across multiple states. The bank offers a comprehensive range of products and services including personal banking, business banking, mortgage lending, wealth management, and investment services. With a focus on community involvement and customer satisfaction, First Guaranty Bank prides itself on building strong relationships with its clients and understanding their unique financial needs. The bank employs cutting-edge technology to enhance customer experience, providing online and mobile banking options that make managing finances convenient and efficient. FGB is committed to supporting local communities through various initiatives and charitable contributions, reflecting its mission to be a trusted partner in financial growth. The bank's experienced team of financial professionals is dedicated to delivering exceptional service and expert advice, ensuring that customers can make informed financial decisions. As a strong advocate for financial literacy, First Guaranty Bank also offers resources and educational programs to empower individuals and businesses in their financial journeys.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Hammond, Louisiana, USA",
+    "founded": "1949",
+    "website": "https://www.fgb.net",
+    "ceo": "Alvin F. O'Neal",
+    "social_media": {
+        "twitter": "https://twitter.com/FirstGuaranty",
+        "linkedin": "https://www.linkedin.com/company/first-guaranty-bank"
+    },
+    "investor_relations": "https://www.fgb.net/investor-relations",
+    "key_executives": [
+        {
+            "name": "Alvin F. O'Neal",
+            "position": "CEO"
+        },
+        {
+            "name": "Bill M. McCown",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards",
+                "Personal Loans"
+            ]
+        },
+        {
+            "category": "Business Banking",
+            "products": [
+                "Business Checking Accounts",
+                "Business Loans",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Mortgage Lending",
+            "products": [
+                "Home Loans",
+                "Refinancing",
+                "Home Equity Loans"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning",
+                "Trust Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "First Guaranty Bank | Personalized Banking Solutions",
+        "meta_description": "Discover First Guaranty Bank, a full-service financial institution offering personalized banking solutions for individuals and businesses. Explore our services and commitment to community.",
+        "keywords": [
+            "First Guaranty Bank",
+            "Banking",
+            "Financial Services",
+            "Personal Banking",
+            "Business Banking",
+            "Mortgage Lending"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does First Guaranty Bank offer?",
+            "answer": "First Guaranty Bank offers personal banking, business banking, mortgage lending, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of First Guaranty Bank?",
+            "answer": "Alvin F. O'Neal is the CEO of First Guaranty Bank."
+        },
+        {
+            "question": "Where is First Guaranty Bank headquartered?",
+            "answer": "First Guaranty Bank is headquartered in Hammond, Louisiana, USA."
+        },
+        {
+            "question": "When was First Guaranty Bank founded?",
+            "answer": "First Guaranty Bank was founded in 1949."
+        }
+    ],
+    "competitors": [
+        "WFC",
+        "JPM",
+        "BAC",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "ticker": "ENVX",
+    "name": "Enovix Corporation",
+    "description": "Enovix Corporation is an advanced battery technology company that specializes in the design and manufacture of next-generation lithium-ion batteries. Founded in 2007 and headquartered in Fremont, California, Enovix is on a mission to revolutionize energy storage for consumer electronics, electric vehicles, and energy storage systems. The company has developed a proprietary 3D silicon battery architecture that significantly increases energy density while enhancing safety and performance. Enovix's innovative design allows for a higher capacity and longer life cycle compared to traditional lithium-ion batteries, making it a critical player in the transition to sustainable energy solutions. Enovix has established partnerships with leading companies in the semiconductor and automotive industries to deliver high-performance battery solutions that meet the demands of modern technology. The company is committed to fostering a cleaner environment through its products, which aim to reduce the carbon footprint associated with energy storage and usage. With a robust roadmap for future development, Enovix is poised to lead the charge in the evolution of battery technology.",
+    "industry": [
+        "Energy Storage",
+        "Battery Technology"
+    ],
+    "headquarters": "Fremont, California, USA",
+    "founded": "2007",
+    "website": "https://www.enovix.com",
+    "ceo": "Jesse Noyes",
+    "social_media": {
+        "twitter": "https://twitter.com/EnovixCorp",
+        "linkedin": "https://www.linkedin.com/company/enovix/"
+    },
+    "investor_relations": "https://investors.enovix.com",
+    "key_executives": [
+        {
+            "name": "Jesse Noyes",
+            "position": "CEO"
+        },
+        {
+            "name": "John D. B. McCauley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Battery Technology",
+            "products": [
+                "3D Silicon Lithium-ion Batteries"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enovix Corporation | Advanced Battery Technology Solutions",
+        "meta_description": "Enovix Corporation is a leader in advanced battery technology, specializing in high-performance lithium-ion batteries for consumer electronics and electric vehicles. Explore our innovative solutions and commitment to sustainability.",
+        "keywords": [
+            "Enovix",
+            "Battery Technology",
+            "Lithium-ion Batteries",
+            "Energy Storage",
+            "Silicon Batteries"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Enovix specialize in?",
+            "answer": "Enovix specializes in advanced lithium-ion battery technology, focusing on high-performance energy storage solutions."
+        },
+        {
+            "question": "Who is the CEO of Enovix?",
+            "answer": "Jesse Noyes is the CEO of Enovix Corporation."
+        },
+        {
+            "question": "Where is Enovix headquartered?",
+            "answer": "Enovix is headquartered in Fremont, California, USA."
+        },
+        {
+            "question": "What type of products does Enovix offer?",
+            "answer": "Enovix offers advanced lithium-ion batteries, particularly their proprietary 3D silicon battery technology."
+        },
+        {
+            "question": "When was Enovix founded?",
+            "answer": "Enovix was founded in 2007."
+        }
+    ],
+    "competitors": [
+        "PLUG",
+        "SBE",
+        "NIO",
+        "XPEV"
+    ],
+    "related_stocks": [
+        "TSLA",
+        "AAPL",
+        "AMZN",
+        "MSFT"
+    ]
+}

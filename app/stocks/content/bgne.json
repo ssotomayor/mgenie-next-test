@@ -1,0 +1,82 @@
+{
+    "ticker": "BGNE",
+    "name": "BeiGene, Ltd.",
+    "description": "BeiGene, Ltd. is a biotechnology company focused on the discovery, development, and commercialization of innovative medicines for the treatment of cancer. Founded in 2010 by John Oyler, the company aims to improve the lives of patients with cancer through its robust pipeline of targeted therapies and immuno-oncology products. BeiGene is headquartered in Beijing, China, and has a significant presence in the global biopharmaceutical market. The company has developed several proprietary drug candidates, including Brukinsa (zanubrutinib), a novel BTK inhibitor that has gained approval in multiple regions for the treatment of various hematologic malignancies. In addition to Brukinsa, BeiGene has a diverse portfolio that includes therapies targeting PD-1, BCL-2, and other critical pathways involved in cancer progression. BeiGene's commitment to research and development is evident in its numerous collaborations with leading academic institutions and pharmaceutical companies. The company is dedicated to driving innovation in oncology and expanding access to its therapies worldwide, striving to address unmet medical needs in cancer treatment and improve patient outcomes.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "2010",
+    "website": "https://www.beigene.com",
+    "ceo": "John Oyler",
+    "social_media": {
+        "twitter": "https://twitter.com/BeiGene",
+        "linkedin": "https://www.linkedin.com/company/beigene"
+    },
+    "investor_relations": "https://investors.beigene.com",
+    "key_executives": [
+        {
+            "name": "John Oyler",
+            "position": "CEO"
+        },
+        {
+            "name": "Yin Shen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology Products",
+            "products": [
+                "Brukinsa",
+                "Tislelizumab"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BeiGene, Ltd. | Innovative Cancer Medicines",
+        "meta_description": "Explore BeiGene, Ltd., a biotechnology leader in cancer treatment. Discover our innovative therapies and commitment to improving patient outcomes.",
+        "keywords": [
+            "BeiGene",
+            "Cancer Treatment",
+            "Biotechnology",
+            "Brukinsa",
+            "Tislelizumab"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BeiGene specialize in?",
+            "answer": "BeiGene specializes in the discovery and development of innovative cancer therapies."
+        },
+        {
+            "question": "Who is the CEO of BeiGene?",
+            "answer": "John Oyler is the CEO of BeiGene, Ltd."
+        },
+        {
+            "question": "Where is BeiGene headquartered?",
+            "answer": "BeiGene is headquartered in Beijing, China."
+        },
+        {
+            "question": "What are BeiGene's main products?",
+            "answer": "BeiGene's main products include Brukinsa and Tislelizumab."
+        },
+        {
+            "question": "When was BeiGene founded?",
+            "answer": "BeiGene was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "NVS",
+        "REGN",
+        "BMY"
+    ],
+    "related_stocks": [
+        "GILD",
+        "VRTX",
+        "ABBV",
+        "CELG"
+    ]
+}

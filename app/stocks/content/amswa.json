@@ -1,0 +1,90 @@
+{
+    "ticker": "AMSWA",
+    "name": "American Software, Inc.",
+    "description": "American Software, Inc. is a leading provider of software and services that enable organizations to optimize their supply chain and achieve operational excellence. Founded in 1970 and headquartered in Atlanta, Georgia, the company offers a comprehensive suite of solutions designed to enhance the efficiency of supply chain management, including demand planning, inventory optimization, and transportation management. American Software's products leverage advanced analytics, machine learning, and artificial intelligence to provide actionable insights, allowing businesses to make informed decisions and improve their overall performance. With a strong emphasis on innovation, the company continuously enhances its offerings to meet the evolving needs of its customers across various industries, including retail, manufacturing, and distribution. American Software is committed to delivering value through its long-standing partnerships, which help clients navigate the complexities of the modern supply chain landscape. The company's mission is to empower organizations to streamline their operations and drive sustainable growth by harnessing the power of technology and data.",
+    "industry": [
+        "Software",
+        "Supply Chain Management"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1970",
+    "website": "https://www.amsoftware.com",
+    "ceo": "H. Lee Krajewski",
+    "social_media": {
+        "twitter": "https://twitter.com/AmSoftwareInc",
+        "linkedin": "https://www.linkedin.com/company/american-software-inc-"
+    },
+    "investor_relations": "https://www.amsoftware.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "H. Lee Krajewski",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael E. D. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Supply Chain Management",
+            "products": [
+                "Demand Planning",
+                "Inventory Optimization",
+                "Transportation Management"
+            ]
+        },
+        {
+            "category": "Analytics and Insights",
+            "products": [
+                "Advanced Analytics",
+                "Business Intelligence"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "American Software, Inc. | Supply Chain Management Solutions",
+        "meta_description": "Explore American Software, Inc., a leader in supply chain management software. Discover innovative solutions for demand planning, inventory optimization, and more.",
+        "keywords": [
+            "American Software",
+            "Supply Chain Management",
+            "Demand Planning",
+            "Inventory Optimization",
+            "Transportation Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does American Software specialize in?",
+            "answer": "American Software specializes in supply chain management software and services."
+        },
+        {
+            "question": "Who is the CEO of American Software?",
+            "answer": "H. Lee Krajewski is the CEO of American Software, Inc."
+        },
+        {
+            "question": "Where is American Software headquartered?",
+            "answer": "American Software is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What are the main products of American Software?",
+            "answer": "The main products include Demand Planning, Inventory Optimization, and Transportation Management solutions."
+        },
+        {
+            "question": "When was American Software founded?",
+            "answer": "American Software was founded in 1970."
+        }
+    ],
+    "competitors": [
+        "SAP",
+        "ORCL",
+        "MANH",
+        "JDA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "ADBE",
+        "CRM"
+    ]
+}

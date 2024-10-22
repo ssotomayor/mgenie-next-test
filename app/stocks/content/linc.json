@@ -1,0 +1,99 @@
+{
+    "ticker": "LINC",
+    "name": "Lincoln Educational Services Corporation",
+    "description": "Lincoln Educational Services Corporation is a leading provider of career-oriented post-secondary education, primarily focused on preparing students for successful careers in various fields, including automotive technology, health sciences, business, and information technology. Founded in 1946, Lincoln has built a strong reputation for delivering quality education through hands-on training, experienced instructors, and a curriculum designed to meet the evolving needs of employers. The company operates multiple campuses across the United States and offers online programs, catering to a diverse student population. Lincoln's mission is to empower students to achieve their career goals by providing them with the skills and knowledge necessary to excel in their chosen profession. The institution emphasizes not only technical skills but also soft skills, ensuring that graduates are well-rounded and ready to thrive in the workforce. Over the years, Lincoln has evolved its programs to align with industry standards and market demands, positioning itself as a valuable resource for both students and employers seeking qualified professionals.",
+    "industry": [
+        "Education",
+        "Vocational Training"
+    ],
+    "headquarters": "West Orange, New Jersey, USA",
+    "founded": "1946",
+    "website": "https://www.lincolntech.edu",
+    "ceo": "Scott S. Moffitt",
+    "social_media": {
+        "twitter": "https://twitter.com/LincolnTech",
+        "linkedin": "https://www.linkedin.com/company/lincoln-educational-services/"
+    },
+    "investor_relations": "https://ir.lincolntech.edu",
+    "key_executives": [
+        {
+            "name": "Scott S. Moffitt",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael C. McMahon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automotive Technology",
+            "products": [
+                "Automotive Service Technician Program",
+                "Diesel Technology Program"
+            ]
+        },
+        {
+            "category": "Health Sciences",
+            "products": [
+                "Medical Assistant Program",
+                "Nursing Program"
+            ]
+        },
+        {
+            "category": "Business",
+            "products": [
+                "Business Administration Program",
+                "Accounting Program"
+            ]
+        },
+        {
+            "category": "Information Technology",
+            "products": [
+                "Cyber Security Program",
+                "Network Administration Program"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lincoln Educational Services Corporation | Career-Oriented Education",
+        "meta_description": "Explore Lincoln Educational Services Corporation, a leader in vocational training and career-oriented education. Discover programs in automotive, health sciences, business, and IT.",
+        "keywords": [
+            "Lincoln Tech",
+            "Vocational Training",
+            "Career Education",
+            "Automotive Technology",
+            "Health Sciences",
+            "Business Administration"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What types of programs does Lincoln offer?",
+            "answer": "Lincoln offers programs in automotive technology, health sciences, business, and information technology."
+        },
+        {
+            "question": "Where is Lincoln Educational Services headquartered?",
+            "answer": "Lincoln is headquartered in West Orange, New Jersey, USA."
+        },
+        {
+            "question": "When was Lincoln founded?",
+            "answer": "Lincoln was founded in 1946."
+        },
+        {
+            "question": "What is Lincoln's mission?",
+            "answer": "Lincoln's mission is to empower students to achieve their career goals through quality education and training."
+        }
+    ],
+    "competitors": [
+        "EDMC",
+        "APOL",
+        "VTI"
+    ],
+    "related_stocks": [
+        "APOL",
+        "EDMC",
+        "CPLA",
+        "COCO"
+    ]
+}

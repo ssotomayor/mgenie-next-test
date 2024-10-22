@@ -1,0 +1,97 @@
+{
+    "ticker": "IBMS",
+    "name": "International Business Machine Solutions",
+    "description": "International Business Machine Solutions (IBMS) is a global leader in technology and consulting services, renowned for its innovative solutions that drive digital transformation for businesses across various industries. Founded in 1911, IBMS has a rich history of delivering cutting-edge technology, including cloud computing, artificial intelligence, blockchain, and data analytics. The company aims to empower organizations to harness the power of technology to enhance operational efficiency and improve customer experiences. With a strong emphasis on research and development, IBMS invests significantly in emerging technologies to stay at the forefront of the digital landscape. The company is committed to sustainability and corporate social responsibility, focusing on initiatives that promote environmental stewardship and ethical practices in the tech industry. Its extensive portfolio includes services such as IT infrastructure, cybersecurity, enterprise applications, and consulting, catering to a diverse clientele that ranges from small businesses to Fortune 500 companies. IBMS continues to expand its global footprint, with operations in over 170 countries, ensuring that it provides localized solutions tailored to meet the unique needs of its clients. With a vision to create a smarter planet, IBMS is transforming industries and shaping the future through its innovative technology solutions and strategic partnerships.",
+    "industry": [
+        "Technology",
+        "Consulting"
+    ],
+    "headquarters": "Armonk, New York, USA",
+    "founded": "1911",
+    "website": "https://www.ibm.com",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBM",
+        "linkedin": "https://www.linkedin.com/company/ibm/",
+        "youtube": "https://www.youtube.com/user/IBM"
+    },
+    "investor_relations": "https://www.ibm.com/investors",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "James Kavanaugh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "IBM Cloud",
+                "IBM Cloud Pak"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "IBM Watson"
+            ]
+        },
+        {
+            "category": "Data & Analytics",
+            "products": [
+                "IBM Cognos",
+                "IBM SPSS"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "International Business Machine Solutions | Technology & Consulting",
+        "meta_description": "Explore International Business Machine Solutions (IBMS), a leader in technology and consulting services. Learn about our innovative solutions and commitment to digital transformation.",
+        "keywords": [
+            "IBMS",
+            "Technology Solutions",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Consulting Services",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does IBMS specialize in?",
+            "answer": "IBMS specializes in technology and consulting services, including cloud computing, artificial intelligence, and data analytics."
+        },
+        {
+            "question": "Who is the CEO of IBMS?",
+            "answer": "Arvind Krishna is the CEO of International Business Machine Solutions."
+        },
+        {
+            "question": "Where is IBMS headquartered?",
+            "answer": "IBMS is headquartered in Armonk, New York, USA."
+        },
+        {
+            "question": "What are IBMS's main product categories?",
+            "answer": "IBMS's main product categories include Cloud Computing, Artificial Intelligence, and Data Analytics."
+        },
+        {
+            "question": "When was IBMS founded?",
+            "answer": "IBMS was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "GOOGL",
+        "ORCL",
+        "SAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "CSCO",
+        "INTC"
+    ]
+}

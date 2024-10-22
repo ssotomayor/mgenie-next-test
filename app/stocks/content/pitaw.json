@@ -1,0 +1,93 @@
+{
+    "ticker": "PITAW",
+    "name": "Pita Way, Inc.",
+    "description": "Pita Way, Inc. is a fast-casual restaurant chain specializing in authentic Mediterranean cuisine, particularly focusing on fresh pita wraps, salads, and bowls. Established in 2015, Pita Way aims to provide high-quality, healthy meal options that cater to diverse dietary preferences, including vegetarian, vegan, and gluten-free options. The company prides itself on sourcing fresh, local ingredients and offers a customizable menu that allows customers to create their perfect meal. With a commitment to customer satisfaction and community involvement, Pita Way has rapidly expanded its footprint across the United States, providing a welcoming atmosphere for families and individuals alike. The brand emphasizes quick service without compromising quality, making it a popular choice for health-conscious diners on the go. Pita Way also focuses on sustainability by using eco-friendly packaging and reducing food waste through efficient operations. As the demand for healthy eating options continues to grow, Pita Way is positioned to become a leader in the fast-casual dining sector, blending tradition with modern dining trends.",
+    "industry": [
+        "Restaurants",
+        "Food & Beverage"
+    ],
+    "headquarters": "Grand Rapids, Michigan, USA",
+    "founded": "2015",
+    "website": "https://www.pitaway.com",
+    "ceo": "John Doe",
+    "social_media": {
+        "twitter": "https://twitter.com/PitaWay",
+        "linkedin": "https://www.linkedin.com/company/pitaway/",
+        "instagram": "https://www.instagram.com/pitaway/"
+    },
+    "investor_relations": "https://ir.pitaway.com",
+    "key_executives": [
+        {
+            "name": "John Doe",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pita Wraps",
+            "products": [
+                "Chicken Pita",
+                "Falafel Pita",
+                "Beef Shawarma Pita"
+            ]
+        },
+        {
+            "category": "Salads",
+            "products": [
+                "Greek Salad",
+                "Mediterranean Quinoa Salad"
+            ]
+        },
+        {
+            "category": "Bowls",
+            "products": [
+                "Chicken Bowl",
+                "Vegan Bowl"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pita Way, Inc. | Fresh Mediterranean Cuisine",
+        "meta_description": "Explore Pita Way, Inc., your go-to destination for fresh Mediterranean cuisine. Enjoy customizable pita wraps, salads, and bowls made with local ingredients.",
+        "keywords": [
+            "Pita Way",
+            "Mediterranean Food",
+            "Healthy Eating",
+            "Pita Wraps",
+            "Fast-Casual Dining"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of cuisine does Pita Way offer?",
+            "answer": "Pita Way offers authentic Mediterranean cuisine, specializing in pita wraps, salads, and bowls."
+        },
+        {
+            "question": "Where is Pita Way headquartered?",
+            "answer": "Pita Way is headquartered in Grand Rapids, Michigan, USA."
+        },
+        {
+            "question": "What are Pita Way's main products?",
+            "answer": "Pita Way's main products include chicken pita, falafel pita, beef shawarma pita, salads, and various bowls."
+        },
+        {
+            "question": "When was Pita Way founded?",
+            "answer": "Pita Way was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "CMG",
+        "SHAK",
+        "FAT"
+    ],
+    "related_stocks": [
+        "SBUX",
+        "MCD",
+        "YUM",
+        "DPZ"
+    ]
+}

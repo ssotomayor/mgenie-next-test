@@ -1,0 +1,93 @@
+{
+    "ticker": "SABR",
+    "name": "Sabre Corporation",
+    "description": "Sabre Corporation is a leading technology provider to the global travel and tourism industry. Founded in 1960 and headquartered in Southlake, Texas, Sabre operates a comprehensive travel marketplace that connects travel suppliers and buyers through its advanced technology solutions. The company's platform supports travel agencies, airlines, hotels, and travel management companies, enabling them to manage their operations efficiently and effectively. Sabre\u2019s core offerings include a global distribution system (GDS) that allows travel agents to book flights, hotels, car rentals, and vacation packages, as well as software solutions for airlines and hotels to optimize their operations and enhance their customer experience. With a strong focus on innovation, Sabre invests heavily in data analytics, artificial intelligence, and machine learning to provide cutting-edge solutions that meet the evolving needs of the travel industry. The company plays a critical role in facilitating seamless travel experiences for millions of travelers every year. Sabre's mission is to empower the travel industry through technology that drives growth and efficiency, while also enhancing the traveler experience through personalized services and insights.",
+    "industry": [
+        "Technology",
+        "Travel and Tourism"
+    ],
+    "headquarters": "Southlake, Texas, USA",
+    "founded": "1960",
+    "website": "https://www.sabre.com",
+    "ceo": "Kurt Ekert",
+    "social_media": {
+        "twitter": "https://twitter.com/SabreCorp",
+        "linkedin": "https://www.linkedin.com/company/sabre/",
+        "facebook": "https://www.facebook.com/SabreCorp",
+        "instagram": "https://www.instagram.com/sabrecorp/"
+    },
+    "investor_relations": "https://ir.sabre.com",
+    "key_executives": [
+        {
+            "name": "Kurt Ekert",
+            "position": "CEO"
+        },
+        {
+            "name": "Doug Barnett",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Travel Solutions",
+            "products": [
+                "Global Distribution System",
+                "Airline Solutions",
+                "Hotel Solutions",
+                "Travel Agency Solutions"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Data Intelligence",
+                "Travel Insights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sabre Corporation | Travel Technology Solutions",
+        "meta_description": "Discover Sabre Corporation, a leader in travel technology solutions. Explore our innovative offerings that connect travel suppliers and buyers.",
+        "keywords": [
+            "Sabre",
+            "Travel Technology",
+            "Global Distribution System",
+            "Airline Solutions",
+            "Travel Insights"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Sabre Corporation do?",
+            "answer": "Sabre Corporation provides technology solutions for the travel and tourism industry, including a global distribution system and various software applications."
+        },
+        {
+            "question": "Who is the CEO of Sabre Corporation?",
+            "answer": "Kurt Ekert is the CEO of Sabre Corporation."
+        },
+        {
+            "question": "Where is Sabre headquartered?",
+            "answer": "Sabre is headquartered in Southlake, Texas, USA."
+        },
+        {
+            "question": "What are Sabre's main products?",
+            "answer": "Sabre's main products include the Global Distribution System, Airline Solutions, Hotel Solutions, and Data Intelligence tools."
+        },
+        {
+            "question": "When was Sabre founded?",
+            "answer": "Sabre was founded in 1960."
+        }
+    ],
+    "competitors": [
+        "AMSN",
+        "TRIP",
+        "EXPE",
+        "BKNG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

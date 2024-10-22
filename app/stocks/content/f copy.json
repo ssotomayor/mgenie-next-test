@@ -1,0 +1,97 @@
+{
+    "ticker": "F",
+    "name": "Ford Motor Company",
+    "description": "Ford Motor Company is an iconic American multinational automaker headquartered in Dearborn, Michigan. Founded by Henry Ford on June 16, 1903, the company revolutionized the automotive industry with its introduction of assembly line production techniques, making vehicles more affordable and accessible to the masses. Ford is known for producing a wide range of vehicles, including cars, trucks, SUVs, and electric vehicles. The company\u2019s flagship products include the Ford F-Series, which has been the best-selling truck in the United States for decades, and the Ford Mustang, an enduring symbol of American automotive culture. In recent years, Ford has made significant investments in electric vehicle technology and smart mobility solutions, aiming to lead the transition to sustainable transportation. The company has committed to investing billions in electric vehicle development and plans to launch numerous electric models in the coming years. Ford\u2019s mission is to deliver high-quality vehicles that meet the needs of consumers while prioritizing safety, sustainability, and innovative technologies. With a rich history and a forward-looking approach, Ford continues to be a significant player in the global automotive market.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Dearborn, Michigan, USA",
+    "founded": "1903",
+    "website": "https://www.ford.com",
+    "ceo": "Jim Farley",
+    "social_media": {
+        "twitter": "https://twitter.com/Ford",
+        "linkedin": "https://www.linkedin.com/company/ford-motor-company/",
+        "instagram": "https://www.instagram.com/ford/"
+    },
+    "investor_relations": "https://investor.ford.com",
+    "key_executives": [
+        {
+            "name": "Jim Farley",
+            "position": "CEO"
+        },
+        {
+            "name": "John Lawler",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cars",
+            "products": [
+                "Ford Mustang",
+                "Ford Fusion"
+            ]
+        },
+        {
+            "category": "Trucks",
+            "products": [
+                "Ford F-150",
+                "Ford Ranger"
+            ]
+        },
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "Ford Mustang Mach-E",
+                "Ford F-150 Lightning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ford Motor Company | Innovation in Automotive",
+        "meta_description": "Explore Ford Motor Company, a leader in the automotive industry known for its innovation, electric vehicles, and commitment to sustainability. Discover Ford's rich history and future plans.",
+        "keywords": [
+            "Ford",
+            "Automotive",
+            "Electric Vehicles",
+            "Ford Mustang",
+            "Ford F-150",
+            "Sustainability"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Ford known for?",
+            "answer": "Ford is known for its automobiles, especially its trucks and the iconic Ford Mustang."
+        },
+        {
+            "question": "Who is the CEO of Ford?",
+            "answer": "Jim Farley is the CEO of Ford Motor Company."
+        },
+        {
+            "question": "Where is Ford headquartered?",
+            "answer": "Ford is headquartered in Dearborn, Michigan, USA."
+        },
+        {
+            "question": "What are Ford's main products?",
+            "answer": "Ford's main products include the Ford F-Series trucks, Ford Mustang, and a growing lineup of electric vehicles."
+        },
+        {
+            "question": "When was Ford founded?",
+            "answer": "Ford was founded on June 16, 1903."
+        }
+    ],
+    "competitors": [
+        "GM",
+        "FCAU",
+        "TSLA",
+        "HMC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

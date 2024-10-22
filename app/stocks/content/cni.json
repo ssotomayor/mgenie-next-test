@@ -1,0 +1,83 @@
+{
+    "ticker": "CNI",
+    "name": "Canadian National Railway Company",
+    "description": "Canadian National Railway Company (CNI) is a leading North American transportation and logistics company headquartered in Montreal, Quebec, Canada. Established in 1919, CNI operates the largest railway network in Canada, spanning approximately 32,000 miles across Canada and into the United States. The company provides integrated rail and intermodal services, including the transportation of a diverse range of goods such as automotive, coal, grain, and intermodal containers. CNI plays a crucial role in facilitating trade and commerce across North America, linking key markets and ports. The company's commitment to sustainability is reflected in its investments in technology and initiatives aimed at reducing greenhouse gas emissions. CNI is also focused on enhancing operational efficiency and customer service, employing advanced analytics and automation to optimize its logistics processes. With a strong emphasis on safety, CNI continues to uphold high standards in rail operations, ensuring the safe transit of goods. The company\u2019s strategic initiatives include expanding its intermodal network and optimizing its routes to meet the growing demands of the North American economy.",
+    "industry": [
+        "Transportation",
+        "Logistics",
+        "Railroad"
+    ],
+    "headquarters": "Montreal, Quebec, Canada",
+    "founded": "1919",
+    "website": "https://www.cn.ca",
+    "ceo": "Jean-Jacques Ruest",
+    "social_media": {
+        "twitter": "https://twitter.com/CN_rail",
+        "linkedin": "https://www.linkedin.com/company/canadian-national-railway/"
+    },
+    "investor_relations": "https://www.cn.ca/en/investors",
+    "key_executives": [
+        {
+            "name": "Jean-Jacques Ruest",
+            "position": "CEO"
+        },
+        {
+            "name": "Ghislain Parent",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Rail Services",
+            "products": [
+                "Freight Transportation",
+                "Intermodal Services",
+                "Bulk Transportation"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Canadian National Railway Company | Leading North American Transportation",
+        "meta_description": "Explore Canadian National Railway Company, a top transportation and logistics provider in North America, specializing in rail services and sustainability.",
+        "keywords": [
+            "Canadian National Railway",
+            "CNI",
+            "Rail Transportation",
+            "Logistics",
+            "Intermodal Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Canadian National Railway do?",
+            "answer": "Canadian National Railway provides freight transportation and logistics services across North America."
+        },
+        {
+            "question": "Who is the CEO of Canadian National Railway?",
+            "answer": "The CEO of Canadian National Railway is Jean-Jacques Ruest."
+        },
+        {
+            "question": "Where is Canadian National Railway headquartered?",
+            "answer": "Canadian National Railway is headquartered in Montreal, Quebec, Canada."
+        },
+        {
+            "question": "What are the main services provided by Canadian National Railway?",
+            "answer": "Canadian National Railway's main services include freight transportation, intermodal services, and bulk transportation."
+        },
+        {
+            "question": "When was Canadian National Railway founded?",
+            "answer": "Canadian National Railway was founded in 1919."
+        }
+    ],
+    "competitors": [
+        "CSX",
+        "NSC",
+        "UNP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

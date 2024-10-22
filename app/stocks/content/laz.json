@@ -1,0 +1,96 @@
+{
+    "ticker": "LAZ",
+    "name": "Lazard Ltd",
+    "description": "Lazard Ltd is a leading financial advisory and asset management firm, renowned for its expertise in providing strategic advice and investment solutions to a diverse range of clients. Founded in 1848, Lazard has a rich heritage and a global presence, operating in over 40 locations worldwide. The firm specializes in mergers and acquisitions, restructuring, capital raising, and financial advisory services, catering to corporations, governments, and institutions. Lazard\u2019s asset management division offers investment strategies across various asset classes, including equities, fixed income, and alternative investments, focusing on delivering superior risk-adjusted returns. The company prides itself on its independent approach and commitment to client service, leveraging deep industry knowledge and a collaborative culture to achieve optimal outcomes for its clients. With a team of seasoned professionals and a client-centric philosophy, Lazard continues to be a trusted advisor in the financial markets, navigating complex challenges and creating value for its stakeholders. In an ever-changing economic landscape, Lazard remains dedicated to maintaining its leadership position through innovation, integrity, and a relentless focus on excellence.",
+    "industry": [
+        "Financial Services",
+        "Investment Banking",
+        "Asset Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1848",
+    "website": "https://www.lazard.com",
+    "ceo": "Peter Orszag",
+    "social_media": {
+        "twitter": "https://twitter.com/Lazard",
+        "linkedin": "https://www.linkedin.com/company/lazard-ltd/"
+    },
+    "investor_relations": "https://www.lazard.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Peter Orszag",
+            "position": "CEO"
+        },
+        {
+            "name": "Alexandre de Rothschild",
+            "position": "Executive Chairman"
+        },
+        {
+            "name": "Evan Russo",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Financial Advisory",
+            "services": [
+                "Mergers and Acquisitions",
+                "Restructuring",
+                "Capital Raising"
+            ]
+        },
+        {
+            "category": "Asset Management",
+            "services": [
+                "Equities",
+                "Fixed Income",
+                "Alternative Investments"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lazard Ltd | Financial Advisory and Asset Management",
+        "meta_description": "Explore Lazard Ltd, a global leader in financial advisory and asset management. Discover our services, expertise, and commitment to client success.",
+        "keywords": [
+            "Lazard",
+            "Financial Advisory",
+            "Mergers and Acquisitions",
+            "Asset Management",
+            "Investment Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Lazard known for?",
+            "answer": "Lazard is known for its financial advisory services, particularly in mergers and acquisitions and restructuring, as well as its asset management expertise."
+        },
+        {
+            "question": "Who is the CEO of Lazard?",
+            "answer": "Peter Orszag is the CEO of Lazard Ltd."
+        },
+        {
+            "question": "Where is Lazard headquartered?",
+            "answer": "Lazard is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are the main services offered by Lazard?",
+            "answer": "Lazard offers financial advisory services, including mergers and acquisitions, restructuring, and capital raising, as well as asset management across various asset classes."
+        },
+        {
+            "question": "When was Lazard founded?",
+            "answer": "Lazard was founded in 1848."
+        }
+    ],
+    "competitors": [
+        "GS",
+        "MS",
+        "JPM",
+        "EVR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "BRK.B",
+        "FB"
+    ]
+}

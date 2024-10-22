@@ -1,0 +1,91 @@
+{
+    "ticker": "MYPS",
+    "name": "My Personal Stylist, Inc.",
+    "description": "My Personal Stylist, Inc. is a leading online personal styling service that connects customers with professional stylists to curate personalized fashion experiences. Founded in 2015, the company aims to revolutionize the way people shop for clothing by offering tailored fashion advice and curated clothing selections delivered directly to their doorsteps. With a focus on enhancing individual style and confidence, My Personal Stylist combines advanced algorithms with human expertise to understand customer preferences, body types, and lifestyles. Clients can enjoy a hassle-free shopping experience by receiving a box of handpicked clothing and accessories, which they can try on at home and purchase only what they love. My Personal Stylist is committed to inclusivity, offering a diverse range of styles and sizes to cater to every individual. The company also emphasizes sustainability by partnering with brands that prioritize ethical production practices. As a pioneer in the personal styling industry, My Personal Stylist continues to innovate, utilizing customer feedback and data analytics to refine its offerings and enhance customer satisfaction.",
+    "industry": [
+        "E-commerce",
+        "Fashion"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2015",
+    "website": "https://www.mypersonalstylist.com",
+    "ceo": "Jessica Taylor",
+    "social_media": {
+        "twitter": "https://twitter.com/MyPersonalStylist",
+        "instagram": "https://www.instagram.com/mypersonalstylist",
+        "facebook": "https://www.facebook.com/mypersonalstylist"
+    },
+    "investor_relations": "https://ir.mypersonalstylist.com",
+    "key_executives": [
+        {
+            "name": "Jessica Taylor",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Clothing",
+            "products": [
+                "Dresses",
+                "Tops",
+                "Pants",
+                "Outerwear"
+            ]
+        },
+        {
+            "category": "Accessories",
+            "products": [
+                "Bags",
+                "Jewelry",
+                "Shoes"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "My Personal Stylist, Inc. | Personalized Fashion Styling Services",
+        "meta_description": "Discover My Personal Stylist, Inc., a premier online personal styling service that delivers curated fashion experiences tailored to your unique style.",
+        "keywords": [
+            "Personal Stylist",
+            "Fashion Services",
+            "Online Shopping",
+            "Personalized Styling",
+            "Curated Fashion"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does My Personal Stylist offer?",
+            "answer": "My Personal Stylist offers personalized fashion styling services, including curated clothing and accessory selections delivered to your home."
+        },
+        {
+            "question": "How does the styling process work?",
+            "answer": "Clients fill out a style profile, and our stylists curate a selection of items based on their preferences, which are sent for trial at home."
+        },
+        {
+            "question": "What is the return policy?",
+            "answer": "Clients can return any items they don't wish to keep, with free return shipping."
+        },
+        {
+            "question": "Where is My Personal Stylist located?",
+            "answer": "My Personal Stylist is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was My Personal Stylist founded?",
+            "answer": "My Personal Stylist was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "STYL",
+        "KSS",
+        "ASOS"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "ETSY",
+        "SHOP"
+    ]
+}

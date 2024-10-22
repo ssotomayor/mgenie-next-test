@@ -1,0 +1,89 @@
+{
+    "ticker": "IDEV",
+    "name": "Innovative Development Corporation",
+    "description": "Innovative Development Corporation (IDEV) is a leading firm focused on providing cutting-edge solutions in technology, software development, and consulting services. Established in 2010, IDEV has rapidly grown into a trusted partner for businesses seeking to enhance their operational efficiency and drive innovation. The company specializes in customized software solutions, data analytics, and digital transformation strategies tailored to meet the unique needs of various industries, including finance, healthcare, and retail. IDEV prides itself on its team of highly skilled professionals who leverage advanced technologies such as artificial intelligence, machine learning, and cloud computing to deliver high-quality products and services. With a commitment to excellence and customer satisfaction, IDEV works closely with clients to identify challenges and implement effective strategies that result in measurable improvements. The company's mission is to empower businesses to thrive in an increasingly digital world by providing them with the tools and expertise they need to succeed. IDEV's vision extends beyond immediate client needs, aiming to shape the future of technology through innovative solutions that create lasting value.",
+    "industry": [
+        "Technology",
+        "Software Development",
+        "Consulting"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.idevcorp.com",
+    "ceo": "Jessica Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/IDEVCorp",
+        "linkedin": "https://www.linkedin.com/company/idev-corporation/"
+    },
+    "investor_relations": "https://ir.idevcorp.com",
+    "key_executives": [
+        {
+            "name": "Jessica Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Software Solutions",
+            "products": [
+                "Custom Software Development",
+                "Mobile Applications",
+                "Web Applications"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Business Strategy Consulting",
+                "Digital Transformation",
+                "Data Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Innovative Development Corporation | Technology Solutions & Consulting",
+        "meta_description": "Discover Innovative Development Corporation, a leader in technology solutions and consulting. Explore IDEV's innovative products and services designed to empower businesses.",
+        "keywords": [
+            "IDEV",
+            "Technology Solutions",
+            "Software Development",
+            "Consulting Services",
+            "Digital Transformation",
+            "Data Analytics"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does IDEV offer?",
+            "answer": "IDEV offers software solutions, consulting services, and digital transformation strategies."
+        },
+        {
+            "question": "Who is the CEO of Innovative Development Corporation?",
+            "answer": "Jessica Smith is the CEO of IDEV."
+        },
+        {
+            "question": "Where is IDEV headquartered?",
+            "answer": "IDEV is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was IDEV founded?",
+            "answer": "IDEV was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ADBE",
+        "SAP",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

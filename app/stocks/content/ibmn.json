@@ -1,0 +1,100 @@
+{
+    "ticker": "IBMN",
+    "name": "IBM Corporation",
+    "description": "IBM Corporation, founded in 1911, is a global leader in technology and consulting services. With a rich history spanning over a century, IBM has evolved from its early beginnings as a hardware manufacturer into a modern powerhouse in cloud computing, artificial intelligence (AI), and enterprise software solutions. The company is renowned for its innovative technologies, including the IBM Watson AI platform, which harnesses the power of machine learning and natural language processing to enable businesses to make data-driven decisions. IBM also offers a robust suite of cloud services, allowing organizations to leverage the scalability and flexibility of cloud technology. The company is committed to advancing quantum computing, having made significant investments in research and development to lead in this transformative area. Furthermore, IBM is dedicated to social responsibility and ethical AI, working to ensure that technology serves humanity positively. With a diverse portfolio that includes cybersecurity, blockchain, and data analytics, IBM continues to drive digital transformation across various industries, helping clients navigate the complexities of the modern tech landscape.",
+    "industry": [
+        "Information Technology",
+        "Consulting",
+        "Cloud Computing",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "Armonk, New York, USA",
+    "founded": "1911",
+    "website": "https://www.ibm.com",
+    "ceo": "Arvind Krishna",
+    "social_media": {
+        "twitter": "https://twitter.com/IBM",
+        "linkedin": "https://www.linkedin.com/company/ibm/",
+        "youtube": "https://www.youtube.com/user/IBM"
+    },
+    "investor_relations": "https://www.ibm.com/investor",
+    "key_executives": [
+        {
+            "name": "Arvind Krishna",
+            "position": "CEO"
+        },
+        {
+            "name": "James Kavanaugh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Computing",
+            "products": [
+                "IBM Cloud",
+                "IBM Cloud Pak"
+            ]
+        },
+        {
+            "category": "Artificial Intelligence",
+            "products": [
+                "IBM Watson",
+                "IBM Watson Assistant"
+            ]
+        },
+        {
+            "category": "Security",
+            "products": [
+                "IBM Security QRadar",
+                "IBM Cloud Security"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "IBM Corporation | Leading Technology and Consulting Services",
+        "meta_description": "Discover IBM Corporation, a global leader in technology and consulting services. Explore IBM's innovative products and solutions in cloud computing, AI, and enterprise software.",
+        "keywords": [
+            "IBM",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Consulting",
+            "Quantum Computing",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is IBM known for?",
+            "answer": "IBM is known for its technology solutions, including cloud computing, artificial intelligence, and enterprise software."
+        },
+        {
+            "question": "Who is the CEO of IBM?",
+            "answer": "Arvind Krishna is the CEO of IBM Corporation."
+        },
+        {
+            "question": "Where is IBM headquartered?",
+            "answer": "IBM is headquartered in Armonk, New York, USA."
+        },
+        {
+            "question": "What are IBM's main products?",
+            "answer": "IBM's main products include IBM Cloud, IBM Watson, and various security solutions."
+        },
+        {
+            "question": "When was IBM founded?",
+            "answer": "IBM was founded in 1911."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "ORCL",
+        "SAP",
+        "ADBE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "CSCO"
+    ]
+}

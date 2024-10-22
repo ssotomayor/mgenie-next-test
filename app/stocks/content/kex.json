@@ -1,0 +1,86 @@
+{
+    "ticker": "KEX",
+    "name": "Kirby Corporation",
+    "description": "Kirby Corporation is a leading provider of marine transportation, diesel engine services, and power generation solutions, primarily servicing the inland waterways of the United States. Founded in 1969 and headquartered in Houston, Texas, Kirby operates one of the largest fleets of inland tank barges and towing vessels in the U.S. The company\u2019s marine segment primarily transports petrochemicals, crude oil, and refined petroleum products along the inland river system. In addition to its marine operations, Kirby's diesel engine segment offers aftermarket services and parts for diesel engines, focusing on the power generation, transportation, and industrial markets. Kirby is committed to safety and environmental stewardship in all its operations, continuously investing in technology and training to ensure the highest standards are maintained. The company has a strong record of reliability and customer service, making it a trusted partner in the logistics and transportation sectors. With a diverse portfolio and a focus on operational excellence, Kirby aims to adapt to the evolving energy landscape while remaining a key player in the marine and industrial service industries.",
+    "industry": [
+        "Transportation",
+        "Logistics",
+        "Marine Services"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1969",
+    "website": "https://www.kirbycorp.com",
+    "ceo": "David W. Grzebinski",
+    "social_media": {
+        "twitter": "https://twitter.com/KirbyCorp",
+        "linkedin": "https://www.linkedin.com/company/kirby-corporation/"
+    },
+    "investor_relations": "https://investors.kirbycorp.com",
+    "key_executives": [
+        {
+            "name": "David W. Grzebinski",
+            "position": "CEO"
+        },
+        {
+            "name": "E. L. (Ted) Dyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Marine Transportation",
+            "services": [
+                "Inland Tank Barges",
+                "Towing Services"
+            ]
+        },
+        {
+            "category": "Diesel Engine Services",
+            "services": [
+                "Aftermarket Services",
+                "Parts Supply"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Kirby Corporation | Marine Transportation and Diesel Engine Services",
+        "meta_description": "Explore Kirby Corporation, a leading provider of marine transportation services and diesel engine repairs, committed to safety and innovation in the logistics sector.",
+        "keywords": [
+            "Kirby Corporation",
+            "Marine Transportation",
+            "Diesel Engine Services",
+            "Inland Waterways",
+            "Logistics",
+            "Towing Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Kirby Corporation provide?",
+            "answer": "Kirby Corporation provides marine transportation and diesel engine services, primarily focused on inland waterways."
+        },
+        {
+            "question": "Who is the CEO of Kirby Corporation?",
+            "answer": "David W. Grzebinski is the CEO of Kirby Corporation."
+        },
+        {
+            "question": "Where is Kirby Corporation headquartered?",
+            "answer": "Kirby Corporation is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Kirby Corporation founded?",
+            "answer": "Kirby Corporation was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "GWW",
+        "MATX",
+        "SEMG"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "HAL",
+        "SLB"
+    ]
+}

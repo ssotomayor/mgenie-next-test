@@ -1,0 +1,93 @@
+{
+    "ticker": "BB",
+    "name": "BlackBerry Limited",
+    "description": "BlackBerry Limited is a global leader in cybersecurity and embedded systems, known for its innovative software solutions and services. Originally founded in 1984 as Research In Motion (RIM), BlackBerry revolutionized the mobile communications industry with its iconic smartphones, particularly the BlackBerry devices that were popular for their secure messaging capabilities. Today, the company has pivoted away from hardware to focus on software, particularly in the areas of cybersecurity, IoT (Internet of Things), and enterprise mobility management. BlackBerry's cybersecurity solutions help organizations protect their data and systems from cyber threats, while its QNX software is widely used in the automotive sector for embedded systems and safety-critical applications. With a strong emphasis on security and privacy, BlackBerry continues to drive innovation in the tech industry, catering to a growing demand for secure communications and data protection in an increasingly digital world. The company's mission is to secure the connected world by providing innovative and effective solutions that empower businesses to thrive in a secure environment.",
+    "industry": [
+        "Cybersecurity",
+        "Software",
+        "Automotive"
+    ],
+    "headquarters": "Waterloo, Ontario, Canada",
+    "founded": "1984",
+    "website": "https://www.blackberry.com",
+    "ceo": "John Chen",
+    "social_media": {
+        "twitter": "https://twitter.com/BlackBerry",
+        "linkedin": "https://www.linkedin.com/company/blackberry",
+        "youtube": "https://www.youtube.com/user/BlackBerry"
+    },
+    "investor_relations": "https://investors.blackberry.com",
+    "key_executives": [
+        {
+            "name": "John Chen",
+            "position": "CEO"
+        },
+        {
+            "name": "Steve Rai",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "BlackBerry Cybersecurity Services",
+                "BlackBerry Protect",
+                "BlackBerry Guard"
+            ]
+        },
+        {
+            "category": "Embedded Systems",
+            "products": [
+                "BlackBerry QNX",
+                "BlackBerry IVY"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "BlackBerry Limited | Cybersecurity and Embedded Systems",
+        "meta_description": "Explore BlackBerry Limited, a leader in cybersecurity and embedded systems. Discover innovative software solutions designed to protect businesses and enable secure communications.",
+        "keywords": [
+            "BlackBerry",
+            "Cybersecurity",
+            "Embedded Systems",
+            "IoT",
+            "BlackBerry QNX",
+            "Secure Communications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does BlackBerry do?",
+            "answer": "BlackBerry specializes in cybersecurity and embedded systems, providing software solutions that protect data and support secure communications."
+        },
+        {
+            "question": "Who is the CEO of BlackBerry?",
+            "answer": "John Chen is the CEO of BlackBerry Limited."
+        },
+        {
+            "question": "Where is BlackBerry headquartered?",
+            "answer": "BlackBerry is headquartered in Waterloo, Ontario, Canada."
+        },
+        {
+            "question": "What are BlackBerry's main products?",
+            "answer": "BlackBerry's main products include cybersecurity solutions like BlackBerry Protect and embedded systems like BlackBerry QNX."
+        },
+        {
+            "question": "When was BlackBerry founded?",
+            "answer": "BlackBerry was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "PANW",
+        "ZS",
+        "SPLK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "CSCO"
+    ]
+}

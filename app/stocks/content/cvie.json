@@ -1,0 +1,89 @@
+{
+    "ticker": "CVIE",
+    "name": "CureVac N.V.",
+    "description": "CureVac N.V. is a biopharmaceutical company focused on the development of mRNA-based therapies and vaccines for a range of diseases. Founded in 2000 and headquartered in T\u00fcbingen, Germany, CureVac is a pioneer in the field of messenger RNA (mRNA) technology, which harnesses the body's own mechanisms to produce proteins that can prevent or treat diseases. The company gained significant attention for its role in developing an mRNA vaccine for COVID-19 and continues to advance its pipeline of innovative treatments targeting cancer and infectious diseases. CureVac's proprietary mRNA platform enables the design of therapeutics that can stimulate the immune system and produce targeted therapeutic proteins, offering the potential for transformative treatments. With a commitment to scientific excellence and collaboration, CureVac partners with various organizations and institutions to expand the applications of its mRNA technology. The company aims to improve patient outcomes through its novel approaches to medicine while addressing global health challenges.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "T\u00fcbingen, Germany",
+    "founded": "2000",
+    "website": "https://www.curevac.com",
+    "ceo": "Francois de Ris",
+    "social_media": {
+        "twitter": "https://twitter.com/curevac",
+        "linkedin": "https://www.linkedin.com/company/curevac/"
+    },
+    "investor_relations": "https://investors.curevac.com",
+    "key_executives": [
+        {
+            "name": "Francois de Ris",
+            "position": "CEO"
+        },
+        {
+            "name": "Catherine Mazzacco",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "mRNA Vaccines",
+            "products": [
+                "CVnCoV"
+            ]
+        },
+        {
+            "category": "Therapeutics",
+            "products": [
+                "CV8102"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CureVac N.V. | mRNA-based Therapeutics and Vaccines",
+        "meta_description": "Explore CureVac N.V., a leader in mRNA technology and biopharmaceuticals, dedicated to developing innovative therapies and vaccines for various diseases.",
+        "keywords": [
+            "CureVac",
+            "mRNA",
+            "Biotechnology",
+            "Vaccines",
+            "Pharmaceuticals",
+            "COVID-19",
+            "Cancer Treatment"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is CureVac known for?",
+            "answer": "CureVac is known for its innovative mRNA technology and the development of vaccines and therapies for various diseases, including COVID-19."
+        },
+        {
+            "question": "Who is the CEO of CureVac?",
+            "answer": "Francois de Ris is the CEO of CureVac N.V."
+        },
+        {
+            "question": "Where is CureVac headquartered?",
+            "answer": "CureVac is headquartered in T\u00fcbingen, Germany."
+        },
+        {
+            "question": "What are CureVac's main products?",
+            "answer": "CureVac's main products include the COVID-19 vaccine CVnCoV and the cancer immunotherapy CV8102."
+        },
+        {
+            "question": "When was CureVac founded?",
+            "answer": "CureVac was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "MRNA",
+        "BNTX",
+        "PFE",
+        "NVAX"
+    ],
+    "related_stocks": [
+        "ABBV",
+        "AMGN",
+        "GILD",
+        "REGN"
+    ]
+}

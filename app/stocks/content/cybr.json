@@ -1,0 +1,89 @@
+{
+    "ticker": "CYBR",
+    "name": "CyberArk Software Inc.",
+    "description": "CyberArk Software Inc. is a global leader in Identity Security, specializing in protecting organizations from cyber threats that target human and machine identities. Founded in 1999, the company is headquartered in Petah Tikva, Israel, and has grown to become a trusted partner for enterprises seeking to secure their most critical assets. CyberArk's comprehensive suite of solutions focuses on privileged access management, application access management, and endpoint privilege management, enabling organizations to safeguard sensitive data, comply with regulatory requirements, and mitigate risks associated with insider threats and external attacks. The company's flagship product, the CyberArk Privileged Access Security Solution, provides a robust platform for managing and monitoring privileged accounts, thereby preventing unauthorized access and enhancing overall security posture. With a commitment to innovation, CyberArk continuously advances its technology to adapt to the evolving cyber threat landscape, providing customers with the tools they need to secure their digital environments effectively. CyberArk serves a wide array of industries, including financial services, healthcare, and critical infrastructure, helping organizations to embrace digital transformation while maintaining stringent security measures. The company\u2019s mission is to empower organizations to protect their identities, data, and critical systems in an increasingly complex and hostile cyber environment.",
+    "industry": [
+        "Cybersecurity",
+        "Software"
+    ],
+    "headquarters": "Petah Tikva, Israel",
+    "founded": "1999",
+    "website": "https://www.cyberark.com",
+    "ceo": "Udi Mokady",
+    "social_media": {
+        "twitter": "https://twitter.com/CyberArk",
+        "linkedin": "https://www.linkedin.com/company/cyberark/",
+        "youtube": "https://www.youtube.com/user/CyberArkSoftware"
+    },
+    "investor_relations": "https://investors.cyberark.com",
+    "key_executives": [
+        {
+            "name": "Udi Mokady",
+            "position": "CEO"
+        },
+        {
+            "name": "Sammy Migues",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Privileged Access Management",
+            "products": [
+                "CyberArk Privileged Access Security",
+                "CyberArk Endpoint Privilege Manager"
+            ]
+        },
+        {
+            "category": "Application Access Management",
+            "products": [
+                "CyberArk Application Access Manager"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "CyberArk Software Inc. | Identity Security and Cybersecurity Solutions",
+        "meta_description": "Explore CyberArk Software Inc., a leader in Identity Security providing innovative solutions for privileged access management and cybersecurity.",
+        "keywords": [
+            "CyberArk",
+            "Identity Security",
+            "Privileged Access Management",
+            "Cybersecurity",
+            "Data Protection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does CyberArk specialize in?",
+            "answer": "CyberArk specializes in Identity Security, focusing on privileged access management and protecting sensitive data."
+        },
+        {
+            "question": "Who is the CEO of CyberArk?",
+            "answer": "Udi Mokady is the CEO of CyberArk Software Inc."
+        },
+        {
+            "question": "Where is CyberArk headquartered?",
+            "answer": "CyberArk is headquartered in Petah Tikva, Israel."
+        },
+        {
+            "question": "What are CyberArk's main products?",
+            "answer": "CyberArk's main products include the CyberArk Privileged Access Security and CyberArk Endpoint Privilege Manager."
+        },
+        {
+            "question": "When was CyberArk founded?",
+            "answer": "CyberArk was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "PANW",
+        "FTNT",
+        "OKTA",
+        "SPLK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

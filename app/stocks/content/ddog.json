@@ -1,0 +1,87 @@
+{
+    "ticker": "DDOG",
+    "name": "Datadog, Inc.",
+    "description": "Datadog, Inc. is a leading provider of monitoring and analytics solutions for cloud applications. Founded in 2010 by Olivier Pomel and Alexis L\u00ea-Qu\u00f4c, Datadog enables organizations to gain real-time insights into their infrastructure and application performance. The company's platform integrates metrics, logs, and traces in a single solution, allowing DevOps teams to troubleshoot issues, optimize performance, and enhance collaboration across their organizations. With a strong focus on cloud-native technologies, Datadog supports a wide variety of environments, including AWS, Azure, Google Cloud, and Kubernetes. Datadog's commitment to innovation has also led to the development of advanced machine learning capabilities, which help users detect anomalies and predict potential issues before they impact operations. As businesses increasingly rely on digital services and cloud computing, Datadog plays a crucial role in helping them ensure uptime, reliability, and performance of their applications. The company continues to expand its suite of products, including APM (Application Performance Monitoring), log management, and security monitoring solutions, catering to the evolving needs of modern IT environments.",
+    "industry": [
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2010",
+    "website": "https://www.datadoghq.com",
+    "ceo": "Olivier Pomel",
+    "social_media": {
+        "twitter": "https://twitter.com/datadoghq",
+        "linkedin": "https://www.linkedin.com/company/datadog"
+    },
+    "investor_relations": "https://investors.datadoghq.com",
+    "key_executives": [
+        {
+            "name": "Olivier Pomel",
+            "position": "CEO"
+        },
+        {
+            "name": "David Obstler",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/davidobstler/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Monitoring and Analytics",
+            "products": [
+                "Infrastructure Monitoring",
+                "Application Performance Monitoring",
+                "Log Management",
+                "Security Monitoring"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Datadog, Inc. | Monitoring and Analytics for Cloud Applications",
+        "meta_description": "Discover Datadog, Inc., a leader in cloud monitoring and analytics. Learn about Datadog's innovative solutions for IT performance and reliability.",
+        "keywords": [
+            "Datadog",
+            "Cloud Monitoring",
+            "Application Performance Monitoring",
+            "Log Management",
+            "Infrastructure Monitoring",
+            "DevOps"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Datadog do?",
+            "answer": "Datadog provides monitoring and analytics solutions for cloud applications, helping organizations optimize performance and troubleshoot issues."
+        },
+        {
+            "question": "Who is the CEO of Datadog?",
+            "answer": "Olivier Pomel is the CEO of Datadog, Inc."
+        },
+        {
+            "question": "Where is Datadog headquartered?",
+            "answer": "Datadog is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Datadog's main products?",
+            "answer": "Datadog's main products include Infrastructure Monitoring, Application Performance Monitoring, Log Management, and Security Monitoring."
+        },
+        {
+            "question": "When was Datadog founded?",
+            "answer": "Datadog was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "NEWRELIC",
+        "SPLK",
+        "APPD"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "MSFT",
+        "GOOGL",
+        "CRM"
+    ]
+}

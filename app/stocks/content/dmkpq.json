@@ -1,0 +1,90 @@
+{
+    "ticker": "DMKPQ",
+    "name": "Daimler AG",
+    "description": "Daimler AG is a global automotive corporation headquartered in Stuttgart, Germany, renowned for its luxury vehicles, buses, and trucks. Founded in 1886 by Gottlieb Daimler and Carl Benz, the company has a rich history of innovation in the automotive industry. Daimler is best known for its Mercedes-Benz brand, which represents performance, quality, and luxury. The company's product lineup includes a wide range of vehicles, from luxurious sedans like the S-Class to high-performance sports cars such as the AMG series. Additionally, Daimler is a leader in commercial vehicles, producing trucks and buses that are recognized for their efficiency and reliability. With a forward-looking vision, Daimler is heavily investing in electric mobility and autonomous driving technologies, aiming to shape the future of transportation. The company's commitment to sustainability is evident in its strategies to reduce carbon emissions and improve energy efficiency across its operations. Daimler also focuses on digital services and mobility solutions, enhancing the customer experience through innovative technology. As a key player in the automotive sector, Daimler continues to evolve, maintaining its reputation as a symbol of engineering excellence and luxury.",
+    "industry": [
+        "Automotive",
+        "Commercial Vehicles"
+    ],
+    "headquarters": "Stuttgart, Germany",
+    "founded": "1886",
+    "website": "https://www.daimler.com",
+    "ceo": "Ola K\u00e4llenius",
+    "social_media": {
+        "twitter": "https://twitter.com/Daimler",
+        "linkedin": "https://www.linkedin.com/company/daimler-ag/"
+    },
+    "investor_relations": "https://www.daimler.com/investors/",
+    "key_executives": [
+        {
+            "name": "Ola K\u00e4llenius",
+            "position": "CEO"
+        },
+        {
+            "name": "Harald Wilhelm",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Luxury Vehicles",
+            "products": [
+                "Mercedes-Benz S-Class",
+                "Mercedes-Benz E-Class",
+                "Mercedes-Benz GLE"
+            ]
+        },
+        {
+            "category": "Commercial Vehicles",
+            "products": [
+                "Mercedes-Benz Actros",
+                "Mercedes-Benz Sprinter"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Daimler AG | Leading Automotive Manufacturer",
+        "meta_description": "Explore Daimler AG, a pioneer in the automotive industry known for Mercedes-Benz luxury vehicles and its commitment to sustainable transportation.",
+        "keywords": [
+            "Daimler",
+            "Mercedes-Benz",
+            "Luxury Cars",
+            "Commercial Vehicles",
+            "Sustainability",
+            "Electric Mobility"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Daimler AG known for?",
+            "answer": "Daimler AG is known for its luxury vehicles, especially under the Mercedes-Benz brand, as well as its commercial vehicles."
+        },
+        {
+            "question": "Who is the CEO of Daimler AG?",
+            "answer": "Ola K\u00e4llenius is the CEO of Daimler AG."
+        },
+        {
+            "question": "Where is Daimler AG headquartered?",
+            "answer": "Daimler AG is headquartered in Stuttgart, Germany."
+        },
+        {
+            "question": "What are Daimler's main products?",
+            "answer": "Daimler's main products include luxury vehicles, trucks, and buses."
+        },
+        {
+            "question": "When was Daimler AG founded?",
+            "answer": "Daimler AG was founded in 1886."
+        }
+    ],
+    "competitors": [
+        "BMW",
+        "VOW",
+        "F"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "TSLA",
+        "GM",
+        "HMC"
+    ]
+}

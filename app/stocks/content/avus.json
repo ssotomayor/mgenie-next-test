@@ -1,0 +1,88 @@
+{
+    "ticker": "AVUS",
+    "name": "Avantis Investors",
+    "description": "Avantis Investors is an asset management firm that specializes in providing innovative investment solutions designed to enhance long-term wealth. Founded in 2019, Avantis is committed to applying a disciplined, research-driven approach to investing, focusing on delivering strong returns while managing risk. The firm offers a range of investment strategies, including equity and fixed income solutions, tailored to meet the needs of individual and institutional investors. Avantis believes in the power of market efficiency, using a systematic approach to identify opportunities in various asset classes. With a strong emphasis on low costs and transparency, Avantis aims to empower investors with the tools they need to achieve their financial goals. The firm is built on the principles of rigorous academic research and practical investment experience, striving to create value for its clients through innovative strategies that harness the benefits of diversification and active management. Avantis Investors is dedicated to fostering a sustainable investment environment, aligning its investment solutions with the long-term interests of its clients.",
+    "industry": [
+        "Investment Management",
+        "Finance"
+    ],
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2019",
+    "website": "https://www.avantisinvestors.com",
+    "ceo": "Wesley Gray",
+    "social_media": {
+        "twitter": "https://twitter.com/AvantisInvest",
+        "linkedin": "https://www.linkedin.com/company/avantisinvestors/"
+    },
+    "investor_relations": "https://www.avantisinvestors.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Wesley Gray",
+            "position": "CEO"
+        },
+        {
+            "name": "Daniel Koller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Strategies",
+            "products": [
+                "Avantis U.S. Equity Fund",
+                "Avantis International Equity Fund"
+            ]
+        },
+        {
+            "category": "Fixed Income Strategies",
+            "products": [
+                "Avantis U.S. Government Bond Fund",
+                "Avantis Short-Term Bond Fund"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Avantis Investors | Innovative Investment Solutions",
+        "meta_description": "Explore Avantis Investors, an asset management firm focused on delivering innovative investment strategies designed to enhance long-term wealth.",
+        "keywords": [
+            "Avantis Investors",
+            "Investment Management",
+            "Equity Strategies",
+            "Fixed Income",
+            "Wesley Gray"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Avantis Investors known for?",
+            "answer": "Avantis Investors is known for its innovative investment strategies that focus on long-term wealth enhancement."
+        },
+        {
+            "question": "Who is the CEO of Avantis Investors?",
+            "answer": "Wesley Gray is the CEO of Avantis Investors."
+        },
+        {
+            "question": "Where is Avantis Investors headquartered?",
+            "answer": "Avantis Investors is headquartered in Los Angeles, California, USA."
+        },
+        {
+            "question": "What are Avantis Investors' main products?",
+            "answer": "Avantis Investors offers a range of equity and fixed income strategies, including the Avantis U.S. Equity Fund and Avantis International Equity Fund."
+        },
+        {
+            "question": "When was Avantis Investors founded?",
+            "answer": "Avantis Investors was founded in 2019."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "VTI",
+        "SGOV"
+    ],
+    "related_stocks": [
+        "SCHB",
+        "SPY",
+        "IVV",
+        "VIG"
+    ]
+}

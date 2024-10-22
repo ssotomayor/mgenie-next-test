@@ -1,0 +1,90 @@
+{
+    "ticker": "SATL",
+    "name": "Satellogic, Inc.",
+    "description": "Satellogic, Inc. is a leading satellite imagery company that focuses on providing high-resolution Earth observation data to various industries worldwide. Founded in 2010 and headquartered in Buenos Aires, Argentina, Satellogic aims to democratize access to Earth data through its innovative satellite technology. The company operates a constellation of small satellites that capture high-resolution images of the planet, enabling organizations to monitor environmental changes, urban development, agriculture, and disaster response. With a commitment to sustainability and transparency, Satellogic utilizes its satellite data to support decision-making processes for governments, businesses, and NGOs, helping them to address global challenges such as climate change and resource management. The company\u2019s technology allows for frequent revisits of target areas, providing real-time data that is essential for timely insights and actions. Satellogic continues to expand its capabilities and global footprint, fostering partnerships with various sectors to enhance the value of its satellite imagery. Its mission is to make satellite data accessible and affordable to empower informed decision-making for a more sustainable future.",
+    "industry": [
+        "Aerospace",
+        "Technology",
+        "Geospatial"
+    ],
+    "headquarters": "Buenos Aires, Argentina",
+    "founded": "2010",
+    "website": "https://www.satellogic.com",
+    "ceo": "Emilio A. M. L\u00f3pez",
+    "social_media": {
+        "twitter": "https://twitter.com/satellogic",
+        "linkedin": "https://www.linkedin.com/company/satellogic/"
+    },
+    "investor_relations": "https://investors.satellogic.com",
+    "key_executives": [
+        {
+            "name": "Emilio A. M. L\u00f3pez",
+            "position": "CEO"
+        },
+        {
+            "name": "Martin A. A. de la Vega",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Imagery",
+            "products": [
+                "High-Resolution Earth Observation",
+                "Real-Time Data Services"
+            ]
+        },
+        {
+            "category": "Data Analytics",
+            "products": [
+                "Geospatial Analysis Tools",
+                "API Access"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Satellogic, Inc. | Leading Satellite Imagery Provider",
+        "meta_description": "Explore Satellogic, Inc., a leader in satellite imagery and Earth observation data. Learn about their innovative technologies and commitment to sustainability.",
+        "keywords": [
+            "Satellogic",
+            "Satellite Imagery",
+            "Earth Observation",
+            "Geospatial Data",
+            "Sustainability",
+            "Remote Sensing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Satellogic known for?",
+            "answer": "Satellogic is known for providing high-resolution satellite imagery and Earth observation data."
+        },
+        {
+            "question": "Who is the CEO of Satellogic?",
+            "answer": "Emilio A. M. L\u00f3pez is the CEO of Satellogic, Inc."
+        },
+        {
+            "question": "Where is Satellogic headquartered?",
+            "answer": "Satellogic is headquartered in Buenos Aires, Argentina."
+        },
+        {
+            "question": "What services does Satellogic offer?",
+            "answer": "Satellogic offers satellite imagery, real-time data services, and geospatial analysis tools."
+        },
+        {
+            "question": "When was Satellogic founded?",
+            "answer": "Satellogic was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "MAXR",
+        "ISRG",
+        "SPCE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

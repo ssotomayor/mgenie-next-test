@@ -1,0 +1,100 @@
+{
+    "ticker": "NOW",
+    "name": "ServiceNow, Inc.",
+    "description": "ServiceNow, Inc. is a leading provider of cloud-based digital workflow solutions, enabling organizations to transform their business operations and improve service delivery. Founded in 2004 by Fred Luddy, ServiceNow focuses on automating and streamlining IT service management (ITSM), helping companies enhance productivity and efficiency. The company's platform allows users to create workflows across various departments, including IT, HR, customer service, and security, promoting a cohesive organizational structure. ServiceNow's solutions are designed to provide a seamless user experience while integrating with existing systems, making it easier for organizations to adapt to changing business needs. The company has established itself as a key player in the enterprise software market, with a commitment to innovation and customer satisfaction. ServiceNow's mission is to make the world of work, work better for people, and they strive to achieve this through continuous improvement of their products, customer engagement, and a focus on delivering value. With strong growth and a diverse customer base, ServiceNow continues to lead the way in digital transformation.",
+    "industry": [
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "2004",
+    "website": "https://www.servicenow.com",
+    "ceo": "Bill McDermott",
+    "social_media": {
+        "twitter": "https://twitter.com/servicenow",
+        "linkedin": "https://www.linkedin.com/company/servicenow/",
+        "youtube": "https://www.youtube.com/user/ServiceNow",
+        "facebook": "https://www.facebook.com/servicenow"
+    },
+    "investor_relations": "https://investors.servicenow.com",
+    "key_executives": [
+        {
+            "name": "Bill McDermott",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina Mastantuono",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Service Management",
+            "products": [
+                "Incident Management",
+                "Change Management",
+                "Problem Management"
+            ]
+        },
+        {
+            "category": "HR Service Delivery",
+            "products": [
+                "HR Case Management",
+                "Employee Service Center"
+            ]
+        },
+        {
+            "category": "Customer Service Management",
+            "products": [
+                "Customer Service Operations",
+                "Omni-Channel Engagement"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ServiceNow, Inc. | Cloud-Based Digital Workflow Solutions",
+        "meta_description": "Explore ServiceNow, Inc., a leader in cloud-based digital workflows that enhance service delivery and business transformation for organizations.",
+        "keywords": [
+            "ServiceNow",
+            "Digital Workflows",
+            "IT Service Management",
+            "Cloud Computing",
+            "Enterprise Software",
+            "Business Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does ServiceNow do?",
+            "answer": "ServiceNow provides cloud-based digital workflow solutions to help organizations improve their service delivery and business operations."
+        },
+        {
+            "question": "Who is the CEO of ServiceNow?",
+            "answer": "Bill McDermott is the CEO of ServiceNow, Inc."
+        },
+        {
+            "question": "Where is ServiceNow headquartered?",
+            "answer": "ServiceNow is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What are ServiceNow's main products?",
+            "answer": "ServiceNow's main products include IT Service Management, HR Service Delivery, and Customer Service Management solutions."
+        },
+        {
+            "question": "When was ServiceNow founded?",
+            "answer": "ServiceNow was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "SAP",
+        "ADBE",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

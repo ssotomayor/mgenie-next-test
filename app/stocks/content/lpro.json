@@ -1,0 +1,86 @@
+{
+    "ticker": "LPRO",
+    "name": "Lemonade, Inc.",
+    "description": "Lemonade, Inc. is an innovative insurance company that leverages artificial intelligence and behavioral economics to disrupt the traditional insurance industry. Founded in 2015, Lemonade aims to make insurance more accessible, affordable, and transparent for consumers. The company offers renters, homeowners, pet, and life insurance policies through a user-friendly mobile app and website. By utilizing AI-driven chatbots, Lemonade streamlines the insurance purchasing process, allowing customers to obtain quotes in minutes and file claims quickly and easily. The company operates on a unique business model that includes a flat fee for administration and claims, with leftover funds donated to causes chosen by customers, promoting a culture of social responsibility. Lemonade's commitment to transparency and customer-centric service has garnered a loyal customer base and positioned it as a leader in the InsurTech space. With a focus on technology and innovation, Lemonade continues to expand its product offerings and geographic reach, striving to redefine the insurance experience for millions of customers worldwide.",
+    "industry": [
+        "Insurance",
+        "Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2015",
+    "website": "https://www.lemonade.com",
+    "ceo": "Daniel Schreiber",
+    "social_media": {
+        "twitter": "https://twitter.com/lemonade_inc",
+        "linkedin": "https://www.linkedin.com/company/lemonade-inc-",
+        "instagram": "https://www.instagram.com/lemonadeinc"
+    },
+    "investor_relations": "https://investors.lemonade.com",
+    "key_executives": [
+        {
+            "name": "Daniel Schreiber",
+            "position": "CEO"
+        },
+        {
+            "name": "Shai Wininger",
+            "position": "Co-Founder & COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Renters Insurance",
+                "Homeowners Insurance",
+                "Pet Insurance",
+                "Life Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lemonade, Inc. | Smart Insurance for the Modern World",
+        "meta_description": "Explore Lemonade, Inc., a groundbreaking InsurTech company transforming the insurance industry with AI and transparency. Discover Lemonade's innovative policies and customer-first approach.",
+        "keywords": [
+            "Lemonade",
+            "Insurance",
+            "InsurTech",
+            "AI Insurance",
+            "Renters Insurance",
+            "Homeowners Insurance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What type of insurance does Lemonade offer?",
+            "answer": "Lemonade offers renters, homeowners, pet, and life insurance."
+        },
+        {
+            "question": "How does Lemonade use technology?",
+            "answer": "Lemonade utilizes artificial intelligence to streamline the insurance purchasing process and claims handling."
+        },
+        {
+            "question": "What is unique about Lemonade's business model?",
+            "answer": "Lemonade charges a flat fee for its services and donates leftover funds to causes chosen by its customers."
+        },
+        {
+            "question": "Where is Lemonade headquartered?",
+            "answer": "Lemonade is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was Lemonade founded?",
+            "answer": "Lemonade was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "ROOT",
+        "CNC",
+        "HIG",
+        "PGR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

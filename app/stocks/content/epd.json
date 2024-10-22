@@ -1,0 +1,90 @@
+{
+    "ticker": "EPD",
+    "name": "Enterprise Products Partners L.P.",
+    "description": "Enterprise Products Partners L.P. is a leading North American provider of midstream natural gas, NGL, and crude oil services. Founded in 1968 and headquartered in Houston, Texas, the company operates an extensive network of pipelines and storage facilities, enabling it to transport, process, and distribute energy products across the United States and internationally. Enterprise's operations include the transportation of natural gas, natural gas liquids (NGLs), crude oil, and petrochemicals, supported by its state-of-the-art processing and fractionation facilities. The company is recognized for its commitment to safety, reliability, and sustainability, playing a vital role in the energy supply chain. With a growing focus on meeting the energy needs of a changing world, Enterprise is investing in infrastructure to support the transition to cleaner energy sources while maintaining efficient operations to meet the demands of traditional energy markets. The company aims to provide its customers with a comprehensive suite of services, reinforcing its position as a key player in the energy sector.",
+    "industry": [
+        "Energy",
+        "Midstream"
+    ],
+    "headquarters": "Houston, Texas, USA",
+    "founded": "1968",
+    "website": "https://www.enterpriseproducts.com",
+    "ceo": "A. James Teague",
+    "social_media": {
+        "twitter": "https://twitter.com/EnterpriseProd",
+        "linkedin": "https://www.linkedin.com/company/enterprise-products-partners-lp/"
+    },
+    "investor_relations": "https://investors.enterpriseproducts.com",
+    "key_executives": [
+        {
+            "name": "A. James Teague",
+            "position": "CEO"
+        },
+        {
+            "name": "Bryan T. Shrauger",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Natural Gas",
+            "services": [
+                "Transportation",
+                "Storage",
+                "Processing"
+            ]
+        },
+        {
+            "category": "NGL",
+            "services": [
+                "Transportation",
+                "Fractionation",
+                "Storage"
+            ]
+        },
+        {
+            "category": "Crude Oil",
+            "services": [
+                "Transportation",
+                "Storage"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Enterprise Products Partners L.P. | Leading Midstream Energy Services",
+        "meta_description": "Discover Enterprise Products Partners L.P., a top midstream energy provider in North America, specializing in natural gas, NGL, and crude oil services.",
+        "keywords": [
+            "Enterprise Products",
+            "Midstream",
+            "Natural Gas",
+            "NGL",
+            "Crude Oil",
+            "Energy Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Enterprise Products offer?",
+            "answer": "Enterprise Products offers transportation, storage, and processing services for natural gas, NGLs, and crude oil."
+        },
+        {
+            "question": "Where is Enterprise Products headquartered?",
+            "answer": "Enterprise Products is headquartered in Houston, Texas, USA."
+        },
+        {
+            "question": "When was Enterprise Products founded?",
+            "answer": "Enterprise Products was founded in 1968."
+        }
+    ],
+    "competitors": [
+        "KMI",
+        "MPLX",
+        "WMB"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "PSX",
+        "SLB"
+    ]
+}

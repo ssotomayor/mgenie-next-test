@@ -1,0 +1,93 @@
+{
+    "ticker": "PATH",
+    "name": "UiPath Inc.",
+    "description": "UiPath Inc. is a leading global software company specializing in Robotic Process Automation (RPA), which enables organizations to automate routine tasks and processes through the use of software robots. Founded in 2005 by Daniel Dines and Marius Tirca, UiPath has transformed the way businesses operate by enabling them to enhance efficiency, reduce costs, and improve accuracy in their operations. The company's platform combines RPA with artificial intelligence (AI) and machine learning, allowing users to create bots that can mimic human actions across various applications seamlessly. UiPath serves a wide range of industries, including finance, healthcare, manufacturing, and telecommunications, helping organizations to streamline workflows and focus on more strategic initiatives. With a strong emphasis on innovation, UiPath continues to invest in new technologies and solutions that empower businesses to become more agile and responsive in a rapidly changing digital landscape. The company is committed to driving a culture of automation, making it accessible to organizations of all sizes, from small startups to large enterprises. UiPath's mission is to provide every organization with the means to automate their processes, thereby unlocking new levels of productivity and innovation.",
+    "industry": [
+        "Software",
+        "Information Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2005",
+    "website": "https://www.uipath.com",
+    "ceo": "Daniel Dines",
+    "social_media": {
+        "twitter": "https://twitter.com/UiPath",
+        "linkedin": "https://www.linkedin.com/company/uipath",
+        "instagram": "https://www.instagram.com/uipath",
+        "youtube": "https://www.youtube.com/c/UiPath"
+    },
+    "investor_relations": "https://ir.uipath.com",
+    "key_executives": [
+        {
+            "name": "Daniel Dines",
+            "position": "CEO"
+        },
+        {
+            "name": "Ashim Gupta",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "RPA Solutions",
+            "products": [
+                "UiPath Studio",
+                "UiPath Orchestrator",
+                "UiPath Robots"
+            ]
+        },
+        {
+            "category": "AI and Automation",
+            "products": [
+                "AI Fabric",
+                "Document Understanding"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "UiPath Inc. | Robotic Process Automation Solutions",
+        "meta_description": "Discover UiPath Inc., a leader in Robotic Process Automation. Explore innovative solutions that help organizations automate processes and enhance productivity.",
+        "keywords": [
+            "UiPath",
+            "Robotic Process Automation",
+            "RPA",
+            "Automation",
+            "AI",
+            "Digital Transformation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does UiPath specialize in?",
+            "answer": "UiPath specializes in Robotic Process Automation (RPA) solutions that automate routine tasks using software robots."
+        },
+        {
+            "question": "Who is the CEO of UiPath?",
+            "answer": "Daniel Dines is the CEO of UiPath Inc."
+        },
+        {
+            "question": "Where is UiPath headquartered?",
+            "answer": "UiPath is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are the main products of UiPath?",
+            "answer": "UiPath's main products include UiPath Studio, UiPath Orchestrator, and UiPath Robots."
+        },
+        {
+            "question": "When was UiPath founded?",
+            "answer": "UiPath was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "INTU",
+        "ADBE",
+        "SAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "IBM"
+    ]
+}

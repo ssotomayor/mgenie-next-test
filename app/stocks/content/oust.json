@@ -1,0 +1,84 @@
+{
+    "ticker": "OUST",
+    "name": "Ouster, Inc.",
+    "description": "Ouster, Inc. is a leading provider of high-resolution lidar sensors for autonomous vehicles, robotics, and industrial applications. Founded in 2014, Ouster aims to revolutionize the way the world perceives its environment through its innovative lidar technology, which enables real-time 3D mapping and perception for a variety of applications. The company's sensors are designed to deliver high performance with a lower cost compared to traditional lidar systems, making them accessible for a wider range of industries. Ouster offers a diverse portfolio of products, including the OS0, OS1, and OS2 lidar sensors, each tailored to meet the specific needs of different applications, from automotive to smart infrastructure. The company is driven by a mission to enhance safety and efficiency in transportation and urban planning through its advanced sensing technology. Ouster's commitment to innovation is reflected in its continuous investment in research and development, ensuring that it stays at the forefront of lidar technology. With a strong emphasis on scalability and adaptability, Ouster seeks to empower its customers to leverage lidar for a smarter, safer future.",
+    "industry": [
+        "Technology",
+        "Automotive",
+        "Robotics"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2014",
+    "website": "https://www.ouster.com",
+    "ceo": "Angus Pacala",
+    "social_media": {
+        "twitter": "https://twitter.com/OusterLidar",
+        "linkedin": "https://www.linkedin.com/company/ouster/"
+    },
+    "investor_relations": "https://investors.ouster.com",
+    "key_executives": [
+        {
+            "name": "Angus Pacala",
+            "position": "CEO"
+        },
+        {
+            "name": "Joe McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Lidar Sensors",
+            "products": [
+                "OS0",
+                "OS1",
+                "OS2"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ouster, Inc. | High-Resolution Lidar Sensors",
+        "meta_description": "Explore Ouster, Inc., a leader in high-resolution lidar technology for autonomous vehicles and industrial applications. Discover innovative sensors designed for a safer, smarter future.",
+        "keywords": [
+            "Ouster",
+            "Lidar",
+            "Autonomous Vehicles",
+            "3D Mapping",
+            "Robotics",
+            "Sensor Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Ouster specialize in?",
+            "answer": "Ouster specializes in high-resolution lidar sensors for various applications including autonomous vehicles and robotics."
+        },
+        {
+            "question": "Who is the CEO of Ouster?",
+            "answer": "Angus Pacala is the CEO of Ouster, Inc."
+        },
+        {
+            "question": "Where is Ouster headquartered?",
+            "answer": "Ouster is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are the main products of Ouster?",
+            "answer": "Ouster's main products include the OS0, OS1, and OS2 lidar sensors."
+        },
+        {
+            "question": "When was Ouster founded?",
+            "answer": "Ouster was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "LIDR",
+        "VEV",
+        "NVDA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "TSLA"
+    ]
+}

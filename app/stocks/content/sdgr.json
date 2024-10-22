@@ -1,0 +1,90 @@
+{
+    "ticker": "SDGR",
+    "name": "Schrodinger, Inc.",
+    "description": "Schrodinger, Inc. is a technology company dedicated to advancing life science research and drug discovery through its proprietary computational platform. Founded in 1990, Schrodinger leverages the power of physics-based modeling and simulation to enhance the drug development process, significantly reducing the time and cost associated with bringing new therapeutics to market. The company provides a comprehensive suite of software tools that enable scientists to visualize and predict molecular interactions, optimize drug candidates, and streamline the design of new compounds. In addition to its software solutions, Schrodinger also engages in its own drug discovery efforts, collaborating with various pharmaceutical companies and academic institutions to discover and develop novel therapeutics for a range of diseases, including cancer and neurological disorders. Schrodinger's innovative approach integrates computational and experimental methodologies, fostering a deeper understanding of biological systems and enhancing the accuracy of predictions in drug design. With a strong commitment to scientific excellence and innovation, Schrodinger continues to play a vital role in reshaping the landscape of drug discovery and development, aiming to improve patient outcomes worldwide.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals",
+        "Technology"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1990",
+    "website": "https://www.schrodinger.com",
+    "ceo": "Rodney H. Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/schrodinger",
+        "linkedin": "https://www.linkedin.com/company/schrodinger/"
+    },
+    "investor_relations": "https://investors.schrodinger.com",
+    "key_executives": [
+        {
+            "name": "Rodney H. Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "David W. M. S. H. Hsu",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Computational Software",
+            "products": [
+                "Schrodinger Suite",
+                "LiveDesign"
+            ]
+        },
+        {
+            "category": "Drug Discovery",
+            "products": [
+                "Drug Candidates",
+                "Collaborative Projects"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Schrodinger, Inc. | Advancing Drug Discovery Through Technology",
+        "meta_description": "Explore Schrodinger, Inc., a leader in computational drug discovery. Learn about our innovative technology, mission, and contributions to life sciences.",
+        "keywords": [
+            "Schrodinger",
+            "Drug Discovery",
+            "Computational Biology",
+            "Pharmaceutical Technology",
+            "Life Sciences"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Schrodinger known for?",
+            "answer": "Schrodinger is known for its advanced computational platform that enhances drug discovery and development."
+        },
+        {
+            "question": "Who is the CEO of Schrodinger?",
+            "answer": "Rodney H. Smith is the CEO of Schrodinger, Inc."
+        },
+        {
+            "question": "Where is Schrodinger headquartered?",
+            "answer": "Schrodinger is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What software does Schrodinger offer?",
+            "answer": "Schrodinger offers a range of computational software tools, including the Schrodinger Suite and LiveDesign."
+        },
+        {
+            "question": "When was Schrodinger founded?",
+            "answer": "Schrodinger was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "AMGN",
+        "GILD",
+        "REGN",
+        "VRTX"
+    ],
+    "related_stocks": [
+        "LLY",
+        "PFE",
+        "JNJ",
+        "BMY"
+    ]
+}

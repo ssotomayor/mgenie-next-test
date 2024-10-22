@@ -1,0 +1,100 @@
+{
+    "ticker": "LNVGY",
+    "name": "Lenovo Group Limited",
+    "description": "Lenovo Group Limited is a multinational technology company headquartered in Beijing, China, and Morrisville, North Carolina, USA. Founded in 1984, Lenovo has grown to become one of the world's leading personal computer manufacturers and a key player in the global technology landscape. The company is renowned for its innovative products, including personal computers, tablets, smartphones, and data center solutions. Lenovo's ThinkPad series of laptops are particularly well-regarded for their durability and performance, making them a popular choice among business professionals. Beyond PCs, Lenovo has expanded into smart devices and artificial intelligence, focusing on creating smarter technology for all. The company has made significant investments in research and development to drive innovation and enhance user experiences. Lenovo's mission is to provide customers with high-quality, cutting-edge products that meet the demands of a fast-evolving digital world, while also committing to sustainability and social responsibility through various initiatives.",
+    "industry": [
+        "Technology",
+        "Consumer Electronics"
+    ],
+    "headquarters": "Beijing, China and Morrisville, North Carolina, USA",
+    "founded": "1984",
+    "website": "https://www.lenovo.com",
+    "ceo": "Yuanqing Yang",
+    "social_media": {
+        "twitter": "https://twitter.com/lenovo",
+        "linkedin": "https://www.linkedin.com/company/lenovo/",
+        "instagram": "https://www.instagram.com/lenovo/",
+        "youtube": "https://www.youtube.com/user/LenovoTV"
+    },
+    "investor_relations": "https://investor.lenovo.com",
+    "key_executives": [
+        {
+            "name": "Yuanqing Yang",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina Qiao",
+            "position": "Senior Vice President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Computers",
+            "products": [
+                "ThinkPad",
+                "IdeaPad",
+                "Legion"
+            ]
+        },
+        {
+            "category": "Smartphones",
+            "products": [
+                "Motorola Smartphones",
+                "Lenovo Smartphones"
+            ]
+        },
+        {
+            "category": "Data Center Solutions",
+            "products": [
+                "ThinkSystem",
+                "ThinkAgile"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Lenovo Group Limited | Innovating Technology for the Future",
+        "meta_description": "Explore Lenovo Group Limited, a global leader in personal computers and smart devices. Discover Lenovo's commitment to innovation, quality, and sustainability.",
+        "keywords": [
+            "Lenovo",
+            "Personal Computers",
+            "ThinkPad",
+            "Smartphones",
+            "Technology",
+            "Data Center Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Lenovo known for?",
+            "answer": "Lenovo is known for its personal computers, laptops, smartphones, and data center solutions."
+        },
+        {
+            "question": "Who is the CEO of Lenovo?",
+            "answer": "Yuanqing Yang is the CEO of Lenovo Group Limited."
+        },
+        {
+            "question": "Where is Lenovo headquartered?",
+            "answer": "Lenovo is headquartered in Beijing, China and Morrisville, North Carolina, USA."
+        },
+        {
+            "question": "What are Lenovo's main products?",
+            "answer": "Lenovo's main products include ThinkPad and IdeaPad laptops, Motorola smartphones, and data center solutions."
+        },
+        {
+            "question": "When was Lenovo founded?",
+            "answer": "Lenovo was founded in 1984."
+        }
+    ],
+    "competitors": [
+        "HPQ",
+        "AAPL",
+        "MSI",
+        "DELL"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "MSFT",
+        "INTC",
+        "CSCO"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "ticker": "FJTSY",
+    "name": "Fujitsu Limited",
+    "description": "Fujitsu Limited is a global leader in information and communication technology (ICT), providing a comprehensive range of technology products, solutions, and services. Founded in 1935, Fujitsu has established itself as a trusted partner for businesses and governments worldwide, driving innovation and digital transformation. The company specializes in computing products, including servers, storage solutions, and personal computers, alongside enterprise-level software and IT services. Fujitsu focuses on delivering cutting-edge solutions in areas such as cloud computing, artificial intelligence, cybersecurity, and the Internet of Things (IoT). With a commitment to sustainability, Fujitsu aims to create a more sustainable society through its Green Policy, which promotes eco-friendly practices across its operations. The company also invests heavily in research and development to stay at the forefront of technological advancements. Fujitsu's mission is to contribute to society by providing advanced technology solutions that empower organizations and enhance the quality of life for individuals. Headquartered in Tokyo, Japan, Fujitsu operates globally, serving various industries including finance, manufacturing, healthcare, and telecommunications.",
+    "industry": [
+        "Information Technology",
+        "Telecommunications"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1935",
+    "website": "https://www.fujitsu.com",
+    "ceo": "Takahito Tokita",
+    "social_media": {
+        "twitter": "https://twitter.com/Fujitsu_Global",
+        "linkedin": "https://www.linkedin.com/company/fujitsu"
+    },
+    "investor_relations": "https://www.fujitsu.com/global/investors/",
+    "key_executives": [
+        {
+            "name": "Takahito Tokita",
+            "position": "CEO"
+        },
+        {
+            "name": "Katsumi Sato",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Computing Products",
+            "products": [
+                "Servers",
+                "Storage Solutions",
+                "Personal Computers"
+            ]
+        },
+        {
+            "category": "IT Services",
+            "products": [
+                "Cloud Computing",
+                "Cybersecurity Solutions",
+                "AI Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Fujitsu Limited | Leading Global ICT Provider",
+        "meta_description": "Explore Fujitsu Limited, a leader in information and communication technology. Discover its innovative products, services, and commitment to sustainability.",
+        "keywords": [
+            "Fujitsu",
+            "ICT",
+            "Cloud Computing",
+            "Artificial Intelligence",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Fujitsu specialize in?",
+            "answer": "Fujitsu specializes in information and communication technology, providing a range of products and services including computing solutions, IT services, and cloud computing."
+        },
+        {
+            "question": "Who is the CEO of Fujitsu?",
+            "answer": "Takahito Tokita is the CEO of Fujitsu Limited."
+        },
+        {
+            "question": "Where is Fujitsu headquartered?",
+            "answer": "Fujitsu is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Fujitsu's main products?",
+            "answer": "Fujitsu's main products include servers, storage solutions, personal computers, cloud computing services, and cybersecurity solutions."
+        },
+        {
+            "question": "When was Fujitsu founded?",
+            "answer": "Fujitsu was founded in 1935."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "HPE",
+        "ORCL",
+        "NTTYY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

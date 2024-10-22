@@ -1,0 +1,91 @@
+{
+    "ticker": "PBI",
+    "name": "Pitney Bowes Inc.",
+    "description": "Pitney Bowes Inc. is a global technology company that provides commerce solutions to businesses of all sizes. Founded in 1920, Pitney Bowes has evolved from its origins in postage meter manufacturing to become a leader in shipping and mailing solutions, addressing the needs of businesses in an increasingly digital world. The company offers a diverse range of services, including shipping and mailing solutions, e-commerce fulfillment, and customer engagement services. Pitney Bowes is recognized for its innovative software solutions that empower businesses to manage their operations more efficiently, enhancing customer interactions and improving overall operational performance. With a commitment to helping clients navigate the complexities of modern commerce, Pitney Bowes provides tools and resources that facilitate better communication and logistics management. The company also focuses on data and analytics, enabling clients to harness valuable insights to drive informed decision-making. Today, Pitney Bowes continues to adapt to the changing landscape of global commerce, leveraging technology to meet the evolving needs of its customers, and remains dedicated to delivering value in a competitive market.",
+    "industry": [
+        "Technology",
+        "E-commerce",
+        "Logistics"
+    ],
+    "headquarters": "Stamford, Connecticut, USA",
+    "founded": "1920",
+    "website": "https://www.pitneybowes.com",
+    "ceo": "Marc Lautenbach",
+    "social_media": {
+        "twitter": "https://twitter.com/PitneyBowes",
+        "linkedin": "https://www.linkedin.com/company/pitney-bowes/"
+    },
+    "investor_relations": "https://www.pitneybowes.com/us/investor-relations.html",
+    "key_executives": [
+        {
+            "name": "Marc Lautenbach",
+            "position": "CEO"
+        },
+        {
+            "name": "Linda R. C. Pizzuti",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Shipping Solutions",
+            "products": [
+                "SendPro",
+                "PitneyShip"
+            ]
+        },
+        {
+            "category": "Customer Engagement",
+            "products": [
+                "PB Data Solutions",
+                "PB Customer Engagement"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Pitney Bowes Inc. | Innovative Commerce Solutions",
+        "meta_description": "Explore Pitney Bowes Inc., a global leader in commerce solutions. Discover how our innovative technology enhances shipping, mailing, and customer engagement.",
+        "keywords": [
+            "Pitney Bowes",
+            "Shipping Solutions",
+            "E-commerce",
+            "Logistics",
+            "Customer Engagement",
+            "Data Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Pitney Bowes known for?",
+            "answer": "Pitney Bowes is known for its shipping and mailing solutions, as well as customer engagement services."
+        },
+        {
+            "question": "Who is the CEO of Pitney Bowes?",
+            "answer": "Marc Lautenbach is the CEO of Pitney Bowes Inc."
+        },
+        {
+            "question": "Where is Pitney Bowes headquartered?",
+            "answer": "Pitney Bowes is headquartered in Stamford, Connecticut, USA."
+        },
+        {
+            "question": "What are Pitney Bowes' main products?",
+            "answer": "Pitney Bowes' main products include SendPro, PitneyShip, and various customer engagement solutions."
+        },
+        {
+            "question": "When was Pitney Bowes founded?",
+            "answer": "Pitney Bowes was founded in 1920."
+        }
+    ],
+    "competitors": [
+        "STMP",
+        "RSG",
+        "UPS",
+        "FDX"
+    ],
+    "related_stocks": [
+        "IBM",
+        "ORCL",
+        "SAP",
+        "NOW"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "ticker": "IRMD",
+    "name": "Iridium Communications Inc.",
+    "description": "Iridium Communications Inc. is a global satellite communications company that operates the world\u2019s largest commercial satellite network, providing reliable voice and data services to users worldwide. Founded in 2001 and headquartered in McLean, Virginia, Iridium has established itself as a leader in satellite communications, particularly in remote areas where traditional networks fail. The company\u2019s unique constellation of 66 satellites in low Earth orbit enables connectivity for various applications, including maritime, aviation, government, and industrial sectors. Iridium's flagship products include Iridium Certus, which offers broadband connectivity, and Iridium Push-to-Talk, providing instant communication capabilities. With a focus on innovation, Iridium has expanded its services to support the burgeoning Internet of Things (IoT) market, offering solutions that enhance global tracking, monitoring, and communication. The company is committed to maintaining high reliability and performance standards, ensuring that users can connect from virtually anywhere on the planet. Iridium's mission is to connect people and assets, regardless of location, thereby enabling new possibilities for businesses, governments, and individuals alike.",
+    "industry": [
+        "Telecommunications",
+        "Satellite Communications"
+    ],
+    "headquarters": "McLean, Virginia, USA",
+    "founded": "2001",
+    "website": "https://www.iridium.com",
+    "ceo": "Matt Desch",
+    "social_media": {
+        "twitter": "https://twitter.com/IridiumComm",
+        "linkedin": "https://www.linkedin.com/company/iridium-communications"
+    },
+    "investor_relations": "https://investor.iridium.com",
+    "key_executives": [
+        {
+            "name": "Matt Desch",
+            "position": "CEO"
+        },
+        {
+            "name": "Bryan Hartin",
+            "position": "Executive Vice President, Sales and Marketing"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Services",
+            "products": [
+                "Iridium Certus",
+                "Iridium Push-to-Talk"
+            ]
+        },
+        {
+            "category": "IoT Solutions",
+            "products": [
+                "Iridium IoT",
+                "Iridium Edge"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Iridium Communications Inc. | Global Satellite Communications",
+        "meta_description": "Explore Iridium Communications Inc., the leader in satellite communications providing global connectivity through innovative services and solutions.",
+        "keywords": [
+            "Iridium",
+            "Satellite Communications",
+            "Global Connectivity",
+            "IoT Solutions",
+            "Telecommunications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Iridium provide?",
+            "answer": "Iridium provides satellite communication services, including voice and data solutions, as well as IoT connectivity."
+        },
+        {
+            "question": "Where is Iridium headquartered?",
+            "answer": "Iridium is headquartered in McLean, Virginia, USA."
+        },
+        {
+            "question": "What is the primary product of Iridium?",
+            "answer": "Iridium's primary products include Iridium Certus for broadband connectivity and Iridium Push-to-Talk for instant communication."
+        },
+        {
+            "question": "When was Iridium founded?",
+            "answer": "Iridium was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "AVAV",
+        "SPIR",
+        "VTGN"
+    ],
+    "related_stocks": [
+        "LMT",
+        "HRS",
+        "NOC",
+        "GRMN"
+    ]
+}

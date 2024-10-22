@@ -1,0 +1,93 @@
+{
+    "ticker": "BANC",
+    "name": "Banc of California, Inc.",
+    "description": "Banc of California, Inc. is a financial institution dedicated to providing a wide array of banking and financial services to individuals, families, and businesses. Founded in 2009 and headquartered in Santa Ana, California, the bank focuses on serving the needs of the communities it operates in, with a strong emphasis on relationship banking. Banc of California offers a range of services including commercial and residential lending, treasury management, and private banking. The bank is committed to fostering economic growth in California by supporting local businesses and providing tailored financial solutions. With a focus on transparency and customer service, Banc of California aims to build long-lasting relationships with its clients, ensuring that their financial needs are met with personalized attention. In addition to traditional banking services, the company also invests in community development initiatives and engages in philanthropic efforts to support local non-profits and educational programs. Banc of California strives to be a leader in the banking industry while maintaining a strong commitment to corporate responsibility and community engagement.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Santa Ana, California, USA",
+    "founded": "2009",
+    "website": "https://www.bancofcal.com",
+    "ceo": "Jared Wolff",
+    "social_media": {
+        "twitter": "https://twitter.com/BancofCalifornia",
+        "linkedin": "https://www.linkedin.com/company/bancofcalifornia/"
+    },
+    "investor_relations": "https://ir.bancofcal.com",
+    "key_executives": [
+        {
+            "name": "Jared Wolff",
+            "position": "CEO"
+        },
+        {
+            "name": "J. Michael D. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Lending",
+            "products": [
+                "Commercial Loans",
+                "Residential Mortgages"
+            ]
+        },
+        {
+            "category": "Treasury Management",
+            "products": [
+                "Cash Management Services",
+                "Fraud Prevention Solutions"
+            ]
+        },
+        {
+            "category": "Private Banking",
+            "products": [
+                "Wealth Management",
+                "Investment Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Banc of California, Inc. | Relationship Banking and Financial Services",
+        "meta_description": "Explore Banc of California, Inc., a community-focused bank providing financial services including lending, treasury management, and private banking. Committed to local economic growth.",
+        "keywords": [
+            "Banc of California",
+            "Banking",
+            "Financial Services",
+            "Commercial Loans",
+            "Wealth Management",
+            "California Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Banc of California offer?",
+            "answer": "Banc of California offers a range of services including commercial and residential lending, treasury management, and private banking."
+        },
+        {
+            "question": "Who is the CEO of Banc of California?",
+            "answer": "Jared Wolff is the CEO of Banc of California, Inc."
+        },
+        {
+            "question": "Where is Banc of California headquartered?",
+            "answer": "Banc of California is headquartered in Santa Ana, California, USA."
+        },
+        {
+            "question": "When was Banc of California founded?",
+            "answer": "Banc of California was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "KEY",
+        "CFG",
+        "FRC",
+        "WFC"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "USB"
+    ]
+}

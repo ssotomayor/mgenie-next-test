@@ -1,0 +1,87 @@
+{
+    "ticker": "QCON",
+    "name": "Quantum Computing, Inc.",
+    "description": "Quantum Computing, Inc. is at the forefront of the quantum computing revolution, providing innovative solutions that harness the power of quantum mechanics to solve complex computational problems. Founded in 2018, the company focuses on developing quantum technologies that enhance various applications, including optimization, machine learning, and cryptography. Quantum Computing, Inc. aims to make quantum computing accessible to a broader audience by creating user-friendly software and hardware integration solutions. The company's flagship product, Qatalyst, is a quantum software platform designed to optimize workflows and improve decision-making processes in diverse industries such as finance, healthcare, and logistics. With a mission to democratize quantum computing, Quantum Computing, Inc. collaborates with academic institutions and industry leaders to advance research and development in quantum technologies. The firm is committed to driving innovation while maintaining ethical considerations in the deployment of quantum solutions.",
+    "industry": [
+        "Technology",
+        "Quantum Computing"
+    ],
+    "headquarters": "Reston, Virginia, USA",
+    "founded": "2018",
+    "website": "https://www.quantumcomputinginc.com",
+    "ceo": "William R. (Bill) Sutherland",
+    "social_media": {
+        "twitter": "https://twitter.com/QuantumCInc",
+        "linkedin": "https://www.linkedin.com/company/quantum-computing-inc/"
+    },
+    "investor_relations": "https://www.quantumcomputinginc.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "William R. (Bill) Sutherland",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark A. L. A. Decker",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Quantum Software",
+            "products": [
+                "Qatalyst"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Quantum Optimization Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Quantum Computing, Inc. | Leading Quantum Software Solutions",
+        "meta_description": "Explore Quantum Computing, Inc., a leader in quantum technology solutions. Discover our innovative products and commitment to advancing quantum computing.",
+        "keywords": [
+            "Quantum Computing",
+            "Quantum Software",
+            "Qatalyst",
+            "Quantum Technology",
+            "Quantum Optimization"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Quantum Computing, Inc. known for?",
+            "answer": "Quantum Computing, Inc. is known for its quantum software platform Qatalyst and its innovative solutions in quantum technologies."
+        },
+        {
+            "question": "Who is the CEO of Quantum Computing, Inc.?",
+            "answer": "William R. (Bill) Sutherland is the CEO of Quantum Computing, Inc."
+        },
+        {
+            "question": "Where is Quantum Computing, Inc. headquartered?",
+            "answer": "Quantum Computing, Inc. is headquartered in Reston, Virginia, USA."
+        },
+        {
+            "question": "What are the main products offered by Quantum Computing, Inc.?",
+            "answer": "The main products include the Qatalyst quantum software platform and quantum optimization solutions."
+        },
+        {
+            "question": "When was Quantum Computing, Inc. founded?",
+            "answer": "Quantum Computing, Inc. was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "GOOG",
+        "MSFT",
+        "D-WAVE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "NVDA",
+        "INTC"
+    ]
+}

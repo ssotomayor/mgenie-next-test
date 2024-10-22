@@ -1,0 +1,88 @@
+{
+    "ticker": "CPAI",
+    "name": "Cleverly Inc.",
+    "description": "Cleverly Inc. is a dynamic company specializing in innovative technology solutions aimed at revolutionizing the way businesses engage with their customers. Founded in 2015, Cleverly has quickly established itself as a leader in the customer engagement sector by leveraging artificial intelligence and machine learning to create personalized experiences across multiple platforms. The company's flagship product, the Cleverly Engagement Suite, offers a comprehensive set of tools that includes chatbots, customer relationship management (CRM) systems, and analytics dashboards, empowering businesses to enhance their customer interactions and drive sales growth. With a focus on small to medium-sized enterprises, Cleverly aims to democratize access to advanced technology, enabling companies of all sizes to harness the power of data-driven insights. The company prides itself on its commitment to innovation, continuously refining its offerings to adapt to the evolving needs of its clients. By prioritizing user experience and customer satisfaction, Cleverly not only helps businesses streamline their operations but also fosters long-term relationships with their customers. As the digital landscape evolves, Cleverly is dedicated to helping organizations navigate this transformation while driving success through effective engagement strategies.",
+    "industry": [
+        "Technology",
+        "Customer Engagement"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.cleverly.com",
+    "ceo": "Jessica Lee",
+    "social_media": {
+        "twitter": "https://twitter.com/CleverlyInc",
+        "linkedin": "https://www.linkedin.com/company/cleverly-inc/"
+    },
+    "investor_relations": "https://ir.cleverly.com",
+    "key_executives": [
+        {
+            "name": "Jessica Lee",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Chen",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Engagement Solutions",
+            "products": [
+                "Cleverly Engagement Suite",
+                "AI Chatbots",
+                "CRM Tools"
+            ]
+        },
+        {
+            "category": "Analytics",
+            "products": [
+                "Customer Insights Dashboard"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Cleverly Inc. | Innovative Customer Engagement Solutions",
+        "meta_description": "Explore Cleverly Inc., a leader in customer engagement technology. Discover how Cleverly's innovative solutions can transform your business.",
+        "keywords": [
+            "Cleverly",
+            "Customer Engagement",
+            "AI Solutions",
+            "CRM",
+            "Business Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Cleverly Inc. do?",
+            "answer": "Cleverly Inc. specializes in customer engagement technology, offering solutions like AI chatbots and CRM tools."
+        },
+        {
+            "question": "Who is the CEO of Cleverly Inc.?",
+            "answer": "Jessica Lee is the CEO of Cleverly Inc."
+        },
+        {
+            "question": "Where is Cleverly headquartered?",
+            "answer": "Cleverly is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Cleverly's main products?",
+            "answer": "Cleverly's main products include the Cleverly Engagement Suite, AI Chatbots, and Customer Insights Dashboard."
+        },
+        {
+            "question": "When was Cleverly founded?",
+            "answer": "Cleverly was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "TWLO",
+        "ZETA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

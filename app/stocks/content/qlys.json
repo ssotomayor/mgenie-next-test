@@ -1,0 +1,91 @@
+{
+    "ticker": "QLYS",
+    "name": "Qualys, Inc.",
+    "description": "Qualys, Inc. is a leading provider of cloud-based security and compliance solutions, dedicated to helping organizations protect their IT assets and data. Founded in 1999, Qualys offers a comprehensive suite of services that includes vulnerability management, web application security, and policy compliance. The company\u2019s platform empowers businesses to gain continuous visibility and control over their security posture by leveraging the power of cloud computing. Qualys's innovative solutions are designed to identify vulnerabilities, manage security risks, and ensure regulatory compliance efficiently, making it a trusted partner for organizations across various industries. With a commitment to delivering high-quality, scalable security solutions, Qualys serves thousands of customers worldwide, including some of the largest enterprises. The company's mission is to simplify security and compliance, enabling businesses to focus on their core operations while ensuring their digital assets remain secure. As cyber threats evolve, Qualys continues to innovate and expand its offerings, integrating advanced technologies such as artificial intelligence and automation to enhance its capabilities.",
+    "industry": [
+        "Cybersecurity",
+        "Cloud Computing"
+    ],
+    "headquarters": "Foster City, California, USA",
+    "founded": "1999",
+    "website": "https://www.qualys.com",
+    "ceo": "Sumedh Thakar",
+    "social_media": {
+        "twitter": "https://twitter.com/Qualys",
+        "linkedin": "https://www.linkedin.com/company/qualys/",
+        "youtube": "https://www.youtube.com/user/QualysInc"
+    },
+    "investor_relations": "https://www.qualys.com/investors/",
+    "key_executives": [
+        {
+            "name": "Sumedh Thakar",
+            "position": "CEO"
+        },
+        {
+            "name": "Michelle Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Security Solutions",
+            "products": [
+                "Vulnerability Management",
+                "Web Application Scanning",
+                "Policy Compliance"
+            ]
+        },
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Qualys Cloud Platform",
+                "Continuous Monitoring"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Qualys, Inc. | Cloud-Based Security and Compliance Solutions",
+        "meta_description": "Explore Qualys, Inc., a leader in cloud-based security solutions, providing innovative services for vulnerability management and compliance.",
+        "keywords": [
+            "Qualys",
+            "Cybersecurity",
+            "Cloud Security",
+            "Vulnerability Management",
+            "Compliance Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Qualys known for?",
+            "answer": "Qualys is known for its cloud-based security and compliance solutions that help organizations manage their security posture."
+        },
+        {
+            "question": "Who is the CEO of Qualys?",
+            "answer": "Sumedh Thakar is the CEO of Qualys, Inc."
+        },
+        {
+            "question": "Where is Qualys headquartered?",
+            "answer": "Qualys is headquartered in Foster City, California, USA."
+        },
+        {
+            "question": "What are Qualys's main products?",
+            "answer": "Qualys's main products include Vulnerability Management, Web Application Scanning, and Policy Compliance."
+        },
+        {
+            "question": "When was Qualys founded?",
+            "answer": "Qualys was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "ZS",
+        "CRWD",
+        "PANW",
+        "FTNT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}
