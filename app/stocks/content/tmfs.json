@@ -1,0 +1,84 @@
+{
+    "ticker": "TMFS",
+    "name": "The Motley Fool Stock Advisor",
+    "description": "The Motley Fool Stock Advisor, a subscription-based service from The Motley Fool, provides investment guidance and stock recommendations to individual investors. Founded in 1993 by brothers David and Tom Gardner, The Motley Fool aims to empower investors to achieve financial freedom through informed investment decisions. The Stock Advisor service offers insights into high-quality growth stocks, often focusing on long-term investment strategies. Subscribers receive monthly stock picks along with in-depth analysis, research reports, and educational content to help them understand the rationale behind each recommendation. The service emphasizes a buy-and-hold philosophy, encouraging investors to focus on companies with strong fundamentals and sustainable competitive advantages. With a community-driven approach, The Motley Fool also fosters discussions among members, allowing them to share insights and experiences. Over the years, Stock Advisor has garnered a reputation for its successful stock picks, many of which have significantly outperformed the market. The Motley Fool believes that investing should be accessible and enjoyable, and they strive to demystify the stock market for everyday investors. Their mission is to help people achieve their financial goals and secure their financial future through sound investment decisions.",
+    "industry": [
+        "Financial Services",
+        "Investment Advisory"
+    ],
+    "headquarters": "Alexandria, Virginia, USA",
+    "founded": "1993",
+    "website": "https://www.fool.com",
+    "ceo": "Tom Gardner",
+    "social_media": {
+        "twitter": "https://twitter.com/TheMotleyFool",
+        "linkedin": "https://www.linkedin.com/company/the-motley-fool/",
+        "facebook": "https://www.facebook.com/themotleyfool"
+    },
+    "investor_relations": "https://www.fool.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Tom Gardner",
+            "position": "CEO"
+        },
+        {
+            "name": "David Gardner",
+            "position": "Co-Founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Services",
+            "products": [
+                "Stock Advisor",
+                "Rule Breakers",
+                "Motley Fool Explorer"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Motley Fool Stock Advisor | Investment Guidance and Stock Picks",
+        "meta_description": "Join The Motley Fool Stock Advisor for expert stock recommendations and investment insights. Empower your financial future with our proven strategies.",
+        "keywords": [
+            "Motley Fool",
+            "Stock Advisor",
+            "Investment Advice",
+            "Financial Freedom",
+            "Stock Picks",
+            "Long-Term Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is The Motley Fool Stock Advisor?",
+            "answer": "The Motley Fool Stock Advisor is a subscription service that provides stock recommendations and investment insights."
+        },
+        {
+            "question": "Who founded The Motley Fool?",
+            "answer": "The Motley Fool was founded by brothers David and Tom Gardner in 1993."
+        },
+        {
+            "question": "Where is The Motley Fool headquartered?",
+            "answer": "The Motley Fool is headquartered in Alexandria, Virginia, USA."
+        },
+        {
+            "question": "What types of products does The Motley Fool offer?",
+            "answer": "The Motley Fool offers several investment services including Stock Advisor, Rule Breakers, and Motley Fool Explorer."
+        },
+        {
+            "question": "What is the investment philosophy of The Motley Fool?",
+            "answer": "The Motley Fool emphasizes a buy-and-hold philosophy, focusing on long-term investments in quality companies."
+        }
+    ],
+    "competitors": [
+        "ZACK",
+        "CFRA",
+        "Morningstar"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

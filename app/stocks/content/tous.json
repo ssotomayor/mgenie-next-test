@@ -1,0 +1,94 @@
+{
+    "ticker": "TOUS",
+    "name": "Tous Jewelry",
+    "description": "Tous Jewelry is a globally recognized brand known for its unique and playful designs in the luxury jewelry sector. Founded in 1920 in Manresa, Spain, by the Tous family, the company has evolved from a small workshop to an international jewelry powerhouse. Tous is celebrated for its signature teddy bear motif, which symbolizes love and affection, and has become an iconic part of its brand identity. The company offers a wide range of products, including gold and silver jewelry, watches, handbags, and accessories, catering to a diverse clientele seeking both elegance and whimsy. With a commitment to quality craftsmanship, Tous combines traditional techniques with modern aesthetics to create pieces that resonate with customers of all ages. The brand's philosophy centers around creating jewelry that tells a story and evokes emotions, making it a favorite among those looking to express their individuality and style. Over the years, Tous has expanded its presence to over 50 countries with numerous retail locations and a strong online presence, ensuring its products are accessible to a global audience. The company continues to innovate while honoring its heritage, making it a prominent player in the luxury goods market.",
+    "industry": [
+        "Luxury Goods",
+        "Jewelry"
+    ],
+    "headquarters": "Manresa, Spain",
+    "founded": "1920",
+    "website": "https://www.tous.com",
+    "ceo": "Gemma Tous",
+    "social_media": {
+        "twitter": "https://twitter.com/tous",
+        "instagram": "https://www.instagram.com/tous/",
+        "facebook": "https://www.facebook.com/tous/"
+    },
+    "investor_relations": "https://www.tous.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Gemma Tous",
+            "position": "CEO"
+        },
+        {
+            "name": "Ramon Tous",
+            "position": "Co-founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Jewelry",
+            "products": [
+                "Rings",
+                "Necklaces",
+                "Bracelets",
+                "Earrings"
+            ]
+        },
+        {
+            "category": "Accessories",
+            "products": [
+                "Handbags",
+                "Watches",
+                "Wallets"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tous Jewelry | Luxury Jewelry and Accessories",
+        "meta_description": "Explore Tous Jewelry, a leader in luxury jewelry and accessories known for its playful designs and iconic teddy bear motif. Discover unique pieces that tell a story.",
+        "keywords": [
+            "Tous",
+            "Luxury Jewelry",
+            "Jewelry Design",
+            "Teddy Bear",
+            "Handbags",
+            "Watches"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Tous known for?",
+            "answer": "Tous is known for its playful and unique jewelry designs, particularly its signature teddy bear motif."
+        },
+        {
+            "question": "Who is the CEO of Tous?",
+            "answer": "Gemma Tous is the CEO of Tous Jewelry."
+        },
+        {
+            "question": "Where is Tous headquartered?",
+            "answer": "Tous is headquartered in Manresa, Spain."
+        },
+        {
+            "question": "What types of products does Tous offer?",
+            "answer": "Tous offers a range of products including jewelry, handbags, and accessories."
+        },
+        {
+            "question": "When was Tous founded?",
+            "answer": "Tous was founded in 1920."
+        }
+    ],
+    "competitors": [
+        "SWI",
+        "CROX",
+        "LVMH",
+        "COST"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "LVMH"
+    ]
+}

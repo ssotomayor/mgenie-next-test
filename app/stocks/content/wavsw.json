@@ -1,0 +1,89 @@
+{
+    "ticker": "WAVSW",
+    "name": "Waves Software, Inc.",
+    "description": "Waves Software, Inc. is a leading technology company specializing in innovative software solutions for the multimedia and entertainment industries. Founded in 2010, the company has rapidly established itself as a key player in audio processing, offering a range of products that enhance sound quality for both professionals and consumers. Waves is renowned for its powerful digital signal processing (DSP) technologies, which are utilized in music production, film scoring, and live sound engineering. The company's flagship products include the Waves Audio plugins, which are widely used by audio engineers, musicians, and producers to achieve professional-grade sound in recordings and live performances. With a strong emphasis on research and development, Waves continuously innovates to meet the evolving needs of the market, ensuring compatibility with the latest digital audio workstations (DAWs) and hardware. Beyond audio, Waves is also expanding its portfolio to include software solutions for video production and streaming, further solidifying its position as a versatile technology provider. The company is committed to empowering creators with tools that enable them to express their artistic vision, while also focusing on user-friendly interfaces that cater to both novices and seasoned professionals.",
+    "industry": [
+        "Software",
+        "Multimedia"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2010",
+    "website": "https://www.waves.com",
+    "ceo": "Nissim Aharon",
+    "social_media": {
+        "twitter": "https://twitter.com/wavesaudio",
+        "linkedin": "https://www.linkedin.com/company/waves-audio",
+        "facebook": "https://www.facebook.com/wavesaudio"
+    },
+    "investor_relations": "https://www.waves.com/company/investor-relations",
+    "key_executives": [
+        {
+            "name": "Nissim Aharon",
+            "position": "CEO"
+        },
+        {
+            "name": "Moran Heller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Audio Plugins",
+            "products": [
+                "Waves SSL G-Master",
+                "Waves L2 Ultramaximizer",
+                "Waves CLA Vocals"
+            ]
+        },
+        {
+            "category": "Video Solutions",
+            "products": [
+                "Waves Motion",
+                "Waves V12 Video"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Waves Software, Inc. | Innovative Audio and Video Solutions",
+        "meta_description": "Explore Waves Software, Inc., a leader in audio processing technology. Discover our range of plugins and software solutions for music and video production.",
+        "keywords": [
+            "Waves Software",
+            "Audio Plugins",
+            "Digital Signal Processing",
+            "Music Production",
+            "Video Production"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Waves Software known for?",
+            "answer": "Waves Software is known for its innovative audio plugins and digital signal processing technologies used in music production and live sound."
+        },
+        {
+            "question": "Who is the CEO of Waves Software?",
+            "answer": "Nissim Aharon is the CEO of Waves Software, Inc."
+        },
+        {
+            "question": "Where is Waves Software headquartered?",
+            "answer": "Waves Software is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What are Waves Software's main products?",
+            "answer": "Waves Software's main products include audio plugins like Waves SSL G-Master, Waves L2 Ultramaximizer, and Waves CLA Vocals."
+        },
+        {
+            "question": "When was Waves Software founded?",
+            "answer": "Waves Software was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AVID",
+        "ADBE",
+        "FLTX"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "AAPL",
+        "GOOGL"
+    ]
+}

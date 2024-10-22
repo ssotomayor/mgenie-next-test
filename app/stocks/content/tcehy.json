@@ -1,0 +1,100 @@
+{
+    "ticker": "TCEHY",
+    "name": "Tencent Holdings Limited",
+    "description": "Tencent Holdings Limited is a leading Chinese multinational conglomerate holding company with subsidiaries in various internet-related services and products, entertainment, AI, and technology. Founded in 1998 by Ma Huateng and a group of partners, Tencent is best known for its instant messaging service QQ and its social media platform WeChat, which has over a billion monthly active users. The company has diversified its business portfolio into various sectors, including online gaming, digital content, social networks, and fintech services, making it one of the largest and most valuable companies in the world. Tencent's gaming division is particularly notable, being the largest video game vendor globally, with stakes in prominent gaming companies such as Riot Games, Epic Games, and Activision Blizzard. Additionally, Tencent invests heavily in technology and innovation, focusing on artificial intelligence, cloud computing, and digital payment solutions. With a strong commitment to corporate social responsibility, Tencent actively engages in philanthropic efforts, supporting education, health, and environmental initiatives across China and beyond.",
+    "industry": [
+        "Technology",
+        "Internet Services",
+        "Gaming"
+    ],
+    "headquarters": "Shenzhen, China",
+    "founded": "1998",
+    "website": "https://www.tencent.com",
+    "ceo": "Ma Huateng",
+    "social_media": {
+        "twitter": "https://twitter.com/tencent",
+        "linkedin": "https://www.linkedin.com/company/tencent/"
+    },
+    "investor_relations": "https://www.tencent.com/en-us/investors.html",
+    "key_executives": [
+        {
+            "name": "Ma Huateng",
+            "position": "CEO"
+        },
+        {
+            "name": "Martin Lau",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Social Media",
+            "products": [
+                "WeChat",
+                "QQ"
+            ]
+        },
+        {
+            "category": "Gaming",
+            "products": [
+                "Honor of Kings",
+                "PUBG Mobile",
+                "League of Legends"
+            ]
+        },
+        {
+            "category": "Financial Services",
+            "products": [
+                "WeChat Pay",
+                "QQ Wallet"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tencent Holdings Limited | Leading Internet and Technology Company",
+        "meta_description": "Explore Tencent Holdings Limited, a global leader in internet services, gaming, and technology. Discover Tencent's innovative products, mission, and impact.",
+        "keywords": [
+            "Tencent",
+            "WeChat",
+            "QQ",
+            "Gaming",
+            "Social Media",
+            "Technology",
+            "AI"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Tencent known for?",
+            "answer": "Tencent is known for its instant messaging apps, social media services, and online gaming platforms."
+        },
+        {
+            "question": "Who is the CEO of Tencent?",
+            "answer": "Ma Huateng is the CEO of Tencent Holdings Limited."
+        },
+        {
+            "question": "Where is Tencent headquartered?",
+            "answer": "Tencent is headquartered in Shenzhen, China."
+        },
+        {
+            "question": "What are Tencent's main products?",
+            "answer": "Tencent's main products include WeChat, QQ, and popular games like Honor of Kings and PUBG Mobile."
+        },
+        {
+            "question": "When was Tencent founded?",
+            "answer": "Tencent was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "BABA",
+        "GOOG",
+        "META",
+        "NTES"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "NFLX"
+    ]
+}

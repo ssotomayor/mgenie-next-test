@@ -1,0 +1,88 @@
+{
+    "ticker": "TEMP",
+    "name": "Tempus, Inc.",
+    "description": "Tempus, Inc. is a technology company that leverages artificial intelligence and machine learning to transform the healthcare landscape. Founded in 2015 by Eric Lefkofsky, Tempus aims to empower physicians and researchers by providing them with actionable insights derived from vast amounts of clinical and molecular data. The company's innovative platform combines genomic sequencing, clinical data, and advanced analytics to enable personalized medicine, enhancing patient care and improving outcomes. Tempus focuses on oncology, offering solutions that allow healthcare providers to make data-driven treatment decisions tailored to individual patients. In addition to cancer care, Tempus is expanding its capabilities into other therapeutic areas such as cardiology and infectious diseases. The company collaborates with leading academic institutions, hospitals, and biopharma companies to further its mission of advancing precision medicine. With a commitment to innovation and patient-centered care, Tempus is revolutionizing how healthcare providers approach diagnosis and treatment, making significant strides in the quest for more effective therapies.",
+    "industry": [
+        "Healthcare",
+        "Technology"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "2015",
+    "website": "https://www.tempus.com",
+    "ceo": "Eric Lefkofsky",
+    "social_media": {
+        "twitter": "https://twitter.com/tempuslabs",
+        "linkedin": "https://www.linkedin.com/company/tempuslabs/"
+    },
+    "investor_relations": "https://www.tempus.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Eric Lefkofsky",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. Aimee G. M. Pritchard",
+            "position": "Chief Medical Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Genomic Sequencing",
+            "products": [
+                "Tempus xT",
+                "Tempus xF"
+            ]
+        },
+        {
+            "category": "Clinical Data Analytics",
+            "products": [
+                "Tempus Insights"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tempus, Inc. | Precision Medicine and Data-Driven Healthcare",
+        "meta_description": "Explore Tempus, Inc., a leader in precision medicine that harnesses AI and data analytics to transform healthcare. Learn about Tempus' innovative solutions in oncology and beyond.",
+        "keywords": [
+            "Tempus",
+            "Precision Medicine",
+            "Genomic Data",
+            "Healthcare Technology",
+            "Artificial Intelligence",
+            "Oncology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tempus do?",
+            "answer": "Tempus is a technology company that uses AI and machine learning to analyze clinical and molecular data for personalized medicine."
+        },
+        {
+            "question": "Who is the CEO of Tempus?",
+            "answer": "Eric Lefkofsky is the CEO of Tempus, Inc."
+        },
+        {
+            "question": "Where is Tempus headquartered?",
+            "answer": "Tempus is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What are Tempus' main products?",
+            "answer": "Tempus' main products include genomic sequencing solutions like Tempus xT and clinical data analytics through Tempus Insights."
+        },
+        {
+            "question": "When was Tempus founded?",
+            "answer": "Tempus was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "ILMN",
+        "GHDX",
+        "NTRA"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "PFE",
+        "JNJ",
+        "MRNA"
+    ]
+}

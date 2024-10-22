@@ -1,0 +1,89 @@
+{
+    "ticker": "XOS",
+    "name": "XOS, Inc.",
+    "description": "XOS, Inc. is a leading electric vehicle manufacturer focused on providing sustainable transportation solutions for commercial fleets. Founded in 2016 and headquartered in Los Angeles, California, XOS aims to revolutionize the fleet industry by developing electric vehicles that are efficient, cost-effective, and environmentally friendly. The company specializes in producing electric trucks and vans, catering to a wide range of industries including logistics, delivery, and public transportation. XOS vehicles are designed with advanced technology to ensure maximum performance and safety, while also reducing the carbon footprint associated with traditional gasoline-powered vehicles. The company is committed to innovation, continuously enhancing its vehicle designs and technology to meet the evolving needs of its customers. With a strong emphasis on sustainability, XOS is not just about manufacturing electric vehicles; it also focuses on creating a comprehensive ecosystem that supports electric mobility, including charging infrastructure and service solutions. As electric vehicles gain traction globally, XOS positions itself as a key player in the transition to a greener economy, contributing to cleaner air and reduced greenhouse gas emissions.",
+    "industry": [
+        "Automotive",
+        "Transportation"
+    ],
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2016",
+    "website": "https://www.xostrucks.com",
+    "ceo": "Dakota Semler",
+    "social_media": {
+        "twitter": "https://twitter.com/xostrucks",
+        "linkedin": "https://www.linkedin.com/company/xos-trucks/"
+    },
+    "investor_relations": "https://ir.xostrucks.com",
+    "key_executives": [
+        {
+            "name": "Dakota Semler",
+            "position": "CEO"
+        },
+        {
+            "name": "Gabe Dinsmoor",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Trucks",
+            "products": [
+                "XOS Step Van",
+                "XOS Class 5 Truck"
+            ]
+        },
+        {
+            "category": "Electric Vans",
+            "products": [
+                "XOS Delivery Van"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "XOS, Inc. | Electric Vehicles for Commercial Fleets",
+        "meta_description": "Explore XOS, Inc., a leader in electric vehicle manufacturing for commercial fleets. Discover our innovative electric trucks and vans designed for sustainable transportation.",
+        "keywords": [
+            "XOS",
+            "Electric Vehicles",
+            "Commercial Fleets",
+            "Sustainable Transportation",
+            "Electric Trucks",
+            "Electric Vans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does XOS specialize in?",
+            "answer": "XOS specializes in manufacturing electric vehicles for commercial fleets."
+        },
+        {
+            "question": "Who is the CEO of XOS?",
+            "answer": "Dakota Semler is the CEO of XOS, Inc."
+        },
+        {
+            "question": "Where is XOS headquartered?",
+            "answer": "XOS is headquartered in Los Angeles, California, USA."
+        },
+        {
+            "question": "What are XOS's main products?",
+            "answer": "XOS's main products include electric trucks and vans designed for commercial use."
+        },
+        {
+            "question": "When was XOS founded?",
+            "answer": "XOS was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "RIVN",
+        "LCID",
+        "NIO",
+        "F"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "TSLA",
+        "GM",
+        "F"
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "ticker": "TD",
+    "name": "Toronto-Dominion Bank",
+    "description": "Toronto-Dominion Bank (TD) is one of the largest banks in Canada and a prominent financial services provider in North America. Founded in 1855, TD has grown to serve millions of customers through a wide range of financial products and services, including personal banking, commercial banking, wealth management, and investment services. The bank operates more than 1,100 branches across Canada and over 1,300 locations in the United States, primarily under the TD Bank brand. TD is known for its customer-centric approach, offering innovative digital banking solutions and a strong commitment to community engagement and sustainability. The bank's extensive portfolio includes personal loans, mortgages, credit cards, investment services, and insurance products. Additionally, TD has made significant investments in technology to enhance customer experience and streamline operations. With a mission to be the better bank, TD strives to build lasting relationships with its customers while maintaining a strong focus on risk management and compliance. The bank continues to expand its footprint in the U.S. market and is recognized for its efforts in diversity and inclusion.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1855",
+    "website": "https://www.td.com",
+    "ceo": "Bharat Masrani",
+    "social_media": {
+        "twitter": "https://twitter.com/TDBank_US",
+        "linkedin": "https://www.linkedin.com/company/toronto-dominion-bank"
+    },
+    "investor_relations": "https://www.td.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Bharat Masrani",
+            "position": "CEO"
+        },
+        {
+            "name": "Robo E. Sweeney",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Mortgages",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Business Accounts",
+                "Commercial Loans",
+                "Treasury Management"
+            ]
+        },
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Services",
+                "Retirement Planning",
+                "Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Toronto-Dominion Bank | Leading Financial Services Provider",
+        "meta_description": "Explore Toronto-Dominion Bank, one of Canada's largest banks, offering a wide range of banking and financial services across North America.",
+        "keywords": [
+            "Toronto-Dominion Bank",
+            "TD Bank",
+            "Financial Services",
+            "Banking",
+            "Investments",
+            "Mortgages",
+            "Credit Cards"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does TD Bank offer?",
+            "answer": "TD Bank offers personal banking, commercial banking, wealth management, and investment services."
+        },
+        {
+            "question": "Who is the CEO of Toronto-Dominion Bank?",
+            "answer": "Bharat Masrani is the CEO of Toronto-Dominion Bank."
+        },
+        {
+            "question": "Where is TD Bank headquartered?",
+            "answer": "TD Bank is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was TD Bank founded?",
+            "answer": "TD Bank was founded in 1855."
+        }
+    ],
+    "competitors": [
+        "RY",
+        "BNS",
+        "CM",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JPM",
+        "WFC",
+        "C"
+    ]
+}

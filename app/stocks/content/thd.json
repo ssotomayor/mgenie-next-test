@@ -1,0 +1,104 @@
+{
+    "ticker": "THD",
+    "name": "The Home Depot, Inc.",
+    "description": "The Home Depot, Inc. is the largest home improvement retailer in the United States, providing a vast array of products and services for construction, renovation, and home improvement projects. Founded in 1978 by Bernie Marcus and Arthur Blank, the company has grown to operate over 2,200 stores across North America. Home Depot offers a comprehensive selection of building materials, home improvement products, lawn and garden supplies, and tools, catering to both DIY enthusiasts and professional contractors. The company is committed to providing exceptional customer service and quality products at competitive prices. In addition to its retail operations, Home Depot has invested heavily in technology and e-commerce, allowing customers to shop online, access product information, and utilize delivery services. The company's mission focuses on helping customers improve their homes and lives, fostering a culture of respect, integrity, and customer satisfaction. Home Depot also engages in various community initiatives, including disaster relief efforts and sustainability practices aimed at reducing environmental impact.",
+    "industry": [
+        "Retail",
+        "Home Improvement"
+    ],
+    "headquarters": "Atlanta, Georgia, USA",
+    "founded": "1978",
+    "website": "https://www.homedepot.com",
+    "ceo": "Ted Decker",
+    "social_media": {
+        "twitter": "https://twitter.com/HomeDepot",
+        "linkedin": "https://www.linkedin.com/company/the-home-depot",
+        "instagram": "https://www.instagram.com/homedepot",
+        "youtube": "https://www.youtube.com/user/homedepot"
+    },
+    "investor_relations": "https://ir.homedepot.com",
+    "key_executives": [
+        {
+            "name": "Ted Decker",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard McPhail",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/richard-mcphail-3b77b85/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Building Materials",
+            "products": [
+                "Lumber",
+                "Drywall",
+                "Cement"
+            ]
+        },
+        {
+            "category": "Tools",
+            "products": [
+                "Power Tools",
+                "Hand Tools",
+                "Garden Tools"
+            ]
+        },
+        {
+            "category": "Home Decor",
+            "products": [
+                "Paint",
+                "Flooring",
+                "Lighting"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Home Depot, Inc. | Home Improvement and Construction Supplies",
+        "meta_description": "Explore The Home Depot, Inc., the largest home improvement retailer in the U.S., offering a wide range of products and services for all your home improvement needs.",
+        "keywords": [
+            "Home Depot",
+            "Home Improvement",
+            "DIY",
+            "Construction Supplies",
+            "Building Materials",
+            "Tools"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Home Depot sell?",
+            "answer": "Home Depot sells a wide variety of home improvement products, including building materials, tools, and home decor."
+        },
+        {
+            "question": "Who is the CEO of Home Depot?",
+            "answer": "Ted Decker is the CEO of The Home Depot, Inc."
+        },
+        {
+            "question": "Where is Home Depot headquartered?",
+            "answer": "Home Depot is headquartered in Atlanta, Georgia, USA."
+        },
+        {
+            "question": "What are some of Home Depot's main product categories?",
+            "answer": "Home Depot's main product categories include Building Materials, Tools, and Home Decor."
+        },
+        {
+            "question": "When was Home Depot founded?",
+            "answer": "Home Depot was founded in 1978."
+        }
+    ],
+    "competitors": [
+        "LOW",
+        "BBY",
+        "WMT"
+    ],
+    "related_stocks": [
+        "COST",
+        "TGT",
+        "AMZN",
+        "HD"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "UCYB",
+    "name": "UCB, Inc.",
+    "description": "UCB, Inc. is a global biopharmaceutical company focused on the discovery and development of innovative medicines that improve the lives of people with severe diseases in areas such as neurology and immunology. Founded in 1928, UCB has grown to become a leader in the biopharmaceutical sector, driven by a commitment to scientific excellence and patient-centric solutions. The company operates in over 40 countries and has a diverse portfolio of products that include treatments for epilepsy, Parkinson's disease, rheumatoid arthritis, and Crohn's disease. UCB's research is heavily based on understanding the mechanisms of diseases at the molecular level, allowing them to develop targeted therapies that address the underlying causes of illnesses rather than just symptoms. The company is dedicated to collaboration, working closely with healthcare professionals, patients, and research institutions to advance medical science. UCB's mission is to create value for patients and healthcare systems by delivering innovative therapies and improving access to care. Through its focus on scientific innovation and commitment to patients, UCB continues to make significant contributions to the fields of neurology and immunology, striving for a healthier future for all.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Brussels, Belgium",
+    "founded": "1928",
+    "website": "https://www.ucb.com",
+    "ceo": "Jean-Christophe Tellier",
+    "social_media": {
+        "twitter": "https://twitter.com/UCB_news",
+        "linkedin": "https://www.linkedin.com/company/ucb/"
+    },
+    "investor_relations": "https://www.ucb.com/investors",
+    "key_executives": [
+        {
+            "name": "Jean-Christophe Tellier",
+            "position": "CEO"
+        },
+        {
+            "name": "Miriam De Dios",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Neurology",
+            "products": [
+                "Vimpat",
+                "Neupro"
+            ]
+        },
+        {
+            "category": "Immunology",
+            "products": [
+                "Cimzia"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "UCB, Inc. | Innovating Biopharmaceuticals for Severe Diseases",
+        "meta_description": "Explore UCB, Inc., a biopharmaceutical company dedicated to improving the lives of patients with severe diseases. Discover their innovative therapies and commitment to research.",
+        "keywords": [
+            "UCB",
+            "Biopharmaceuticals",
+            "Neurology",
+            "Immunology",
+            "Vimpat",
+            "Cimzia"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does UCB specialize in?",
+            "answer": "UCB specializes in developing innovative medicines for severe diseases in neurology and immunology."
+        },
+        {
+            "question": "Who is the CEO of UCB?",
+            "answer": "Jean-Christophe Tellier is the CEO of UCB, Inc."
+        },
+        {
+            "question": "Where is UCB headquartered?",
+            "answer": "UCB is headquartered in Brussels, Belgium."
+        },
+        {
+            "question": "What are UCB's main products?",
+            "answer": "UCB's main products include Vimpat, Neupro, and Cimzia."
+        },
+        {
+            "question": "When was UCB founded?",
+            "answer": "UCB was founded in 1928."
+        }
+    ],
+    "competitors": [
+        "ABBV",
+        "BIIB",
+        "REGN",
+        "VRTX"
+    ],
+    "related_stocks": [
+        "JNJ",
+        "PFE",
+        "MRK",
+        "AMGN"
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "ticker": "WIX",
+    "name": "Wix.com Ltd.",
+    "description": "Wix.com Ltd. is a leading cloud-based web development platform that enables users to create professional websites, online stores, and web applications without the need for coding skills. Founded in 2006 by Avishai Abrahami, Nadav Abrahami, and Giora Kaplan, Wix has grown to empower millions of users worldwide, ranging from small businesses to large enterprises. The platform offers a user-friendly drag-and-drop interface, a wide selection of customizable templates, and a robust app market that provides additional functionalities, such as SEO tools, email marketing, and social media integration. Wix is committed to innovation, continuously enhancing its platform with advanced features like Wix ADI (Artificial Design Intelligence) that automatically creates personalized websites based on user preferences. The company also provides hosting services, ensuring that users have reliable performance and security for their websites. With a mission to democratize web development, Wix aims to make it accessible to everyone, allowing individuals and businesses to establish a strong online presence effortlessly.",
+    "industry": [
+        "Technology",
+        "Software",
+        "Internet"
+    ],
+    "headquarters": "Tel Aviv, Israel",
+    "founded": "2006",
+    "website": "https://www.wix.com",
+    "ceo": "Avishai Abrahami",
+    "social_media": {
+        "twitter": "https://twitter.com/wix",
+        "linkedin": "https://www.linkedin.com/company/wix-com/",
+        "facebook": "https://www.facebook.com/Wix",
+        "instagram": "https://www.instagram.com/wix"
+    },
+    "investor_relations": "https://investors.wix.com",
+    "key_executives": [
+        {
+            "name": "Avishai Abrahami",
+            "position": "CEO"
+        },
+        {
+            "name": "Nadav Abrahami",
+            "position": "Co-Founder and COO"
+        },
+        {
+            "name": "Giora Kaplan",
+            "position": "Co-Founder and CPO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Website Builder",
+            "products": [
+                "Wix Editor",
+                "Wix ADI"
+            ]
+        },
+        {
+            "category": "E-commerce Solutions",
+            "products": [
+                "Wix Stores",
+                "Wix Payments"
+            ]
+        },
+        {
+            "category": "Marketing Tools",
+            "products": [
+                "Wix SEO",
+                "Wix Email Marketing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Wix.com | Create a Stunning Website Easily",
+        "meta_description": "Wix.com is a leading web development platform that allows users to create professional websites with ease. Explore Wix's innovative tools and templates today.",
+        "keywords": [
+            "Wix",
+            "Website Builder",
+            "E-commerce",
+            "Web Development",
+            "Online Store",
+            "SEO Tools"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Wix known for?",
+            "answer": "Wix is known for its easy-to-use website building platform that allows users to create professional websites without coding."
+        },
+        {
+            "question": "Who is the CEO of Wix?",
+            "answer": "Avishai Abrahami is the CEO of Wix.com Ltd."
+        },
+        {
+            "question": "Where is Wix headquartered?",
+            "answer": "Wix is headquartered in Tel Aviv, Israel."
+        },
+        {
+            "question": "What are Wix's main products?",
+            "answer": "Wix's main products include the Wix Editor, Wix ADI, Wix Stores, and various marketing tools."
+        },
+        {
+            "question": "When was Wix founded?",
+            "answer": "Wix was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "SQSP",
+        "SHOP",
+        "GOOG"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "FB"
+    ]
+}

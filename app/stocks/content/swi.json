@@ -1,0 +1,96 @@
+{
+    "ticker": "SWI",
+    "name": "SolarWinds Corporation",
+    "description": "SolarWinds Corporation is a prominent provider of IT management software, renowned for its extensive portfolio of products designed to help organizations manage their IT infrastructure, applications, and services efficiently. Founded in 1999 and headquartered in Austin, Texas, SolarWinds focuses on delivering powerful, affordable, and easy-to-use solutions that cater to the needs of IT professionals of all sizes, from small businesses to large enterprises. The company's flagship products include network performance monitoring, systems management, and database performance optimization tools. SolarWinds prides itself on its user-friendly interfaces and a strong emphasis on community-driven development, with user feedback playing a crucial role in shaping product enhancements. The company also offers cloud-based solutions and a robust suite of security products to ensure comprehensive IT management. With a mission to empower IT professionals through innovative technology, SolarWinds continues to evolve its offerings to meet the dynamic needs of the industry.",
+    "industry": [
+        "Information Technology",
+        "Software"
+    ],
+    "headquarters": "Austin, Texas, USA",
+    "founded": "1999",
+    "website": "https://www.solarwinds.com",
+    "ceo": "Sudhakar Ramakrishna",
+    "social_media": {
+        "twitter": "https://twitter.com/solarwinds",
+        "linkedin": "https://www.linkedin.com/company/solarwinds/"
+    },
+    "investor_relations": "https://investors.solarwinds.com",
+    "key_executives": [
+        {
+            "name": "Sudhakar Ramakrishna",
+            "position": "CEO"
+        },
+        {
+            "name": "Dawn L. Doran",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Network Management",
+            "products": [
+                "Network Performance Monitor",
+                "Server & Application Monitor"
+            ]
+        },
+        {
+            "category": "Database Management",
+            "products": [
+                "Database Performance Analyzer",
+                "SQL Sentry"
+            ]
+        },
+        {
+            "category": "IT Security",
+            "products": [
+                "Security Event Manager",
+                "Access Rights Manager"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SolarWinds Corporation | IT Management Software Solutions",
+        "meta_description": "Explore SolarWinds Corporation, a leading provider of IT management software, offering innovative solutions for IT professionals to manage their infrastructure and applications.",
+        "keywords": [
+            "SolarWinds",
+            "IT Management",
+            "Network Monitoring",
+            "Database Management",
+            "IT Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does SolarWinds specialize in?",
+            "answer": "SolarWinds specializes in IT management software, providing tools for network performance monitoring, systems management, and database optimization."
+        },
+        {
+            "question": "Who is the CEO of SolarWinds?",
+            "answer": "Sudhakar Ramakrishna is the CEO of SolarWinds Corporation."
+        },
+        {
+            "question": "Where is SolarWinds headquartered?",
+            "answer": "SolarWinds is headquartered in Austin, Texas, USA."
+        },
+        {
+            "question": "What are some key products offered by SolarWinds?",
+            "answer": "Key products include Network Performance Monitor, Database Performance Analyzer, and Security Event Manager."
+        },
+        {
+            "question": "When was SolarWinds founded?",
+            "answer": "SolarWinds was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "MSI",
+        "RMM",
+        "NICE",
+        "FTNT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "ORCL"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "XEL",
+    "name": "Xcel Energy Inc.",
+    "description": "Xcel Energy Inc. is a leading utility company that provides electricity and natural gas to millions of customers across eight states in the United States. Founded in 1909 and headquartered in Minneapolis, Minnesota, Xcel Energy operates a diverse portfolio of generation resources, including wind, solar, and natural gas, with a commitment to delivering clean, reliable energy. The company is recognized for its proactive approach to sustainability, having set ambitious goals to reduce carbon emissions and increase the use of renewable energy sources, aiming for a carbon-free electricity supply by 2050. Xcel Energy also actively invests in energy efficiency programs, community initiatives, and innovative technologies that enhance the overall energy experience for its customers. With a strong focus on customer service and engagement, Xcel provides a range of services, including energy management tools and education on energy savings. The company is dedicated to building a sustainable energy future while ensuring reliable service and affordability for its customers.",
+    "industry": [
+        "Utilities",
+        "Energy"
+    ],
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "founded": "1909",
+    "website": "https://www.xcelenergy.com",
+    "ceo": "Alice Jackson",
+    "social_media": {
+        "twitter": "https://twitter.com/XcelEnergy",
+        "linkedin": "https://www.linkedin.com/company/xcel-energy/",
+        "facebook": "https://www.facebook.com/XcelEnergy"
+    },
+    "investor_relations": "https://investors.xcelenergy.com",
+    "key_executives": [
+        {
+            "name": "Alice Jackson",
+            "position": "CEO"
+        },
+        {
+            "name": "Robert Frenzel",
+            "position": "President"
+        },
+        {
+            "name": "Charlie O'Brien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electricity Services",
+            "products": [
+                "Residential Electricity",
+                "Commercial Electricity",
+                "Industrial Electricity"
+            ]
+        },
+        {
+            "category": "Natural Gas Services",
+            "products": [
+                "Residential Natural Gas",
+                "Commercial Natural Gas",
+                "Industrial Natural Gas"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Xcel Energy Inc. | Leading Utility Provider in Renewable Energy",
+        "meta_description": "Learn about Xcel Energy Inc., a major utility company focused on clean energy solutions and sustainability. Discover their commitment to renewable energy and customer service.",
+        "keywords": [
+            "Xcel Energy",
+            "Utility Company",
+            "Clean Energy",
+            "Renewable Energy",
+            "Electricity",
+            "Natural Gas"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Xcel Energy provide?",
+            "answer": "Xcel Energy provides electricity and natural gas services to residential, commercial, and industrial customers."
+        },
+        {
+            "question": "What is Xcel Energy's commitment to renewable energy?",
+            "answer": "Xcel Energy is committed to achieving a carbon-free electricity supply by 2050, increasing its investment in renewable energy sources."
+        },
+        {
+            "question": "Where is Xcel Energy headquartered?",
+            "answer": "Xcel Energy is headquartered in Minneapolis, Minnesota, USA."
+        },
+        {
+            "question": "When was Xcel Energy founded?",
+            "answer": "Xcel Energy was founded in 1909."
+        }
+    ],
+    "competitors": [
+        "DTE",
+        "SRE",
+        "NEE",
+        "ED"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

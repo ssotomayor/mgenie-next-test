@@ -1,0 +1,89 @@
+{
+    "ticker": "TTGT",
+    "name": "TechTarget, Inc.",
+    "description": "TechTarget, Inc. is a leading technology media company that provides specialized content and online resources for IT professionals and decision-makers. Founded in 1999 and headquartered in Newton, Massachusetts, TechTarget focuses on creating unique, high-quality content that helps technology buyers make informed decisions. The company operates a portfolio of websites that generate millions of visitors each month, attracting a targeted audience of technology professionals. TechTarget's offerings include research reports, webinars, and white papers that cover a wide range of technology topics, from cloud computing and security to data analytics and enterprise software. The company leverages its proprietary technology to deliver targeted marketing solutions to technology vendors, enabling them to reach their ideal customers effectively. TechTarget also offers a range of services, including lead generation and content marketing, ensuring that technology providers can connect with potential buyers at various stages of their purchasing journey. As a trusted source of information, TechTarget plays a crucial role in the technology ecosystem, helping professionals stay informed about emerging trends and technologies while facilitating connections between buyers and sellers.",
+    "industry": [
+        "Technology Media",
+        "Marketing Services"
+    ],
+    "headquarters": "Newton, Massachusetts, USA",
+    "founded": "1999",
+    "website": "https://www.techtarget.com",
+    "ceo": "Michael Cotoia",
+    "social_media": {
+        "twitter": "https://twitter.com/TechTarget",
+        "linkedin": "https://www.linkedin.com/company/techtarget/"
+    },
+    "investor_relations": "https://investors.techtarget.com",
+    "key_executives": [
+        {
+            "name": "Michael Cotoia",
+            "position": "CEO"
+        },
+        {
+            "name": "Catherine McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Marketing Solutions",
+            "products": [
+                "Lead Generation",
+                "Content Marketing"
+            ]
+        },
+        {
+            "category": "Research and Insights",
+            "products": [
+                "White Papers",
+                "Webinars",
+                "Research Reports"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TechTarget, Inc. | Leading Technology Media Company",
+        "meta_description": "Explore TechTarget, Inc., a premier technology media company delivering specialized content and marketing solutions for IT professionals and decision-makers.",
+        "keywords": [
+            "TechTarget",
+            "Technology Media",
+            "Lead Generation",
+            "Content Marketing",
+            "IT Professionals",
+            "Technology Insights"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does TechTarget do?",
+            "answer": "TechTarget provides specialized content and marketing solutions for IT professionals and technology vendors."
+        },
+        {
+            "question": "Who is the CEO of TechTarget?",
+            "answer": "Michael Cotoia is the CEO of TechTarget, Inc."
+        },
+        {
+            "question": "Where is TechTarget headquartered?",
+            "answer": "TechTarget is headquartered in Newton, Massachusetts, USA."
+        },
+        {
+            "question": "What types of services does TechTarget offer?",
+            "answer": "TechTarget offers lead generation, content marketing, research reports, and webinars."
+        },
+        {
+            "question": "When was TechTarget founded?",
+            "answer": "TechTarget was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "MNTV",
+        "CNET",
+        "GLOB"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "FB",
+        "TWTR"
+    ]
+}

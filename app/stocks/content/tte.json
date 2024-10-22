@@ -1,0 +1,93 @@
+{
+    "ticker": "TTE",
+    "name": "TotalEnergies SE",
+    "description": "TotalEnergies SE is a global multi-energy company committed to providing sustainable energy solutions to meet the world's growing energy needs. Founded in 1924, TotalEnergies has evolved from its origins as a traditional oil and gas company into a diversified energy provider, focusing on oil, natural gas, and renewable energy sources. The company operates in more than 130 countries, engaging in exploration, production, refining, and marketing of oil and gas, as well as developing renewable energy projects such as solar, wind, and biofuels. TotalEnergies is dedicated to reducing its carbon footprint and aims to be a leader in the energy transition, aligning its business strategy with the global goal of achieving net-zero emissions by 2050. The company\u2019s extensive portfolio includes segments in upstream oil and gas, downstream refining and chemicals, and a growing commitment to renewable energy and electricity. Through innovative technologies and strategic partnerships, TotalEnergies is working to deliver cleaner energy solutions and enhance energy efficiency for its customers worldwide.",
+    "industry": [
+        "Energy",
+        "Oil and Gas",
+        "Renewable Energy"
+    ],
+    "headquarters": "Courbevoie, France",
+    "founded": "1924",
+    "website": "https://totalenergies.com",
+    "ceo": "Patrick Pouyann\u00e9",
+    "social_media": {
+        "twitter": "https://twitter.com/TotalEnergies",
+        "linkedin": "https://www.linkedin.com/company/totalenergies/"
+    },
+    "investor_relations": "https://totalenergies.com/investors",
+    "key_executives": [
+        {
+            "name": "Patrick Pouyann\u00e9",
+            "position": "CEO"
+        },
+        {
+            "name": "Jean-Pierre Sbraire",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas",
+            "products": [
+                "Crude Oil",
+                "Natural Gas",
+                "Refined Products"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Solar Energy",
+                "Wind Energy",
+                "Biofuels"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TotalEnergies SE | Global Multi-Energy Company",
+        "meta_description": "Explore TotalEnergies SE, a global leader in the energy sector committed to sustainable solutions. Discover their initiatives in oil, gas, and renewables.",
+        "keywords": [
+            "TotalEnergies",
+            "Energy",
+            "Oil",
+            "Gas",
+            "Renewable Energy",
+            "Sustainable Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is TotalEnergies known for?",
+            "answer": "TotalEnergies is known for its diversified energy operations, including oil and gas exploration, refining, and renewable energy development."
+        },
+        {
+            "question": "Who is the CEO of TotalEnergies?",
+            "answer": "Patrick Pouyann\u00e9 is the CEO of TotalEnergies SE."
+        },
+        {
+            "question": "Where is TotalEnergies headquartered?",
+            "answer": "TotalEnergies is headquartered in Courbevoie, France."
+        },
+        {
+            "question": "What are TotalEnergies' main products?",
+            "answer": "TotalEnergies' main products include crude oil, natural gas, refined products, solar energy, wind energy, and biofuels."
+        },
+        {
+            "question": "When was TotalEnergies founded?",
+            "answer": "TotalEnergies was founded in 1924."
+        }
+    ],
+    "competitors": [
+        "BP",
+        "XOM",
+        "RDS.A",
+        "ENI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

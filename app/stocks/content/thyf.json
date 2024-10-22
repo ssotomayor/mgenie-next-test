@@ -1,0 +1,102 @@
+{
+    "ticker": "THYF",
+    "name": "Thyssenkrupp AG",
+    "description": "Thyssenkrupp AG is a diversified industrial group based in Germany, operating in various sectors including automotive, steel production, and engineering. Founded in 1999 through the merger of Thyssen AG and Krupp, the company has a rich heritage in innovation and technology. Thyssenkrupp's Automotive Technology division supplies components and systems to major auto manufacturers, focusing on lightweight construction and sustainability solutions that meet the demands of modern vehicle production. The Steel division is one of the largest flat steel producers in Europe, emphasizing high-quality products and efficient production processes. Thyssenkrupp also has a strong presence in elevators and escalators, providing advanced mobility solutions for urban environments. Committed to sustainability, the company is investing in green steel production and innovations that reduce carbon emissions. Thyssenkrupp's mission is to create value through engineering excellence and to contribute to a sustainable future, leveraging its technological expertise across various industries. With a global footprint and a dedicated workforce, Thyssenkrupp continues to adapt to changing market dynamics while maintaining a focus on quality and customer satisfaction.",
+    "industry": [
+        "Industrial Manufacturing",
+        "Automotive",
+        "Steel Production",
+        "Engineering"
+    ],
+    "headquarters": "Essen, Germany",
+    "founded": "1999",
+    "website": "https://www.thyssenkrupp.com",
+    "ceo": "Martina Merz",
+    "social_media": {
+        "twitter": "https://twitter.com/thyssenkrupp",
+        "linkedin": "https://www.linkedin.com/company/thyssenkrupp",
+        "youtube": "https://www.youtube.com/user/thyssenkruppAG"
+    },
+    "investor_relations": "https://www.thyssenkrupp.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Martina Merz",
+            "position": "CEO"
+        },
+        {
+            "name": "Klaus Keysberg",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Automotive Technology",
+            "products": [
+                "Body Components",
+                "Chassis Systems",
+                "Powertrain Components"
+            ]
+        },
+        {
+            "category": "Steel Products",
+            "products": [
+                "Hot Rolled Steel",
+                "Cold Rolled Steel",
+                "Coated Steel"
+            ]
+        },
+        {
+            "category": "Elevator Technology",
+            "products": [
+                "Elevators",
+                "Escalators",
+                "Moving Walks"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Thyssenkrupp AG | Industrial Solutions and Innovation",
+        "meta_description": "Explore Thyssenkrupp AG, a leading diversified industrial group specializing in automotive, steel production, and engineering solutions. Discover their commitment to sustainability and innovation.",
+        "keywords": [
+            "Thyssenkrupp",
+            "Industrial Manufacturing",
+            "Automotive Components",
+            "Steel Production",
+            "Elevator Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What industries does Thyssenkrupp operate in?",
+            "answer": "Thyssenkrupp operates in industrial manufacturing, automotive, steel production, and engineering."
+        },
+        {
+            "question": "Who is the CEO of Thyssenkrupp?",
+            "answer": "Martina Merz is the CEO of Thyssenkrupp AG."
+        },
+        {
+            "question": "Where is Thyssenkrupp headquartered?",
+            "answer": "Thyssenkrupp is headquartered in Essen, Germany."
+        },
+        {
+            "question": "What are Thyssenkrupp's main products?",
+            "answer": "Thyssenkrupp's main products include automotive components, various steel products, and mobility solutions such as elevators and escalators."
+        },
+        {
+            "question": "When was Thyssenkrupp founded?",
+            "answer": "Thyssenkrupp was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "PKG",
+        "NUE",
+        "STLD",
+        "X"
+    ],
+    "related_stocks": [
+        "SI",
+        "GE",
+        "CAT",
+        "DE"
+    ]
+}

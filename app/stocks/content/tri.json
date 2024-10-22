@@ -1,0 +1,98 @@
+{
+    "ticker": "TRI",
+    "name": "Thomson Reuters Corporation",
+    "description": "Thomson Reuters Corporation is a leading global provider of news and information-based tools for professionals. Founded in 2008 through the merger of Thomson Corporation and Reuters Group, the company has a rich history dating back to the 1850s. Thomson Reuters serves a diverse range of sectors including legal, financial, tax and accounting, and media. The company is known for its commitment to accuracy, integrity, and providing trusted information that helps professionals make informed decisions. Its flagship products include Westlaw, a leading legal research service; Reuters News, which provides real-time news and insights; and Eikon, a financial analysis software that offers comprehensive market data. Thomson Reuters leverages advanced technology, including artificial intelligence and machine learning, to enhance its solutions and drive innovation. The company has a strong focus on sustainability and corporate responsibility, continuously working to improve the communities it serves. With a presence in over 100 countries, Thomson Reuters is dedicated to delivering quality content and insights that empower its clients to succeed in a complex world.",
+    "industry": [
+        "Information Services",
+        "Financial Services",
+        "Legal Services"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "2008",
+    "website": "https://www.thomsonreuters.com",
+    "ceo": "Steve Hasker",
+    "social_media": {
+        "twitter": "https://twitter.com/ThomsonReuters",
+        "linkedin": "https://www.linkedin.com/company/thomson-reuters/"
+    },
+    "investor_relations": "https://ir.thomsonreuters.com",
+    "key_executives": [
+        {
+            "name": "Steve Hasker",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Eastwood",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Legal Solutions",
+            "products": [
+                "Westlaw",
+                "Practical Law"
+            ]
+        },
+        {
+            "category": "Financial Solutions",
+            "products": [
+                "Eikon",
+                "Refinitiv"
+            ]
+        },
+        {
+            "category": "News Services",
+            "products": [
+                "Reuters News",
+                "Reuters Connect"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Thomson Reuters Corporation | Trusted News and Information Provider",
+        "meta_description": "Explore Thomson Reuters Corporation, a global leader in news and information services for professionals. Discover our innovative solutions and commitment to integrity.",
+        "keywords": [
+            "Thomson Reuters",
+            "Legal Services",
+            "Financial Information",
+            "News Services",
+            "Westlaw",
+            "Eikon"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Thomson Reuters do?",
+            "answer": "Thomson Reuters provides news and information-based tools for professionals across various sectors including legal, financial, and media."
+        },
+        {
+            "question": "Who is the CEO of Thomson Reuters?",
+            "answer": "Steve Hasker is the CEO of Thomson Reuters Corporation."
+        },
+        {
+            "question": "Where is Thomson Reuters headquartered?",
+            "answer": "Thomson Reuters is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "What are Thomson Reuters' main products?",
+            "answer": "Thomson Reuters' main products include Westlaw, Eikon, and Reuters News services."
+        },
+        {
+            "question": "When was Thomson Reuters founded?",
+            "answer": "Thomson Reuters was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "MSCI",
+        "DNB",
+        "FISV",
+        "IQV"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "BRK.B",
+        "MSFT",
+        "GOOGL"
+    ]
+}

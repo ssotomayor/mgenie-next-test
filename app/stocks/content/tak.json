@@ -1,0 +1,101 @@
+{
+    "ticker": "TAK",
+    "name": "Takeda Pharmaceutical Company Limited",
+    "description": "Takeda Pharmaceutical Company Limited is a global, research and development-driven biopharmaceutical leader headquartered in Japan. Founded in 1781, Takeda is committed to improving the health of patients around the world through innovative medicines. The company's extensive portfolio addresses a wide range of medical conditions, with a strong focus on areas such as oncology, gastroenterology, neuroscience, rare diseases, and vaccines. Takeda leverages advanced science and technology to create transformative therapies that meet the needs of patients and healthcare providers. With a commitment to sustainability and corporate social responsibility, Takeda aims to create a positive impact on society. The company is known for its rigorous research programs and partnerships with academic institutions and other organizations to advance healthcare solutions. Takeda's mission is to strive towards better health and a brighter future for people worldwide through leading innovation in medicine and healthcare.",
+    "industry": [
+        "Pharmaceuticals",
+        "Biotechnology"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1781",
+    "website": "https://www.takeda.com",
+    "ceo": "Christophe Weber",
+    "social_media": {
+        "twitter": "https://twitter.com/TakedaPharma",
+        "linkedin": "https://www.linkedin.com/company/takeda-pharmaceutical-company/"
+    },
+    "investor_relations": "https://www.takeda.com/investors/",
+    "key_executives": [
+        {
+            "name": "Christophe Weber",
+            "position": "CEO"
+        },
+        {
+            "name": "Jorge Gomez",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/jorge-gomez-8b5b221/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oncology",
+            "products": [
+                "Ninlaro",
+                "Velcade"
+            ]
+        },
+        {
+            "category": "Gastroenterology",
+            "products": [
+                "Entyvio",
+                "Breezula"
+            ]
+        },
+        {
+            "category": "Rare Diseases",
+            "products": [
+                "Nexviazyme",
+                "Takeda's Hemophilia Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Takeda Pharmaceutical Company | Global Biopharmaceutical Leader",
+        "meta_description": "Learn about Takeda Pharmaceutical Company, a leader in biopharmaceutical innovation dedicated to improving patient health through research and development.",
+        "keywords": [
+            "Takeda",
+            "Pharmaceuticals",
+            "Biotechnology",
+            "Oncology",
+            "Gastroenterology",
+            "Rare Diseases",
+            "Healthcare Innovation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Takeda known for?",
+            "answer": "Takeda is known for its innovative medicines in areas such as oncology, gastroenterology, neuroscience, and rare diseases."
+        },
+        {
+            "question": "Who is the CEO of Takeda?",
+            "answer": "Christophe Weber is the CEO of Takeda Pharmaceutical Company Limited."
+        },
+        {
+            "question": "Where is Takeda headquartered?",
+            "answer": "Takeda is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "What are Takeda's main therapeutic areas?",
+            "answer": "Takeda's main therapeutic areas include oncology, gastroenterology, neuroscience, rare diseases, and vaccines."
+        },
+        {
+            "question": "When was Takeda founded?",
+            "answer": "Takeda was founded in 1781."
+        }
+    ],
+    "competitors": [
+        "JNJ",
+        "PFE",
+        "MRK",
+        "BMY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

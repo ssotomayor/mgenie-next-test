@@ -1,0 +1,88 @@
+{
+    "ticker": "ZURVY",
+    "name": "Zurich Insurance Group AG",
+    "description": "Zurich Insurance Group AG is a leading multi-line insurer that serves its customers through a diverse range of products and services. Founded in 1872 and headquartered in Zurich, Switzerland, the company operates globally with a strong presence in North America, Europe, and Asia-Pacific. Zurich offers a wide array of insurance solutions, including property and casualty, life insurance, and farmers' insurance, catering to both individual and commercial clients. The company is committed to delivering innovative insurance products that meet the evolving needs of its customers, emphasizing sustainability and responsible business practices. Zurich has invested significantly in digital transformation, enhancing its customer experience through technology-driven solutions. The firm prides itself on its strong risk management capabilities and financial strength, which have earned it high ratings from leading credit rating agencies. With a dedicated focus on corporate responsibility, Zurich aims to contribute positively to society and the environment. The company's mission is to help customers understand and protect themselves from risks, ultimately enhancing their resilience in an ever-changing world.",
+    "industry": [
+        "Insurance",
+        "Financial Services"
+    ],
+    "headquarters": "Zurich, Switzerland",
+    "founded": "1872",
+    "website": "https://www.zurich.com",
+    "ceo": "Mario Greco",
+    "social_media": {
+        "twitter": "https://twitter.com/Zurich",
+        "linkedin": "https://www.linkedin.com/company/zurich-insurance-group/"
+    },
+    "investor_relations": "https://www.zurich.com/en/investor-relations",
+    "key_executives": [
+        {
+            "name": "Mario Greco",
+            "position": "CEO"
+        },
+        {
+            "name": "George Quinn",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Property & Casualty Insurance",
+            "products": [
+                "Home Insurance",
+                "Auto Insurance",
+                "Commercial Insurance"
+            ]
+        },
+        {
+            "category": "Life Insurance",
+            "products": [
+                "Term Life",
+                "Whole Life",
+                "Universal Life"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Zurich Insurance Group AG | Leading Global Insurer",
+        "meta_description": "Explore Zurich Insurance Group AG, a leading global multi-line insurer offering a wide range of insurance solutions. Learn about our innovative products, commitment to sustainability, and financial strength.",
+        "keywords": [
+            "Zurich Insurance",
+            "Insurance",
+            "Financial Services",
+            "Global Insurer",
+            "Property Insurance",
+            "Life Insurance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Zurich Insurance provide?",
+            "answer": "Zurich Insurance provides property and casualty insurance, life insurance, and farmers' insurance solutions."
+        },
+        {
+            "question": "Who is the CEO of Zurich Insurance?",
+            "answer": "Mario Greco is the CEO of Zurich Insurance Group AG."
+        },
+        {
+            "question": "Where is Zurich Insurance headquartered?",
+            "answer": "Zurich Insurance is headquartered in Zurich, Switzerland."
+        },
+        {
+            "question": "When was Zurich Insurance founded?",
+            "answer": "Zurich Insurance was founded in 1872."
+        }
+    ],
+    "competitors": [
+        "ALL",
+        "AXP",
+        "PGR",
+        "TRV"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JPM",
+        "BRK.B",
+        "MS"
+    ]
+}

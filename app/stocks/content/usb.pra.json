@@ -1,0 +1,101 @@
+{
+    "ticker": "USB.PRA",
+    "name": "U.S. Bancorp",
+    "description": "U.S. Bancorp is a diversified financial services holding company based in Minneapolis, Minnesota, recognized as one of the largest banks in the United States. With a rich history dating back to the 1860s, U.S. Bancorp operates through its flagship subsidiary, U.S. Bank, which provides a wide range of financial products and services to individuals, businesses, and institutions. The company offers consumer banking, corporate banking, investment management, payment services, and mortgage services, catering to the needs of its customers across various segments. U.S. Bancorp is known for its commitment to innovation, leveraging technology to enhance customer experience while maintaining a strong focus on risk management and compliance. The bank has received numerous accolades for its customer service and financial performance, and it is dedicated to responsible banking practices, sustainability initiatives, and community engagement. By prioritizing customer satisfaction and operational excellence, U.S. Bancorp continues to strengthen its position in the competitive banking industry.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "founded": "1863",
+    "website": "https://www.usbank.com",
+    "ceo": "Andrew Cecere",
+    "social_media": {
+        "twitter": "https://twitter.com/USBank",
+        "linkedin": "https://www.linkedin.com/company/us-bank/",
+        "instagram": "https://www.instagram.com/usbank/"
+    },
+    "investor_relations": "https://ir.usbank.com",
+    "key_executives": [
+        {
+            "name": "Andrew Cecere",
+            "position": "CEO"
+        },
+        {
+            "name": "Terrance Dolan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Banking",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Credit Cards",
+                "Mortgages"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Business Loans",
+                "Treasury Management",
+                "Merchant Services"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Investment Management",
+                "Wealth Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "U.S. Bancorp | Comprehensive Financial Services",
+        "meta_description": "Discover U.S. Bancorp, a leading financial services holding company. Explore our range of banking products, commitment to innovation, and community engagement.",
+        "keywords": [
+            "U.S. Bancorp",
+            "Banking",
+            "Financial Services",
+            "Consumer Banking",
+            "Commercial Banking",
+            "Investment Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does U.S. Bancorp offer?",
+            "answer": "U.S. Bancorp offers a wide range of financial services including consumer banking, commercial banking, investment management, and payment services."
+        },
+        {
+            "question": "Who is the CEO of U.S. Bancorp?",
+            "answer": "Andrew Cecere is the CEO of U.S. Bancorp."
+        },
+        {
+            "question": "Where is U.S. Bancorp headquartered?",
+            "answer": "U.S. Bancorp is headquartered in Minneapolis, Minnesota, USA."
+        },
+        {
+            "question": "What are U.S. Bancorp's main products?",
+            "answer": "U.S. Bancorp's main products include checking accounts, savings accounts, credit cards, mortgages, business loans, and investment management services."
+        },
+        {
+            "question": "When was U.S. Bancorp founded?",
+            "answer": "U.S. Bancorp was founded in 1863."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "WFC",
+        "BAC",
+        "C"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

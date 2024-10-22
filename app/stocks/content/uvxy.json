@@ -1,0 +1,67 @@
+{
+    "ticker": "UVXY",
+    "name": "ProShares Ultra VIX Short-Term Futures ETF",
+    "description": "ProShares Ultra VIX Short-Term Futures ETF (UVXY) is an exchange-traded fund designed to provide investors with leveraged exposure to the S&P 500 VIX Short-Term Futures Index. Launched in 2011, this ETF aims to amplify the returns of the volatility market, making it a popular choice among traders seeking to hedge against market downturns or capitalize on periods of heightened volatility. The fund typically invests in VIX futures contracts and seeks to provide investment results that correspond to two times (2x) the daily performance of the underlying index. UVXY is often used as a short-term trading vehicle given its high volatility and potential for significant price swings. Investors should be aware that due to the daily reset of leverage, the ETF may not perform as expected over longer periods, particularly in a contango market where longer-dated futures are more expensive than near-term ones. The fund is suitable for traders with a high-risk tolerance looking to take advantage of volatility spikes, such as those that occur during market corrections or geopolitical events. With its focus on the VIX index, UVXY serves as a barometer for market fear and uncertainty, allowing traders to make informed decisions based on market sentiment.",
+    "industry": [
+        "Exchange-Traded Funds",
+        "Financial Services"
+    ],
+    "headquarters": "Bethesda, Maryland, USA",
+    "founded": "2011",
+    "website": "https://www.proshares.com/our-funds/ultra-vix-short-term-futures-etf.html",
+    "key_executives": [
+        {
+            "name": "Michael L. Sapir",
+            "position": "CEO"
+        },
+        {
+            "name": "William E. Harts",
+            "position": "CFO"
+        }
+    ],
+    "seo": {
+        "meta_title": "ProShares Ultra VIX Short-Term Futures ETF (UVXY)",
+        "meta_description": "Explore ProShares Ultra VIX Short-Term Futures ETF (UVXY), designed for leveraged exposure to volatility, ideal for traders seeking to hedge against market downturns.",
+        "keywords": [
+            "UVXY",
+            "ProShares",
+            "VIX",
+            "Volatility ETF",
+            "Hedge Fund",
+            "Market Downturns"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is UVXY?",
+            "answer": "UVXY is an exchange-traded fund that provides leveraged exposure to the S&P 500 VIX Short-Term Futures Index."
+        },
+        {
+            "question": "What type of investment is UVXY?",
+            "answer": "UVXY is a volatility ETF designed for short-term trading."
+        },
+        {
+            "question": "When was UVXY founded?",
+            "answer": "UVXY was launched in 2011."
+        },
+        {
+            "question": "Who manages UVXY?",
+            "answer": "UVXY is managed by ProShares, a leading provider of ETFs."
+        },
+        {
+            "question": "What is the risk associated with investing in UVXY?",
+            "answer": "UVXY can be highly volatile, and its performance can diverge from the underlying index over longer periods due to daily rebalancing."
+        }
+    ],
+    "competitors": [
+        "VXX",
+        "SVXY",
+        "TVOL"
+    ],
+    "related_stocks": [
+        "SPY",
+        "SH",
+        "SDS",
+        "HEDJ"
+    ]
+}

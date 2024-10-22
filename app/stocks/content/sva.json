@@ -1,0 +1,84 @@
+{
+    "ticker": "SVA",
+    "name": "Sinovac Biotech Ltd.",
+    "description": "Sinovac Biotech Ltd. is a leading biopharmaceutical company based in Beijing, China, focused on the research, development, manufacturing, and commercialization of vaccines and other biological products. Founded in 2001, Sinovac has established itself as a pioneer in the field of vaccine development, specifically in the production of inactivated vaccines. The company\u2019s flagship products include vaccines for hepatitis A, hepatitis B, and influenza, as well as its innovative COVID-19 vaccine, CoronaVac, which has been approved for emergency use in various countries. Sinovac is dedicated to improving global public health through its commitment to high-quality, safe, and effective vaccines, making significant contributions to vaccine accessibility in developing nations. The company's R&D efforts are complemented by its state-of-the-art manufacturing facilities, which adhere to international standards, ensuring compliance with Good Manufacturing Practices (GMP). Sinovac's mission is to provide affordable and accessible vaccines to combat infectious diseases, thereby enhancing the quality of life across different populations. The company actively engages in partnerships with international organizations and governments to promote vaccine distribution and education, reinforcing its role as a key player in the global health landscape.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "2001",
+    "website": "http://www.sinovac.com",
+    "ceo": "Yin Weidong",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/sinovac-biotech-ltd/"
+    },
+    "investor_relations": "http://www.sinovac.com/ir/index.shtml",
+    "key_executives": [
+        {
+            "name": "Yin Weidong",
+            "position": "CEO"
+        },
+        {
+            "name": "Tao Wang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "Hepatitis A Vaccine",
+                "Hepatitis B Vaccine",
+                "Influenza Vaccine",
+                "CoronaVac (COVID-19 Vaccine)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Sinovac Biotech Ltd. | Leading Vaccine Manufacturer",
+        "meta_description": "Discover Sinovac Biotech Ltd., a leader in vaccine development and manufacturing. Learn about Sinovac's innovative products and its impact on global health.",
+        "keywords": [
+            "Sinovac",
+            "Vaccines",
+            "Biotechnology",
+            "COVID-19 Vaccine",
+            "Public Health",
+            "Hepatitis Vaccine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Sinovac Biotech known for?",
+            "answer": "Sinovac Biotech is known for its development and manufacturing of vaccines, including its COVID-19 vaccine, CoronaVac."
+        },
+        {
+            "question": "Who is the CEO of Sinovac Biotech?",
+            "answer": "Yin Weidong is the CEO of Sinovac Biotech Ltd."
+        },
+        {
+            "question": "Where is Sinovac headquartered?",
+            "answer": "Sinovac is headquartered in Beijing, China."
+        },
+        {
+            "question": "What are the main products of Sinovac?",
+            "answer": "Sinovac's main products include hepatitis vaccines, influenza vaccine, and CoronaVac for COVID-19."
+        },
+        {
+            "question": "When was Sinovac founded?",
+            "answer": "Sinovac was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "NVAX",
+        "BNTX",
+        "MRNA",
+        "SNY"
+    ],
+    "related_stocks": [
+        "PFE",
+        "JNJ",
+        "GSK",
+        "AZN"
+    ]
+}

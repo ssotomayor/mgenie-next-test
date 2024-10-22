@@ -1,0 +1,93 @@
+{
+    "ticker": "UHG",
+    "name": "UnitedHealth Group Incorporated",
+    "description": "UnitedHealth Group Incorporated is a diversified healthcare company based in the United States, established in 1977. It operates through two distinct platforms: UnitedHealthcare, which provides health care coverage and benefits services, and Optum, which offers health services, including pharmacy care, data analytics, and healthcare management. UnitedHealth Group aims to help people live healthier lives and to help the health system work better for everyone. The company serves millions of individuals across the globe with a wide range of healthcare products and services, including health insurance plans for individuals and families, employer-sponsored health plans, and Medicare and Medicaid services. UnitedHealth Group is known for its innovative use of technology and data to improve healthcare outcomes and reduce costs. The company is committed to addressing health disparities and enhancing access to care through community programs and partnerships. With a focus on value-based care, UnitedHealth Group continues to evolve in the rapidly changing healthcare landscape, making strategic investments in technology and services that empower consumers and providers alike.",
+    "industry": [
+        "Healthcare",
+        "Insurance"
+    ],
+    "headquarters": "Minnetonka, Minnesota, USA",
+    "founded": "1977",
+    "website": "https://www.unitedhealthgroup.com",
+    "ceo": "Andrew Witty",
+    "social_media": {
+        "twitter": "https://twitter.com/UHC",
+        "linkedin": "https://www.linkedin.com/company/unitedhealthgroup/"
+    },
+    "investor_relations": "https://www.unitedhealthgroup.com/investors.html",
+    "key_executives": [
+        {
+            "name": "Andrew Witty",
+            "position": "CEO"
+        },
+        {
+            "name": "John Rex",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Health Insurance",
+            "products": [
+                "Individual & Family Plans",
+                "Employer-Sponsored Plans",
+                "Medicare Plans",
+                "Medicaid Plans"
+            ]
+        },
+        {
+            "category": "Health Services",
+            "products": [
+                "Pharmacy Care Services",
+                "Data Analytics",
+                "Healthcare Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "UnitedHealth Group | Leading Healthcare Services and Insurance",
+        "meta_description": "Learn about UnitedHealth Group, a leading healthcare company providing innovative health insurance and health services. Discover our commitment to improving healthcare outcomes.",
+        "keywords": [
+            "UnitedHealth Group",
+            "Healthcare",
+            "Health Insurance",
+            "Medicare",
+            "Optum",
+            "Health Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does UnitedHealth Group do?",
+            "answer": "UnitedHealth Group provides health care coverage and benefits services through its UnitedHealthcare and Optum platforms."
+        },
+        {
+            "question": "Who is the CEO of UnitedHealth Group?",
+            "answer": "Andrew Witty is the CEO of UnitedHealth Group Incorporated."
+        },
+        {
+            "question": "Where is UnitedHealth Group headquartered?",
+            "answer": "UnitedHealth Group is headquartered in Minnetonka, Minnesota, USA."
+        },
+        {
+            "question": "What types of insurance does UnitedHealth Group offer?",
+            "answer": "UnitedHealth Group offers individual and family plans, employer-sponsored plans, Medicare plans, and Medicaid plans."
+        },
+        {
+            "question": "When was UnitedHealth Group founded?",
+            "answer": "UnitedHealth Group was founded in 1977."
+        }
+    ],
+    "competitors": [
+        "ANTM",
+        "CVS",
+        "CNC",
+        "HUM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JNJ",
+        "PFE",
+        "MRK"
+    ]
+}

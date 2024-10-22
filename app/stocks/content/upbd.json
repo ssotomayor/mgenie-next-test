@@ -1,0 +1,80 @@
+{
+    "ticker": "UPBD",
+    "name": "Upbound, Inc.",
+    "description": "Upbound, Inc. is an innovative technology company focused on cloud-native application development and infrastructure management. Founded in 2018, Upbound is dedicated to empowering organizations to build, deploy, and manage their applications seamlessly across various cloud environments. The company is best known for its flagship product, Crossplane, an open-source framework that enables developers to create and manage cloud-native applications with unprecedented flexibility and control. By leveraging a declarative approach to infrastructure management, Upbound allows users to define their cloud resources as code, promoting best practices in DevOps and automation. The company's mission is to optimize cloud usage and reduce operational complexity, enabling businesses to focus on delivering value through their applications rather than getting bogged down by infrastructure challenges. Upbound has garnered attention for its community-driven approach and collaboration with leading cloud service providers, ensuring that its solutions remain relevant in a fast-evolving technological landscape. The company continues to expand its product offerings and user community, positioning itself as a leader in the cloud-native ecosystem.",
+    "industry": [
+        "Technology",
+        "Cloud Computing"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2018",
+    "website": "https://upbound.io",
+    "ceo": "Joe Giraud",
+    "social_media": {
+        "twitter": "https://twitter.com/upboundio",
+        "linkedin": "https://www.linkedin.com/company/upbound"
+    },
+    "investor_relations": "https://upbound.io/investors",
+    "key_executives": [
+        {
+            "name": "Joe Giraud",
+            "position": "CEO"
+        },
+        {
+            "name": "Gabriel Monroy",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Management",
+            "products": [
+                "Crossplane"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Upbound, Inc. | Cloud-Native Application Development",
+        "meta_description": "Explore Upbound, Inc., a leader in cloud-native application development with Crossplane. Learn how Upbound simplifies infrastructure management and empowers developers.",
+        "keywords": [
+            "Upbound",
+            "Cloud Computing",
+            "Crossplane",
+            "Cloud-Native",
+            "Infrastructure as Code"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Upbound known for?",
+            "answer": "Upbound is known for its cloud-native application development solutions, particularly its open-source project Crossplane."
+        },
+        {
+            "question": "Who is the CEO of Upbound?",
+            "answer": "Joe Giraud is the CEO of Upbound, Inc."
+        },
+        {
+            "question": "Where is Upbound headquartered?",
+            "answer": "Upbound is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What products does Upbound offer?",
+            "answer": "Upbound offers cloud management solutions, with its primary product being Crossplane."
+        },
+        {
+            "question": "When was Upbound founded?",
+            "answer": "Upbound was founded in 2018."
+        }
+    ],
+    "competitors": [
+        "AKAM",
+        "NET",
+        "CLOU"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "MSFT",
+        "GOOGL",
+        "IBM"
+    ]
+}

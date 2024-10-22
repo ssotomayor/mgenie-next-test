@@ -1,0 +1,91 @@
+{
+    "ticker": "TNC",
+    "name": "Tennant Company",
+    "description": "Tennant Company is a global leader in the design, manufacture, and marketing of cleaning solutions for industrial and commercial applications. Founded in 1870 and headquartered in Golden Valley, Minnesota, Tennant is renowned for its innovative cleaning products, including floor scrubbers, sweepers, and specialty cleaning equipment. The company emphasizes sustainability and is committed to minimizing its environmental footprint through eco-friendly product designs and practices. Tennant's products are engineered to enhance productivity while reducing water and chemical usage, which aligns with their mission to provide effective cleaning solutions that contribute to healthier environments. With a strong focus on research and development, Tennant continuously invests in advancing its technology to deliver superior performance and efficiency. The company serves a diverse range of markets including manufacturing, healthcare, retail, and food service, helping businesses maintain clean and safe facilities. Tennant's dedication to customer support ensures that clients receive comprehensive service and maintenance for their cleaning equipment, further solidifying its reputation as a trusted partner in cleanliness.",
+    "industry": [
+        "Manufacturing",
+        "Cleaning Equipment"
+    ],
+    "headquarters": "Golden Valley, Minnesota, USA",
+    "founded": "1870",
+    "website": "https://www.tennantco.com",
+    "ceo": "Chris Killingstad",
+    "social_media": {
+        "twitter": "https://twitter.com/TennantCo",
+        "linkedin": "https://www.linkedin.com/company/tennant-company",
+        "facebook": "https://www.facebook.com/TennantCo"
+    },
+    "investor_relations": "https://investors.tennantco.com",
+    "key_executives": [
+        {
+            "name": "Chris Killingstad",
+            "position": "CEO"
+        },
+        {
+            "name": "David M. Darr",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Floor Cleaning Equipment",
+            "products": [
+                "Walk-Behind Scrubbers",
+                "Ride-On Scrubbers",
+                "Sweepers"
+            ]
+        },
+        {
+            "category": "Outdoor Cleaning Equipment",
+            "products": [
+                "Outdoor Sweepers",
+                "Street Sweepers"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tennant Company | Innovative Cleaning Solutions",
+        "meta_description": "Explore Tennant Company, a leader in cleaning equipment manufacturing. Discover innovative products and solutions designed for effective and sustainable cleaning.",
+        "keywords": [
+            "Tennant",
+            "Cleaning Equipment",
+            "Floor Scrubbers",
+            "Industrial Cleaning",
+            "Sustainable Cleaning",
+            "Cleaning Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Tennant Company known for?",
+            "answer": "Tennant Company is known for its innovative cleaning solutions and equipment for industrial and commercial applications."
+        },
+        {
+            "question": "Who is the CEO of Tennant Company?",
+            "answer": "Chris Killingstad is the CEO of Tennant Company."
+        },
+        {
+            "question": "Where is Tennant Company headquartered?",
+            "answer": "Tennant Company is headquartered in Golden Valley, Minnesota, USA."
+        },
+        {
+            "question": "What products does Tennant manufacture?",
+            "answer": "Tennant manufactures floor cleaning equipment, outdoor cleaning equipment, and specialty cleaning solutions."
+        },
+        {
+            "question": "When was Tennant Company founded?",
+            "answer": "Tennant Company was founded in 1870."
+        }
+    ],
+    "competitors": [
+        "SWK",
+        "HNI",
+        "ECOL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

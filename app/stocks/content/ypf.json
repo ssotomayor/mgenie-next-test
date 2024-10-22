@@ -1,0 +1,90 @@
+{
+    "ticker": "YPF",
+    "name": "YPF S.A.",
+    "description": "YPF S.A. is a leading integrated oil and gas company in Argentina, primarily focused on the exploration, production, refining, and marketing of oil and natural gas. Established in 1922, YPF has played a vital role in the development of the Argentine energy sector, contributing significantly to the country's energy security and economic growth. YPF operates in various segments including upstream operations where it explores and produces hydrocarbons, and downstream operations that encompass refining, distribution, and commercialization of petroleum products. The company has a strong commitment to sustainability and innovation, investing in new technologies and renewable energy sources to reduce its environmental footprint. YPF is also involved in the development of unconventional oil and gas resources, notably in the Vaca Muerta shale formation, which has positioned it as a key player in the global energy landscape. With a vast network of service stations, YPF provides fuel and lubricants to millions of consumers across Argentina. The company's mission is to enhance the quality of life of its people by providing reliable energy solutions while maintaining high standards of environmental and social responsibility.",
+    "industry": [
+        "Oil and Gas",
+        "Energy"
+    ],
+    "headquarters": "Buenos Aires, Argentina",
+    "founded": "1922",
+    "website": "https://www.ypf.com",
+    "ceo": "Pablo Gonz\u00e1lez",
+    "social_media": {
+        "twitter": "https://twitter.com/YPFoficial",
+        "linkedin": "https://www.linkedin.com/company/ypf/"
+    },
+    "investor_relations": "https://www.ypf.com/ir",
+    "key_executives": [
+        {
+            "name": "Pablo Gonz\u00e1lez",
+            "position": "CEO"
+        },
+        {
+            "name": "Emilio Apud",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Upstream Operations",
+            "products": [
+                "Crude Oil",
+                "Natural Gas"
+            ]
+        },
+        {
+            "category": "Downstream Operations",
+            "products": [
+                "Gasoline",
+                "Diesel",
+                "Lubricants"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "YPF S.A. | Leading Oil and Gas Company in Argentina",
+        "meta_description": "Explore YPF S.A., Argentina's premier integrated oil and gas company, dedicated to sustainable energy solutions and innovation in the energy sector.",
+        "keywords": [
+            "YPF",
+            "Oil and Gas",
+            "Energy",
+            "Argentina",
+            "Sustainable Energy",
+            "Vaca Muerta"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does YPF stand for?",
+            "answer": "YPF stands for Yacimientos Petrol\u00edferos Fiscales, which translates to 'Fiscal Oil Fields'."
+        },
+        {
+            "question": "What are the main operations of YPF?",
+            "answer": "YPF operates in both upstream and downstream segments, focusing on oil and gas exploration, production, refining, and marketing."
+        },
+        {
+            "question": "Where is YPF headquartered?",
+            "answer": "YPF is headquartered in Buenos Aires, Argentina."
+        },
+        {
+            "question": "Who is the CEO of YPF?",
+            "answer": "Pablo Gonz\u00e1lez is the CEO of YPF S.A."
+        },
+        {
+            "question": "When was YPF founded?",
+            "answer": "YPF was founded in 1922."
+        }
+    ],
+    "competitors": [
+        "PBR",
+        "CVX",
+        "XOM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

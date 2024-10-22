@@ -1,0 +1,90 @@
+{
+    "ticker": "TRINI",
+    "name": "Trinity Industries, Inc.",
+    "description": "Trinity Industries, Inc. is a diversified industrial company known for its leading position in the transportation and infrastructure sectors. Founded in 1933 and headquartered in Dallas, Texas, Trinity operates in multiple segments, including the manufacture of railcars, railcar leasing, and the production of construction and energy equipment. The company is a prominent provider of rail products, including tank cars, flatcars, and intermodal cars, serving various industries such as energy, agriculture, and construction. Trinity is committed to innovation and sustainability, focusing on developing advanced technologies that improve the efficiency and safety of transportation systems. In addition to rail products, Trinity's infrastructure segment specializes in producing highway products, including guardrails and other safety systems, contributing to safer roadways across the United States. With a strong emphasis on customer service and operational excellence, Trinity aims to enhance the value it provides to its clients while also promoting environmental responsibility through its manufacturing processes. The company\u2019s mission is to deliver superior products and services that drive growth for its stakeholders and support the development of infrastructure that benefits communities.",
+    "industry": [
+        "Transportation",
+        "Manufacturing",
+        "Infrastructure"
+    ],
+    "headquarters": "Dallas, Texas, USA",
+    "founded": "1933",
+    "website": "https://www.trinityindustries.com",
+    "ceo": "Jean Savage",
+    "social_media": {
+        "twitter": "https://twitter.com/TrinityInd",
+        "linkedin": "https://www.linkedin.com/company/trinity-industries"
+    },
+    "investor_relations": "https://investors.trinityindustries.com",
+    "key_executives": [
+        {
+            "name": "Jean Savage",
+            "position": "CEO"
+        },
+        {
+            "name": "Ryan L. McCarthy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Rail Products",
+            "products": [
+                "Tank Cars",
+                "Flatcars",
+                "Intermodal Cars"
+            ]
+        },
+        {
+            "category": "Infrastructure Products",
+            "products": [
+                "Guardrails",
+                "Crash Cushions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Trinity Industries, Inc. | Leading Provider of Transportation Solutions",
+        "meta_description": "Explore Trinity Industries, Inc., a leader in transportation and infrastructure solutions. Discover our innovative rail and highway products, and learn about our commitment to sustainability.",
+        "keywords": [
+            "Trinity Industries",
+            "Rail Products",
+            "Transportation Solutions",
+            "Infrastructure",
+            "Manufacturing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Trinity Industries do?",
+            "answer": "Trinity Industries is a diversified industrial company that manufactures railcars and infrastructure products."
+        },
+        {
+            "question": "Who is the CEO of Trinity Industries?",
+            "answer": "Jean Savage is the CEO of Trinity Industries, Inc."
+        },
+        {
+            "question": "Where is Trinity Industries headquartered?",
+            "answer": "Trinity Industries is headquartered in Dallas, Texas, USA."
+        },
+        {
+            "question": "What are the main products of Trinity Industries?",
+            "answer": "Trinity's main products include tank cars, flatcars, guardrails, and crash cushions."
+        },
+        {
+            "question": "When was Trinity Industries founded?",
+            "answer": "Trinity Industries was founded in 1933."
+        }
+    ],
+    "competitors": [
+        "WAB",
+        "UNP",
+        "GBX"
+    ],
+    "related_stocks": [
+        "CAT",
+        "DE",
+        "EMR",
+        "JCI"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "TOTL",
+    "name": "TotalEnergies SE",
+    "description": "TotalEnergies SE is a French multinational integrated energy and petroleum company, founded in 1924. It is one of the largest publicly traded oil and gas companies in the world, operating in all areas of the energy sector. TotalEnergies is engaged in the exploration, production, refining, and marketing of oil and gas, as well as the development of renewable energy sources. The company's commitment to sustainability and the energy transition is evident in its strategic focus on reducing carbon emissions and investing in cleaner energy technologies. TotalEnergies aims to become a world-class player in the energy sector by diversifying its portfolio to include solar, wind, and hydrogen energy, alongside traditional oil and gas operations. The company is known for its significant investments in renewable energy projects and its goal to achieve net-zero emissions by 2050 in collaboration with society. With a strong global presence, TotalEnergies operates in more than 130 countries and employs over 100,000 people. Its extensive network of service stations and retail outlets strengthens its position as a leading energy provider, while its innovative initiatives in energy efficiency and responsible resource management demonstrate its commitment to sustainability and social responsibility.",
+    "industry": [
+        "Energy",
+        "Oil & Gas"
+    ],
+    "headquarters": "Courbevoie, France",
+    "founded": "1924",
+    "website": "https://totalenergies.com",
+    "ceo": "Patrick Pouyann\u00e9",
+    "social_media": {
+        "twitter": "https://twitter.com/TotalEnergies",
+        "linkedin": "https://www.linkedin.com/company/totalenergies/"
+    },
+    "investor_relations": "https://totalenergies.com/investors",
+    "key_executives": [
+        {
+            "name": "Patrick Pouyann\u00e9",
+            "position": "CEO"
+        },
+        {
+            "name": "Jean-Pierre Sbraire",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Oil and Gas",
+            "products": [
+                "Crude Oil",
+                "Natural Gas",
+                "Refined Products"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Solar Energy Solutions",
+                "Wind Energy Projects",
+                "Hydrogen"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TotalEnergies SE | Integrated Energy and Sustainable Solutions",
+        "meta_description": "Explore TotalEnergies SE, a global leader in integrated energy and petroleum, committed to sustainability and the energy transition. Discover our innovative solutions and projects.",
+        "keywords": [
+            "TotalEnergies",
+            "Oil and Gas",
+            "Renewable Energy",
+            "Sustainability",
+            "Energy Transition",
+            "Hydrogen",
+            "Solar Energy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is TotalEnergies known for?",
+            "answer": "TotalEnergies is known for its integrated operations in oil and gas, as well as its investments in renewable energy."
+        },
+        {
+            "question": "Who is the CEO of TotalEnergies?",
+            "answer": "Patrick Pouyann\u00e9 is the CEO of TotalEnergies SE."
+        },
+        {
+            "question": "Where is TotalEnergies headquartered?",
+            "answer": "TotalEnergies is headquartered in Courbevoie, France."
+        },
+        {
+            "question": "What are TotalEnergies' main products?",
+            "answer": "TotalEnergies' main products include crude oil, natural gas, refined products, solar energy solutions, and wind energy projects."
+        },
+        {
+            "question": "When was TotalEnergies founded?",
+            "answer": "TotalEnergies was founded in 1924."
+        }
+    ],
+    "competitors": [
+        "BP",
+        "XOM",
+        "RDS.A",
+        "CVX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

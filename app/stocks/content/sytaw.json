@@ -1,0 +1,87 @@
+{
+    "ticker": "SYTAW",
+    "name": "System1, Inc.",
+    "description": "System1, Inc. is a data-driven marketing and consumer acquisition company that specializes in utilizing technology to drive customer engagement and optimize marketing strategies. Founded in 2013, the company focuses on connecting brands with their target audiences through innovative solutions in digital advertising and marketing analytics. System1 operates a portfolio of well-known consumer brands and websites, leveraging its proprietary technology to attract, engage, and retain customers. The company employs advanced machine learning and artificial intelligence to analyze consumer behavior, enabling it to tailor marketing campaigns that resonate with users. By harnessing data insights, System1 aims to maximize ROI for its clients while delivering personalized experiences to consumers. Commitment to transparency, efficiency, and performance sets System1 apart in a competitive landscape, allowing it to maintain strong growth in the rapidly evolving digital marketing sector. With a mission to connect brands with the right customers at the right time, System1 continues to innovate and expand its capabilities, striving to be a leader in performance marketing.",
+    "industry": [
+        "Digital Marketing",
+        "Advertising"
+    ],
+    "headquarters": "Los Angeles, California, USA",
+    "founded": "2013",
+    "website": "https://www.system1.com",
+    "ceo": "Mike McNulty",
+    "social_media": {
+        "twitter": "https://twitter.com/system1",
+        "linkedin": "https://www.linkedin.com/company/system1",
+        "facebook": "https://www.facebook.com/system1"
+    },
+    "investor_relations": "https://ir.system1.com",
+    "key_executives": [
+        {
+            "name": "Mike McNulty",
+            "position": "CEO"
+        },
+        {
+            "name": "David Gibbons",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Advertising",
+            "products": [
+                "Display Ads",
+                "Search Ads",
+                "Social Media Marketing"
+            ]
+        },
+        {
+            "category": "Consumer Engagement",
+            "products": [
+                "Brand Portfolio Management",
+                "Customer Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "System1, Inc. | Data-Driven Marketing and Consumer Acquisition",
+        "meta_description": "Explore System1, Inc., a leader in digital marketing and consumer acquisition. Discover innovative solutions to enhance customer engagement and brand performance.",
+        "keywords": [
+            "System1",
+            "Digital Marketing",
+            "Advertising",
+            "Consumer Acquisition",
+            "Performance Marketing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does System1 offer?",
+            "answer": "System1 offers digital advertising, consumer engagement, and customer analytics services."
+        },
+        {
+            "question": "Who is the CEO of System1?",
+            "answer": "Mike McNulty is the CEO of System1, Inc."
+        },
+        {
+            "question": "Where is System1 headquartered?",
+            "answer": "System1 is headquartered in Los Angeles, California, USA."
+        },
+        {
+            "question": "When was System1 founded?",
+            "answer": "System1 was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "FB",
+        "SNAP",
+        "TTD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "NFLX"
+    ]
+}

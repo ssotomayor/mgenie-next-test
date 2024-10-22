@@ -1,0 +1,90 @@
+{
+    "ticker": "VRSN",
+    "name": "VeriSign, Inc.",
+    "description": "VeriSign, Inc. is a global leader in domain names and internet infrastructure services, essential for the functioning of the internet. Founded in 1995, the company plays a crucial role in the management of the .com and .net top-level domains, ensuring the stability and security of the internet's naming system. VeriSign provides a range of services, including domain name registration, DNS services, and security solutions for businesses and organizations worldwide. With a commitment to innovation, VeriSign continually enhances its services to meet the growing demands for cybersecurity and internet reliability. The company safeguards the domain registration process, helping customers protect their online identities and maintain trust with their users. Additionally, VeriSign's threat intelligence and distributed denial-of-service (DDoS) protection services are designed to protect organizations from evolving cyber threats. As the digital landscape expands, VeriSign is dedicated to enabling the seamless operation of internet services while fostering a safe and secure online environment for users and businesses alike.",
+    "industry": [
+        "Internet Services",
+        "Cybersecurity"
+    ],
+    "headquarters": "Reston, Virginia, USA",
+    "founded": "1995",
+    "website": "https://www.verisign.com",
+    "ceo": "D. James Bidzos",
+    "social_media": {
+        "twitter": "https://twitter.com/verisign",
+        "linkedin": "https://www.linkedin.com/company/verisign/"
+    },
+    "investor_relations": "https://investor.verisign.com",
+    "key_executives": [
+        {
+            "name": "D. James Bidzos",
+            "position": "CEO"
+        },
+        {
+            "name": "George M. S. K. W. T. Chisholm",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Domain Services",
+            "products": [
+                ".com Domains",
+                ".net Domains",
+                "Domain Registration"
+            ]
+        },
+        {
+            "category": "Security Services",
+            "products": [
+                "DDoS Protection",
+                "DNS Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "VeriSign, Inc. | Leader in Domain Names and Internet Security",
+        "meta_description": "Explore VeriSign, Inc., the global leader in domain names and internet infrastructure services. Learn about their innovative security solutions and commitment to internet reliability.",
+        "keywords": [
+            "VeriSign",
+            "Domain Names",
+            "Internet Security",
+            "Cybersecurity",
+            "DNS Services",
+            "DDoS Protection"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does VeriSign do?",
+            "answer": "VeriSign manages domain names, provides DNS services, and offers cybersecurity solutions."
+        },
+        {
+            "question": "Who is the CEO of VeriSign?",
+            "answer": "D. James Bidzos is the CEO of VeriSign, Inc."
+        },
+        {
+            "question": "Where is VeriSign headquartered?",
+            "answer": "VeriSign is headquartered in Reston, Virginia, USA."
+        },
+        {
+            "question": "What are VeriSign's main products?",
+            "answer": "VeriSign's main products include domain registration services, DNS services, and DDoS protection."
+        },
+        {
+            "question": "When was VeriSign founded?",
+            "answer": "VeriSign was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "NET",
+        "CLOU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "ORCL"
+    ]
+}

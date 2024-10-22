@@ -1,0 +1,92 @@
+{
+    "ticker": "XMTR",
+    "name": "Xometry, Inc.",
+    "description": "Xometry, Inc. is a leading on-demand manufacturing platform that connects businesses with manufacturers and suppliers globally. Founded in 2013, Xometry leverages advanced technology to streamline the procurement of custom parts and prototypes, offering a wide range of services including CNC machining, 3D printing, injection molding, and sheet metal fabrication. The company\u2019s platform allows users to upload their CAD files and receive instant quotes from a network of vetted manufacturers, significantly reducing the time and complexity involved in sourcing custom manufacturing solutions. Xometry's AI-driven algorithms ensure optimal pricing and quick turnarounds, catering to industries such as aerospace, automotive, medical devices, and consumer products. With a commitment to innovation, Xometry continues to expand its service offerings and geographic reach, empowering businesses of all sizes to access advanced manufacturing capabilities. The company\u2019s mission is to democratize manufacturing, making it accessible and efficient for everyone, from startups to large enterprises.",
+    "industry": [
+        "Manufacturing",
+        "Technology"
+    ],
+    "headquarters": "Rockville, Maryland, USA",
+    "founded": "2013",
+    "website": "https://www.xometry.com",
+    "ceo": "Raghavan Srinivasan",
+    "social_media": {
+        "twitter": "https://twitter.com/xometry",
+        "linkedin": "https://www.linkedin.com/company/xometry"
+    },
+    "investor_relations": "https://investors.xometry.com",
+    "key_executives": [
+        {
+            "name": "Raghavan Srinivasan",
+            "position": "CEO"
+        },
+        {
+            "name": "Lance D. Kessler",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Manufacturing Services",
+            "products": [
+                "CNC Machining",
+                "3D Printing",
+                "Injection Molding",
+                "Sheet Metal Fabrication"
+            ]
+        },
+        {
+            "category": "Software Solutions",
+            "products": [
+                "Xometry Instant Quoting Engine",
+                "Xometry Supply Chain"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Xometry, Inc. | On-Demand Manufacturing Platform",
+        "meta_description": "Explore Xometry, Inc., a leader in on-demand manufacturing solutions. Discover how Xometry connects businesses with manufacturers through its innovative platform.",
+        "keywords": [
+            "Xometry",
+            "On-Demand Manufacturing",
+            "CNC Machining",
+            "3D Printing",
+            "Injection Molding",
+            "Manufacturing Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Xometry provide?",
+            "answer": "Xometry provides on-demand manufacturing services including CNC machining, 3D printing, injection molding, and sheet metal fabrication."
+        },
+        {
+            "question": "Who is the CEO of Xometry?",
+            "answer": "Raghavan Srinivasan is the CEO of Xometry, Inc."
+        },
+        {
+            "question": "Where is Xometry headquartered?",
+            "answer": "Xometry is headquartered in Rockville, Maryland, USA."
+        },
+        {
+            "question": "What industries does Xometry serve?",
+            "answer": "Xometry serves various industries including aerospace, automotive, medical devices, and consumer products."
+        },
+        {
+            "question": "When was Xometry founded?",
+            "answer": "Xometry was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "SHLD",
+        "MFG",
+        "FANH",
+        "PRNT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

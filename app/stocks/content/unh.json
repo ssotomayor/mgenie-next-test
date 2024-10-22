@@ -1,0 +1,93 @@
+{
+    "ticker": "UNH",
+    "name": "UnitedHealth Group Incorporated",
+    "description": "UnitedHealth Group Incorporated is a diversified health and well-being company, established in 1977, that aims to help people live healthier lives and make the health system work better for everyone. The company operates through two distinct business platforms: UnitedHealthcare, which offers health care coverage and benefits services, and Optum, which provides information and technology-enabled health services. UnitedHealth Group is a leader in the health insurance industry, serving millions of customers across various sectors, including employer-sponsored plans, government programs such as Medicare and Medicaid, and individual health plans. The company is known for its innovative solutions in health care technology, data analytics, and integrated health services, which enhance the quality of care and optimize health outcomes. UnitedHealth Group maintains a strong commitment to improving the health system through its initiatives in value-based care, affordability, and patient-centric services. The company is headquartered in Minnetonka, Minnesota, and is recognized for its efforts in public health, community support, and sustainability initiatives. With a vision to create a healthier world, UnitedHealth Group continues to invest in technology and partnerships to address the evolving needs of the health care landscape.",
+    "industry": [
+        "Health Care",
+        "Insurance"
+    ],
+    "headquarters": "Minnetonka, Minnesota, USA",
+    "founded": "1977",
+    "website": "https://www.unitedhealthgroup.com",
+    "ceo": "Andrew Witty",
+    "social_media": {
+        "twitter": "https://twitter.com/UnitedHealthGrp",
+        "linkedin": "https://www.linkedin.com/company/unitedhealthgroup/"
+    },
+    "investor_relations": "https://www.unitedhealthgroup.com/investors.html",
+    "key_executives": [
+        {
+            "name": "Andrew Witty",
+            "position": "CEO"
+        },
+        {
+            "name": "John Rex",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Health Insurance",
+            "products": [
+                "Employer-Sponsored Plans",
+                "Medicare Advantage",
+                "Medicaid Services",
+                "Individual and Family Plans"
+            ]
+        },
+        {
+            "category": "Health Services",
+            "products": [
+                "OptumRx",
+                "OptumInsight",
+                "OptumHealth"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "UnitedHealth Group Incorporated | Health Care and Well-Being",
+        "meta_description": "Explore UnitedHealth Group, a leader in health care solutions, dedicated to improving health outcomes and making the health system work better for everyone.",
+        "keywords": [
+            "UnitedHealth Group",
+            "Health Care",
+            "Health Insurance",
+            "Medicare",
+            "Optum",
+            "Health Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does UnitedHealth Group do?",
+            "answer": "UnitedHealth Group provides health care coverage and services through its UnitedHealthcare and Optum platforms."
+        },
+        {
+            "question": "Who is the CEO of UnitedHealth Group?",
+            "answer": "Andrew Witty is the CEO of UnitedHealth Group."
+        },
+        {
+            "question": "Where is UnitedHealth Group headquartered?",
+            "answer": "UnitedHealth Group is headquartered in Minnetonka, Minnesota, USA."
+        },
+        {
+            "question": "What are the main products offered by UnitedHealth Group?",
+            "answer": "UnitedHealth Group offers health insurance plans, Medicare services, and health services through Optum."
+        },
+        {
+            "question": "When was UnitedHealth Group founded?",
+            "answer": "UnitedHealth Group was founded in 1977."
+        }
+    ],
+    "competitors": [
+        "ANTM",
+        "CNC",
+        "HUM",
+        "MOH"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "JNJ",
+        "WMT",
+        "PFE"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "ticker": "TSLA",
+    "name": "Tesla, Inc.",
+    "description": "Tesla, Inc. is a leading innovator in the electric vehicle (EV) sector and a prominent player in the renewable energy market. Founded in 2003 by Elon Musk and a team of engineers, Tesla's mission is to accelerate the world's transition to sustainable energy through cutting-edge technology and design. The company is best known for its electric vehicles, which include the luxury sedan Model S, the more affordable Model 3, the versatile Model X SUV, and the compact Model Y. Each of these vehicles is equipped with advanced technology features, high safety ratings, and impressive performance metrics. In addition to its automotive offerings, Tesla is at the forefront of energy storage solutions with products like the Powerwall and Powerpack, which enable homes and businesses to store solar energy for later use. Furthermore, Tesla produces solar energy products, including solar panels and solar roofs, aimed at harnessing renewable energy sources. With a strong commitment to sustainability and innovation, Tesla is also investing heavily in artificial intelligence, battery technology, and autonomous driving capabilities. The company's overarching goal is not just to revolutionize transportation but to contribute to a sustainable future globally, making it a key player in the fight against climate change.",
+    "industry": [
+        "Automotive",
+        "Energy"
+    ],
+    "headquarters": "Palo Alto, California, USA",
+    "founded": "2003",
+    "website": "https://www.tesla.com",
+    "ceo": "Elon Musk",
+    "social_media": {
+        "twitter": "https://twitter.com/Tesla",
+        "linkedin": "https://www.linkedin.com/company/tesla-motors/",
+        "instagram": "https://www.instagram.com/teslamotors",
+        "youtube": "https://www.youtube.com/user/TeslaMotors"
+    },
+    "investor_relations": "https://ir.tesla.com",
+    "key_executives": [
+        {
+            "name": "Elon Musk",
+            "position": "CEO"
+        },
+        {
+            "name": "Vaibhav Taneja",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "Model S",
+                "Model 3",
+                "Model X",
+                "Model Y"
+            ]
+        },
+        {
+            "category": "Energy Products",
+            "products": [
+                "Solar Panels",
+                "Powerwall"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tesla, Inc. | Electric Vehicles and Clean Energy Solutions",
+        "meta_description": "Discover Tesla, Inc., a pioneer in electric vehicles and sustainable energy. Explore Tesla's innovative products, mission, and impact on the automotive industry.",
+        "keywords": [
+            "Tesla",
+            "Electric Vehicles",
+            "Clean Energy",
+            "Sustainable Transportation",
+            "Elon Musk",
+            "Tesla Model S",
+            "Tesla Model 3"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Tesla known for?",
+            "answer": "Tesla is known for its electric vehicles, battery energy storage, and solar products."
+        },
+        {
+            "question": "Who is the CEO of Tesla?",
+            "answer": "Elon Musk is the CEO of Tesla, Inc."
+        },
+        {
+            "question": "Where is Tesla headquartered?",
+            "answer": "Tesla is headquartered in Palo Alto, California, USA."
+        },
+        {
+            "question": "What are Tesla's main products?",
+            "answer": "Tesla's main products include the Model S, Model 3, Model X, Model Y, Solar Panels, and Powerwall."
+        },
+        {
+            "question": "When was Tesla founded?",
+            "answer": "Tesla was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "F",
+        "GM",
+        "LCID",
+        "NIO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

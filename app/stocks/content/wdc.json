@@ -1,0 +1,98 @@
+{
+    "ticker": "WDC",
+    "name": "Western Digital Corporation",
+    "description": "Western Digital Corporation is a leading provider of data storage solutions, known for its innovative products and technologies that enable users to capture, manage, and preserve their digital content. Founded in 1970, Western Digital has continuously evolved to meet the changing needs of the data-driven world. The company designs, manufactures, and sells a wide range of storage devices, including hard disk drives (HDDs), solid-state drives (SSDs), and cloud storage solutions. Western Digital's products are utilized across various sectors, including consumer electronics, enterprise data centers, and cloud computing, catering to both individual consumers and large organizations. The company's commitment to quality and reliability has made it a trusted name in the industry. Western Digital has also invested heavily in data center technologies and storage management solutions, advancing the way data is stored and accessed. Their mission is to empower people to create and share their digital stories by providing the most advanced and reliable storage solutions available. With a strong focus on innovation, sustainability, and customer satisfaction, Western Digital continues to lead the charge in the data storage industry.",
+    "industry": [
+        "Technology",
+        "Data Storage"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "1970",
+    "website": "https://www.westerndigital.com",
+    "ceo": "David Goeckeler",
+    "social_media": {
+        "twitter": "https://twitter.com/westerndigital",
+        "linkedin": "https://www.linkedin.com/company/western-digital/"
+    },
+    "investor_relations": "https://investor.wdc.com",
+    "key_executives": [
+        {
+            "name": "David Goeckeler",
+            "position": "CEO"
+        },
+        {
+            "name": "Siva Sivaram",
+            "position": "Chief Technology Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Hard Drives",
+            "products": [
+                "WD Blue",
+                "WD Black",
+                "WD Red"
+            ]
+        },
+        {
+            "category": "Solid-State Drives",
+            "products": [
+                "WD Green",
+                "WD Black SN850"
+            ]
+        },
+        {
+            "category": "Cloud Storage",
+            "products": [
+                "WD My Cloud",
+                "WD My Passport"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Western Digital Corporation | Innovative Data Storage Solutions",
+        "meta_description": "Explore Western Digital Corporation, a leader in data storage solutions, offering innovative HDDs, SSDs, and cloud storage products for personal and enterprise use.",
+        "keywords": [
+            "Western Digital",
+            "Data Storage",
+            "Hard Drives",
+            "Solid-State Drives",
+            "Cloud Storage",
+            "WD Blue",
+            "WD Black"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Western Digital do?",
+            "answer": "Western Digital provides data storage solutions, including hard drives and solid-state drives for various applications."
+        },
+        {
+            "question": "Who is the CEO of Western Digital?",
+            "answer": "David Goeckeler is the CEO of Western Digital Corporation."
+        },
+        {
+            "question": "Where is Western Digital headquartered?",
+            "answer": "Western Digital is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are some products offered by Western Digital?",
+            "answer": "Western Digital offers a range of products including HDDs like WD Blue and SSDs like WD Black SN850."
+        },
+        {
+            "question": "When was Western Digital founded?",
+            "answer": "Western Digital was founded in 1970."
+        }
+    ],
+    "competitors": [
+        "STX",
+        "SSNLF",
+        "MU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

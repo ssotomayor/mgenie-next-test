@@ -1,0 +1,84 @@
+{
+    "ticker": "TSMY",
+    "name": "Taiwan Semiconductor Manufacturing Company",
+    "description": "Taiwan Semiconductor Manufacturing Company (TSMC) is the world's largest dedicated independent semiconductor foundry. Founded in 1987, TSMC has been at the forefront of advanced semiconductor manufacturing technology, providing a wide range of services to customers in various industries, including consumer electronics, computing, automotive, and telecommunications. The company specializes in producing integrated circuits (ICs) and provides a comprehensive range of processes, including 5nm, 7nm, and 10nm technologies, which are essential for powering modern electronic devices. TSMC's commitment to innovation and quality has made it a crucial partner for leading technology companies, including Apple, Qualcomm, and NVIDIA. The company's advanced manufacturing capabilities, robust supply chain, and focus on research and development have positioned it as a leader in the semiconductor industry. TSMC's mission is to enable its customers to thrive by providing world-class manufacturing services, contributing to the advancement of technology and the digital economy globally.",
+    "industry": [
+        "Semiconductors",
+        "Technology"
+    ],
+    "headquarters": "Hsinchu, Taiwan",
+    "founded": "1987",
+    "website": "https://www.tsmc.com",
+    "ceo": "C.C. Wei",
+    "social_media": {
+        "twitter": "https://twitter.com/TSMC",
+        "linkedin": "https://www.linkedin.com/company/tsmc/"
+    },
+    "investor_relations": "https://investor.tsmc.com",
+    "key_executives": [
+        {
+            "name": "C.C. Wei",
+            "position": "CEO"
+        },
+        {
+            "name": "Lora Ho",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Foundry Services",
+            "products": [
+                "5nm Technology",
+                "7nm Technology",
+                "10nm Technology"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TSMC | Leading Semiconductor Foundry",
+        "meta_description": "Explore Taiwan Semiconductor Manufacturing Company (TSMC), the world's largest dedicated semiconductor foundry, providing advanced manufacturing services and technologies.",
+        "keywords": [
+            "TSMC",
+            "Semiconductors",
+            "Foundry",
+            "Technology",
+            "Integrated Circuits",
+            "5nm Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does TSMC specialize in?",
+            "answer": "TSMC specializes in semiconductor manufacturing and provides foundry services for integrated circuits."
+        },
+        {
+            "question": "Who is the CEO of TSMC?",
+            "answer": "C.C. Wei is the CEO of Taiwan Semiconductor Manufacturing Company."
+        },
+        {
+            "question": "Where is TSMC headquartered?",
+            "answer": "TSMC is headquartered in Hsinchu, Taiwan."
+        },
+        {
+            "question": "What are TSMC's main technologies?",
+            "answer": "TSMC's main technologies include 5nm, 7nm, and 10nm semiconductor manufacturing processes."
+        },
+        {
+            "question": "When was TSMC founded?",
+            "answer": "TSMC was founded in 1987."
+        }
+    ],
+    "competitors": [
+        "INTC",
+        "AMD",
+        "NVDA",
+        "QCOM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

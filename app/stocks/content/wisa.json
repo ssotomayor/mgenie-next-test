@@ -1,0 +1,96 @@
+{
+    "ticker": "WISA",
+    "name": "WisdomTree Inc.",
+    "description": "WisdomTree Inc. is a leading asset management firm that specializes in exchange-traded funds (ETFs) and other investment strategies. Founded in 2006 and headquartered in New York City, WisdomTree has established itself as a pioneer in the ETF space, particularly known for its innovative approaches to investment and risk management. The company offers a diverse range of products that cater to various investment strategies, including equity, fixed income, and alternative asset classes. WisdomTree's ETFs are designed to provide investors with exposure to both traditional and non-traditional markets, using a unique fundamental index methodology that focuses on the underlying economic factors driving performance. With an emphasis on transparency and efficiency, WisdomTree aims to deliver superior risk-adjusted returns for investors seeking to diversify their portfolios. The company is committed to educating investors about the benefits of ETFs and aims to innovate continuously within the investment management industry. WisdomTree also emphasizes sustainability, incorporating environmental, social, and governance (ESG) factors into its investment processes. Through a combination of cutting-edge research and a focus on client needs, WisdomTree continues to grow its asset base and influence in the global financial markets.",
+    "industry": [
+        "Financial Services",
+        "Asset Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2006",
+    "website": "https://www.wisdomtree.com",
+    "ceo": "Jonathan Steinberg",
+    "social_media": {
+        "twitter": "https://twitter.com/wisdomtree",
+        "linkedin": "https://www.linkedin.com/company/wisdomtree/"
+    },
+    "investor_relations": "https://www.wisdomtree.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Jonathan Steinberg",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha D. B. L. McGowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity ETFs",
+            "products": [
+                "WisdomTree U.S. Quality Dividend Growth Fund",
+                "WisdomTree Emerging Markets Ex-State-Owned Enterprises Fund"
+            ]
+        },
+        {
+            "category": "Fixed Income ETFs",
+            "products": [
+                "WisdomTree U.S. Aggregate Bond Fund",
+                "WisdomTree Floating Rate Treasury Fund"
+            ]
+        },
+        {
+            "category": "Alternative ETFs",
+            "products": [
+                "WisdomTree Bitcoin Strategy Fund"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "WisdomTree Inc. | Innovative ETF Solutions and Asset Management",
+        "meta_description": "Discover WisdomTree Inc., a leader in exchange-traded funds and asset management. Explore innovative investment solutions and strategies tailored for optimal performance.",
+        "keywords": [
+            "WisdomTree",
+            "ETFs",
+            "Asset Management",
+            "Financial Services",
+            "Investment Strategies",
+            "Sustainable Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does WisdomTree specialize in?",
+            "answer": "WisdomTree specializes in exchange-traded funds (ETFs) and alternative investment strategies."
+        },
+        {
+            "question": "Who is the CEO of WisdomTree?",
+            "answer": "Jonathan Steinberg is the CEO of WisdomTree Inc."
+        },
+        {
+            "question": "Where is WisdomTree headquartered?",
+            "answer": "WisdomTree is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What types of products does WisdomTree offer?",
+            "answer": "WisdomTree offers equity ETFs, fixed income ETFs, and alternative ETFs."
+        },
+        {
+            "question": "When was WisdomTree founded?",
+            "answer": "WisdomTree was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "IVZ",
+        "SCHW",
+        "SPYG"
+    ],
+    "related_stocks": [
+        "VTI",
+        "SPY",
+        "IVV",
+        "QQQ"
+    ]
+}

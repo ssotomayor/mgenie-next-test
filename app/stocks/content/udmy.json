@@ -1,0 +1,91 @@
+{
+    "ticker": "UDMY",
+    "name": "Udemy, Inc.",
+    "description": "Udemy, Inc. is a global online learning and teaching platform that connects students and instructors through a vast array of courses. Founded in 2010, Udemy provides a marketplace where individuals can access high-quality educational content across various subjects, ranging from programming and data science to personal development and art. With over 155,000 courses taught by expert instructors, Udemy empowers learners to acquire new skills at their own pace and on their own schedule. The platform is particularly noted for its ability to cater to a diverse audience, including professionals seeking to upskill, students pursuing academic knowledge, and hobbyists exploring new interests. Udemy's mission is to democratize education by making it accessible to anyone, anywhere in the world. The company has leveraged technology to create a user-friendly experience, offering features such as video lectures, quizzes, and community forums to enhance learning outcomes. Additionally, Udemy for Business provides organizations with access to a curated selection of courses, enabling employee development and training. As the demand for online education continues to grow, Udemy remains at the forefront of this revolution, continually expanding its course offerings and improving its platform to better serve learners.",
+    "industry": [
+        "E-Learning",
+        "Education Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.udemy.com",
+    "ceo": "Greg Brown",
+    "social_media": {
+        "twitter": "https://twitter.com/udemy",
+        "linkedin": "https://www.linkedin.com/company/udemy"
+    },
+    "investor_relations": "https://about.udemy.com/investors/",
+    "key_executives": [
+        {
+            "name": "Greg Brown",
+            "position": "CEO"
+        },
+        {
+            "name": "Jennifer F. Lentz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Online Courses",
+            "products": [
+                "Programming",
+                "Data Science",
+                "Personal Development",
+                "Design"
+            ]
+        },
+        {
+            "category": "Business Solutions",
+            "products": [
+                "Udemy for Business"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Udemy, Inc. | Online Learning and Teaching Platform",
+        "meta_description": "Explore Udemy, Inc., a leading online learning platform offering thousands of courses across various subjects. Discover the power of online education and upskill today.",
+        "keywords": [
+            "Udemy",
+            "Online Learning",
+            "E-Learning",
+            "Education Technology",
+            "Online Courses",
+            "Skill Development"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Udemy known for?",
+            "answer": "Udemy is known for its vast marketplace of online courses covering a wide range of subjects."
+        },
+        {
+            "question": "Who is the CEO of Udemy?",
+            "answer": "Greg Brown is the CEO of Udemy, Inc."
+        },
+        {
+            "question": "Where is Udemy headquartered?",
+            "answer": "Udemy is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What types of courses does Udemy offer?",
+            "answer": "Udemy offers courses in programming, data science, personal development, design, and many other subjects."
+        },
+        {
+            "question": "When was Udemy founded?",
+            "answer": "Udemy was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "COUR",
+        "LYFT",
+        "EDU",
+        "APOL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

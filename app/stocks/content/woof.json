@@ -1,0 +1,93 @@
+{
+    "ticker": "WOOF",
+    "name": "Petco Health and Wellness Company, Inc.",
+    "description": "Petco Health and Wellness Company, Inc. is a leading pet health and wellness retailer, dedicated to enhancing the lives of pets and their owners. Founded in 1965, Petco operates a vast network of pet supply stores and veterinary clinics across the United States, offering a wide range of products and services for pets. The company provides high-quality pet food, grooming, training, and adoption services, all while promoting responsible pet ownership. Petco is also a pioneer in the pet wellness space, providing veterinary services through its in-store clinics and a strong focus on preventive care. The company is committed to the health and well-being of pets, offering a variety of resources to pet owners through its online platform and in-store experiences. With a mission to improve the lives of pets and pet parents, Petco emphasizes sustainability and community engagement, partnering with local organizations to support animal welfare initiatives. The company's innovative approach includes an expanding focus on pet health and wellness, making it a trusted resource for pet owners seeking to enhance the quality of life for their furry companions.",
+    "industry": [
+        "Retail",
+        "Pet Services",
+        "Healthcare"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "1965",
+    "website": "https://www.petco.com",
+    "ceo": "Ron Coughlin",
+    "social_media": {
+        "twitter": "https://twitter.com/Petco",
+        "linkedin": "https://www.linkedin.com/company/petco/",
+        "instagram": "https://www.instagram.com/petco/",
+        "facebook": "https://www.facebook.com/petco"
+    },
+    "investor_relations": "https://investor.petco.com",
+    "key_executives": [
+        {
+            "name": "Ron Coughlin",
+            "position": "CEO"
+        },
+        {
+            "name": "Brett Prior",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Pet Supplies",
+            "products": [
+                "Dog Food",
+                "Cat Food",
+                "Toys",
+                "Grooming Supplies"
+            ]
+        },
+        {
+            "category": "Pet Services",
+            "products": [
+                "Grooming",
+                "Training",
+                "Veterinary Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Petco Health and Wellness | Pet Supplies & Services",
+        "meta_description": "Explore Petco Health and Wellness Company, Inc., a leading retailer in pet supplies and services dedicated to improving the health and happiness of pets.",
+        "keywords": [
+            "Petco",
+            "Pet Supplies",
+            "Pet Services",
+            "Pet Food",
+            "Pet Health",
+            "Pet Grooming",
+            "Veterinary Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Petco offer?",
+            "answer": "Petco offers a wide range of pet supplies, grooming services, training, and veterinary services."
+        },
+        {
+            "question": "Who is the CEO of Petco?",
+            "answer": "Ron Coughlin is the CEO of Petco Health and Wellness Company, Inc."
+        },
+        {
+            "question": "Where is Petco headquartered?",
+            "answer": "Petco is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "When was Petco founded?",
+            "answer": "Petco was founded in 1965."
+        }
+    ],
+    "competitors": [
+        "PETM",
+        "WOOF",
+        "CHWY",
+        "KR"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "WMT",
+        "COST",
+        "TGT"
+    ]
+}

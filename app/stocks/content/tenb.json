@@ -1,0 +1,95 @@
+{
+    "ticker": "TENB",
+    "name": "Tenable, Inc.",
+    "description": "Tenable, Inc. is a leading cybersecurity company that specializes in vulnerability management and cyber exposure solutions. Founded in 2016 and headquartered in Columbia, Maryland, Tenable's mission is to help organizations understand and reduce their cybersecurity risk. The company's flagship product, Nessus, is one of the most widely used vulnerability assessment tools globally, enabling security professionals to identify and remediate vulnerabilities across their networks. Tenable's innovative technology extends beyond traditional vulnerability management with its Cyber Exposure platform, which provides comprehensive visibility and insights into the security posture of an organization\u2019s assets. This enables organizations to prioritize vulnerabilities based on risk, ensuring that they focus on the most critical threats. With a strong emphasis on continuous monitoring and real-time data, Tenable empowers businesses to proactively defend against cyber threats and maintain compliance with industry standards. The company serves a diverse range of industries, including finance, healthcare, and government, and is committed to providing solutions that enhance security resilience in an increasingly complex digital landscape.",
+    "industry": [
+        "Cybersecurity",
+        "Information Technology"
+    ],
+    "headquarters": "Columbia, Maryland, USA",
+    "founded": "2016",
+    "website": "https://www.tenable.com",
+    "ceo": "Amit Yoran",
+    "social_media": {
+        "twitter": "https://twitter.com/tenable",
+        "linkedin": "https://www.linkedin.com/company/tenable/"
+    },
+    "investor_relations": "https://investors.tenable.com",
+    "key_executives": [
+        {
+            "name": "Amit Yoran",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Thurmond",
+            "position": "COO"
+        },
+        {
+            "name": "Stephen R. Lentz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vulnerability Management",
+            "products": [
+                "Nessus",
+                "Tenable.io",
+                "Tenable.sc"
+            ]
+        },
+        {
+            "category": "Cyber Exposure",
+            "products": [
+                "Tenable.ad",
+                "Tenable.io for Container Security"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tenable, Inc. | Cybersecurity and Vulnerability Management Solutions",
+        "meta_description": "Learn about Tenable, Inc., a leader in cybersecurity and vulnerability management. Explore Tenable's innovative solutions that help organizations manage cyber risk.",
+        "keywords": [
+            "Tenable",
+            "Cybersecurity",
+            "Vulnerability Management",
+            "Cyber Exposure",
+            "Nessus",
+            "Threat Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Tenable known for?",
+            "answer": "Tenable is known for its vulnerability management solutions and its flagship product, Nessus."
+        },
+        {
+            "question": "Who is the CEO of Tenable?",
+            "answer": "Amit Yoran is the CEO of Tenable, Inc."
+        },
+        {
+            "question": "Where is Tenable headquartered?",
+            "answer": "Tenable is headquartered in Columbia, Maryland, USA."
+        },
+        {
+            "question": "What products does Tenable offer?",
+            "answer": "Tenable offers products like Nessus, Tenable.io, and Tenable.sc."
+        },
+        {
+            "question": "When was Tenable founded?",
+            "answer": "Tenable was founded in 2016."
+        }
+    ],
+    "competitors": [
+        "CRWD",
+        "ZSCALER",
+        "PANGAEA",
+        "SPLK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "ticker": "TCBIO",
+    "name": "TC BioPharm Ltd.",
+    "description": "TC BioPharm Ltd. is a biotechnology company focused on developing and commercializing innovative cell therapies to treat cancer and other serious diseases. Founded in 2014 and headquartered in Glasgow, Scotland, TC BioPharm is dedicated to advancing the field of immunotherapy, harnessing the power of the immune system to improve patient outcomes. The company's leading product, OmnImmune, is a groundbreaking treatment that utilizes allogeneic T-cells, aiming to enhance the body's natural immune response against tumors. TC BioPharm is committed to rigorous research and clinical trials to ensure the efficacy and safety of its therapies. With a robust pipeline of products in various stages of development, the company is positioned to make significant contributions to the field of oncology. TC BioPharm's vision is to transform the treatment landscape for cancer patients globally, providing therapies that not only extend life but also improve quality of life. The company's team comprises experienced scientists and industry professionals dedicated to pushing the boundaries of cell therapy and personalized medicine.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Glasgow, Scotland, UK",
+    "founded": "2014",
+    "website": "https://www.tcbiopharm.com",
+    "ceo": "Michael McDade",
+    "social_media": {
+        "twitter": "https://twitter.com/TCBioPharm",
+        "linkedin": "https://www.linkedin.com/company/tc-biopharm/"
+    },
+    "investor_relations": "https://www.tcbiopharm.com/investors",
+    "key_executives": [
+        {
+            "name": "Michael McDade",
+            "position": "CEO"
+        },
+        {
+            "name": "Dr. Ian McNicol",
+            "position": "Chief Scientific Officer"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cell Therapies",
+            "products": [
+                "OmnImmune"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TC BioPharm Ltd. | Innovating Cell Therapy Solutions",
+        "meta_description": "Explore TC BioPharm Ltd., a leader in biotechnology focused on developing innovative cell therapies for cancer treatment. Learn about our groundbreaking products and commitment to research.",
+        "keywords": [
+            "TC BioPharm",
+            "Biotechnology",
+            "Cell Therapy",
+            "Cancer Treatment",
+            "Immunotherapy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does TC BioPharm do?",
+            "answer": "TC BioPharm develops innovative cell therapies aimed at treating cancer and serious diseases through immunotherapy."
+        },
+        {
+            "question": "Who is the CEO of TC BioPharm?",
+            "answer": "Michael McDade is the CEO of TC BioPharm Ltd."
+        },
+        {
+            "question": "Where is TC BioPharm headquartered?",
+            "answer": "TC BioPharm is headquartered in Glasgow, Scotland, UK."
+        },
+        {
+            "question": "What is TC BioPharm's main product?",
+            "answer": "The main product of TC BioPharm is OmnImmune, a cell therapy designed to enhance the immune response against tumors."
+        },
+        {
+            "question": "When was TC BioPharm founded?",
+            "answer": "TC BioPharm was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "KITE",
+        "ZIOP",
+        "CRMD",
+        "EDIT"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "GILD",
+        "BMY",
+        "JNJ"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "ticker": "WOLF",
+    "name": "Wolf Speed, Inc.",
+    "description": "Wolf Speed, Inc. is a leading innovator in the semiconductor industry, specializing in the development of silicon carbide (SiC) materials and devices. Founded in 2012 and headquartered in Durham, North Carolina, Wolf Speed has established itself as a key player in the transition to more efficient power management technologies. The company's products are essential for applications in electric vehicles, renewable energy systems, and high-performance electronics. By leveraging SiC technology, Wolf Speed enables its customers to achieve higher energy efficiency and performance while reducing the overall size and weight of their products. The company's commitment to sustainability is evident in its focus on creating solutions that help reduce carbon emissions and improve energy efficiency across various industries. With a robust portfolio of power and RF (radio frequency) products, Wolf Speed is well-positioned to meet the growing demand for advanced semiconductor solutions in an increasingly electrified world. The company is actively expanding its manufacturing capabilities and investing in research and development to maintain its competitive edge in the semiconductor landscape.",
+    "industry": [
+        "Semiconductors",
+        "Electronics"
+    ],
+    "headquarters": "Durham, North Carolina, USA",
+    "founded": "2012",
+    "website": "https://www.wolfspeed.com",
+    "ceo": "Gregg Lowe",
+    "social_media": {
+        "twitter": "https://twitter.com/wolfspeed",
+        "linkedin": "https://www.linkedin.com/company/wolfspeed"
+    },
+    "investor_relations": "https://investors.wolfspeed.com",
+    "key_executives": [
+        {
+            "name": "Gregg Lowe",
+            "position": "CEO"
+        },
+        {
+            "name": "John Palmour",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Silicon Carbide Products",
+            "products": [
+                "SiC MOSFETs",
+                "SiC Diodes"
+            ]
+        },
+        {
+            "category": "RF Products",
+            "products": [
+                "GaN RF Transistors",
+                "GaN HEMTs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Wolf Speed, Inc. | Innovating Silicon Carbide Technology",
+        "meta_description": "Discover Wolf Speed, Inc., a leader in silicon carbide semiconductor technology for electric vehicles and renewable energy applications. Explore our innovative products and commitment to sustainability.",
+        "keywords": [
+            "Wolf Speed",
+            "Silicon Carbide",
+            "Semiconductors",
+            "Electric Vehicles",
+            "Energy Efficiency"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Wolf Speed specialize in?",
+            "answer": "Wolf Speed specializes in silicon carbide (SiC) materials and devices for power management applications."
+        },
+        {
+            "question": "Who is the CEO of Wolf Speed?",
+            "answer": "Gregg Lowe is the CEO of Wolf Speed, Inc."
+        },
+        {
+            "question": "Where is Wolf Speed headquartered?",
+            "answer": "Wolf Speed is headquartered in Durham, North Carolina, USA."
+        },
+        {
+            "question": "What are Wolf Speed's main products?",
+            "answer": "Wolf Speed's main products include SiC MOSFETs, SiC Diodes, GaN RF Transistors, and GaN HEMTs."
+        },
+        {
+            "question": "When was Wolf Speed founded?",
+            "answer": "Wolf Speed was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "ON",
+        "AVGO",
+        "QCOM",
+        "NXPI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "INTC",
+        "AMD"
+    ]
+}

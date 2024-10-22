@@ -1,0 +1,80 @@
+{
+    "ticker": "WATT",
+    "name": "Energous Corporation",
+    "description": "Energous Corporation is a pioneering technology company based in San Jose, California, focused on developing innovative wireless power transfer solutions. Founded in 2012, Energous has developed a proprietary technology called WattUp, which allows for the wireless charging of devices over the air, providing a convenient and efficient alternative to traditional wired charging methods. The company's technology is designed to power a wide range of devices, from smartphones and wearables to IoT (Internet of Things) devices, enabling continuous operation without the need for frequent battery replacements. Energous aims to revolutionize the way consumers and industries think about charging, making it as easy as connecting to Wi-Fi. The company's commitment to innovation and sustainability positions it at the forefront of the growing wireless power market. Energous has received numerous patents for its technologies, underscoring its leadership in this emerging field. As the demand for wireless charging solutions increases, Energous is well-positioned to capitalize on the expanding opportunities in consumer electronics, smart home devices, and industrial applications.",
+    "industry": [
+        "Technology",
+        "Wireless Charging"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2012",
+    "website": "https://www.energous.com",
+    "ceo": "Cesar Johnston",
+    "social_media": {
+        "twitter": "https://twitter.com/EnergousCorp",
+        "linkedin": "https://www.linkedin.com/company/energous-corporation/"
+    },
+    "investor_relations": "https://investors.energous.com",
+    "key_executives": [
+        {
+            "name": "Cesar Johnston",
+            "position": "CEO"
+        },
+        {
+            "name": "David S. H. S. K. H. Johnson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wireless Charging Solutions",
+            "products": [
+                "WattUp Mid Field",
+                "WattUp Near Field"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Energous Corporation | Wireless Power Transfer Solutions",
+        "meta_description": "Discover Energous Corporation, a leader in wireless charging technology. Learn about their innovative WattUp solutions and the future of power transfer.",
+        "keywords": [
+            "Energous",
+            "Wireless Charging",
+            "WattUp",
+            "IoT Power Solutions",
+            "Wireless Power Transfer"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Energous known for?",
+            "answer": "Energous is known for its wireless power transfer solutions, particularly its WattUp technology."
+        },
+        {
+            "question": "Who is the CEO of Energous?",
+            "answer": "Cesar Johnston is the CEO of Energous Corporation."
+        },
+        {
+            "question": "Where is Energous headquartered?",
+            "answer": "Energous is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Energous's main products?",
+            "answer": "Energous's main products include WattUp Mid Field and WattUp Near Field wireless charging solutions."
+        },
+        {
+            "question": "When was Energous founded?",
+            "answer": "Energous was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "AAPL",
+        "QCOM",
+        "AMZN"
+    ],
+    "related_stocks": [
+        "NVDA",
+        "TSLA",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "ticker": "U",
+    "name": "Unity Software Inc.",
+    "description": "Unity Software Inc. is a leading platform for creating and operating interactive, real-time 3D content. Founded in 2004, Unity has transformed the game development landscape with its powerful and accessible development tools. The company's flagship product, the Unity Editor, allows developers to build games and simulations for various platforms, including mobile, console, and PC, as well as augmented and virtual reality experiences. Unity is not limited to gaming; it serves a wide range of industries including automotive, architecture, engineering, and film, enabling creators to visualize their projects with stunning realism. With its extensive asset store and community support, Unity empowers developers of all skill levels, from indie creators to large studios, to bring their visions to life. The company is also focused on enhancing collaboration among developers and providing tools for monetization, analytics, and user acquisition. Unity's mission is to democratize game development and enable creators to make their ideas a reality, fostering a vibrant ecosystem of innovation and creativity.",
+    "industry": [
+        "Software",
+        "Gaming"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2004",
+    "website": "https://unity.com",
+    "ceo": "John Riccitiello",
+    "social_media": {
+        "twitter": "https://twitter.com/unity3d",
+        "linkedin": "https://www.linkedin.com/company/unity-software/"
+    },
+    "investor_relations": "https://investors.unity.com",
+    "key_executives": [
+        {
+            "name": "John Riccitiello",
+            "position": "CEO"
+        },
+        {
+            "name": "Graham Sheldon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Game Development",
+            "products": [
+                "Unity Editor",
+                "Unity Asset Store"
+            ]
+        },
+        {
+            "category": "Real-time 3D",
+            "products": [
+                "Unity Reflect",
+                "Unity Forma"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Unity Software Inc. | Real-time 3D Development Platform",
+        "meta_description": "Explore Unity Software Inc., the leading platform for creating interactive, real-time 3D content. Discover Unity's innovative tools for game development and beyond.",
+        "keywords": [
+            "Unity",
+            "Game Development",
+            "Real-time 3D",
+            "Interactive Content",
+            "Augmented Reality",
+            "Virtual Reality"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Unity known for?",
+            "answer": "Unity is known for its real-time 3D development platform that enables creators to build games and interactive experiences across multiple platforms."
+        },
+        {
+            "question": "Who is the CEO of Unity?",
+            "answer": "John Riccitiello is the CEO of Unity Software Inc."
+        },
+        {
+            "question": "Where is Unity headquartered?",
+            "answer": "Unity is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Unity's main products?",
+            "answer": "Unity's main products include the Unity Editor and the Unity Asset Store."
+        },
+        {
+            "question": "When was Unity founded?",
+            "answer": "Unity was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "EPIC",
+        "ADBE",
+        "MSFT",
+        "ATVI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

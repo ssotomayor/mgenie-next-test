@@ -1,0 +1,89 @@
+{
+    "ticker": "TSLT",
+    "name": "Telesat Corporation",
+    "description": "Telesat Corporation is a leading global satellite operator headquartered in Ottawa, Canada. Established in 1969, Telesat specializes in providing satellite communication services to customers across various sectors, including telecommunications, broadcasting, and government services. With a fleet of advanced geostationary satellites, Telesat delivers high-quality, reliable connectivity to meet the growing demands of its clients in an increasingly digital world. The company is also pioneering the development of Low Earth Orbit (LEO) satellite technology, aiming to enhance global broadband access and support the next generation of satellite communications. Telesat's mission is to enable seamless communication and connectivity, empowering businesses and communities, regardless of their location. Through innovation and strategic partnerships, Telesat continues to play a vital role in shaping the future of satellite technology and connectivity solutions.",
+    "industry": [
+        "Telecommunications",
+        "Satellite"
+    ],
+    "headquarters": "Ottawa, Ontario, Canada",
+    "founded": "1969",
+    "website": "https://www.telesat.com",
+    "ceo": "Dan Goldberg",
+    "social_media": {
+        "twitter": "https://twitter.com/Telesat",
+        "linkedin": "https://www.linkedin.com/company/telesat"
+    },
+    "investor_relations": "https://investors.telesat.com",
+    "key_executives": [
+        {
+            "name": "Dan Goldberg",
+            "position": "CEO"
+        },
+        {
+            "name": "Tom Eaton",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Satellite Services",
+            "products": [
+                "Broadcast Services",
+                "Data Connectivity",
+                "Government Services"
+            ]
+        },
+        {
+            "category": "LEO Satellite Technology",
+            "products": [
+                "Broadband Satellite Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Telesat Corporation | Global Satellite Communications",
+        "meta_description": "Explore Telesat Corporation, a leader in satellite communications providing services for telecommunications, broadcasting, and government sectors. Discover Telesat's innovative technology and solutions.",
+        "keywords": [
+            "Telesat",
+            "Satellite Communications",
+            "LEO Satellites",
+            "Broadband Services",
+            "Telecommunications"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Telesat known for?",
+            "answer": "Telesat is known for its satellite communication services and pioneering LEO satellite technology."
+        },
+        {
+            "question": "Who is the CEO of Telesat?",
+            "answer": "Dan Goldberg is the CEO of Telesat Corporation."
+        },
+        {
+            "question": "Where is Telesat headquartered?",
+            "answer": "Telesat is headquartered in Ottawa, Ontario, Canada."
+        },
+        {
+            "question": "What are Telesat's main products?",
+            "answer": "Telesat's main products include satellite services for broadcasting, data connectivity, and government applications."
+        },
+        {
+            "question": "When was Telesat founded?",
+            "answer": "Telesat was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "VZ",
+        "ORBC",
+        "SPIR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

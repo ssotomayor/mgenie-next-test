@@ -1,0 +1,90 @@
+{
+    "ticker": "TSEM",
+    "name": "Tower Semiconductor Ltd.",
+    "description": "Tower Semiconductor Ltd. is a leading foundry for analog integrated circuits. Established in 1993 and headquartered in Israel, the company specializes in manufacturing high-performance semiconductor solutions, particularly for applications in the automotive, industrial, medical, and consumer electronics markets. Tower's advanced manufacturing technologies include a range of processes such as RF, CMOS, and mixed-signal technologies, enabling the production of complex chips that meet the demands of various high-growth industries. The company prides itself on its innovation and commitment to quality, providing customers with tailored solutions that enhance product performance and efficiency. Tower Semiconductor operates multiple fabrication facilities worldwide, ensuring that it can meet the diverse needs of its global customer base. With a focus on sustainability and efficiency, Tower is at the forefront of driving advancements in semiconductor technology, contributing to the development of smart devices and systems that shape the future.",
+    "industry": [
+        "Semiconductors",
+        "Manufacturing"
+    ],
+    "headquarters": "Migdal HaEmek, Israel",
+    "founded": "1993",
+    "website": "https://www.towersemi.com",
+    "ceo": "Russell Ellwanger",
+    "social_media": {
+        "twitter": "https://twitter.com/TowerSemi",
+        "linkedin": "https://www.linkedin.com/company/tower-semiconductor/"
+    },
+    "investor_relations": "https://investors.towersemi.com",
+    "key_executives": [
+        {
+            "name": "Russell Ellwanger",
+            "position": "CEO"
+        },
+        {
+            "name": "Ofer Sela",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analog ICs",
+            "products": [
+                "RF and Wireless",
+                "Power Management",
+                "Sensors"
+            ]
+        },
+        {
+            "category": "Mixed-Signal Solutions",
+            "products": [
+                "CMOS Image Sensors",
+                "Data Converters"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tower Semiconductor Ltd. | Analog ICs and Mixed-Signal Solutions",
+        "meta_description": "Explore Tower Semiconductor Ltd., a leader in analog IC manufacturing. Learn about Tower's innovative technologies, products, and commitment to quality in the semiconductor industry.",
+        "keywords": [
+            "Tower Semiconductor",
+            "Analog ICs",
+            "Semiconductors",
+            "RF Solutions",
+            "Mixed-Signal ICs"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tower Semiconductor specialize in?",
+            "answer": "Tower Semiconductor specializes in manufacturing analog integrated circuits and mixed-signal solutions."
+        },
+        {
+            "question": "Who is the CEO of Tower Semiconductor?",
+            "answer": "Russell Ellwanger is the CEO of Tower Semiconductor Ltd."
+        },
+        {
+            "question": "Where is Tower Semiconductor headquartered?",
+            "answer": "Tower Semiconductor is headquartered in Migdal HaEmek, Israel."
+        },
+        {
+            "question": "What are Tower Semiconductor's main products?",
+            "answer": "Tower's main products include RF and wireless ICs, power management solutions, and CMOS image sensors."
+        },
+        {
+            "question": "When was Tower Semiconductor founded?",
+            "answer": "Tower Semiconductor was founded in 1993."
+        }
+    ],
+    "competitors": [
+        "TSMC",
+        "SMHLY",
+        "INTC",
+        "ON"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "AMD",
+        "QCOM"
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "ticker": "SYF",
+    "name": "Synchrony Financial",
+    "description": "Synchrony Financial is a premier consumer financial services company headquartered in Stamford, Connecticut. Established in 2003, Synchrony specializes in providing private label credit cards, promotional financing, and installment lending programs for a wide range of industries, including retail, health, and automotive. The company partners with major retailers, offering innovative financial solutions that enhance customer purchasing power and drive brand loyalty. Synchrony is committed to delivering seamless digital experiences through its mobile and online platforms, allowing customers to manage their accounts and access financing options conveniently. With a focus on responsible lending, Synchrony aims to provide financial products that meet consumers' needs while helping businesses grow through tailored financing solutions. The company is also dedicated to corporate social responsibility, actively contributing to the communities it serves through various initiatives. Synchrony\u2019s robust risk management practices and customer-centric approach position it as a leader in the consumer finance sector, continually adapting to the evolving financial landscape.",
+    "industry": [
+        "Financial Services",
+        "Consumer Finance"
+    ],
+    "headquarters": "Stamford, Connecticut, USA",
+    "founded": "2003",
+    "website": "https://www.synchrony.com",
+    "ceo": "Brian Doubles",
+    "social_media": {
+        "twitter": "https://twitter.com/Synchrony",
+        "linkedin": "https://www.linkedin.com/company/synchrony-financial/",
+        "facebook": "https://www.facebook.com/SynchronyFinancial"
+    },
+    "investor_relations": "https://investors.synchrony.com",
+    "key_executives": [
+        {
+            "name": "Brian Doubles",
+            "position": "CEO"
+        },
+        {
+            "name": "Brian Wenzel",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/brianwenzel/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Credit",
+            "products": [
+                "Private Label Credit Cards",
+                "Promotional Financing",
+                "Installment Loans"
+            ]
+        },
+        {
+            "category": "Digital Banking",
+            "products": [
+                "Mobile Banking",
+                "Online Account Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Synchrony Financial | Consumer Financial Services",
+        "meta_description": "Explore Synchrony Financial, a leader in consumer financial services offering tailored credit solutions and innovative digital banking experiences.",
+        "keywords": [
+            "Synchrony Financial",
+            "Consumer Finance",
+            "Credit Cards",
+            "Financing Solutions",
+            "Digital Banking",
+            "Private Label Credit Cards"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Synchrony Financial provide?",
+            "answer": "Synchrony Financial provides private label credit cards, promotional financing, and installment loans."
+        },
+        {
+            "question": "Who is the CEO of Synchrony Financial?",
+            "answer": "Brian Doubles is the CEO of Synchrony Financial."
+        },
+        {
+            "question": "Where is Synchrony Financial headquartered?",
+            "answer": "Synchrony Financial is headquartered in Stamford, Connecticut, USA."
+        },
+        {
+            "question": "What are Synchrony's main products?",
+            "answer": "Synchrony's main products include private label credit cards, promotional financing, and digital banking services."
+        },
+        {
+            "question": "When was Synchrony Financial founded?",
+            "answer": "Synchrony Financial was founded in 2003."
+        }
+    ],
+    "competitors": [
+        "DFS",
+        "COF",
+        "AXP",
+        "V"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "C",
+        "WFC"
+    ]
+}

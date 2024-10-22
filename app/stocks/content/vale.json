@@ -1,0 +1,98 @@
+{
+    "ticker": "VALE",
+    "name": "Vale S.A.",
+    "description": "Vale S.A. is a global leader in the mining sector and one of the largest producers of iron ore and nickel in the world. Founded in 1942 in Brazil, Vale operates in over 30 countries and is committed to sustainable mining practices and responsible resource management. The company is instrumental in the production of essential minerals and metals, which are crucial for various industries, including construction, automotive, and renewable energy. Vale's extensive portfolio includes not only iron ore and nickel but also copper, coal, and fertilizers. The company employs advanced technologies in mining and processing to minimize environmental impact while maximizing efficiency. Vale strives to innovate and implement eco-friendly practices, investing in renewable energy solutions and aiming for carbon neutrality by 2050. With a strong focus on safety, ethics, and social responsibility, Vale seeks to create lasting value for its stakeholders and communities where it operates. The company's mission is centered around sustainable development, ensuring that the mining sector contributes positively to the economy while preserving the environment.",
+    "industry": [
+        "Mining",
+        "Metals"
+    ],
+    "headquarters": "Rio de Janeiro, Brazil",
+    "founded": "1942",
+    "website": "https://www.vale.com",
+    "ceo": "Eduardo Bartolomeo",
+    "social_media": {
+        "twitter": "https://twitter.com/valenews",
+        "linkedin": "https://www.linkedin.com/company/vale/",
+        "instagram": "https://www.instagram.com/vale/",
+        "youtube": "https://www.youtube.com/user/vale"
+    },
+    "investor_relations": "https://www.vale.com/EN/investors/Pages/default.aspx",
+    "key_executives": [
+        {
+            "name": "Eduardo Bartolomeo",
+            "position": "CEO"
+        },
+        {
+            "name": "Guilherme Soares",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Metals",
+            "products": [
+                "Iron Ore",
+                "Nickel",
+                "Copper"
+            ]
+        },
+        {
+            "category": "Fertilizers",
+            "products": [
+                "Potash",
+                "Phosphate"
+            ]
+        },
+        {
+            "category": "Energy",
+            "products": [
+                "Coal"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Vale S.A. | Global Leader in Mining and Metals",
+        "meta_description": "Explore Vale S.A., a leading mining company specializing in iron ore and nickel production, committed to sustainable practices and innovation in the mining sector.",
+        "keywords": [
+            "Vale",
+            "Mining",
+            "Iron Ore",
+            "Nickel",
+            "Sustainable Mining",
+            "Metals"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Vale known for?",
+            "answer": "Vale is known for being one of the largest producers of iron ore and nickel in the world."
+        },
+        {
+            "question": "Who is the CEO of Vale?",
+            "answer": "Eduardo Bartolomeo is the CEO of Vale S.A."
+        },
+        {
+            "question": "Where is Vale headquartered?",
+            "answer": "Vale is headquartered in Rio de Janeiro, Brazil."
+        },
+        {
+            "question": "What are Vale's main products?",
+            "answer": "Vale's main products include iron ore, nickel, copper, and fertilizers."
+        },
+        {
+            "question": "When was Vale founded?",
+            "answer": "Vale was founded in 1942."
+        }
+    ],
+    "competitors": [
+        "RIO",
+        "BHP",
+        "FCX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "ticker": "WDAY",
+    "name": "Workday, Inc.",
+    "description": "Workday, Inc. is a leading provider of enterprise cloud applications for finance and human resources. Founded in 2005 by Aneel Bhusri and Dave Duffield, Workday has transformed the way organizations manage their financial and human capital through innovative technology and a user-friendly interface. The company's comprehensive suite of applications includes financial management, human capital management, professional services automation, and analytics, all designed to provide organizations with real-time insights and the ability to adapt to changing business environments. Workday's unique architecture enables customers to benefit from continuous innovation and updates without the need for disruptive upgrades. With a strong emphasis on customer satisfaction and a commitment to a collaborative approach, Workday serves a diverse range of industries, including education, healthcare, financial services, and technology. The company is dedicated to helping its customers achieve their strategic goals by providing them with the tools and insights necessary to make informed decisions. Workday's mission is to deliver a better work experience for employees and a better way to run organizations, fostering a culture of transparency and engagement.",
+    "industry": [
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "Pleasanton, California, USA",
+    "founded": "2005",
+    "website": "https://www.workday.com",
+    "ceo": "Aneel Bhusri",
+    "social_media": {
+        "twitter": "https://twitter.com/Workday",
+        "linkedin": "https://www.linkedin.com/company/workday/"
+    },
+    "investor_relations": "https://investors.workday.com",
+    "key_executives": [
+        {
+            "name": "Aneel Bhusri",
+            "position": "CEO"
+        },
+        {
+            "name": "Barbara Larson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Financial Management",
+            "products": [
+                "Workday Financial Management"
+            ]
+        },
+        {
+            "category": "Human Capital Management",
+            "products": [
+                "Workday HCM"
+            ]
+        },
+        {
+            "category": "Professional Services Automation",
+            "products": [
+                "Workday PSA"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Workday, Inc. | Enterprise Cloud Applications for Finance and HR",
+        "meta_description": "Discover Workday, Inc., a leader in enterprise cloud applications for finance and human resources. Explore our innovative solutions and commitment to customer success.",
+        "keywords": [
+            "Workday",
+            "Cloud Applications",
+            "Finance Software",
+            "HR Software",
+            "Enterprise Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Workday do?",
+            "answer": "Workday provides cloud applications for finance and human resources, helping organizations manage their operations more efficiently."
+        },
+        {
+            "question": "Who is the CEO of Workday?",
+            "answer": "Aneel Bhusri is the CEO of Workday, Inc."
+        },
+        {
+            "question": "Where is Workday headquartered?",
+            "answer": "Workday is headquartered in Pleasanton, California, USA."
+        },
+        {
+            "question": "What are Workday's main products?",
+            "answer": "Workday's main products include Workday Financial Management, Workday HCM, and Workday PSA."
+        },
+        {
+            "question": "When was Workday founded?",
+            "answer": "Workday was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "SAP",
+        "ADP",
+        "ORCL",
+        "CRM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

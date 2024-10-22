@@ -1,0 +1,101 @@
+{
+    "ticker": "UL",
+    "name": "Unilever PLC",
+    "description": "Unilever PLC is a multinational consumer goods company headquartered in London, England. Founded in 1929 through a merger between the Dutch margarine producer Margarine Unie and the British soap maker Lever Brothers, Unilever is a powerhouse in the fast-moving consumer goods (FMCG) sector. The company operates in over 190 countries and has a diverse portfolio of products spanning food and beverages, cleaning agents, beauty and personal care, and health and wellness. Some of its most recognized brands include Dove, Knorr, Lipton, Hellmann's, and Surf. Unilever is committed to sustainability, aiming to reduce its environmental impact and improve social conditions across its supply chain through its Sustainable Living Plan. This commitment includes ambitious goals such as reducing plastic waste, promoting sustainable sourcing, and enhancing the livelihoods of millions of people. With a focus on innovation, Unilever continuously develops products that meet evolving consumer needs while maintaining a strong ethical approach to business. The company's mission is to make sustainable living commonplace and to enhance the quality of life for people around the world.",
+    "industry": [
+        "Consumer Goods",
+        "FMCG"
+    ],
+    "headquarters": "London, England, UK",
+    "founded": "1929",
+    "website": "https://www.unilever.com",
+    "ceo": "Alan Jope",
+    "social_media": {
+        "twitter": "https://twitter.com/Unilever",
+        "linkedin": "https://www.linkedin.com/company/unilever/"
+    },
+    "investor_relations": "https://www.unilever.com/investors/",
+    "key_executives": [
+        {
+            "name": "Alan Jope",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina Boswell",
+            "position": "Executive Vice President, North America"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beauty & Personal Care",
+            "products": [
+                "Dove",
+                "Lux",
+                "Sunsilk"
+            ]
+        },
+        {
+            "category": "Food & Beverages",
+            "products": [
+                "Knorr",
+                "Hellmann's",
+                "Lipton"
+            ]
+        },
+        {
+            "category": "Home Care",
+            "products": [
+                "Surf",
+                "Omo",
+                "Domestos"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Unilever PLC | Leading Consumer Goods Company",
+        "meta_description": "Explore Unilever PLC, a global leader in consumer goods with a commitment to sustainability and innovative product solutions. Discover our well-known brands and corporate mission.",
+        "keywords": [
+            "Unilever",
+            "Consumer Goods",
+            "FMCG",
+            "Sustainability",
+            "Dove",
+            "Lipton",
+            "Knorr"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What products does Unilever offer?",
+            "answer": "Unilever offers a wide range of products in beauty and personal care, food and beverages, and home care."
+        },
+        {
+            "question": "Who is the CEO of Unilever?",
+            "answer": "Alan Jope is the CEO of Unilever PLC."
+        },
+        {
+            "question": "Where is Unilever headquartered?",
+            "answer": "Unilever is headquartered in London, England, UK."
+        },
+        {
+            "question": "What is Unilever's commitment to sustainability?",
+            "answer": "Unilever is committed to making sustainable living commonplace and reducing its environmental impact through its Sustainable Living Plan."
+        },
+        {
+            "question": "When was Unilever founded?",
+            "answer": "Unilever was founded in 1929."
+        }
+    ],
+    "competitors": [
+        "PG",
+        "KO",
+        "PEP",
+        "CL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "TSLA",
+        "AMZN",
+        "MSFT"
+    ]
+}

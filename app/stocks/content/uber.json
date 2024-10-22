@@ -1,0 +1,95 @@
+{
+    "ticker": "UBER",
+    "name": "Uber Technologies, Inc.",
+    "description": "Uber Technologies, Inc. is a global technology company that revolutionized transportation by connecting riders and drivers through its innovative ride-hailing platform. Founded in 2009 by Garrett Camp and Travis Kalanick, Uber has expanded its services beyond just ridesharing, offering food delivery through Uber Eats, freight logistics through Uber Freight, and even autonomous vehicle technology. The company's mission is to ignite opportunity by setting the world in motion, providing users with convenient, reliable, and affordable transportation options. Uber operates in over 900 metropolitan areas worldwide, facilitating millions of rides each day. The company is also committed to sustainability, aiming for a fully electric fleet by 2030 and investing in alternative modes of transport, including bike-sharing and public transit partnerships. Uber's focus on innovation and technology positions it at the forefront of the mobility revolution, continuously adapting to meet the changing needs of urban transportation.",
+    "industry": [
+        "Transportation",
+        "Technology",
+        "Logistics"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2009",
+    "website": "https://www.uber.com",
+    "ceo": "Dara Khosrowshahi",
+    "social_media": {
+        "twitter": "https://twitter.com/uber",
+        "linkedin": "https://www.linkedin.com/company/uber-com/",
+        "instagram": "https://www.instagram.com/uber/",
+        "youtube": "https://www.youtube.com/user/uber"
+    },
+    "investor_relations": "https://investors.uber.com",
+    "key_executives": [
+        {
+            "name": "Dara Khosrowshahi",
+            "position": "CEO"
+        },
+        {
+            "name": "Nelson Chai",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Ridesharing",
+            "products": [
+                "UberX",
+                "UberXL",
+                "Uber Comfort",
+                "Uber Black"
+            ]
+        },
+        {
+            "category": "Food Delivery",
+            "products": [
+                "Uber Eats"
+            ]
+        },
+        {
+            "category": "Freight",
+            "products": [
+                "Uber Freight"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Uber Technologies, Inc. | Ride-hailing and Delivery Services",
+        "meta_description": "Explore Uber Technologies, Inc., a leader in ride-hailing and delivery services. Discover Uber's innovative solutions, commitment to sustainability, and impact on urban mobility.",
+        "keywords": [
+            "Uber",
+            "Ride-hailing",
+            "Uber Eats",
+            "Urban Mobility",
+            "Freight Logistics",
+            "Dara Khosrowshahi"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Uber provide?",
+            "answer": "Uber provides ridesharing, food delivery through Uber Eats, and freight logistics."
+        },
+        {
+            "question": "Who is the CEO of Uber?",
+            "answer": "Dara Khosrowshahi is the CEO of Uber Technologies, Inc."
+        },
+        {
+            "question": "Where is Uber headquartered?",
+            "answer": "Uber is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "When was Uber founded?",
+            "answer": "Uber was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "LYFT",
+        "DIDI",
+        "GRAB"
+    ],
+    "related_stocks": [
+        "AMZN",
+        "GOOGL",
+        "LYFT",
+        "DIDI"
+    ]
+}

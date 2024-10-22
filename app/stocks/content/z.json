@@ -1,0 +1,91 @@
+{
+    "ticker": "Z",
+    "name": "Zillow Group, Inc.",
+    "description": "Zillow Group, Inc. is a leading online real estate marketplace that aims to empower consumers with data and technology to make informed real estate decisions. Founded in 2006 by Rich Barton and Lloyd Frink, Zillow has transformed how people buy, sell, and rent homes in the United States. The company's flagship website and mobile app allow users to search for homes, view property details, and access a wealth of information about neighborhoods and market trends. Zillow's innovative Zestimate tool provides estimated home values based on a proprietary algorithm, helping buyers and sellers understand property worth. In addition to residential listings, Zillow offers services such as Zillow Offers, which allows homeowners to sell their homes directly to Zillow, streamlining the process for sellers. The company's mission is to make the real estate process simpler, more transparent, and more accessible for everyone. With a strong focus on technology, Zillow continues to enhance its platform with advanced tools and features that cater to both consumers and real estate professionals. The company also operates other well-known brands in the real estate space, including Trulia and StreetEasy, expanding its reach and influence in the market.",
+    "industry": [
+        "Real Estate",
+        "Technology"
+    ],
+    "headquarters": "Seattle, Washington, USA",
+    "founded": "2006",
+    "website": "https://www.zillow.com",
+    "ceo": "Rich Barton",
+    "social_media": {
+        "twitter": "https://twitter.com/zillow",
+        "linkedin": "https://www.linkedin.com/company/zillow",
+        "facebook": "https://www.facebook.com/zillow"
+    },
+    "investor_relations": "https://investors.zillowgroup.com",
+    "key_executives": [
+        {
+            "name": "Rich Barton",
+            "position": "CEO"
+        },
+        {
+            "name": "Allen Parker",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Real Estate Marketplace",
+            "products": [
+                "Zillow.com",
+                "Zillow App"
+            ]
+        },
+        {
+            "category": "Home Buying and Selling Services",
+            "products": [
+                "Zillow Offers",
+                "Zillow Home Loans"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Zillow Group, Inc. | Real Estate Marketplace",
+        "meta_description": "Explore Zillow Group, Inc., the premier online real estate marketplace. Discover homes for sale, Zestimate values, and innovative services for buyers and sellers.",
+        "keywords": [
+            "Zillow",
+            "Real Estate",
+            "Homes for Sale",
+            "Zestimate",
+            "Home Buying",
+            "Real Estate Marketplace"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Zillow?",
+            "answer": "Zillow is an online real estate marketplace that provides information about homes, including listings, values, and market trends."
+        },
+        {
+            "question": "Who is the CEO of Zillow?",
+            "answer": "Rich Barton is the CEO of Zillow Group, Inc."
+        },
+        {
+            "question": "Where is Zillow headquartered?",
+            "answer": "Zillow is headquartered in Seattle, Washington, USA."
+        },
+        {
+            "question": "What services does Zillow offer?",
+            "answer": "Zillow offers services like home listings, Zestimate home valuations, Zillow Offers for selling homes, and Zillow Home Loans."
+        },
+        {
+            "question": "When was Zillow founded?",
+            "answer": "Zillow was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "RLTY",
+        "OPEN",
+        "RH",
+        "KBH"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

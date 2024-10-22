@@ -1,0 +1,100 @@
+{
+    "ticker": "TLF",
+    "name": "Tilly's, Inc.",
+    "description": "Tilly's, Inc. is a leading specialty retailer of casual apparel, footwear, and accessories for the active lifestyle. Founded in 1982 by Hezy Shaked and his son, Tilly's has established a strong presence in the retail market, appealing to a young, dynamic demographic that values individuality and self-expression. The company offers a diverse selection of products from a mix of well-known brands and private labels, catering to customers who are passionate about action sports, music, and fashion. Tilly's stores are designed to provide an engaging shopping experience, showcasing a variety of lifestyle products that reflect the latest trends in youth culture. In addition to its brick-and-mortar locations, Tilly's operates a robust online platform, allowing customers to shop conveniently from anywhere. The company is committed to sustainability and community involvement, often supporting local events and initiatives. With a focus on delivering high-quality products and exceptional customer service, Tilly's continues to grow and adapt in a rapidly changing retail landscape.",
+    "industry": [
+        "Retail",
+        "Apparel"
+    ],
+    "headquarters": "Irvine, California, USA",
+    "founded": "1982",
+    "website": "https://www.tillys.com",
+    "ceo": "Edmond Thomas",
+    "social_media": {
+        "twitter": "https://twitter.com/Tillys",
+        "linkedin": "https://www.linkedin.com/company/tilly's",
+        "instagram": "https://www.instagram.com/tillys/",
+        "facebook": "https://www.facebook.com/Tillys"
+    },
+    "investor_relations": "https://investors.tillys.com",
+    "key_executives": [
+        {
+            "name": "Edmond Thomas",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Henry",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Apparel",
+            "products": [
+                "T-Shirts",
+                "Hoodies",
+                "Shorts"
+            ]
+        },
+        {
+            "category": "Footwear",
+            "products": [
+                "Sneakers",
+                "Sandals"
+            ]
+        },
+        {
+            "category": "Accessories",
+            "products": [
+                "Backpacks",
+                "Hats",
+                "Jewelry"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tilly's, Inc. | Casual Apparel and Footwear for Active Lifestyles",
+        "meta_description": "Explore Tilly's, Inc., a specialty retailer offering a wide range of casual apparel and footwear for the active lifestyle. Discover the latest trends in youth culture with Tilly's.",
+        "keywords": [
+            "Tilly's",
+            "Active Lifestyle",
+            "Casual Apparel",
+            "Footwear",
+            "Youth Culture"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tilly's specialize in?",
+            "answer": "Tilly's specializes in casual apparel, footwear, and accessories for the active lifestyle."
+        },
+        {
+            "question": "Who is the CEO of Tilly's?",
+            "answer": "Edmond Thomas is the CEO of Tilly's, Inc."
+        },
+        {
+            "question": "Where is Tilly's headquartered?",
+            "answer": "Tilly's is headquartered in Irvine, California, USA."
+        },
+        {
+            "question": "What are Tilly's main product categories?",
+            "answer": "Tilly's main product categories include apparel, footwear, and accessories."
+        },
+        {
+            "question": "When was Tilly's founded?",
+            "answer": "Tilly's was founded in 1982."
+        }
+    ],
+    "competitors": [
+        "AEO",
+        "URBN",
+        "GPS",
+        "BURL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "WMT",
+        "TGT"
+    ]
+}

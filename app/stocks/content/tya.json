@@ -1,0 +1,97 @@
+{
+    "ticker": "TYA",
+    "name": "Toya Inc.",
+    "description": "Toya Inc. is a leading technology company specializing in innovative solutions for the smart home and IoT (Internet of Things) market. Founded in 2010, Toya has rapidly established itself as a pioneer in the development of interconnected devices that enhance everyday living through convenience and efficiency. The company's flagship product line includes smart lighting systems, home security devices, and energy management tools that allow users to control their home environment from anywhere via a seamless mobile app interface. Toya is committed to sustainability, offering products that not only improve the quality of life for users but also reduce energy consumption and environmental impact. With a strong focus on research and development, Toya continues to push the boundaries of technology, incorporating AI and machine learning features into its products to provide smarter and more adaptive home solutions. The company's mission is to create a fully integrated smart home experience that empowers individuals to live more comfortably, securely, and sustainably.",
+    "industry": [
+        "Technology",
+        "IoT",
+        "Smart Home"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.toya.com",
+    "ceo": "Alice Johnson",
+    "social_media": {
+        "twitter": "https://twitter.com/ToyaInc",
+        "linkedin": "https://www.linkedin.com/company/toya-inc",
+        "instagram": "https://www.instagram.com/toya_inc/"
+    },
+    "investor_relations": "https://ir.toya.com",
+    "key_executives": [
+        {
+            "name": "Alice Johnson",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Smith",
+            "position": "CTO"
+        },
+        {
+            "name": "Laura Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Smart Home Devices",
+            "products": [
+                "Smart Lights",
+                "Smart Locks",
+                "Home Security Cameras"
+            ]
+        },
+        {
+            "category": "Energy Management",
+            "products": [
+                "Smart Thermostats",
+                "Energy Monitoring Systems"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Toya Inc. | Innovating Smart Home Solutions",
+        "meta_description": "Explore Toya Inc., a leader in smart home technology. Discover innovative products designed to enhance your living experience sustainably.",
+        "keywords": [
+            "Toya",
+            "Smart Home",
+            "IoT",
+            "Energy Management",
+            "Smart Lighting",
+            "Home Automation"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Toya Inc. specialize in?",
+            "answer": "Toya Inc. specializes in smart home and IoT technology, providing innovative solutions for home automation."
+        },
+        {
+            "question": "Who is the CEO of Toya Inc.?",
+            "answer": "Alice Johnson is the CEO of Toya Inc."
+        },
+        {
+            "question": "Where is Toya Inc. headquartered?",
+            "answer": "Toya Inc. is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are the main product categories of Toya Inc.?",
+            "answer": "Toya Inc. offers smart home devices and energy management tools."
+        },
+        {
+            "question": "When was Toya Inc. founded?",
+            "answer": "Toya Inc. was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "GOOGL",
+        "HUBS",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "NFLX",
+        "FB",
+        "TSLA"
+    ]
+}

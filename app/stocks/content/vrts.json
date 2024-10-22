@@ -1,0 +1,91 @@
+{
+    "ticker": "VRTS",
+    "name": "Virtusa Corporation",
+    "description": "Virtusa Corporation is a global provider of IT services and consulting, specializing in digital transformation, technology implementation, and IT outsourcing. Founded in 1996, Virtusa focuses on helping businesses accelerate their digital transformation initiatives and improve operational efficiency through innovative technology solutions. The company serves a diverse range of industries, including banking, insurance, healthcare, telecommunications, and media. Virtusa is known for its proprietary frameworks and accelerators that enhance business agility and drive sustainable growth. With a strong emphasis on agile methodologies and cloud solutions, Virtusa leverages advanced technologies such as artificial intelligence, machine learning, and data analytics to deliver customized solutions that meet the evolving needs of its clients. The company has a global delivery model, with development centers in North America, Europe, and Asia, enabling it to provide high-quality services at competitive costs. Virtusa's commitment to quality and customer satisfaction has earned it recognition as a trusted partner for organizations looking to innovate and reshape their business processes.",
+    "industry": [
+        "Information Technology",
+        "Consulting"
+    ],
+    "headquarters": "Southborough, Massachusetts, USA",
+    "founded": "1996",
+    "website": "https://www.virtusa.com",
+    "ceo": "Kris Canekeratne",
+    "social_media": {
+        "twitter": "https://twitter.com/Virtusa",
+        "linkedin": "https://www.linkedin.com/company/virtusa/"
+    },
+    "investor_relations": "https://investors.virtusa.com",
+    "key_executives": [
+        {
+            "name": "Kris Canekeratne",
+            "position": "CEO"
+        },
+        {
+            "name": "Ranjan K. Singh",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Digital Transformation Services",
+            "products": [
+                "Cloud Services",
+                "AI and Machine Learning",
+                "Data Analytics"
+            ]
+        },
+        {
+            "category": "Industry Solutions",
+            "products": [
+                "Banking Solutions",
+                "Healthcare Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Virtusa Corporation | IT Services and Consulting",
+        "meta_description": "Explore Virtusa Corporation, a leader in IT services and consulting, specializing in digital transformation, technology implementation, and IT outsourcing.",
+        "keywords": [
+            "Virtusa",
+            "IT Services",
+            "Digital Transformation",
+            "Cloud Solutions",
+            "AI",
+            "Machine Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Virtusa provide?",
+            "answer": "Virtusa provides IT services, consulting, digital transformation, and technology implementation."
+        },
+        {
+            "question": "Who is the CEO of Virtusa?",
+            "answer": "Kris Canekeratne is the CEO of Virtusa Corporation."
+        },
+        {
+            "question": "Where is Virtusa headquartered?",
+            "answer": "Virtusa is headquartered in Southborough, Massachusetts, USA."
+        },
+        {
+            "question": "What industries does Virtusa serve?",
+            "answer": "Virtusa serves industries such as banking, insurance, healthcare, telecommunications, and media."
+        },
+        {
+            "question": "When was Virtusa founded?",
+            "answer": "Virtusa was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "CERN",
+        "ACN",
+        "TCS",
+        "INFY"
+    ],
+    "related_stocks": [
+        "IBM",
+        "ORCL",
+        "ADBE",
+        "SAP"
+    ]
+}

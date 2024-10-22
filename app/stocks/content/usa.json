@@ -1,0 +1,91 @@
+{
+    "ticker": "USA",
+    "name": "United States Airlines, Inc.",
+    "description": "United States Airlines, Inc. is a major American airline headquartered in Chicago, Illinois. Established in 1931, the airline has grown to become one of the largest carriers in the world, serving millions of passengers annually. United Airlines operates a comprehensive domestic and international route network, with key hubs in major cities including Chicago, Newark, and San Francisco. The airline is known for its commitment to customer service, safety, and innovation in the aviation industry. United offers a range of services, including economy, premium economy, business, and first-class seating, as well as loyalty programs like MileagePlus that reward frequent travelers. The company is also a founding member of the Star Alliance, the world's largest global airline alliance, which allows it to provide enhanced travel options and seamless connections for its customers. United Airlines is continuously investing in fleet modernization, sustainability initiatives, and technology enhancements to improve the travel experience while reducing its environmental footprint. The airline's mission is to connect people and unite the world while prioritizing the safety and well-being of its passengers and employees.",
+    "industry": [
+        "Aviation",
+        "Transportation"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1931",
+    "website": "https://www.united.com",
+    "ceo": "Scott Kirby",
+    "social_media": {
+        "twitter": "https://twitter.com/united",
+        "linkedin": "https://www.linkedin.com/company/united-airlines/"
+    },
+    "investor_relations": "https://ir.united.com",
+    "key_executives": [
+        {
+            "name": "Scott Kirby",
+            "position": "CEO"
+        },
+        {
+            "name": "Gerald Laderman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Services",
+            "products": [
+                "Economy Class",
+                "Premium Economy",
+                "Business Class",
+                "First Class"
+            ]
+        },
+        {
+            "category": "Loyalty Programs",
+            "products": [
+                "MileagePlus"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "United States Airlines, Inc. | Connecting the World",
+        "meta_description": "Explore United States Airlines, Inc., a leading airline with a vast network and commitment to passenger service. Learn about our routes, services, and sustainability efforts.",
+        "keywords": [
+            "United Airlines",
+            "Aviation",
+            "Travel",
+            "Flight",
+            "MileagePlus",
+            "Air Travel"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is United Airlines known for?",
+            "answer": "United Airlines is known for its extensive domestic and international flight network and commitment to customer service."
+        },
+        {
+            "question": "Who is the CEO of United Airlines?",
+            "answer": "Scott Kirby is the CEO of United States Airlines, Inc."
+        },
+        {
+            "question": "Where is United Airlines headquartered?",
+            "answer": "United Airlines is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What are United Airlines' main products?",
+            "answer": "United Airlines' main products include various classes of passenger services and the MileagePlus loyalty program."
+        },
+        {
+            "question": "When was United Airlines founded?",
+            "answer": "United Airlines was founded in 1931."
+        }
+    ],
+    "competitors": [
+        "DAL",
+        "AAL",
+        "LUV",
+        "UAL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

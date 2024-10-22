@@ -1,0 +1,90 @@
+{
+    "ticker": "TCX",
+    "name": "Tucows Inc.",
+    "description": "Tucows Inc. is a global technology company focused on providing internet services and digital solutions, primarily through its domain registration and web services businesses. Founded in 1998 and headquartered in Toronto, Canada, Tucows has evolved from a software download site into a key player in the internet infrastructure space. The company operates a range of services, including domain name registration, email services, and a platform for managing domain portfolios. Tucows' mission is to empower individuals and businesses online, making the internet accessible and manageable for everyone. The company is also known for its commitment to internet freedom and open access, advocating for a decentralized internet. Through its various subsidiaries, Tucows provides innovative solutions for both consumers and businesses, including its OpenSRS wholesale domain registration service and Ting, a mobile virtual network operator (MVNO) that emphasizes customer-centric service. As Tucows continues to expand its offerings, it remains dedicated to fostering a connected and equitable digital landscape.",
+    "industry": [
+        "Internet Services",
+        "Technology"
+    ],
+    "headquarters": "Toronto, Ontario, Canada",
+    "founded": "1998",
+    "website": "https://www.tucows.com",
+    "ceo": "Elliot Noss",
+    "social_media": {
+        "twitter": "https://twitter.com/tucows",
+        "linkedin": "https://www.linkedin.com/company/tucows"
+    },
+    "investor_relations": "https://www.tucows.com/investors",
+    "key_executives": [
+        {
+            "name": "Elliot Noss",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Goldstein",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Domain Registration",
+            "products": [
+                "OpenSRS",
+                "Enom"
+            ]
+        },
+        {
+            "category": "Mobile Services",
+            "products": [
+                "Ting Mobile"
+            ]
+        },
+        {
+            "category": "Email Services",
+            "products": [
+                "Tucows Email"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tucows Inc. | Internet Services and Digital Solutions",
+        "meta_description": "Explore Tucows Inc., a global leader in internet services, offering domain registration, mobile services, and innovative digital solutions for businesses and consumers.",
+        "keywords": [
+            "Tucows",
+            "Domain Registration",
+            "Internet Services",
+            "Ting Mobile",
+            "OpenSRS",
+            "Digital Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Tucows provide?",
+            "answer": "Tucows provides domain registration, email services, and mobile services through its Ting platform."
+        },
+        {
+            "question": "Who is the CEO of Tucows?",
+            "answer": "Elliot Noss is the CEO of Tucows Inc."
+        },
+        {
+            "question": "Where is Tucows headquartered?",
+            "answer": "Tucows is headquartered in Toronto, Ontario, Canada."
+        },
+        {
+            "question": "When was Tucows founded?",
+            "answer": "Tucows was founded in 1998."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "NET",
+        "RBLX"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

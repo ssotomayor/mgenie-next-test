@@ -1,0 +1,87 @@
+{
+    "ticker": "TIGR",
+    "name": "Tiger Brokers (USA) Inc.",
+    "description": "Tiger Brokers (USA) Inc. is a leading online brokerage firm that provides a comprehensive trading platform for investors. Founded in 2014, the company aims to democratize investing by providing retail investors with access to a wide range of financial products and services, including stocks, options, and ETFs. Tiger Brokers utilizes advanced technology and data analytics to offer a user-friendly experience and competitive pricing. The platform features real-time market data, advanced trading tools, and educational resources to empower investors in making informed decisions. As a global player, Tiger Brokers operates in multiple markets, including the U.S., Hong Kong, and Singapore, catering to a diverse clientele. The company's mission is to build a community of investors and provide the tools necessary for achieving financial independence. With a strong emphasis on innovation, Tiger Brokers continues to enhance its platform and expand its service offerings, aiming to become a top choice for retail investors worldwide.",
+    "industry": [
+        "Financial Services",
+        "Online Brokerage"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2014",
+    "website": "https://www.tigerbrokers.com",
+    "ceo": "Hao Zhang",
+    "social_media": {
+        "twitter": "https://twitter.com/TigerBrokersUS",
+        "linkedin": "https://www.linkedin.com/company/tiger-brokers/"
+    },
+    "investor_relations": "https://ir.tigerbrokers.com",
+    "key_executives": [
+        {
+            "name": "Hao Zhang",
+            "position": "CEO"
+        },
+        {
+            "name": "Cheng Zhang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Trading Platforms",
+            "products": [
+                "Tiger Trade App",
+                "Web Trading Platform"
+            ]
+        },
+        {
+            "category": "Financial Products",
+            "products": [
+                "Stocks",
+                "Options",
+                "ETFs"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tiger Brokers | Online Brokerage for Global Investors",
+        "meta_description": "Explore Tiger Brokers, a leading online brokerage offering comprehensive trading solutions for stocks, options, and ETFs. Join a community of investors and start trading today.",
+        "keywords": [
+            "Tiger Brokers",
+            "Online Brokerage",
+            "Investing",
+            "Stock Trading",
+            "Options Trading",
+            "ETFs"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Tiger Brokers offer?",
+            "answer": "Tiger Brokers offers an online trading platform for stocks, options, and ETFs, along with real-time market data and advanced trading tools."
+        },
+        {
+            "question": "Who is the CEO of Tiger Brokers?",
+            "answer": "Hao Zhang is the CEO of Tiger Brokers (USA) Inc."
+        },
+        {
+            "question": "Where is Tiger Brokers headquartered?",
+            "answer": "Tiger Brokers is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was Tiger Brokers founded?",
+            "answer": "Tiger Brokers was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "AMTD",
+        "SCHW",
+        "MS",
+        "IBKR"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

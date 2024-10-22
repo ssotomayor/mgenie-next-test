@@ -1,0 +1,89 @@
+{
+    "ticker": "WNDY",
+    "name": "Windy, Inc.",
+    "description": "Windy, Inc. is a leading technology company specializing in weather forecasting and environmental analytics. Founded in 2014, Windy has developed a sophisticated platform that provides real-time weather data and visualizations utilizing advanced meteorological models. The company's flagship product, Windy.com, is widely recognized for its intuitive interface and comprehensive coverage of weather conditions globally, making it a favorite among outdoor enthusiasts, aviation professionals, and emergency services. Windy leverages cutting-edge technologies such as machine learning and big data analytics to enhance the accuracy of its predictions and provide users with timely alerts about severe weather events. In addition to its consumer-facing applications, Windy also offers B2B solutions for industries that depend on accurate weather forecasting, including agriculture, logistics, and energy. With a commitment to sustainability and innovation, Windy is dedicated to empowering individuals and organizations to make informed decisions based on weather data, thereby contributing to enhanced safety and efficiency in various sectors.",
+    "industry": [
+        "Technology",
+        "Weather Services"
+    ],
+    "headquarters": "Prague, Czech Republic",
+    "founded": "2014",
+    "website": "https://www.windy.com",
+    "ceo": "Marek Roj\u00ed\u010dek",
+    "social_media": {
+        "twitter": "https://twitter.com/windycom",
+        "linkedin": "https://www.linkedin.com/company/windy-com/",
+        "instagram": "https://www.instagram.com/windy.com/"
+    },
+    "investor_relations": "https://www.windy.com/investors",
+    "key_executives": [
+        {
+            "name": "Marek Roj\u00ed\u010dek",
+            "position": "CEO"
+        },
+        {
+            "name": "Jana Nov\u00e1kov\u00e1",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Consumer Weather Tools",
+            "products": [
+                "Windy.com",
+                "Windy App"
+            ]
+        },
+        {
+            "category": "Business Solutions",
+            "products": [
+                "Weather API",
+                "Customized Forecasting Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Windy, Inc. | Real-Time Weather Forecasting and Analytics",
+        "meta_description": "Explore Windy, Inc., a leader in weather forecasting and environmental analytics. Discover our innovative products and services designed to empower informed decision-making.",
+        "keywords": [
+            "Windy",
+            "Weather Forecasting",
+            "Environmental Analytics",
+            "Weather Data",
+            "Meteorology",
+            "Windy App"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Windy known for?",
+            "answer": "Windy is known for its advanced weather forecasting platform that provides real-time data and visualizations."
+        },
+        {
+            "question": "Who is the CEO of Windy?",
+            "answer": "Marek Roj\u00ed\u010dek is the CEO of Windy, Inc."
+        },
+        {
+            "question": "Where is Windy headquartered?",
+            "answer": "Windy is headquartered in Prague, Czech Republic."
+        },
+        {
+            "question": "What are Windy's main products?",
+            "answer": "Windy's main products include Windy.com and the Windy App, as well as various B2B weather solutions."
+        },
+        {
+            "question": "When was Windy founded?",
+            "answer": "Windy was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "MSFT",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "GOOGL",
+        "NFLX",
+        "AMZN"
+    ]
+}

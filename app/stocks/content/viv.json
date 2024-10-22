@@ -1,0 +1,95 @@
+{
+    "ticker": "VIV",
+    "name": "Vivendi SE",
+    "description": "Vivendi SE is a global leader in media, entertainment, and communications, headquartered in Paris, France. Established in 1853, Vivendi has evolved into a diverse organization with a broad portfolio of businesses in music, television, film, video games, and publishing. The company is best known for its ownership of Universal Music Group (UMG), one of the largest music companies in the world, which represents a vast array of artists and music labels. Vivendi also operates Canal+, a major player in the French pay-TV market, offering a wide range of content, including movies, series, and sports. Furthermore, Vivendi has interests in the video game industry through its subsidiary Gameloft, which develops mobile games enjoyed by millions globally. The company emphasizes creativity and innovation across its operations, striving to enhance the cultural landscape and enrich the lives of its audiences. With a commitment to digital transformation, Vivendi is continuously exploring new ways to engage with consumers, leveraging technology to adapt to the rapidly changing media environment. The company's mission reflects its dedication to providing high-quality content and experiences that resonate with audiences worldwide.",
+    "industry": [
+        "Media",
+        "Entertainment",
+        "Telecommunications"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1853",
+    "website": "https://www.vivendi.com",
+    "ceo": "Arnaud de Puyfontaine",
+    "social_media": {
+        "twitter": "https://twitter.com/Vivendi",
+        "linkedin": "https://www.linkedin.com/company/vivendi/"
+    },
+    "investor_relations": "https://www.vivendi.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Arnaud de Puyfontaine",
+            "position": "CEO"
+        },
+        {
+            "name": "St\u00e9phane Roussel",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Music",
+            "products": [
+                "Universal Music Group"
+            ]
+        },
+        {
+            "category": "Television",
+            "products": [
+                "Canal+"
+            ]
+        },
+        {
+            "category": "Video Games",
+            "products": [
+                "Gameloft"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Vivendi SE | Global Leader in Media and Entertainment",
+        "meta_description": "Explore Vivendi SE, a global leader in media, entertainment, and communications. Discover its diverse portfolio, including Universal Music Group and Canal+.",
+        "keywords": [
+            "Vivendi",
+            "Universal Music Group",
+            "Canal+",
+            "Media",
+            "Entertainment",
+            "Gameloft"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Vivendi known for?",
+            "answer": "Vivendi is known for its leadership in the media and entertainment sectors, particularly through Universal Music Group and Canal+."
+        },
+        {
+            "question": "Who is the CEO of Vivendi?",
+            "answer": "Arnaud de Puyfontaine is the CEO of Vivendi SE."
+        },
+        {
+            "question": "Where is Vivendi headquartered?",
+            "answer": "Vivendi is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Vivendi's main products?",
+            "answer": "Vivendi's main products include music through Universal Music Group, television content via Canal+, and mobile games developed by Gameloft."
+        },
+        {
+            "question": "When was Vivendi founded?",
+            "answer": "Vivendi was founded in 1853."
+        }
+    ],
+    "competitors": [
+        "DIS",
+        "CMCSA",
+        "NFLX",
+        "SONY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

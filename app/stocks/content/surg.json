@@ -1,0 +1,91 @@
+{
+    "ticker": "SURG",
+    "name": "SurgePays, Inc.",
+    "description": "SurgePays, Inc. is a technology-driven financial services company focused on providing affordable financial products and services to underserved communities. Established in 2015 and headquartered in Memphis, Tennessee, SurgePays aims to bridge the gap in financial literacy and access by offering a suite of services that includes mobile banking, prepaid cards, and digital payment solutions. The company operates a robust platform that empowers users to manage their finances with ease, providing tools for budgeting, bill payment, and money transfers. SurgePays is particularly focused on serving the unbanked and underbanked populations, delivering innovative solutions that promote financial inclusivity. In addition to its financial services, SurgePays has a network of retail partners that facilitate access to its products across various locations, ensuring that customers can connect with their financial needs conveniently. The company's vision is to create a world where everyone has access to the financial tools necessary for a better quality of life.",
+    "industry": [
+        "Financial Services",
+        "Technology"
+    ],
+    "headquarters": "Memphis, Tennessee, USA",
+    "founded": "2015",
+    "website": "https://www.surgepays.com",
+    "ceo": "Brian Cox",
+    "social_media": {
+        "twitter": "https://twitter.com/SurgePays",
+        "linkedin": "https://www.linkedin.com/company/surgepays",
+        "facebook": "https://www.facebook.com/SurgePays"
+    },
+    "investor_relations": "https://ir.surgepays.com",
+    "key_executives": [
+        {
+            "name": "Brian Cox",
+            "position": "CEO"
+        },
+        {
+            "name": "M. Scott L. McCoy",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Financial Services",
+            "products": [
+                "Mobile Banking",
+                "Prepaid Debit Cards",
+                "Digital Payment Solutions"
+            ]
+        },
+        {
+            "category": "Retail Services",
+            "products": [
+                "Cash Reload Services",
+                "Bill Payment Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "SurgePays, Inc. | Financial Services for Underserved Communities",
+        "meta_description": "Explore SurgePays, Inc., a leader in providing financial services and technology solutions for underserved communities. Discover innovative banking products and retail services.",
+        "keywords": [
+            "SurgePays",
+            "Financial Services",
+            "Mobile Banking",
+            "Prepaid Cards",
+            "Digital Payments",
+            "Underserved Communities"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does SurgePays offer?",
+            "answer": "SurgePays offers mobile banking, prepaid debit cards, and digital payment solutions."
+        },
+        {
+            "question": "Who is the CEO of SurgePays?",
+            "answer": "Brian Cox is the CEO of SurgePays, Inc."
+        },
+        {
+            "question": "Where is SurgePays headquartered?",
+            "answer": "SurgePays is headquartered in Memphis, Tennessee, USA."
+        },
+        {
+            "question": "What is SurgePays' mission?",
+            "answer": "SurgePays aims to provide affordable financial products and services to underserved communities."
+        },
+        {
+            "question": "When was SurgePays founded?",
+            "answer": "SurgePays was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "SOFI",
+        "CASH",
+        "CACC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

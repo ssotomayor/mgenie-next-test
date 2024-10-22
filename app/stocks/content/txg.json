@@ -1,0 +1,93 @@
+{
+    "ticker": "TXG",
+    "name": "10X Genomics, Inc.",
+    "description": "10X Genomics, Inc. is a biotechnology company that develops innovative technologies for the analysis of biological systems. Founded in 2012 and headquartered in Pleasanton, California, the company focuses on genomic sequencing and single-cell analysis, enabling researchers to understand complex biological systems at unprecedented resolution. 10X Genomics' flagship products, such as the Chromium System, allow for highly detailed analysis of DNA and RNA, facilitating breakthroughs in genomics, cancer research, and therapeutics. The company\u2019s technology empowers scientists to explore the intricacies of cellular diversity, gene expression, and spatial biology. With its commitment to advancing scientific knowledge and improving human health, 10X Genomics continues to push the boundaries of genomics and molecular biology, providing tools that drive innovation in academic research, clinical diagnostics, and pharmaceutical development. The company is dedicated to enhancing the understanding of disease mechanisms and advancing personalized medicine through its cutting-edge genomic solutions.",
+    "industry": [
+        "Biotechnology",
+        "Genomics"
+    ],
+    "headquarters": "Pleasanton, California, USA",
+    "founded": "2012",
+    "website": "https://www.10xgenomics.com",
+    "ceo": "Serge Saxonov",
+    "social_media": {
+        "twitter": "https://twitter.com/10XGenomics",
+        "linkedin": "https://www.linkedin.com/company/10x-genomics/"
+    },
+    "investor_relations": "https://investors.10xgenomics.com",
+    "key_executives": [
+        {
+            "name": "Serge Saxonov",
+            "position": "CEO"
+        },
+        {
+            "name": "Ben Hindson",
+            "position": "Co-Founder and Chief Scientific Officer"
+        },
+        {
+            "name": "Sharon D. S. F. Chen",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Genomic Sequencing",
+            "products": [
+                "Chromium System",
+                "Single Cell Gene Expression",
+                "Chromium Controller"
+            ]
+        },
+        {
+            "category": "Spatial Biology",
+            "products": [
+                "Visium Spatial Gene Expression"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "10X Genomics, Inc. | Innovative Genomic Solutions",
+        "meta_description": "Explore 10X Genomics, a leader in biotechnology providing innovative solutions for genomic analysis. Discover how our technologies drive advancements in research and medicine.",
+        "keywords": [
+            "10X Genomics",
+            "Genomics",
+            "Biotechnology",
+            "Single-Cell Analysis",
+            "Spatial Biology",
+            "Chromium System"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does 10X Genomics specialize in?",
+            "answer": "10X Genomics specializes in genomic sequencing and single-cell analysis technologies."
+        },
+        {
+            "question": "Who is the CEO of 10X Genomics?",
+            "answer": "Serge Saxonov is the CEO of 10X Genomics, Inc."
+        },
+        {
+            "question": "Where is 10X Genomics headquartered?",
+            "answer": "10X Genomics is headquartered in Pleasanton, California, USA."
+        },
+        {
+            "question": "What are the main products of 10X Genomics?",
+            "answer": "The main products include the Chromium System and Visium Spatial Gene Expression."
+        },
+        {
+            "question": "When was 10X Genomics founded?",
+            "answer": "10X Genomics was founded in 2012."
+        }
+    ],
+    "competitors": [
+        "ILMN",
+        "PACB",
+        "BION"
+    ],
+    "related_stocks": [
+        "AMGN",
+        "REGN",
+        "GILD",
+        "VRTX"
+    ]
+}

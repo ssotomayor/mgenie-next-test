@@ -1,0 +1,92 @@
+{
+    "ticker": "UMC",
+    "name": "United Microelectronics Corporation",
+    "description": "United Microelectronics Corporation (UMC) is a leading global semiconductor foundry headquartered in Hsinchu, Taiwan. Established in 1980, UMC specializes in the manufacturing of integrated circuits and offers a wide range of advanced technology solutions for various applications, including consumer electronics, computing, telecommunications, and automotive industries. The company operates multiple fabrication plants (fabs) and is recognized for its commitment to innovation and sustainability in semiconductor manufacturing. UMC provides a variety of process technologies, including 5nm, 7nm, and 28nm nodes, catering to the diverse needs of its clients. The firm collaborates with numerous technology companies worldwide to develop cutting-edge semiconductor solutions that drive advancements in artificial intelligence, Internet of Things (IoT), and 5G connectivity. UMC is also dedicated to environmental responsibility and has implemented various initiatives to reduce its carbon footprint and enhance energy efficiency in its operations. With a robust portfolio of services, UMC aims to be at the forefront of the semiconductor industry, supporting the growth of its partners and customers while contributing to technological progress across multiple sectors.",
+    "industry": [
+        "Semiconductors",
+        "Manufacturing"
+    ],
+    "headquarters": "Hsinchu, Taiwan",
+    "founded": "1980",
+    "website": "https://www.umc.com",
+    "ceo": "S.C. Chien",
+    "social_media": {
+        "twitter": "https://twitter.com/UMC_Semiconductor",
+        "linkedin": "https://www.linkedin.com/company/united-microelectronics-corporation/"
+    },
+    "investor_relations": "https://www.umc.com/english/investor_relations/index.asp",
+    "key_executives": [
+        {
+            "name": "S.C. Chien",
+            "position": "CEO"
+        },
+        {
+            "name": "Jeng-Wei Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Process Technologies",
+            "products": [
+                "5nm Process",
+                "7nm Process",
+                "28nm Process"
+            ]
+        },
+        {
+            "category": "Specialty Technologies",
+            "products": [
+                "RF (Radio Frequency) ICs",
+                "Power Management ICs",
+                "Embedded Non-Volatile Memory"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "United Microelectronics Corporation | Leading Semiconductor Foundry",
+        "meta_description": "Explore United Microelectronics Corporation (UMC), a global leader in semiconductor foundry services specializing in advanced IC manufacturing and technology solutions.",
+        "keywords": [
+            "UMC",
+            "Semiconductors",
+            "Foundry Services",
+            "Integrated Circuits",
+            "Silicon Manufacturing",
+            "5G Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does UMC specialize in?",
+            "answer": "UMC specializes in semiconductor foundry services and the manufacturing of integrated circuits."
+        },
+        {
+            "question": "Who is the CEO of UMC?",
+            "answer": "S.C. Chien is the CEO of United Microelectronics Corporation."
+        },
+        {
+            "question": "Where is UMC headquartered?",
+            "answer": "UMC is headquartered in Hsinchu, Taiwan."
+        },
+        {
+            "question": "What are UMC's main technologies?",
+            "answer": "UMC's main technologies include various process nodes such as 5nm, 7nm, and 28nm, along with specialty technologies."
+        },
+        {
+            "question": "When was UMC founded?",
+            "answer": "UMC was founded in 1980."
+        }
+    ],
+    "competitors": [
+        "TSMC",
+        "GF",
+        "INTC",
+        "SMIC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "NVDA",
+        "AMD",
+        "QCOM"
+    ]
+}

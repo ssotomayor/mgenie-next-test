@@ -1,0 +1,82 @@
+{
+    "ticker": "WRLD",
+    "name": "World Acceptance Corporation",
+    "description": "World Acceptance Corporation is a consumer finance company that provides personal loans, as well as related insurance products. Founded in 1962 and headquartered in Greenville, South Carolina, the company specializes in small- to medium-sized loans for individuals who may have limited access to traditional banking services. World Acceptance operates through a network of branch offices across the United States, offering a variety of loan products that include installment loans, tax preparation services, and pre-paid debit cards. The company aims to provide financial solutions to customers who require immediate access to funds, often catering to those with less-than-perfect credit histories. World Acceptance is committed to responsible lending practices and strives to maintain a strong relationship with its customers by providing clear and transparent information about loan terms and associated fees. The company's mission is to promote financial literacy and empower customers to make informed financial decisions. In recent years, World Acceptance has embraced technology to enhance its customer service and streamline its operations, including online loan applications and account management tools. The company continues to adapt to the evolving financial landscape while focusing on its core values of integrity, respect, and customer service.",
+    "industry": [
+        "Financial Services",
+        "Consumer Finance"
+    ],
+    "headquarters": "Greenville, South Carolina, USA",
+    "founded": "1962",
+    "website": "https://www.worldacceptance.com",
+    "ceo": "D. T. McKee",
+    "social_media": {
+        "twitter": "https://twitter.com/WorldAcceptance",
+        "linkedin": "https://www.linkedin.com/company/world-acceptance-corporation/"
+    },
+    "investor_relations": "https://ir.worldacceptance.com",
+    "key_executives": [
+        {
+            "name": "D. T. McKee",
+            "position": "CEO"
+        },
+        {
+            "name": "R. E. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Loans",
+            "products": [
+                "Installment Loans",
+                "Tax Preparation Services",
+                "Pre-Paid Debit Cards"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "World Acceptance Corporation | Consumer Finance Solutions",
+        "meta_description": "Explore World Acceptance Corporation, a leader in consumer finance providing personal loans and financial services. Discover our commitment to responsible lending and customer empowerment.",
+        "keywords": [
+            "World Acceptance",
+            "Consumer Finance",
+            "Personal Loans",
+            "Financial Services",
+            "Installment Loans"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does World Acceptance provide?",
+            "answer": "World Acceptance provides personal loans, tax preparation services, and pre-paid debit cards."
+        },
+        {
+            "question": "Who is the CEO of World Acceptance?",
+            "answer": "D. T. McKee is the CEO of World Acceptance Corporation."
+        },
+        {
+            "question": "Where is World Acceptance headquartered?",
+            "answer": "World Acceptance is headquartered in Greenville, South Carolina, USA."
+        },
+        {
+            "question": "What is the main focus of World Acceptance?",
+            "answer": "The main focus of World Acceptance is to provide financial solutions and personal loans to customers with limited access to traditional banking services."
+        },
+        {
+            "question": "When was World Acceptance founded?",
+            "answer": "World Acceptance was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "CASH",
+        "EZPW",
+        "FCFS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "ticker": "UCB.PRI",
+    "name": "UCB S.A.",
+    "description": "UCB S.A. is a global biopharmaceutical company dedicated to creating value for patients with severe diseases in areas of neurology and immunology. Founded in 1928 and headquartered in Brussels, Belgium, UCB focuses on the development of innovative therapies that address critical unmet medical needs. The company's proprietary research and development pipeline is centered around discovering and delivering new treatments, particularly for conditions such as epilepsy, myasthenia gravis, and Crohn's disease. UCB is committed to advancing science and technology, leveraging cutting-edge research to develop biologics and small molecules that can improve patient outcomes. With a strong emphasis on patient-centricity, UCB collaborates with healthcare professionals and patient communities to understand their needs and tailor solutions accordingly. The company is also actively pursuing advancements in digital health and data analytics to enhance patient care and treatment efficacy. UCB operates in over 40 countries and is listed on the Euronext Brussels stock exchange, continuing to expand its global footprint while adhering to high ethical standards in its operations.",
+    "industry": [
+        "Biopharmaceuticals",
+        "Healthcare"
+    ],
+    "headquarters": "Brussels, Belgium",
+    "founded": "1928",
+    "website": "https://www.ucb.com",
+    "ceo": "Jean-Christophe Tellier",
+    "social_media": {
+        "twitter": "https://twitter.com/UCB_pharma",
+        "linkedin": "https://www.linkedin.com/company/ucb/"
+    },
+    "investor_relations": "https://www.ucb.com/investors",
+    "key_executives": [
+        {
+            "name": "Jean-Christophe Tellier",
+            "position": "CEO"
+        },
+        {
+            "name": "Gert de Winter",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Neurology",
+            "products": [
+                "Vimpat",
+                "Neupro"
+            ]
+        },
+        {
+            "category": "Immunology",
+            "products": [
+                "Cimzia",
+                "Evenity"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "UCB S.A. | Biopharmaceuticals for Neurology and Immunology",
+        "meta_description": "Explore UCB S.A., a global biopharmaceutical company focused on innovative therapies in neurology and immunology. Discover our commitment to patient-centric healthcare.",
+        "keywords": [
+            "UCB",
+            "Biopharmaceuticals",
+            "Neurology",
+            "Immunology",
+            "Vimpat",
+            "Cimzia"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does UCB focus on?",
+            "answer": "UCB focuses on developing innovative therapies for severe diseases in neurology and immunology."
+        },
+        {
+            "question": "Where is UCB headquartered?",
+            "answer": "UCB is headquartered in Brussels, Belgium."
+        },
+        {
+            "question": "When was UCB founded?",
+            "answer": "UCB was founded in 1928."
+        },
+        {
+            "question": "What are UCB's main products?",
+            "answer": "UCB's main products include Vimpat for epilepsy and Cimzia for Crohn's disease."
+        }
+    ],
+    "competitors": [
+        "ABBV",
+        "BMY",
+        "NVS",
+        "SNY"
+    ],
+    "related_stocks": [
+        "PFE",
+        "MRK",
+        "AMGN",
+        "GSK"
+    ]
+}

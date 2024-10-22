@@ -1,0 +1,91 @@
+{
+    "ticker": "TRX",
+    "name": "TRON DAO",
+    "description": "TRON DAO is a decentralized blockchain platform that aims to build a free, global digital content ecosystem. Founded in 2017 by Justin Sun, TRON allows developers to create and deploy decentralized applications (dApps) using its blockchain technology. The platform is designed to enable users to publish, store, and own data, allowing for a more democratic and transparent internet. TRON's native cryptocurrency, TRX, serves as the main medium of exchange within the TRON ecosystem, facilitating transactions and enabling users to participate in the governance of the network. With its high throughput, scalability, and low transaction costs, TRON has positioned itself as a leading player in the blockchain space. The platform has made significant strides in partnerships and collaborations, enhancing its ecosystem with various projects in gaming, entertainment, and decentralized finance (DeFi). TRON's mission is to empower creators and users by giving them complete control over their data and digital assets, paving the way for a decentralized internet powered by blockchain technology.",
+    "industry": [
+        "Blockchain",
+        "Cryptocurrency"
+    ],
+    "headquarters": "Singapore",
+    "founded": "2017",
+    "website": "https://tron.network",
+    "ceo": "Justin Sun",
+    "social_media": {
+        "twitter": "https://twitter.com/trondao",
+        "linkedin": "https://www.linkedin.com/company/tron-network/",
+        "medium": "https://medium.com/tron-foundation"
+    },
+    "investor_relations": "https://tron.network/investor-relations",
+    "key_executives": [
+        {
+            "name": "Justin Sun",
+            "position": "CEO"
+        },
+        {
+            "name": "Huang Licheng",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Blockchain Platform",
+            "products": [
+                "TRON Mainnet",
+                "TRC20 Tokens",
+                "TRC10 Tokens"
+            ]
+        },
+        {
+            "category": "Decentralized Applications",
+            "products": [
+                "DApps on TRON"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TRON DAO | Decentralized Blockchain Platform",
+        "meta_description": "Explore TRON DAO, a leading decentralized blockchain platform that powers the global digital content ecosystem. Learn more about TRX and the future of the decentralized internet.",
+        "keywords": [
+            "TRON",
+            "Blockchain",
+            "Cryptocurrency",
+            "Decentralized Applications",
+            "TRX",
+            "Justin Sun"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is TRON known for?",
+            "answer": "TRON is known for its decentralized blockchain platform that allows developers to create dApps and provides a free digital content ecosystem."
+        },
+        {
+            "question": "Who is the CEO of TRON?",
+            "answer": "Justin Sun is the CEO of TRON DAO."
+        },
+        {
+            "question": "Where is TRON headquartered?",
+            "answer": "TRON is headquartered in Singapore."
+        },
+        {
+            "question": "What is the native cryptocurrency of TRON?",
+            "answer": "The native cryptocurrency of TRON is TRX."
+        },
+        {
+            "question": "When was TRON founded?",
+            "answer": "TRON was founded in 2017."
+        }
+    ],
+    "competitors": [
+        "ETH",
+        "BNB",
+        "SOL",
+        "ADA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

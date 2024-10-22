@@ -1,0 +1,91 @@
+{
+    "ticker": "WU",
+    "name": "Western Union Company",
+    "description": "Western Union Company is a global leader in cross-border, cross-currency money movement and payment services. Founded in 1851, Western Union has evolved from a telegraph company to a comprehensive financial services provider with a mission to connect friends and family to each other across the globe. The company offers a variety of services, including money transfers, bill payments, and money orders, with a focus on making financial services accessible to consumers and businesses worldwide. Western Union operates in over 200 countries and territories, providing consumers with the ability to send money to millions of locations. The company's robust digital platform allows users to send money online or via mobile apps, catering to the increasing demand for digital financial solutions. With a commitment to compliance and security, Western Union ensures safe transactions while continuously innovating to meet the changing needs of its customers. The company also emphasizes financial inclusion, striving to provide services to underserved populations and unbanked individuals, thus enhancing economic opportunities for all.",
+    "industry": [
+        "Financial Services",
+        "Money Transfer"
+    ],
+    "headquarters": "Denver, Colorado, USA",
+    "founded": "1851",
+    "website": "https://www.westernunion.com",
+    "ceo": "Devin McGranahan",
+    "social_media": {
+        "twitter": "https://twitter.com/WesternUnion",
+        "linkedin": "https://www.linkedin.com/company/western-union/",
+        "facebook": "https://www.facebook.com/westernunion",
+        "instagram": "https://www.instagram.com/westernunion/"
+    },
+    "investor_relations": "https://ir.westernunion.com",
+    "key_executives": [
+        {
+            "name": "Devin McGranahan",
+            "position": "CEO"
+        },
+        {
+            "name": "Raj Agrawal",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Money Transfer",
+            "products": [
+                "Online Money Transfer",
+                "Mobile App Transfers",
+                "In-Store Transfers"
+            ]
+        },
+        {
+            "category": "Payment Services",
+            "products": [
+                "Bill Payments",
+                "Money Orders"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Western Union Company | Global Money Transfer and Payment Services",
+        "meta_description": "Explore Western Union Company, a leader in global money transfer services. Learn about our financial solutions, mission, and how we connect people worldwide.",
+        "keywords": [
+            "Western Union",
+            "Money Transfer",
+            "Financial Services",
+            "Global Payments",
+            "Cross-Border Transactions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Western Union offer?",
+            "answer": "Western Union offers money transfer, bill payment, and money order services."
+        },
+        {
+            "question": "Where is Western Union headquartered?",
+            "answer": "Western Union is headquartered in Denver, Colorado, USA."
+        },
+        {
+            "question": "Who is the CEO of Western Union?",
+            "answer": "Devin McGranahan is the CEO of Western Union Company."
+        },
+        {
+            "question": "In how many countries does Western Union operate?",
+            "answer": "Western Union operates in over 200 countries and territories."
+        },
+        {
+            "question": "How can I send money with Western Union?",
+            "answer": "You can send money through Western Union online, via mobile apps, or at various retail locations."
+        }
+    ],
+    "competitors": [
+        "PAYX",
+        "CASH",
+        "SQ"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MA",
+        "V",
+        "PYPL"
+    ]
+}

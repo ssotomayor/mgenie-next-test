@@ -1,0 +1,111 @@
+{
+    "ticker": "TGT",
+    "name": "Target Corporation",
+    "description": "Target Corporation is a leading American retail corporation that operates a chain of discount department stores and hypermarkets. Founded in 1902 and headquartered in Minneapolis, Minnesota, Target is known for its commitment to providing a convenient shopping experience with a wide range of products, including clothing, electronics, groceries, and home goods. The company's signature red and white branding is instantly recognizable, and it has become a staple in communities across the United States. Target differentiates itself through its focus on quality, style, and affordability while offering exclusive brands like Archer Farms, Made by Design, and Cat & Jack. In addition to traditional retail, Target has integrated digital channels, enabling customers to shop online and utilize services like curbside pickup and same-day delivery. The company is dedicated to sustainability and has set ambitious goals to reduce its carbon footprint and enhance its community engagement. With a strong emphasis on customer experience and innovation, Target continues to evolve in an increasingly competitive retail landscape.",
+    "industry": [
+        "Retail",
+        "E-commerce"
+    ],
+    "headquarters": "Minneapolis, Minnesota, USA",
+    "founded": "1902",
+    "website": "https://www.target.com",
+    "ceo": "Brian Cornell",
+    "social_media": {
+        "twitter": "https://twitter.com/Target",
+        "linkedin": "https://www.linkedin.com/company/target/",
+        "instagram": "https://www.instagram.com/target/",
+        "facebook": "https://www.facebook.com/Target"
+    },
+    "investor_relations": "https://investors.target.com",
+    "key_executives": [
+        {
+            "name": "Brian Cornell",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Fiddelke",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Apparel",
+            "products": [
+                "Men's Clothing",
+                "Women's Clothing",
+                "Children's Clothing"
+            ]
+        },
+        {
+            "category": "Electronics",
+            "products": [
+                "TVs",
+                "Laptops",
+                "Smartphones"
+            ]
+        },
+        {
+            "category": "Home Goods",
+            "products": [
+                "Furniture",
+                "Bedding",
+                "Kitchenware"
+            ]
+        },
+        {
+            "category": "Groceries",
+            "products": [
+                "Fresh Food",
+                "Packaged Goods",
+                "Beverages"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Target Corporation | Affordable Shopping & Stylish Products",
+        "meta_description": "Explore Target Corporation, your one-stop-shop for affordable and stylish products ranging from apparel to electronics and groceries. Shop online or in-store today.",
+        "keywords": [
+            "Target",
+            "Retail",
+            "Discount Store",
+            "E-commerce",
+            "Shopping",
+            "Home Goods",
+            "Groceries"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Target known for?",
+            "answer": "Target is known for its wide variety of affordable products, including clothing, electronics, and groceries."
+        },
+        {
+            "question": "Who is the CEO of Target?",
+            "answer": "Brian Cornell is the CEO of Target Corporation."
+        },
+        {
+            "question": "Where is Target headquartered?",
+            "answer": "Target is headquartered in Minneapolis, Minnesota, USA."
+        },
+        {
+            "question": "What are Target's main product categories?",
+            "answer": "Target's main product categories include apparel, electronics, home goods, and groceries."
+        },
+        {
+            "question": "When was Target founded?",
+            "answer": "Target was founded in 1902."
+        }
+    ],
+    "competitors": [
+        "WMT",
+        "COST",
+        "AMZN",
+        "TGT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "DIS"
+    ]
+}

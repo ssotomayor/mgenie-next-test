@@ -1,0 +1,89 @@
+{
+    "ticker": "VALU",
+    "name": "Value Line, Inc.",
+    "description": "Value Line, Inc. is a prominent provider of investment research and financial information, founded in 1931. The company is best known for its flagship publication, the Value Line Investment Survey, which provides comprehensive data, analysis, and recommendations on thousands of publicly traded companies. Value Line\u2019s mission is to empower investors with high-quality research tools and insights that help guide investment decisions. The company employs a systematic approach to evaluating stocks, utilizing proprietary ranking systems based on earnings, price momentum, and financial strength. In addition to its core research publications, Value Line offers a range of investment-related services, including portfolio management tools and market analysis, catering to individual investors, financial advisors, and institutional clients. As a trusted source of investment intelligence, Value Line has established a reputation for accuracy and reliability in the financial services industry. The firm continues to adapt to the evolving market landscape, incorporating digital platforms and analytics to enhance its offerings and meet the needs of modern investors.",
+    "industry": [
+        "Financial Services",
+        "Investment Research"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "1931",
+    "website": "https://www.valueline.com",
+    "ceo": "Howard A. Brecher",
+    "social_media": {
+        "twitter": "https://twitter.com/ValueLine",
+        "linkedin": "https://www.linkedin.com/company/value-line/"
+    },
+    "investor_relations": "https://www.valueline.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Howard A. Brecher",
+            "position": "CEO"
+        },
+        {
+            "name": "William A. Kahn",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Research Publications",
+            "products": [
+                "Value Line Investment Survey",
+                "Value Line Mutual Fund Survey"
+            ]
+        },
+        {
+            "category": "Investment Tools",
+            "products": [
+                "Value Line Pro",
+                "Portfolio Management Tools"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Value Line, Inc. | Investment Research and Financial Information",
+        "meta_description": "Explore Value Line, Inc., a leader in investment research providing comprehensive analysis and tools for investors. Discover our publications and services.",
+        "keywords": [
+            "Value Line",
+            "Investment Research",
+            "Financial Information",
+            "Stock Analysis",
+            "Mutual Funds",
+            "Portfolio Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Value Line do?",
+            "answer": "Value Line provides investment research, financial information, and analysis on publicly traded companies."
+        },
+        {
+            "question": "Who is the CEO of Value Line?",
+            "answer": "Howard A. Brecher is the CEO of Value Line, Inc."
+        },
+        {
+            "question": "Where is Value Line headquartered?",
+            "answer": "Value Line is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Value Line's main products?",
+            "answer": "Value Line's main products include the Value Line Investment Survey and various investment management tools."
+        },
+        {
+            "question": "When was Value Line founded?",
+            "answer": "Value Line was founded in 1931."
+        }
+    ],
+    "competitors": [
+        "MSCI",
+        "S&P",
+        "Morningstar"
+    ],
+    "related_stocks": [
+        "BRK.A",
+        "JPM",
+        "GS",
+        "BLK"
+    ]
+}

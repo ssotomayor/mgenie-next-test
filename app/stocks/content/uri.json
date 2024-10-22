@@ -1,0 +1,90 @@
+{
+    "ticker": "URI",
+    "name": "United Rentals, Inc.",
+    "description": "United Rentals, Inc. is the largest equipment rental company in the world, providing rental services to a wide range of industries including construction, industrial, and infrastructure. Founded in 1997, United Rentals has grown significantly through a combination of organic growth and strategic acquisitions, establishing a robust network of branches and an extensive fleet of rental equipment. The company offers a comprehensive range of equipment, including aerial work platforms, earthmoving equipment, and specialty tools, catering to diverse customer needs. United Rentals is committed to enhancing customer productivity and safety through innovative solutions and exceptional service. With a focus on sustainable practices, United Rentals also emphasizes environmentally friendly equipment and operations. The company\u2019s mission is to be the industry leader in equipment rental, delivering superior value to customers while maintaining a strong commitment to safety, sustainability, and community engagement.",
+    "industry": [
+        "Equipment Rental",
+        "Construction"
+    ],
+    "headquarters": "Stamford, Connecticut, USA",
+    "founded": "1997",
+    "website": "https://www.unitedrentals.com",
+    "ceo": "Matthew J. Flannery",
+    "social_media": {
+        "twitter": "https://twitter.com/UnitedRentals",
+        "linkedin": "https://www.linkedin.com/company/united-rentals"
+    },
+    "investor_relations": "https://investor.unitedrentals.com",
+    "key_executives": [
+        {
+            "name": "Matthew J. Flannery",
+            "position": "CEO"
+        },
+        {
+            "name": "Jessica G. Dwyer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aerial Equipment",
+            "products": [
+                "Boom Lifts",
+                "Scissor Lifts"
+            ]
+        },
+        {
+            "category": "Earthmoving Equipment",
+            "products": [
+                "Excavators",
+                "Backhoes"
+            ]
+        },
+        {
+            "category": "Specialty Equipment",
+            "products": [
+                "Generators",
+                "HVAC Equipment"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "United Rentals, Inc. | Equipment Rental Solutions",
+        "meta_description": "Explore United Rentals, Inc., the world's largest equipment rental company, providing innovative solutions and a diverse range of rental equipment for various industries.",
+        "keywords": [
+            "United Rentals",
+            "Equipment Rental",
+            "Construction Equipment",
+            "Aerial Work Platforms",
+            "Heavy Machinery"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does United Rentals offer?",
+            "answer": "United Rentals offers a wide range of equipment rental services, including aerial work platforms, earthmoving equipment, and specialty tools."
+        },
+        {
+            "question": "Who is the CEO of United Rentals?",
+            "answer": "Matthew J. Flannery is the CEO of United Rentals, Inc."
+        },
+        {
+            "question": "Where is United Rentals headquartered?",
+            "answer": "United Rentals is headquartered in Stamford, Connecticut, USA."
+        },
+        {
+            "question": "When was United Rentals founded?",
+            "answer": "United Rentals was founded in 1997."
+        }
+    ],
+    "competitors": [
+        "HARD",
+        "SNAP",
+        "SRE"
+    ],
+    "related_stocks": [
+        "CAT",
+        "DE",
+        "IR"
+    ]
+}

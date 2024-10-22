@@ -1,0 +1,78 @@
+{
+    "ticker": "WLMSQ",
+    "name": "Wilmington Trust Company",
+    "description": "Wilmington Trust Company is a leading financial services firm specializing in wealth management, investment management, and commercial banking solutions. Founded in 1903 and headquartered in Wilmington, Delaware, the company aims to deliver personalized financial services to individuals, families, and businesses. With a strong emphasis on client relationships, Wilmington Trust provides tailored strategies that encompass investment advisory services, estate planning, and fiduciary services. The firm also offers commercial banking solutions, including lending, treasury management, and deposit services, catering to the needs of mid-sized businesses. Wilmington Trust is known for its commitment to integrity, expertise, and exceptional client service, which has earned it a trusted reputation in the financial industry. As part of the M&T Bank Corporation, Wilmington Trust leverages a broader network of resources while maintaining its focus on personalized service. The company is dedicated to helping clients navigate complex financial landscapes and achieve their long-term financial goals through innovative solutions and strategic advice.",
+    "industry": [
+        "Financial Services",
+        "Wealth Management",
+        "Investment Management"
+    ],
+    "headquarters": "Wilmington, Delaware, USA",
+    "founded": "1903",
+    "website": "https://www.wilmingtontrust.com",
+    "ceo": "M&T Bank Corporation (parent company)",
+    "social_media": {
+        "twitter": "https://twitter.com/WilmingtonTrust",
+        "linkedin": "https://www.linkedin.com/company/wilmington-trust/"
+    },
+    "investor_relations": "https://www.mtb.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "M&T Bank Corporation",
+            "position": "Parent Company"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Wealth Management",
+            "products": [
+                "Investment Advisory Services",
+                "Estate Planning",
+                "Fiduciary Services"
+            ]
+        },
+        {
+            "category": "Commercial Banking",
+            "products": [
+                "Lending",
+                "Treasury Management",
+                "Deposit Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Wilmington Trust Company | Wealth Management & Financial Services",
+        "meta_description": "Explore Wilmington Trust Company, a leader in wealth and investment management, offering personalized financial solutions for individuals and businesses.",
+        "keywords": [
+            "Wilmington Trust",
+            "Wealth Management",
+            "Investment Management",
+            "Commercial Banking",
+            "Estate Planning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Wilmington Trust offer?",
+            "answer": "Wilmington Trust offers wealth management, investment advisory, estate planning, and commercial banking services."
+        },
+        {
+            "question": "Where is Wilmington Trust headquartered?",
+            "answer": "Wilmington Trust is headquartered in Wilmington, Delaware, USA."
+        },
+        {
+            "question": "When was Wilmington Trust founded?",
+            "answer": "Wilmington Trust was founded in 1903."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "BAC",
+        "C"
+    ],
+    "related_stocks": [
+        "WFC",
+        "USB",
+        "PNC"
+    ]
+}

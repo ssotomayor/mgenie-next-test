@@ -1,0 +1,91 @@
+{
+    "ticker": "TNYA",
+    "name": "Tanya, Inc.",
+    "description": "Tanya, Inc. is an innovative technology company specializing in data analytics and artificial intelligence solutions. Founded in 2010, the company has rapidly established itself as a leader in providing advanced analytics tools and services that empower businesses to make data-driven decisions. Tanya's flagship product, the Tanya Analytics Platform, integrates machine learning algorithms and real-time data processing capabilities to help organizations across various industries optimize operations, enhance customer experiences, and drive revenue growth. The company's commitment to research and development ensures that it remains at the forefront of technological advancements, continually enhancing its offerings with cutting-edge features. In addition to its analytics platform, Tanya, Inc. provides consulting services to assist clients in implementing data strategies tailored to their specific needs. The company prides itself on its collaborative approach, working closely with clients to understand their challenges and develop customized solutions that deliver measurable results. With a strong emphasis on security and data privacy, Tanya, Inc. adheres to industry best practices, ensuring that client data is protected while fostering trust and transparency. As businesses increasingly recognize the value of data, Tanya, Inc. is poised to play a pivotal role in helping organizations harness the power of analytics for sustainable growth.",
+    "industry": [
+        "Technology",
+        "Analytics",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2010",
+    "website": "https://www.tanya.com",
+    "ceo": "Alex Johnson",
+    "social_media": {
+        "twitter": "https://twitter.com/TanyaInc",
+        "linkedin": "https://www.linkedin.com/company/tanya-inc/",
+        "instagram": "https://www.instagram.com/tanya.inc/"
+    },
+    "investor_relations": "https://ir.tanya.com",
+    "key_executives": [
+        {
+            "name": "Alex Johnson",
+            "position": "CEO"
+        },
+        {
+            "name": "Rachel Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Tanya Analytics Platform",
+                "Data Visualization Tools"
+            ]
+        },
+        {
+            "category": "Consulting Services",
+            "products": [
+                "Data Strategy Consulting",
+                "Implementation Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tanya, Inc. | Data Analytics and AI Solutions",
+        "meta_description": "Explore Tanya, Inc., a leader in data analytics and artificial intelligence. Discover how Tanya's innovative solutions help businesses thrive in a data-driven world.",
+        "keywords": [
+            "Tanya",
+            "Data Analytics",
+            "Artificial Intelligence",
+            "Business Intelligence",
+            "Machine Learning"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tanya, Inc. specialize in?",
+            "answer": "Tanya, Inc. specializes in data analytics and artificial intelligence solutions."
+        },
+        {
+            "question": "Who is the CEO of Tanya, Inc.?",
+            "answer": "Alex Johnson is the CEO of Tanya, Inc."
+        },
+        {
+            "question": "Where is Tanya, Inc. headquartered?",
+            "answer": "Tanya, Inc. is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Tanya's main products?",
+            "answer": "Tanya's main products include the Tanya Analytics Platform and various consulting services."
+        },
+        {
+            "question": "When was Tanya, Inc. founded?",
+            "answer": "Tanya, Inc. was founded in 2010."
+        }
+    ],
+    "competitors": [
+        "DATA",
+        "MSFT",
+        "IBM",
+        "SNOW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "NFLX"
+    ]
+}

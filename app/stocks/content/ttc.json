@@ -1,0 +1,99 @@
+{
+    "ticker": "TTC",
+    "name": "Tractor Supply Company",
+    "description": "Tractor Supply Company (TSC) is the largest rural lifestyle retail store chain in the United States, serving the needs of recreational farmers and ranchers, as well as the rural and suburban homeowner. Founded in 1938, Tractor Supply has grown from a small tractor parts business to a comprehensive retail destination offering a wide array of products, including livestock feed, pet supplies, garden tools, and home improvement products. With over 1,900 stores in 49 states, Tractor Supply is committed to providing exceptional customer service and a broad selection of quality products tailored to meet the needs of its customers. The company's mission is to work hard, have fun, and make money by providing the best customer service in the industry. TSC is also known for its community involvement, supporting local farmers, animal rescue organizations, and rural communities through various initiatives and partnerships. The company continues to expand its product offerings and enhance its e-commerce capabilities, aiming to be the go-to destination for all things rural and outdoor.",
+    "industry": [
+        "Retail",
+        "Agriculture"
+    ],
+    "headquarters": "Brentwood, Tennessee, USA",
+    "founded": "1938",
+    "website": "https://www.tractorsupply.com",
+    "ceo": "Hal Lawton",
+    "social_media": {
+        "twitter": "https://twitter.com/TractorSupply",
+        "linkedin": "https://www.linkedin.com/company/tractor-supply-company",
+        "instagram": "https://www.instagram.com/tractorsupply"
+    },
+    "investor_relations": "https://investor.tractorsupply.com",
+    "key_executives": [
+        {
+            "name": "Hal Lawton",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy D. B. Smith",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Farm and Ranch",
+            "products": [
+                "Livestock Feed",
+                "Fencing Supplies",
+                "Animal Health Products"
+            ]
+        },
+        {
+            "category": "Pet Supplies",
+            "products": [
+                "Pet Food",
+                "Pet Toys",
+                "Pet Health Products"
+            ]
+        },
+        {
+            "category": "Home Improvement",
+            "products": [
+                "Tools",
+                "Hardware",
+                "Outdoor Living Supplies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tractor Supply Company | Rural Lifestyle Retail",
+        "meta_description": "Explore Tractor Supply Company, the leading rural lifestyle retailer. Discover a wide range of products for farm, ranch, and home improvement needs.",
+        "keywords": [
+            "Tractor Supply",
+            "Rural Retail",
+            "Farm Supplies",
+            "Pet Supplies",
+            "Home Improvement"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tractor Supply Company sell?",
+            "answer": "Tractor Supply Company sells a wide range of products including livestock feed, pet supplies, tools, and home improvement items."
+        },
+        {
+            "question": "Where is Tractor Supply Company headquartered?",
+            "answer": "Tractor Supply Company is headquartered in Brentwood, Tennessee, USA."
+        },
+        {
+            "question": "When was Tractor Supply founded?",
+            "answer": "Tractor Supply Company was founded in 1938."
+        },
+        {
+            "question": "Who is the CEO of Tractor Supply Company?",
+            "answer": "Hal Lawton is the CEO of Tractor Supply Company."
+        },
+        {
+            "question": "How many Tractor Supply stores are there?",
+            "answer": "There are over 1,900 Tractor Supply stores located across 49 states."
+        }
+    ],
+    "competitors": [
+        "PETS",
+        "LOW",
+        "HOME"
+    ],
+    "related_stocks": [
+        "WMT",
+        "COST",
+        "TGT",
+        "HD"
+    ]
+}

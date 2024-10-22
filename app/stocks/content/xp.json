@@ -1,0 +1,92 @@
+{
+    "ticker": "XP",
+    "name": "XP Inc.",
+    "description": "XP Inc. is a leading financial services firm based in Brazil, specializing in investment brokerage, asset management, and financial education. Founded in 2001 by Guilherme Benchimol and a group of entrepreneurs, XP has transformed the Brazilian investment landscape by democratizing access to financial markets for individual investors. The company offers a robust platform that provides a wide range of investment products, including stocks, bonds, mutual funds, and exchange-traded funds (ETFs). XP is known for its innovative technology, user-friendly interface, and commitment to financial education, helping clients make informed investment decisions. With a focus on transparency and client-centric services, XP has grown rapidly, attracting millions of customers and becoming one of the most recognized brands in the financial sector in Brazil. As of its IPO in December 2019, XP continues to expand its offerings and reach, aiming to empower more Brazilians to invest and secure their financial future.",
+    "industry": [
+        "Financial Services",
+        "Investment Brokerage"
+    ],
+    "headquarters": "S\u00e3o Paulo, Brazil",
+    "founded": "2001",
+    "website": "https://www.xp.com.br",
+    "ceo": "Guilherme Benchimol",
+    "social_media": {
+        "twitter": "https://twitter.com/xpinc",
+        "linkedin": "https://www.linkedin.com/company/xp-investimentos/"
+    },
+    "investor_relations": "https://investors.xp.com.br",
+    "key_executives": [
+        {
+            "name": "Guilherme Benchimol",
+            "position": "CEO"
+        },
+        {
+            "name": "Daniel L. R. Pimentel",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Services",
+            "products": [
+                "Stocks",
+                "Mutual Funds",
+                "ETFs",
+                "Fixed Income Products"
+            ]
+        },
+        {
+            "category": "Financial Education",
+            "products": [
+                "Online Courses",
+                "Webinars",
+                "Investment Guides"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "XP Inc. | Leading Financial Services in Brazil",
+        "meta_description": "Explore XP Inc., Brazil's leading financial services firm. Discover investment brokerage, asset management, and educational resources to enhance your financial knowledge.",
+        "keywords": [
+            "XP Inc.",
+            "Investment Brokerage",
+            "Financial Services",
+            "Brazil Investments",
+            "Guilherme Benchimol"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does XP offer?",
+            "answer": "XP offers investment brokerage, asset management, and financial education services."
+        },
+        {
+            "question": "Who is the CEO of XP?",
+            "answer": "Guilherme Benchimol is the CEO of XP Inc."
+        },
+        {
+            "question": "Where is XP headquartered?",
+            "answer": "XP is headquartered in S\u00e3o Paulo, Brazil."
+        },
+        {
+            "question": "What types of investments can I make with XP?",
+            "answer": "You can invest in stocks, mutual funds, ETFs, and fixed income products through XP."
+        },
+        {
+            "question": "When was XP founded?",
+            "answer": "XP was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "B3",
+        "BTG",
+        "CVCB3",
+        "PSSA3"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

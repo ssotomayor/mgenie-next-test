@@ -1,0 +1,98 @@
+{
+    "ticker": "TREE",
+    "name": "LendingTree, Inc.",
+    "description": "LendingTree, Inc. is a leading online marketplace that connects consumers with various financial service providers. Founded in 1996 by Doug Lebda, LendingTree's mission is to empower consumers to make informed financial decisions by providing access to multiple offers from a wide range of lenders, including mortgage, personal loans, credit cards, and insurance providers. The company pioneered the concept of a marketplace that allows users to compare financial products and services side by side, making it easier to find the best rates and terms tailored to individual needs. LendingTree's platform not only helps consumers save money but also facilitates transparency in the lending process. Over the years, the company has expanded its services to include tools and resources for credit monitoring, financial education, and budgeting. With a strong focus on technology and innovation, LendingTree continues to enhance its platform, leveraging data analytics and machine learning to improve user experience and optimize the matching of consumers with suitable lenders. The company is headquartered in Charlotte, North Carolina, and has established itself as a trusted brand in the financial services industry, helping millions of people achieve their financial goals.",
+    "industry": [
+        "Financial Services",
+        "Technology"
+    ],
+    "headquarters": "Charlotte, North Carolina, USA",
+    "founded": "1996",
+    "website": "https://www.lendingtree.com",
+    "ceo": "Doug Lebda",
+    "social_media": {
+        "twitter": "https://twitter.com/lendingtree",
+        "linkedin": "https://www.linkedin.com/company/lendingtree/"
+    },
+    "investor_relations": "https://ir.lendingtree.com",
+    "key_executives": [
+        {
+            "name": "Doug Lebda",
+            "position": "CEO"
+        },
+        {
+            "name": "J.D. Moriarty",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Loans",
+            "products": [
+                "Mortgage Loans",
+                "Personal Loans",
+                "Auto Loans"
+            ]
+        },
+        {
+            "category": "Credit",
+            "products": [
+                "Credit Cards",
+                "Credit Monitoring"
+            ]
+        },
+        {
+            "category": "Insurance",
+            "products": [
+                "Home Insurance",
+                "Life Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "LendingTree, Inc. | Compare Financial Products & Services",
+        "meta_description": "LendingTree, Inc. is your online marketplace for comparing loans, credit cards, and insurance. Discover how LendingTree can help you save money and make informed financial decisions.",
+        "keywords": [
+            "LendingTree",
+            "Loans",
+            "Credit Cards",
+            "Mortgage",
+            "Personal Loans",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does LendingTree offer?",
+            "answer": "LendingTree offers a marketplace for comparing mortgage loans, personal loans, credit cards, and insurance products."
+        },
+        {
+            "question": "Who is the CEO of LendingTree?",
+            "answer": "Doug Lebda is the CEO of LendingTree, Inc."
+        },
+        {
+            "question": "Where is LendingTree headquartered?",
+            "answer": "LendingTree is headquartered in Charlotte, North Carolina, USA."
+        },
+        {
+            "question": "How does LendingTree help consumers?",
+            "answer": "LendingTree connects consumers with multiple lenders, allowing them to compare offers and find the best rates and terms for their financial needs."
+        },
+        {
+            "question": "When was LendingTree founded?",
+            "answer": "LendingTree was founded in 1996."
+        }
+    ],
+    "competitors": [
+        "SOFI",
+        "CFLT",
+        "AFG",
+        "RKT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "MSFT",
+        "GOOGL"
+    ]
+}

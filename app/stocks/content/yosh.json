@@ -1,0 +1,87 @@
+{
+    "ticker": "YOSH",
+    "name": "Yoshi Technologies, Inc.",
+    "description": "Yoshi Technologies, Inc. is an innovative leader in the on-demand automotive services industry, specializing in mobile refueling and car maintenance solutions. Founded in 2015, Yoshi aims to enhance the car ownership experience by providing convenience and efficiency through its unique platform. The company offers a range of services including gas delivery, oil changes, car washes, and tire replacements, all available at the customer's location. Yoshi's mobile app allows users to schedule services seamlessly, ensuring that busy individuals and families can keep their vehicles in top condition without the hassle of traditional service stations. With a strong emphasis on customer experience and sustainability, Yoshi employs eco-friendly practices and aims to reduce the carbon footprint associated with conventional car maintenance. The company has rapidly expanded its operations across major U.S. cities, catering to a growing demand for convenience and time-saving solutions in automotive care. Yoshi continues to innovate by integrating advanced technology, such as AI and machine learning, into its service offerings, allowing for personalized recommendations and improved service efficiency. As a champion of the sharing economy, Yoshi is committed to transforming the automotive service landscape, making it more accessible and environmentally friendly for all.",
+    "industry": [
+        "Automotive Services",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.yoshi.com",
+    "ceo": "Drew McNair",
+    "social_media": {
+        "twitter": "https://twitter.com/yoshitotalcare",
+        "linkedin": "https://www.linkedin.com/company/yoshi-technologies/"
+    },
+    "investor_relations": "https://ir.yoshi.com",
+    "key_executives": [
+        {
+            "name": "Drew McNair",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mobile Refueling",
+            "products": []
+        },
+        {
+            "category": "Car Maintenance",
+            "products": [
+                "Oil Changes",
+                "Tire Replacements",
+                "Car Washes"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Yoshi Technologies, Inc. | On-Demand Automotive Services",
+        "meta_description": "Discover Yoshi Technologies, Inc., a leader in mobile automotive services, providing convenient solutions for car maintenance and refueling. Explore Yoshi's innovative platform and commitment to sustainability.",
+        "keywords": [
+            "Yoshi",
+            "Mobile Refueling",
+            "Car Maintenance",
+            "On-Demand Services",
+            "Automotive Technology"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Yoshi offer?",
+            "answer": "Yoshi offers mobile refueling, oil changes, tire replacements, and car washes at your location."
+        },
+        {
+            "question": "Who is the CEO of Yoshi Technologies?",
+            "answer": "Drew McNair is the CEO of Yoshi Technologies, Inc."
+        },
+        {
+            "question": "Where is Yoshi headquartered?",
+            "answer": "Yoshi is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "How can I schedule a service with Yoshi?",
+            "answer": "You can schedule a service through the Yoshi mobile app or website."
+        },
+        {
+            "question": "When was Yoshi founded?",
+            "answer": "Yoshi was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "GETYH",
+        "FOXT",
+        "CARG",
+        "BLADE"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "GOOGL"
+    ]
+}

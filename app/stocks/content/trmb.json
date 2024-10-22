@@ -1,0 +1,99 @@
+{
+    "ticker": "TRMB",
+    "name": "Trimble Inc.",
+    "description": "Trimble Inc. is a global leader in providing technology solutions that enable professionals and organizations across various industries to optimize their operations. Founded in 1978 and headquartered in Sunnyvale, California, Trimble specializes in advanced positioning solutions, software, and hardware that enhance productivity and efficiency. The company serves a diverse array of sectors, including agriculture, construction, geospatial, transportation, and logistics. Trimble is particularly renowned for its GPS technology, which has revolutionized surveying and mapping, as well as its Building Information Modeling (BIM) solutions that facilitate collaboration and project management in construction. With a strong focus on innovation, Trimble integrates cutting-edge technologies like artificial intelligence, machine learning, and cloud computing into its offerings. The company\u2019s mission is to transform the way the world works by connecting the physical and digital worlds, allowing customers to make informed decisions and achieve better outcomes. Trimble is dedicated to sustainability and improving the efficiency of its customers' operations, thereby contributing to a more sustainable future.",
+    "industry": [
+        "Technology",
+        "Software",
+        "Construction",
+        "Geospatial"
+    ],
+    "headquarters": "Sunnyvale, California, USA",
+    "founded": "1978",
+    "website": "https://www.trimble.com",
+    "ceo": "Rob Painter",
+    "social_media": {
+        "twitter": "https://twitter.com/Trimble",
+        "linkedin": "https://www.linkedin.com/company/trimbleinc/"
+    },
+    "investor_relations": "https://investor.trimble.com",
+    "key_executives": [
+        {
+            "name": "Rob Painter",
+            "position": "CEO"
+        },
+        {
+            "name": "Chris McLaughlin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Construction",
+            "products": [
+                "Trimble SketchUp",
+                "Trimble Business Center"
+            ]
+        },
+        {
+            "category": "Geospatial",
+            "products": [
+                "Trimble GNSS",
+                "Trimble R8s"
+            ]
+        },
+        {
+            "category": "Agriculture",
+            "products": [
+                "Trimble Ag Software",
+                "Trimble Precision Agriculture"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Trimble Inc. | Technology Solutions for Industry",
+        "meta_description": "Explore Trimble Inc., a global leader in providing technology solutions across various industries including construction, geospatial, and agriculture. Discover Trimble's innovative products and commitment to sustainability.",
+        "keywords": [
+            "Trimble",
+            "Technology Solutions",
+            "Construction Software",
+            "Geospatial Technology",
+            "Precision Agriculture",
+            "BIM Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Trimble specialize in?",
+            "answer": "Trimble specializes in advanced positioning solutions and technology for various industries including construction and agriculture."
+        },
+        {
+            "question": "Who is the CEO of Trimble?",
+            "answer": "Rob Painter is the CEO of Trimble Inc."
+        },
+        {
+            "question": "Where is Trimble headquartered?",
+            "answer": "Trimble is headquartered in Sunnyvale, California, USA."
+        },
+        {
+            "question": "What are Trimble's main products?",
+            "answer": "Trimble's main products include Trimble SketchUp, Trimble GNSS, and Trimble Ag Software."
+        },
+        {
+            "question": "When was Trimble founded?",
+            "answer": "Trimble was founded in 1978."
+        }
+    ],
+    "competitors": [
+        "GE",
+        "SNX",
+        "ORCL",
+        "ADSK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "IBM",
+        "GOOGL"
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "ticker": "XFIN",
+    "name": "X Financial",
+    "description": "X Financial is a leading technology-driven consumer finance company based in China, primarily focused on providing innovative financial services to individuals. Founded in 2014, X Financial offers a wide range of financial products, including personal loans, investment products, and wealth management services. The company leverages advanced technology and big data analytics to assess credit risk and enhance user experience, which sets it apart in the competitive consumer finance landscape. X Financial's mission is to empower consumers by providing accessible financial services that meet their needs, helping them achieve their financial goals. The company operates under a robust risk management framework and is committed to regulatory compliance, ensuring the safety and security of its clients' financial data. With a strong focus on customer service and financial literacy, X Financial aims to redefine the consumer finance experience in China and expand its reach to new markets. The company is strategically positioned to capitalize on the growing demand for digital financial services, driven by the increasing adoption of technology in everyday financial transactions.",
+    "industry": [
+        "Financial Services",
+        "Consumer Finance"
+    ],
+    "headquarters": "Shenzhen, China",
+    "founded": "2014",
+    "website": "https://www.xfinancial.com",
+    "ceo": "Ning Zhao",
+    "social_media": {
+        "twitter": "https://twitter.com/XFinancial",
+        "linkedin": "https://www.linkedin.com/company/x-financial/"
+    },
+    "investor_relations": "https://ir.xfinancial.com",
+    "key_executives": [
+        {
+            "name": "Ning Zhao",
+            "position": "CEO"
+        },
+        {
+            "name": "Jing Liu",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Loans",
+            "products": [
+                "Short-term Loans",
+                "Long-term Loans"
+            ]
+        },
+        {
+            "category": "Investment Products",
+            "products": [
+                "Wealth Management",
+                "Mutual Funds"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "X Financial | Innovative Consumer Finance Solutions",
+        "meta_description": "Explore X Financial, a leader in technology-driven consumer finance in China, offering personal loans and investment products tailored for individual needs.",
+        "keywords": [
+            "X Financial",
+            "Consumer Finance",
+            "Personal Loans",
+            "Investment Products",
+            "Wealth Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does X Financial provide?",
+            "answer": "X Financial provides personal loans, investment products, and wealth management services."
+        },
+        {
+            "question": "Who is the CEO of X Financial?",
+            "answer": "Ning Zhao is the CEO of X Financial."
+        },
+        {
+            "question": "Where is X Financial headquartered?",
+            "answer": "X Financial is headquartered in Shenzhen, China."
+        },
+        {
+            "question": "When was X Financial founded?",
+            "answer": "X Financial was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "QFIN",
+        "JD",
+        "TAL"
+    ],
+    "related_stocks": [
+        "BABA",
+        "PDD",
+        "NTES",
+        "TCEHY"
+    ]
+}

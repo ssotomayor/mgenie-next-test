@@ -1,0 +1,89 @@
+{
+    "ticker": "TR",
+    "name": "Tractor Supply Company",
+    "description": "Tractor Supply Company is a leading retailer in the rural lifestyle market, offering a wide variety of products for livestock, equine, pet care, and home improvement. Founded in 1938, the company has grown from a small tractor and farm equipment repair shop to a publicly traded enterprise with over 2,000 retail stores across the United States. Tractor Supply caters to the needs of farmers, ranchers, and rural homeowners by providing essential products such as feed, fencing, tools, and outdoor living supplies. The company is dedicated to serving its customers with knowledgeable staff, exceptional service, and a commitment to quality. In addition to its extensive in-store offerings, Tractor Supply has a robust e-commerce platform, allowing customers to shop online and access a wider range of products. The company's mission is to provide the products and services that enhance the lives of those who live in rural communities, fostering a deep connection with customers who share a passion for the rural lifestyle. Tractor Supply is also committed to sustainability, engaging in responsible sourcing and eco-friendly practices to minimize its environmental impact.",
+    "industry": [
+        "Retail",
+        "Agriculture"
+    ],
+    "headquarters": "Brentwood, Tennessee, USA",
+    "founded": "1938",
+    "website": "https://www.tractorsupply.com",
+    "ceo": "Hal Lawton",
+    "social_media": {
+        "twitter": "https://twitter.com/TractorSupply",
+        "linkedin": "https://www.linkedin.com/company/tractor-supply-company",
+        "instagram": "https://www.instagram.com/tractorsupply",
+        "facebook": "https://www.facebook.com/TractorSupplyCompany"
+    },
+    "investor_relations": "https://investor.tractorsupply.com",
+    "key_executives": [
+        {
+            "name": "Hal Lawton",
+            "position": "CEO"
+        },
+        {
+            "name": "Kirk D. McFadden",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Livestock and Pet",
+            "products": [
+                "Livestock Feed",
+                "Pet Supplies"
+            ]
+        },
+        {
+            "category": "Tools and Hardware",
+            "products": [
+                "Hand Tools",
+                "Power Tools"
+            ]
+        },
+        {
+            "category": "Outdoor Living",
+            "products": [
+                "Fencing",
+                "Garden Supplies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tractor Supply Company | Your Source for Rural Lifestyle Products",
+        "meta_description": "Tractor Supply Company is the leading retailer of rural lifestyle products, offering everything from livestock feed to home improvement supplies. Discover our extensive range of products and services.",
+        "keywords": [
+            "Tractor Supply",
+            "Livestock Supplies",
+            "Pet Care",
+            "Tools",
+            "Outdoor Living",
+            "Rural Lifestyle"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tractor Supply Company sell?",
+            "answer": "Tractor Supply Company sells a wide variety of products for agriculture, livestock, pet care, and home improvement."
+        },
+        {
+            "question": "Where is Tractor Supply headquartered?",
+            "answer": "Tractor Supply Company is headquartered in Brentwood, Tennessee, USA."
+        },
+        {
+            "question": "When was Tractor Supply founded?",
+            "answer": "Tractor Supply Company was founded in 1938."
+        }
+    ],
+    "competitors": [
+        "TSCO",
+        "LOW",
+        "HOME"
+    ],
+    "related_stocks": [
+        "WMT",
+        "COST",
+        "MPC"
+    ]
+}

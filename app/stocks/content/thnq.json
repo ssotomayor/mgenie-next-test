@@ -1,0 +1,89 @@
+{
+    "ticker": "THNQ",
+    "name": "ThinkEquity Holdings, LLC",
+    "description": "ThinkEquity Holdings, LLC is a premier investment banking and research firm specializing in the technology, healthcare, and consumer sectors. Founded in 2001, ThinkEquity offers a wide range of services including equity research, institutional sales, and investment banking advisory. The firm is dedicated to providing high-quality research and insights that help clients make informed investment decisions. With a team of experienced analysts and bankers, ThinkEquity focuses on innovative companies and growth-oriented investments, aiming to bridge the gap between emerging companies and the capital markets. The firm has a strong commitment to fostering relationships with clients and providing tailored solutions that meet their unique needs. ThinkEquity's research team covers a diverse array of industries, and their insights are widely respected across the investment community. The company's mission is to empower clients through exceptional advisory services, insightful research, and strategic funding solutions, thereby contributing to the success of the companies they serve and the investors who trust them.",
+    "industry": [
+        "Investment Banking",
+        "Research"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2001",
+    "website": "http://www.thinkequity.com",
+    "ceo": "Brian McNally",
+    "social_media": {
+        "twitter": "https://twitter.com/ThinkEquity",
+        "linkedin": "https://www.linkedin.com/company/thinkequity/"
+    },
+    "investor_relations": "http://www.thinkequity.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Brian McNally",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity Research",
+            "products": [
+                "Technology Sector Reports",
+                "Healthcare Sector Reports",
+                "Consumer Sector Reports"
+            ]
+        },
+        {
+            "category": "Investment Banking",
+            "products": [
+                "IPO Advisory",
+                "Mergers and Acquisitions",
+                "Private Placements"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "ThinkEquity Holdings, LLC | Investment Banking & Research",
+        "meta_description": "Explore ThinkEquity Holdings, LLC, a leading investment banking firm focused on technology, healthcare, and consumer sectors. Discover our services and insights.",
+        "keywords": [
+            "ThinkEquity",
+            "Investment Banking",
+            "Equity Research",
+            "IPO Advisory",
+            "Mergers and Acquisitions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does ThinkEquity provide?",
+            "answer": "ThinkEquity provides investment banking, equity research, and advisory services to clients in various sectors."
+        },
+        {
+            "question": "Who is the CEO of ThinkEquity?",
+            "answer": "Brian McNally is the CEO of ThinkEquity Holdings, LLC."
+        },
+        {
+            "question": "Where is ThinkEquity headquartered?",
+            "answer": "ThinkEquity is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What sectors does ThinkEquity focus on?",
+            "answer": "ThinkEquity focuses on technology, healthcare, and consumer sectors."
+        },
+        {
+            "question": "When was ThinkEquity founded?",
+            "answer": "ThinkEquity was founded in 2001."
+        }
+    ],
+    "competitors": [
+        "JEFF",
+        "BMO",
+        "COWEN"
+    ],
+    "related_stocks": [
+        "MS",
+        "GS",
+        "LNT"
+    ]
+}

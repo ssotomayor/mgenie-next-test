@@ -1,0 +1,93 @@
+{
+    "ticker": "UHAL",
+    "name": "U-Haul Holding Company",
+    "description": "U-Haul Holding Company is a well-established provider of rental services and storage solutions in North America. Founded in 1945 by Leonard Shoen and his wife, U-Haul revolutionized the moving industry by introducing a self-service moving model, allowing customers to rent trucks and trailers for their relocation needs. The company is best known for its extensive network of rental locations and its iconic orange and white trucks. U-Haul provides a wide range of services, including truck and trailer rentals, self-storage facilities, moving supplies, and packing services. With a commitment to customer convenience, U-Haul has developed a robust online platform that enables customers to reserve rentals and storage units easily. The company is also recognized for its innovative programs, such as U-Box portable storage containers, which offer flexible storage and moving solutions. U-Haul operates in over 1,700 locations across the United States and Canada, making it one of the largest moving and storage companies in North America. Its mission is to ensure that moving is as easy and affordable as possible for its customers. U-Haul continues to adapt to the changing needs of consumers, focusing on sustainability and offering environmentally friendly options such as fuel-efficient trucks and electric vehicle rentals.",
+    "industry": [
+        "Transportation",
+        "Logistics"
+    ],
+    "headquarters": "Phoenix, Arizona, USA",
+    "founded": "1945",
+    "website": "https://www.uhaul.com",
+    "ceo": "Joe Shoen",
+    "social_media": {
+        "twitter": "https://twitter.com/uhaul",
+        "linkedin": "https://www.linkedin.com/company/u-haul/",
+        "facebook": "https://www.facebook.com/uhaul",
+        "instagram": "https://www.instagram.com/uhaul/"
+    },
+    "investor_relations": "https://ir.uhaul.com",
+    "key_executives": [
+        {
+            "name": "Joe Shoen",
+            "position": "CEO"
+        },
+        {
+            "name": "John M. Shoen",
+            "position": "President"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Rental Services",
+            "products": [
+                "Truck Rentals",
+                "Trailer Rentals",
+                "U-Box Portable Storage"
+            ]
+        },
+        {
+            "category": "Storage Solutions",
+            "products": [
+                "Self-Storage Units",
+                "Moving Supplies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "U-Haul Holding Company | Rental and Storage Solutions",
+        "meta_description": "Discover U-Haul Holding Company, a leader in rental services and storage solutions. Explore U-Haul's offerings, mission, and impact on the moving industry.",
+        "keywords": [
+            "U-Haul",
+            "Truck Rentals",
+            "Moving Supplies",
+            "Storage Solutions",
+            "Self-Storage",
+            "U-Box"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does U-Haul offer?",
+            "answer": "U-Haul offers truck and trailer rentals, self-storage solutions, moving supplies, and packing services."
+        },
+        {
+            "question": "Who is the CEO of U-Haul?",
+            "answer": "Joe Shoen is the CEO of U-Haul Holding Company."
+        },
+        {
+            "question": "Where is U-Haul headquartered?",
+            "answer": "U-Haul is headquartered in Phoenix, Arizona, USA."
+        },
+        {
+            "question": "What is U-Box?",
+            "answer": "U-Box is a portable storage solution offered by U-Haul, allowing customers to pack their belongings and store them at their convenience."
+        },
+        {
+            "question": "When was U-Haul founded?",
+            "answer": "U-Haul was founded in 1945."
+        }
+    ],
+    "competitors": [
+        "Penske",
+        "Ryder",
+        "MOVING",
+        "ABF"
+    ],
+    "related_stocks": [
+        "CMI",
+        "WERN",
+        "SNDR",
+        "ODFL"
+    ]
+}

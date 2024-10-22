@@ -1,0 +1,104 @@
+{
+    "ticker": "XLP",
+    "name": "Procter & Gamble Co.",
+    "description": "Procter & Gamble Co. (P&G) is a multinational consumer goods corporation headquartered in Cincinnati, Ohio. Founded in 1837 by William Procter and James Gamble, P&G has grown to become one of the largest and most recognized companies in the world, specializing in a wide array of personal care and hygiene products. The company's extensive portfolio includes well-known brands such as Tide, Pampers, Gillette, and Crest, which serve millions of consumers globally. P&G is committed to sustainability and innovation, continuously striving to reduce its environmental footprint while improving the quality of everyday life for consumers. The company employs advanced technologies and consumer insights to develop products that meet the evolving needs of households. P&G's mission is to provide branded products of superior quality and value that improve the lives of the world's consumers, now and for generations to come. With a strong emphasis on corporate social responsibility, P&G actively engages in community welfare and environmental stewardship initiatives around the globe.",
+    "industry": [
+        "Consumer Goods",
+        "Personal Care"
+    ],
+    "headquarters": "Cincinnati, Ohio, USA",
+    "founded": "1837",
+    "website": "https://www.pg.com",
+    "ceo": "Jon Moeller",
+    "social_media": {
+        "twitter": "https://twitter.com/ProcterGamble",
+        "linkedin": "https://www.linkedin.com/company/procter-gamble/"
+    },
+    "investor_relations": "https://www.pginvestor.com",
+    "key_executives": [
+        {
+            "name": "Jon Moeller",
+            "position": "CEO"
+        },
+        {
+            "name": "Andre Schulten",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Personal Care",
+            "products": [
+                "Gillette",
+                "Old Spice",
+                "Head & Shoulders"
+            ]
+        },
+        {
+            "category": "Baby Care",
+            "products": [
+                "Pampers",
+                "Luvs"
+            ]
+        },
+        {
+            "category": "Home Care",
+            "products": [
+                "Tide",
+                "Febreze"
+            ]
+        },
+        {
+            "category": "Health Care",
+            "products": [
+                "Crest",
+                "Oral-B"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Procter & Gamble Co. | Leading Consumer Goods Company",
+        "meta_description": "Explore Procter & Gamble Co., a leading global consumer goods company dedicated to improving lives through innovative products. Discover P&G's commitment to sustainability and quality.",
+        "keywords": [
+            "Procter & Gamble",
+            "Consumer Goods",
+            "Personal Care",
+            "Sustainability",
+            "P&G Products"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Procter & Gamble do?",
+            "answer": "Procter & Gamble is a multinational consumer goods corporation that produces a wide range of personal care, health care, and household products."
+        },
+        {
+            "question": "Who is the CEO of Procter & Gamble?",
+            "answer": "Jon Moeller is the CEO of Procter & Gamble Co."
+        },
+        {
+            "question": "Where is Procter & Gamble headquartered?",
+            "answer": "Procter & Gamble is headquartered in Cincinnati, Ohio, USA."
+        },
+        {
+            "question": "What are some of P&G's main products?",
+            "answer": "P&G's main products include Tide, Pampers, Gillette, and Crest."
+        },
+        {
+            "question": "When was Procter & Gamble founded?",
+            "answer": "Procter & Gamble was founded in 1837."
+        }
+    ],
+    "competitors": [
+        "UNP",
+        "CL",
+        "KO",
+        "PEP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMZN",
+        "JNJ"
+    ]
+}

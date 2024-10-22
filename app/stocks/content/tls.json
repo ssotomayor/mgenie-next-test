@@ -1,0 +1,100 @@
+{
+    "ticker": "TLS",
+    "name": "Telstra Corporation Limited",
+    "description": "Telstra Corporation Limited is Australia's largest telecommunications and media company, providing a wide range of communications services and products. Founded in 1975, Telstra has grown to become a leading provider of mobile, internet, and pay television services across Australia and the Asia-Pacific region. The company operates a vast telecommunications network, which includes 4G and 5G mobile networks, as well as a robust fiber optic network, enabling high-speed internet access for millions of Australians. Telstra is committed to innovation and has invested heavily in emerging technologies, including IoT (Internet of Things), cloud services, and digital solutions aimed at enhancing customer experience and operational efficiency. With a strong focus on sustainability, Telstra aims to reduce its environmental impact while delivering reliable and quality services to its customers. The company's mission is to connect people and communities, providing the infrastructure and services that empower individuals and businesses to thrive in a digital world.",
+    "industry": [
+        "Telecommunications",
+        "Media"
+    ],
+    "headquarters": "Melbourne, Victoria, Australia",
+    "founded": "1975",
+    "website": "https://www.telstra.com.au",
+    "ceo": "Vicki Brady",
+    "social_media": {
+        "twitter": "https://twitter.com/Telstra",
+        "linkedin": "https://www.linkedin.com/company/telstra",
+        "facebook": "https://www.facebook.com/telstra"
+    },
+    "investor_relations": "https://www.telstra.com.au/investors",
+    "key_executives": [
+        {
+            "name": "Vicki Brady",
+            "position": "CEO"
+        },
+        {
+            "name": "Kylie Watson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Mobile Services",
+            "products": [
+                "Postpaid Mobile Plans",
+                "Prepaid Mobile Plans",
+                "Mobile Broadband"
+            ]
+        },
+        {
+            "category": "Fixed Services",
+            "products": [
+                "NBN Plans",
+                "Home Phone Services",
+                "Internet Bundles"
+            ]
+        },
+        {
+            "category": "Entertainment Services",
+            "products": [
+                "Telstra TV",
+                "Streaming Services",
+                "Content Partnerships"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Telstra Corporation Limited | Australia's Leading Telecommunications Provider",
+        "meta_description": "Explore Telstra Corporation Limited, Australia's largest telecommunications company, providing mobile, internet, and media services. Discover our commitment to innovation and connectivity.",
+        "keywords": [
+            "Telstra",
+            "Telecommunications",
+            "Mobile Services",
+            "Internet",
+            "5G",
+            "NBN",
+            "Digital Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Telstra provide?",
+            "answer": "Telstra provides mobile, internet, and pay television services, along with a range of digital solutions."
+        },
+        {
+            "question": "Who is the CEO of Telstra?",
+            "answer": "The CEO of Telstra Corporation Limited is Vicki Brady."
+        },
+        {
+            "question": "Where is Telstra headquartered?",
+            "answer": "Telstra is headquartered in Melbourne, Victoria, Australia."
+        },
+        {
+            "question": "What are Telstra's main products?",
+            "answer": "Telstra's main products include mobile plans, NBN plans, home phone services, and entertainment services like Telstra TV."
+        },
+        {
+            "question": "When was Telstra founded?",
+            "answer": "Telstra was founded in 1975."
+        }
+    ],
+    "competitors": [
+        "VOD",
+        "T",
+        "CMCSA"
+    ],
+    "related_stocks": [
+        "NOK",
+        "ORAN",
+        "TEF"
+    ]
+}

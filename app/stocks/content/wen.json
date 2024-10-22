@@ -1,0 +1,104 @@
+{
+    "ticker": "WEN",
+    "name": "The Wendy's Company",
+    "description": "The Wendy's Company is a prominent fast-food restaurant chain known for its fresh, high-quality ingredients and commitment to customer satisfaction. Founded in 1969 by Dave Thomas in Columbus, Ohio, Wendy's has grown to become one of the largest hamburger chains in the world, with thousands of locations globally. The company is recognized for its signature square-shaped beef patties, fresh never-frozen beef, and the iconic Frosty dessert. Wendy's menu features a variety of items, including hamburgers, chicken sandwiches, salads, and breakfast options, catering to a wide range of tastes and preferences. In recent years, Wendy's has focused on modernization and innovation, introducing digital ordering, delivery services, and new menu items to keep up with changing consumer demands. The brand is also known for its engaging social media presence and humorous marketing campaigns, which have helped build a loyal customer base. With a strong emphasis on quality and freshness, Wendy's continues to evolve while staying true to its roots and commitment to serving delicious food.",
+    "industry": [
+        "Fast Food",
+        "Restaurant"
+    ],
+    "headquarters": "Dublin, Ohio, USA",
+    "founded": "1969",
+    "website": "https://www.wendys.com",
+    "ceo": "Todd Penegor",
+    "social_media": {
+        "twitter": "https://twitter.com/Wendys",
+        "linkedin": "https://www.linkedin.com/company/wendy's/",
+        "instagram": "https://www.instagram.com/wendys/",
+        "youtube": "https://www.youtube.com/user/Wendys"
+    },
+    "investor_relations": "https://ir.wendys.com",
+    "key_executives": [
+        {
+            "name": "Todd Penegor",
+            "position": "CEO"
+        },
+        {
+            "name": "Gunnar Olson",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/gunnar-olson-946b7a1/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Burgers",
+            "products": [
+                "Wendy's Classic",
+                "Baconator",
+                "Spicy Chicken Sandwich"
+            ]
+        },
+        {
+            "category": "Sides",
+            "products": [
+                "French Fries",
+                "Chili",
+                "Salads"
+            ]
+        },
+        {
+            "category": "Desserts",
+            "products": [
+                "Frosty",
+                "Cookies"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Wendy's | Fresh & Delicious Fast Food",
+        "meta_description": "Discover The Wendy's Company, a leader in the fast-food industry known for fresh ingredients and delicious meals. Explore Wendy's menu and commitment to quality.",
+        "keywords": [
+            "Wendy's",
+            "Fast Food",
+            "Burgers",
+            "Frosty",
+            "Fresh Ingredients",
+            "Restaurant Chain"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Wendy's known for?",
+            "answer": "Wendy's is known for its fresh, high-quality burgers, chicken sandwiches, and the iconic Frosty dessert."
+        },
+        {
+            "question": "Who is the CEO of Wendy's?",
+            "answer": "Todd Penegor is the CEO of The Wendy's Company."
+        },
+        {
+            "question": "Where is Wendy's headquartered?",
+            "answer": "Wendy's is headquartered in Dublin, Ohio, USA."
+        },
+        {
+            "question": "What are Wendy's main products?",
+            "answer": "Wendy's main products include hamburgers, chicken sandwiches, salads, and desserts like the Frosty."
+        },
+        {
+            "question": "When was Wendy's founded?",
+            "answer": "Wendy's was founded in 1969."
+        }
+    ],
+    "competitors": [
+        "MCD",
+        "YUM",
+        "SBUX",
+        "QSR"
+    ],
+    "related_stocks": [
+        "CMG",
+        "SHAK",
+        "DPZ",
+        "WBA"
+    ]
+}

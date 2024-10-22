@@ -1,0 +1,99 @@
+{
+    "ticker": "TXT",
+    "name": "Textron Inc.",
+    "description": "Textron Inc. is a multi-industry company that is a leading global provider of aircraft, defense, industrial, and finance products. Founded in 1923 and headquartered in Providence, Rhode Island, Textron operates through several well-known brands, including Bell Helicopter, Cessna Aircraft Company, and Textron Systems. The company specializes in the design and manufacturing of various products, including military and commercial aircraft, precision weapons, and specialized vehicles. Textron is particularly recognized for its innovative approach in the aviation sector, providing advanced rotorcraft and fixed-wing aircraft that meet a wide range of customer needs. In addition to aviation, Textron's industrial segment includes products like golf cars, side-by-side vehicles, and utility vehicles under the E-Z-GO and Arctic Cat brands. Textron is committed to sustainability and innovation, focusing on reducing environmental impact through advanced manufacturing practices and product development. With a global workforce and a strong footprint in both commercial and defense markets, Textron continues to leverage its technological expertise to address the evolving challenges of its customers around the world.",
+    "industry": [
+        "Aerospace",
+        "Defense",
+        "Industrial Products"
+    ],
+    "headquarters": "Providence, Rhode Island, USA",
+    "founded": "1923",
+    "website": "https://www.textron.com",
+    "ceo": "Scott C. Donnelly",
+    "social_media": {
+        "twitter": "https://twitter.com/Textron",
+        "linkedin": "https://www.linkedin.com/company/textron/"
+    },
+    "investor_relations": "https://investor.textron.com",
+    "key_executives": [
+        {
+            "name": "Scott C. Donnelly",
+            "position": "CEO"
+        },
+        {
+            "name": "Frank D. McCauley",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Aircraft",
+            "products": [
+                "Cessna Citation",
+                "Bell Helicopters"
+            ]
+        },
+        {
+            "category": "Defense",
+            "products": [
+                "Textron Systems",
+                "Precision Weapons"
+            ]
+        },
+        {
+            "category": "Industrial",
+            "products": [
+                "E-Z-GO Golf Cars",
+                "Arctic Cat Side-by-Side Vehicles"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Textron Inc. | Leading Provider of Aircraft and Defense Solutions",
+        "meta_description": "Explore Textron Inc., a multi-industry company specializing in aircraft, defense, and industrial products. Discover Textron's innovative solutions and commitment to sustainability.",
+        "keywords": [
+            "Textron",
+            "Aerospace",
+            "Defense",
+            "Industrial Products",
+            "Aircraft",
+            "Cessna",
+            "Bell Helicopter"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Textron specialize in?",
+            "answer": "Textron specializes in aircraft, defense, and industrial products."
+        },
+        {
+            "question": "Who is the CEO of Textron?",
+            "answer": "Scott C. Donnelly is the CEO of Textron Inc."
+        },
+        {
+            "question": "Where is Textron headquartered?",
+            "answer": "Textron is headquartered in Providence, Rhode Island, USA."
+        },
+        {
+            "question": "What are Textron's main product categories?",
+            "answer": "Textron's main product categories include aircraft, defense solutions, and industrial vehicles."
+        },
+        {
+            "question": "When was Textron founded?",
+            "answer": "Textron was founded in 1923."
+        }
+    ],
+    "competitors": [
+        "BA",
+        "GD",
+        "NOC",
+        "LMT"
+    ],
+    "related_stocks": [
+        "HON",
+        "RTX",
+        "GE",
+        "LMT"
+    ]
+}

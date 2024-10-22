@@ -1,0 +1,88 @@
+{
+    "ticker": "WB",
+    "name": "Weibo Corporation",
+    "description": "Weibo Corporation is a leading social media platform in China, often referred to as the 'Chinese Twitter'. Founded in 2009, Weibo provides a microblogging service that allows users to share short messages, photos, and videos, enabling real-time communication and interaction among users. With over 500 million monthly active users, Weibo serves as a vital platform for individuals, celebrities, and businesses to engage with their audiences. The platform supports various content types, including text, images, and live streaming, and it has become a crucial tool for marketers and brands aiming to reach the Chinese consumer market. Weibo leverages big data and AI technologies to enhance user experience and provide targeted advertising solutions. The company is also involved in facilitating e-commerce, live broadcasting, and social networking, making it an integral part of the digital ecosystem in China. Weibo's mission is to foster open communication and provide an inclusive platform for self-expression and information sharing. As the social media landscape continues to evolve, Weibo remains committed to innovating and adapting to meet the needs of its users.",
+    "industry": [
+        "Social Media",
+        "Technology"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "2009",
+    "website": "https://weibo.com",
+    "ceo": "Gaofei Wang",
+    "social_media": {
+        "twitter": "https://twitter.com/weibo",
+        "linkedin": "https://www.linkedin.com/company/weibo-corporation"
+    },
+    "investor_relations": "https://ir.weibo.com",
+    "key_executives": [
+        {
+            "name": "Gaofei Wang",
+            "position": "CEO"
+        },
+        {
+            "name": "Jing Wang",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Social Media",
+            "products": [
+                "Microblogging Service",
+                "Advertising Solutions",
+                "Data Analytics"
+            ]
+        },
+        {
+            "category": "E-commerce",
+            "products": [
+                "Weibo Store"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Weibo Corporation | Leading Social Media Platform in China",
+        "meta_description": "Explore Weibo Corporation, a major social media platform in China that facilitates real-time communication and engagement. Discover its innovative features and market impact.",
+        "keywords": [
+            "Weibo",
+            "Social Media",
+            "Microblogging",
+            "Chinese Twitter",
+            "E-commerce",
+            "Digital Marketing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Weibo known for?",
+            "answer": "Weibo is known for its microblogging platform that facilitates real-time sharing of content in China."
+        },
+        {
+            "question": "Who is the CEO of Weibo?",
+            "answer": "Gaofei Wang is the CEO of Weibo Corporation."
+        },
+        {
+            "question": "Where is Weibo headquartered?",
+            "answer": "Weibo is headquartered in Beijing, China."
+        },
+        {
+            "question": "What services does Weibo offer?",
+            "answer": "Weibo offers a microblogging service, advertising solutions, and e-commerce features."
+        },
+        {
+            "question": "When was Weibo founded?",
+            "answer": "Weibo was founded in 2009."
+        }
+    ],
+    "competitors": [
+        "SINA",
+        "JD",
+        "BIDU"
+    ],
+    "related_stocks": [
+        "TCEHY",
+        "BABA",
+        "PDD"
+    ]
+}

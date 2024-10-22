@@ -1,0 +1,90 @@
+{
+    "ticker": "TUYA",
+    "name": "Tuya Smart Inc.",
+    "description": "Tuya Smart Inc. is a global IoT (Internet of Things) platform that enables businesses to create smart products and solutions. Founded in 2014, Tuya has emerged as a leader in the smart home and industrial IoT sectors, providing a comprehensive platform that offers cloud services, intelligent hardware, and application development. The company aims to simplify the IoT experience for brands, manufacturers, and developers, allowing them to launch smart devices quickly and efficiently. Tuya's technology supports a wide range of products including lighting, security systems, appliances, and health monitoring devices, all designed to enhance user experience through connectivity and automation. With a focus on innovation, Tuya leverages artificial intelligence, big data, and machine learning to offer scalable and customizable solutions tailored to various industries. The company has established partnerships with numerous global brands, enabling them to integrate smart technology into their offerings. Tuya is committed to building a smarter, more connected world, and continuously invests in research and development to stay at the forefront of the IoT revolution.",
+    "industry": [
+        "Technology",
+        "Internet of Things",
+        "Smart Home"
+    ],
+    "headquarters": "Hangzhou, China",
+    "founded": "2014",
+    "website": "https://www.tuyacn.com",
+    "ceo": "Huang Rong",
+    "social_media": {
+        "twitter": "https://twitter.com/TuyaSmart",
+        "linkedin": "https://www.linkedin.com/company/tuyasmart/"
+    },
+    "investor_relations": "https://ir.tuyacn.com",
+    "key_executives": [
+        {
+            "name": "Huang Rong",
+            "position": "CEO"
+        },
+        {
+            "name": "Liu Yong",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Smart Home Devices",
+            "products": [
+                "Smart Light Bulbs",
+                "Smart Plugs",
+                "Smart Security Cameras"
+            ]
+        },
+        {
+            "category": "Industrial IoT Solutions",
+            "products": [
+                "Smart Sensors",
+                "Connected Appliances"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tuya Smart Inc. | Leading IoT Platform for Smart Products",
+        "meta_description": "Explore Tuya Smart Inc., a global leader in IoT solutions, dedicated to empowering brands and manufacturers with innovative smart home and industrial products.",
+        "keywords": [
+            "Tuya",
+            "IoT",
+            "Smart Home",
+            "Connected Devices",
+            "Smart Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tuya Smart Inc. do?",
+            "answer": "Tuya Smart Inc. provides an IoT platform that allows businesses to create and manage smart products."
+        },
+        {
+            "question": "Who is the CEO of Tuya?",
+            "answer": "Huang Rong is the CEO of Tuya Smart Inc."
+        },
+        {
+            "question": "Where is Tuya headquartered?",
+            "answer": "Tuya is headquartered in Hangzhou, China."
+        },
+        {
+            "question": "What are some products offered by Tuya?",
+            "answer": "Tuya offers a variety of smart home devices, including smart light bulbs, plugs, and security cameras."
+        },
+        {
+            "question": "When was Tuya founded?",
+            "answer": "Tuya was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "AMZN",
+        "GOOGL",
+        "AAPL"
+    ],
+    "related_stocks": [
+        "MSFT",
+        "NFLX",
+        "FB",
+        "SNAP"
+    ]
+}

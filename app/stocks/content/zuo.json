@@ -1,0 +1,84 @@
+{
+    "ticker": "ZUO",
+    "name": "Zuora, Inc.",
+    "description": "Zuora, Inc. is a leading subscription management platform that empowers companies to launch, manage, and optimize their subscription services. Founded in 2007 by Tien Tzuo, Zuora's mission is to help businesses transition from traditional ownership models to subscription-based models, which are becoming increasingly prevalent in today's economy. With its comprehensive suite of tools, Zuora enables organizations to automate billing, revenue recognition, and subscription metrics, helping them to maximize customer lifetime value. The platform integrates seamlessly with various enterprise systems, including CRM and ERP solutions, providing a flexible and scalable solution that caters to businesses of all sizes. Zuora's analytics capabilities allow companies to gain insights into subscriber behavior and financial performance, driving strategic decision-making. The company serves a diverse range of industries, including software, media, telecommunications, and manufacturing, and has established itself as a trusted partner for organizations looking to innovate their business models. As subscription services continue to grow in popularity, Zuora remains at the forefront of this transformation, committed to helping companies succeed in the subscription economy.",
+    "industry": [
+        "Software",
+        "Cloud Computing"
+    ],
+    "headquarters": "San Mateo, California, USA",
+    "founded": "2007",
+    "website": "https://www.zuora.com",
+    "ceo": "Tien Tzuo",
+    "social_media": {
+        "twitter": "https://twitter.com/zuora",
+        "linkedin": "https://www.linkedin.com/company/zuora",
+        "instagram": "https://www.instagram.com/zuorainc/"
+    },
+    "investor_relations": "https://investors.zuora.com",
+    "key_executives": [
+        {
+            "name": "Tien Tzuo",
+            "position": "CEO"
+        },
+        {
+            "name": "Marcy Campbell",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Subscription Management",
+            "products": [
+                "Zuora Billing",
+                "Zuora RevPro",
+                "Zuora Analytics"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Zuora, Inc. | Subscription Management Platform",
+        "meta_description": "Explore Zuora, Inc., a leader in subscription management solutions that enable businesses to thrive in the subscription economy. Discover our innovative products and services.",
+        "keywords": [
+            "Zuora",
+            "Subscription Management",
+            "Billing",
+            "Revenue Recognition",
+            "Cloud Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Zuora do?",
+            "answer": "Zuora provides a subscription management platform that helps businesses manage billing, revenue recognition, and analytics for subscription services."
+        },
+        {
+            "question": "Who is the CEO of Zuora?",
+            "answer": "The CEO of Zuora, Inc. is Tien Tzuo."
+        },
+        {
+            "question": "Where is Zuora headquartered?",
+            "answer": "Zuora is headquartered in San Mateo, California, USA."
+        },
+        {
+            "question": "What are Zuora's main products?",
+            "answer": "Zuora's main products include Zuora Billing, Zuora RevPro, and Zuora Analytics."
+        },
+        {
+            "question": "When was Zuora founded?",
+            "answer": "Zuora was founded in 2007."
+        }
+    ],
+    "competitors": [
+        "CRM",
+        "ADBE",
+        "SAP",
+        "ORCL"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

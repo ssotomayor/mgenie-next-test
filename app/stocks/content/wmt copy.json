@@ -1,0 +1,100 @@
+{
+    "ticker": "WMT",
+    "name": "Walmart Inc.",
+    "description": "Walmart Inc. is a multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores. Founded in 1962 by Sam Walton in Rogers, Arkansas, Walmart has grown to become one of the largest retailers in the world, serving millions of customers every week. The company's mission is to save people money so they can live better, and it achieves this through everyday low prices and a wide selection of products. Walmart offers a diverse range of merchandise, including groceries, electronics, apparel, home goods, and health and beauty products. In addition to its physical stores, Walmart has made significant investments in e-commerce, providing customers with the ability to shop online and offering services such as curbside pickup and home delivery. The company's commitment to sustainability and community engagement is evident through various initiatives aimed at reducing waste, conserving energy, and supporting local economies. Walmart continues to innovate, leveraging technology to enhance the shopping experience and streamline operations. With a workforce of over 2.3 million employees globally, Walmart remains focused on creating a positive work environment and promoting diversity and inclusion within its workforce.",
+    "industry": [
+        "Retail",
+        "E-commerce"
+    ],
+    "headquarters": "Bentonville, Arkansas, USA",
+    "founded": "1962",
+    "website": "https://www.walmart.com",
+    "ceo": "Doug McMillon",
+    "social_media": {
+        "twitter": "https://twitter.com/Walmart",
+        "linkedin": "https://www.linkedin.com/company/walmart/",
+        "instagram": "https://www.instagram.com/walmart/"
+    },
+    "investor_relations": "https://stock.walmart.com",
+    "key_executives": [
+        {
+            "name": "Doug McMillon",
+            "position": "CEO"
+        },
+        {
+            "name": "Brett Biggs",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Groceries",
+            "products": [
+                "Fresh produce",
+                "Meat and poultry",
+                "Dairy products"
+            ]
+        },
+        {
+            "category": "Electronics",
+            "products": [
+                "Televisions",
+                "Computers",
+                "Smartphones"
+            ]
+        },
+        {
+            "category": "Clothing",
+            "products": [
+                "Men's apparel",
+                "Women's apparel",
+                "Children's clothing"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Walmart Inc. | Everyday Low Prices on Groceries and More",
+        "meta_description": "Explore Walmart Inc., the world's leading retailer. Discover everyday low prices on groceries, electronics, clothing, and more at Walmart.",
+        "keywords": [
+            "Walmart",
+            "Retail",
+            "E-commerce",
+            "Groceries",
+            "Everyday Low Prices",
+            "Walmart Stores"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Walmart known for?",
+            "answer": "Walmart is known for its everyday low prices and a wide variety of products ranging from groceries to electronics."
+        },
+        {
+            "question": "Who is the CEO of Walmart?",
+            "answer": "Doug McMillon is the CEO of Walmart Inc."
+        },
+        {
+            "question": "Where is Walmart headquartered?",
+            "answer": "Walmart is headquartered in Bentonville, Arkansas, USA."
+        },
+        {
+            "question": "What are Walmart's main product categories?",
+            "answer": "Walmart's main product categories include groceries, electronics, clothing, and home goods."
+        },
+        {
+            "question": "When was Walmart founded?",
+            "answer": "Walmart was founded in 1962."
+        }
+    ],
+    "competitors": [
+        "COST",
+        "TGT",
+        "AMZN"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "HD"
+    ]
+}

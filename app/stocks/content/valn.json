@@ -1,0 +1,85 @@
+{
+    "ticker": "VALN",
+    "name": "Valneva SE",
+    "description": "Valneva SE is a biotechnology company focused on developing and commercializing innovative vaccines for infectious diseases. Founded in 2013, Valneva is headquartered in Saint-Herblain, France, and has established itself as a leader in the field of vaccine development, particularly in areas where there is a significant unmet medical need. The company's product pipeline includes vaccines for a range of diseases, such as Lyme disease, chikungunya, and COVID-19. Valneva's lead product, the inactivated whole virus vaccine VLA2001, was developed to combat COVID-19 and has been granted conditional marketing authorization in several countries. Valneva is dedicated to addressing public health challenges globally and aims to provide safe and effective vaccination solutions. The company's strong commitment to research and development is evident as it collaborates with various academic and governmental institutions to enhance vaccine technology and expand its product offerings. Valneva's mission revolves around improving global health through vaccination, and it strives to create a healthier future for individuals and communities worldwide.",
+    "industry": [
+        "Biotechnology",
+        "Pharmaceuticals"
+    ],
+    "headquarters": "Saint-Herblain, France",
+    "founded": "2013",
+    "website": "https://www.valneva.com",
+    "ceo": "Thomas Lingelbach",
+    "social_media": {
+        "twitter": "https://twitter.com/valneva",
+        "linkedin": "https://www.linkedin.com/company/valneva/"
+    },
+    "investor_relations": "https://www.valneva.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Thomas Lingelbach",
+            "position": "CEO"
+        },
+        {
+            "name": "David A. H. A. K. J. R. Lemoine",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Vaccines",
+            "products": [
+                "VLA2001 (COVID-19)",
+                "VLA15 (Lyme Disease)",
+                "VLA1553 (Chikungunya)"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Valneva SE | Innovative Vaccines for Infectious Diseases",
+        "meta_description": "Explore Valneva SE, a biotechnology company dedicated to developing innovative vaccines for infectious diseases, including COVID-19, Lyme disease, and chikungunya.",
+        "keywords": [
+            "Valneva",
+            "Vaccines",
+            "Biotechnology",
+            "Infectious Diseases",
+            "COVID-19 Vaccine",
+            "Lyme Disease Vaccine",
+            "Chikungunya Vaccine"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Valneva focus on?",
+            "answer": "Valneva focuses on developing and commercializing innovative vaccines for infectious diseases."
+        },
+        {
+            "question": "Who is the CEO of Valneva?",
+            "answer": "Thomas Lingelbach is the CEO of Valneva SE."
+        },
+        {
+            "question": "Where is Valneva headquartered?",
+            "answer": "Valneva is headquartered in Saint-Herblain, France."
+        },
+        {
+            "question": "What are Valneva's main products?",
+            "answer": "Valneva's main products include VLA2001 (COVID-19), VLA15 (Lyme Disease), and VLA1553 (Chikungunya)."
+        },
+        {
+            "question": "When was Valneva founded?",
+            "answer": "Valneva was founded in 2013."
+        }
+    ],
+    "competitors": [
+        "NVAX",
+        "MRNA",
+        "PFE",
+        "GSK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMGN",
+        "JNJ",
+        "BMY"
+    ]
+}

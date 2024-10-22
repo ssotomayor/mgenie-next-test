@@ -1,0 +1,92 @@
+{
+    "ticker": "VWDRY",
+    "name": "Volkswagen AG",
+    "description": "Volkswagen AG is a leading global automotive manufacturer headquartered in Wolfsburg, Germany. Founded in 1937, the company has evolved into one of the world's largest car producers, renowned for its commitment to quality, innovation, and sustainability. Volkswagen offers a diverse range of vehicles under various brands, including Volkswagen, Audi, Porsche, SEAT, and \u0160koda, catering to a wide spectrum of consumers from compact cars to luxury vehicles. In recent years, Volkswagen has made significant strides towards electrification, committing to invest heavily in electric vehicle (EV) technology and infrastructure. The company's ID. family of electric vehicles, including the ID.3 and ID.4, showcases its dedication to a sustainable future, aiming to reduce carbon emissions and promote cleaner mobility solutions. Volkswagen's ambitious goal is to become a leading player in the EV market while also focusing on autonomous driving technology and digital transformation within the automotive sector. The company is guided by its mission to provide sustainable mobility solutions that meet the evolving needs of society and the environment.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Wolfsburg, Germany",
+    "founded": "1937",
+    "website": "https://www.volkswagen.com",
+    "ceo": "Oliver Blume",
+    "social_media": {
+        "twitter": "https://twitter.com/Volkswagen",
+        "linkedin": "https://www.linkedin.com/company/volkswagen-ag",
+        "instagram": "https://www.instagram.com/volkswagen"
+    },
+    "investor_relations": "https://www.volkswagenag.com/en/InvestorRelations.html",
+    "key_executives": [
+        {
+            "name": "Oliver Blume",
+            "position": "CEO"
+        },
+        {
+            "name": "Alexander Seitz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Cars",
+            "products": [
+                "Volkswagen Golf",
+                "Volkswagen Passat",
+                "Volkswagen Tiguan"
+            ]
+        },
+        {
+            "category": "Electric Vehicles",
+            "products": [
+                "ID.3",
+                "ID.4",
+                "ID. Buzz"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Volkswagen AG | Leading Global Automotive Manufacturer",
+        "meta_description": "Explore Volkswagen AG, a global leader in automotive manufacturing committed to innovation, quality, and sustainability. Discover our range of vehicles, including electric models.",
+        "keywords": [
+            "Volkswagen",
+            "Electric Vehicles",
+            "Automotive",
+            "Sustainability",
+            "ID.3",
+            "ID.4"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Volkswagen known for?",
+            "answer": "Volkswagen is known for manufacturing a wide range of vehicles, including passenger cars and electric vehicles, with a focus on quality and innovation."
+        },
+        {
+            "question": "Who is the CEO of Volkswagen?",
+            "answer": "Oliver Blume is the CEO of Volkswagen AG."
+        },
+        {
+            "question": "Where is Volkswagen headquartered?",
+            "answer": "Volkswagen is headquartered in Wolfsburg, Germany."
+        },
+        {
+            "question": "What are Volkswagen's main products?",
+            "answer": "Volkswagen's main products include various passenger cars and electric vehicles like the ID.3 and ID.4."
+        },
+        {
+            "question": "When was Volkswagen founded?",
+            "answer": "Volkswagen was founded in 1937."
+        }
+    ],
+    "competitors": [
+        "F",
+        "GM",
+        "TSLA",
+        "BMW"
+    ],
+    "related_stocks": [
+        "DDAIF",
+        "HMC",
+        "TM",
+        "F"
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "ticker": "UMBF",
+    "name": "UMB Financial Corporation",
+    "description": "UMB Financial Corporation is a diversified financial services company based in the United States, providing a wide range of banking, investment, and asset management services. Founded in 1913, UMB operates through its various subsidiaries, including UMB Bank, which offers commercial banking, consumer banking, and wealth management services. UMB is known for its strong focus on customer service, innovative financial solutions, and community involvement. The company serves individuals, businesses, and institutions with tailored products such as loans, treasury management, investment management, and trust services. UMB's commitment to technology and digital banking solutions allows it to stay competitive in the rapidly evolving financial landscape. The corporation prioritizes sustainable practices and community engagement, contributing to local economies and supporting philanthropic initiatives. With a mission to enhance the financial well-being of its customers, UMB Financial Corporation continues to expand its presence across the Midwest and beyond, adapting to the changing needs of the market while maintaining its heritage of integrity and service excellence.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Kansas City, Missouri, USA",
+    "founded": "1913",
+    "website": "https://www.umb.com",
+    "ceo": "Mariner Kemper",
+    "social_media": {
+        "twitter": "https://twitter.com/UMBFinancial",
+        "linkedin": "https://www.linkedin.com/company/umb-financial-corporation/"
+    },
+    "investor_relations": "https://ir.umb.com",
+    "key_executives": [
+        {
+            "name": "Mariner Kemper",
+            "position": "CEO"
+        },
+        {
+            "name": "Kathy L. Waller",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Commercial Banking",
+                "Consumer Banking",
+                "Treasury Management"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Investment Management",
+                "Wealth Management",
+                "Trust Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "UMB Financial Corporation | Banking and Financial Services",
+        "meta_description": "Explore UMB Financial Corporation, a leader in banking and financial services offering innovative solutions for individuals and businesses. Discover UMB's commitment to customer service and community engagement.",
+        "keywords": [
+            "UMB Financial",
+            "Banking Services",
+            "Investment Management",
+            "Wealth Management",
+            "Commercial Banking",
+            "Consumer Banking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does UMB Financial Corporation offer?",
+            "answer": "UMB offers a wide range of services including commercial banking, consumer banking, investment management, and wealth management."
+        },
+        {
+            "question": "Who is the CEO of UMB Financial Corporation?",
+            "answer": "Mariner Kemper is the CEO of UMB Financial Corporation."
+        },
+        {
+            "question": "Where is UMB Financial Corporation headquartered?",
+            "answer": "UMB Financial Corporation is headquartered in Kansas City, Missouri, USA."
+        },
+        {
+            "question": "When was UMB Financial Corporation founded?",
+            "answer": "UMB Financial Corporation was founded in 1913."
+        }
+    ],
+    "competitors": [
+        "JPM",
+        "WFC",
+        "USB",
+        "PNC"
+    ],
+    "related_stocks": [
+        "BAC",
+        "C",
+        "GS",
+        "MS"
+    ]
+}

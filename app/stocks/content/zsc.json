@@ -1,0 +1,89 @@
+{
+    "ticker": "ZSC",
+    "name": "Zscaler, Inc.",
+    "description": "Zscaler, Inc. is a leading cloud security company that provides comprehensive solutions designed to secure and accelerate data traffic over the internet. Founded in 2008 by Jay Chaudhry and his team, Zscaler has developed a unique cloud-based architecture that allows enterprises to securely connect users to applications regardless of their location. The company's flagship product, the Zscaler Cloud Security Platform, offers a suite of services including secure web gateways, cloud firewall, and Zero Trust Network Access (ZTNA). Zscaler's Zero Trust approach ensures that security is maintained at all times, protecting users and data without relying on traditional network perimeters. As organizations increasingly adopt cloud services and remote work becomes more prevalent, Zscaler is well-positioned to help businesses mitigate risks associated with cyber threats while maintaining operational efficiency. With a mission to simplify security for the cloud era, Zscaler continues to innovate and expand its offerings, aiming to create a seamless and secure user experience across various devices and networks.",
+    "industry": [
+        "Cloud Security",
+        "Cybersecurity"
+    ],
+    "headquarters": "San Jose, California, USA",
+    "founded": "2008",
+    "website": "https://www.zscaler.com",
+    "ceo": "Jay Chaudhry",
+    "social_media": {
+        "twitter": "https://twitter.com/zscaler",
+        "linkedin": "https://www.linkedin.com/company/zscaler/"
+    },
+    "investor_relations": "https://investors.zscaler.com",
+    "key_executives": [
+        {
+            "name": "Jay Chaudhry",
+            "position": "CEO"
+        },
+        {
+            "name": "Remo Canessa",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Security",
+            "products": [
+                "Zscaler Internet Access",
+                "Zscaler Private Access"
+            ]
+        },
+        {
+            "category": "Security Services",
+            "products": [
+                "Secure Web Gateway",
+                "Cloud Firewall"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Zscaler, Inc. | Leading Cloud Security Solutions",
+        "meta_description": "Explore Zscaler, Inc., a pioneer in cloud security solutions that protect users and data with a Zero Trust approach. Discover our innovative products and services.",
+        "keywords": [
+            "Zscaler",
+            "Cloud Security",
+            "Cybersecurity",
+            "Zero Trust",
+            "Secure Web Gateway"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Zscaler known for?",
+            "answer": "Zscaler is known for its cloud security solutions that provide secure access to applications and data over the internet."
+        },
+        {
+            "question": "Who is the CEO of Zscaler?",
+            "answer": "Jay Chaudhry is the CEO of Zscaler, Inc."
+        },
+        {
+            "question": "Where is Zscaler headquartered?",
+            "answer": "Zscaler is headquartered in San Jose, California, USA."
+        },
+        {
+            "question": "What are Zscaler's main products?",
+            "answer": "Zscaler's main products include Zscaler Internet Access and Zscaler Private Access."
+        },
+        {
+            "question": "When was Zscaler founded?",
+            "answer": "Zscaler was founded in 2008."
+        }
+    ],
+    "competitors": [
+        "NET",
+        "PANW",
+        "FTNT",
+        "CRWD"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

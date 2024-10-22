@@ -1,0 +1,87 @@
+{
+    "ticker": "TBIL",
+    "name": "Tbilisi Bank",
+    "description": "Tbilisi Bank is a leading financial institution based in Georgia, dedicated to providing a full range of banking services to individuals, businesses, and government entities. Established in 1995, the bank has grown to become one of the most trusted names in the Georgian banking sector. Tbilisi Bank offers a comprehensive suite of products including retail banking services such as savings and current accounts, personal loans, mortgages, and credit cards. For businesses, the bank provides tailored solutions including business loans, trade finance, and cash management services. The institution is committed to leveraging technology to enhance customer experience, offering online banking and mobile banking solutions. With a strong focus on customer service and innovative financial products, Tbilisi Bank seeks to foster economic development in the region. The bank places a significant emphasis on corporate social responsibility, engaging in various initiatives that support local communities and promote sustainable practices. Tbilisi Bank aims to maintain a stable and robust financial position while expanding its market presence, contributing to the overall growth of the Georgian economy.",
+    "industry": [
+        "Banking",
+        "Finance"
+    ],
+    "headquarters": "Tbilisi, Georgia",
+    "founded": "1995",
+    "website": "https://www.tbbank.ge",
+    "ceo": "Nino Janelidze",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/tbilisi-bank/"
+    },
+    "investor_relations": "https://www.tbbank.ge/investor-relations",
+    "key_executives": [
+        {
+            "name": "Nino Janelidze",
+            "position": "CEO"
+        },
+        {
+            "name": "Giorgi Kapanadze",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Retail Banking",
+            "products": [
+                "Savings Accounts",
+                "Current Accounts",
+                "Personal Loans",
+                "Mortgages",
+                "Credit Cards"
+            ]
+        },
+        {
+            "category": "Corporate Banking",
+            "products": [
+                "Business Loans",
+                "Trade Finance",
+                "Cash Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tbilisi Bank | Comprehensive Banking Solutions in Georgia",
+        "meta_description": "Explore Tbilisi Bank, a leading financial institution in Georgia, offering a full range of banking services for individuals and businesses. Discover our innovative products and commitment to customer service.",
+        "keywords": [
+            "Tbilisi Bank",
+            "Banking in Georgia",
+            "Retail Banking",
+            "Corporate Banking",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Tbilisi Bank offer?",
+            "answer": "Tbilisi Bank offers a range of services including retail and corporate banking products such as loans, accounts, and trade finance."
+        },
+        {
+            "question": "Who is the CEO of Tbilisi Bank?",
+            "answer": "Nino Janelidze is the CEO of Tbilisi Bank."
+        },
+        {
+            "question": "Where is Tbilisi Bank headquartered?",
+            "answer": "Tbilisi Bank is headquartered in Tbilisi, Georgia."
+        },
+        {
+            "question": "When was Tbilisi Bank founded?",
+            "answer": "Tbilisi Bank was founded in 1995."
+        }
+    ],
+    "competitors": [
+        "TBC",
+        "Bank of Georgia",
+        "Basisbank"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

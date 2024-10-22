@@ -1,0 +1,91 @@
+{
+    "ticker": "TDC",
+    "name": "Teradata Corporation",
+    "description": "Teradata Corporation is a leading provider of data and analytics solutions, empowering organizations to leverage their data for better decision-making and operational efficiency. Founded in 1979, Teradata specializes in data warehousing, big data analytics, and data management, enabling businesses to gain insights from vast amounts of information. The company offers a comprehensive suite of products, including the Teradata Vantage platform, which integrates data from various sources and provides advanced analytics capabilities such as machine learning, data visualization, and artificial intelligence. Teradata serves a diverse range of industries, including finance, healthcare, retail, and telecommunications, helping clients unlock the value of their data and enhance customer experiences. With a commitment to innovation, Teradata invests heavily in research and development, ensuring that its solutions remain at the forefront of technological advancements. The company's mission is to help customers achieve their business objectives by transforming data into actionable insights, thereby fostering a data-driven culture across organizations.",
+    "industry": [
+        "Information Technology",
+        "Data Analytics"
+    ],
+    "headquarters": "San Diego, California, USA",
+    "founded": "1979",
+    "website": "https://www.teradata.com",
+    "ceo": "Hilary Ashton",
+    "social_media": {
+        "twitter": "https://twitter.com/teradata",
+        "linkedin": "https://www.linkedin.com/company/teradata/",
+        "youtube": "https://www.youtube.com/user/Teradata"
+    },
+    "investor_relations": "https://investor.teradata.com",
+    "key_executives": [
+        {
+            "name": "Hilary Ashton",
+            "position": "CEO"
+        },
+        {
+            "name": "Mark Culhane",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Data Analytics Solutions",
+            "products": [
+                "Teradata Vantage",
+                "Teradata QueryGrid"
+            ]
+        },
+        {
+            "category": "Data Management",
+            "products": [
+                "Teradata Data Warehouse",
+                "Teradata Integrated Marketing Cloud"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Teradata Corporation | Data Analytics and Management Solutions",
+        "meta_description": "Explore Teradata Corporation, a leader in data analytics and management. Learn how Teradata's solutions empower businesses to unlock the value of their data.",
+        "keywords": [
+            "Teradata",
+            "Data Analytics",
+            "Data Management",
+            "Big Data",
+            "Machine Learning",
+            "Data Warehouse"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Teradata specialize in?",
+            "answer": "Teradata specializes in data warehousing, big data analytics, and data management solutions."
+        },
+        {
+            "question": "Who is the CEO of Teradata?",
+            "answer": "Hilary Ashton is the CEO of Teradata Corporation."
+        },
+        {
+            "question": "Where is Teradata headquartered?",
+            "answer": "Teradata is headquartered in San Diego, California, USA."
+        },
+        {
+            "question": "What are Teradata's main products?",
+            "answer": "Teradata's main products include the Teradata Vantage platform and Teradata Data Warehouse."
+        },
+        {
+            "question": "When was Teradata founded?",
+            "answer": "Teradata was founded in 1979."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "ORCL",
+        "MSFT",
+        "SAP"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

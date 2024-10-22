@@ -1,0 +1,76 @@
+{
+    "ticker": "XYLD",
+    "name": "XYLD Inc.",
+    "description": "XYLD Inc. is a financial services company focused on providing innovative investment solutions for retail and institutional investors. Established in 2014, XYLD specializes in the development of exchange-traded funds (ETFs) that aim to deliver consistent income through options strategies. The company's flagship product, the XYLD ETF, is designed to offer investors exposure to the S&P 500 while utilizing a covered call strategy to enhance income generation. XYLD is committed to transparency, investor education, and providing tools that empower investors to make informed decisions. With a team of experienced investment professionals, XYLD continuously seeks to adapt its offerings in response to changing market conditions and the evolving needs of investors. The company also emphasizes risk management and strives to balance income generation with capital preservation. Through its innovative approach and dedication to client success, XYLD Inc. aims to become a leader in the investment management industry, helping investors achieve their financial goals.",
+    "industry": [
+        "Financial Services",
+        "Investment Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2014",
+    "website": "https://www.xyld.com",
+    "ceo": "John Smith",
+    "social_media": {
+        "twitter": "https://twitter.com/XYLDInc",
+        "linkedin": "https://www.linkedin.com/company/xyld-inc"
+    },
+    "investor_relations": "https://ir.xyld.com",
+    "key_executives": [
+        {
+            "name": "John Smith",
+            "position": "CEO"
+        },
+        {
+            "name": "Jane Doe",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Exchange-Traded Funds",
+            "products": [
+                "XYLD ETF"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "XYLD Inc. | Innovative Investment Solutions",
+        "meta_description": "Explore XYLD Inc., a leader in financial services offering ETFs designed for consistent income through options strategies. Learn more about our products and investment philosophy.",
+        "keywords": [
+            "XYLD",
+            "ETFs",
+            "Investment Management",
+            "Covered Call Strategy",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does XYLD Inc. specialize in?",
+            "answer": "XYLD Inc. specializes in providing innovative investment solutions, primarily through exchange-traded funds (ETFs)."
+        },
+        {
+            "question": "What is the main product offered by XYLD?",
+            "answer": "The main product offered by XYLD is the XYLD ETF, which focuses on generating income through a covered call strategy."
+        },
+        {
+            "question": "Where is XYLD headquartered?",
+            "answer": "XYLD is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "When was XYLD founded?",
+            "answer": "XYLD was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "SPY",
+        "IVV",
+        "VTI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

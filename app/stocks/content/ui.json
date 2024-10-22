@@ -1,0 +1,92 @@
+{
+    "ticker": "UI",
+    "name": "Ubiquiti Inc.",
+    "description": "Ubiquiti Inc. is a technology company that specializes in wireless communication and networking products. Founded in 2005, Ubiquiti has established itself as a leader in providing innovative solutions for both enterprise and consumer markets. The company's product portfolio includes a wide range of high-performance networking devices, such as routers, switches, access points, and surveillance cameras. Ubiquiti is particularly known for its UniFi product line, which offers a comprehensive suite of networking solutions designed to meet the needs of businesses and service providers. The company leverages cutting-edge technology and a direct-to-consumer sales model, allowing it to deliver high-quality products at competitive prices. Ubiquiti is committed to enhancing connectivity in underserved regions and empowering users with the tools they need for reliable communication. With a focus on scalability and ease of use, Ubiquiti continues to innovate in areas such as Wi-Fi solutions, IoT applications, and cloud management. The company's mission is to enable everyone to access modern networking technology, fostering connectivity and collaboration across the globe.",
+    "industry": [
+        "Technology",
+        "Networking",
+        "Telecommunications"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2005",
+    "website": "https://www.ui.com",
+    "ceo": "Robert Pera",
+    "social_media": {
+        "twitter": "https://twitter.com/ubnt",
+        "linkedin": "https://www.linkedin.com/company/ubiquiti-networks/"
+    },
+    "investor_relations": "https://ir.ui.com",
+    "key_executives": [
+        {
+            "name": "Robert Pera",
+            "position": "CEO"
+        },
+        {
+            "name": "Richard S. L. O\u2019Brien",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Networking",
+            "products": [
+                "UniFi Access Points",
+                "EdgeRouter",
+                "UniFi Switches"
+            ]
+        },
+        {
+            "category": "Surveillance",
+            "products": [
+                "UniFi Protect Cameras",
+                "UniFi Video"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Ubiquiti Inc. | Networking Technology Solutions",
+        "meta_description": "Explore Ubiquiti Inc., a leader in wireless communication and networking technology. Discover innovative products designed for enterprises and consumers.",
+        "keywords": [
+            "Ubiquiti",
+            "Networking",
+            "Wireless Communication",
+            "UniFi",
+            "IoT",
+            "Surveillance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Ubiquiti specialize in?",
+            "answer": "Ubiquiti specializes in wireless communication and networking products."
+        },
+        {
+            "question": "Who is the CEO of Ubiquiti?",
+            "answer": "Robert Pera is the CEO of Ubiquiti Inc."
+        },
+        {
+            "question": "Where is Ubiquiti headquartered?",
+            "answer": "Ubiquiti is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What are Ubiquiti's main product lines?",
+            "answer": "Ubiquiti's main product lines include UniFi networking solutions and surveillance systems."
+        },
+        {
+            "question": "When was Ubiquiti founded?",
+            "answer": "Ubiquiti was founded in 2005."
+        }
+    ],
+    "competitors": [
+        "NETGEAR",
+        "TPR",
+        "MRVL",
+        "CSCO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

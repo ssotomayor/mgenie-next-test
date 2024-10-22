@@ -1,0 +1,96 @@
+{
+    "ticker": "TAP.A",
+    "name": "Molson Coors Beverage Company",
+    "description": "Molson Coors Beverage Company is a global leader in the beverage industry, known for its rich heritage and a diverse portfolio of iconic beer brands. Established in 1786, Molson Coors has evolved through numerous mergers and acquisitions to become one of the largest brewers in the world. The company produces a wide range of alcoholic beverages including beer, hard seltzers, and non-alcoholic drinks, catering to various consumer preferences. Famous brands under its umbrella include Coors Light, Miller Lite, Molson Canadian, and Blue Moon, among others. In recent years, Molson Coors has been focusing on innovation and sustainability, expanding its offerings to include craft and flavored beers as well as low-calorie and health-conscious options. The company's commitment to environmental stewardship is evident in its efforts to reduce carbon emissions, conserve water, and promote recycling. With its headquarters in Chicago, Illinois, Molson Coors is dedicated to satisfying the evolving tastes of consumers while upholding a legacy of brewing excellence. The company continues to adapt to market trends, embracing digital marketing and e-commerce strategies to enhance consumer engagement.",
+    "industry": [
+        "Beverage",
+        "Alcoholic Beverages"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1786",
+    "website": "https://www.molsoncoors.com",
+    "ceo": "Gavin Hattersley",
+    "social_media": {
+        "twitter": "https://twitter.com/MolsonCoors",
+        "linkedin": "https://www.linkedin.com/company/molson-coors-beverage-company",
+        "instagram": "https://www.instagram.com/molsoncoors",
+        "facebook": "https://www.facebook.com/MolsonCoors/"
+    },
+    "investor_relations": "https://investors.molsoncoors.com",
+    "key_executives": [
+        {
+            "name": "Gavin Hattersley",
+            "position": "CEO"
+        },
+        {
+            "name": "Tracey Joubert",
+            "position": "CFO",
+            "social_media": {
+                "linkedin": "https://www.linkedin.com/in/tracey-joubert-0b50001/"
+            }
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Beer",
+            "products": [
+                "Coors Light",
+                "Miller Lite",
+                "Molson Canadian",
+                "Blue Moon"
+            ]
+        },
+        {
+            "category": "Hard Seltzers",
+            "products": [
+                "Vizzy",
+                "Coors Seltzer"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Molson Coors Beverage Company | Leaders in the Beverage Industry",
+        "meta_description": "Explore Molson Coors Beverage Company, a global leader in brewing with a diverse portfolio of beer and beverage brands. Discover our commitment to innovation and sustainability.",
+        "keywords": [
+            "Molson Coors",
+            "Beer",
+            "Beverage",
+            "Sustainability",
+            "Craft Beer",
+            "Hard Seltzer"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Molson Coors produce?",
+            "answer": "Molson Coors produces a variety of alcoholic beverages including beer, hard seltzers, and non-alcoholic drinks."
+        },
+        {
+            "question": "Who is the CEO of Molson Coors?",
+            "answer": "Gavin Hattersley is the CEO of Molson Coors Beverage Company."
+        },
+        {
+            "question": "Where is Molson Coors headquartered?",
+            "answer": "Molson Coors is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What are some of Molson Coors' popular brands?",
+            "answer": "Some popular brands include Coors Light, Miller Lite, Molson Canadian, and Blue Moon."
+        },
+        {
+            "question": "When was Molson Coors founded?",
+            "answer": "Molson Coors was founded in 1786."
+        }
+    ],
+    "competitors": [
+        "BUD",
+        "SAM",
+        "HEINY"
+    ],
+    "related_stocks": [
+        "PEP",
+        "KO",
+        "GIS",
+        "CPB"
+    ]
+}

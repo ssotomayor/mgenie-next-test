@@ -1,0 +1,87 @@
+{
+    "ticker": "YELLQ",
+    "name": "Yellow Corporation",
+    "description": "Yellow Corporation, formerly known as YRC Worldwide Inc., is a leading provider of transportation and logistics services in North America. Founded in 1924, the company specializes in less-than-truckload (LTL) shipping and offers a wide array of supply chain solutions through its extensive network of terminals and distribution centers. Yellow operates several brands, including YRC Freight, Holland, Reddaway, and New Penn, each catering to different regional and national freight needs. With a commitment to reliability and customer service, Yellow has built a reputation for delivering goods efficiently and effectively across the United States and Canada. The company also emphasizes sustainability in its operations, investing in fuel-efficient technologies and practices aimed at reducing its carbon footprint. Yellow's strategic initiatives focus on enhancing operational efficiency, improving service offerings, and expanding its market reach to meet the evolving demands of its customers. By leveraging technology and innovation, Yellow aims to streamline logistics processes and strengthen its position in the competitive transportation industry.",
+    "industry": [
+        "Transportation",
+        "Logistics"
+    ],
+    "headquarters": "Overland Park, Kansas, USA",
+    "founded": "1924",
+    "website": "https://www.yellowcorp.com",
+    "ceo": "Darren Hawkins",
+    "social_media": {
+        "twitter": "https://twitter.com/YellowCorp",
+        "linkedin": "https://www.linkedin.com/company/yellow-corporation/"
+    },
+    "investor_relations": "https://investor.yellowcorp.com",
+    "key_executives": [
+        {
+            "name": "Darren Hawkins",
+            "position": "CEO"
+        },
+        {
+            "name": "Terry R. Reddick",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Transportation Services",
+            "products": [
+                "Less-than-Truckload (LTL)",
+                "Truckload Services",
+                "Logistics Solutions"
+            ]
+        },
+        {
+            "category": "Specialty Services",
+            "products": [
+                "Cross-Border Services",
+                "Expedited Shipping",
+                "Supply Chain Management"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Yellow Corporation | Transportation and Logistics Services",
+        "meta_description": "Discover Yellow Corporation, a leading provider of transportation and logistics solutions in North America. Explore their services, commitment to sustainability, and market impact.",
+        "keywords": [
+            "Yellow Corporation",
+            "Transportation",
+            "Logistics",
+            "LTL Shipping",
+            "Supply Chain Solutions"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Yellow Corporation provide?",
+            "answer": "Yellow Corporation provides transportation and logistics services, specializing in less-than-truckload (LTL) shipping."
+        },
+        {
+            "question": "Who is the CEO of Yellow Corporation?",
+            "answer": "Darren Hawkins is the CEO of Yellow Corporation."
+        },
+        {
+            "question": "Where is Yellow Corporation headquartered?",
+            "answer": "Yellow Corporation is headquartered in Overland Park, Kansas, USA."
+        },
+        {
+            "question": "When was Yellow Corporation founded?",
+            "answer": "Yellow Corporation was founded in 1924."
+        }
+    ],
+    "competitors": [
+        "JBHT",
+        "ODFL",
+        "KNX",
+        "XPO"
+    ],
+    "related_stocks": [
+        "UPS",
+        "FDX",
+        "DAL",
+        "LUV"
+    ]
+}

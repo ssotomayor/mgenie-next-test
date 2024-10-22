@@ -1,0 +1,90 @@
+{
+    "ticker": "TUA",
+    "name": "Tua Technologies, Inc.",
+    "description": "Tua Technologies, Inc. is a cutting-edge software company specializing in artificial intelligence and machine learning solutions for businesses across various sectors. Founded in 2015, Tua aims to empower companies to harness the power of data through innovative technologies that enhance decision-making and operational efficiency. The company offers a suite of products that includes predictive analytics, natural language processing, and automated machine learning tools. Tua's flagship product, Tua AI Suite, allows enterprises to integrate advanced analytics into their workflows, providing actionable insights that drive performance and growth. With a focus on user-friendly interfaces and seamless integration, Tua ensures that organizations can leverage AI capabilities without requiring extensive technical expertise. The company is committed to ethical AI practices and transparency, working closely with clients to tailor solutions to their specific needs. Tua Technologies has established itself as a trusted partner for businesses looking to stay competitive in an increasingly data-driven world, emphasizing innovation, reliability, and customer satisfaction as core tenets of its mission.",
+    "industry": [
+        "Software",
+        "Artificial Intelligence"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.tuatechnologies.com",
+    "ceo": "Jessica Tran",
+    "social_media": {
+        "twitter": "https://twitter.com/TuaTech",
+        "linkedin": "https://www.linkedin.com/company/tua-technologies"
+    },
+    "investor_relations": "https://ir.tuatechnologies.com",
+    "key_executives": [
+        {
+            "name": "Jessica Tran",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Lee",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "AI Solutions",
+            "products": [
+                "Tua AI Suite",
+                "Predictive Analytics Tool",
+                "Natural Language Processing Engine"
+            ]
+        },
+        {
+            "category": "Data Integration",
+            "products": [
+                "Data Connect",
+                "ETL Pipeline Builder"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tua Technologies, Inc. | AI and Machine Learning Solutions",
+        "meta_description": "Explore Tua Technologies, Inc., a leader in AI software solutions. Discover innovative tools designed to enhance business performance through data-driven insights.",
+        "keywords": [
+            "Tua Technologies",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Predictive Analytics",
+            "Data Integration"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tua Technologies do?",
+            "answer": "Tua Technologies specializes in artificial intelligence and machine learning solutions for businesses."
+        },
+        {
+            "question": "Who is the CEO of Tua Technologies?",
+            "answer": "Jessica Tran is the CEO of Tua Technologies, Inc."
+        },
+        {
+            "question": "Where is Tua Technologies headquartered?",
+            "answer": "Tua Technologies is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Tua's main products?",
+            "answer": "Tua's main products include the Tua AI Suite, Predictive Analytics Tool, and Natural Language Processing Engine."
+        },
+        {
+            "question": "When was Tua Technologies founded?",
+            "answer": "Tua Technologies was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "MSFT",
+        "GOOGL",
+        "IBM",
+        "SNOW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "CRM",
+        "ORCL"
+    ]
+}

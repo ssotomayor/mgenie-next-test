@@ -1,0 +1,86 @@
+{
+    "ticker": "UPWK",
+    "name": "Upwork Inc.",
+    "description": "Upwork Inc. is a leading online platform that connects businesses and freelancers from around the world, enabling them to collaborate on projects remotely. Founded in 2015 through the merger of two pioneering companies, Elance and oDesk, Upwork has transformed the way businesses find and hire talented professionals across various fields. The platform offers a wide range of services, including writing, graphic design, web development, marketing, and customer support, catering to both startups and established enterprises. With a user-friendly interface and robust tools for project management, communication, and payment processing, Upwork ensures a seamless experience for both clients and freelancers. The company is committed to helping freelancers build their careers and businesses find the right talent quickly and efficiently. Upwork's mission is to create economic opportunities so people have better lives, and it continues to innovate with features like Upwork Enterprise, designed for larger organizations, and a focus on enhancing the freelancer experience through skills training and support. As the workforce evolves, Upwork remains at the forefront of the remote work revolution, empowering professionals to work from anywhere while helping companies access a global talent pool.",
+    "industry": [
+        "Online Marketplaces",
+        "Freelancing"
+    ],
+    "headquarters": "Santa Clara, California, USA",
+    "founded": "2015",
+    "website": "https://www.upwork.com",
+    "ceo": "Hayden Brown",
+    "social_media": {
+        "twitter": "https://twitter.com/Upwork",
+        "linkedin": "https://www.linkedin.com/company/upwork/"
+    },
+    "investor_relations": "https://investors.upwork.com",
+    "key_executives": [
+        {
+            "name": "Hayden Brown",
+            "position": "CEO"
+        },
+        {
+            "name": "Jeff McCombs",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Freelance Marketplace",
+            "products": [
+                "Web Development",
+                "Design & Creative",
+                "Writing & Translation",
+                "Sales & Marketing",
+                "Customer Service"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Upwork Inc. | Freelance Marketplace for Businesses and Freelancers",
+        "meta_description": "Discover Upwork Inc., the leading platform connecting businesses with freelancers across the globe. Explore how Upwork empowers remote work and economic opportunities.",
+        "keywords": [
+            "Upwork",
+            "Freelance Marketplace",
+            "Remote Work",
+            "Gig Economy",
+            "Freelancers",
+            "Online Jobs"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Upwork?",
+            "answer": "Upwork is an online platform that connects businesses with freelancers for various projects."
+        },
+        {
+            "question": "Who is the CEO of Upwork?",
+            "answer": "Hayden Brown is the CEO of Upwork Inc."
+        },
+        {
+            "question": "Where is Upwork headquartered?",
+            "answer": "Upwork is headquartered in Santa Clara, California, USA."
+        },
+        {
+            "question": "What services does Upwork offer?",
+            "answer": "Upwork offers services in web development, design, writing, marketing, and customer support."
+        },
+        {
+            "question": "When was Upwork founded?",
+            "answer": "Upwork was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "FIVN",
+        "LYFT",
+        "TAL",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "ZM"
+    ]
+}

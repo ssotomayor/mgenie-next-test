@@ -1,0 +1,91 @@
+{
+    "ticker": "TMFG",
+    "name": "The Motley Fool Group",
+    "description": "The Motley Fool Group, founded in 1993 by brothers Tom and David Gardner, is a financial services company that provides investment advisory services and a wealth of information to individual investors. The company aims to help investors make smarter decisions and achieve their financial goals through insightful analysis and recommendations. With a mission to educate and empower investors, The Motley Fool offers a variety of subscription services, including stock recommendations, financial education, and premium content. The firm's flagship product, Stock Advisor, provides subscribers with stock picks and insights from experienced analysts, emphasizing long-term investing strategies. The Motley Fool is also known for its engaging content, including podcasts, articles, and videos, which cover market trends, investment strategies, and personal finance tips. The company has built a strong community of investors who appreciate its straightforward and often contrarian approach to investing. Over the years, The Motley Fool has received numerous accolades for its investment performance and customer service, cementing its reputation as a leader in the financial advisory space. With a focus on transparency and accountability, The Motley Fool continues to be a trusted resource for investors looking for guidance in the ever-changing financial landscape.",
+    "industry": [
+        "Financial Services",
+        "Investment Advisory"
+    ],
+    "headquarters": "Alexandria, Virginia, USA",
+    "founded": "1993",
+    "website": "https://www.fool.com",
+    "ceo": "Tom Gardner",
+    "social_media": {
+        "twitter": "https://twitter.com/themotleyfool",
+        "linkedin": "https://www.linkedin.com/company/the-motley-fool/"
+    },
+    "investor_relations": "https://www.fool.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Tom Gardner",
+            "position": "CEO"
+        },
+        {
+            "name": "David Gardner",
+            "position": "Co-Founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Investment Advisory Services",
+            "products": [
+                "Stock Advisor",
+                "Rule Breakers",
+                "Motley Fool Wealth Management"
+            ]
+        },
+        {
+            "category": "Educational Content",
+            "products": [
+                "Podcasts",
+                "Articles",
+                "Videos"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Motley Fool Group | Investment Advisory and Financial Education",
+        "meta_description": "Explore The Motley Fool Group, a leader in investment advisory services. Discover stock recommendations, financial education, and insights to help you achieve your financial goals.",
+        "keywords": [
+            "The Motley Fool",
+            "Investment Advisory",
+            "Stock Recommendations",
+            "Financial Education",
+            "Personal Finance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does The Motley Fool offer?",
+            "answer": "The Motley Fool offers investment advisory services, stock recommendations, and educational content for individual investors."
+        },
+        {
+            "question": "Who founded The Motley Fool?",
+            "answer": "The Motley Fool was founded by brothers Tom and David Gardner in 1993."
+        },
+        {
+            "question": "What is the flagship product of The Motley Fool?",
+            "answer": "The flagship product is Stock Advisor, which provides stock picks and insights."
+        },
+        {
+            "question": "Where is The Motley Fool headquartered?",
+            "answer": "The Motley Fool is headquartered in Alexandria, Virginia, USA."
+        },
+        {
+            "question": "What is The Motley Fool's mission?",
+            "answer": "The Motley Fool's mission is to educate and empower investors to make smarter decisions."
+        }
+    ],
+    "competitors": [
+        "MSMF",
+        "TROW",
+        "SCHW",
+        "BLK"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "NFLX"
+    ]
+}

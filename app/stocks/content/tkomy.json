@@ -1,0 +1,83 @@
+{
+    "ticker": "TKOMY",
+    "name": "Toko Marine Ltd.",
+    "description": "Toko Marine Ltd. is a leading global provider of maritime services and solutions, specializing in shipping, logistics, and marine engineering. Established in 1990, Toko Marine has built a strong reputation for delivering high-quality services to clients in the shipping and offshore industries. The company operates a diverse fleet of vessels and has a comprehensive portfolio of services that includes ship management, cargo handling, and marine consultancy. Toko Marine is committed to sustainability and innovation, investing in advanced technologies to enhance operational efficiency and reduce environmental impact. The company also focuses on safety and compliance, ensuring that all operations adhere to the highest international standards. With its headquarters in Tokyo, Japan, Toko Marine extends its reach across Asia and beyond, providing tailored solutions to meet the unique needs of its clients. Toko Marine's mission is to contribute to the global maritime industry by fostering sustainable practices and driving technological advancements.",
+    "industry": [
+        "Maritime",
+        "Logistics"
+    ],
+    "headquarters": "Tokyo, Japan",
+    "founded": "1990",
+    "website": "https://www.tokomarine.com",
+    "ceo": "Kazuo Tanaka",
+    "social_media": {
+        "twitter": "https://twitter.com/TokoMarine",
+        "linkedin": "https://www.linkedin.com/company/tokomarine/"
+    },
+    "investor_relations": "https://ir.tokomarine.com",
+    "key_executives": [
+        {
+            "name": "Kazuo Tanaka",
+            "position": "CEO"
+        },
+        {
+            "name": "Hiroshi Yamamoto",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Shipping Services",
+            "products": [
+                "Vessel Management",
+                "Cargo Handling"
+            ]
+        },
+        {
+            "category": "Marine Engineering",
+            "products": [
+                "Consultancy Services",
+                "Fleet Maintenance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Toko Marine Ltd. | Leading Provider of Maritime Services",
+        "meta_description": "Explore Toko Marine Ltd., a global leader in maritime services, offering shipping, logistics, and marine engineering solutions. Discover our commitment to sustainability and innovation.",
+        "keywords": [
+            "Toko Marine",
+            "Maritime Services",
+            "Shipping",
+            "Logistics",
+            "Marine Engineering"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Toko Marine offer?",
+            "answer": "Toko Marine offers a range of services including vessel management, cargo handling, and marine consultancy."
+        },
+        {
+            "question": "Who is the CEO of Toko Marine?",
+            "answer": "Kazuo Tanaka is the CEO of Toko Marine Ltd."
+        },
+        {
+            "question": "Where is Toko Marine headquartered?",
+            "answer": "Toko Marine is headquartered in Tokyo, Japan."
+        },
+        {
+            "question": "When was Toko Marine founded?",
+            "answer": "Toko Marine was founded in 1990."
+        }
+    ],
+    "competitors": [
+        "DPW",
+        "HMM",
+        "ZIM"
+    ],
+    "related_stocks": [
+        "APL",
+        "MATXF",
+        "CSX"
+    ]
+}

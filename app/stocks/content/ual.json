@@ -1,0 +1,93 @@
+{
+    "ticker": "UAL",
+    "name": "United Airlines Holdings, Inc.",
+    "description": "United Airlines Holdings, Inc. is a major American airline headquartered in Chicago, Illinois. Founded in 1926, United Airlines operates a comprehensive domestic and international route network, with a significant presence in both North America and international markets. The airline is known for its commitment to providing a superior travel experience, featuring modern aircraft, a wide range of in-flight services, and an extensive loyalty program called MileagePlus. United is a founding member of the Star Alliance, which allows it to offer customers seamless travel options and benefits across a global network of partner airlines. The company is dedicated to sustainability and has set ambitious goals to reduce carbon emissions and improve fuel efficiency. United Airlines also plays a crucial role in connecting people and cultures, facilitating both business and leisure travel, while continually enhancing its operational efficiency and customer service. With a fleet of over 800 aircraft, United Airlines remains a prominent player in the competitive airline industry, striving to innovate and adapt to the changing landscape of air travel.",
+    "industry": [
+        "Airlines",
+        "Transportation"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1926",
+    "website": "https://www.united.com",
+    "ceo": "Scott Kirby",
+    "social_media": {
+        "twitter": "https://twitter.com/united",
+        "linkedin": "https://www.linkedin.com/company/united-airlines/",
+        "instagram": "https://www.instagram.com/unitedairlines/",
+        "youtube": "https://www.youtube.com/user/UnitedAirlines"
+    },
+    "investor_relations": "https://ir.united.com",
+    "key_executives": [
+        {
+            "name": "Scott Kirby",
+            "position": "CEO"
+        },
+        {
+            "name": "Gerald Laderman",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Air Travel",
+            "products": [
+                "Domestic Flights",
+                "International Flights",
+                "Premium Cabins"
+            ]
+        },
+        {
+            "category": "Cargo Services",
+            "products": [
+                "Freight Transportation",
+                "Express Shipping"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "United Airlines Holdings, Inc. | Major American Airline",
+        "meta_description": "Explore United Airlines Holdings, Inc., a leading airline providing extensive domestic and international air travel options. Discover our commitment to customer service, sustainability, and innovation in air travel.",
+        "keywords": [
+            "United Airlines",
+            "Air Travel",
+            "Aviation",
+            "Sustainability",
+            "MileagePlus",
+            "Scott Kirby"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does United Airlines offer?",
+            "answer": "United Airlines offers passenger air travel, cargo services, and a loyalty program called MileagePlus."
+        },
+        {
+            "question": "Who is the CEO of United Airlines?",
+            "answer": "Scott Kirby is the CEO of United Airlines Holdings, Inc."
+        },
+        {
+            "question": "Where is United Airlines headquartered?",
+            "answer": "United Airlines is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What is MileagePlus?",
+            "answer": "MileagePlus is United Airlines' loyalty program that rewards travelers for flying with United and its partners."
+        },
+        {
+            "question": "When was United Airlines founded?",
+            "answer": "United Airlines was founded in 1926."
+        }
+    ],
+    "competitors": [
+        "AAL",
+        "DAL",
+        "LUV",
+        "JBLU"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

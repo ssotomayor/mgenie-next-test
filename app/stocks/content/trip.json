@@ -1,0 +1,95 @@
+{
+    "ticker": "TRIP",
+    "name": "Tripadvisor, Inc.",
+    "description": "Tripadvisor, Inc. is a leading online travel platform that connects travelers with a comprehensive range of travel experiences, accommodations, and attractions. Founded in 2000, Tripadvisor has revolutionized the way people plan their trips by providing a wealth of user-generated content, including millions of reviews, photos, and opinions on hotels, restaurants, and activities worldwide. The company's mission is to help travelers make informed decisions by providing them with the necessary tools and information to improve their travel experiences. Tripadvisor operates various brands, including Viator, which offers tours and activities, and TheFork, a restaurant reservation platform. By leveraging advanced technology and data analytics, Tripadvisor offers personalized recommendations and travel inspiration to users, enhancing their planning process. The platform also allows businesses in the travel and hospitality sector to reach potential customers through advertising and promotional services. With a focus on user engagement and community-building, Tripadvisor continues to be a trusted resource for millions of travelers globally.",
+    "industry": [
+        "Travel & Tourism",
+        "Technology"
+    ],
+    "headquarters": "Needham, Massachusetts, USA",
+    "founded": "2000",
+    "website": "https://www.tripadvisor.com",
+    "ceo": "Matt Goldberg",
+    "social_media": {
+        "twitter": "https://twitter.com/Tripadvisor",
+        "linkedin": "https://www.linkedin.com/company/tripadvisor/",
+        "instagram": "https://www.instagram.com/tripadvisor/",
+        "facebook": "https://www.facebook.com/Tripadvisor"
+    },
+    "investor_relations": "https://ir.tripadvisor.com",
+    "key_executives": [
+        {
+            "name": "Matt Goldberg",
+            "position": "CEO"
+        },
+        {
+            "name": "Jeremy Verba",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Travel Planning",
+            "products": [
+                "Hotel Reviews",
+                "Restaurant Reviews",
+                "Attraction Reviews"
+            ]
+        },
+        {
+            "category": "Booking Services",
+            "products": [
+                "Hotel Booking",
+                "Restaurant Reservations",
+                "Tour and Activity Booking"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tripadvisor, Inc. | Travel Planning and Booking Services",
+        "meta_description": "Explore Tripadvisor, Inc., a leading online travel platform. Discover millions of reviews, book hotels, restaurants, and activities around the world.",
+        "keywords": [
+            "Tripadvisor",
+            "Travel",
+            "Hotels",
+            "Restaurants",
+            "Travel Reviews",
+            "Activities",
+            "Booking"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Tripadvisor known for?",
+            "answer": "Tripadvisor is known for providing user-generated reviews and content for hotels, restaurants, and travel experiences."
+        },
+        {
+            "question": "Who is the CEO of Tripadvisor?",
+            "answer": "Matt Goldberg is the CEO of Tripadvisor, Inc."
+        },
+        {
+            "question": "Where is Tripadvisor headquartered?",
+            "answer": "Tripadvisor is headquartered in Needham, Massachusetts, USA."
+        },
+        {
+            "question": "What services does Tripadvisor offer?",
+            "answer": "Tripadvisor offers travel planning tools, hotel booking, restaurant reservations, and tour and activity bookings."
+        },
+        {
+            "question": "When was Tripadvisor founded?",
+            "answer": "Tripadvisor was founded in 2000."
+        }
+    ],
+    "competitors": [
+        "BKNG",
+        "EXPE",
+        "TRVG",
+        "ABNB"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "AMZN"
+    ]
+}

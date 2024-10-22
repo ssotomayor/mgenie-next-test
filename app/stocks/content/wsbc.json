@@ -1,0 +1,88 @@
+{
+    "ticker": "WSBC",
+    "name": "WesBanco, Inc.",
+    "description": "WesBanco, Inc. is a diversified, multi-state bank holding company headquartered in Wheeling, West Virginia. Founded in 1870, WesBanco offers a wide range of financial services to individuals and businesses, including banking, investment, and insurance products. The company operates through its subsidiary, WesBanco Bank, which has a strong presence in the Midwest and Northeast regions of the United States. WesBanco is committed to providing exceptional customer service and innovative banking solutions, including online and mobile banking, mortgage lending, wealth management, and commercial banking services. The bank has a solid reputation for financial stability and community involvement, supporting local initiatives and contributing to the economic development of the areas it serves. With a focus on responsible lending and sustainable practices, WesBanco aims to enhance the financial well-being of its clients while maintaining a strong ethical foundation. The company's mission is to be the preferred financial services partner in the communities it serves, leveraging technology and a personalized approach to meet customer needs.",
+    "industry": [
+        "Banking",
+        "Financial Services"
+    ],
+    "headquarters": "Wheeling, West Virginia, USA",
+    "founded": "1870",
+    "website": "https://www.wesbanco.com",
+    "ceo": "Todd F. Clossin",
+    "social_media": {
+        "twitter": "https://twitter.com/wesbanco",
+        "linkedin": "https://www.linkedin.com/company/wesbanco/",
+        "facebook": "https://www.facebook.com/wesbanco"
+    },
+    "investor_relations": "https://www.wesbanco.com/investor-relations",
+    "key_executives": [
+        {
+            "name": "Todd F. Clossin",
+            "position": "CEO"
+        },
+        {
+            "name": "R. Michael Koon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Banking Services",
+            "products": [
+                "Checking Accounts",
+                "Savings Accounts",
+                "Loans"
+            ]
+        },
+        {
+            "category": "Investment Services",
+            "products": [
+                "Wealth Management",
+                "Retirement Planning"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "WesBanco, Inc. | Comprehensive Banking and Financial Services",
+        "meta_description": "Explore WesBanco, Inc., a leading multi-state bank providing a variety of banking and financial services. Discover our commitment to community and customer service.",
+        "keywords": [
+            "WesBanco",
+            "Banking",
+            "Financial Services",
+            "Wealth Management",
+            "Loans",
+            "Investments"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does WesBanco offer?",
+            "answer": "WesBanco offers banking, investment, and insurance services to individuals and businesses."
+        },
+        {
+            "question": "Who is the CEO of WesBanco?",
+            "answer": "Todd F. Clossin is the CEO of WesBanco, Inc."
+        },
+        {
+            "question": "Where is WesBanco headquartered?",
+            "answer": "WesBanco is headquartered in Wheeling, West Virginia, USA."
+        },
+        {
+            "question": "When was WesBanco founded?",
+            "answer": "WesBanco was founded in 1870."
+        }
+    ],
+    "competitors": [
+        "KEY",
+        "PNC",
+        "FHN",
+        "FITB"
+    ],
+    "related_stocks": [
+        "JPM",
+        "BAC",
+        "WFC",
+        "C"
+    ]
+}

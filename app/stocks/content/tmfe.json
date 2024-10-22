@@ -1,0 +1,92 @@
+{
+    "ticker": "TMFE",
+    "name": "The Motley Fool Enterprises, LLC",
+    "description": "The Motley Fool Enterprises, LLC is a financial services company that provides investment advice and analysis to individual investors. Founded in 1993 by brothers David and Tom Gardner, The Motley Fool aims to make the world smarter, happier, and richer by offering its members insights into stock market investing. The company is well-known for its premium subscription services, including Stock Advisor and Rule Breakers, which offer stock recommendations and market analysis based on a long-term investment philosophy. The Motley Fool also publishes a wealth of content, including articles, podcasts, and videos, to educate investors about personal finance and investment strategies. Through its commitment to transparency and research, The Motley Fool has established a large community of investors who share their experiences and insights. The company emphasizes a buy-and-hold approach, focusing on investing in high-quality companies that can thrive over the long term. With a strong online presence and a focus on user engagement, The Motley Fool continues to be a trusted resource for individual investors seeking to build wealth through informed investment choices.",
+    "industry": [
+        "Financial Services",
+        "Investment Advisory"
+    ],
+    "headquarters": "Alexandria, Virginia, USA",
+    "founded": "1993",
+    "website": "https://www.fool.com",
+    "ceo": "Tom Gardner",
+    "social_media": {
+        "twitter": "https://twitter.com/themotleyfool",
+        "linkedin": "https://www.linkedin.com/company/the-motley-fool/",
+        "facebook": "https://www.facebook.com/themotleyfool"
+    },
+    "investor_relations": "https://www.fool.com/investor-relations/",
+    "key_executives": [
+        {
+            "name": "Tom Gardner",
+            "position": "CEO"
+        },
+        {
+            "name": "David Gardner",
+            "position": "Co-Founder"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Subscription Services",
+            "products": [
+                "Stock Advisor",
+                "Rule Breakers",
+                "Motley Fool Pro"
+            ]
+        },
+        {
+            "category": "Educational Content",
+            "products": [
+                "Articles",
+                "Podcasts",
+                "Videos"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "The Motley Fool | Investment Advice & Stock Recommendations",
+        "meta_description": "The Motley Fool provides investment advice and analysis for individual investors. Explore our stock recommendations, educational content, and investment strategies to build wealth over time.",
+        "keywords": [
+            "The Motley Fool",
+            "Investment Advice",
+            "Stock Recommendations",
+            "Personal Finance",
+            "Long-term Investing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does The Motley Fool do?",
+            "answer": "The Motley Fool provides investment advice and analysis to help individual investors make informed investment decisions."
+        },
+        {
+            "question": "Who founded The Motley Fool?",
+            "answer": "The Motley Fool was founded by brothers David and Tom Gardner in 1993."
+        },
+        {
+            "question": "What are The Motley Fool's main services?",
+            "answer": "The Motley Fool offers subscription services like Stock Advisor and Rule Breakers, as well as educational content such as articles and podcasts."
+        },
+        {
+            "question": "Where is The Motley Fool headquartered?",
+            "answer": "The Motley Fool is headquartered in Alexandria, Virginia, USA."
+        },
+        {
+            "question": "How can I access The Motley Fool's services?",
+            "answer": "You can access The Motley Fool's services by visiting their website and subscribing to their premium offerings."
+        }
+    ],
+    "competitors": [
+        "CF",
+        "TROW",
+        "MS",
+        "JPM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+    ]
+}

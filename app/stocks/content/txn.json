@@ -1,0 +1,97 @@
+{
+    "ticker": "TXN",
+    "name": "Texas Instruments Incorporated",
+    "description": "Texas Instruments Incorporated (TI) is a global semiconductor design and manufacturing company that develops analog ICs and embedded processors. Founded in 1930, TI is headquartered in Dallas, Texas, and has a rich history of innovation in the electronics industry. The company is renowned for its high-performance analog and digital signal processing (DSP) technologies, which are essential in a wide range of electronic systems, including smartphones, industrial equipment, automotive applications, and personal electronics. TI's commitment to research and development has positioned it as a leader in the semiconductor space, enabling advancements in areas such as the Internet of Things (IoT), automotive safety, and smart manufacturing. The company operates a diverse portfolio of products, including calculators, microcontrollers, and power management devices, serving customers in various sectors such as telecommunications, automotive, and consumer electronics. Texas Instruments fosters a culture of innovation and sustainability, focusing on minimizing its environmental impact while delivering high-quality products that meet the evolving needs of its global customer base. With a mission to create a better world by making electronics more accessible and efficient, TI continues to push the boundaries of technology, providing essential components that drive modern electronics.",
+    "industry": [
+        "Semiconductors",
+        "Electronics"
+    ],
+    "headquarters": "Dallas, Texas, USA",
+    "founded": "1930",
+    "website": "https://www.ti.com",
+    "ceo": "Haviv Ilan",
+    "social_media": {
+        "twitter": "https://twitter.com/txinstruments",
+        "linkedin": "https://www.linkedin.com/company/texas-instruments/"
+    },
+    "investor_relations": "https://investor.ti.com",
+    "key_executives": [
+        {
+            "name": "Haviv Ilan",
+            "position": "CEO"
+        },
+        {
+            "name": "Eli Y. Glazer",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Analog Products",
+            "products": [
+                "Operational Amplifiers",
+                "Voltage Regulators",
+                "Data Converters"
+            ]
+        },
+        {
+            "category": "Embedded Processors",
+            "products": [
+                "Microcontrollers",
+                "Digital Signal Processors"
+            ]
+        },
+        {
+            "category": "Education Technology",
+            "products": [
+                "Graphing Calculators"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Texas Instruments | Semiconductors and Embedded Solutions",
+        "meta_description": "Explore Texas Instruments, a leader in semiconductor technology, offering innovative solutions in analog and embedded processing. Learn about TI's commitment to sustainability and innovation.",
+        "keywords": [
+            "Texas Instruments",
+            "Semiconductors",
+            "Analog ICs",
+            "Embedded Processors",
+            "Microcontrollers",
+            "DSP"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Texas Instruments specialize in?",
+            "answer": "Texas Instruments specializes in the design and manufacturing of semiconductors, particularly analog ICs and embedded processors."
+        },
+        {
+            "question": "Who is the CEO of Texas Instruments?",
+            "answer": "Haviv Ilan is the CEO of Texas Instruments Incorporated."
+        },
+        {
+            "question": "Where is Texas Instruments headquartered?",
+            "answer": "Texas Instruments is headquartered in Dallas, Texas, USA."
+        },
+        {
+            "question": "What are Texas Instruments' main products?",
+            "answer": "Texas Instruments' main products include analog ICs, embedded processors, and educational technology like calculators."
+        },
+        {
+            "question": "When was Texas Instruments founded?",
+            "answer": "Texas Instruments was founded in 1930."
+        }
+    ],
+    "competitors": [
+        "ADI",
+        "NXPI",
+        "ON",
+        "INTC"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "QCOM",
+        "AVGO"
+    ]
+}

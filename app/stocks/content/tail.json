@@ -1,0 +1,95 @@
+{
+    "ticker": "TAIL",
+    "name": "Tails.com Ltd.",
+    "description": "Tails.com Ltd. is a leading pet food company specializing in personalized dog food solutions. Founded in 2014, Tails.com focuses on delivering tailored nutrition to dogs by utilizing advanced technology and data analysis. The company\u2019s unique subscription model allows pet owners to create a customized diet plan for their dogs, taking into consideration factors such as age, breed, weight, and dietary preferences. Tails.com prides itself on using high-quality, natural ingredients, ensuring that every dog receives the right nutrients for their specific needs. In addition to dog food, the company also offers a range of treats and supplements to support overall canine health. With a commitment to sustainability, Tails.com aims to minimize its environmental impact by using eco-friendly packaging and sourcing ingredients responsibly. The company has gained a strong following among pet owners who appreciate the convenience and quality of its products, as well as its dedication to improving pet nutrition. Tails.com continues to innovate in the pet food industry, leveraging customer feedback and the latest research to enhance its offerings and provide the best possible care for dogs.",
+    "industry": [
+        "Pet Food",
+        "E-commerce"
+    ],
+    "headquarters": "London, United Kingdom",
+    "founded": "2014",
+    "website": "https://tails.com",
+    "ceo": "James Davidson",
+    "social_media": {
+        "twitter": "https://twitter.com/tailsdotcom",
+        "linkedin": "https://www.linkedin.com/company/tails-com/"
+    },
+    "investor_relations": "https://tails.com/investors",
+    "key_executives": [
+        {
+            "name": "James Davidson",
+            "position": "CEO"
+        },
+        {
+            "name": "Simon Vickers",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Dog Food",
+            "products": [
+                "Personalized Dry Food",
+                "Wet Food"
+            ]
+        },
+        {
+            "category": "Dog Treats",
+            "products": [
+                "Natural Treats",
+                "Dental Chews"
+            ]
+        },
+        {
+            "category": "Supplements",
+            "products": [
+                "Vitamins",
+                "Joint Care"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Tails.com | Personalized Dog Food Delivered to Your Door",
+        "meta_description": "Tails.com offers personalized dog food tailored to your dog's unique needs. Discover high-quality ingredients and subscription options for happy, healthy dogs.",
+        "keywords": [
+            "Tails.com",
+            "Dog Food",
+            "Personalized Nutrition",
+            "Pet Care",
+            "Dog Treats"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Tails.com offer?",
+            "answer": "Tails.com offers personalized dog food, treats, and supplements tailored to your dog's needs."
+        },
+        {
+            "question": "How does the subscription work?",
+            "answer": "Customers create a profile for their dog, and Tails.com delivers customized food based on the provided information."
+        },
+        {
+            "question": "Where is Tails.com located?",
+            "answer": "Tails.com is headquartered in London, United Kingdom."
+        },
+        {
+            "question": "Is Tails.com food natural?",
+            "answer": "Yes, Tails.com uses high-quality, natural ingredients in their dog food."
+        },
+        {
+            "question": "When was Tails.com founded?",
+            "answer": "Tails.com was founded in 2014."
+        }
+    ],
+    "competitors": [
+        "WOOF",
+        "PETQ",
+        "CHWY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "TSLA",
+        "NFLX"
+    ]
+}

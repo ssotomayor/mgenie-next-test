@@ -1,0 +1,96 @@
+{
+    "ticker": "WIW",
+    "name": "WisdomTree, Inc.",
+    "description": "WisdomTree, Inc. is an innovative asset management firm headquartered in New York City that specializes in exchange-traded funds (ETFs) and asset management strategies. Founded in 2006, WisdomTree has established itself as a leader in the ETF space, offering a diverse range of products aimed at providing investors with efficient, low-cost access to various asset classes. The company's investment philosophy is centered around the belief that fundamentally weighted strategies can enhance investment performance compared to traditional market capitalization-weighted approaches. WisdomTree's product lineup includes equity, fixed income, and commodity ETFs, with a particular emphasis on international equities and alternative investments. The firm is also recognized for its focus on dividend growth strategies and has been a pioneer in the development of currency-hedged equity ETFs. WisdomTree's commitment to transparency and investor education is evident in its ongoing efforts to provide market insights and research to help investors make informed decisions. With a robust distribution network and a strong suite of investment products, WisdomTree continues to evolve and adapt to the changing landscape of the investment management industry.",
+    "industry": [
+        "Financial Services",
+        "Asset Management"
+    ],
+    "headquarters": "New York, New York, USA",
+    "founded": "2006",
+    "website": "https://www.wisdomtree.com",
+    "ceo": "Jonathan Steinberg",
+    "social_media": {
+        "twitter": "https://twitter.com/WisdomTreeETFs",
+        "linkedin": "https://www.linkedin.com/company/wisdomtree-investments/"
+    },
+    "investor_relations": "https://www.wisdomtree.com/ir",
+    "key_executives": [
+        {
+            "name": "Jonathan Steinberg",
+            "position": "CEO"
+        },
+        {
+            "name": "Samantha B. McLemore",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Equity ETFs",
+            "products": [
+                "WisdomTree U.S. Quality Dividend Growth Fund",
+                "WisdomTree Emerging Markets Quality Dividend Growth Fund"
+            ]
+        },
+        {
+            "category": "Fixed Income ETFs",
+            "products": [
+                "WisdomTree Negative Duration U.S. Treasury Fund",
+                "WisdomTree U.S. Aggregate Bond Fund"
+            ]
+        },
+        {
+            "category": "Commodity ETFs",
+            "products": [
+                "WisdomTree Gold Strategy Fund",
+                "WisdomTree Natural Gas Fund"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "WisdomTree, Inc. | Innovative ETFs and Asset Management",
+        "meta_description": "Discover WisdomTree, Inc., a leader in exchange-traded funds and asset management. Learn more about our innovative investment strategies and ETF offerings.",
+        "keywords": [
+            "WisdomTree",
+            "ETFs",
+            "Asset Management",
+            "Dividend Growth",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is WisdomTree known for?",
+            "answer": "WisdomTree is known for its innovative exchange-traded funds (ETFs) and investment strategies."
+        },
+        {
+            "question": "Who is the CEO of WisdomTree?",
+            "answer": "Jonathan Steinberg is the CEO of WisdomTree, Inc."
+        },
+        {
+            "question": "Where is WisdomTree headquartered?",
+            "answer": "WisdomTree is headquartered in New York, New York, USA."
+        },
+        {
+            "question": "What types of products does WisdomTree offer?",
+            "answer": "WisdomTree offers a variety of ETFs including equity, fixed income, and commodity products."
+        },
+        {
+            "question": "When was WisdomTree founded?",
+            "answer": "WisdomTree was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "BLK",
+        "IVZ",
+        "VTI",
+        "SGOV"
+    ],
+    "related_stocks": [
+        "SPY",
+        "VTI",
+        "IVV",
+        "VOO"
+    ]
+}

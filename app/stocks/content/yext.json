@@ -1,0 +1,87 @@
+{
+    "ticker": "YEXT",
+    "name": "Yext, Inc.",
+    "description": "Yext, Inc. is a leading digital knowledge management platform that helps businesses manage their online presence across various platforms and devices. Founded in 2006 and headquartered in New York City, Yext specializes in providing solutions that enable companies to control their brand information across search engines, maps, apps, and social media. The company's flagship product, the Yext Knowledge Engine, allows businesses to organize and synchronize their public-facing information, making it easier for customers to find accurate information about their services, locations, and offerings. Yext's innovative technology supports a wide range of industries, including retail, healthcare, finance, and hospitality, helping organizations improve their visibility and engagement with customers. With a commitment to empowering businesses through data accuracy and insights, Yext continues to expand its capabilities in areas such as artificial intelligence, analytics, and local search optimization. The company's mission is to provide the most accurate and comprehensive digital knowledge for businesses, ensuring that customers find the right information at the right time.",
+    "industry": [
+        "Technology",
+        "Software"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "2006",
+    "website": "https://www.yext.com",
+    "ceo": "Howard Lerman",
+    "social_media": {
+        "twitter": "https://twitter.com/yext",
+        "linkedin": "https://www.linkedin.com/company/yext/"
+    },
+    "investor_relations": "https://investors.yext.com",
+    "key_executives": [
+        {
+            "name": "Howard Lerman",
+            "position": "CEO"
+        },
+        {
+            "name": "Cathy O'Neil",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Knowledge Management",
+            "products": [
+                "Yext Knowledge Engine",
+                "Yext Answers"
+            ]
+        },
+        {
+            "category": "Listings Management",
+            "products": [
+                "Yext Listings"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Yext, Inc. | Digital Knowledge Management Platform",
+        "meta_description": "Discover Yext, Inc., a leader in digital knowledge management. Learn how Yext helps businesses manage their online presence and improve customer engagement.",
+        "keywords": [
+            "Yext",
+            "Digital Knowledge Management",
+            "Online Presence",
+            "Local Search",
+            "Data Accuracy"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Yext known for?",
+            "answer": "Yext is known for its digital knowledge management platform that helps businesses manage their online presence."
+        },
+        {
+            "question": "Who is the CEO of Yext?",
+            "answer": "Howard Lerman is the CEO of Yext, Inc."
+        },
+        {
+            "question": "Where is Yext headquartered?",
+            "answer": "Yext is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Yext's main products?",
+            "answer": "Yext's main products include the Yext Knowledge Engine and Yext Listings."
+        },
+        {
+            "question": "When was Yext founded?",
+            "answer": "Yext was founded in 2006."
+        }
+    ],
+    "competitors": [
+        "GOOG",
+        "MSFT",
+        "ZS"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "FB",
+        "NFLX"
+    ]
+}

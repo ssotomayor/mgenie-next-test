@@ -1,0 +1,89 @@
+{
+    "ticker": "WIT",
+    "name": "Wipro Limited",
+    "description": "Wipro Limited is a leading global information technology, consulting, and business process services company, headquartered in Bangalore, India. Founded in 1945, Wipro has evolved from a vegetable oil manufacturer to a major player in the IT services sector, serving clients across various industries, including finance, healthcare, manufacturing, and technology. The company offers a wide range of services, including digital transformation, cloud services, cybersecurity, and application development, helping organizations harness the power of technology to drive innovation and improve efficiency. Wipro is committed to sustainability and social responsibility, making significant investments in green energy initiatives and community development programs. With a strong global presence in over 50 countries and a workforce of more than 200,000 professionals, Wipro is dedicated to delivering high-quality solutions tailored to meet the unique needs of its clients. The company continues to innovate and expand its portfolio, leveraging technologies such as artificial intelligence, machine learning, and the Internet of Things (IoT) to create value for its customers and shape the future of businesses worldwide.",
+    "industry": [
+        "Information Technology",
+        "Consulting"
+    ],
+    "headquarters": "Bangalore, India",
+    "founded": "1945",
+    "website": "https://www.wipro.com",
+    "ceo": "Thierry Delaporte",
+    "social_media": {
+        "twitter": "https://twitter.com/wipro",
+        "linkedin": "https://www.linkedin.com/company/wipro",
+        "youtube": "https://www.youtube.com/user/wipro"
+    },
+    "investor_relations": "https://www.wipro.com/investors/",
+    "key_executives": [
+        {
+            "name": "Thierry Delaporte",
+            "position": "CEO"
+        },
+        {
+            "name": "Jatin Dalal",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "IT Services",
+            "products": [
+                "Application Development",
+                "Cloud Services",
+                "Cybersecurity",
+                "Digital Transformation"
+            ]
+        },
+        {
+            "category": "Consulting",
+            "products": [
+                "Business Process Services",
+                "Advisory Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Wipro Limited | Leading IT Services and Consulting Company",
+        "meta_description": "Explore Wipro Limited, a global leader in information technology and consulting services, committed to delivering innovative solutions to enhance business performance.",
+        "keywords": [
+            "Wipro",
+            "IT Services",
+            "Consulting",
+            "Digital Transformation",
+            "Cloud Services",
+            "Cybersecurity"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does Wipro offer?",
+            "answer": "Wipro offers IT services, consulting, and business process services, including digital transformation and cloud services."
+        },
+        {
+            "question": "Who is the CEO of Wipro?",
+            "answer": "Thierry Delaporte is the CEO of Wipro Limited."
+        },
+        {
+            "question": "Where is Wipro headquartered?",
+            "answer": "Wipro is headquartered in Bangalore, India."
+        },
+        {
+            "question": "When was Wipro founded?",
+            "answer": "Wipro was founded in 1945."
+        }
+    ],
+    "competitors": [
+        "INFY",
+        "TCS",
+        "HCLTECH",
+        "TECHM"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

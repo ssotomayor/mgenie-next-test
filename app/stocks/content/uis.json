@@ -1,0 +1,98 @@
+{
+    "ticker": "UIS",
+    "name": "Unisys Corporation",
+    "description": "Unisys Corporation is a global information technology company that specializes in providing IT services and solutions to businesses and governments. Established in 1986, Unisys has evolved from its origins in computer hardware to become a leader in cloud computing, cybersecurity, and digital transformation. The company offers a wide range of services, including application services, cloud and infrastructure services, and enterprise computing solutions. Unisys is known for its innovative technology offerings, such as the Unisys CloudForte platform, which enables businesses to seamlessly migrate to and manage hybrid cloud environments. With a strong emphasis on security, Unisys provides advanced cybersecurity solutions designed to protect sensitive data and ensure compliance with industry regulations. The company serves clients across various sectors, including financial services, healthcare, government, and transportation, helping them to improve operational efficiency and achieve strategic objectives. Unisys is committed to sustainability and corporate responsibility, employing practices that promote environmental stewardship and social equity. The company's mission is to deliver high-value technology solutions that empower organizations to thrive in an increasingly digital world.",
+    "industry": [
+        "Information Technology",
+        "Cloud Computing",
+        "Cybersecurity"
+    ],
+    "headquarters": "Blue Bell, Pennsylvania, USA",
+    "founded": "1986",
+    "website": "https://www.unisys.com",
+    "ceo": "Peter Altabef",
+    "social_media": {
+        "twitter": "https://twitter.com/unisys",
+        "linkedin": "https://www.linkedin.com/company/unisys/"
+    },
+    "investor_relations": "https://investors.unisys.com",
+    "key_executives": [
+        {
+            "name": "Peter Altabef",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Thompson",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Unisys CloudForte",
+                "Cloud Management Services"
+            ]
+        },
+        {
+            "category": "Cybersecurity Solutions",
+            "products": [
+                "Stealth Security",
+                "Data Protection Services"
+            ]
+        },
+        {
+            "category": "Application Services",
+            "products": [
+                "Application Modernization",
+                "Digital Workplace Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Unisys Corporation | IT Services and Solutions",
+        "meta_description": "Explore Unisys Corporation, a leader in IT services, cloud computing, and cybersecurity. Discover how Unisys helps organizations navigate digital transformation.",
+        "keywords": [
+            "Unisys",
+            "IT Services",
+            "Cloud Computing",
+            "Cybersecurity",
+            "Digital Transformation",
+            "Unisys CloudForte"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Unisys do?",
+            "answer": "Unisys provides IT services and solutions including cloud computing, cybersecurity, and digital transformation."
+        },
+        {
+            "question": "Who is the CEO of Unisys?",
+            "answer": "Peter Altabef is the CEO of Unisys Corporation."
+        },
+        {
+            "question": "Where is Unisys headquartered?",
+            "answer": "Unisys is headquartered in Blue Bell, Pennsylvania, USA."
+        },
+        {
+            "question": "What are Unisys's main products?",
+            "answer": "Unisys's main products include CloudForte, cybersecurity solutions, and application services."
+        },
+        {
+            "question": "When was Unisys founded?",
+            "answer": "Unisys was founded in 1986."
+        }
+    ],
+    "competitors": [
+        "IBM",
+        "CGI",
+        "DXC",
+        "HPE"
+    ],
+    "related_stocks": [
+        "ACN",
+        "ORCL",
+        "MSFT",
+        "CSCO"
+    ]
+}

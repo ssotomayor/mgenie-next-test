@@ -1,0 +1,104 @@
+{
+    "ticker": "VLVLY",
+    "name": "Valeo SE",
+    "description": "Valeo SE is a global automotive supplier headquartered in France, specializing in the design, production, and sale of a wide range of components and systems for the automotive industry. Founded in 1923, Valeo operates in 33 countries, employing over 100,000 people. The company is dedicated to the development of innovative technologies that enhance vehicle performance, safety, and environmental sustainability. Valeo's offerings include products for powertrain systems, thermal systems, visibility systems, and driving assistance technologies. As the automotive industry transitions towards electric vehicles and increased automation, Valeo is at the forefront of this evolution, investing heavily in research and development. The company aims to reduce vehicle emissions and improve energy efficiency through its advanced technologies, such as electric powertrain components and smart mobility solutions. Valeo's commitment to sustainable development is evident in its initiatives to minimize its environmental impact while providing solutions that meet the evolving needs of automakers and consumers alike. With a strong focus on innovation, Valeo collaborates with leading car manufacturers and technology companies to drive the future of mobility.",
+    "industry": [
+        "Automotive",
+        "Manufacturing"
+    ],
+    "headquarters": "Paris, France",
+    "founded": "1923",
+    "website": "https://www.valeo.com",
+    "ceo": "Jacques Aschenbroich",
+    "social_media": {
+        "twitter": "https://twitter.com/Valeo",
+        "linkedin": "https://www.linkedin.com/company/valeo/"
+    },
+    "investor_relations": "https://www.valeo.com/en/investors/",
+    "key_executives": [
+        {
+            "name": "Jacques Aschenbroich",
+            "position": "CEO"
+        },
+        {
+            "name": "Christophe Perillat",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Powertrain Systems",
+            "products": [
+                "Electric Powertrain",
+                "Transmission Systems"
+            ]
+        },
+        {
+            "category": "Thermal Systems",
+            "products": [
+                "Cooling Systems",
+                "Air Conditioning Systems"
+            ]
+        },
+        {
+            "category": "Visibility Systems",
+            "products": [
+                "Lighting Systems",
+                "Wiper Systems"
+            ]
+        },
+        {
+            "category": "Driving Assistance Technologies",
+            "products": [
+                "ADAS Solutions",
+                "Sensors"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Valeo SE | Innovative Automotive Supplier",
+        "meta_description": "Discover Valeo SE, a global leader in automotive technology and innovation, dedicated to sustainable mobility and advanced vehicle systems.",
+        "keywords": [
+            "Valeo",
+            "Automotive Supplier",
+            "Electric Vehicles",
+            "Sustainable Mobility",
+            "Vehicle Safety",
+            "Driving Assistance"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Valeo specialize in?",
+            "answer": "Valeo specializes in automotive components and systems, focusing on innovation for vehicle performance and sustainability."
+        },
+        {
+            "question": "Who is the CEO of Valeo?",
+            "answer": "Jacques Aschenbroich is the CEO of Valeo SE."
+        },
+        {
+            "question": "Where is Valeo headquartered?",
+            "answer": "Valeo is headquartered in Paris, France."
+        },
+        {
+            "question": "What are Valeo's main product categories?",
+            "answer": "Valeo's main product categories include powertrain systems, thermal systems, visibility systems, and driving assistance technologies."
+        },
+        {
+            "question": "When was Valeo founded?",
+            "answer": "Valeo was founded in 1923."
+        }
+    ],
+    "competitors": [
+        "Aptiv",
+        "Magna International",
+        "Continental AG",
+        "Denso"
+    ],
+    "related_stocks": [
+        "BMW",
+        "GM",
+        "FCAU",
+        "TSLA"
+    ]
+}

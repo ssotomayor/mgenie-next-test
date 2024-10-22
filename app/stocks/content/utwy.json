@@ -1,0 +1,91 @@
+{
+    "ticker": "UTWY",
+    "name": "Unity Technologies, Inc.",
+    "description": "Unity Technologies, Inc. is a leading platform for creating and operating interactive, real-time 3D content. Founded in 2004, Unity has grown to become one of the most influential companies in the gaming and real-time 3D industries. The company's flagship product, the Unity engine, is widely used by game developers to create immersive experiences across multiple platforms, including mobile, console, and virtual reality. Unity is not just limited to gaming; its technology is utilized in various industries such as automotive, architecture, film, and education, allowing creators to bring their visions to life with stunning graphics and performance. Unity's commitment to democratizing game development is evident through its extensive resources for developers, including tutorials, asset stores, and community support. With the rapid growth of the metaverse and augmented reality, Unity is strategically positioned to lead in the development of next-generation interactive content. The company's mission is to empower creators to build and operate the most engaging and dynamic experiences possible, making it a cornerstone of the digital content ecosystem.",
+    "industry": [
+        "Software",
+        "Gaming",
+        "Technology"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2004",
+    "website": "https://unity.com",
+    "ceo": "John Riccitiello",
+    "social_media": {
+        "twitter": "https://twitter.com/unity3d",
+        "linkedin": "https://www.linkedin.com/company/unity-technologies/"
+    },
+    "investor_relations": "https://investor.unity.com",
+    "key_executives": [
+        {
+            "name": "John Riccitiello",
+            "position": "CEO"
+        },
+        {
+            "name": "Gina Loveless",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Game Development",
+            "products": [
+                "Unity Engine",
+                "Unity Asset Store"
+            ]
+        },
+        {
+            "category": "Real-Time 3D",
+            "products": [
+                "Unity Reflect",
+                "Unity MARS"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Unity Technologies, Inc. | 3D Development Platform",
+        "meta_description": "Explore Unity Technologies, a leader in real-time 3D content creation. Learn about Unity's innovative engine, applications beyond gaming, and impact on diverse industries.",
+        "keywords": [
+            "Unity",
+            "Game Development",
+            "Real-Time 3D",
+            "Interactive Experiences",
+            "Augmented Reality",
+            "Virtual Reality"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Unity Technologies known for?",
+            "answer": "Unity Technologies is known for its Unity engine, a leading platform for creating and operating real-time 3D content."
+        },
+        {
+            "question": "Who is the CEO of Unity Technologies?",
+            "answer": "John Riccitiello is the CEO of Unity Technologies, Inc."
+        },
+        {
+            "question": "Where is Unity Technologies headquartered?",
+            "answer": "Unity Technologies is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are the main products of Unity Technologies?",
+            "answer": "Unity's main products include the Unity Engine and Unity Asset Store."
+        },
+        {
+            "question": "When was Unity Technologies founded?",
+            "answer": "Unity Technologies was founded in 2004."
+        }
+    ],
+    "competitors": [
+        "ADBE",
+        "EA",
+        "ZNGA",
+        "ATVI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

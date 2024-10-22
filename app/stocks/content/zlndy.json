@@ -1,0 +1,103 @@
+{
+    "ticker": "ZLNDY",
+    "name": "Zalando SE",
+    "description": "Zalando SE is a leading European online fashion and lifestyle retailer headquartered in Berlin, Germany. Founded in 2008, Zalando has rapidly grown to become a prominent player in the e-commerce sector, offering a wide range of products from numerous brands across the fashion spectrum. The company provides customers with access to an extensive selection of clothing, shoes, accessories, and beauty products, catering to diverse styles and preferences. Zalando's platform emphasizes customer experience, featuring personalized shopping recommendations, easy returns, and a user-friendly interface. Additionally, Zalando is committed to sustainability and has initiated several programs aimed at reducing its environmental impact, including sustainable fashion collections and initiatives to promote circular economy practices. With a focus on technology and innovation, Zalando leverages data analytics and artificial intelligence to enhance its operations and customer engagement. The company's mission is to be the starting point for fashion in Europe, striving to inspire customers with a curated assortment of products and a seamless shopping experience.",
+    "industry": [
+        "E-commerce",
+        "Retail",
+        "Fashion"
+    ],
+    "headquarters": "Berlin, Germany",
+    "founded": "2008",
+    "website": "https://www.zalando.com",
+    "ceo": "Alain Caparros",
+    "social_media": {
+        "twitter": "https://twitter.com/zalando",
+        "linkedin": "https://www.linkedin.com/company/zalando/",
+        "instagram": "https://www.instagram.com/zalando/"
+    },
+    "investor_relations": "https://corporate.zalando.com/en/investor-relations",
+    "key_executives": [
+        {
+            "name": "Alain Caparros",
+            "position": "CEO"
+        },
+        {
+            "name": "David Schneider",
+            "position": "COO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Clothing",
+            "products": [
+                "Men's Fashion",
+                "Women's Fashion",
+                "Kids' Fashion"
+            ]
+        },
+        {
+            "category": "Footwear",
+            "products": [
+                "Sneakers",
+                "Boots",
+                "Sandals"
+            ]
+        },
+        {
+            "category": "Accessories",
+            "products": [
+                "Bags",
+                "Jewelry",
+                "Watches"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Zalando SE | Your Online Fashion Destination",
+        "meta_description": "Explore Zalando SE, Europe\u2019s leading online fashion retailer, offering a vast selection of clothing, shoes, and accessories. Discover your style today.",
+        "keywords": [
+            "Zalando",
+            "Online Fashion Retailer",
+            "E-commerce",
+            "Sustainable Fashion",
+            "Clothing",
+            "Shoes",
+            "Accessories"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Zalando sell?",
+            "answer": "Zalando sells a wide range of fashion items including clothing, shoes, accessories, and beauty products."
+        },
+        {
+            "question": "Where is Zalando headquartered?",
+            "answer": "Zalando is headquartered in Berlin, Germany."
+        },
+        {
+            "question": "Who is the CEO of Zalando?",
+            "answer": "The CEO of Zalando is Alain Caparros."
+        },
+        {
+            "question": "When was Zalando founded?",
+            "answer": "Zalando was founded in 2008."
+        },
+        {
+            "question": "Does Zalando offer sustainable products?",
+            "answer": "Yes, Zalando offers a selection of sustainable fashion products and is committed to reducing its environmental impact."
+        }
+    ],
+    "competitors": [
+        "ASOS",
+        "AMZN",
+        "H&M",
+        "MELI"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "FB"
+    ]
+}

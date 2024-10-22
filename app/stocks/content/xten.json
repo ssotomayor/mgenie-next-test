@@ -1,0 +1,82 @@
+{
+    "ticker": "XTEN",
+    "name": "Xten Technologies Inc.",
+    "description": "Xten Technologies Inc. is a forward-thinking company specializing in advanced communication technologies and solutions. Founded in 2015, Xten aims to revolutionize the way businesses and individuals connect by providing cutting-edge products that enhance communication efficiency and effectiveness. The company focuses on developing software solutions for voice over IP (VoIP), video conferencing, and unified communications, catering to a diverse range of clients, from small businesses to large enterprises. Xten is recognized for its innovative platform that integrates various communication channels, enabling seamless interaction across devices and locations. The company's flagship product, Xten Connect, offers a comprehensive suite of features including high-definition video calls, instant messaging, and collaboration tools designed to streamline workflows and improve productivity. Xten Technologies is committed to delivering exceptional user experiences and continuously invests in research and development to stay at the forefront of the rapidly evolving tech landscape. With a mission to empower organizations through enhanced communication capabilities, Xten is poised to make a significant impact in the telecommunications industry.",
+    "industry": [
+        "Technology",
+        "Telecommunications"
+    ],
+    "headquarters": "San Francisco, California, USA",
+    "founded": "2015",
+    "website": "https://www.xtentech.com",
+    "ceo": "Jessica Brown",
+    "social_media": {
+        "twitter": "https://twitter.com/XtenTech",
+        "linkedin": "https://www.linkedin.com/company/xten-technologies/"
+    },
+    "investor_relations": "https://ir.xtentech.com",
+    "key_executives": [
+        {
+            "name": "Jessica Brown",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael Smith",
+            "position": "CTO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Communication Software",
+            "products": [
+                "Xten Connect",
+                "Xten Video Conferencing",
+                "Xten VoIP Solutions"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Xten Technologies Inc. | Advanced Communication Solutions",
+        "meta_description": "Explore Xten Technologies Inc., a leader in advanced communication solutions. Discover our innovative products designed to enhance connectivity and collaboration.",
+        "keywords": [
+            "Xten Technologies",
+            "VoIP",
+            "Video Conferencing",
+            "Unified Communications",
+            "Communication Software"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Xten Technologies specialize in?",
+            "answer": "Xten Technologies specializes in advanced communication technologies, including VoIP and video conferencing solutions."
+        },
+        {
+            "question": "Who is the CEO of Xten Technologies?",
+            "answer": "Jessica Brown is the CEO of Xten Technologies Inc."
+        },
+        {
+            "question": "Where is Xten Technologies headquartered?",
+            "answer": "Xten Technologies is headquartered in San Francisco, California, USA."
+        },
+        {
+            "question": "What are Xten's main products?",
+            "answer": "Xten's main products include Xten Connect, Xten Video Conferencing, and Xten VoIP Solutions."
+        },
+        {
+            "question": "When was Xten Technologies founded?",
+            "answer": "Xten Technologies was founded in 2015."
+        }
+    ],
+    "competitors": [
+        "TWLO",
+        "ZM",
+        "MSFT"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "FB"
+    ]
+}

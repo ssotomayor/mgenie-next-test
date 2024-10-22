@@ -1,0 +1,95 @@
+{
+    "ticker": "TM",
+    "name": "Toyota Motor Corporation",
+    "description": "Toyota Motor Corporation is a global leader in the automotive industry, renowned for its commitment to quality, innovation, and sustainability. Founded in 1937 by Kiichiro Toyoda, Toyota has consistently been at the forefront of automotive technology, producing a wide range of vehicles from compact cars to trucks and luxury vehicles. The company is particularly recognized for its pioneering work in hybrid technology with the iconic Toyota Prius, which has set the standard for fuel efficiency and environmental responsibility. Toyota's dedication to sustainability goes beyond hybrid vehicles; the company is investing heavily in hydrogen fuel cell technology and electric vehicles as part of its strategy to reduce carbon emissions and promote sustainable mobility. With a strong focus on safety and quality, Toyota has established itself as a trusted brand worldwide, delivering vehicles that meet the diverse needs of customers. The company's mission is to create a sustainable society through innovative transportation solutions, emphasizing the importance of harmony between people, society, and the environment.",
+    "industry": [
+        "Automotive"
+    ],
+    "headquarters": "Toyota City, Aichi Prefecture, Japan",
+    "founded": "1937",
+    "website": "https://www.toyota-global.com",
+    "ceo": "Akio Toyoda",
+    "social_media": {
+        "twitter": "https://twitter.com/Toyota",
+        "linkedin": "https://www.linkedin.com/company/toyota-motor-corporation/",
+        "instagram": "https://www.instagram.com/toyotausa/",
+        "youtube": "https://www.youtube.com/user/Toyota"
+    },
+    "investor_relations": "https://ir.toyota.co.jp/en/",
+    "key_executives": [
+        {
+            "name": "Akio Toyoda",
+            "position": "President and CEO"
+        },
+        {
+            "name": "Kenta Kon",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Passenger Vehicles",
+            "products": [
+                "Corolla",
+                "Camry",
+                "RAV4",
+                "Highlander"
+            ]
+        },
+        {
+            "category": "Hybrid and Electric Vehicles",
+            "products": [
+                "Prius",
+                "RAV4 Hybrid",
+                "Mirai"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Toyota Motor Corporation | Leading Automotive Innovator",
+        "meta_description": "Explore Toyota Motor Corporation, a global leader in the automotive industry known for quality, innovation, and sustainability. Discover Toyota's commitment to hybrid technology and electric vehicles.",
+        "keywords": [
+            "Toyota",
+            "Automotive",
+            "Hybrid Vehicles",
+            "Electric Vehicles",
+            "Sustainability",
+            "Prius",
+            "Akio Toyoda"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Toyota known for?",
+            "answer": "Toyota is known for its quality vehicles, pioneering hybrid technology, and commitment to sustainability."
+        },
+        {
+            "question": "Who is the CEO of Toyota?",
+            "answer": "Akio Toyoda is the President and CEO of Toyota Motor Corporation."
+        },
+        {
+            "question": "Where is Toyota headquartered?",
+            "answer": "Toyota is headquartered in Toyota City, Aichi Prefecture, Japan."
+        },
+        {
+            "question": "What are Toyota's main products?",
+            "answer": "Toyota's main products include passenger vehicles like the Corolla and Camry, as well as hybrids like the Prius and Mirai."
+        },
+        {
+            "question": "When was Toyota founded?",
+            "answer": "Toyota was founded in 1937."
+        }
+    ],
+    "competitors": [
+        "F",
+        "GM",
+        "HMC",
+        "BMW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "AMZN",
+        "TSLA",
+        "GM"
+    ]
+}

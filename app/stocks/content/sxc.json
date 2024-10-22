@@ -1,0 +1,100 @@
+{
+    "ticker": "SXC",
+    "name": "Suncor Energy Inc.",
+    "description": "Suncor Energy Inc. is a Canadian integrated energy company that specializes in the production of oil and gas. Founded in 1919, Suncor is a pioneer in the development of oil sands and is committed to sustainable energy production. The company operates in all aspects of the energy sector, including exploration, extraction, refining, and distribution of crude oil and petroleum products. Suncor is known for its significant investments in renewable energy and its commitment to reducing greenhouse gas emissions. The company operates the largest oil sands production facility in the world and has diversified its operations to include wind power and solar energy projects. Suncor's mission is to provide reliable energy while minimizing environmental impact and supporting the communities in which it operates. With a focus on innovation and efficiency, Suncor aims to be a leader in the transition to a sustainable energy future.",
+    "industry": [
+        "Energy",
+        "Oil and Gas"
+    ],
+    "headquarters": "Calgary, Alberta, Canada",
+    "founded": "1919",
+    "website": "https://www.suncor.com",
+    "ceo": "Mark Little",
+    "social_media": {
+        "twitter": "https://twitter.com/Suncor",
+        "linkedin": "https://www.linkedin.com/company/suncor-energy",
+        "facebook": "https://www.facebook.com/SuncorEnergy",
+        "instagram": "https://www.instagram.com/suncorenergy"
+    },
+    "investor_relations": "https://www.suncor.com/en/investors",
+    "key_executives": [
+        {
+            "name": "Mark Little",
+            "position": "CEO"
+        },
+        {
+            "name": "Alister Cowan",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Crude Oil and Natural Gas",
+            "products": [
+                "Oil Sands",
+                "Conventional Oil and Gas"
+            ]
+        },
+        {
+            "category": "Refined Products",
+            "products": [
+                "Gasoline",
+                "Diesel",
+                "Jet Fuel"
+            ]
+        },
+        {
+            "category": "Renewable Energy",
+            "products": [
+                "Wind Power",
+                "Solar Energy"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Suncor Energy Inc. | Integrated Energy Company",
+        "meta_description": "Explore Suncor Energy Inc., a leader in oil and gas production and renewable energy solutions. Discover Suncor's commitment to sustainability and innovation.",
+        "keywords": [
+            "Suncor",
+            "Oil Sands",
+            "Renewable Energy",
+            "Energy Production",
+            "Sustainable Energy",
+            "Mark Little"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Suncor Energy do?",
+            "answer": "Suncor Energy is an integrated energy company involved in oil and gas production, refining, and renewable energy."
+        },
+        {
+            "question": "Who is the CEO of Suncor Energy?",
+            "answer": "Mark Little is the CEO of Suncor Energy Inc."
+        },
+        {
+            "question": "Where is Suncor Energy headquartered?",
+            "answer": "Suncor Energy is headquartered in Calgary, Alberta, Canada."
+        },
+        {
+            "question": "What are Suncor's main products?",
+            "answer": "Suncor's main products include crude oil, gasoline, diesel, jet fuel, and renewable energy from wind and solar."
+        },
+        {
+            "question": "When was Suncor Energy founded?",
+            "answer": "Suncor Energy was founded in 1919."
+        }
+    ],
+    "competitors": [
+        "CNQ",
+        "SU",
+        "IMO",
+        "HP"
+    ],
+    "related_stocks": [
+        "XOM",
+        "CVX",
+        "BP",
+        "RDS.A"
+    ]
+}

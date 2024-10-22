@@ -1,0 +1,91 @@
+{
+    "ticker": "TRIN",
+    "name": "Trinity Industries, Inc.",
+    "description": "Trinity Industries, Inc. is a diversified industrial company founded in 1933, specializing in the design, manufacturing, and supply of rail-related products and services. With a strong presence in the transportation sector, Trinity provides a broad range of products including railcars, railcar leasing, and other rail-related services. The company is committed to enhancing the efficiency and safety of rail transportation through innovative solutions and advanced manufacturing techniques. Over the decades, Trinity has expanded its operations beyond the rail industry, engaging in the manufacturing of wind towers, concrete products, and other industrial services, which support renewable energy initiatives and infrastructure development. With operational headquarters in Dallas, Texas, Trinity serves a global customer base and is known for its dedication to quality, performance, and sustainability in all its business practices. The company's mission is to provide safe, efficient, and innovative solutions that meet the evolving needs of its customers while contributing to a sustainable future.",
+    "industry": [
+        "Transportation",
+        "Manufacturing"
+    ],
+    "headquarters": "Dallas, Texas, USA",
+    "founded": "1933",
+    "website": "https://www.trinityindustries.com",
+    "ceo": "Jean Savage",
+    "social_media": {
+        "twitter": "https://twitter.com/TrinityInd",
+        "linkedin": "https://www.linkedin.com/company/trinity-industries/"
+    },
+    "investor_relations": "https://investors.trinityindustries.com",
+    "key_executives": [
+        {
+            "name": "Jean Savage",
+            "position": "CEO"
+        },
+        {
+            "name": "E. John McKissick",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Rail Products",
+            "products": [
+                "Freight Cars",
+                "Tank Cars",
+                "Railcar Leasing"
+            ]
+        },
+        {
+            "category": "Industrial Products",
+            "products": [
+                "Wind Towers",
+                "Concrete Products"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Trinity Industries, Inc. | Rail and Industrial Solutions",
+        "meta_description": "Explore Trinity Industries, Inc., a leader in rail-related products and services. Discover our innovative solutions for transportation and industrial needs.",
+        "keywords": [
+            "Trinity Industries",
+            "Rail Products",
+            "Freight Cars",
+            "Railcar Leasing",
+            "Wind Towers",
+            "Industrial Manufacturing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Trinity Industries do?",
+            "answer": "Trinity Industries specializes in rail-related products and services, including manufacturing freight cars and providing railcar leasing."
+        },
+        {
+            "question": "Who is the CEO of Trinity Industries?",
+            "answer": "Jean Savage is the CEO of Trinity Industries, Inc."
+        },
+        {
+            "question": "Where is Trinity Industries headquartered?",
+            "answer": "Trinity Industries is headquartered in Dallas, Texas, USA."
+        },
+        {
+            "question": "What are some of Trinity's main products?",
+            "answer": "Trinity's main products include freight cars, tank cars, railcar leasing services, and wind towers."
+        },
+        {
+            "question": "When was Trinity Industries founded?",
+            "answer": "Trinity Industries was founded in 1933."
+        }
+    ],
+    "competitors": [
+        "WAB",
+        "GE",
+        "HII",
+        "BNSF"
+    ],
+    "related_stocks": [
+        "CAT",
+        "DE",
+        "MMM",
+        "LMT"
+    ]
+}

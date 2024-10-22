@@ -1,0 +1,88 @@
+{
+    "ticker": "WMG",
+    "name": "Warner Music Group Corp.",
+    "description": "Warner Music Group Corp. is a global music entertainment company that is home to a diverse array of artists and music genres. Founded in 1958, WMG has grown to become one of the three major record labels in the world, alongside Universal Music Group and Sony Music Entertainment. The company is known for its extensive catalog of recordings and publishing rights, representing some of the most iconic artists and bands across various musical styles, including pop, rock, hip-hop, and classical. WMG operates through several divisions, including Warner Records, Atlantic Records, and Elektra Records, delivering music to fans through both traditional and digital channels. The company's commitment to innovation is evident in its embrace of technology, such as streaming services and social media platforms, which have transformed the way music is consumed today. Warner Music Group is dedicated to empowering artists and fostering creativity, providing them with the resources and support needed to thrive in the ever-evolving music industry. With a focus on artist development and a passion for music, WMG continues to play a pivotal role in shaping the future of music entertainment.",
+    "industry": [
+        "Music",
+        "Entertainment"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1958",
+    "website": "https://www.wmg.com",
+    "ceo": "Stephen Cooper",
+    "social_media": {
+        "twitter": "https://twitter.com/warnermusic",
+        "linkedin": "https://www.linkedin.com/company/warner-music-group/"
+    },
+    "investor_relations": "https://investors.wmg.com",
+    "key_executives": [
+        {
+            "name": "Stephen Cooper",
+            "position": "CEO"
+        },
+        {
+            "name": "Eric Levin",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Music Recording",
+            "products": [
+                "Albums",
+                "Singles",
+                "Music Videos"
+            ]
+        },
+        {
+            "category": "Music Publishing",
+            "products": [
+                "Song Catalog",
+                "Licensing Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Warner Music Group | Global Music Entertainment",
+        "meta_description": "Discover Warner Music Group, a leading global music entertainment company representing iconic artists and delivering music worldwide.",
+        "keywords": [
+            "Warner Music Group",
+            "Music Entertainment",
+            "Record Label",
+            "Artists",
+            "Music Publishing"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is Warner Music Group known for?",
+            "answer": "Warner Music Group is known for being one of the largest music entertainment companies globally, representing a diverse roster of artists."
+        },
+        {
+            "question": "Who is the CEO of Warner Music Group?",
+            "answer": "Stephen Cooper is the CEO of Warner Music Group."
+        },
+        {
+            "question": "Where is Warner Music Group headquartered?",
+            "answer": "Warner Music Group is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Warner Music Group's main products?",
+            "answer": "WMG's main products include music recordings, albums, singles, music videos, and music publishing services."
+        },
+        {
+            "question": "When was Warner Music Group founded?",
+            "answer": "Warner Music Group was founded in 1958."
+        }
+    ],
+    "competitors": [
+        "UMG",
+        "SONY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "AMZN",
+        "MSFT"
+    ]
+}

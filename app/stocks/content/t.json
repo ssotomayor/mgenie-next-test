@@ -1,0 +1,94 @@
+{
+    "ticker": "T",
+    "name": "AT&T Inc.",
+    "description": "AT&T Inc. is a global leader in telecommunications, media, and technology, providing a wide range of services and solutions to consumers and businesses. Founded in 1885, AT&T has evolved from a traditional telephone company into a diversified communications powerhouse. The company operates in three primary segments: Communications, WarnerMedia, and Latin America. AT&T's Communications segment offers mobile and fixed telephone services, broadband internet, and digital television services under the DirecTV brand. WarnerMedia, a subsidiary of AT&T, encompasses a vast portfolio of media and entertainment assets, including CNN, HBO, Warner Bros., and Turner Broadcasting, delivering premium content to audiences worldwide. Additionally, AT&T is heavily invested in advancing 5G technology, aiming to enhance connectivity and digital experiences for customers. The company places a strong emphasis on innovation and customer service, striving to meet the growing demand for seamless communication and entertainment solutions. With a commitment to corporate responsibility, AT&T actively participates in initiatives aimed at enhancing education, improving community well-being, and protecting the environment. AT&T's vision is to connect people with their world, providing them with the tools they need to thrive in an increasingly interconnected landscape.",
+    "industry": [
+        "Telecommunications",
+        "Media",
+        "Technology"
+    ],
+    "headquarters": "Dallas, Texas, USA",
+    "founded": "1885",
+    "website": "https://www.att.com",
+    "ceo": "John Stankey",
+    "social_media": {
+        "twitter": "https://twitter.com/ATT",
+        "linkedin": "https://www.linkedin.com/company/att"
+    },
+    "investor_relations": "https://investors.att.com",
+    "key_executives": [
+        {
+            "name": "John Stankey",
+            "position": "CEO"
+        },
+        {
+            "name": "Pasquale Romano",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Telecommunications",
+            "products": [
+                "Wireless Services",
+                "Broadband Internet",
+                "Digital TV"
+            ]
+        },
+        {
+            "category": "Media & Entertainment",
+            "products": [
+                "HBO",
+                "Warner Bros.",
+                "CNN"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "AT&T Inc. | Leading Telecommunications and Media Company",
+        "meta_description": "Explore AT&T Inc., a global leader in telecommunications, media, and technology. Discover our services, commitment to innovation, and community impact.",
+        "keywords": [
+            "AT&T",
+            "Telecommunications",
+            "Media",
+            "5G Technology",
+            "Wireless Services",
+            "HBO",
+            "Broadband Internet"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does AT&T provide?",
+            "answer": "AT&T provides telecommunications services, including wireless, broadband internet, and digital television."
+        },
+        {
+            "question": "Who is the CEO of AT&T?",
+            "answer": "John Stankey is the CEO of AT&T Inc."
+        },
+        {
+            "question": "Where is AT&T headquartered?",
+            "answer": "AT&T is headquartered in Dallas, Texas, USA."
+        },
+        {
+            "question": "What is WarnerMedia?",
+            "answer": "WarnerMedia is a subsidiary of AT&T that includes brands like HBO, Warner Bros., and CNN."
+        },
+        {
+            "question": "When was AT&T founded?",
+            "answer": "AT&T was founded in 1885."
+        }
+    ],
+    "competitors": [
+        "VZ",
+        "TMUS",
+        "NFLX",
+        "CMCSA"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "GOOGL",
+        "MSFT",
+        "DIS"
+    ]
+}

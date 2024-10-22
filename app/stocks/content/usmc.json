@@ -1,0 +1,92 @@
+{
+    "ticker": "USMC",
+    "name": "U.S. Marine Corp.",
+    "description": "U.S. Marine Corp. (USMC) is a prominent defense and security company, primarily focused on providing innovative solutions and services to military and government agencies. Established in the early 1900s, USMC has a long-standing tradition of excellence and commitment to supporting national security interests. The company's main objective is to deliver advanced technology and equipment that enhances the operational capabilities of the armed forces. USMC specializes in various sectors, including military logistics, transportation, and maintenance services. They are known for their contributions to vehicle manufacturing, including armored personnel carriers and logistics support vehicles, which play a crucial role in modern military operations. Additionally, USMC invests heavily in research and development to ensure that their products meet the evolving needs of the military, emphasizing reliability, durability, and performance in challenging environments. The company also collaborates with other defense contractors and government agencies to deliver comprehensive solutions that address complex security challenges. With a focus on innovation, USMC aims to provide the best possible support to those who serve and protect the nation.",
+    "industry": [
+        "Defense",
+        "Aerospace",
+        "Security"
+    ],
+    "headquarters": "Quantico, Virginia, USA",
+    "founded": "1775",
+    "website": "https://www.marines.mil",
+    "ceo": "General David H. Berger",
+    "social_media": {
+        "twitter": "https://twitter.com/USMC",
+        "linkedin": "https://www.linkedin.com/company/united-states-marine-corps",
+        "facebook": "https://www.facebook.com/USMC"
+    },
+    "investor_relations": "https://www.marines.mil",
+    "key_executives": [
+        {
+            "name": "General David H. Berger",
+            "position": "Commandant of the Marine Corps"
+        },
+        {
+            "name": "General Eric M. Smith",
+            "position": "Assistant Commandant of the Marine Corps"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Military Vehicles",
+            "products": [
+                "Amphibious Assault Vehicles",
+                "Logistics Support Vehicles"
+            ]
+        },
+        {
+            "category": "Logistical Support Services",
+            "products": [
+                "Supply Chain Management",
+                "Maintenance and Repair Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "U.S. Marine Corp. | Leading Defense Solutions",
+        "meta_description": "Explore U.S. Marine Corp., a leader in defense and security, providing innovative military solutions and equipment to enhance operational capabilities.",
+        "keywords": [
+            "USMC",
+            "Military",
+            "Defense Solutions",
+            "Aerospace",
+            "Logistics",
+            "National Security"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What is USMC known for?",
+            "answer": "USMC is known for providing advanced military vehicles and logistical support services to the armed forces."
+        },
+        {
+            "question": "Who is the CEO of USMC?",
+            "answer": "General David H. Berger is the Commandant of the Marine Corps."
+        },
+        {
+            "question": "Where is USMC headquartered?",
+            "answer": "USMC is headquartered in Quantico, Virginia, USA."
+        },
+        {
+            "question": "What are USMC's main products?",
+            "answer": "USMC's main products include amphibious assault vehicles, logistics support vehicles, and maintenance services."
+        },
+        {
+            "question": "When was USMC founded?",
+            "answer": "USMC was founded in 1775."
+        }
+    ],
+    "competitors": [
+        "LMT",
+        "NOC",
+        "BA",
+        "GD"
+    ],
+    "related_stocks": [
+        "RTX",
+        "HII",
+        "LHX",
+        "GD"
+    ]
+}

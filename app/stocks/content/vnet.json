@@ -1,0 +1,87 @@
+{
+    "ticker": "VNET",
+    "name": "VNET Group, Inc.",
+    "description": "VNET Group, Inc. is a leading provider of internet data center services in China, offering a comprehensive range of cloud computing and hosting solutions to businesses of all sizes. Founded in 1999, VNET has built a robust infrastructure that includes advanced data centers across major cities in China, enabling clients to leverage cutting-edge technology for their online operations. The company's services include dedicated hosting, cloud hosting, colocation, and managed services, all designed to enhance the performance, security, and scalability of clients' digital assets. VNET is committed to delivering high-quality service with a focus on innovation and customer satisfaction. The company continually invests in expanding its data center facilities and enhancing its service offerings to meet the growing demands of the digital economy. VNET's mission is to empower businesses through reliable and efficient IT solutions that facilitate their digital transformation journeys, ultimately supporting their growth in a competitive market.",
+    "industry": [
+        "Cloud Computing",
+        "Data Center Services",
+        "Internet Services"
+    ],
+    "headquarters": "Beijing, China",
+    "founded": "1999",
+    "website": "https://www.vnet.cn",
+    "ceo": "Yonghua (Frank) Zhang",
+    "social_media": {
+        "linkedin": "https://www.linkedin.com/company/vnet-group/"
+    },
+    "investor_relations": "https://ir.vnet.cn",
+    "key_executives": [
+        {
+            "name": "Yonghua (Frank) Zhang",
+            "position": "CEO"
+        },
+        {
+            "name": "Yong Qi",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Cloud Services",
+            "products": [
+                "Public Cloud",
+                "Private Cloud",
+                "Hybrid Cloud"
+            ]
+        },
+        {
+            "category": "Data Center Services",
+            "products": [
+                "Colocation",
+                "Dedicated Hosting",
+                "Managed Services"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "VNET Group, Inc. | Leading Internet Data Center Services in China",
+        "meta_description": "Explore VNET Group, Inc., a top provider of internet data center and cloud services in China. Discover how VNET empowers businesses with innovative IT solutions.",
+        "keywords": [
+            "VNET",
+            "Cloud Computing",
+            "Data Center Services",
+            "Internet Services",
+            "Colocation",
+            "Dedicated Hosting"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What services does VNET offer?",
+            "answer": "VNET offers cloud services, data center services, dedicated hosting, colocation, and managed services."
+        },
+        {
+            "question": "Who is the CEO of VNET?",
+            "answer": "Yonghua (Frank) Zhang is the CEO of VNET Group, Inc."
+        },
+        {
+            "question": "Where is VNET headquartered?",
+            "answer": "VNET is headquartered in Beijing, China."
+        },
+        {
+            "question": "When was VNET founded?",
+            "answer": "VNET was founded in 1999."
+        }
+    ],
+    "competitors": [
+        "NTES",
+        "BABA",
+        "TCEHY"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "GOOGL",
+        "AMZN"
+    ]
+}

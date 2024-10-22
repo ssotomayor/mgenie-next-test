@@ -1,0 +1,95 @@
+{
+    "ticker": "TRU",
+    "name": "TransUnion",
+    "description": "TransUnion is a leading global information and insights company that empowers businesses and consumers to make informed decisions. Founded in 1968, TransUnion has evolved from a credit reporting agency into a comprehensive data solutions provider. The company provides a wide array of products and services that leverage its extensive database, including credit reports, risk management tools, and identity verification solutions. TransUnion serves a diverse clientele across various industries, including financial services, healthcare, retail, and telecommunications, helping them to understand and manage consumer behavior, mitigate risk, and drive growth. With a strong commitment to data security and consumer empowerment, TransUnion also offers services that help individuals understand their credit standing, monitor their credit reports, and protect against identity theft. The company's innovative solutions harness advanced analytics, machine learning, and artificial intelligence, enabling clients to gain deeper insights from data and enhance their decision-making processes. TransUnion's mission is to provide businesses with the data they need to grow and consumers with the tools they need to achieve their financial goals.",
+    "industry": [
+        "Information Services",
+        "Data Analytics"
+    ],
+    "headquarters": "Chicago, Illinois, USA",
+    "founded": "1968",
+    "website": "https://www.transunion.com",
+    "ceo": "Chris Cartwright",
+    "social_media": {
+        "twitter": "https://twitter.com/TransUnion",
+        "linkedin": "https://www.linkedin.com/company/transunion/"
+    },
+    "investor_relations": "https://investors.transunion.com",
+    "key_executives": [
+        {
+            "name": "Chris Cartwright",
+            "position": "CEO"
+        },
+        {
+            "name": "Matt Schwartz",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Credit Reports",
+            "products": [
+                "Consumer Credit Reports",
+                "Business Credit Reports"
+            ]
+        },
+        {
+            "category": "Risk Management",
+            "products": [
+                "Fraud Detection",
+                "Identity Verification"
+            ]
+        },
+        {
+            "category": "Analytics Solutions",
+            "products": [
+                "Data Analytics",
+                "Machine Learning Models"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "TransUnion | Empowering Trust in a Digital World",
+        "meta_description": "TransUnion is a global leader in information and insights, providing businesses and consumers with the tools they need for informed decision-making.",
+        "keywords": [
+            "TransUnion",
+            "Credit Reporting",
+            "Data Solutions",
+            "Identity Verification",
+            "Risk Management"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does TransUnion do?",
+            "answer": "TransUnion provides credit reports, risk management solutions, and data analytics to businesses and consumers."
+        },
+        {
+            "question": "Who is the CEO of TransUnion?",
+            "answer": "Chris Cartwright is the CEO of TransUnion."
+        },
+        {
+            "question": "Where is TransUnion headquartered?",
+            "answer": "TransUnion is headquartered in Chicago, Illinois, USA."
+        },
+        {
+            "question": "What products does TransUnion offer?",
+            "answer": "TransUnion offers credit reports, fraud detection services, identity verification solutions, and data analytics."
+        },
+        {
+            "question": "When was TransUnion founded?",
+            "answer": "TransUnion was founded in 1968."
+        }
+    ],
+    "competitors": [
+        "EQH",
+        "CRL",
+        "FICO"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "V",
+        "MA"
+    ]
+}

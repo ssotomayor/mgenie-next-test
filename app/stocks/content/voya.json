@@ -1,0 +1,98 @@
+{
+    "ticker": "VOYA",
+    "name": "Voya Financial, Inc.",
+    "description": "Voya Financial, Inc. is a leading health, retirement, and investment company that provides a broad range of financial services to individuals and institutions. Founded in 1975 and headquartered in New York City, Voya aims to help its clients achieve their financial goals through retirement and investment solutions while promoting a healthier financial future. The company operates through various segments, including Retirement, Investment Management, and Employee Benefits. Voya is recognized for its commitment to sustainability and has made significant strides in integrating environmental, social, and governance (ESG) considerations into its business practices. With a focus on enhancing the financial well-being of its clients, Voya offers services such as retirement planning, asset management, and insurance products. The company\u2019s mission is to inspire a secure financial future for all, driven by innovation and a customer-centric approach. Voya is also dedicated to advancing the financial literacy of its clients and community, ensuring they have the resources and knowledge necessary to make informed financial decisions.",
+    "industry": [
+        "Financial Services",
+        "Insurance",
+        "Investment Management"
+    ],
+    "headquarters": "New York City, New York, USA",
+    "founded": "1975",
+    "website": "https://www.voya.com",
+    "ceo": "Rodney O. Martin Jr.",
+    "social_media": {
+        "twitter": "https://twitter.com/VoyaFinancial",
+        "linkedin": "https://www.linkedin.com/company/voya-financial/"
+    },
+    "investor_relations": "https://investors.voya.com",
+    "key_executives": [
+        {
+            "name": "Rodney O. Martin Jr.",
+            "position": "CEO"
+        },
+        {
+            "name": "Michael A. O'Rourke",
+            "position": "CFO"
+        }
+    ],
+    "product_categories": [
+        {
+            "category": "Retirement Solutions",
+            "products": [
+                "401(k) Plans",
+                "IRA Accounts",
+                "Pension Plans"
+            ]
+        },
+        {
+            "category": "Investment Management",
+            "products": [
+                "Mutual Funds",
+                "Managed Accounts"
+            ]
+        },
+        {
+            "category": "Insurance Products",
+            "products": [
+                "Life Insurance",
+                "Disability Insurance"
+            ]
+        }
+    ],
+    "seo": {
+        "meta_title": "Voya Financial, Inc. | Retirement and Investment Solutions",
+        "meta_description": "Explore Voya Financial, Inc., a leader in retirement, investment, and insurance solutions. Learn about Voya's services, commitment to sustainability, and financial empowerment.",
+        "keywords": [
+            "Voya Financial",
+            "Retirement Solutions",
+            "Investment Management",
+            "Insurance Products",
+            "Financial Services"
+        ]
+    },
+    "faq": [
+        {
+            "question": "What does Voya Financial do?",
+            "answer": "Voya Financial provides retirement, investment, and insurance solutions to individuals and institutions."
+        },
+        {
+            "question": "Who is the CEO of Voya Financial?",
+            "answer": "Rodney O. Martin Jr. is the CEO of Voya Financial, Inc."
+        },
+        {
+            "question": "Where is Voya Financial headquartered?",
+            "answer": "Voya Financial is headquartered in New York City, New York, USA."
+        },
+        {
+            "question": "What are Voya's main products?",
+            "answer": "Voya's main products include retirement plans, mutual funds, and life insurance."
+        },
+        {
+            "question": "When was Voya Financial founded?",
+            "answer": "Voya Financial was founded in 1975."
+        }
+    ],
+    "competitors": [
+        "PRU",
+        "MET",
+        "AXP",
+        "TROW"
+    ],
+    "related_stocks": [
+        "AAPL",
+        "MSFT",
+        "AMGN",
+        "JNJ"
+    ]
+}
