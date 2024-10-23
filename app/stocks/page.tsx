@@ -8,7 +8,7 @@ const getAllStocks = () => {
   const contentDir = path.join(process.cwd(), "app", "stocks", "content");
   const files = fs.readdirSync(contentDir);
 
-  const stocks = files.map((file) => {
+  const stocks = files.slice(0, 50).map((file) => {
     const filePath = path.join(contentDir, file);
     const fileContent = fs.readFileSync(filePath, "utf-8");
     return JSON.parse(fileContent);

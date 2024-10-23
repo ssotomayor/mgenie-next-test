@@ -59,9 +59,11 @@ export async function generateMetadata({ params }) {
 export async function generateStaticParams() {
   const contentDir = path.join(process.cwd(), "app", "stocks", "content");
   const files = fs.readdirSync(contentDir);
-  const paths = files.map((file) => ({
-    ticker: file.replace(".json", ""),
-  }));
+  const paths = files
+    .filter((file) => file.startsWith("a"))
+    .map((file) => ({
+      ticker: file.replace(".json", ""),
+    }));
 
   return paths;
 }
